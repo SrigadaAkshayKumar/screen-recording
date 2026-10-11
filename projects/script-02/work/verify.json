@@ -1,11 +1,11 @@
 {
-  "file": "C:\\freelance\\screencast-editor\\projects\\script-02\\output\\final.mp4",
+  "file": "/home/runner/work/screen-recording/screen-recording/projects/script-02/output/final.mp4",
   "ok": true,
   "checks": [
     {
       "name": "duration",
       "ok": true,
-      "detail": "79.267s vs voiceover 79.273s"
+      "detail": "81.270s vs voiceover 81.319s"
     },
     {
       "name": "streams",
@@ -20,12 +20,12 @@
     {
       "name": "frozen spans",
       "ok": true,
-      "detail": "4 freeze(s) over 3s, all planned holds/stills"
+      "detail": "1 freeze(s) over 3s, all planned holds/stills"
     },
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "33 boundaries clean"
+      "detail": "52 boundaries clean"
     }
   ],
   "zoom_frames": []

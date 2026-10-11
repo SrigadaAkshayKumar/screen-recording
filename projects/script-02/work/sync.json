@@ -1,78 +1,186 @@
 {
-  "anchors": [
-    {
-      "action": "A2",
-      "line": 2,
-      "word": "Uploads"
-    },
-    {
-      "action": "A3",
-      "line": 2,
-      "word": "Files"
-    },
-    {
-      "action": "A4",
-      "line": 3,
-      "word": "folder"
-    },
-    {
-      "action": "A6",
-      "line": 4,
-      "word": "clicking"
-    },
-    {
-      "action": "A7",
-      "line": 4,
-      "word": "one",
-      "lead": 0.1
-    },
-    {
-      "action": "A8",
-      "line": 7,
-      "word": "A"
-    },
-    {
-      "action": "A9",
-      "line": 8,
-      "word": "Open"
-    },
-    {
-      "action": "A14",
-      "line": 11,
-      "word": "images"
-    },
-    {
-      "action": "A16",
-      "line": 11,
-      "word": "categories"
-    },
-    {
-      "action": "A20",
-      "line": 16,
-      "word": "upload"
-    },
-    {
-      "action": "A23",
-      "line": 17,
-      "word": "upload"
-    },
-    {
-      "action": "A25",
-      "line": 18,
-      "word": "spot"
-    }
-  ],
-  "zooms": [],
-  "no_ripple": [
-    "A22"
-  ],
-  "cuts": [],
-  "use_junk": true,
-  "hold_at": {},
-  "src_start": 0.0,
-  "src_end": 163.9,
-  "ff_max": 2.0,
-  "style": {
-    "ripple_color": "#2F80ED"
+ "src_start": 6.9,
+ "src_end": 287.4,
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "Open"
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "slide"
+  },
+  {
+   "action": "A3",
+   "line": 3,
+   "word": "Open"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "Charts"
+  },
+  {
+   "action": "A5",
+   "line": 5,
+   "word": "bar"
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "Edit"
+  },
+  {
+   "action": "A7",
+   "line": 6,
+   "word": "three"
+  },
+  {
+   "action": "A8",
+   "line": 7,
+   "word": "colours"
+  },
+  {
+   "action": "A9",
+   "line": 7,
+   "word": "motion"
+  },
+  {
+   "action": "A10",
+   "line": 9,
+   "word": "Animate"
+  },
+  {
+   "action": "A11",
+   "line": 10,
+   "word": "animation"
+  },
+  {
+   "action": "A12",
+   "line": 12,
+   "word": "controls"
+  },
+  {
+   "action": "A19",
+   "line": 14,
+   "word": "chart",
+   "src_from": 188.4,
+   "prev_until": 153.0
+  },
+  {
+   "action": "A14",
+   "line": 15,
+   "word": "Download",
+   "src_from": 166.6,
+   "prev_until": 191.2
+  },
+  {
+   "action": "A15",
+   "line": 15,
+   "word": "PNG"
+  },
+  {
+   "action": "A17",
+   "line": 15,
+   "word": "upload",
+   "src_from": 176.2,
+   "prev_until": 172.8
+  },
+  {
+   "action": "A20",
+   "line": 15,
+   "word": "animate",
+   "src_from": 196.6,
+   "prev_until": 179.5
+  },
+  {
+   "action": "A21",
+   "line": 16,
+   "word": "original",
+   "src_from": 254.0,
+   "prev_until": 201.4
+  },
+  {
+   "action": "A22",
+   "line": 20,
+   "word": "Preview",
+   "src_from": 201.5,
+   "prev_until": 256.5
+  },
+  {
+   "action": "A23",
+   "line": 21,
+   "word": "To",
+   "src_from": 276.2,
+   "prev_until": 267.5
+  },
+  {
+   "action": "A24",
+   "line": 21,
+   "word": "download"
+  },
+  {
+   "action": "A25",
+   "line": 21,
+   "word": "MP4"
   }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20",
+  "A21",
+  "A22",
+  "A23",
+  "A24",
+  "A25"
+ ],
+ "cuts": [
+  {
+   "src_start": 47.5,
+   "src_end": 56.6,
+   "reason": "hovering over the chart bars ('select it'); too long for the narration",
+   "xfade": true
+  },
+  {
+   "src_start": 116.0,
+   "src_end": 131.8,
+   "reason": "cursor browses the animation tiles before choosing",
+   "ff": true
+  },
+  {
+   "src_start": 236.0,
+   "src_end": 253.8,
+   "reason": "redundant animation tries / page switching",
+   "xfade": true
+  },
+  {
+   "src_start": 256.6,
+   "src_end": 262.4,
+   "reason": "clicking between pages, waiting",
+   "xfade": true
+  }
+ ],
+ "ff_max": 2.2,
+ "use_junk": true
 }
