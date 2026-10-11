@@ -1,0 +1,185 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 168.633
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 15.4,
+   "x": 1217,
+   "y": 349,
+   "kind": "click",
+   "target": "Uploads sidebar tab",
+   "result": "Uploads panel opens",
+   "t_result_visible": 15.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 17.3,
+   "x": 910,
+   "y": 330,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "Windows file dialog opens",
+   "t_result_visible": 17.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 18.9,
+   "x": 520,
+   "y": 300,
+   "kind": "click",
+   "target": "yellow tractor SVG file",
+   "result": "file name filled in",
+   "t_result_visible": 19.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 20.0,
+   "x": 1030,
+   "y": 566,
+   "kind": "click",
+   "target": "Open button",
+   "result": "dialog closes, file uploads",
+   "t_result_visible": 21.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 33.65,
+   "x": 1150,
+   "y": 330,
+   "kind": "click",
+   "target": "tractor thumbnail",
+   "result": "SVG placed on the page",
+   "t_result_visible": 35.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 37.2,
+   "x": 1300,
+   "y": 650,
+   "kind": "drag",
+   "x2": 1480,
+   "y2": 770,
+   "t_end": 40.4,
+   "target": "corner handle",
+   "result": "graphic resized larger",
+   "t_result_visible": 40.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 82.85,
+   "x": 1440,
+   "y": 298,
+   "kind": "click",
+   "target": "orange colour swatch in toolbar",
+   "result": "Colour panel opens",
+   "t_result_visible": 83.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 131.7,
+   "x": 1290,
+   "y": 85,
+   "kind": "click",
+   "target": "Upload files button (second upload)",
+   "result": "file dialog opens",
+   "t_result_visible": 132.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 133.1,
+   "x": 500,
+   "y": 300,
+   "kind": "click",
+   "target": "SVG file in dialog",
+   "result": "file name filled in",
+   "t_result_visible": 133.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 135.4,
+   "x": 1355,
+   "y": 345,
+   "kind": "click",
+   "target": "Open button",
+   "result": "dialog closes",
+   "t_result_visible": 136.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 148.3,
+   "x": 1305,
+   "y": 375,
+   "kind": "drag",
+   "x2": 1330,
+   "y2": 380,
+   "t_end": 149.8,
+   "target": "corner handle",
+   "result": "graphic resized",
+   "t_result_visible": 150.0,
+   "confidence": "low"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0.0,
+   "end": 4.6,
+   "reason": "start: taskbar flash, no action",
+   "ff": false
+  },
+  {
+   "start": 7.5,
+   "end": 11.8,
+   "reason": "idle cursor before the Uploads step",
+   "ff": true
+  },
+  {
+   "start": 23.0,
+   "end": 32.5,
+   "reason": "idle while thumbnail sits in panel",
+   "ff": true
+  },
+  {
+   "start": 41.5,
+   "end": 55.0,
+   "reason": "idle after resize",
+   "ff": true
+  },
+  {
+   "start": 116.2,
+   "end": 129.0,
+   "reason": "idle cursor after colour edits",
+   "ff": true
+  },
+  {
+   "start": 137.5,
+   "end": 146.0,
+   "reason": "idle after second upload",
+   "ff": true
+  },
+  {
+   "start": 150.6,
+   "end": 168.633,
+   "reason": "Share/Download dialogs then desktop: never narrated",
+   "ff": false
+  }
+ ]
+}

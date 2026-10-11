@@ -1,0 +1,32 @@
+{
+  "file": "/home/runner/work/screen-recording/screen-recording/projects/script-10/output/final.mp4",
+  "ok": true,
+  "checks": [
+    {
+      "name": "duration",
+      "ok": true,
+      "detail": "84.613s vs voiceover 84.663s"
+    },
+    {
+      "name": "streams",
+      "ok": true,
+      "detail": "1 video, 1 audio"
+    },
+    {
+      "name": "resolution",
+      "ok": true,
+      "detail": "1920x1080 (expected 1920x1080)"
+    },
+    {
+      "name": "frozen spans",
+      "ok": true,
+      "detail": "3 freeze(s) over 3s, all planned holds/stills; static in the source too (not caused by the edit): 25.10-32.17, 43.33-51.30, 60.53-73.63"
+    },
+    {
+      "name": "black frames at joins",
+      "ok": true,
+      "detail": "26 boundaries clean"
+    }
+  ],
+  "zoom_frames": []
+}

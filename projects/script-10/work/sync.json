@@ -1,0 +1,78 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "Uploads"
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "Files"
+  },
+  {
+   "action": "A3",
+   "line": 3,
+   "word": "file"
+  },
+  {
+   "action": "A4",
+   "line": 3,
+   "word": "Open"
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "click"
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "Drag"
+  },
+  {
+   "action": "A7",
+   "line": 8,
+   "word": "swatch",
+   "src_from": 79.0,
+   "prev_until": 55.0
+  },
+  {
+   "action": "A8",
+   "line": 16,
+   "word": "Upload"
+  },
+  {
+   "action": "A9",
+   "line": 16,
+   "word": "copy"
+  },
+  {
+   "action": "A10",
+   "line": 16,
+   "word": "before"
+  },
+  {
+   "action": "A11",
+   "line": 17,
+   "word": "resize"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11"
+ ],
+ "cuts": [],
+ "ff_max": 2.0,
+ "use_junk": true
+}
