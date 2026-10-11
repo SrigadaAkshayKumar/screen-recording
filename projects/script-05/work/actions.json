@@ -1,0 +1,16 @@
+{
+  "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 139.433},
+  "sync": {"clicks_offset": 0, "source": "frames"},
+  "actions": [
+    {"id": "A1", "t_click": 21.5, "x": 134, "y": 552, "kind": "click", "target": "Uploads sidebar tab", "result": "Upload options panel opens", "t_result_visible": 22.5, "confidence": "medium"},
+    {"id": "A2", "t_click": 25.3, "x": 416, "y": 468, "kind": "click", "target": "Upload files button", "result": "file picker opens", "t_result_visible": 26.0, "confidence": "medium"},
+    {"id": "A3", "t_click": 28.1, "x": 312, "y": 298, "kind": "click", "target": "first file in the file list", "result": "file highlighted", "t_result_visible": 28.3, "confidence": "low"},
+    {"id": "A4", "t_click": 29.35, "x": 500, "y": 330, "kind": "type", "text": "Ctrl+A", "target": "file list", "result": "all files selected", "t_result_visible": 29.5, "confidence": "medium"},
+    {"id": "A5", "t_click": 36.2, "x": 970, "y": 562, "kind": "click", "target": "Open button", "result": "dialog closes, uploads appear in the panel", "t_result_visible": 37.0, "confidence": "medium"},
+    {"id": "A6", "t_click": 49.7, "x": 984, "y": 504, "kind": "drag", "x2": 422, "y2": 672, "t_end": 51.5, "target": "selected thumbnails", "result": "dropped on the Uploads panel", "t_result_visible": 52.0, "confidence": "medium"},
+    {"id": "A7", "t_click": 59.0, "x": 320, "y": 790, "kind": "click", "target": "uploaded image thumbnail", "result": "image placed on the page", "t_result_visible": 60.4, "confidence": "low"}
+  ],
+  "junk": [
+    {"start": 66.0, "end": 139.433, "reason": "after the narrated steps: second upload round, new pages, desktop; narration never covers it"}
+  ]
+}
