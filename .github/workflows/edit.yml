@@ -125,8 +125,11 @@ jobs:
           test -d "projects/$P/work" || exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A "projects/$P/work"
+          git add -A "projects/$P/work" docs/lessons.md   # the edit skill may add a lesson
           git diff --cached --quiet && exit 0
           git commit -m "cloud: work files for $P"
-          for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done
+          for i in 1 2 3; do
+            git pull --rebase --autostash -q && git push -q && exit 0
+            git rebase --abort 2>/dev/null || true; sleep 5
+          done
           echo "::warning::could not push work files for $P (they are also in Drive output/$P/work)"
