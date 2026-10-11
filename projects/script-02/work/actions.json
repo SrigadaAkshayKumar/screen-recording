@@ -1,0 +1,302 @@
+{
+  "recording": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "duration": 183.2
+  },
+  "sync": {
+    "clicks_offset": null,
+    "source": "frames"
+  },
+  "actions": [
+    {
+      "id": "A1",
+      "t_click": 15.7,
+      "x": 118,
+      "y": 342,
+      "kind": "click",
+      "target": "Create button",
+      "result": "Create a design menu opens",
+      "t_result_visible": 16.5,
+      "confidence": "medium"
+    },
+    {
+      "id": "A2",
+      "t_click": 18.2,
+      "x": 312,
+      "y": 792,
+      "kind": "click",
+      "target": "Upload in the Create a design list",
+      "result": "Upload panel with Upload files / Upload folder",
+      "t_result_visible": 18.5,
+      "confidence": "high"
+    },
+    {
+      "id": "A3",
+      "t_click": 27.3,
+      "x": 1044,
+      "y": 694,
+      "kind": "click",
+      "target": "Upload files button",
+      "result": "Windows file picker opens (Downloads)",
+      "t_result_visible": 28.3,
+      "confidence": "medium"
+    },
+    {
+      "id": "A4",
+      "t_click": 35.3,
+      "x": 960,
+      "y": 408,
+      "kind": "click",
+      "target": "voiceovers folder in the file picker (double-click)",
+      "result": "folder opens: script-01 ... script-06 list",
+      "t_result_visible": 35.6,
+      "confidence": "high"
+    },
+    {
+      "id": "A5",
+      "t_click": 36.0,
+      "x": 746,
+      "y": 288,
+      "kind": "click",
+      "target": "script-01 in the file list",
+      "result": "script-01 selected",
+      "t_result_visible": 36.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A6",
+      "t_click": 46.65,
+      "x": 514,
+      "y": 446,
+      "kind": "click",
+      "target": "script-02 (Ctrl+click)",
+      "result": "script-01 and script-02 selected",
+      "t_result_visible": 46.8,
+      "confidence": "high"
+    },
+    {
+      "id": "A7",
+      "t_click": 47.85,
+      "x": 518,
+      "y": 514,
+      "kind": "click",
+      "target": "script-03 (Ctrl+click)",
+      "result": "three files selected",
+      "t_result_visible": 48.0,
+      "confidence": "high"
+    },
+    {
+      "id": "A8",
+      "t_click": 62.7,
+      "x": 600,
+      "y": 380,
+      "kind": "type",
+      "target": "file list (Ctrl+A)",
+      "result": "every file in the folder selected, File name lists them all",
+      "t_result_visible": 62.8,
+      "confidence": "high",
+      "text": "Ctrl+A"
+    },
+    {
+      "id": "A9",
+      "t_click": 72.0,
+      "x": 756,
+      "y": 564,
+      "kind": "click",
+      "target": "Open button",
+      "result": "picker closes, Canva starts uploading (toast bottom right)",
+      "t_result_visible": 73.4,
+      "confidence": "high"
+    },
+    {
+      "id": "A10",
+      "t_click": 74.97,
+      "x": 1502,
+      "y": 749,
+      "kind": "wait",
+      "target": "Uploading items toast",
+      "result": "progress bars; \"21 items uploaded\" when done",
+      "t_result_visible": 88.2,
+      "confidence": "high"
+    },
+    {
+      "id": "A11",
+      "t_click": 90.7,
+      "x": 1000,
+      "y": 600,
+      "kind": "scroll",
+      "target": "All projects page",
+      "result": "scrolls down to Folders",
+      "t_result_visible": 91.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A12",
+      "t_click": 92.1,
+      "x": 858,
+      "y": 550,
+      "kind": "click",
+      "target": "Uploads folder",
+      "result": "Uploads folder opens with every uploaded file",
+      "t_result_visible": 94.0,
+      "confidence": "medium"
+    },
+    {
+      "id": "A13",
+      "t_click": 98.2,
+      "x": 918,
+      "y": 504,
+      "kind": "click",
+      "target": "Type filter",
+      "result": "Type dropdown opens",
+      "t_result_visible": 98.4,
+      "confidence": "high"
+    },
+    {
+      "id": "A14",
+      "t_click": 106.1,
+      "x": 1066,
+      "y": 533,
+      "kind": "click",
+      "target": "Images in the Type dropdown",
+      "result": "only images are listed",
+      "t_result_visible": 108.0,
+      "confidence": "high"
+    },
+    {
+      "id": "A15",
+      "t_click": 109.3,
+      "x": 950,
+      "y": 350,
+      "kind": "click",
+      "target": "Type filter (Images)",
+      "result": "Type dropdown opens again",
+      "t_result_visible": 110.4,
+      "confidence": "medium"
+    },
+    {
+      "id": "A16",
+      "t_click": 111.3,
+      "x": 1062,
+      "y": 646,
+      "kind": "click",
+      "target": "Videos in the Type dropdown",
+      "result": "only videos are listed",
+      "t_result_visible": 111.7,
+      "confidence": "high"
+    },
+    {
+      "id": "A17",
+      "t_click": 128.1,
+      "x": 350,
+      "y": 317,
+      "kind": "click",
+      "target": "All projects in the sidebar",
+      "result": "All projects page",
+      "t_result_visible": 128.6,
+      "confidence": "medium"
+    },
+    {
+      "id": "A18",
+      "t_click": 130.6,
+      "x": 96,
+      "y": 331,
+      "kind": "click",
+      "target": "Create button",
+      "result": "Create a design menu opens",
+      "t_result_visible": 131.5,
+      "confidence": "medium"
+    },
+    {
+      "id": "A19",
+      "t_click": 132.25,
+      "x": 317,
+      "y": 778,
+      "kind": "click",
+      "target": "Upload in the Create a design list",
+      "result": "Upload panel",
+      "t_result_visible": 132.4,
+      "confidence": "high"
+    },
+    {
+      "id": "A20",
+      "t_click": 134.2,
+      "x": 998,
+      "y": 514,
+      "kind": "click",
+      "target": "Upload files button",
+      "result": "file picker opens in the voiceovers folder",
+      "t_result_visible": 135.4,
+      "confidence": "high"
+    },
+    {
+      "id": "A21",
+      "t_click": 135.9,
+      "x": 523,
+      "y": 446,
+      "kind": "click",
+      "target": "script-02 in the file list",
+      "result": "script-02 selected",
+      "t_result_visible": 136.2,
+      "confidence": "high"
+    },
+    {
+      "id": "A22",
+      "t_click": 136.9,
+      "x": 533,
+      "y": 629,
+      "kind": "click",
+      "target": "script-04 (Ctrl+click)",
+      "result": "script-02 and script-04 selected",
+      "t_result_visible": 137.1,
+      "confidence": "low"
+    },
+    {
+      "id": "A23",
+      "t_click": 144.8,
+      "x": 902,
+      "y": 494,
+      "kind": "click",
+      "target": "Open button",
+      "result": "Uploading 2 items toast",
+      "t_result_visible": 146.3,
+      "confidence": "high"
+    },
+    {
+      "id": "A24",
+      "t_click": 146.33,
+      "x": 1502,
+      "y": 749,
+      "kind": "wait",
+      "target": "Uploading 2 items toast",
+      "result": "\"23 items uploaded\"",
+      "t_result_visible": 150.1,
+      "confidence": "high"
+    },
+    {
+      "id": "A25",
+      "t_click": 162.4,
+      "x": 728,
+      "y": 528,
+      "kind": "click",
+      "target": "Uploads folder",
+      "result": "Uploads folder opens, new files at the top",
+      "t_result_visible": 162.8,
+      "confidence": "medium"
+    }
+  ],
+  "junk": [
+    {
+      "start": 98.7,
+      "end": 105.3,
+      "reason": "tries the Folders and Files filters (no results), reopens the dropdown"
+    },
+    {
+      "start": 163.9,
+      "end": 183.2,
+      "reason": "filters the Uploads folder again (not narrated), then stops the recording on the desktop"
+    }
+  ]
+}

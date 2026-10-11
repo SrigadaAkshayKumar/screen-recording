@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "file": "recording.mp4",
+    "duration": 24.0,
+    "fps": 30.0,
+    "fps_fraction": "30/1",
+    "width": 1280,
+    "height": 720,
+    "codec": "h264",
+    "vfr": false,
+    "has_audio": false,
+    "frames": 720
+  },
+  "voiceover": {
+    "file": "voiceover.mp3",
+    "duration": 27.096,
+    "codec": "mp3",
+    "sample_rate": 22050,
+    "channels": 1
+  },
+  "clicks": {
+    "count": 5,
+    "screen": {
+      "width": 2560,
+      "height": 1440,
+      "dpi_scale": 2.0,
+      "units": "physical pixels"
+    },
+    "platform": "Windows"
+  },
+  "warnings": []
+}

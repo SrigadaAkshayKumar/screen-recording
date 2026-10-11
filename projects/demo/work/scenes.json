@@ -1,0 +1,141 @@
+{
+  "analysis_size": [
+    854,
+    480
+  ],
+  "fps": 30.0,
+  "frames": 720,
+  "params": {
+    "k": 6.0,
+    "min_magnitude": 0.08,
+    "min_area": 0.002,
+    "min_still": 1.5
+  },
+  "events": [
+    {
+      "id": "E1",
+      "t": 3.6,
+      "t_peak": 3.6,
+      "t_end": 3.633,
+      "magnitude": 3.165,
+      "area": 0.019,
+      "bbox": [
+        40,
+        40,
+        843,
+        482
+      ],
+      "long": false
+    },
+    {
+      "id": "E2",
+      "t": 6.567,
+      "t_peak": 6.567,
+      "t_end": 6.6,
+      "magnitude": 1.223,
+      "area": 0.022,
+      "bbox": [
+        419,
+        309,
+        443,
+        182
+      ],
+      "long": false
+    },
+    {
+      "id": "E3",
+      "t": 8.3,
+      "t_peak": 8.3,
+      "t_end": 8.433,
+      "magnitude": 3.409,
+      "area": 0.03,
+      "bbox": [
+        40,
+        40,
+        843,
+        593
+      ],
+      "long": false
+    },
+    {
+      "id": "E4",
+      "t": 16.5,
+      "t_peak": 16.5,
+      "t_end": 16.533,
+      "magnitude": 1.266,
+      "area": 0.026,
+      "bbox": [
+        398,
+        586,
+        483,
+        54
+      ],
+      "long": false
+    },
+    {
+      "id": "E5",
+      "t": 19.1,
+      "t_peak": 19.1,
+      "t_end": 19.133,
+      "magnitude": 3.058,
+      "area": 0.014,
+      "bbox": [
+        239,
+        40,
+        1041,
+        680
+      ],
+      "long": false
+    }
+  ],
+  "minor_events": [],
+  "stills": [
+    {
+      "start": 0.0,
+      "end": 1.733,
+      "activity": 0.0,
+      "frozen": false,
+      "bbox": [
+        76,
+        55,
+        2,
+        3
+      ]
+    },
+    {
+      "start": 9.033,
+      "end": 16.0,
+      "activity": 0.003,
+      "frozen": false,
+      "bbox": [
+        436,
+        619,
+        414,
+        14
+      ]
+    },
+    {
+      "start": 19.633,
+      "end": 24.0,
+      "activity": 0.0,
+      "frozen": true,
+      "bbox": null
+    }
+  ],
+  "clicks_sync": {
+    "offset": -1.243,
+    "method": "ui-change correlation",
+    "matched": 4,
+    "total": 5,
+    "scale": [
+      0.5,
+      0.5
+    ],
+    "region": [
+      0.0,
+      0.0,
+      2560.0,
+      1440.0
+    ]
+  }
+}

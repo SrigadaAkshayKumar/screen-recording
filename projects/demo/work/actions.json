@@ -1,0 +1,12 @@
+{
+  "recording": {"width": 1280, "height": 720, "fps": 30, "duration": 24.0},
+  "sync": {"clicks_offset": -1.243, "source": "clicks.json"},
+  "actions": [
+    {"id": "A1", "t_click": 3.557, "x": 100, "y": 60, "kind": "click", "target": "Upload button", "result": "file picker opens", "t_result_visible": 3.6, "confidence": "high"},
+    {"id": "A2", "t_click": 6.557, "x": 640, "y": 330, "kind": "click", "target": "report.pdf row", "result": "row highlighted, Open enabled", "t_result_visible": 6.567, "confidence": "high"},
+    {"id": "A3", "t_click": 8.257, "x": 760, "y": 470, "kind": "click", "target": "Open button", "result": "dialog closes, upload progress starts", "t_result_visible": 8.3, "confidence": "high"},
+    {"id": "A4", "t_click": 8.3, "x": 640, "y": 626, "kind": "wait", "target": "upload progress bar", "result": "Upload complete banner", "t_result_visible": 16.5, "confidence": "high"},
+    {"id": "A5", "t_click": 19.057, "x": 300, "y": 60, "kind": "click", "target": "Settings button", "result": "settings panel slides in", "t_result_visible": 19.1, "confidence": "high"}
+  ],
+  "junk": []
+}

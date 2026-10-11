@@ -1,0 +1,95 @@
+{
+  "output": "C:\\freelance\\screencast-editor\\projects\\demo\\output\\final.mp4",
+  "preview": false,
+  "range": [
+    0.0,
+    27.1
+  ],
+  "width": 1280,
+  "height": 720,
+  "fps": 30.0,
+  "frames": 813,
+  "elapsed_s": 6.236,
+  "zoom_peaks": [
+    {
+      "out_t": 5.18,
+      "x": 100.0,
+      "y": 60.0,
+      "scale": 1.8
+    },
+    {
+      "out_t": 10.58,
+      "x": 640.0,
+      "y": 330.0,
+      "scale": 1.8
+    },
+    {
+      "out_t": 13.58,
+      "x": 760.0,
+      "y": 470.0,
+      "scale": 1.8
+    },
+    {
+      "out_t": 22.38,
+      "x": 675.0,
+      "y": 155.0,
+      "scale": 1.41
+    }
+  ],
+  "joins": [
+    {
+      "out_t": 1.223,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 4.973,
+      "cut": false,
+      "xfade": false,
+      "into": "hold"
+    },
+    {
+      "out_t": 7.373,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 10.34,
+      "cut": false,
+      "xfade": false,
+      "into": "hold"
+    },
+    {
+      "out_t": 11.64,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 14.923,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
+      "out_t": 16.123,
+      "cut": false,
+      "xfade": false,
+      "into": "hold"
+    },
+    {
+      "out_t": 19.623,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 21.98,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    }
+  ]
+}

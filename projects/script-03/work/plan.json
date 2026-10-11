@@ -1,0 +1,448 @@
+{
+  "output": {
+    "duration": 74.768,
+    "fps": 30.0,
+    "width": 1920,
+    "height": 1080
+  },
+  "segments": [
+    {
+      "mode": "speed",
+      "src_start": 0.0,
+      "src_end": 4.6,
+      "out_start": 0.0,
+      "out_end": 5.78
+    },
+    {
+      "mode": "speed",
+      "src_start": 4.6,
+      "src_end": 7.4,
+      "out_start": 5.78,
+      "out_end": 8.26
+    },
+    {
+      "mode": "speed",
+      "src_start": 7.4,
+      "src_end": 10.1,
+      "out_start": 8.26,
+      "out_end": 10.66
+    },
+    {
+      "mode": "speed",
+      "src_start": 10.1,
+      "src_end": 13.9,
+      "out_start": 10.66,
+      "out_end": 13.16
+    },
+    {
+      "mode": "speed",
+      "src_start": 13.9,
+      "src_end": 15.15,
+      "out_start": 13.16,
+      "out_end": 14.74
+    },
+    {
+      "mode": "speed",
+      "src_start": 15.15,
+      "src_end": 15.75,
+      "out_start": 14.74,
+      "out_end": 15.34
+    },
+    {
+      "mode": "hold",
+      "src_start": 15.75,
+      "src_end": 15.75,
+      "out_start": 15.34,
+      "out_end": 16.79
+    },
+    {
+      "mode": "speed",
+      "src_start": 15.75,
+      "src_end": 18.7,
+      "out_start": 16.79,
+      "out_end": 19.74
+    },
+    {
+      "mode": "speed",
+      "src_start": 18.7,
+      "src_end": 20.367,
+      "out_start": 19.74,
+      "out_end": 20.458
+    },
+    {
+      "mode": "speed",
+      "src_start": 20.367,
+      "src_end": 22.967,
+      "wait": true,
+      "out_start": 20.458,
+      "out_end": 20.786
+    },
+    {
+      "mode": "speed",
+      "src_start": 22.967,
+      "src_end": 24.0,
+      "out_start": 20.786,
+      "out_end": 21.231
+    },
+    {
+      "mode": "speed",
+      "src_start": 24.0,
+      "src_end": 25.533,
+      "wait": true,
+      "out_start": 21.231,
+      "out_end": 21.424
+    },
+    {
+      "mode": "speed",
+      "src_start": 25.533,
+      "src_end": 31.7,
+      "out_start": 21.424,
+      "out_end": 24.08
+    },
+    {
+      "mode": "speed",
+      "src_start": 31.7,
+      "src_end": 37.933,
+      "out_start": 24.08,
+      "out_end": 26.991
+    },
+    {
+      "mode": "speed",
+      "src_start": 37.933,
+      "src_end": 40.133,
+      "wait": true,
+      "out_start": 26.991,
+      "out_end": 27.268
+    },
+    {
+      "mode": "speed",
+      "src_start": 40.133,
+      "src_end": 41.4,
+      "out_start": 27.268,
+      "out_end": 27.86
+    },
+    {
+      "mode": "speed",
+      "src_start": 41.4,
+      "src_end": 41.9,
+      "out_start": 27.86,
+      "out_end": 28.218
+    },
+    {
+      "mode": "speed",
+      "src_start": 49.6,
+      "src_end": 50.3,
+      "xfade": true,
+      "out_start": 28.218,
+      "out_end": 28.72
+    },
+    {
+      "mode": "speed",
+      "src_start": 50.3,
+      "src_end": 52.9,
+      "out_start": 28.72,
+      "out_end": 29.787
+    },
+    {
+      "mode": "speed",
+      "src_start": 57.4,
+      "src_end": 58.6,
+      "xfade": true,
+      "out_start": 29.787,
+      "out_end": 30.28
+    },
+    {
+      "mode": "speed",
+      "src_start": 58.6,
+      "src_end": 60.0,
+      "out_start": 30.28,
+      "out_end": 31.069
+    },
+    {
+      "mode": "speed",
+      "src_start": 121.4,
+      "src_end": 122.2,
+      "xfade": true,
+      "out_start": 31.069,
+      "out_end": 31.52
+    },
+    {
+      "mode": "speed",
+      "src_start": 122.2,
+      "src_end": 128.0,
+      "out_start": 31.52,
+      "out_end": 37.32
+    },
+    {
+      "mode": "speed",
+      "src_start": 78.0,
+      "src_end": 81.967,
+      "xfade": true,
+      "out_start": 37.32,
+      "out_end": 41.287
+    },
+    {
+      "mode": "speed",
+      "src_start": 81.967,
+      "src_end": 100.6,
+      "out_start": 41.287,
+      "out_end": 46.46
+    },
+    {
+      "mode": "speed",
+      "src_start": 100.6,
+      "src_end": 102.6,
+      "out_start": 46.46,
+      "out_end": 48.46
+    },
+    {
+      "mode": "speed",
+      "src_start": 102.6,
+      "src_end": 121.4,
+      "out_start": 48.46,
+      "out_end": 66.388
+    },
+    {
+      "mode": "speed",
+      "src_start": 128.2,
+      "src_end": 130.1,
+      "xfade": true,
+      "out_start": 66.388,
+      "out_end": 68.2
+    },
+    {
+      "mode": "speed",
+      "src_start": 130.1,
+      "src_end": 136.668,
+      "out_start": 68.2,
+      "out_end": 74.768
+    }
+  ],
+  "zooms": [],
+  "ripples": [
+    {
+      "out_t": 5.78,
+      "x": 88,
+      "y": 542,
+      "action": "A1"
+    },
+    {
+      "out_t": 8.26,
+      "x": 749,
+      "y": 254,
+      "action": "A2"
+    },
+    {
+      "out_t": 10.66,
+      "x": 480,
+      "y": 422,
+      "action": "A3"
+    },
+    {
+      "out_t": 12.634,
+      "x": 422,
+      "y": 125,
+      "action": "A4"
+    },
+    {
+      "out_t": 13.16,
+      "x": 437,
+      "y": 629,
+      "action": "A5"
+    },
+    {
+      "out_t": 14.74,
+      "x": 1070,
+      "y": 576,
+      "action": "A6"
+    },
+    {
+      "out_t": 19.74,
+      "x": 989,
+      "y": 355,
+      "action": "A7"
+    },
+    {
+      "out_t": 23.003,
+      "x": 1238,
+      "y": 691,
+      "action": "A8"
+    },
+    {
+      "out_t": 24.08,
+      "x": 206,
+      "y": 322,
+      "action": "A9"
+    },
+    {
+      "out_t": 27.86,
+      "x": 662,
+      "y": 34,
+      "action": "A10"
+    },
+    {
+      "out_t": 28.72,
+      "x": 326,
+      "y": 422,
+      "action": "A11"
+    },
+    {
+      "out_t": 30.28,
+      "x": 614,
+      "y": 645,
+      "action": "A12"
+    },
+    {
+      "out_t": 31.52,
+      "x": 485,
+      "y": 634,
+      "action": "A18"
+    },
+    {
+      "out_t": 38.55,
+      "x": 744,
+      "y": 456,
+      "action": "A13"
+    },
+    {
+      "out_t": 48.46,
+      "x": 1320,
+      "y": 1022,
+      "action": "A14"
+    },
+    {
+      "out_t": 49.795,
+      "x": 197,
+      "y": 422,
+      "action": "A15"
+    },
+    {
+      "out_t": 64.671,
+      "x": 221,
+      "y": 322,
+      "action": "A17"
+    },
+    {
+      "out_t": 67.246,
+      "x": 221,
+      "y": 341,
+      "action": "A19"
+    },
+    {
+      "out_t": 68.2,
+      "x": 485,
+      "y": 739,
+      "action": "A20"
+    }
+  ],
+  "intro": {
+    "mode": "play",
+    "until": 5.78
+  },
+  "outro": null,
+  "sync": [
+    {
+      "action": "A1",
+      "line": 2,
+      "word": "Uploads",
+      "word_index": 20,
+      "word_t": 5.78
+    },
+    {
+      "action": "A2",
+      "line": 3,
+      "word": "menu",
+      "word_index": 27,
+      "word_t": 8.26
+    },
+    {
+      "action": "A3",
+      "line": 3,
+      "word": "Folder.",
+      "word_index": 34,
+      "word_t": 10.66
+    },
+    {
+      "action": "A5",
+      "line": 4,
+      "word": "folder",
+      "word_index": 41,
+      "word_t": 13.16
+    },
+    {
+      "action": "A6",
+      "line": 4,
+      "word": "confirm",
+      "word_index": 47,
+      "word_t": 14.74
+    },
+    {
+      "action": "A7",
+      "line": 5,
+      "word": "confirm",
+      "word_index": 63,
+      "word_t": 19.74
+    },
+    {
+      "action": "A9",
+      "line": 7,
+      "word": "Check",
+      "word_index": 74,
+      "word_t": 24.08
+    },
+    {
+      "action": "A10",
+      "line": 8,
+      "word": "homepage",
+      "word_index": 86,
+      "word_t": 27.86
+    },
+    {
+      "action": "A11",
+      "line": 8,
+      "word": "Projects",
+      "word_index": 89,
+      "word_t": 28.72
+    },
+    {
+      "action": "A12",
+      "line": 8,
+      "word": "folder.",
+      "word_index": 94,
+      "word_t": 30.28
+    },
+    {
+      "action": "A18",
+      "line": 9,
+      "word": "it",
+      "word_index": 96,
+      "word_t": 31.52
+    },
+    {
+      "action": "A14",
+      "line": 14,
+      "word": "uploading",
+      "word_index": 139,
+      "word_t": 48.46
+    },
+    {
+      "action": "A20",
+      "line": 18,
+      "word": "individually",
+      "word_index": 199,
+      "word_t": 68.2
+    }
+  ],
+  "style": {
+    "ripple_color": "#2F80ED"
+  },
+  "notes": [
+    "A10->A11: cut src 41.90-49.60 - too long to fast-forward at <= 2.00x (junk: cursor idles on the homepage before Your projects)",
+    "A11->A12: cut src 52.90-57.40 - too long to fast-forward at <= 2.00x (junk: idle on Your projects, cursor wanders to Date modified)",
+    "A18: after A12 (until src 60.00) jumps ahead to src 121.40 - narration order",
+    "A14: after A18 (until src 128.00) jumps back to src 78.00 - narration order",
+    "A20: after A14 (until src 121.40) jumps ahead to src 128.20 - narration order"
+  ],
+  "generated_by": "tools/plan_builder.py from work/sync.json",
+  "generated_hash": "cb1e3e647646"
+}

@@ -1,0 +1,253 @@
+{
+  "recording": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "duration": 146.6
+  },
+  "sync": {
+    "clicks_offset": null,
+    "source": "frames"
+  },
+  "actions": [
+    {
+      "id": "A1",
+      "t_click": 4.6,
+      "x": 88,
+      "y": 542,
+      "kind": "click",
+      "target": "Uploads in the left sidebar",
+      "result": "Uploads panel (Folders tab)",
+      "t_result_visible": 5.43,
+      "confidence": "medium"
+    },
+    {
+      "id": "A2",
+      "t_click": 7.4,
+      "x": 749,
+      "y": 254,
+      "kind": "click",
+      "target": "menu (...) beside Upload files",
+      "result": "Upload options panel with Upload folder",
+      "t_result_visible": 8.23,
+      "confidence": "medium"
+    },
+    {
+      "id": "A3",
+      "t_click": 10.1,
+      "x": 480,
+      "y": 422,
+      "kind": "click",
+      "target": "Upload folder button",
+      "result": "Select Folder to Upload picker opens",
+      "t_result_visible": 11.0,
+      "confidence": "medium"
+    },
+    {
+      "id": "A4",
+      "t_click": 13.1,
+      "x": 422,
+      "y": 125,
+      "kind": "click",
+      "target": "Downloads in the picker address bar",
+      "result": "picker shows Downloads",
+      "t_result_visible": 13.4,
+      "confidence": "medium"
+    },
+    {
+      "id": "A5",
+      "t_click": 13.9,
+      "x": 437,
+      "y": 629,
+      "kind": "click",
+      "target": "voiceovers-2026-10-07T17-58-23 folder",
+      "result": "folder selected, name in the Folder field",
+      "t_result_visible": 14.03,
+      "confidence": "high"
+    },
+    {
+      "id": "A6",
+      "t_click": 15.15,
+      "x": 1070,
+      "y": 576,
+      "kind": "click",
+      "target": "Upload button in the folder picker",
+      "result": "browser asks \"Upload 21 files to this site?\"",
+      "t_result_visible": 15.6,
+      "confidence": "high"
+    },
+    {
+      "id": "A7",
+      "t_click": 18.7,
+      "x": 989,
+      "y": 355,
+      "kind": "click",
+      "target": "Upload in the browser permission prompt",
+      "result": "prompt closes, upload starts",
+      "t_result_visible": 19.0,
+      "confidence": "medium"
+    },
+    {
+      "id": "A8",
+      "t_click": 29.2,
+      "x": 1238,
+      "y": 691,
+      "kind": "click",
+      "target": "OK, got it (Audio files can't be stored in Projects or Folders)",
+      "result": "notice closes",
+      "t_result_visible": 29.6,
+      "confidence": "high"
+    },
+    {
+      "id": "A9",
+      "t_click": 31.7,
+      "x": 206,
+      "y": 322,
+      "kind": "click",
+      "target": "back arrow in Upload options",
+      "result": "Uploads panel Folders tab, new folder uploading",
+      "t_result_visible": 32.0,
+      "confidence": "medium"
+    },
+    {
+      "id": "A10",
+      "t_click": 41.4,
+      "x": 662,
+      "y": 34,
+      "kind": "click",
+      "target": "Projects - Canva browser tab",
+      "result": "Canva homepage (All projects)",
+      "t_result_visible": 41.63,
+      "confidence": "medium"
+    },
+    {
+      "id": "A11",
+      "t_click": 50.3,
+      "x": 326,
+      "y": 422,
+      "kind": "click",
+      "target": "Your projects in the sidebar",
+      "result": "Your projects page with the Uploads folder",
+      "t_result_visible": 52.3,
+      "confidence": "medium"
+    },
+    {
+      "id": "A12",
+      "t_click": 58.6,
+      "x": 614,
+      "y": 645,
+      "kind": "click",
+      "target": "Uploads folder",
+      "result": "Uploads folder: the uploaded voiceovers folder under Folders",
+      "t_result_visible": 59.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A13",
+      "t_click": 79.23,
+      "x": 744,
+      "y": 456,
+      "kind": "click",
+      "target": "menu (...) beside Upload files",
+      "result": "Upload options panel",
+      "t_result_visible": 80.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A14",
+      "t_click": 102.6,
+      "x": 1320,
+      "y": 1022,
+      "kind": "click",
+      "target": "File Explorer in the taskbar",
+      "result": "File Explorer opens",
+      "t_result_visible": 103.5,
+      "confidence": "medium"
+    },
+    {
+      "id": "A15",
+      "t_click": 104.0,
+      "x": 197,
+      "y": 422,
+      "kind": "click",
+      "target": "Downloads in File Explorer",
+      "result": "Downloads with the zipped folder",
+      "t_result_visible": 104.4,
+      "confidence": "medium"
+    },
+    {
+      "id": "A16",
+      "t_click": 116.8,
+      "x": 998,
+      "y": 101,
+      "kind": "click",
+      "target": "close File Explorer",
+      "result": "back to Canva",
+      "t_result_visible": 117.0,
+      "confidence": "low"
+    },
+    {
+      "id": "A17",
+      "t_click": 119.6,
+      "x": 221,
+      "y": 322,
+      "kind": "click",
+      "target": "back arrow in Upload options",
+      "result": "Uploads panel Folders tab",
+      "t_result_visible": 120.3,
+      "confidence": "medium"
+    },
+    {
+      "id": "A18",
+      "t_click": 122.2,
+      "x": 485,
+      "y": 634,
+      "kind": "click",
+      "target": "voiceovers-2026-10-07T17-58-23 folder",
+      "result": "folder contents",
+      "t_result_visible": 123.53,
+      "confidence": "high"
+    },
+    {
+      "id": "A19",
+      "t_click": 129.1,
+      "x": 221,
+      "y": 341,
+      "kind": "click",
+      "target": "back arrow in the folder view",
+      "result": "Folders list",
+      "t_result_visible": 129.5,
+      "confidence": "medium"
+    },
+    {
+      "id": "A20",
+      "t_click": 130.1,
+      "x": 485,
+      "y": 739,
+      "kind": "click",
+      "target": "voiceovers-2026-10-10T12-26-47 folder",
+      "result": "folder contents",
+      "t_result_visible": 131.33,
+      "confidence": "high"
+    }
+  ],
+  "junk": [
+    {
+      "start": 41.9,
+      "end": 49.6,
+      "reason": "cursor idles on the homepage before Your projects",
+      "ff": true
+    },
+    {
+      "start": 52.9,
+      "end": 57.4,
+      "reason": "idle on Your projects, cursor wanders to Date modified",
+      "ff": true
+    },
+    {
+      "start": 144.0,
+      "end": 146.6,
+      "reason": "end of recording"
+    }
+  ]
+}

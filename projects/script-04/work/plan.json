@@ -1,0 +1,695 @@
+{
+  "output": {
+    "duration": 74.49,
+    "fps": 30.0,
+    "width": 1920,
+    "height": 1080
+  },
+  "segments": [
+    {
+      "mode": "speed",
+      "src_start": 0.0,
+      "src_end": 4.9,
+      "out_start": 0.0,
+      "out_end": 3.809
+    },
+    {
+      "mode": "speed",
+      "src_start": 4.9,
+      "src_end": 10.0,
+      "wait": true,
+      "out_start": 3.809,
+      "out_end": 4.453
+    },
+    {
+      "mode": "speed",
+      "src_start": 10.0,
+      "src_end": 14.1,
+      "out_start": 4.453,
+      "out_end": 7.64
+    },
+    {
+      "mode": "speed",
+      "src_start": 14.1,
+      "src_end": 16.2,
+      "out_start": 7.64,
+      "out_end": 10.0
+    },
+    {
+      "mode": "speed",
+      "src_start": 16.2,
+      "src_end": 17.0,
+      "out_start": 10.0,
+      "out_end": 10.885
+    },
+    {
+      "mode": "speed",
+      "src_start": 24.8,
+      "src_end": 25.5,
+      "xfade": true,
+      "out_start": 10.885,
+      "out_end": 11.66
+    },
+    {
+      "mode": "speed",
+      "src_start": 25.5,
+      "src_end": 26.3,
+      "out_start": 11.66,
+      "out_end": 12.48
+    },
+    {
+      "mode": "speed",
+      "src_start": 26.3,
+      "src_end": 27.4,
+      "out_start": 12.48,
+      "out_end": 13.169
+    },
+    {
+      "mode": "speed",
+      "src_start": 27.4,
+      "src_end": 31.07,
+      "wait": true,
+      "out_start": 13.169,
+      "out_end": 13.633
+    },
+    {
+      "mode": "speed",
+      "src_start": 31.07,
+      "src_end": 35.2,
+      "out_start": 13.633,
+      "out_end": 16.22
+    },
+    {
+      "mode": "speed",
+      "src_start": 35.2,
+      "src_end": 37.8,
+      "out_start": 16.22,
+      "out_end": 18.374
+    },
+    {
+      "mode": "speed",
+      "src_start": 41.4,
+      "src_end": 41.6,
+      "xfade": true,
+      "out_start": 18.374,
+      "out_end": 18.54
+    },
+    {
+      "mode": "speed",
+      "src_start": 41.6,
+      "src_end": 43.2,
+      "out_start": 18.54,
+      "out_end": 20.612
+    },
+    {
+      "mode": "speed",
+      "src_start": 38.5,
+      "src_end": 38.8,
+      "xfade": true,
+      "out_start": 20.612,
+      "out_end": 21.0
+    },
+    {
+      "mode": "speed",
+      "src_start": 38.8,
+      "src_end": 41.4,
+      "out_start": 21.0,
+      "out_end": 22.234
+    },
+    {
+      "mode": "speed",
+      "src_start": 43.2,
+      "src_end": 51.6,
+      "xfade": true,
+      "out_start": 22.234,
+      "out_end": 26.22
+    },
+    {
+      "mode": "speed",
+      "src_start": 51.6,
+      "src_end": 54.3,
+      "out_start": 26.22,
+      "out_end": 27.32
+    },
+    {
+      "mode": "speed",
+      "src_start": 54.3,
+      "src_end": 56.0,
+      "out_start": 27.32,
+      "out_end": 28.079
+    },
+    {
+      "mode": "speed",
+      "src_start": 70.0,
+      "src_end": 71.3,
+      "xfade": true,
+      "out_start": 28.079,
+      "out_end": 28.66
+    },
+    {
+      "mode": "speed",
+      "src_start": 71.3,
+      "src_end": 77.4,
+      "out_start": 28.66,
+      "out_end": 30.59
+    },
+    {
+      "mode": "speed",
+      "src_start": 79.3,
+      "src_end": 79.9,
+      "xfade": true,
+      "out_start": 30.59,
+      "out_end": 30.78
+    },
+    {
+      "mode": "speed",
+      "src_start": 79.9,
+      "src_end": 89.2,
+      "out_start": 30.78,
+      "out_end": 35.7
+    },
+    {
+      "mode": "speed",
+      "src_start": 89.2,
+      "src_end": 91.5,
+      "out_start": 35.7,
+      "out_end": 36.62
+    },
+    {
+      "mode": "speed",
+      "src_start": 91.5,
+      "src_end": 93.9,
+      "out_start": 36.62,
+      "out_end": 37.5
+    },
+    {
+      "mode": "speed",
+      "src_start": 93.9,
+      "src_end": 99.6,
+      "out_start": 37.5,
+      "out_end": 39.72
+    },
+    {
+      "mode": "speed",
+      "src_start": 99.6,
+      "src_end": 105.0,
+      "out_start": 39.72,
+      "out_end": 41.688
+    },
+    {
+      "mode": "speed",
+      "src_start": 117.5,
+      "src_end": 118.3,
+      "xfade": true,
+      "out_start": 41.688,
+      "out_end": 41.98
+    },
+    {
+      "mode": "speed",
+      "src_start": 118.3,
+      "src_end": 121.6,
+      "out_start": 41.98,
+      "out_end": 43.32
+    },
+    {
+      "mode": "speed",
+      "src_start": 121.6,
+      "src_end": 125.6,
+      "out_start": 43.32,
+      "out_end": 46.973
+    },
+    {
+      "mode": "speed",
+      "src_start": 141.5,
+      "src_end": 142.8,
+      "xfade": true,
+      "out_start": 46.973,
+      "out_end": 48.16
+    },
+    {
+      "mode": "speed",
+      "src_start": 142.8,
+      "src_end": 155.0,
+      "out_start": 48.16,
+      "out_end": 54.18
+    },
+    {
+      "mode": "speed",
+      "src_start": 155.0,
+      "src_end": 161.0,
+      "out_start": 54.18,
+      "out_end": 58.644
+    },
+    {
+      "mode": "speed",
+      "src_start": 174.0,
+      "src_end": 175.5,
+      "xfade": true,
+      "out_start": 58.644,
+      "out_end": 59.76
+    },
+    {
+      "mode": "speed",
+      "src_start": 175.5,
+      "src_end": 179.0,
+      "out_start": 59.76,
+      "out_end": 61.3
+    },
+    {
+      "mode": "speed",
+      "src_start": 179.0,
+      "src_end": 184.5,
+      "out_start": 61.3,
+      "out_end": 63.64
+    },
+    {
+      "mode": "speed",
+      "src_start": 184.5,
+      "src_end": 193.0,
+      "out_start": 63.64,
+      "out_end": 67.58
+    },
+    {
+      "mode": "speed",
+      "src_start": 193.0,
+      "src_end": 194.6,
+      "out_start": 67.58,
+      "out_end": 68.5
+    },
+    {
+      "mode": "speed",
+      "src_start": 194.6,
+      "src_end": 197.9,
+      "out_start": 68.5,
+      "out_end": 69.88
+    },
+    {
+      "mode": "speed",
+      "src_start": 197.9,
+      "src_end": 199.0,
+      "out_start": 69.88,
+      "out_end": 70.422
+    },
+    {
+      "mode": "speed",
+      "src_start": 204.5,
+      "src_end": 206.0,
+      "xfade": true,
+      "out_start": 70.422,
+      "out_end": 71.16
+    },
+    {
+      "mode": "speed",
+      "src_start": 206.0,
+      "src_end": 207.5,
+      "out_start": 71.16,
+      "out_end": 72.66
+    },
+    {
+      "mode": "hold",
+      "src_start": 207.5,
+      "src_end": 207.5,
+      "out_start": 72.66,
+      "out_end": 74.49
+    }
+  ],
+  "zooms": [],
+  "ripples": [
+    {
+      "out_t": 7.64,
+      "x": 96,
+      "y": 680,
+      "action": "A1"
+    },
+    {
+      "out_t": 10.0,
+      "x": 403,
+      "y": 446,
+      "action": "A2"
+    },
+    {
+      "out_t": 11.66,
+      "x": 432,
+      "y": 288,
+      "action": "A3"
+    },
+    {
+      "out_t": 12.48,
+      "x": 1092,
+      "y": 552,
+      "action": "A4"
+    },
+    {
+      "out_t": 16.22,
+      "x": 192,
+      "y": 960,
+      "action": "A6"
+    },
+    {
+      "out_t": 18.54,
+      "x": 1080,
+      "y": 490,
+      "action": "A9"
+    },
+    {
+      "out_t": 21.0,
+      "x": 994,
+      "y": 394,
+      "action": "A8"
+    },
+    {
+      "out_t": 26.22,
+      "x": 960,
+      "y": 547,
+      "action": "A10"
+    },
+    {
+      "out_t": 27.32,
+      "x": 1085,
+      "y": 331,
+      "action": "A11"
+    },
+    {
+      "out_t": 28.66,
+      "x": 1003,
+      "y": 317,
+      "action": "A12"
+    },
+    {
+      "out_t": 30.78,
+      "x": 600,
+      "y": 629,
+      "action": "A13"
+    },
+    {
+      "out_t": 35.7,
+      "x": 89,
+      "y": 408,
+      "action": "A14"
+    },
+    {
+      "out_t": 36.62,
+      "x": 696,
+      "y": 804,
+      "action": "A15"
+    },
+    {
+      "out_t": 37.5,
+      "x": 562,
+      "y": 427,
+      "action": "A16"
+    },
+    {
+      "out_t": 39.72,
+      "x": 1022,
+      "y": 384,
+      "action": "A17"
+    },
+    {
+      "out_t": 41.98,
+      "x": 960,
+      "y": 576,
+      "action": "A18"
+    },
+    {
+      "out_t": 43.32,
+      "x": 1166,
+      "y": 672,
+      "action": "A19"
+    },
+    {
+      "out_t": 44.873,
+      "x": 576,
+      "y": 922,
+      "action": "A20"
+    },
+    {
+      "out_t": 48.16,
+      "x": 1075,
+      "y": 470,
+      "action": "A21"
+    },
+    {
+      "out_t": 50.232,
+      "x": 595,
+      "y": 614,
+      "action": "A22"
+    },
+    {
+      "out_t": 54.18,
+      "x": 1210,
+      "y": 542,
+      "action": "A23"
+    },
+    {
+      "out_t": 59.76,
+      "x": 828,
+      "y": 312,
+      "action": "A24"
+    },
+    {
+      "out_t": 61.3,
+      "x": 269,
+      "y": 720,
+      "action": "A25"
+    },
+    {
+      "out_t": 63.64,
+      "x": 300,
+      "y": 761,
+      "action": "A26"
+    },
+    {
+      "out_t": 67.58,
+      "x": 1762,
+      "y": 250,
+      "action": "A27"
+    },
+    {
+      "out_t": 68.5,
+      "x": 1229,
+      "y": 768,
+      "action": "A28"
+    },
+    {
+      "out_t": 69.88,
+      "x": 1392,
+      "y": 466,
+      "action": "A29"
+    },
+    {
+      "out_t": 71.16,
+      "x": 1471,
+      "y": 720,
+      "action": "A30"
+    }
+  ],
+  "intro": {
+    "mode": "play",
+    "until": 7.64
+  },
+  "outro": {
+    "mode": "hold",
+    "from": 72.66
+  },
+  "sync": [
+    {
+      "action": "A1",
+      "line": 2,
+      "word": "Uploads",
+      "word_index": 26,
+      "word_t": 7.64
+    },
+    {
+      "action": "A2",
+      "line": 3,
+      "word": "Upload",
+      "word_index": 32,
+      "word_t": 10.0
+    },
+    {
+      "action": "A3",
+      "line": 3,
+      "word": "image,",
+      "word_index": 36,
+      "word_t": 11.66
+    },
+    {
+      "action": "A4",
+      "line": 3,
+      "word": "Open.",
+      "word_index": 39,
+      "word_t": 12.48
+    },
+    {
+      "action": "A6",
+      "line": 5,
+      "word": "thumbnail",
+      "word_index": 50,
+      "word_t": 16.22
+    },
+    {
+      "action": "A9",
+      "line": 6,
+      "word": "Drag",
+      "word_index": 58,
+      "word_t": 18.54
+    },
+    {
+      "action": "A8",
+      "line": 7,
+      "word": "corner",
+      "word_index": 68,
+      "word_t": 21.0
+    },
+    {
+      "action": "A10",
+      "line": 8,
+      "word": "select",
+      "word_index": 84,
+      "word_t": 26.22
+    },
+    {
+      "action": "A11",
+      "line": 8,
+      "word": "Crop",
+      "word_index": 88,
+      "word_t": 27.32
+    },
+    {
+      "action": "A12",
+      "line": 9,
+      "word": "Adjust",
+      "word_index": 93,
+      "word_t": 28.66
+    },
+    {
+      "action": "A13",
+      "line": 9,
+      "word": "Done",
+      "word_index": 99,
+      "word_t": 30.78
+    },
+    {
+      "action": "A14",
+      "line": 10,
+      "word": "Elements,",
+      "word_index": 115,
+      "word_t": 35.7
+    },
+    {
+      "action": "A15",
+      "line": 10,
+      "word": "find",
+      "word_index": 116,
+      "word_t": 36.62
+    },
+    {
+      "action": "A16",
+      "line": 10,
+      "word": "add",
+      "word_index": 120,
+      "word_t": 37.5
+    },
+    {
+      "action": "A17",
+      "line": 11,
+      "word": "image",
+      "word_index": 128,
+      "word_t": 39.72
+    },
+    {
+      "action": "A18",
+      "line": 12,
+      "word": "image",
+      "word_index": 135,
+      "word_t": 41.98
+    },
+    {
+      "action": "A19",
+      "line": 12,
+      "word": "reposition",
+      "word_index": 140,
+      "word_t": 43.32
+    },
+    {
+      "action": "A21",
+      "line": 14,
+      "word": "Cropping",
+      "word_index": 149,
+      "word_t": 48.16
+    },
+    {
+      "action": "A23",
+      "line": 15,
+      "word": "enlarging",
+      "word_index": 167,
+      "word_t": 54.18
+    },
+    {
+      "action": "A24",
+      "line": 16,
+      "word": "Edit",
+      "word_index": 184,
+      "word_t": 59.76
+    },
+    {
+      "action": "A25",
+      "line": 16,
+      "word": "adjustment",
+      "word_index": 189,
+      "word_t": 61.3
+    },
+    {
+      "action": "A26",
+      "line": 17,
+      "word": "change",
+      "word_index": 194,
+      "word_t": 63.64
+    },
+    {
+      "action": "A27",
+      "line": 18,
+      "word": "Share,",
+      "word_index": 206,
+      "word_t": 67.58
+    },
+    {
+      "action": "A28",
+      "line": 18,
+      "word": "download",
+      "word_index": 208,
+      "word_t": 68.5
+    },
+    {
+      "action": "A29",
+      "line": 18,
+      "word": "format",
+      "word_index": 213,
+      "word_t": 69.88
+    },
+    {
+      "action": "A30",
+      "line": 19,
+      "word": "Your",
+      "word_index": 216,
+      "word_t": 71.16
+    }
+  ],
+  "style": {
+    "ripple_color": "#2F80ED"
+  },
+  "notes": [
+    "A2->A3: cut src 17.00-24.80 - too long to fast-forward at <= 2.00x (junk: navigating the file picker to Downloads)",
+    "A9: after A6 (until src 37.80) jumps ahead to src 41.40 - narration order",
+    "A8: after A9 (until src 43.20) jumps back to src 38.50 - narration order",
+    "A10: after A8 (until src 41.40) jumps ahead to src 43.20 - narration order",
+    "A11->A12: cut src 56.00-70.00 - too long to fast-forward at <= 2.00x (junk: idle in the Crop panel)",
+    "A12->A13: cut src 77.40-79.30 - too long to fast-forward at <= 2.00x (junk: idle before Done)",
+    "A17->A18: cut src 105.00-117.50 - too long to fast-forward at <= 2.00x (junk: idle after resizing the frame)",
+    "A23->A24: cut src 161.00-174.00 - too long to fast-forward at <= 2.00x (junk: idle after enlarging (recorder zooms))",
+    "A29->A30: cut src 199.00-204.50 - too long to fast-forward at <= 2.00x (junk: hovering the Download panel options)"
+  ],
+  "generated_by": "tools/plan_builder.py from work/sync.json",
+  "generated_hash": "c7c1b07bc821"
+}

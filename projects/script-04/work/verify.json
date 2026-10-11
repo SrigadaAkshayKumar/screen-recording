@@ -1,0 +1,32 @@
+{
+  "file": "C:\\freelance\\screencast-editor\\projects\\script-04\\output\\final.mp4",
+  "ok": true,
+  "checks": [
+    {
+      "name": "duration",
+      "ok": true,
+      "detail": "74.490s vs voiceover 74.490s"
+    },
+    {
+      "name": "streams",
+      "ok": true,
+      "detail": "1 video, 1 audio"
+    },
+    {
+      "name": "resolution",
+      "ok": true,
+      "detail": "1920x1080 (expected 1920x1080)"
+    },
+    {
+      "name": "frozen spans",
+      "ok": true,
+      "detail": "0 freeze(s) over 3s, all planned holds/stills"
+    },
+    {
+      "name": "black frames at joins",
+      "ok": true,
+      "detail": "43 boundaries clean"
+    }
+  ],
+  "zoom_frames": []
+}

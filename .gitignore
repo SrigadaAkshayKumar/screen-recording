@@ -1,0 +1,11 @@
+projects/*/input/
+projects/*/work/frames/
+projects/*/output/
+*.mp4
+*.mp3
+*.wav
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+inbox/

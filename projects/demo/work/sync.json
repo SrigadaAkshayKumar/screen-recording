@@ -1,0 +1,67 @@
+{
+  "anchors": [
+    {
+      "action": "A1",
+      "line": 2,
+      "word": "Upload"
+    },
+    {
+      "action": "A2",
+      "line": 4,
+      "word": "report"
+    },
+    {
+      "action": "A3",
+      "line": 5,
+      "word": "Open"
+    },
+    {
+      "action": "A5",
+      "line": 7,
+      "word": "Settings"
+    }
+  ],
+  "zooms": [
+    {
+      "actions": [
+        "A1"
+      ],
+      "scale": 1.8
+    },
+    {
+      "actions": [
+        "A2"
+      ]
+    },
+    {
+      "actions": [
+        "A3"
+      ]
+    },
+    {
+      "actions": [
+        "A5"
+      ],
+      "include": [
+        [
+          1050,
+          250
+        ]
+      ]
+    }
+  ],
+  "cuts": [
+    {
+      "src_start": 10.0,
+      "src_end": 15.5,
+      "reason": "upload wait - narration says we skip ahead",
+      "xfade": true
+    }
+  ],
+  "style": {
+    "ripple_color": "#2F80ED"
+  },
+  "hold_at": {
+    "A5": 16.7
+  }
+}

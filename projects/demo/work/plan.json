@@ -1,0 +1,198 @@
+{
+  "output": {
+    "duration": 27.096,
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720
+  },
+  "segments": [
+    {
+      "mode": "hold",
+      "src_start": 0.0,
+      "src_end": 0.0,
+      "out_start": 0.0,
+      "out_end": 1.223
+    },
+    {
+      "mode": "speed",
+      "src_start": 0.0,
+      "src_end": 3.75,
+      "out_start": 1.223,
+      "out_end": 4.973
+    },
+    {
+      "mode": "hold",
+      "src_start": 3.75,
+      "src_end": 3.75,
+      "out_start": 4.973,
+      "out_end": 7.373
+    },
+    {
+      "mode": "speed",
+      "src_start": 3.75,
+      "src_end": 6.717,
+      "out_start": 7.373,
+      "out_end": 10.34
+    },
+    {
+      "mode": "hold",
+      "src_start": 6.717,
+      "src_end": 6.717,
+      "out_start": 10.34,
+      "out_end": 11.64
+    },
+    {
+      "mode": "speed",
+      "src_start": 6.717,
+      "src_end": 10.0,
+      "out_start": 11.64,
+      "out_end": 14.923
+    },
+    {
+      "mode": "speed",
+      "src_start": 15.5,
+      "src_end": 16.7,
+      "xfade": true,
+      "out_start": 14.923,
+      "out_end": 16.123
+    },
+    {
+      "mode": "hold",
+      "src_start": 16.7,
+      "src_end": 16.7,
+      "out_start": 16.123,
+      "out_end": 19.623
+    },
+    {
+      "mode": "speed",
+      "src_start": 16.7,
+      "src_end": 19.057,
+      "out_start": 19.623,
+      "out_end": 21.98
+    },
+    {
+      "mode": "speed",
+      "src_start": 19.057,
+      "src_end": 24.0,
+      "out_start": 21.98,
+      "out_end": 27.096
+    }
+  ],
+  "zooms": [
+    {
+      "out_t": 4.78,
+      "x": 100.0,
+      "y": 60.0,
+      "scale": 1.8,
+      "in": 0.45,
+      "hold": 0.8,
+      "out": 0.5,
+      "actions": [
+        "A1"
+      ]
+    },
+    {
+      "out_t": 10.18,
+      "x": 640.0,
+      "y": 330.0,
+      "scale": 1.8,
+      "in": 0.45,
+      "hold": 0.8,
+      "out": 0.5,
+      "actions": [
+        "A2"
+      ]
+    },
+    {
+      "out_t": 13.18,
+      "x": 760.0,
+      "y": 470.0,
+      "scale": 1.8,
+      "in": 0.45,
+      "hold": 0.8,
+      "out": 0.5,
+      "actions": [
+        "A3"
+      ]
+    },
+    {
+      "out_t": 21.98,
+      "x": 675.0,
+      "y": 155.0,
+      "scale": 1.41,
+      "in": 0.45,
+      "hold": 0.8,
+      "out": 0.5,
+      "actions": [
+        "A5"
+      ]
+    }
+  ],
+  "ripples": [
+    {
+      "out_t": 4.78,
+      "x": 100,
+      "y": 60,
+      "action": "A1"
+    },
+    {
+      "out_t": 10.18,
+      "x": 640,
+      "y": 330,
+      "action": "A2"
+    },
+    {
+      "out_t": 13.18,
+      "x": 760,
+      "y": 470,
+      "action": "A3"
+    },
+    {
+      "out_t": 21.98,
+      "x": 300,
+      "y": 60,
+      "action": "A5"
+    }
+  ],
+  "intro": {
+    "mode": "hold",
+    "until": 4.78
+  },
+  "outro": null,
+  "sync": [
+    {
+      "action": "A1",
+      "line": 2,
+      "word": "upload",
+      "word_index": 10,
+      "word_t": 4.78
+    },
+    {
+      "action": "A2",
+      "line": 4,
+      "word": "report",
+      "word_index": 20,
+      "word_t": 10.18
+    },
+    {
+      "action": "A3",
+      "line": 5,
+      "word": "open",
+      "word_index": 27,
+      "word_t": 13.18
+    },
+    {
+      "action": "A5",
+      "line": 7,
+      "word": "settings",
+      "word_index": 46,
+      "word_t": 21.98
+    }
+  ],
+  "style": {
+    "ripple_color": "#2F80ED"
+  },
+  "notes": [],
+  "generated_by": "tools/plan_builder.py from work/sync.json",
+  "generated_hash": "f6a4cb20cab8"
+}

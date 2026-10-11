@@ -1,0 +1,413 @@
+{
+  "recording": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "duration": 214.767
+  },
+  "sync": {
+    "clicks_offset": null,
+    "source": "frames"
+  },
+  "actions": [
+    {
+      "id": "A1",
+      "t_click": 14.1,
+      "x": 96,
+      "y": 680,
+      "kind": "click",
+      "target": "Uploads in the left sidebar",
+      "result": "Uploads panel opens",
+      "t_result_visible": 14.6,
+      "confidence": "medium"
+    },
+    {
+      "id": "A2",
+      "t_click": 16.2,
+      "x": 403,
+      "y": 446,
+      "kind": "click",
+      "target": "Upload files button",
+      "result": "file picker opens",
+      "t_result_visible": 16.6,
+      "confidence": "high"
+    },
+    {
+      "id": "A3",
+      "t_click": 25.5,
+      "x": 432,
+      "y": 288,
+      "kind": "click",
+      "target": "Cognizant Onboarding image in the picker",
+      "result": "file selected",
+      "t_result_visible": 25.6,
+      "confidence": "medium"
+    },
+    {
+      "id": "A4",
+      "t_click": 26.3,
+      "x": 1092,
+      "y": 552,
+      "kind": "click",
+      "target": "Open button",
+      "result": "picker closes, upload starts",
+      "t_result_visible": 26.6,
+      "confidence": "high"
+    },
+    {
+      "id": "A5",
+      "t_click": 27.4,
+      "x": 240,
+      "y": 826,
+      "kind": "wait",
+      "target": "uploading thumbnail in the Uploads panel",
+      "result": "thumbnail finishes loading",
+      "t_result_visible": 31.07,
+      "confidence": "medium"
+    },
+    {
+      "id": "A6",
+      "t_click": 35.2,
+      "x": 192,
+      "y": 960,
+      "kind": "click",
+      "target": "image thumbnail in the Uploads panel",
+      "result": "image added to the page",
+      "t_result_visible": 35.6,
+      "confidence": "medium"
+    },
+    {
+      "id": "A7",
+      "t_click": 37.5,
+      "x": 792,
+      "y": 379,
+      "kind": "click",
+      "target": "collapse panel arrow",
+      "result": "side panel closes",
+      "t_result_visible": 37.7,
+      "confidence": "low"
+    },
+    {
+      "id": "A8",
+      "t_click": 38.8,
+      "x": 994,
+      "y": 394,
+      "kind": "drag",
+      "target": "corner handle of the image",
+      "result": "image resized larger",
+      "t_result_visible": 41.4,
+      "confidence": "medium",
+      "x2": 1051,
+      "y2": 605,
+      "t_end": 41.4
+    },
+    {
+      "id": "A9",
+      "t_click": 41.6,
+      "x": 1080,
+      "y": 490,
+      "kind": "drag",
+      "target": "image on the page",
+      "result": "image dragged to the centre",
+      "t_result_visible": 42.9,
+      "confidence": "medium",
+      "x2": 1022,
+      "y2": 566,
+      "t_end": 42.9
+    },
+    {
+      "id": "A10",
+      "t_click": 51.6,
+      "x": 960,
+      "y": 547,
+      "kind": "click",
+      "target": "image on the page",
+      "result": "image selected (toolbar shows Crop)",
+      "t_result_visible": 52.0,
+      "confidence": "medium"
+    },
+    {
+      "id": "A11",
+      "t_click": 54.3,
+      "x": 1085,
+      "y": 331,
+      "kind": "click",
+      "target": "Crop in the toolbar",
+      "result": "Crop panel and crop handles",
+      "t_result_visible": 55.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A12",
+      "t_click": 71.3,
+      "x": 1003,
+      "y": 317,
+      "kind": "drag",
+      "target": "crop handle",
+      "result": "visible area adjusted",
+      "t_result_visible": 77.2,
+      "confidence": "medium",
+      "x2": 1003,
+      "y2": 400,
+      "t_end": 77.2
+    },
+    {
+      "id": "A13",
+      "t_click": 79.9,
+      "x": 600,
+      "y": 629,
+      "kind": "click",
+      "target": "Done in the Crop panel",
+      "result": "crop applied",
+      "t_result_visible": 80.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A14",
+      "t_click": 89.2,
+      "x": 89,
+      "y": 408,
+      "kind": "click",
+      "target": "Elements in the left sidebar",
+      "result": "Elements panel",
+      "t_result_visible": 90.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A15",
+      "t_click": 91.5,
+      "x": 696,
+      "y": 804,
+      "kind": "click",
+      "target": "Frames category",
+      "result": "Frames list",
+      "t_result_visible": 93.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A16",
+      "t_click": 93.9,
+      "x": 562,
+      "y": 427,
+      "kind": "click",
+      "target": "circle frame",
+      "result": "circle frame added to the page",
+      "t_result_visible": 94.6,
+      "confidence": "medium"
+    },
+    {
+      "id": "A17",
+      "t_click": 99.6,
+      "x": 1022,
+      "y": 384,
+      "kind": "drag",
+      "target": "image dragged into the frame",
+      "result": "image fills the circle frame",
+      "t_result_visible": 102.2,
+      "confidence": "medium",
+      "x2": 888,
+      "y2": 468,
+      "t_end": 102.2
+    },
+    {
+      "id": "A18",
+      "t_click": 118.3,
+      "x": 960,
+      "y": 576,
+      "kind": "click",
+      "target": "image inside the frame (double-click)",
+      "result": "reposition mode inside the frame",
+      "t_result_visible": 119.0,
+      "confidence": "medium"
+    },
+    {
+      "id": "A19",
+      "t_click": 121.6,
+      "x": 1166,
+      "y": 672,
+      "kind": "drag",
+      "target": "photo inside the frame",
+      "result": "photo repositioned",
+      "t_result_visible": 123.0,
+      "confidence": "medium",
+      "x2": 1180,
+      "y2": 640,
+      "t_end": 123.0
+    },
+    {
+      "id": "A20",
+      "t_click": 123.3,
+      "x": 576,
+      "y": 922,
+      "kind": "click",
+      "target": "Done",
+      "result": "reposition applied",
+      "t_result_visible": 125.0,
+      "confidence": "medium"
+    },
+    {
+      "id": "A21",
+      "t_click": 142.8,
+      "x": 1075,
+      "y": 470,
+      "kind": "click",
+      "target": "Crop in the toolbar (second crop)",
+      "result": "crop handles",
+      "t_result_visible": 144.5,
+      "confidence": "medium"
+    },
+    {
+      "id": "A22",
+      "t_click": 147.0,
+      "x": 595,
+      "y": 614,
+      "kind": "click",
+      "target": "Done in the Crop panel",
+      "result": "crop applied",
+      "t_result_visible": 147.4,
+      "confidence": "medium"
+    },
+    {
+      "id": "A23",
+      "t_click": 155.0,
+      "x": 1210,
+      "y": 542,
+      "kind": "drag",
+      "target": "corner handle (enlarge)",
+      "result": "image enlarged to 1080x1349",
+      "t_result_visible": 158.6,
+      "confidence": "medium",
+      "x2": 1003,
+      "y2": 845,
+      "t_end": 158.6
+    },
+    {
+      "id": "A24",
+      "t_click": 175.5,
+      "x": 828,
+      "y": 312,
+      "kind": "click",
+      "target": "Edit in the toolbar",
+      "result": "Edit image panel",
+      "t_result_visible": 177.0,
+      "confidence": "high"
+    },
+    {
+      "id": "A25",
+      "t_click": 179.0,
+      "x": 269,
+      "y": 720,
+      "kind": "click",
+      "target": "Adjust tool",
+      "result": "Adjust panel with sliders",
+      "t_result_visible": 180.4,
+      "confidence": "high"
+    },
+    {
+      "id": "A26",
+      "t_click": 184.5,
+      "x": 300,
+      "y": 761,
+      "kind": "drag",
+      "target": "Brightness slider",
+      "result": "brightness +20",
+      "t_result_visible": 187.0,
+      "confidence": "medium",
+      "x2": 336,
+      "y2": 761,
+      "t_end": 187.0
+    },
+    {
+      "id": "A27",
+      "t_click": 193.0,
+      "x": 1762,
+      "y": 250,
+      "kind": "click",
+      "target": "Share button",
+      "result": "Share design panel",
+      "t_result_visible": 193.6,
+      "confidence": "medium"
+    },
+    {
+      "id": "A28",
+      "t_click": 194.6,
+      "x": 1229,
+      "y": 768,
+      "kind": "click",
+      "target": "Download in the Share panel",
+      "result": "Download panel (PNG)",
+      "t_result_visible": 195.8,
+      "confidence": "medium"
+    },
+    {
+      "id": "A29",
+      "t_click": 197.9,
+      "x": 1392,
+      "y": 466,
+      "kind": "click",
+      "target": "File type dropdown (PNG)",
+      "result": "format list: JPG, PNG, PDF, SVG, MP4; PNG kept",
+      "t_result_visible": 198.2,
+      "confidence": "medium"
+    },
+    {
+      "id": "A30",
+      "t_click": 206.0,
+      "x": 1471,
+      "y": 720,
+      "kind": "click",
+      "target": "Download button",
+      "result": "download starts",
+      "t_result_visible": 206.8,
+      "confidence": "high"
+    }
+  ],
+  "junk": [
+    {
+      "start": 17.0,
+      "end": 24.8,
+      "reason": "navigating the file picker to Downloads",
+      "ff": true
+    },
+    {
+      "start": 56.0,
+      "end": 70.0,
+      "reason": "idle in the Crop panel",
+      "ff": true
+    },
+    {
+      "start": 77.4,
+      "end": 79.3,
+      "reason": "idle before Done",
+      "ff": true
+    },
+    {
+      "start": 105.0,
+      "end": 117.5,
+      "reason": "idle after resizing the frame",
+      "ff": true
+    },
+    {
+      "start": 125.6,
+      "end": 141.5,
+      "reason": "idle, then undo removes the frame (mistake)"
+    },
+    {
+      "start": 161.0,
+      "end": 174.0,
+      "reason": "idle after enlarging (recorder zooms)",
+      "ff": true
+    },
+    {
+      "start": 199.0,
+      "end": 204.5,
+      "reason": "hovering the Download panel options",
+      "ff": true
+    },
+    {
+      "start": 207.5,
+      "end": 214.767,
+      "reason": "desktop, end of recording"
+    }
+  ]
+}

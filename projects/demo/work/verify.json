@@ -1,0 +1,37 @@
+{
+  "file": "C:\\freelance\\screencast-editor\\projects\\demo\\output\\final.mp4",
+  "ok": true,
+  "checks": [
+    {
+      "name": "duration",
+      "ok": true,
+      "detail": "27.096s vs voiceover 27.096s"
+    },
+    {
+      "name": "streams",
+      "ok": true,
+      "detail": "1 video, 1 audio"
+    },
+    {
+      "name": "resolution",
+      "ok": true,
+      "detail": "1280x720 (expected 1280x720)"
+    },
+    {
+      "name": "frozen spans",
+      "ok": true,
+      "detail": "4 freeze(s) over 3s, all planned holds/stills"
+    },
+    {
+      "name": "black frames at joins",
+      "ok": true,
+      "detail": "11 boundaries clean"
+    }
+  ],
+  "zoom_frames": [
+    "C:\\freelance\\screencast-editor\\projects\\demo\\output\\checks\\zoom_01_0005.180.jpg",
+    "C:\\freelance\\screencast-editor\\projects\\demo\\output\\checks\\zoom_02_0010.580.jpg",
+    "C:\\freelance\\screencast-editor\\projects\\demo\\output\\checks\\zoom_03_0013.580.jpg",
+    "C:\\freelance\\screencast-editor\\projects\\demo\\output\\checks\\zoom_04_0022.380.jpg"
+  ]
+}

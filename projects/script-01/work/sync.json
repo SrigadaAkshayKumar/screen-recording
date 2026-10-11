@@ -1,0 +1,139 @@
+{
+  "anchors": [
+    {
+      "action": "A1",
+      "line": 3,
+      "word": "Uploads"
+    },
+    {
+      "action": "A2",
+      "line": 3,
+      "word": "Files",
+      "lead": -0.1
+    },
+    {
+      "action": "A3",
+      "line": 4,
+      "word": "select"
+    },
+    {
+      "action": "A4",
+      "line": 4,
+      "word": "Open"
+    },
+    {
+      "action": "A6",
+      "line": 8,
+      "word": "image",
+      "src_from": 86.9,
+      "prev_until": 111.4
+    },
+    {
+      "action": "A9",
+      "line": 8,
+      "word": "video",
+      "src_from": 182.5,
+      "prev_until": 89.5
+    },
+    {
+      "action": "A10",
+      "line": 8,
+      "word": "timeline"
+    },
+    {
+      "action": "A11",
+      "line": 9,
+      "word": "Explorer"
+    },
+    {
+      "action": "A12",
+      "line": 9,
+      "word": "drag"
+    },
+    {
+      "action": "A14",
+      "line": 14,
+      "word": "upload"
+    },
+    {
+      "action": "A18",
+      "line": 14,
+      "word": "finishes"
+    },
+    {
+      "action": "A19",
+      "line": 15,
+      "word": "homepage"
+    },
+    {
+      "action": "A20",
+      "line": 15,
+      "word": "Projects"
+    },
+    {
+      "action": "A21",
+      "line": 15,
+      "word": "Uploads"
+    },
+    {
+      "action": "A8",
+      "line": 7,
+      "word": "images",
+      "src_from": 119.8,
+      "prev_until": 87.5
+    },
+    {
+      "action": "A7",
+      "line": 7,
+      "word": "videos",
+      "src_from": 110.0,
+      "prev_until": 121.7
+    }
+  ],
+  "zooms": [],
+  "no_ripple": [],
+  "cuts": [
+    {
+      "src_start": 50.3,
+      "src_end": 51.3,
+      "reason": "cursor idles after the Uploads panel opens; makes room for 'then click Upload Files'",
+      "xfade": true,
+      "ff": true
+    },
+    {
+      "src_start": 297.0,
+      "src_end": 302.6,
+      "reason": "PDF upload progress; narration says 'after processing finishes'",
+      "xfade": true,
+      "ff": true
+    },
+    {
+      "src_start": 312.5,
+      "src_end": 320.5,
+      "reason": "idle on the imported PDF design",
+      "xfade": true,
+      "ff": true
+    },
+    {
+      "src_start": 322.9,
+      "src_end": 327.7,
+      "reason": "idle on the homepage before clicking Projects",
+      "xfade": true,
+      "ff": true
+    },
+    {
+      "src_start": 330.6,
+      "src_end": 338.3,
+      "reason": "hovering Recents and scrolling down to Folders (All projects page stays visible first)",
+      "xfade": true,
+      "ff": true
+    }
+  ],
+  "use_junk": true,
+  "hold_at": {},
+  "src_start": 0.0,
+  "src_end": 347.6,
+  "style": {
+    "ripple_color": "#2F80ED"
+  }
+}
