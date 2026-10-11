@@ -78,42 +78,21 @@
       "src_start": 49.0,
       "src_end": 51.1,
       "out_start": 15.9,
-      "out_end": 16.657
+      "out_end": 18.7
     },
     {
       "mode": "speed",
       "src_start": 58.4,
-      "src_end": 64.9,
-      "xfade": true,
-      "out_start": 16.657,
-      "out_end": 19.0
-    },
-    {
-      "mode": "speed",
-      "src_start": 64.9,
-      "src_end": 71.4,
-      "out_start": 19.0,
-      "out_end": 21.24
-    },
-    {
-      "mode": "speed",
-      "src_start": 71.4,
-      "src_end": 73.6,
-      "out_start": 21.24,
-      "out_end": 22.32
-    },
-    {
-      "mode": "speed",
-      "src_start": 73.6,
       "src_end": 74.15,
-      "out_start": 22.32,
-      "out_end": 22.87
+      "xfade": true,
+      "out_start": 18.7,
+      "out_end": 39.65
     },
     {
       "mode": "hold",
       "src_start": 74.15,
       "src_end": 74.15,
-      "out_start": 22.87,
+      "out_start": 39.65,
       "out_end": 39.75
     },
     {
@@ -349,27 +328,6 @@
       "word": "select",
       "word_index": 42,
       "word_t": 15.9
-    },
-    {
-      "action": "A6",
-      "line": 4,
-      "word": "shapes",
-      "word_index": 49,
-      "word_t": 19.0
-    },
-    {
-      "action": "A8",
-      "line": 5,
-      "word": "animation",
-      "word_index": 55,
-      "word_t": 21.24
-    },
-    {
-      "action": "A9",
-      "line": 5,
-      "word": "remove",
-      "word_index": 58,
-      "word_t": 22.32
     },
     {
       "action": "A10",
