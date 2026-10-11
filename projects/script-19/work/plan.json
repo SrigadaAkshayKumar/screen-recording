@@ -288,10 +288,17 @@
       "out_end": 68.76
     },
     {
-      "mode": "hold",
+      "mode": "speed",
       "src_start": 149.6,
-      "src_end": 149.6,
+      "src_end": 153.9,
       "out_start": 68.76,
+      "out_end": 74.493
+    },
+    {
+      "mode": "hold",
+      "src_start": 153.9,
+      "src_end": 153.9,
+      "out_start": 74.493,
       "out_end": 77.166
     }
   ],
