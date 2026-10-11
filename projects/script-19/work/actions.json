@@ -1,0 +1,32 @@
+{
+  "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 165.833},
+  "sync": {"clicks_offset": 0, "source": "frames"},
+  "actions": [
+    {"id": "A1", "t_click": 12.33, "x": 590, "y": 730, "kind": "click", "target": "Untitled Design thumbnail", "result": "design opens in the editor (loading)", "t_result_visible": 15.0, "confidence": "medium"},
+    {"id": "A2", "t_click": 16.4, "x": 105, "y": 560, "kind": "click", "target": "Uploads in the left sidebar", "result": "Uploads panel opens", "t_result_visible": 17.6, "confidence": "medium"},
+    {"id": "A3", "t_click": 18.45, "x": 529, "y": 306, "kind": "click", "target": "Upload files button", "result": "file picker opens", "t_result_visible": 19.0, "confidence": "high"},
+    {"id": "A4", "t_click": 20.4, "x": 1110, "y": 578, "kind": "click", "target": "Open button in the file picker", "result": "picker closes, file uploads, thumbnail appears", "t_result_visible": 22.0, "confidence": "high"},
+    {"id": "A5", "t_click": 29.65, "x": 737, "y": 830, "kind": "click", "target": "uploaded image thumbnail", "result": "image placed on the page", "t_result_visible": 31.0, "confidence": "low"},
+    {"id": "A6", "t_click": 34.75, "x": 1018, "y": 552, "kind": "drag", "x2": 998, "y2": 523, "t_end": 35.5, "target": "image (move to position)", "result": "image moved, guides shown", "t_result_visible": 35.8, "confidence": "low"},
+    {"id": "A7", "t_click": 36.95, "x": 1109, "y": 600, "kind": "drag", "x2": 1277, "y2": 782, "t_end": 37.6, "target": "bottom-right corner handle", "result": "image resized (size tooltip)", "t_result_visible": 37.8, "confidence": "low"},
+    {"id": "A8", "t_click": 50.2, "x": 936, "y": 326, "kind": "click", "target": "page colour swatch in the toolbar", "result": "Colour panel opens", "t_result_visible": 50.6, "confidence": "medium"},
+    {"id": "A9", "t_click": 51.9, "x": 235, "y": 576, "kind": "click", "target": "add a new colour (+) button", "result": "colour picker opens, page turns grey-brown", "t_result_visible": 52.3, "confidence": "medium"},
+    {"id": "A10", "t_click": 53.05, "x": 346, "y": 691, "kind": "click", "target": "colour picker (black)", "result": "page background turns black, bird shows through", "t_result_visible": 53.3, "confidence": "low"},
+    {"id": "A11", "t_click": 85.1, "x": 979, "y": 816, "kind": "click", "target": "+ Add page", "result": "Page 2 added", "t_result_visible": 86.0, "confidence": "low"},
+    {"id": "A12", "t_click": 89.35, "x": 504, "y": 455, "kind": "click", "target": "Upload files button", "result": "file picker opens", "t_result_visible": 89.7, "confidence": "medium"},
+    {"id": "A13", "t_click": 91.1, "x": 1090, "y": 576, "kind": "click", "target": "Open button (Transparent vs White Hummingbird PNG)", "result": "file uploads, thumbnails appear", "t_result_visible": 91.8, "confidence": "medium"},
+    {"id": "A14", "t_click": 93.0, "x": 360, "y": 763, "kind": "click", "target": "uploaded comparison image thumbnail", "result": "image with white background placed on the black page", "t_result_visible": 93.4, "confidence": "low"},
+    {"id": "A15", "t_click": 119.65, "x": 898, "y": 274, "kind": "click", "target": "BG Remover in the toolbar", "result": "background removed, clean bird on black", "t_result_visible": 122.5, "confidence": "medium"},
+    {"id": "A16", "t_click": 148.3, "x": 1123, "y": 634, "kind": "drag", "x2": 1162, "y2": 672, "t_end": 148.9, "target": "corner handle (enlarge)", "result": "image enlarged, size tooltip", "t_result_visible": 149.0, "confidence": "low"},
+    {"id": "A17", "t_click": 156.95, "x": 1786, "y": 230, "kind": "click", "target": "Share button", "result": "Share panel opens", "t_result_visible": 157.3, "confidence": "medium"},
+    {"id": "A18", "t_click": 157.85, "x": 1219, "y": 768, "kind": "click", "target": "Download in the Share panel", "result": "Download panel with the Transparent background toggle", "t_result_visible": 158.3, "confidence": "medium"}
+  ],
+  "junk": [
+    {"start": 12.7, "end": 15.7, "reason": "page loading after opening the design", "ff": true},
+    {"start": 22.2, "end": 29.3, "reason": "cursor idle while the upload settles", "ff": true},
+    {"start": 38.3, "end": 47.8, "reason": "idle on the resized image", "ff": true},
+    {"start": 54.4, "end": 84.2, "reason": "idle on the black page", "ff": true},
+    {"start": 122.8, "end": 146.0, "reason": "idle on the cleaned image", "ff": true},
+    {"start": 159.6, "end": 165.833, "reason": "closing the browser / desktop, off-topic"}
+  ]
+}
