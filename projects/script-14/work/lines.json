@@ -1,0 +1,1664 @@
+[
+  {
+    "id": 1,
+    "text": "This tutorial shows you how to minimise quality loss when you import a PDF into Canva and download it again.",
+    "start": 0.0,
+    "end": 6.16,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      0,
+      19
+    ],
+    "words": [
+      {
+        "i": 0,
+        "word": "This",
+        "start": 0.0,
+        "end": 0.22
+      },
+      {
+        "i": 1,
+        "word": "tutorial",
+        "start": 0.22,
+        "end": 0.58
+      },
+      {
+        "i": 2,
+        "word": "shows",
+        "start": 0.58,
+        "end": 1.04
+      },
+      {
+        "i": 3,
+        "word": "you",
+        "start": 1.04,
+        "end": 1.22
+      },
+      {
+        "i": 4,
+        "word": "how",
+        "start": 1.22,
+        "end": 1.38
+      },
+      {
+        "i": 5,
+        "word": "to",
+        "start": 1.38,
+        "end": 1.58
+      },
+      {
+        "i": 6,
+        "word": "minimise",
+        "start": 1.58,
+        "end": 2.08
+      },
+      {
+        "i": 7,
+        "word": "quality",
+        "start": 2.08,
+        "end": 2.48
+      },
+      {
+        "i": 8,
+        "word": "loss",
+        "start": 2.48,
+        "end": 2.74
+      },
+      {
+        "i": 9,
+        "word": "when",
+        "start": 2.74,
+        "end": 2.98
+      },
+      {
+        "i": 10,
+        "word": "you",
+        "start": 2.98,
+        "end": 3.1
+      },
+      {
+        "i": 11,
+        "word": "import",
+        "start": 3.1,
+        "end": 3.46
+      },
+      {
+        "i": 12,
+        "word": "a",
+        "start": 3.46,
+        "end": 3.68
+      },
+      {
+        "i": 13,
+        "word": "PDF",
+        "start": 3.68,
+        "end": 3.9
+      },
+      {
+        "i": 14,
+        "word": "into",
+        "start": 3.9,
+        "end": 4.44
+      },
+      {
+        "i": 15,
+        "word": "Canva",
+        "start": 4.44,
+        "end": 4.84
+      },
+      {
+        "i": 16,
+        "word": "and",
+        "start": 4.84,
+        "end": 5.32
+      },
+      {
+        "i": 17,
+        "word": "download",
+        "start": 5.32,
+        "end": 5.66
+      },
+      {
+        "i": 18,
+        "word": "it",
+        "start": 5.66,
+        "end": 5.9
+      },
+      {
+        "i": 19,
+        "word": "again.",
+        "start": 5.9,
+        "end": 6.16
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Start with the original PDF file.",
+    "start": 6.9,
+    "end": 8.62,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      20,
+      25
+    ],
+    "words": [
+      {
+        "i": 20,
+        "word": "Start",
+        "start": 6.9,
+        "end": 7.1
+      },
+      {
+        "i": 21,
+        "word": "with",
+        "start": 7.1,
+        "end": 7.24
+      },
+      {
+        "i": 22,
+        "word": "the",
+        "start": 7.24,
+        "end": 7.36
+      },
+      {
+        "i": 23,
+        "word": "original",
+        "start": 7.36,
+        "end": 7.78
+      },
+      {
+        "i": 24,
+        "word": "PDF",
+        "start": 7.78,
+        "end": 8.22
+      },
+      {
+        "i": 25,
+        "word": "file.",
+        "start": 8.22,
+        "end": 8.62
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "From Canva's homepage, open Projects, select Add New and choose Upload Files.",
+    "start": 9.1,
+    "end": 14.3,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      26,
+      37
+    ],
+    "words": [
+      {
+        "i": 26,
+        "word": "From",
+        "start": 9.1,
+        "end": 9.3
+      },
+      {
+        "i": 27,
+        "word": "Canva's",
+        "start": 9.3,
+        "end": 9.76
+      },
+      {
+        "i": 28,
+        "word": "homepage,",
+        "start": 9.76,
+        "end": 10.12
+      },
+      {
+        "i": 29,
+        "word": "open",
+        "start": 10.44,
+        "end": 10.68
+      },
+      {
+        "i": 30,
+        "word": "Projects,",
+        "start": 10.68,
+        "end": 11.1
+      },
+      {
+        "i": 31,
+        "word": "select",
+        "start": 11.68,
+        "end": 11.96
+      },
+      {
+        "i": 32,
+        "word": "Add",
+        "start": 11.96,
+        "end": 12.3
+      },
+      {
+        "i": 33,
+        "word": "New",
+        "start": 12.3,
+        "end": 12.58
+      },
+      {
+        "i": 34,
+        "word": "and",
+        "start": 12.58,
+        "end": 13.1
+      },
+      {
+        "i": 35,
+        "word": "choose",
+        "start": 13.1,
+        "end": 13.44
+      },
+      {
+        "i": 36,
+        "word": "Upload",
+        "start": 13.44,
+        "end": 13.86
+      },
+      {
+        "i": 37,
+        "word": "Files.",
+        "start": 13.86,
+        "end": 14.3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Select the PDF and wait for the import to finish.",
+    "start": 15.0,
+    "end": 17.4,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      38,
+      47
+    ],
+    "words": [
+      {
+        "i": 38,
+        "word": "Select",
+        "start": 15.0,
+        "end": 15.22
+      },
+      {
+        "i": 39,
+        "word": "the",
+        "start": 15.22,
+        "end": 15.36
+      },
+      {
+        "i": 40,
+        "word": "PDF",
+        "start": 15.36,
+        "end": 15.64
+      },
+      {
+        "i": 41,
+        "word": "and",
+        "start": 15.64,
+        "end": 16.02
+      },
+      {
+        "i": 42,
+        "word": "wait",
+        "start": 16.02,
+        "end": 16.2
+      },
+      {
+        "i": 43,
+        "word": "for",
+        "start": 16.2,
+        "end": 16.4
+      },
+      {
+        "i": 44,
+        "word": "the",
+        "start": 16.4,
+        "end": 16.5
+      },
+      {
+        "i": 45,
+        "word": "import",
+        "start": 16.5,
+        "end": 16.86
+      },
+      {
+        "i": 46,
+        "word": "to",
+        "start": 16.86,
+        "end": 17.1
+      },
+      {
+        "i": 47,
+        "word": "finish.",
+        "start": 17.1,
+        "end": 17.4
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Open the imported design and inspect each page.",
+    "start": 18.2,
+    "end": 20.8,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      48,
+      55
+    ],
+    "words": [
+      {
+        "i": 48,
+        "word": "Open",
+        "start": 18.2,
+        "end": 18.42
+      },
+      {
+        "i": 49,
+        "word": "the",
+        "start": 18.42,
+        "end": 18.56
+      },
+      {
+        "i": 50,
+        "word": "imported",
+        "start": 18.56,
+        "end": 18.94
+      },
+      {
+        "i": 51,
+        "word": "design",
+        "start": 18.94,
+        "end": 19.38
+      },
+      {
+        "i": 52,
+        "word": "and",
+        "start": 19.38,
+        "end": 19.64
+      },
+      {
+        "i": 53,
+        "word": "inspect",
+        "start": 19.64,
+        "end": 19.98
+      },
+      {
+        "i": 54,
+        "word": "each",
+        "start": 19.98,
+        "end": 20.4
+      },
+      {
+        "i": 55,
+        "word": "page.",
+        "start": 20.4,
+        "end": 20.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Zoom in on small text, logos, thin lines and detailed photographs.",
+    "start": 21.38,
+    "end": 25.86,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      56,
+      66
+    ],
+    "words": [
+      {
+        "i": 56,
+        "word": "Zoom",
+        "start": 21.38,
+        "end": 21.48
+      },
+      {
+        "i": 57,
+        "word": "in",
+        "start": 21.48,
+        "end": 21.72
+      },
+      {
+        "i": 58,
+        "word": "on",
+        "start": 21.72,
+        "end": 21.96
+      },
+      {
+        "i": 59,
+        "word": "small",
+        "start": 21.96,
+        "end": 22.26
+      },
+      {
+        "i": 60,
+        "word": "text,",
+        "start": 22.26,
+        "end": 22.66
+      },
+      {
+        "i": 61,
+        "word": "logos,",
+        "start": 23.2,
+        "end": 23.36
+      },
+      {
+        "i": 62,
+        "word": "thin",
+        "start": 24.0,
+        "end": 24.14
+      },
+      {
+        "i": 63,
+        "word": "lines",
+        "start": 24.14,
+        "end": 24.52
+      },
+      {
+        "i": 64,
+        "word": "and",
+        "start": 24.52,
+        "end": 25.02
+      },
+      {
+        "i": 65,
+        "word": "detailed",
+        "start": 25.02,
+        "end": 25.36
+      },
+      {
+        "i": 66,
+        "word": "photographs.",
+        "start": 25.36,
+        "end": 25.86
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Compare those areas with the original PDF.",
+    "start": 26.9,
+    "end": 28.8,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      67,
+      73
+    ],
+    "words": [
+      {
+        "i": 67,
+        "word": "Compare",
+        "start": 26.9,
+        "end": 27.22
+      },
+      {
+        "i": 68,
+        "word": "those",
+        "start": 27.22,
+        "end": 27.44
+      },
+      {
+        "i": 69,
+        "word": "areas",
+        "start": 27.44,
+        "end": 27.74
+      },
+      {
+        "i": 70,
+        "word": "with",
+        "start": 27.74,
+        "end": 27.96
+      },
+      {
+        "i": 71,
+        "word": "the",
+        "start": 27.96,
+        "end": 28.06
+      },
+      {
+        "i": 72,
+        "word": "original",
+        "start": 28.06,
+        "end": 28.44
+      },
+      {
+        "i": 73,
+        "word": "PDF.",
+        "start": 28.44,
+        "end": 28.8
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Keep the intended page size and proportions.",
+    "start": 29.27,
+    "end": 31.52,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      74,
+      80
+    ],
+    "words": [
+      {
+        "i": 74,
+        "word": "Keep",
+        "start": 29.27,
+        "end": 29.58
+      },
+      {
+        "i": 75,
+        "word": "the",
+        "start": 29.58,
+        "end": 29.76
+      },
+      {
+        "i": 76,
+        "word": "intended",
+        "start": 29.76,
+        "end": 30.08
+      },
+      {
+        "i": 77,
+        "word": "page",
+        "start": 30.08,
+        "end": 30.42
+      },
+      {
+        "i": 78,
+        "word": "size",
+        "start": 30.42,
+        "end": 30.72
+      },
+      {
+        "i": 79,
+        "word": "and",
+        "start": 30.72,
+        "end": 31.02
+      },
+      {
+        "i": 80,
+        "word": "proportions.",
+        "start": 31.02,
+        "end": 31.52
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Avoid enlarging a small raster image just to fill a bigger page because scaling it up cannot create missing detail.",
+    "start": 32.74,
+    "end": 38.22,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      81,
+      100
+    ],
+    "words": [
+      {
+        "i": 81,
+        "word": "Avoid",
+        "start": 32.74,
+        "end": 32.78
+      },
+      {
+        "i": 82,
+        "word": "enlarging",
+        "start": 32.78,
+        "end": 33.28
+      },
+      {
+        "i": 83,
+        "word": "a",
+        "start": 33.28,
+        "end": 33.4
+      },
+      {
+        "i": 84,
+        "word": "small",
+        "start": 33.4,
+        "end": 33.68
+      },
+      {
+        "i": 85,
+        "word": "raster",
+        "start": 33.68,
+        "end": 34.0
+      },
+      {
+        "i": 86,
+        "word": "image",
+        "start": 34.0,
+        "end": 34.32
+      },
+      {
+        "i": 87,
+        "word": "just",
+        "start": 34.32,
+        "end": 34.56
+      },
+      {
+        "i": 88,
+        "word": "to",
+        "start": 34.56,
+        "end": 34.74
+      },
+      {
+        "i": 89,
+        "word": "fill",
+        "start": 34.74,
+        "end": 34.88
+      },
+      {
+        "i": 90,
+        "word": "a",
+        "start": 34.88,
+        "end": 34.98
+      },
+      {
+        "i": 91,
+        "word": "bigger",
+        "start": 34.98,
+        "end": 35.16
+      },
+      {
+        "i": 92,
+        "word": "page",
+        "start": 35.16,
+        "end": 35.54
+      },
+      {
+        "i": 93,
+        "word": "because",
+        "start": 35.54,
+        "end": 35.84
+      },
+      {
+        "i": 94,
+        "word": "scaling",
+        "start": 35.84,
+        "end": 36.2
+      },
+      {
+        "i": 95,
+        "word": "it",
+        "start": 36.2,
+        "end": 36.42
+      },
+      {
+        "i": 96,
+        "word": "up",
+        "start": 36.42,
+        "end": 36.62
+      },
+      {
+        "i": 97,
+        "word": "cannot",
+        "start": 36.62,
+        "end": 37.0
+      },
+      {
+        "i": 98,
+        "word": "create",
+        "start": 37.0,
+        "end": 37.38
+      },
+      {
+        "i": 99,
+        "word": "missing",
+        "start": 37.38,
+        "end": 37.74
+      },
+      {
+        "i": 100,
+        "word": "detail.",
+        "start": 37.74,
+        "end": 38.22
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Make your edits, then select Share, Download and PDF Print.",
+    "start": 38.98,
+    "end": 42.76,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      101,
+      110
+    ],
+    "words": [
+      {
+        "i": 101,
+        "word": "Make",
+        "start": 38.98,
+        "end": 39.12
+      },
+      {
+        "i": 102,
+        "word": "your",
+        "start": 39.12,
+        "end": 39.3
+      },
+      {
+        "i": 103,
+        "word": "edits,",
+        "start": 39.3,
+        "end": 39.58
+      },
+      {
+        "i": 104,
+        "word": "then",
+        "start": 39.7,
+        "end": 39.86
+      },
+      {
+        "i": 105,
+        "word": "select",
+        "start": 39.86,
+        "end": 40.22
+      },
+      {
+        "i": 106,
+        "word": "Share,",
+        "start": 40.22,
+        "end": 40.58
+      },
+      {
+        "i": 107,
+        "word": "Download",
+        "start": 40.9,
+        "end": 41.34
+      },
+      {
+        "i": 108,
+        "word": "and",
+        "start": 41.34,
+        "end": 41.88
+      },
+      {
+        "i": 109,
+        "word": "PDF",
+        "start": 41.88,
+        "end": 42.36
+      },
+      {
+        "i": 110,
+        "word": "Print.",
+        "start": 42.36,
+        "end": 42.76
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "If a Compress file option appears, leave it disabled when your priority is Image Quality.",
+    "start": 43.62,
+    "end": 48.26,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      111,
+      125
+    ],
+    "words": [
+      {
+        "i": 111,
+        "word": "If",
+        "start": 43.62,
+        "end": 43.82
+      },
+      {
+        "i": 112,
+        "word": "a",
+        "start": 43.82,
+        "end": 43.96
+      },
+      {
+        "i": 113,
+        "word": "Compress",
+        "start": 43.96,
+        "end": 44.26
+      },
+      {
+        "i": 114,
+        "word": "file",
+        "start": 44.26,
+        "end": 44.48
+      },
+      {
+        "i": 115,
+        "word": "option",
+        "start": 44.48,
+        "end": 44.76
+      },
+      {
+        "i": 116,
+        "word": "appears,",
+        "start": 44.76,
+        "end": 45.14
+      },
+      {
+        "i": 117,
+        "word": "leave",
+        "start": 45.48,
+        "end": 45.66
+      },
+      {
+        "i": 118,
+        "word": "it",
+        "start": 45.66,
+        "end": 45.82
+      },
+      {
+        "i": 119,
+        "word": "disabled",
+        "start": 45.82,
+        "end": 46.16
+      },
+      {
+        "i": 120,
+        "word": "when",
+        "start": 46.16,
+        "end": 46.46
+      },
+      {
+        "i": 121,
+        "word": "your",
+        "start": 46.46,
+        "end": 46.64
+      },
+      {
+        "i": 122,
+        "word": "priority",
+        "start": 46.64,
+        "end": 47.16
+      },
+      {
+        "i": 123,
+        "word": "is",
+        "start": 47.16,
+        "end": 47.5
+      },
+      {
+        "i": 124,
+        "word": "Image",
+        "start": 47.5,
+        "end": 47.88
+      },
+      {
+        "i": 125,
+        "word": "Quality.",
+        "start": 47.88,
+        "end": 48.26
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Add crop marks or bleed only if your print workflow needs them.",
+    "start": 48.94,
+    "end": 52.36,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      126,
+      137
+    ],
+    "words": [
+      {
+        "i": 126,
+        "word": "Add",
+        "start": 48.94,
+        "end": 49.14
+      },
+      {
+        "i": 127,
+        "word": "crop",
+        "start": 49.14,
+        "end": 49.4
+      },
+      {
+        "i": 128,
+        "word": "marks",
+        "start": 49.4,
+        "end": 49.68
+      },
+      {
+        "i": 129,
+        "word": "or",
+        "start": 49.68,
+        "end": 49.98
+      },
+      {
+        "i": 130,
+        "word": "bleed",
+        "start": 49.98,
+        "end": 50.26
+      },
+      {
+        "i": 131,
+        "word": "only",
+        "start": 50.26,
+        "end": 50.7
+      },
+      {
+        "i": 132,
+        "word": "if",
+        "start": 50.7,
+        "end": 50.88
+      },
+      {
+        "i": 133,
+        "word": "your",
+        "start": 50.88,
+        "end": 51.04
+      },
+      {
+        "i": 134,
+        "word": "print",
+        "start": 51.04,
+        "end": 51.26
+      },
+      {
+        "i": 135,
+        "word": "workflow",
+        "start": 51.26,
+        "end": 51.66
+      },
+      {
+        "i": 136,
+        "word": "needs",
+        "start": 51.66,
+        "end": 51.92
+      },
+      {
+        "i": 137,
+        "word": "them.",
+        "start": 51.92,
+        "end": 52.36
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Download the PDF and inspect the actual exported file in a PDF viewer.",
+    "start": 52.8,
+    "end": 57.18,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      138,
+      150
+    ],
+    "words": [
+      {
+        "i": 138,
+        "word": "Download",
+        "start": 52.8,
+        "end": 53.12
+      },
+      {
+        "i": 139,
+        "word": "the",
+        "start": 53.12,
+        "end": 53.32
+      },
+      {
+        "i": 140,
+        "word": "PDF",
+        "start": 53.32,
+        "end": 53.56
+      },
+      {
+        "i": 141,
+        "word": "and",
+        "start": 53.56,
+        "end": 54.1
+      },
+      {
+        "i": 142,
+        "word": "inspect",
+        "start": 54.1,
+        "end": 54.48
+      },
+      {
+        "i": 143,
+        "word": "the",
+        "start": 54.48,
+        "end": 54.74
+      },
+      {
+        "i": 144,
+        "word": "actual",
+        "start": 54.74,
+        "end": 55.18
+      },
+      {
+        "i": 145,
+        "word": "exported",
+        "start": 55.18,
+        "end": 55.74
+      },
+      {
+        "i": 146,
+        "word": "file",
+        "start": 55.74,
+        "end": 56.16
+      },
+      {
+        "i": 147,
+        "word": "in",
+        "start": 56.16,
+        "end": 56.42
+      },
+      {
+        "i": 148,
+        "word": "a",
+        "start": 56.42,
+        "end": 56.54
+      },
+      {
+        "i": 149,
+        "word": "PDF",
+        "start": 56.54,
+        "end": 56.88
+      },
+      {
+        "i": 150,
+        "word": "viewer.",
+        "start": 56.88,
+        "end": 57.18
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Here's the part many tutorials skip.",
+    "start": 57.74,
+    "end": 59.72,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      151,
+      156
+    ],
+    "words": [
+      {
+        "i": 151,
+        "word": "Here's",
+        "start": 57.74,
+        "end": 58.16
+      },
+      {
+        "i": 152,
+        "word": "the",
+        "start": 58.16,
+        "end": 58.26
+      },
+      {
+        "i": 153,
+        "word": "part",
+        "start": 58.26,
+        "end": 58.48
+      },
+      {
+        "i": 154,
+        "word": "many",
+        "start": 58.48,
+        "end": 58.76
+      },
+      {
+        "i": 155,
+        "word": "tutorials",
+        "start": 58.76,
+        "end": 59.28
+      },
+      {
+        "i": 156,
+        "word": "skip.",
+        "start": 59.28,
+        "end": 59.72
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "PDF print improves the export choice, but it cannot repair detail, fonts or objects that change during import.",
+    "start": 60.58,
+    "end": 67.0,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      157,
+      174
+    ],
+    "words": [
+      {
+        "i": 157,
+        "word": "PDF",
+        "start": 60.58,
+        "end": 60.58
+      },
+      {
+        "i": 158,
+        "word": "print",
+        "start": 60.58,
+        "end": 60.92
+      },
+      {
+        "i": 159,
+        "word": "improves",
+        "start": 60.92,
+        "end": 61.58
+      },
+      {
+        "i": 160,
+        "word": "the",
+        "start": 61.58,
+        "end": 61.76
+      },
+      {
+        "i": 161,
+        "word": "export",
+        "start": 61.76,
+        "end": 62.2
+      },
+      {
+        "i": 162,
+        "word": "choice,",
+        "start": 62.2,
+        "end": 62.6
+      },
+      {
+        "i": 163,
+        "word": "but",
+        "start": 62.6,
+        "end": 62.88
+      },
+      {
+        "i": 164,
+        "word": "it",
+        "start": 62.88,
+        "end": 63.02
+      },
+      {
+        "i": 165,
+        "word": "cannot",
+        "start": 63.02,
+        "end": 63.22
+      },
+      {
+        "i": 166,
+        "word": "repair",
+        "start": 63.22,
+        "end": 63.68
+      },
+      {
+        "i": 167,
+        "word": "detail,",
+        "start": 63.68,
+        "end": 64.26
+      },
+      {
+        "i": 168,
+        "word": "fonts",
+        "start": 64.6,
+        "end": 64.84
+      },
+      {
+        "i": 169,
+        "word": "or",
+        "start": 64.84,
+        "end": 65.24
+      },
+      {
+        "i": 170,
+        "word": "objects",
+        "start": 65.24,
+        "end": 65.64
+      },
+      {
+        "i": 171,
+        "word": "that",
+        "start": 65.64,
+        "end": 65.92
+      },
+      {
+        "i": 172,
+        "word": "change",
+        "start": 65.92,
+        "end": 66.22
+      },
+      {
+        "i": 173,
+        "word": "during",
+        "start": 66.22,
+        "end": 66.58
+      },
+      {
+        "i": 174,
+        "word": "import.",
+        "start": 66.58,
+        "end": 67.0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Canva does not guarantee a lossless PDF round trip.",
+    "start": 67.86,
+    "end": 70.68,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      175,
+      183
+    ],
+    "words": [
+      {
+        "i": 175,
+        "word": "Canva",
+        "start": 67.86,
+        "end": 67.98
+      },
+      {
+        "i": 176,
+        "word": "does",
+        "start": 67.98,
+        "end": 68.12
+      },
+      {
+        "i": 177,
+        "word": "not",
+        "start": 68.12,
+        "end": 68.32
+      },
+      {
+        "i": 178,
+        "word": "guarantee",
+        "start": 68.32,
+        "end": 68.78
+      },
+      {
+        "i": 179,
+        "word": "a",
+        "start": 68.78,
+        "end": 69.08
+      },
+      {
+        "i": 180,
+        "word": "lossless",
+        "start": 69.08,
+        "end": 69.58
+      },
+      {
+        "i": 181,
+        "word": "PDF",
+        "start": 69.58,
+        "end": 70.04
+      },
+      {
+        "i": 182,
+        "word": "round",
+        "start": 70.04,
+        "end": 70.4
+      },
+      {
+        "i": 183,
+        "word": "trip.",
+        "start": 70.4,
+        "end": 70.68
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "If the imported page already looks wrong and editable content is unnecessary, render the original page as a sufficiently high resolution image, place it on a matching Canva page and check a test export.",
+    "start": 71.26,
+    "end": 81.98,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      184,
+      217
+    ],
+    "words": [
+      {
+        "i": 184,
+        "word": "If",
+        "start": 71.26,
+        "end": 71.4
+      },
+      {
+        "i": 185,
+        "word": "the",
+        "start": 71.4,
+        "end": 71.52
+      },
+      {
+        "i": 186,
+        "word": "imported",
+        "start": 71.52,
+        "end": 71.86
+      },
+      {
+        "i": 187,
+        "word": "page",
+        "start": 71.86,
+        "end": 72.2
+      },
+      {
+        "i": 188,
+        "word": "already",
+        "start": 72.2,
+        "end": 72.58
+      },
+      {
+        "i": 189,
+        "word": "looks",
+        "start": 72.58,
+        "end": 72.86
+      },
+      {
+        "i": 190,
+        "word": "wrong",
+        "start": 72.86,
+        "end": 73.12
+      },
+      {
+        "i": 191,
+        "word": "and",
+        "start": 73.12,
+        "end": 73.36
+      },
+      {
+        "i": 192,
+        "word": "editable",
+        "start": 73.36,
+        "end": 73.78
+      },
+      {
+        "i": 193,
+        "word": "content",
+        "start": 73.78,
+        "end": 74.12
+      },
+      {
+        "i": 194,
+        "word": "is",
+        "start": 74.12,
+        "end": 74.3
+      },
+      {
+        "i": 195,
+        "word": "unnecessary,",
+        "start": 74.3,
+        "end": 74.84
+      },
+      {
+        "i": 196,
+        "word": "render",
+        "start": 75.38,
+        "end": 75.58
+      },
+      {
+        "i": 197,
+        "word": "the",
+        "start": 75.58,
+        "end": 75.8
+      },
+      {
+        "i": 198,
+        "word": "original",
+        "start": 75.8,
+        "end": 76.06
+      },
+      {
+        "i": 199,
+        "word": "page",
+        "start": 76.06,
+        "end": 76.42
+      },
+      {
+        "i": 200,
+        "word": "as",
+        "start": 76.42,
+        "end": 76.68
+      },
+      {
+        "i": 201,
+        "word": "a",
+        "start": 76.68,
+        "end": 76.84
+      },
+      {
+        "i": 202,
+        "word": "sufficiently",
+        "start": 76.84,
+        "end": 77.2
+      },
+      {
+        "i": 203,
+        "word": "high",
+        "start": 77.2,
+        "end": 77.58
+      },
+      {
+        "i": 204,
+        "word": "resolution",
+        "start": 77.58,
+        "end": 77.96
+      },
+      {
+        "i": 205,
+        "word": "image,",
+        "start": 77.96,
+        "end": 78.46
+      },
+      {
+        "i": 206,
+        "word": "place",
+        "start": 78.8,
+        "end": 79.0
+      },
+      {
+        "i": 207,
+        "word": "it",
+        "start": 79.0,
+        "end": 79.16
+      },
+      {
+        "i": 208,
+        "word": "on",
+        "start": 79.16,
+        "end": 79.34
+      },
+      {
+        "i": 209,
+        "word": "a",
+        "start": 79.34,
+        "end": 79.44
+      },
+      {
+        "i": 210,
+        "word": "matching",
+        "start": 79.44,
+        "end": 79.7
+      },
+      {
+        "i": 211,
+        "word": "Canva",
+        "start": 79.7,
+        "end": 80.12
+      },
+      {
+        "i": 212,
+        "word": "page",
+        "start": 80.12,
+        "end": 80.46
+      },
+      {
+        "i": 213,
+        "word": "and",
+        "start": 80.46,
+        "end": 80.92
+      },
+      {
+        "i": 214,
+        "word": "check",
+        "start": 80.92,
+        "end": 81.12
+      },
+      {
+        "i": 215,
+        "word": "a",
+        "start": 81.12,
+        "end": 81.26
+      },
+      {
+        "i": 216,
+        "word": "test",
+        "start": 81.26,
+        "end": 81.5
+      },
+      {
+        "i": 217,
+        "word": "export.",
+        "start": 81.5,
+        "end": 81.98
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Use the exported result only after verifying the details that matter for your document.",
+    "start": 81.98,
+    "end": 87.28,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      218,
+      231
+    ],
+    "words": [
+      {
+        "i": 218,
+        "word": "Use",
+        "start": 81.98,
+        "end": 83.14
+      },
+      {
+        "i": 219,
+        "word": "the",
+        "start": 83.14,
+        "end": 83.32
+      },
+      {
+        "i": 220,
+        "word": "exported",
+        "start": 83.32,
+        "end": 83.8
+      },
+      {
+        "i": 221,
+        "word": "result",
+        "start": 83.8,
+        "end": 84.2
+      },
+      {
+        "i": 222,
+        "word": "only",
+        "start": 84.2,
+        "end": 84.68
+      },
+      {
+        "i": 223,
+        "word": "after",
+        "start": 84.68,
+        "end": 84.96
+      },
+      {
+        "i": 224,
+        "word": "verifying",
+        "start": 84.96,
+        "end": 85.44
+      },
+      {
+        "i": 225,
+        "word": "the",
+        "start": 85.44,
+        "end": 85.68
+      },
+      {
+        "i": 226,
+        "word": "details",
+        "start": 85.68,
+        "end": 86.04
+      },
+      {
+        "i": 227,
+        "word": "that",
+        "start": 86.04,
+        "end": 86.28
+      },
+      {
+        "i": 228,
+        "word": "matter",
+        "start": 86.28,
+        "end": 86.52
+      },
+      {
+        "i": 229,
+        "word": "for",
+        "start": 86.52,
+        "end": 86.78
+      },
+      {
+        "i": 230,
+        "word": "your",
+        "start": 86.78,
+        "end": 86.92
+      },
+      {
+        "i": 231,
+        "word": "document.",
+        "start": 86.92,
+        "end": 87.28
+      }
+    ]
+  }
+]

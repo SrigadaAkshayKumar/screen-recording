@@ -1,0 +1,32 @@
+{
+  "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 243.5},
+  "sync": {"clicks_offset": 0, "source": "frames"},
+  "actions": [
+    {"id":"A1","t_click":22.4,"x":430,"y":815,"kind":"click","target":"Upload item in the create menu","result":"Upload page opens","t_result_visible":23.0,"confidence":"medium"},
+    {"id":"A2","t_click":23.85,"x":1082,"y":528,"kind":"click","target":"Upload files button","result":"file picker opens","t_result_visible":24.4,"confidence":"high"},
+    {"id":"A3","t_click":26.5,"x":1090,"y":600,"kind":"click","target":"Open button of the file picker","result":"picker closes, upload starts","t_result_visible":26.8,"confidence":"medium"},
+    {"id":"A4","t_click":27.5,"x":1690,"y":960,"kind":"wait","target":"upload progress toast","result":"1 item uploaded","t_result_visible":30.4,"confidence":"high"},
+    {"id":"A5","t_click":34.55,"x":1700,"y":950,"kind":"click","target":"uploaded file in the toast","result":"design opens in the editor","t_result_visible":38.0,"confidence":"low"},
+    {"id":"A6","t_click":51.1,"x":985,"y":555,"kind":"click","target":"chart legend","result":"legend selected","t_result_visible":51.5,"confidence":"medium"},
+    {"id":"A7","t_click":113.1,"x":1752,"y":228,"kind":"click","target":"Share button","result":"Share panel opens","t_result_visible":114.0,"confidence":"medium"},
+    {"id":"A8","t_click":116.0,"x":1286,"y":600,"kind":"click","target":"Download in the share panel","result":"Download settings panel opens","t_result_visible":116.6,"confidence":"medium"},
+    {"id":"A9","t_click":119.2,"x":1512,"y":466,"kind":"click","target":"File type dropdown (PDF)","result":"file type list opens","t_result_visible":119.6,"confidence":"medium"},
+    {"id":"A10","t_click":121.8,"x":1575,"y":775,"kind":"click","target":"Download button","result":"export starts, progress toast","t_result_visible":125.0,"confidence":"medium"},
+    {"id":"A11","t_click":125.0,"x":1650,"y":900,"kind":"wait","target":"export progress toast","result":"PDF exported","t_result_visible":131.8,"confidence":"medium"},
+    {"id":"A12","t_click":137.5,"x":1325,"y":200,"kind":"click","target":"downloaded PDF in the downloads list","result":"PDF opens in a viewer tab","t_result_visible":138.2,"confidence":"medium"},
+    {"id":"A13","t_click":214.0,"x":1090,"y":640,"kind":"drag","x2":1280,"y2":820,"t_end":215.5,"target":"small image on the page (resize handle)","result":"image enlarged to fill the page","t_result_visible":217.0,"confidence":"low"},
+    {"id":"A14","t_click":232.9,"x":1520,"y":790,"kind":"click","target":"Download button (test export)","result":"export starts","t_result_visible":233.3,"confidence":"medium"}
+  ],
+  "junk": [
+    {"start":0.0,"end":17.667,"reason":"script document open, off-topic"},
+    {"start":61.0,"end":68.233,"reason":"idle on the design","ff":true},
+    {"start":76.8,"end":79.533,"reason":"idle on the design","ff":true},
+    {"start":94.467,"end":105.467,"reason":"idle, cursor parked","ff":true},
+    {"start":133.1,"end":136.067,"reason":"idle after export","ff":true},
+    {"start":151.067,"end":158.7,"reason":"idle on the design while the viewer is in another tab","ff":true},
+    {"start":164.433,"end":168.333,"reason":"idle in the viewer","ff":true},
+    {"start":182.667,"end":194.633,"reason":"idle in the viewer","ff":true},
+    {"start":195.1,"end":210.9,"reason":"unnarrated chart edits"},
+    {"start":238.0,"end":243.5,"reason":"desktop / recorder stop"}
+  ]
+}
