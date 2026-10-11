@@ -2,69 +2,53 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 2 | Uploads | 7.640 | A1 Uploads in the left sidebar | 14.100 | 1.85x |
-| 3 | Upload | 10.000 | A2 Upload files button | 16.200 | 0.89x |
-| 3 | image, | 11.660 | A3 Cognizant Onboarding image in the picker | 25.500 | 0.90x |
-| 3 | Open. | 12.480 | A4 Open button | 26.300 | 0.98x |
-| 5 | thumbnail | 16.220 | A6 image thumbnail in the Uploads panel | 35.200 | 2.38x |
-| 6 | Drag | 18.540 | A9 image on the page | 41.600 | 1.21x |
-| 7 | corner | 21.000 | A8 corner handle of the image | 38.800 | 0.77x |
-| 8 | select | 26.220 | A10 image on the page | 51.600 | 2.11x |
-| 8 | Crop | 27.320 | A11 Crop in the toolbar | 54.300 | 2.45x |
-| 9 | Adjust | 28.660 | A12 crop handle | 71.300 | 2.24x |
-| 9 | Done | 30.780 | A13 Done in the Crop panel | 79.900 | 3.16x |
-| 10 | Elements, | 35.700 | A14 Elements in the left sidebar | 89.200 | 1.89x |
-| 10 | find | 36.620 | A15 Frames category | 91.500 | 2.50x |
-| 10 | add | 37.500 | A16 circle frame | 93.900 | 2.73x |
-| 11 | image | 39.720 | A17 image dragged into the frame | 99.600 | 2.57x |
-| 12 | image | 41.980 | A18 image inside the frame (double-click) | 118.300 | 2.74x |
-| 12 | reposition | 43.320 | A19 photo inside the frame | 121.600 | 2.46x |
-| 14 | Cropping | 48.160 | A21 Crop in the toolbar (second crop) | 142.800 | 1.10x |
-| 15 | enlarging | 54.180 | A23 corner handle (enlarge) | 155.000 | 2.03x |
-| 16 | Edit | 59.760 | A24 Edit in the toolbar | 175.500 | 1.34x |
-| 16 | adjustment | 61.300 | A25 Adjust tool | 179.000 | 2.27x |
-| 17 | change | 63.640 | A26 Brightness slider | 184.500 | 2.35x |
-| 18 | Share, | 67.580 | A27 Share button | 193.000 | 2.16x |
-| 18 | download | 68.500 | A28 Download in the Share panel | 194.600 | 1.74x |
-| 18 | format | 69.880 | A29 File type dropdown (PNG) | 197.900 | 2.39x |
-| 19 | Your | 71.160 | A30 Download button | 206.000 | 2.03x |
+| 2 | Open | 5.840 | A1 Continue designing: sample design card | 9.700 | 1.66x |
+| 2 | Elements, | 7.240 | A2 Elements tab in the side bar | 14.500 | 3.43x |
+| 2 | basic | 8.260 | A3 Shapes category | 18.200 | 3.63x |
+| 3 | circle. | 10.920 | A4 Circle in Basic shapes | 20.550 | 0.88x |
+| 4 | color, | 12.240 | A7 colour picker (hue slider) | 45.500 | 2.01x |
+| 4 | resize | 12.960 | A5 circle corner handle | 33.500 | 2.78x |
+| 4 | position | 14.120 | A6 circle on the page | 35.000 | 1.29x |
+| 5 | Select | 16.680 | A8 blue circle | 49.700 | 0.98x |
+| 5 | Animate. | 17.960 | A9 Animate button in the toolbar | 51.500 | 1.41x |
+| 6 | Element | 19.620 | A10 Element tab in the Animate panel | 54.900 | 2.05x |
+| 7 | Rise | 26.040 | A11 Rise style | 71.000 | 2.51x |
+| 8 | choose | 29.720 | A12 direction arrow | 81.200 | 2.77x |
+| 9 | speed | 32.260 | A13 Medium speed button | 84.200 | 1.18x |
+| 10 | Play | 35.460 | A14 Play button | 120.300 | 1.00x +0.8s hold |
+| 11 | switch | 39.600 | A15 Pan style (subtler animation) | 134.200 | 0.97x |
+| 12 | select | 45.960 | A20 second circle (shift-click) | 236.600 | 1.00x +2.6s hold |
+| 12 | Group. | 48.060 | A21 Group button | 238.900 | 1.10x |
+| 14 | separate | 52.580 | A16 Animate button for the second shape | 173.900 | 1.00x +1.7s hold |
+| 14 | individually. | 54.500 | A17 Fade style for the second shape | 179.900 | 3.12x |
+| 15 | timeline | 57.380 | A18 timeline | 216.400 | 1.01x |
+| 16 | introducing | 60.820 | A19 timeline play button | 225.700 | 2.70x |
+| 19 | ungroup | 73.740 | A22 Ungroup button | 250.600 | 1.04x |
+| 20 | Preview | 76.880 | A23 Play button | 263.200 | 0.89x |
+| 20 | download | 78.420 | A24 Download in the Share menu | 269.000 | 3.77x |
+| 20 | MP4 | 79.240 | A25 MP4 Video file type | 271.300 | 2.80x |
+| 21 | GIF | 81.400 | A26 GIF file type | 277.900 | 3.06x |
 
 ## Builder decisions
 
-- A2->A3: cut src 17.00-24.80 - too long to fast-forward at <= 2.00x (junk: navigating the file picker to Downloads)
-- A9: after A6 (until src 37.80) jumps ahead to src 41.40 - narration order
-- A8: after A9 (until src 43.20) jumps back to src 38.50 - narration order
-- A10: after A8 (until src 41.40) jumps ahead to src 43.20 - narration order
-- A11->A12: cut src 56.00-70.00 - too long to fast-forward at <= 2.00x (junk: idle in the Crop panel)
-- A12->A13: cut src 77.40-79.30 - too long to fast-forward at <= 2.00x (junk: idle before Done)
-- A17->A18: cut src 105.00-117.50 - too long to fast-forward at <= 2.00x (junk: idle after resizing the frame)
-- A23->A24: cut src 161.00-174.00 - too long to fast-forward at <= 2.00x (junk: idle after enlarging (recorder zooms))
-- A29->A30: cut src 199.00-204.50 - too long to fast-forward at <= 2.00x (junk: hovering the Download panel options)
+- A7: after A4 (until src 22.40) jumps ahead to src 44.30 - narration order
+- A4->A7: cut src 22.00-31.00 - too long to fast-forward at <= 2.00x (idle after placing the circle)
+- A5: after A7 (until src 47.00) jumps back to src 33.00 - narration order
+- A8: after A6 (until src 36.40) jumps ahead to src 48.60 - narration order
+- A14: after A13 (until src 85.30) jumps ahead to src 119.00 - narration order
+- A15: after A14 (until src 122.70) jumps ahead to src 132.60 - narration order
+- A20: after A15 (until src 135.60) jumps ahead to src 234.20 - narration order
+- A16: after A21 (until src 240.20) jumps back to src 172.40 - narration order
+- A18: after A17 (until src 181.60) jumps ahead to src 215.20 - narration order
+- A22: after A19 (until src 228.50) jumps ahead to src 240.00 - narration order
+- A23: after A22 (until src 252.40) jumps ahead to src 262.20 - narration order
 
 ## Judgment calls
 
-- **Fast-forward first.** Every in-scene stretch plays at 0.8-2.7x; the Crop handle drags at 3.2x.
-  Cut, because they could not fit at ≤ 2x:
-  - file picker navigation 17.0-24.8;
-  - Crop panel idle 56-70;
-  - idle 77.4-79.3, idle 105-117.5 and idle 161-174;
-  - Download-panel hovering 199-204.5.
-
-  Hard cut: the undo that removes the frame (125.6-141.5).
-- **Narration order:** L6 "Drag" shows the move (41.6) first, then jumps back for L7 "corner handle"
-  (resize 38.8), then skips ahead past the move to the selection for cropping (43.2).
-  Continuity: during "Drag" the image is already enlarged.
-- **Anchors:**
-  - Uploads, Upload, image (file pick), Open, thumbnail, Drag, corner, select, Crop (2nd "crop" in L8),
-    Adjust, Done;
-  - Elements, find (Frames category), add (circle frame), image (drag into frame), image
-    (double-click), reposition;
-  - Cropping (second crop), enlarging (resize to 1080x1349), Edit, adjustment (Adjust tool),
-    change (brightness);
-  - Share, download, format (file-type list), and L19 "Your" for the final Download click. On
-    "need" it would need 5x.
-- **Unanchored:** wait for the thumbnail (8x), collapse panel (no ripple), Done after reposition,
-  Done after the second crop.
-- **Review fix:** the preview showed the file-type dropdown (JPG/PNG/PDF/SVG/MP4) only inside a
-  cross-fade. Added it as action A29 on "format" and moved the Download click to "Your".
-- No zooms (the recorder zooms). Ending: 1.5 s at 1x after Download, then a 2.6 s hold.
+- **No zooms, no ripples.** The recording has the recorder's own auto-zoom baked in (lessons: script-1, script-18); coordinates inside those zooms are estimates, so every action is in `no_ripple` and `zooms` is empty.
+- **Followed the audio order.** L4 says colour, resize, position; the recording does resize (33.5), position (35.0), then colour (45.5). Colour is shown first (A7, `src_from` 44.3), then a cross-fade back to resize/position (A5, A6), then a jump to the circle selection (A8, `src_from` 48.6). Likewise L12 (group, src 234-239) is narrated before L14 (separate animations, src 173-180) although the recording does it the other way round: cross-fade back at A16.
+- Forward jumps with `src_from`: A14 (Play 119), A15 (Pan 132.6), A18 (timeline 215.2), A22 (ungroup 240), A23 (play 262.2). In-scene dead time (22-31 s idle, 86-116 s hovering over settings) is marked `ff`; the builder kept it as a cut because it exceeds 2x, i.e. the narration leaves no room.
+- Anchors: A1 "Open", A2 "Elements", A3 "basic", A4 "circle", A7 "color", A5 "resize", A6 "position", A8 "Select", A9 "Animate", A10 "Element", A11 "Rise", A12 "choose", A13 "speed", A14 "Play", A15 "switch" (Pan = the subtler animation), A20 "select", A21 "Group", A16 "separate" (A16->A17 on "animate"/"individually" was 1.1 s for 6 s of footage, > 4x), A17 "individually", A18 "timeline", A19 "introducing", A22 "ungroup", A23 "Preview", A24 "download", A25 "MP4", A26 "GIF".
+- Unmentioned/missing: L13 "Then animate the group" has no action (group idles on screen); L16 "second shape one second later" is only matched to a timeline play click (A19, low confidence) - the recording never shows a staggered bar; L9 "speed or duration" matched to one Medium click (A13), the rest of the hovering is cut.
+- A3 warning: the Shapes list is only loaded 0.3 s after line 2 ends; accepted.
+- Trimmed the ending: junk 283.8-288.8 (desktop after export) is removed.

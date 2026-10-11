@@ -1,27 +1,11 @@
-# Analyze notes — script-04
+# Analyze notes
 
-Recording 214.8 s, 1920x1080 @ 30 fps, no click log. The recorder zooms by itself, so click positions
-are in the zoomed recorded frames (medium confidence unless noted).
-
-## What the recording shows
-- 0-14: blank design. Uploads (14.1), Upload files (16.2), picker navigation to Downloads (17-24.8),
-  Cognizant image (25.5), Open (26.3), upload (27.4-31.1).
-- Places a different, already uploaded image ("Selected vs Rejected", 35.2), not the Cognizant
-  file it just uploaded. Collapses the side panel (37.5).
-- Resizes with the corner handle (38.8-41.4), **then** drags it to the centre (41.6-42.9).
-- Select (51.6) -> Crop (54.3) -> idle in the Crop panel 56-70 -> drags crop handles (71.3-77.2) -> Done (79.9).
-- Elements (89.2) -> Frames (91.5) -> circle frame (93.9), resizes the frame, drags the image in
-  (99.6-102.2), resizes again, idle 105-117.5. Double-click (118.3), reposition (121.6), Done (123.3).
-- 125.6-141.5: idle, then **undo** removes the frame (mistake, junk).
-- Second crop (142.8 / Done 147.0), enlarges the image to 1080x1349 (155-158.6), idle 161-174.
-- Edit (175.5) -> Adjust (179.0) -> Brightness +20 (184.5-187.0).
-- Share (193.0) -> Download (194.6) -> file-type list opened (197.9) -> Download (206.0). Desktop 207.5+.
-
-## Uncertain
-- A7 (collapse panel) low; no ripple. A27 Share medium (recorder zoom moving).
-- Drags: start/end positions approximate (zoomed footage).
-
-## Script vs recording
-- The image placed is not the one just uploaded. Viewers may notice the thumbnail differs.
-- "Drag the image" then "corner handle": the recording does them in the opposite order.
-- The final design keeps no frame (undone at ~139 s), so the second half shows the image without it.
+- No clicks.json: every time is read from frames, so t_click is +-0.3 s and x/y are rough.
+- **The recording has baked-in recorder zoom** (zoom in/out around most clicks, events with huge magnitude). Coordinates of actions that happen inside a recorder zoom are estimates converted from the unzoomed layout; the sync step therefore uses no zooms and no ripples (lessons: script-1, script-18).
+- Low confidence: A1 (open design - the click frame is hidden by the recorder's zoom/transition at 9.4-12.4), A2, A10 (Element tab already looked active when the panel opened), A12, A13, A17, A18, A19, A23.
+- The narrated "position it" and "resize it" are both in the recording: position = move drag at 32.5 and 35.1, resize = corner drag at 33.5. Colour was picked after them (35.8-45.5); narration order is colour, resize, position.
+- Narrated "Then animate the group" (L13): no click found; the group is selected at ~240 and left idle.
+- Narrated "switch to a more subtle animation" (L11) matched to the Pan style click at ~134 (the animated design is a second "Untitled design" tab from 123 s).
+- 141-213 s: a second circle is duplicated (156-160) and animated separately (Animate 174, Fade 180, direction/speed 192-205); this is the "animate each one individually" step but happens before the group step in the recording.
+- Unnarrated: 100-117 speed/direction hovering, 123-132 timeline/new-tab view, 205-214 idle.
+- Junk: 283.8-288.8 export done, desktop shown.
