@@ -1,139 +1,32 @@
 {
-  "anchors": [
-    {
-      "action": "A1",
-      "line": 3,
-      "word": "Uploads"
-    },
-    {
-      "action": "A2",
-      "line": 3,
-      "word": "Files",
-      "lead": -0.1
-    },
-    {
-      "action": "A3",
-      "line": 4,
-      "word": "select"
-    },
-    {
-      "action": "A4",
-      "line": 4,
-      "word": "Open"
-    },
-    {
-      "action": "A6",
-      "line": 8,
-      "word": "image",
-      "src_from": 86.9,
-      "prev_until": 111.4
-    },
-    {
-      "action": "A9",
-      "line": 8,
-      "word": "video",
-      "src_from": 182.5,
-      "prev_until": 89.5
-    },
-    {
-      "action": "A10",
-      "line": 8,
-      "word": "timeline"
-    },
-    {
-      "action": "A11",
-      "line": 9,
-      "word": "Explorer"
-    },
-    {
-      "action": "A12",
-      "line": 9,
-      "word": "drag"
-    },
-    {
-      "action": "A14",
-      "line": 14,
-      "word": "upload"
-    },
-    {
-      "action": "A18",
-      "line": 14,
-      "word": "finishes"
-    },
-    {
-      "action": "A19",
-      "line": 15,
-      "word": "homepage"
-    },
-    {
-      "action": "A20",
-      "line": 15,
-      "word": "Projects"
-    },
-    {
-      "action": "A21",
-      "line": 15,
-      "word": "Uploads"
-    },
-    {
-      "action": "A8",
-      "line": 7,
-      "word": "images",
-      "src_from": 119.8,
-      "prev_until": 87.5
-    },
-    {
-      "action": "A7",
-      "line": 7,
-      "word": "videos",
-      "src_from": 110.0,
-      "prev_until": 121.7
-    }
-  ],
-  "zooms": [],
-  "no_ripple": [],
-  "cuts": [
-    {
-      "src_start": 50.3,
-      "src_end": 51.3,
-      "reason": "cursor idles after the Uploads panel opens; makes room for 'then click Upload Files'",
-      "xfade": true,
-      "ff": true
-    },
-    {
-      "src_start": 297.0,
-      "src_end": 302.6,
-      "reason": "PDF upload progress; narration says 'after processing finishes'",
-      "xfade": true,
-      "ff": true
-    },
-    {
-      "src_start": 312.5,
-      "src_end": 320.5,
-      "reason": "idle on the imported PDF design",
-      "xfade": true,
-      "ff": true
-    },
-    {
-      "src_start": 322.9,
-      "src_end": 327.7,
-      "reason": "idle on the homepage before clicking Projects",
-      "xfade": true,
-      "ff": true
-    },
-    {
-      "src_start": 330.6,
-      "src_end": 338.3,
-      "reason": "hovering Recents and scrolling down to Folders (All projects page stays visible first)",
-      "xfade": true,
-      "ff": true
-    }
-  ],
-  "use_junk": true,
-  "hold_at": {},
-  "src_start": 0.0,
-  "src_end": 347.6,
-  "style": {
-    "ripple_color": "#2F80ED"
-  }
+ "anchors": [
+  {"action":"A1","line":2,"word":"create"},
+  {"action":"A2","line":3,"word":"vertical"},
+  {"action":"A3","line":4,"word":"Uploads"},
+  {"action":"A4","line":4,"word":"Files"},
+  {"action":"A5","line":5,"word":"uploaded"},
+  {"action":"A6","line":5,"word":"resize","src_from":39.5,"prev_until":33.5},
+  {"action":"A8","line":8,"word":"Animate","src_from":73.0,"prev_until":46.0},
+  {"action":"A9","line":10,"word":"pan"},
+  {"action":"A10","line":10,"word":"fade"},
+  {"action":"A11","line":11,"word":"speed"},
+  {"action":"A12","line":11,"word":"play","src_from":125.5},
+  {"action":"A7","line":13,"word":"extend","src_from":46.8,"prev_until":128.0},
+  {"action":"A16","line":16,"word":"PNG","src_from":168.2,"prev_until":51.5},
+  {"action":"A17","line":16,"word":"JPG","prev_until":171.5},
+  {"action":"A13","line":17,"word":"Share","src_from":164.0,"prev_until":165.6},
+  {"action":"A14","line":17,"word":"download"},
+  {"action":"A18","line":17,"word":"MP4","src_from":177.0,"prev_until":167.6},
+  {"action":"A19","line":18,"word":"GIF"},
+  {"action":"A21","line":19,"word":"Download","src_from":189.5,"prev_until":192.5},
+  {"action":"A22","line":19,"word":"play","src_from":195.3}
+ ],
+ "zooms": [],
+ "no_ripple": ["A1","A2","A3","A4","A5","A6","A7","A8","A10","A11","A12","A13","A14","A15","A16","A17","A18","A19","A20","A21","A22"],
+ "cuts": [],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "hold_at": {"A13":164.0},
+ "src_start": 8.8,
+ "src_end": 204.5
 }

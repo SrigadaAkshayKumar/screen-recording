@@ -1,299 +1,298 @@
 {
-  "recording": {
-    "width": 1920,
-    "height": 1080,
-    "fps": 30,
-    "duration": 361.6
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 210.867
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 11.2,
+   "x": 115,
+   "y": 330,
+   "kind": "click",
+   "target": "Create button in sidebar",
+   "result": "Create a design panel opens",
+   "t_result_visible": 11.6,
+   "confidence": "medium"
   },
-  "sync": {
-    "clicks_offset": null,
-    "source": "frames"
+  {
+   "id": "A2",
+   "t_click": 12.7,
+   "x": 912,
+   "y": 840,
+   "kind": "click",
+   "target": "Instagram Reel (vertical video) design",
+   "result": "blank vertical video design opens in editor",
+   "t_result_visible": 14.4,
+   "confidence": "low"
   },
-  "actions": [
-    {
-      "id": "A1",
-      "t_click": 48.4,
-      "x": 82,
-      "y": 630,
-      "kind": "click",
-      "target": "Uploads in the left sidebar",
-      "result": "Uploads panel opens",
-      "t_result_visible": 50.0,
-      "confidence": "high"
-    },
-    {
-      "id": "A2",
-      "t_click": 53.15,
-      "x": 315,
-      "y": 330,
-      "kind": "click",
-      "target": "Upload files button",
-      "result": "Windows file dialog opens",
-      "t_result_visible": 54.2,
-      "confidence": "high"
-    },
-    {
-      "id": "A3",
-      "t_click": 77.0,
-      "x": 1297,
-      "y": 302,
-      "kind": "click",
-      "target": "topmate_thumbnail file in the dialog",
-      "result": "file selected, name filled in",
-      "t_result_visible": 77.2,
-      "confidence": "medium"
-    },
-    {
-      "id": "A4",
-      "t_click": 77.75,
-      "x": 1128,
-      "y": 542,
-      "kind": "click",
-      "target": "Open button",
-      "result": "dialog closes, upload starts",
-      "t_result_visible": 78.1,
-      "confidence": "high"
-    },
-    {
-      "id": "A5",
-      "t_click": 78.1,
-      "x": 192,
-      "y": 816,
-      "kind": "wait",
-      "target": "Uploads panel image grid",
-      "result": "uploaded thumbnail appears first in the Images grid",
-      "t_result_visible": 79.2,
-      "confidence": "medium"
-    },
-    {
-      "id": "A6",
-      "t_click": 88.35,
-      "x": 253,
-      "y": 750,
-      "kind": "click",
-      "target": "uploaded image in the Uploads panel",
-      "result": "image placed on the page",
-      "t_result_visible": 88.9,
-      "confidence": "high"
-    },
-    {
-      "id": "A7",
-      "t_click": 110.75,
-      "x": 353,
-      "y": 538,
-      "kind": "click",
-      "target": "Videos tab in the Uploads panel",
-      "result": "uploaded videos listed",
-      "t_result_visible": 111.3,
-      "confidence": "high"
-    },
-    {
-      "id": "A8",
-      "t_click": 121.0,
-      "x": 262,
-      "y": 542,
-      "kind": "click",
-      "target": "Images tab in the Uploads panel",
-      "result": "uploaded images listed",
-      "t_result_visible": 121.6,
-      "confidence": "high"
-    },
-    {
-      "id": "A9",
-      "t_click": 184.15,
-      "x": 338,
-      "y": 408,
-      "kind": "click",
-      "target": "Videos tab in the Uploads panel",
-      "result": "uploaded videos listed",
-      "t_result_visible": 184.5,
-      "confidence": "high"
-    },
-    {
-      "id": "A10",
-      "t_click": 187.85,
-      "x": 412,
-      "y": 570,
-      "kind": "click",
-      "target": "uploaded video",
-      "result": "video added to the page and the timeline",
-      "t_result_visible": 188.6,
-      "confidence": "high"
-    },
-    {
-      "id": "A11",
-      "t_click": 200.95,
-      "x": 1176,
-      "y": 1066,
-      "kind": "click",
-      "target": "File Explorer icon in the taskbar",
-      "result": "File Explorer opens",
-      "t_result_visible": 201.4,
-      "confidence": "medium"
-    },
-    {
-      "id": "A12",
-      "t_click": 205.75,
-      "x": 1137,
-      "y": 485,
-      "kind": "drag",
-      "x2": 1467,
-      "y2": 595,
-      "t_end": 207.45,
-      "target": "images (2) file in File Explorer",
-      "result": "file dropped on Canva, appears first in the Uploads panel",
-      "t_result_visible": 208.2,
-      "confidence": "medium"
-    },
-    {
-      "id": "A13",
-      "t_click": 284.45,
-      "x": 115,
-      "y": 350,
-      "kind": "click",
-      "target": "Create button on the homepage",
-      "result": "Create a design dialog opens",
-      "t_result_visible": 285.3,
-      "confidence": "medium"
-    },
-    {
-      "id": "A14",
-      "t_click": 285.75,
-      "x": 293,
-      "y": 812,
-      "kind": "click",
-      "target": "Upload in the Create a design list",
-      "result": "Upload drop zone shown",
-      "t_result_visible": 286.5,
-      "confidence": "high"
-    },
-    {
-      "id": "A15",
-      "t_click": 288.1,
-      "x": 1062,
-      "y": 705,
-      "kind": "click",
-      "target": "Upload files button",
-      "result": "file dialog opens",
-      "t_result_visible": 288.5,
-      "confidence": "high"
-    },
-    {
-      "id": "A16",
-      "t_click": 295.85,
-      "x": 862,
-      "y": 562,
-      "kind": "click",
-      "target": "Open button (application.pdf selected)",
-      "result": "dialog closes, upload starts",
-      "t_result_visible": 296.4,
-      "confidence": "high"
-    },
-    {
-      "id": "A17",
-      "t_click": 296.4,
-      "x": 1440,
-      "y": 850,
-      "kind": "wait",
-      "target": "upload toast (bottom right)",
-      "result": "1 item uploaded - application.pdf",
-      "t_result_visible": 303.4,
-      "confidence": "medium"
-    },
-    {
-      "id": "A18",
-      "t_click": 308.3,
-      "x": 1650,
-      "y": 878,
-      "kind": "click",
-      "target": "open icon on the application.pdf upload toast",
-      "result": "imported PDF design opens in a new tab",
-      "t_result_visible": 310.8,
-      "confidence": "high"
-    },
-    {
-      "id": "A19",
-      "t_click": 322.12,
-      "x": 575,
-      "y": 40,
-      "kind": "click",
-      "target": "Home - Canva browser tab",
-      "result": "Canva homepage",
-      "t_result_visible": 322.4,
-      "confidence": "medium"
-    },
-    {
-      "id": "A20",
-      "t_click": 328.45,
-      "x": 126,
-      "y": 732,
-      "kind": "click",
-      "target": "Projects in the sidebar",
-      "result": "All projects page",
-      "t_result_visible": 330.3,
-      "confidence": "high"
-    },
-    {
-      "id": "A21",
-      "t_click": 339.35,
-      "x": 838,
-      "y": 565,
-      "kind": "click",
-      "target": "Uploads folder",
-      "result": "Projects > Uploads page with every uploaded file",
-      "t_result_visible": 341.8,
-      "confidence": "high"
-    }
-  ],
-  "junk": [
-    {
-      "start": 6.0,
-      "end": 45.0,
-      "reason": "wandering: visits the homepage and another design, comes back to the same blank design"
-    },
-    {
-      "start": 55.0,
-      "end": 75.1,
-      "reason": "browsing folders in the file dialog looking for the file",
-      "ff": true
-    },
-    {
-      "start": 89.5,
-      "end": 109.8,
-      "reason": "hovering the panel, sidebar Uploads re-click",
-      "ff": true
-    },
-    {
-      "start": 111.5,
-      "end": 120.0,
-      "reason": "Designs/Folders tabs (not narrated), idle"
-    },
-    {
-      "start": 121.8,
-      "end": 182.5,
-      "reason": "timer widget popup, switching to a video design"
-    },
-    {
-      "start": 189.5,
-      "end": 200.0,
-      "reason": "scrubbing the timeline after adding the video",
-      "ff": true
-    },
-    {
-      "start": 225.5,
-      "end": 281.3,
-      "reason": "second upload via the dialog (a .txt that opens as a Doc) - not narrated"
-    },
-    {
-      "start": 288.6,
-      "end": 294.6,
-      "reason": "browsing folders in the file dialog for the PDF",
-      "ff": true
-    },
-    {
-      "start": 347.6,
-      "end": 361.6,
-      "reason": "opens the .txt doc, then stops the recording (desktop)"
-    }
-  ]
+  {
+   "id": "A3",
+   "t_click": 26.6,
+   "x": 44,
+   "y": 560,
+   "kind": "click",
+   "target": "Uploads in sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 28.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 28.8,
+   "x": 326,
+   "y": 312,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "uploaded photos listed (file chooser not visible)",
+   "t_result_visible": 30.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 31.6,
+   "x": 190,
+   "y": 760,
+   "kind": "click",
+   "target": "uploaded photo in panel",
+   "result": "photo placed on the canvas",
+   "t_result_visible": 32.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 41.0,
+   "x": 1140,
+   "y": 330,
+   "kind": "drag",
+   "target": "photo corner handle (resize)",
+   "result": "photo resized (w 1,080 h 1,920 badge)",
+   "t_result_visible": 42.2,
+   "confidence": "low",
+   "x2": 1220,
+   "y2": 350,
+   "t_end": 42.0
+  },
+  {
+   "id": "A7",
+   "t_click": 47.8,
+   "x": 1000,
+   "y": 900,
+   "kind": "drag",
+   "target": "image layer end in timeline",
+   "result": "layer extended to 5.0s",
+   "t_result_visible": 50.5,
+   "confidence": "low",
+   "x2": 1080,
+   "y2": 920,
+   "t_end": 48.8
+  },
+  {
+   "id": "A8",
+   "t_click": 74.3,
+   "x": 1411,
+   "y": 230,
+   "kind": "click",
+   "target": "Animate button in toolbar",
+   "result": "Animate panel opens",
+   "t_result_visible": 75.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 97.8,
+   "x": 346,
+   "y": 667,
+   "kind": "click",
+   "target": "Pan effect",
+   "result": "Pan effect applied and previews on canvas",
+   "t_result_visible": 98.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 105.0,
+   "x": 455,
+   "y": 470,
+   "kind": "click",
+   "target": "Fade effect",
+   "result": "Fade effect applied, options appear",
+   "t_result_visible": 105.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 114.2,
+   "x": 389,
+   "y": 758,
+   "kind": "click",
+   "target": "Fast speed option",
+   "result": "Fast highlighted",
+   "t_result_visible": 114.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 126.9,
+   "x": 1195,
+   "y": 700,
+   "kind": "click",
+   "target": "Play button under canvas",
+   "result": "preview plays",
+   "t_result_visible": 127.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 165.1,
+   "x": 1855,
+   "y": 165,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 166.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 167.0,
+   "x": 1450,
+   "y": 860,
+   "kind": "click",
+   "target": "Download in share panel",
+   "result": "Download settings with MP4 Video shown",
+   "t_result_visible": 167.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 168.7,
+   "x": 1500,
+   "y": 330,
+   "kind": "click",
+   "target": "File type dropdown",
+   "result": "type list opens",
+   "t_result_visible": 169.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 169.6,
+   "x": 1280,
+   "y": 430,
+   "kind": "click",
+   "target": "PNG in list",
+   "result": "PNG selected",
+   "t_result_visible": 170.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 170.4,
+   "x": 1280,
+   "y": 370,
+   "kind": "click",
+   "target": "JPG in list",
+   "result": "JPG selected",
+   "t_result_visible": 171.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A18",
+   "t_click": 178.2,
+   "x": 1277,
+   "y": 696,
+   "kind": "click",
+   "target": "MP4 Video in list",
+   "result": "MP4 Video selected",
+   "t_result_visible": 178.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A19",
+   "t_click": 180.5,
+   "x": 1277,
+   "y": 780,
+   "kind": "click",
+   "target": "GIF in list",
+   "result": "GIF selected, GIF settings shown",
+   "t_result_visible": 181.2,
+   "confidence": "low"
+  },
+  {
+   "id": "A20",
+   "t_click": 189.8,
+   "x": 1277,
+   "y": 696,
+   "kind": "click",
+   "target": "MP4 Video in list (reselect)",
+   "result": "MP4 selected again",
+   "t_result_visible": 190.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A21",
+   "t_click": 190.9,
+   "x": 1500,
+   "y": 975,
+   "kind": "click",
+   "target": "Download button",
+   "result": "file downloads, toast appears",
+   "t_result_visible": 191.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A22",
+   "t_click": 196.7,
+   "x": 1700,
+   "y": 900,
+   "kind": "click",
+   "target": "downloaded file toast",
+   "result": "media player plays the video",
+   "t_result_visible": 198.3,
+   "confidence": "low"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0.0,
+   "end": 8.8,
+   "reason": "pre-roll: finished design from another take, idle, tab switch"
+  },
+  {
+   "start": 76.0,
+   "end": 80.0,
+   "ff": true,
+   "reason": "cursor idle on effects panel"
+  },
+  {
+   "start": 85.0,
+   "end": 92.0,
+   "ff": true,
+   "reason": "cursor idle, effect preview"
+  },
+  {
+   "start": 99.0,
+   "end": 104.5,
+   "ff": true,
+   "reason": "scrolling effects list"
+  },
+  {
+   "start": 182.0,
+   "end": 189.0,
+   "ff": true,
+   "reason": "GIF selected, cursor idle"
+  },
+  {
+   "start": 205.0,
+   "end": 210.867,
+   "reason": "desktop wallpaper after the player"
+  }
+ ]
 }
