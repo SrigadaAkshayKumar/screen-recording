@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to upload an SVG graphic to Canva and use it in a design.",
+    "text": "This tutorial shows you how to clear the animations throughout a Canva presentation.",
     "start": 0.0,
-    "end": 5.16,
+    "end": 4.08,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      17
+      12
     ],
     "words": [
       {
@@ -22,1603 +22,1714 @@
         "i": 1,
         "word": "tutorial",
         "start": 0.24,
-        "end": 0.58
+        "end": 0.64
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.58,
-        "end": 1.02
+        "start": 0.64,
+        "end": 1.12
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.02,
-        "end": 1.22
+        "start": 1.12,
+        "end": 1.32
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.22,
-        "end": 1.36
+        "start": 1.32,
+        "end": 1.46
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.36,
-        "end": 1.54
+        "start": 1.46,
+        "end": 1.64
       },
       {
         "i": 6,
-        "word": "upload",
-        "start": 1.54,
-        "end": 1.84
+        "word": "clear",
+        "start": 1.64,
+        "end": 1.94
       },
       {
         "i": 7,
-        "word": "an",
-        "start": 1.84,
+        "word": "the",
+        "start": 1.94,
         "end": 2.08
       },
       {
         "i": 8,
-        "word": "SVG",
+        "word": "animations",
         "start": 2.08,
-        "end": 2.58
+        "end": 2.48
       },
       {
         "i": 9,
-        "word": "graphic",
-        "start": 2.58,
-        "end": 3.06
+        "word": "throughout",
+        "start": 2.48,
+        "end": 2.98
       },
       {
         "i": 10,
-        "word": "to",
-        "start": 3.06,
-        "end": 3.38
+        "word": "a",
+        "start": 2.98,
+        "end": 3.42
       },
       {
         "i": 11,
         "word": "Canva",
-        "start": 3.38,
-        "end": 3.72
+        "start": 3.42,
+        "end": 3.58
       },
       {
         "i": 12,
-        "word": "and",
-        "start": 3.72,
-        "end": 4.18
-      },
-      {
-        "i": 13,
-        "word": "use",
-        "start": 4.18,
-        "end": 4.38
-      },
-      {
-        "i": 14,
-        "word": "it",
-        "start": 4.38,
-        "end": 4.54
-      },
-      {
-        "i": 15,
-        "word": "in",
-        "start": 4.54,
-        "end": 4.7
-      },
-      {
-        "i": 16,
-        "word": "a",
-        "start": 4.7,
-        "end": 4.8
-      },
-      {
-        "i": 17,
-        "word": "design.",
-        "start": 4.8,
-        "end": 5.16
+        "word": "presentation.",
+        "start": 3.58,
+        "end": 4.08
       }
     ]
   },
   {
     "id": 2,
-    "text": "Open your design, select Uploads and click Upload Files.",
-    "start": 5.92,
-    "end": 9.08,
+    "text": "Open the presentation and start with the first slide.",
+    "start": 5.04,
+    "end": 7.58,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      18,
-      26
+      13,
+      21
     ],
     "words": [
       {
-        "i": 18,
+        "i": 13,
         "word": "Open",
-        "start": 5.92,
-        "end": 6.12
+        "start": 5.04,
+        "end": 5.24
       },
       {
-        "i": 19,
-        "word": "your",
-        "start": 6.12,
-        "end": 6.28
+        "i": 14,
+        "word": "the",
+        "start": 5.24,
+        "end": 5.42
       },
       {
-        "i": 20,
-        "word": "design,",
-        "start": 6.28,
+        "i": 15,
+        "word": "presentation",
+        "start": 5.42,
+        "end": 5.84
+      },
+      {
+        "i": 16,
+        "word": "and",
+        "start": 5.84,
+        "end": 6.32
+      },
+      {
+        "i": 17,
+        "word": "start",
+        "start": 6.32,
         "end": 6.66
       },
       {
+        "i": 18,
+        "word": "with",
+        "start": 6.66,
+        "end": 6.82
+      },
+      {
+        "i": 19,
+        "word": "the",
+        "start": 6.82,
+        "end": 6.96
+      },
+      {
+        "i": 20,
+        "word": "first",
+        "start": 6.96,
+        "end": 7.18
+      },
+      {
         "i": 21,
-        "word": "select",
-        "start": 6.84,
-        "end": 7.08
-      },
-      {
-        "i": 22,
-        "word": "Uploads",
-        "start": 7.08,
-        "end": 7.76
-      },
-      {
-        "i": 23,
-        "word": "and",
-        "start": 7.76,
-        "end": 7.92
-      },
-      {
-        "i": 24,
-        "word": "click",
-        "start": 7.92,
-        "end": 8.22
-      },
-      {
-        "i": 25,
-        "word": "Upload",
-        "start": 8.22,
-        "end": 8.64
-      },
-      {
-        "i": 26,
-        "word": "Files.",
-        "start": 8.64,
-        "end": 9.08
+        "word": "slide.",
+        "start": 7.18,
+        "end": 7.58
       }
     ]
   },
   {
     "id": 3,
-    "text": "Choose the file ending in .svg, then click Open.",
-    "start": 9.9,
-    "end": 12.86,
+    "text": "Click an empty area, open animate and use remove animation in the page tab to clear its page effect.",
+    "start": 8.22,
+    "end": 14.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      27,
-      35
+      22,
+      40
     ],
     "words": [
       {
-        "i": 27,
-        "word": "Choose",
-        "start": 9.9,
+        "i": 22,
+        "word": "Click",
+        "start": 8.22,
+        "end": 8.46
+      },
+      {
+        "i": 23,
+        "word": "an",
+        "start": 8.46,
+        "end": 8.62
+      },
+      {
+        "i": 24,
+        "word": "empty",
+        "start": 8.62,
+        "end": 8.92
+      },
+      {
+        "i": 25,
+        "word": "area,",
+        "start": 8.92,
+        "end": 9.4
+      },
+      {
+        "i": 26,
+        "word": "open",
+        "start": 9.74,
         "end": 10.04
       },
       {
-        "i": 28,
-        "word": "the",
+        "i": 27,
+        "word": "animate",
         "start": 10.04,
-        "end": 10.22
+        "end": 10.4
+      },
+      {
+        "i": 28,
+        "word": "and",
+        "start": 10.4,
+        "end": 10.78
       },
       {
         "i": 29,
-        "word": "file",
-        "start": 10.22,
-        "end": 10.46
+        "word": "use",
+        "start": 10.78,
+        "end": 11.04
       },
       {
         "i": 30,
-        "word": "ending",
-        "start": 10.46,
-        "end": 10.7
+        "word": "remove",
+        "start": 11.04,
+        "end": 11.44
       },
       {
         "i": 31,
-        "word": "in",
-        "start": 10.7,
-        "end": 10.92
+        "word": "animation",
+        "start": 11.44,
+        "end": 11.82
       },
       {
         "i": 32,
-        "word": ".svg,",
-        "start": 10.92,
-        "end": 11.86
+        "word": "in",
+        "start": 11.82,
+        "end": 12.26
       },
       {
         "i": 33,
-        "word": "then",
-        "start": 12.08,
-        "end": 12.22
+        "word": "the",
+        "start": 12.26,
+        "end": 12.4
       },
       {
         "i": 34,
-        "word": "click",
-        "start": 12.22,
-        "end": 12.44
+        "word": "page",
+        "start": 12.4,
+        "end": 12.64
       },
       {
         "i": 35,
-        "word": "Open.",
-        "start": 12.44,
-        "end": 12.86
+        "word": "tab",
+        "start": 12.64,
+        "end": 12.92
+      },
+      {
+        "i": 36,
+        "word": "to",
+        "start": 12.92,
+        "end": 13.32
+      },
+      {
+        "i": 37,
+        "word": "clear",
+        "start": 13.32,
+        "end": 13.58
+      },
+      {
+        "i": 38,
+        "word": "its",
+        "start": 13.58,
+        "end": 13.74
+      },
+      {
+        "i": 39,
+        "word": "page",
+        "start": 13.74,
+        "end": 14.02
+      },
+      {
+        "i": 40,
+        "word": "effect.",
+        "start": 14.02,
+        "end": 14.38
       }
     ]
   },
   {
     "id": 4,
-    "text": "Wait for the graphic's thumbnail to appear and click it to place the SVG on the page.",
-    "start": 13.44,
-    "end": 17.68,
+    "text": "Next, select the animated text boxes, images and shapes on that slide.",
+    "start": 15.32,
+    "end": 20.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      36,
+      41,
       52
     ],
     "words": [
       {
-        "i": 36,
-        "word": "Wait",
-        "start": 13.44,
-        "end": 13.64
-      },
-      {
-        "i": 37,
-        "word": "for",
-        "start": 13.64,
-        "end": 13.8
-      },
-      {
-        "i": 38,
-        "word": "the",
-        "start": 13.8,
-        "end": 13.94
-      },
-      {
-        "i": 39,
-        "word": "graphic's",
-        "start": 13.94,
-        "end": 14.32
-      },
-      {
-        "i": 40,
-        "word": "thumbnail",
-        "start": 14.32,
-        "end": 14.58
-      },
-      {
         "i": 41,
-        "word": "to",
-        "start": 14.58,
-        "end": 14.86
+        "word": "Next,",
+        "start": 15.32,
+        "end": 15.68
       },
       {
         "i": 42,
-        "word": "appear",
-        "start": 14.86,
-        "end": 15.16
+        "word": "select",
+        "start": 15.9,
+        "end": 16.2
       },
       {
         "i": 43,
-        "word": "and",
-        "start": 15.16,
-        "end": 15.42
+        "word": "the",
+        "start": 16.2,
+        "end": 16.42
       },
       {
         "i": 44,
-        "word": "click",
-        "start": 15.42,
-        "end": 15.62
+        "word": "animated",
+        "start": 16.42,
+        "end": 16.92
       },
       {
         "i": 45,
-        "word": "it",
-        "start": 15.62,
-        "end": 15.76
+        "word": "text",
+        "start": 16.92,
+        "end": 17.4
       },
       {
         "i": 46,
-        "word": "to",
-        "start": 15.76,
-        "end": 15.9
+        "word": "boxes,",
+        "start": 17.4,
+        "end": 17.8
       },
       {
         "i": 47,
-        "word": "place",
-        "start": 15.9,
-        "end": 16.08
+        "word": "images",
+        "start": 18.4,
+        "end": 18.58
       },
       {
         "i": 48,
-        "word": "the",
-        "start": 16.08,
-        "end": 16.28
+        "word": "and",
+        "start": 18.58,
+        "end": 19.0
       },
       {
         "i": 49,
-        "word": "SVG",
-        "start": 16.28,
-        "end": 16.8
+        "word": "shapes",
+        "start": 19.0,
+        "end": 19.3
       },
       {
         "i": 50,
         "word": "on",
-        "start": 16.8,
-        "end": 17.22
+        "start": 19.3,
+        "end": 19.52
       },
       {
         "i": 51,
-        "word": "the",
-        "start": 17.22,
-        "end": 17.36
+        "word": "that",
+        "start": 19.52,
+        "end": 19.68
       },
       {
         "i": 52,
-        "word": "page.",
-        "start": 17.36,
-        "end": 17.68
+        "word": "slide.",
+        "start": 19.68,
+        "end": 20.14
       }
     ]
   },
   {
     "id": 5,
-    "text": "Drag a corner handle to resize the graphic.",
-    "start": 18.7,
-    "end": 20.62,
+    "text": "Open their animation settings and remove the effects from those objects as well.",
+    "start": 20.78,
+    "end": 24.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       53,
-      60
+      65
     ],
     "words": [
       {
         "i": 53,
-        "word": "Drag",
-        "start": 18.7,
-        "end": 18.78
+        "word": "Open",
+        "start": 20.78,
+        "end": 21.06
       },
       {
         "i": 54,
-        "word": "a",
-        "start": 18.78,
-        "end": 18.94
+        "word": "their",
+        "start": 21.06,
+        "end": 21.24
       },
       {
         "i": 55,
-        "word": "corner",
-        "start": 18.94,
-        "end": 19.12
+        "word": "animation",
+        "start": 21.24,
+        "end": 21.62
       },
       {
         "i": 56,
-        "word": "handle",
-        "start": 19.12,
-        "end": 19.4
+        "word": "settings",
+        "start": 21.62,
+        "end": 22.02
       },
       {
         "i": 57,
-        "word": "to",
-        "start": 19.4,
-        "end": 19.64
+        "word": "and",
+        "start": 22.02,
+        "end": 22.32
       },
       {
         "i": 58,
-        "word": "resize",
-        "start": 19.64,
-        "end": 20.0
+        "word": "remove",
+        "start": 22.32,
+        "end": 22.66
       },
       {
         "i": 59,
         "word": "the",
-        "start": 20.0,
-        "end": 20.24
+        "start": 22.66,
+        "end": 22.84
       },
       {
         "i": 60,
-        "word": "graphic.",
-        "start": 20.24,
-        "end": 20.62
+        "word": "effects",
+        "start": 22.84,
+        "end": 23.12
+      },
+      {
+        "i": 61,
+        "word": "from",
+        "start": 23.12,
+        "end": 23.32
+      },
+      {
+        "i": 62,
+        "word": "those",
+        "start": 23.32,
+        "end": 23.52
+      },
+      {
+        "i": 63,
+        "word": "objects",
+        "start": 23.52,
+        "end": 23.84
+      },
+      {
+        "i": 64,
+        "word": "as",
+        "start": 23.84,
+        "end": 24.06
+      },
+      {
+        "i": 65,
+        "word": "well.",
+        "start": 24.06,
+        "end": 24.34
       }
     ]
   },
   {
     "id": 6,
-    "text": "SVG artwork is useful for logos and icons because its vector shapes can scale cleanly without the same pixelation as a small bitmap image.",
-    "start": 21.34,
-    "end": 29.0,
+    "text": "You can try selecting several objects together to remove their animation in one operation.",
+    "start": 24.84,
+    "end": 29.52,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      61,
-      84
+      66,
+      79
     ],
     "words": [
       {
-        "i": 61,
-        "word": "SVG",
-        "start": 21.34,
-        "end": 21.68
-      },
-      {
-        "i": 62,
-        "word": "artwork",
-        "start": 21.68,
-        "end": 22.12
-      },
-      {
-        "i": 63,
-        "word": "is",
-        "start": 22.12,
-        "end": 22.4
-      },
-      {
-        "i": 64,
-        "word": "useful",
-        "start": 22.4,
-        "end": 22.68
-      },
-      {
-        "i": 65,
-        "word": "for",
-        "start": 22.68,
-        "end": 22.92
-      },
-      {
         "i": 66,
-        "word": "logos",
-        "start": 22.92,
-        "end": 23.1
+        "word": "You",
+        "start": 24.84,
+        "end": 25.2
       },
       {
         "i": 67,
-        "word": "and",
-        "start": 23.1,
-        "end": 23.5
+        "word": "can",
+        "start": 25.2,
+        "end": 25.34
       },
       {
         "i": 68,
-        "word": "icons",
-        "start": 23.5,
-        "end": 23.96
+        "word": "try",
+        "start": 25.34,
+        "end": 25.54
       },
       {
         "i": 69,
-        "word": "because",
-        "start": 23.96,
-        "end": 24.32
+        "word": "selecting",
+        "start": 25.54,
+        "end": 25.94
       },
       {
         "i": 70,
-        "word": "its",
-        "start": 24.32,
-        "end": 24.5
+        "word": "several",
+        "start": 25.94,
+        "end": 26.38
       },
       {
         "i": 71,
-        "word": "vector",
-        "start": 24.5,
-        "end": 24.8
+        "word": "objects",
+        "start": 26.38,
+        "end": 26.78
       },
       {
         "i": 72,
-        "word": "shapes",
-        "start": 24.8,
-        "end": 25.06
+        "word": "together",
+        "start": 26.78,
+        "end": 27.16
       },
       {
         "i": 73,
-        "word": "can",
-        "start": 25.06,
-        "end": 25.32
+        "word": "to",
+        "start": 27.16,
+        "end": 27.4
       },
       {
         "i": 74,
-        "word": "scale",
-        "start": 25.32,
-        "end": 25.66
+        "word": "remove",
+        "start": 27.4,
+        "end": 27.68
       },
       {
         "i": 75,
-        "word": "cleanly",
-        "start": 25.66,
-        "end": 26.24
+        "word": "their",
+        "start": 27.68,
+        "end": 27.92
       },
       {
         "i": 76,
-        "word": "without",
-        "start": 26.24,
-        "end": 26.5
+        "word": "animation",
+        "start": 27.92,
+        "end": 28.32
       },
       {
         "i": 77,
-        "word": "the",
-        "start": 26.5,
-        "end": 26.68
+        "word": "in",
+        "start": 28.32,
+        "end": 28.68
       },
       {
         "i": 78,
-        "word": "same",
-        "start": 26.68,
-        "end": 26.96
+        "word": "one",
+        "start": 28.68,
+        "end": 28.98
       },
       {
         "i": 79,
-        "word": "pixelation",
-        "start": 26.96,
-        "end": 27.6
-      },
-      {
-        "i": 80,
-        "word": "as",
-        "start": 27.6,
-        "end": 27.82
-      },
-      {
-        "i": 81,
-        "word": "a",
-        "start": 27.82,
-        "end": 27.96
-      },
-      {
-        "i": 82,
-        "word": "small",
-        "start": 27.96,
-        "end": 28.26
-      },
-      {
-        "i": 83,
-        "word": "bitmap",
-        "start": 28.26,
-        "end": 28.62
-      },
-      {
-        "i": 84,
-        "word": "image.",
-        "start": 28.62,
-        "end": 29.0
+        "word": "operation.",
+        "start": 28.98,
+        "end": 29.52
       }
     ]
   },
   {
     "id": 7,
-    "text": "With the graphic selected, check the toolbar for color swatches.",
-    "start": 29.66,
-    "end": 32.84,
+    "text": "If the group selection does not provide the removal control, select the objects individually.",
+    "start": 30.48,
+    "end": 35.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      85,
-      94
+      80,
+      93
     ],
     "words": [
       {
+        "i": 80,
+        "word": "If",
+        "start": 30.48,
+        "end": 30.6
+      },
+      {
+        "i": 81,
+        "word": "the",
+        "start": 30.6,
+        "end": 30.78
+      },
+      {
+        "i": 82,
+        "word": "group",
+        "start": 30.78,
+        "end": 30.98
+      },
+      {
+        "i": 83,
+        "word": "selection",
+        "start": 30.98,
+        "end": 31.3
+      },
+      {
+        "i": 84,
+        "word": "does",
+        "start": 31.3,
+        "end": 31.66
+      },
+      {
         "i": 85,
-        "word": "With",
-        "start": 29.66,
-        "end": 29.98
+        "word": "not",
+        "start": 31.66,
+        "end": 31.92
       },
       {
         "i": 86,
-        "word": "the",
-        "start": 29.98,
-        "end": 30.1
+        "word": "provide",
+        "start": 31.92,
+        "end": 32.28
       },
       {
         "i": 87,
-        "word": "graphic",
-        "start": 30.1,
-        "end": 30.28
+        "word": "the",
+        "start": 32.28,
+        "end": 32.46
       },
       {
         "i": 88,
-        "word": "selected,",
-        "start": 30.28,
-        "end": 30.84
+        "word": "removal",
+        "start": 32.46,
+        "end": 32.76
       },
       {
         "i": 89,
-        "word": "check",
-        "start": 31.1,
-        "end": 31.32
+        "word": "control,",
+        "start": 32.76,
+        "end": 33.28
       },
       {
         "i": 90,
-        "word": "the",
-        "start": 31.32,
-        "end": 31.52
+        "word": "select",
+        "start": 33.82,
+        "end": 34.1
       },
       {
         "i": 91,
-        "word": "toolbar",
-        "start": 31.52,
-        "end": 31.88
+        "word": "the",
+        "start": 34.1,
+        "end": 34.3
       },
       {
         "i": 92,
-        "word": "for",
-        "start": 31.88,
-        "end": 32.22
+        "word": "objects",
+        "start": 34.3,
+        "end": 34.8
       },
       {
         "i": 93,
-        "word": "color",
-        "start": 32.22,
-        "end": 32.4
-      },
-      {
-        "i": 94,
-        "word": "swatches.",
-        "start": 32.4,
-        "end": 32.84
+        "word": "individually.",
+        "start": 34.8,
+        "end": 35.5
       }
     ]
   },
   {
     "id": 8,
-    "text": "If Canva exposes its colors, click a swatch to change that color.",
-    "start": 33.64,
-    "end": 37.28,
+    "text": "Unlock any locked animated objects before editing them.",
+    "start": 36.3,
+    "end": 39.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      95,
-      106
+      94,
+      101
     ],
     "words": [
       {
+        "i": 94,
+        "word": "Unlock",
+        "start": 36.3,
+        "end": 36.54
+      },
+      {
         "i": 95,
-        "word": "If",
-        "start": 33.64,
-        "end": 33.78
+        "word": "any",
+        "start": 36.54,
+        "end": 36.92
       },
       {
         "i": 96,
-        "word": "Canva",
-        "start": 33.78,
-        "end": 34.1
+        "word": "locked",
+        "start": 36.92,
+        "end": 37.2
       },
       {
         "i": 97,
-        "word": "exposes",
-        "start": 34.1,
-        "end": 34.62
+        "word": "animated",
+        "start": 37.2,
+        "end": 37.64
       },
       {
         "i": 98,
-        "word": "its",
-        "start": 34.62,
-        "end": 34.96
+        "word": "objects",
+        "start": 37.64,
+        "end": 38.18
       },
       {
         "i": 99,
-        "word": "colors,",
-        "start": 34.96,
-        "end": 35.26
+        "word": "before",
+        "start": 38.18,
+        "end": 38.54
       },
       {
         "i": 100,
-        "word": "click",
-        "start": 35.7,
-        "end": 35.86
+        "word": "editing",
+        "start": 38.54,
+        "end": 38.88
       },
       {
         "i": 101,
-        "word": "a",
-        "start": 35.86,
-        "end": 36.0
-      },
-      {
-        "i": 102,
-        "word": "swatch",
-        "start": 36.0,
-        "end": 36.26
-      },
-      {
-        "i": 103,
-        "word": "to",
-        "start": 36.26,
-        "end": 36.48
-      },
-      {
-        "i": 104,
-        "word": "change",
-        "start": 36.48,
-        "end": 36.74
-      },
-      {
-        "i": 105,
-        "word": "that",
-        "start": 36.74,
-        "end": 36.98
-      },
-      {
-        "i": 106,
-        "word": "color.",
-        "start": 36.98,
-        "end": 37.28
+        "word": "them.",
+        "start": 38.88,
+        "end": 39.32
       }
     ]
   },
   {
     "id": 9,
-    "text": "Not every SVG provides the same editing options after importing.",
-    "start": 38.12,
-    "end": 41.78,
+    "text": "Continue through the slide thumbnails and repeat these checks on every page.",
+    "start": 39.82,
+    "end": 43.72,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      107,
-      116
+      102,
+      113
     ],
     "words": [
       {
+        "i": 102,
+        "word": "Continue",
+        "start": 39.82,
+        "end": 40.14
+      },
+      {
+        "i": 103,
+        "word": "through",
+        "start": 40.14,
+        "end": 40.46
+      },
+      {
+        "i": 104,
+        "word": "the",
+        "start": 40.46,
+        "end": 40.66
+      },
+      {
+        "i": 105,
+        "word": "slide",
+        "start": 40.66,
+        "end": 40.9
+      },
+      {
+        "i": 106,
+        "word": "thumbnails",
+        "start": 40.9,
+        "end": 41.34
+      },
+      {
         "i": 107,
-        "word": "Not",
-        "start": 38.12,
-        "end": 38.24
+        "word": "and",
+        "start": 41.34,
+        "end": 41.72
       },
       {
         "i": 108,
-        "word": "every",
-        "start": 38.24,
-        "end": 38.6
+        "word": "repeat",
+        "start": 41.72,
+        "end": 42.0
       },
       {
         "i": 109,
-        "word": "SVG",
-        "start": 38.6,
-        "end": 39.0
+        "word": "these",
+        "start": 42.0,
+        "end": 42.26
       },
       {
         "i": 110,
-        "word": "provides",
-        "start": 39.0,
-        "end": 39.54
+        "word": "checks",
+        "start": 42.26,
+        "end": 42.58
       },
       {
         "i": 111,
-        "word": "the",
-        "start": 39.54,
-        "end": 39.78
+        "word": "on",
+        "start": 42.58,
+        "end": 43.04
       },
       {
         "i": 112,
-        "word": "same",
-        "start": 39.78,
-        "end": 40.0
+        "word": "every",
+        "start": 43.04,
+        "end": 43.28
       },
       {
         "i": 113,
-        "word": "editing",
-        "start": 40.0,
-        "end": 40.36
-      },
-      {
-        "i": 114,
-        "word": "options",
-        "start": 40.36,
-        "end": 40.8
-      },
-      {
-        "i": 115,
-        "word": "after",
-        "start": 40.8,
-        "end": 41.24
-      },
-      {
-        "i": 116,
-        "word": "importing.",
-        "start": 41.24,
-        "end": 41.78
+        "word": "page.",
+        "start": 43.28,
+        "end": 43.72
       }
     ]
   },
   {
     "id": 10,
-    "text": "Here's the part many tutorials skip.",
-    "start": 42.68,
-    "end": 44.44,
+    "text": "This clears both page level and independently assigned object animations.",
+    "start": 44.34,
+    "end": 48.6,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      117,
-      122
+      114,
+      123
     ],
     "words": [
       {
+        "i": 114,
+        "word": "This",
+        "start": 44.34,
+        "end": 44.5
+      },
+      {
+        "i": 115,
+        "word": "clears",
+        "start": 44.5,
+        "end": 44.76
+      },
+      {
+        "i": 116,
+        "word": "both",
+        "start": 44.76,
+        "end": 45.04
+      },
+      {
         "i": 117,
-        "word": "Here's",
-        "start": 42.68,
-        "end": 42.84
+        "word": "page",
+        "start": 45.04,
+        "end": 45.44
       },
       {
         "i": 118,
-        "word": "the",
-        "start": 42.84,
-        "end": 42.96
+        "word": "level",
+        "start": 45.44,
+        "end": 45.72
       },
       {
         "i": 119,
-        "word": "part",
-        "start": 42.96,
-        "end": 43.12
+        "word": "and",
+        "start": 45.72,
+        "end": 46.26
       },
       {
         "i": 120,
-        "word": "many",
-        "start": 43.12,
-        "end": 43.44
+        "word": "independently",
+        "start": 46.26,
+        "end": 46.84
       },
       {
         "i": 121,
-        "word": "tutorials",
-        "start": 43.44,
-        "end": 44.04
+        "word": "assigned",
+        "start": 46.84,
+        "end": 47.44
       },
       {
         "i": 122,
-        "word": "skip.",
-        "start": 44.04,
-        "end": 44.44
+        "word": "object",
+        "start": 47.44,
+        "end": 47.94
+      },
+      {
+        "i": 123,
+        "word": "animations.",
+        "start": 47.94,
+        "end": 48.6
       }
     ]
   },
   {
     "id": 11,
-    "text": "Canva does not give you a full vector path editor for an uploaded SVG.",
-    "start": 45.14,
-    "end": 48.54,
+    "text": "Now, inspect the transitions between slides.",
+    "start": 49.66,
+    "end": 51.96,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      123,
-      136
+      124,
+      129
     ],
     "words": [
       {
-        "i": 123,
-        "word": "Canva",
-        "start": 45.14,
-        "end": 45.3
-      },
-      {
         "i": 124,
-        "word": "does",
-        "start": 45.3,
-        "end": 45.42
+        "word": "Now,",
+        "start": 49.66,
+        "end": 49.9
       },
       {
         "i": 125,
-        "word": "not",
-        "start": 45.42,
-        "end": 45.6
+        "word": "inspect",
+        "start": 50.0,
+        "end": 50.3
       },
       {
         "i": 126,
-        "word": "give",
-        "start": 45.6,
-        "end": 45.76
+        "word": "the",
+        "start": 50.3,
+        "end": 50.52
       },
       {
         "i": 127,
-        "word": "you",
-        "start": 45.76,
-        "end": 45.92
+        "word": "transitions",
+        "start": 50.52,
+        "end": 51.0
       },
       {
         "i": 128,
-        "word": "a",
-        "start": 45.92,
-        "end": 46.04
+        "word": "between",
+        "start": 51.0,
+        "end": 51.42
       },
       {
         "i": 129,
-        "word": "full",
-        "start": 46.04,
-        "end": 46.28
-      },
-      {
-        "i": 130,
-        "word": "vector",
-        "start": 46.28,
-        "end": 46.58
-      },
-      {
-        "i": 131,
-        "word": "path",
-        "start": 46.58,
-        "end": 46.88
-      },
-      {
-        "i": 132,
-        "word": "editor",
-        "start": 46.88,
-        "end": 47.3
-      },
-      {
-        "i": 133,
-        "word": "for",
-        "start": 47.3,
-        "end": 47.54
-      },
-      {
-        "i": 134,
-        "word": "an",
-        "start": 47.54,
-        "end": 47.64
-      },
-      {
-        "i": 135,
-        "word": "uploaded",
-        "start": 47.64,
-        "end": 47.98
-      },
-      {
-        "i": 136,
-        "word": "SVG.",
-        "start": 47.98,
-        "end": 48.54
+        "word": "slides.",
+        "start": 51.42,
+        "end": 51.96
       }
     ]
   },
   {
     "id": 12,
-    "text": "You may be able to change colors, but editing individual anchor points or rewriting outlined text requires the original vector editing software.",
-    "start": 49.84,
-    "end": 58.0,
+    "text": "Click each existing transition and remove it from its settings.",
+    "start": 52.46,
+    "end": 56.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      137,
-      158
+      130,
+      139
     ],
     "words": [
       {
+        "i": 130,
+        "word": "Click",
+        "start": 52.46,
+        "end": 52.82
+      },
+      {
+        "i": 131,
+        "word": "each",
+        "start": 52.82,
+        "end": 53.2
+      },
+      {
+        "i": 132,
+        "word": "existing",
+        "start": 53.2,
+        "end": 53.82
+      },
+      {
+        "i": 133,
+        "word": "transition",
+        "start": 53.82,
+        "end": 54.24
+      },
+      {
+        "i": 134,
+        "word": "and",
+        "start": 54.24,
+        "end": 54.74
+      },
+      {
+        "i": 135,
+        "word": "remove",
+        "start": 54.74,
+        "end": 55.1
+      },
+      {
+        "i": 136,
+        "word": "it",
+        "start": 55.1,
+        "end": 55.3
+      },
+      {
         "i": 137,
-        "word": "You",
-        "start": 49.84,
-        "end": 50.04
+        "word": "from",
+        "start": 55.3,
+        "end": 55.46
       },
       {
         "i": 138,
-        "word": "may",
-        "start": 50.04,
-        "end": 50.16
+        "word": "its",
+        "start": 55.46,
+        "end": 55.64
       },
       {
         "i": 139,
-        "word": "be",
-        "start": 50.16,
-        "end": 50.28
-      },
-      {
-        "i": 140,
-        "word": "able",
-        "start": 50.28,
-        "end": 50.44
-      },
-      {
-        "i": 141,
-        "word": "to",
-        "start": 50.44,
-        "end": 50.62
-      },
-      {
-        "i": 142,
-        "word": "change",
-        "start": 50.62,
-        "end": 50.94
-      },
-      {
-        "i": 143,
-        "word": "colors,",
-        "start": 50.94,
-        "end": 51.3
-      },
-      {
-        "i": 144,
-        "word": "but",
-        "start": 51.48,
-        "end": 51.62
-      },
-      {
-        "i": 145,
-        "word": "editing",
-        "start": 51.62,
-        "end": 52.02
-      },
-      {
-        "i": 146,
-        "word": "individual",
-        "start": 52.02,
-        "end": 52.68
-      },
-      {
-        "i": 147,
-        "word": "anchor",
-        "start": 52.68,
-        "end": 52.94
-      },
-      {
-        "i": 148,
-        "word": "points",
-        "start": 52.94,
-        "end": 53.32
-      },
-      {
-        "i": 149,
-        "word": "or",
-        "start": 53.32,
-        "end": 53.74
-      },
-      {
-        "i": 150,
-        "word": "rewriting",
-        "start": 53.74,
-        "end": 54.3
-      },
-      {
-        "i": 151,
-        "word": "outlined",
-        "start": 54.3,
-        "end": 54.86
-      },
-      {
-        "i": 152,
-        "word": "text",
-        "start": 54.86,
-        "end": 55.38
-      },
-      {
-        "i": 153,
-        "word": "requires",
-        "start": 55.38,
-        "end": 56.08
-      },
-      {
-        "i": 154,
-        "word": "the",
-        "start": 56.08,
-        "end": 56.3
-      },
-      {
-        "i": 155,
-        "word": "original",
-        "start": 56.3,
-        "end": 56.66
-      },
-      {
-        "i": 156,
-        "word": "vector",
-        "start": 56.66,
-        "end": 56.98
-      },
-      {
-        "i": 157,
-        "word": "editing",
-        "start": 56.98,
-        "end": 57.48
-      },
-      {
-        "i": 158,
-        "word": "software.",
-        "start": 57.48,
-        "end": 58.0
+        "word": "settings.",
+        "start": 55.64,
+        "end": 56.02
       }
     ]
   },
   {
     "id": 13,
-    "text": "If the SVG fails to upload, simplify it in a vector editor.",
-    "start": 58.68,
-    "end": 62.64,
+    "text": "Run the presentation from the first slide to confirm that changes between pages are plain cuts.",
+    "start": 56.82,
+    "end": 61.62,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      159,
-      170
+      140,
+      155
     ],
     "words": [
       {
-        "i": 159,
-        "word": "If",
-        "start": 58.68,
-        "end": 58.98
+        "i": 140,
+        "word": "Run",
+        "start": 56.82,
+        "end": 56.98
       },
       {
-        "i": 160,
+        "i": 141,
         "word": "the",
-        "start": 58.98,
-        "end": 59.14
+        "start": 56.98,
+        "end": 57.12
       },
       {
-        "i": 161,
-        "word": "SVG",
-        "start": 59.14,
-        "end": 59.54
+        "i": 142,
+        "word": "presentation",
+        "start": 57.12,
+        "end": 57.5
       },
       {
-        "i": 162,
-        "word": "fails",
-        "start": 59.54,
-        "end": 60.06
+        "i": 143,
+        "word": "from",
+        "start": 57.5,
+        "end": 57.88
       },
       {
-        "i": 163,
+        "i": 144,
+        "word": "the",
+        "start": 57.88,
+        "end": 58.04
+      },
+      {
+        "i": 145,
+        "word": "first",
+        "start": 58.04,
+        "end": 58.26
+      },
+      {
+        "i": 146,
+        "word": "slide",
+        "start": 58.26,
+        "end": 58.6
+      },
+      {
+        "i": 147,
         "word": "to",
-        "start": 60.06,
-        "end": 60.3
+        "start": 58.6,
+        "end": 58.82
       },
       {
-        "i": 164,
-        "word": "upload,",
-        "start": 60.3,
-        "end": 60.66
+        "i": 148,
+        "word": "confirm",
+        "start": 58.82,
+        "end": 59.16
       },
       {
-        "i": 165,
-        "word": "simplify",
-        "start": 61.04,
-        "end": 61.34
+        "i": 149,
+        "word": "that",
+        "start": 59.16,
+        "end": 59.38
       },
       {
-        "i": 166,
-        "word": "it",
-        "start": 61.34,
-        "end": 61.66
+        "i": 150,
+        "word": "changes",
+        "start": 59.38,
+        "end": 59.74
       },
       {
-        "i": 167,
-        "word": "in",
-        "start": 61.66,
-        "end": 61.84
+        "i": 151,
+        "word": "between",
+        "start": 59.74,
+        "end": 60.14
       },
       {
-        "i": 168,
-        "word": "a",
-        "start": 61.84,
-        "end": 61.96
+        "i": 152,
+        "word": "pages",
+        "start": 60.14,
+        "end": 60.5
       },
       {
-        "i": 169,
-        "word": "vector",
-        "start": 61.96,
-        "end": 62.22
+        "i": 153,
+        "word": "are",
+        "start": 60.5,
+        "end": 61.0
       },
       {
-        "i": 170,
-        "word": "editor.",
-        "start": 62.22,
-        "end": 62.64
+        "i": 154,
+        "word": "plain",
+        "start": 61.0,
+        "end": 61.3
+      },
+      {
+        "i": 155,
+        "word": "cuts.",
+        "start": 61.3,
+        "end": 61.62
       }
     ]
   },
   {
     "id": 14,
-    "text": "Convert live text to outlines, remove unnecessary hidden objects and save a compatible SVG copy.",
-    "start": 63.32,
-    "end": 69.98,
+    "text": "Here's the part many tutorials skip.",
+    "start": 62.74,
+    "end": 64.82,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      171,
-      185
+      156,
+      161
     ],
     "words": [
       {
-        "i": 171,
-        "word": "Convert",
-        "start": 63.32,
-        "end": 63.54
+        "i": 156,
+        "word": "Here's",
+        "start": 62.74,
+        "end": 62.94
       },
       {
-        "i": 172,
-        "word": "live",
-        "start": 63.54,
-        "end": 63.86
+        "i": 157,
+        "word": "the",
+        "start": 62.94,
+        "end": 63.1
       },
       {
-        "i": 173,
-        "word": "text",
-        "start": 63.86,
-        "end": 64.16
+        "i": 158,
+        "word": "part",
+        "start": 63.1,
+        "end": 63.36
       },
       {
-        "i": 174,
-        "word": "to",
-        "start": 64.16,
-        "end": 64.4
+        "i": 159,
+        "word": "many",
+        "start": 63.36,
+        "end": 63.78
       },
       {
-        "i": 175,
-        "word": "outlines,",
-        "start": 64.4,
-        "end": 64.8
+        "i": 160,
+        "word": "tutorials",
+        "start": 63.78,
+        "end": 64.38
       },
       {
-        "i": 176,
-        "word": "remove",
-        "start": 65.78,
-        "end": 66.06
-      },
-      {
-        "i": 177,
-        "word": "unnecessary",
-        "start": 66.06,
-        "end": 66.6
-      },
-      {
-        "i": 178,
-        "word": "hidden",
-        "start": 66.6,
-        "end": 67.04
-      },
-      {
-        "i": 179,
-        "word": "objects",
-        "start": 67.04,
-        "end": 67.46
-      },
-      {
-        "i": 180,
-        "word": "and",
-        "start": 67.46,
-        "end": 68.06
-      },
-      {
-        "i": 181,
-        "word": "save",
-        "start": 68.06,
-        "end": 68.32
-      },
-      {
-        "i": 182,
-        "word": "a",
-        "start": 68.32,
-        "end": 68.46
-      },
-      {
-        "i": 183,
-        "word": "compatible",
-        "start": 68.46,
-        "end": 68.96
-      },
-      {
-        "i": 184,
-        "word": "SVG",
-        "start": 68.96,
-        "end": 69.46
-      },
-      {
-        "i": 185,
-        "word": "copy.",
-        "start": 69.46,
-        "end": 69.98
+        "i": 161,
+        "word": "skip.",
+        "start": 64.38,
+        "end": 64.82
       }
     ]
   },
   {
     "id": 15,
-    "text": "Canva currently lists a size limit of under 3 megabytes for SVG uploads.",
-    "start": 70.88,
-    "end": 75.34,
+    "text": "Clearing a page, animation does not guarantee that separately animated text, custom paths or moving media are static.",
+    "start": 65.38,
+    "end": 73.04,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      186,
-      198
+      162,
+      179
     ],
     "words": [
       {
-        "i": 186,
-        "word": "Canva",
-        "start": 70.88,
-        "end": 71.0
+        "i": 162,
+        "word": "Clearing",
+        "start": 65.38,
+        "end": 65.66
       },
       {
-        "i": 187,
-        "word": "currently",
-        "start": 71.0,
-        "end": 71.3
-      },
-      {
-        "i": 188,
-        "word": "lists",
-        "start": 71.3,
-        "end": 71.62
-      },
-      {
-        "i": 189,
+        "i": 163,
         "word": "a",
-        "start": 71.62,
-        "end": 71.84
+        "start": 65.66,
+        "end": 65.78
       },
       {
-        "i": 190,
-        "word": "size",
-        "start": 71.84,
-        "end": 72.08
+        "i": 164,
+        "word": "page,",
+        "start": 65.78,
+        "end": 66.14
       },
       {
-        "i": 191,
-        "word": "limit",
-        "start": 72.08,
-        "end": 72.3
+        "i": 165,
+        "word": "animation",
+        "start": 66.66,
+        "end": 66.86
       },
       {
-        "i": 192,
-        "word": "of",
-        "start": 72.3,
-        "end": 72.52
+        "i": 166,
+        "word": "does",
+        "start": 66.86,
+        "end": 67.16
       },
       {
-        "i": 193,
-        "word": "under",
-        "start": 72.52,
-        "end": 72.7
+        "i": 167,
+        "word": "not",
+        "start": 67.16,
+        "end": 67.46
       },
       {
-        "i": 194,
-        "word": "3",
-        "start": 72.7,
-        "end": 73.06
+        "i": 168,
+        "word": "guarantee",
+        "start": 67.46,
+        "end": 67.98
       },
       {
-        "i": 195,
-        "word": "megabytes",
-        "start": 73.06,
-        "end": 73.56
+        "i": 169,
+        "word": "that",
+        "start": 67.98,
+        "end": 68.22
       },
       {
-        "i": 196,
-        "word": "for",
-        "start": 73.56,
-        "end": 73.78
+        "i": 170,
+        "word": "separately",
+        "start": 68.22,
+        "end": 68.68
       },
       {
-        "i": 197,
-        "word": "SVG",
-        "start": 73.78,
-        "end": 74.28
+        "i": 171,
+        "word": "animated",
+        "start": 68.68,
+        "end": 69.22
       },
       {
-        "i": 198,
-        "word": "uploads.",
-        "start": 74.28,
-        "end": 75.34
+        "i": 172,
+        "word": "text,",
+        "start": 69.22,
+        "end": 69.72
+      },
+      {
+        "i": 173,
+        "word": "custom",
+        "start": 70.3,
+        "end": 70.48
+      },
+      {
+        "i": 174,
+        "word": "paths",
+        "start": 70.48,
+        "end": 70.94
+      },
+      {
+        "i": 175,
+        "word": "or",
+        "start": 70.94,
+        "end": 71.5
+      },
+      {
+        "i": 176,
+        "word": "moving",
+        "start": 71.5,
+        "end": 71.86
+      },
+      {
+        "i": 177,
+        "word": "media",
+        "start": 71.86,
+        "end": 72.24
+      },
+      {
+        "i": 178,
+        "word": "are",
+        "start": 72.24,
+        "end": 72.58
+      },
+      {
+        "i": 179,
+        "word": "static.",
+        "start": 72.58,
+        "end": 73.04
       }
     ]
   },
   {
     "id": 16,
-    "text": "Upload the simplified copy and check its appearance before building the rest of your design around it.",
-    "start": 75.58,
-    "end": 79.92,
+    "text": "An uploaded video or GIF can still play after Canva's animation effects have been removed.",
+    "start": 73.72,
+    "end": 78.74,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      199,
-      215
+      180,
+      194
     ],
     "words": [
       {
-        "i": 199,
-        "word": "Upload",
-        "start": 75.58,
-        "end": 75.84
+        "i": 180,
+        "word": "An",
+        "start": 73.72,
+        "end": 73.92
       },
       {
-        "i": 200,
-        "word": "the",
-        "start": 75.84,
-        "end": 76.0
+        "i": 181,
+        "word": "uploaded",
+        "start": 73.92,
+        "end": 74.22
       },
       {
-        "i": 201,
-        "word": "simplified",
-        "start": 76.0,
-        "end": 76.38
+        "i": 182,
+        "word": "video",
+        "start": 74.22,
+        "end": 74.64
       },
       {
-        "i": 202,
-        "word": "copy",
-        "start": 76.38,
-        "end": 76.74
+        "i": 183,
+        "word": "or",
+        "start": 74.64,
+        "end": 75.06
       },
       {
-        "i": 203,
-        "word": "and",
-        "start": 76.74,
-        "end": 77.0
+        "i": 184,
+        "word": "GIF",
+        "start": 75.06,
+        "end": 75.32
       },
       {
-        "i": 204,
-        "word": "check",
-        "start": 77.0,
-        "end": 77.22
+        "i": 185,
+        "word": "can",
+        "start": 75.32,
+        "end": 75.64
       },
       {
-        "i": 205,
-        "word": "its",
-        "start": 77.22,
-        "end": 77.4
+        "i": 186,
+        "word": "still",
+        "start": 75.64,
+        "end": 75.86
       },
       {
-        "i": 206,
-        "word": "appearance",
-        "start": 77.4,
-        "end": 77.74
+        "i": 187,
+        "word": "play",
+        "start": 75.86,
+        "end": 76.14
       },
       {
-        "i": 207,
-        "word": "before",
-        "start": 77.74,
-        "end": 78.1
+        "i": 188,
+        "word": "after",
+        "start": 76.14,
+        "end": 76.52
       },
       {
-        "i": 208,
-        "word": "building",
-        "start": 78.1,
-        "end": 78.36
+        "i": 189,
+        "word": "Canva's",
+        "start": 76.52,
+        "end": 76.92
       },
       {
-        "i": 209,
-        "word": "the",
-        "start": 78.36,
-        "end": 78.56
+        "i": 190,
+        "word": "animation",
+        "start": 76.92,
+        "end": 77.28
       },
       {
-        "i": 210,
-        "word": "rest",
-        "start": 78.56,
-        "end": 78.7
+        "i": 191,
+        "word": "effects",
+        "start": 77.28,
+        "end": 77.66
       },
       {
-        "i": 211,
-        "word": "of",
-        "start": 78.7,
-        "end": 78.9
+        "i": 192,
+        "word": "have",
+        "start": 77.66,
+        "end": 78.04
       },
       {
-        "i": 212,
-        "word": "your",
-        "start": 78.9,
-        "end": 79.02
+        "i": 193,
+        "word": "been",
+        "start": 78.04,
+        "end": 78.22
       },
       {
-        "i": 213,
-        "word": "design",
-        "start": 79.02,
-        "end": 79.3
-      },
-      {
-        "i": 214,
-        "word": "around",
-        "start": 79.3,
-        "end": 79.56
-      },
-      {
-        "i": 215,
-        "word": "it.",
-        "start": 79.56,
-        "end": 79.92
+        "i": 194,
+        "word": "removed.",
+        "start": 78.22,
+        "end": 78.74
       }
     ]
   },
   {
     "id": 17,
-    "text": "Your SVG is now ready to position, resize and reuse in Canva.",
-    "start": 80.42,
-    "end": 84.2,
+    "text": "Replace moving assets with still versions when necessary.",
+    "start": 78.74,
+    "end": 82.04,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      216,
-      227
+      195,
+      202
     ],
     "words": [
       {
-        "i": 216,
-        "word": "Your",
-        "start": 80.42,
+        "i": 195,
+        "word": "Replace",
+        "start": 78.74,
+        "end": 79.64
+      },
+      {
+        "i": 196,
+        "word": "moving",
+        "start": 79.64,
+        "end": 79.94
+      },
+      {
+        "i": 197,
+        "word": "assets",
+        "start": 79.94,
+        "end": 80.22
+      },
+      {
+        "i": 198,
+        "word": "with",
+        "start": 80.22,
         "end": 80.56
       },
       {
-        "i": 217,
-        "word": "SVG",
+        "i": 199,
+        "word": "still",
         "start": 80.56,
-        "end": 80.9
+        "end": 80.82
       },
       {
-        "i": 218,
-        "word": "is",
-        "start": 80.9,
-        "end": 81.14
+        "i": 200,
+        "word": "versions",
+        "start": 80.82,
+        "end": 81.2
       },
       {
-        "i": 219,
-        "word": "now",
-        "start": 81.14,
-        "end": 81.32
+        "i": 201,
+        "word": "when",
+        "start": 81.2,
+        "end": 81.48
       },
       {
-        "i": 220,
-        "word": "ready",
-        "start": 81.32,
-        "end": 81.46
-      },
-      {
-        "i": 221,
-        "word": "to",
-        "start": 81.46,
-        "end": 81.66
-      },
-      {
-        "i": 222,
-        "word": "position,",
-        "start": 81.66,
+        "i": 202,
+        "word": "necessary.",
+        "start": 81.48,
         "end": 82.04
-      },
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Also check any text that was configured to appear on click if you want all content visible immediately.",
+    "start": 82.82,
+    "end": 87.62,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      203,
+      220
+    ],
+    "words": [
       {
-        "i": 223,
-        "word": "resize",
-        "start": 82.42,
-        "end": 82.82
-      },
-      {
-        "i": 224,
-        "word": "and",
+        "i": 203,
+        "word": "Also",
         "start": 82.82,
-        "end": 83.2
+        "end": 82.92
       },
       {
-        "i": 225,
-        "word": "reuse",
-        "start": 83.2,
-        "end": 83.54
+        "i": 204,
+        "word": "check",
+        "start": 82.92,
+        "end": 83.18
       },
       {
-        "i": 226,
-        "word": "in",
-        "start": 83.54,
+        "i": 205,
+        "word": "any",
+        "start": 83.18,
+        "end": 83.5
+      },
+      {
+        "i": 206,
+        "word": "text",
+        "start": 83.5,
         "end": 83.82
       },
       {
-        "i": 227,
-        "word": "Canva.",
+        "i": 207,
+        "word": "that",
         "start": 83.82,
-        "end": 84.2
+        "end": 84.0
+      },
+      {
+        "i": 208,
+        "word": "was",
+        "start": 84.0,
+        "end": 84.14
+      },
+      {
+        "i": 209,
+        "word": "configured",
+        "start": 84.14,
+        "end": 84.52
+      },
+      {
+        "i": 210,
+        "word": "to",
+        "start": 84.52,
+        "end": 84.72
+      },
+      {
+        "i": 211,
+        "word": "appear",
+        "start": 84.72,
+        "end": 84.96
+      },
+      {
+        "i": 212,
+        "word": "on",
+        "start": 84.96,
+        "end": 85.14
+      },
+      {
+        "i": 213,
+        "word": "click",
+        "start": 85.14,
+        "end": 85.38
+      },
+      {
+        "i": 214,
+        "word": "if",
+        "start": 85.38,
+        "end": 85.84
+      },
+      {
+        "i": 215,
+        "word": "you",
+        "start": 85.84,
+        "end": 85.94
+      },
+      {
+        "i": 216,
+        "word": "want",
+        "start": 85.94,
+        "end": 86.08
+      },
+      {
+        "i": 217,
+        "word": "all",
+        "start": 86.08,
+        "end": 86.36
+      },
+      {
+        "i": 218,
+        "word": "content",
+        "start": 86.36,
+        "end": 86.74
+      },
+      {
+        "i": 219,
+        "word": "visible",
+        "start": 86.74,
+        "end": 87.08
+      },
+      {
+        "i": 220,
+        "word": "immediately.",
+        "start": 87.08,
+        "end": 87.62
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Preview the entire presentation once more.",
+    "start": 88.32,
+    "end": 90.2,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      221,
+      226
+    ],
+    "words": [
+      {
+        "i": 221,
+        "word": "Preview",
+        "start": 88.32,
+        "end": 88.38
+      },
+      {
+        "i": 222,
+        "word": "the",
+        "start": 88.38,
+        "end": 88.62
+      },
+      {
+        "i": 223,
+        "word": "entire",
+        "start": 88.62,
+        "end": 88.96
+      },
+      {
+        "i": 224,
+        "word": "presentation",
+        "start": 88.96,
+        "end": 89.46
+      },
+      {
+        "i": 225,
+        "word": "once",
+        "start": 89.46,
+        "end": 89.8
+      },
+      {
+        "i": 226,
+        "word": "more.",
+        "start": 89.8,
+        "end": 90.2
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Every slide is now checked for page animations, object movement and transitions.",
+    "start": 90.7,
+    "end": 94.88,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      227,
+      238
+    ],
+    "words": [
+      {
+        "i": 227,
+        "word": "Every",
+        "start": 90.7,
+        "end": 90.9
+      },
+      {
+        "i": 228,
+        "word": "slide",
+        "start": 90.9,
+        "end": 91.18
+      },
+      {
+        "i": 229,
+        "word": "is",
+        "start": 91.18,
+        "end": 91.36
+      },
+      {
+        "i": 230,
+        "word": "now",
+        "start": 91.36,
+        "end": 91.56
+      },
+      {
+        "i": 231,
+        "word": "checked",
+        "start": 91.56,
+        "end": 91.8
+      },
+      {
+        "i": 232,
+        "word": "for",
+        "start": 91.8,
+        "end": 92.0
+      },
+      {
+        "i": 233,
+        "word": "page",
+        "start": 92.0,
+        "end": 92.2
+      },
+      {
+        "i": 234,
+        "word": "animations,",
+        "start": 92.2,
+        "end": 92.72
+      },
+      {
+        "i": 235,
+        "word": "object",
+        "start": 93.3,
+        "end": 93.52
+      },
+      {
+        "i": 236,
+        "word": "movement",
+        "start": 93.52,
+        "end": 93.92
+      },
+      {
+        "i": 237,
+        "word": "and",
+        "start": 93.92,
+        "end": 94.48
+      },
+      {
+        "i": 238,
+        "word": "transitions.",
+        "start": 94.48,
+        "end": 94.88
       }
     ]
   }

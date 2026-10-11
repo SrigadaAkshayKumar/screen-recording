@@ -3,59 +3,113 @@
   {
    "action": "A1",
    "line": 2,
-   "word": "Uploads"
-  },
-  {
-   "action": "A2",
-   "line": 2,
-   "word": "Files"
+   "word": "Open"
   },
   {
    "action": "A3",
    "line": 3,
-   "word": "file"
+   "word": "animate"
   },
   {
    "action": "A4",
    "line": 3,
-   "word": "Open"
+   "word": "remove"
   },
   {
    "action": "A5",
    "line": 4,
-   "word": "click"
+   "word": "select"
   },
   {
    "action": "A6",
-   "line": 5,
-   "word": "Drag"
-  },
-  {
-   "action": "A7",
-   "line": 8,
-   "word": "swatch",
-   "src_from": 79.0,
-   "prev_until": 55.0
+   "line": 4,
+   "word": "shapes"
   },
   {
    "action": "A8",
-   "line": 16,
-   "word": "Upload"
+   "line": 5,
+   "word": "animation"
   },
   {
    "action": "A9",
-   "line": 16,
-   "word": "copy"
+   "line": 5,
+   "word": "remove",
+   "prev_until": 75.0
   },
   {
    "action": "A10",
-   "line": 16,
-   "word": "before"
+   "line": 9,
+   "word": "thumbnails"
   },
   {
    "action": "A11",
-   "line": 17,
-   "word": "resize"
+   "line": 10,
+   "word": "clears"
+  },
+  {
+   "action": "A12",
+   "line": 11,
+   "word": "transitions"
+  },
+  {
+   "action": "A14",
+   "line": 12,
+   "word": "each"
+  },
+  {
+   "action": "A15",
+   "line": 12,
+   "word": "remove"
+  },
+  {
+   "action": "A16",
+   "line": 13,
+   "word": "Run"
+  },
+  {
+   "action": "A17",
+   "line": 13,
+   "word": "changes"
+  },
+  {
+   "action": "A18",
+   "line": 13,
+   "word": "plain"
+  },
+  {
+   "action": "A20",
+   "line": 15,
+   "word": "animation"
+  },
+  {
+   "action": "A22",
+   "line": 15,
+   "word": "text"
+  },
+  {
+   "action": "A23",
+   "line": 16,
+   "word": "uploaded"
+  },
+  {
+   "action": "A24",
+   "line": 16,
+   "word": "GIF"
+  },
+  {
+   "action": "A25",
+   "line": 18,
+   "word": "text"
+  },
+  {
+   "action": "A26",
+   "line": 19,
+   "word": "Preview"
+  },
+  {
+   "action": "A29",
+   "line": 20,
+   "word": "movement"
   }
  ],
  "zooms": [],
@@ -70,9 +124,47 @@
   "A8",
   "A9",
   "A10",
-  "A11"
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20",
+  "A21",
+  "A22",
+  "A23",
+  "A24",
+  "A25",
+  "A26",
+  "A27",
+  "A28",
+  "A29"
  ],
- "cuts": [],
+ "cuts": [
+  {
+   "src_start": 126.0,
+   "src_end": 137.0,
+   "reason": "unnarrated first present run",
+   "xfade": true
+  },
+  {
+   "src_start": 180.5,
+   "src_end": 186.5,
+   "reason": "browsing uploads panel before Videos tab",
+   "ff": true
+  },
+  {
+   "src_start": 90.0,
+   "src_end": 106.0,
+   "reason": "idle on slide 2 - narration moves on to transitions",
+   "xfade": true
+  }
+ ],
  "ff_max": 2.0,
- "use_junk": true
+ "use_junk": true,
+ "src_end": 235.0
 }

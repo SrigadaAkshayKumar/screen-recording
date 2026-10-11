@@ -1,19 +1,21 @@
-This tutorial shows you how to upload an SVG graphic to Canva and use it in a design.
-Open your design, select Uploads and click Upload Files.
-Choose the file ending in .svg, then click Open.
-Wait for the graphic's thumbnail to appear and click it to place the SVG on the page.
-Drag a corner handle to resize the graphic.
-SVG artwork is useful for logos and icons because its vector shapes can scale cleanly
-without the same pixelation as a small bitmap image.
-With the graphic selected, check the toolbar for color swatches.
-If Canva exposes its colors, click a swatch to change that color.
-Not every SVG provides the same editing options after importing.
+This tutorial shows you how to clear the animations throughout a Canva presentation.
+Open the presentation and start with the first slide.
+Click an empty area, open animate and use remove animation in the page tab to clear its page effect.
+Next, select the animated text boxes, images and shapes on that slide.
+Open their animation settings and remove the effects from those objects as well.
+You can try selecting several objects together to remove their animation in one operation.
+If the group selection does not provide the removal control, select the objects individually.
+Unlock any locked animated objects before editing them.
+Continue through the slide thumbnails and repeat these checks on every page.
+This clears both page level and independently assigned object animations.
+Now, inspect the transitions between slides.
+Click each existing transition and remove it from its settings.
+Run the presentation from the first slide to confirm that changes between pages are plain cuts.
 Here's the part many tutorials skip.
-Canva does not give you a full vector path editor for an uploaded SVG.
-You may be able to change colors, but editing individual anchor points or rewriting outlined text
-requires the original vector editing software.
-If the SVG fails to upload, simplify it in a vector editor.
-Convert live text to outlines, remove unnecessary hidden objects and save a compatible SVG copy.
-Canva currently lists a size limit of under 3 megabytes for SVG uploads.
-Upload the simplified copy and check its appearance before building the rest of your design around it.
-Your SVG is now ready to position, resize and reuse in Canva.
+Clearing a page, animation does not guarantee that separately animated text, custom paths
+or moving media are static.
+An uploaded video or GIF can still play after Canva's animation effects have been removed.
+Replace moving assets with still versions when necessary.
+Also check any text that was configured to appear on click if you want all content visible immediately.
+Preview the entire presentation once more.
+Every slide is now checked for page animations, object movement and transitions.
