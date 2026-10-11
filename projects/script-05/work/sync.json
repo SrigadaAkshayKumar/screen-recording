@@ -2,47 +2,172 @@
  "anchors": [
   {
    "action": "A1",
-   "line": 4,
-   "word": "Uploads"
-  },
-  {
-   "action": "A2",
-   "line": 5,
-   "word": "Upload"
-  },
-  {
-   "action": "A3",
-   "line": 6,
-   "word": "list"
-  },
-  {
-   "action": "A4",
-   "line": 6,
-   "word": "Control"
-  },
-  {
-   "action": "A5",
-   "line": 8,
-   "word": "Open"
+   "line": 2,
+   "word": "press"
   },
   {
    "action": "A6",
-   "line": 9,
-   "word": "drag"
+   "line": 3,
+   "word": "Drag",
+   "src_from": 64.0,
+   "prev_until": 28.5
   },
   {
-   "action": "A7",
+   "action": "A2",
+   "line": 3,
+   "word": "toolbar",
+   "src_from": 40.3,
+   "prev_until": 68.4
+  },
+  {
+   "action": "A4",
+   "line": 3,
+   "word": "colour",
+   "prev_until": 47.0
+  },
+  {
+   "action": "A10",
+   "line": 4,
+   "word": "Position",
+   "src_from": 97.5,
+   "prev_until": 47.0
+  },
+  {
+   "action": "A11",
+   "line": 5,
+   "word": "Select",
+   "src_from": 125.0,
+   "prev_until": 104.5
+  },
+  {
+   "action": "A12",
+   "line": 5,
+   "word": "Animate"
+  },
+  {
+   "action": "A13",
+   "line": 7,
+   "word": "Fade"
+  },
+  {
+   "action": "A14",
+   "line": 8,
+   "word": "wipe"
+  },
+  {
+   "action": "A15",
+   "line": 8,
+   "word": "direction"
+  },
+  {
+   "action": "A16",
+   "line": 9,
+   "word": "replace"
+  },
+  {
+   "action": "A18",
+   "line": 10,
+   "word": "rectangle"
+  },
+  {
+   "action": "A19",
+   "line": 10,
+   "word": "narrow",
+   "src_from": 194.0,
+   "prev_until": 183.0
+  },
+  {
+   "action": "A20",
+   "line": 11,
+   "word": "wipe",
+   "src_from": 218.8,
+   "prev_until": 197.8
+  },
+  {
+   "action": "A21",
+   "line": 12,
+   "word": "speed",
+   "src_from": 229.5,
+   "prev_until": 222.0
+  },
+  {
+   "action": "A22",
+   "line": 12,
+   "word": "preview",
+   "src_from": 242.0,
+   "prev_until": 233.0
+  },
+  {
+   "action": "A24",
+   "line": 15,
+   "word": "different",
+   "src_from": 273.0,
+   "prev_until": 272.6
+  },
+  {
+   "action": "A25",
    "line": 17,
-   "word": "add"
+   "word": "handwriting",
+   "src_from": 294.5,
+   "prev_until": 285.0
+  },
+  {
+   "action": "A26",
+   "line": 17,
+   "word": "choose"
+  },
+  {
+   "action": "A27",
+   "line": 18,
+   "word": "Download",
+   "src_from": 342.8,
+   "prev_until": 303.0
+  },
+  {
+   "action": "A29",
+   "line": 18,
+   "word": "mp4"
+  },
+  {
+   "action": "A30",
+   "line": 18,
+   "word": "GIF"
   }
  ],
  "zooms": [],
- "no_ripple": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20",
+  "A21",
+  "A22",
+  "A23",
+  "A24",
+  "A25",
+  "A26",
+  "A27",
+  "A28",
+  "A29",
+  "A30"
+ ],
  "cuts": [],
  "ff_max": 2.0,
- "use_junk": false,
- "src_end": 66.0,
- "hold_at": {
-  "A7": 58.0
- }
+ "use_junk": true
 }

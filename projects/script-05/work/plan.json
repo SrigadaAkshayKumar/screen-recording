@@ -1,6 +1,6 @@
 {
   "output": {
-    "duration": 82.991,
+    "duration": 78.393,
     "fps": 30.0,
     "width": 1920,
     "height": 1080
@@ -9,192 +9,524 @@
     {
       "mode": "speed",
       "src_start": 0.0,
-      "src_end": 21.5,
+      "src_end": 5.0,
       "out_start": 0.0,
-      "out_end": 21.32
+      "out_end": 5.19
     },
     {
       "mode": "speed",
-      "src_start": 21.5,
-      "src_end": 25.3,
-      "out_start": 21.32,
-      "out_end": 22.66
+      "src_start": 26.0,
+      "src_end": 26.8,
+      "xfade": true,
+      "out_start": 5.19,
+      "out_end": 6.02
     },
     {
       "mode": "speed",
-      "src_start": 25.3,
-      "src_end": 26.15,
-      "out_start": 22.66,
-      "out_end": 23.51
+      "src_start": 26.8,
+      "src_end": 28.5,
+      "out_start": 6.02,
+      "out_end": 7.897
+    },
+    {
+      "mode": "speed",
+      "src_start": 64.0,
+      "src_end": 64.8,
+      "xfade": true,
+      "out_start": 7.897,
+      "out_end": 8.78
+    },
+    {
+      "mode": "speed",
+      "src_start": 64.8,
+      "src_end": 68.4,
+      "out_start": 8.78,
+      "out_end": 10.852
+    },
+    {
+      "mode": "speed",
+      "src_start": 40.3,
+      "src_end": 40.8,
+      "xfade": true,
+      "out_start": 10.852,
+      "out_end": 11.14
+    },
+    {
+      "mode": "speed",
+      "src_start": 40.8,
+      "src_end": 44.4,
+      "out_start": 11.14,
+      "out_end": 12.36
+    },
+    {
+      "mode": "speed",
+      "src_start": 44.4,
+      "src_end": 47.0,
+      "out_start": 12.36,
+      "out_end": 13.836
+    },
+    {
+      "mode": "speed",
+      "src_start": 98.0,
+      "src_end": 98.5,
+      "xfade": true,
+      "out_start": 13.836,
+      "out_end": 14.12
+    },
+    {
+      "mode": "speed",
+      "src_start": 98.5,
+      "src_end": 104.5,
+      "out_start": 14.12,
+      "out_end": 16.101
+    },
+    {
+      "mode": "speed",
+      "src_start": 125.3,
+      "src_end": 125.6,
+      "xfade": true,
+      "out_start": 16.101,
+      "out_end": 16.2
+    },
+    {
+      "mode": "speed",
+      "src_start": 125.6,
+      "src_end": 126.15,
+      "out_start": 16.2,
+      "out_end": 16.75
     },
     {
       "mode": "hold",
-      "src_start": 26.15,
-      "src_end": 26.15,
-      "out_start": 23.51,
-      "out_end": 24.91
+      "src_start": 126.15,
+      "src_end": 126.15,
+      "out_start": 16.75,
+      "out_end": 17.29
     },
     {
       "mode": "speed",
-      "src_start": 26.15,
-      "src_end": 28.1,
-      "out_start": 24.91,
-      "out_end": 26.86
+      "src_start": 126.15,
+      "src_end": 126.6,
+      "out_start": 17.29,
+      "out_end": 17.74
     },
     {
       "mode": "speed",
-      "src_start": 28.1,
-      "src_end": 29.35,
-      "out_start": 26.86,
-      "out_end": 27.74
+      "src_start": 126.6,
+      "src_end": 131.933,
+      "out_start": 17.74,
+      "out_end": 21.225
     },
     {
       "mode": "speed",
-      "src_start": 29.35,
-      "src_end": 29.65,
-      "out_start": 27.74,
-      "out_end": 28.04
-    },
-    {
-      "mode": "hold",
-      "src_start": 29.65,
-      "src_end": 29.65,
-      "out_start": 28.04,
-      "out_end": 31.87
+      "src_start": 131.933,
+      "src_end": 137.133,
+      "wait": true,
+      "out_start": 21.225,
+      "out_end": 21.882
     },
     {
       "mode": "speed",
-      "src_start": 29.65,
-      "src_end": 36.2,
-      "out_start": 31.87,
-      "out_end": 38.42
+      "src_start": 137.133,
+      "src_end": 140.3,
+      "out_start": 21.882,
+      "out_end": 23.952
     },
     {
       "mode": "speed",
-      "src_start": 36.2,
-      "src_end": 49.7,
-      "out_start": 38.42,
-      "out_end": 45.14
+      "src_start": 140.3,
+      "src_end": 146.233,
+      "wait": true,
+      "out_start": 23.952,
+      "out_end": 24.701
     },
     {
       "mode": "speed",
-      "src_start": 49.7,
-      "src_end": 58.0,
-      "out_start": 45.14,
-      "out_end": 53.44
-    },
-    {
-      "mode": "hold",
-      "src_start": 58.0,
-      "src_end": 58.0,
-      "out_start": 53.44,
-      "out_end": 76.64
+      "src_start": 146.233,
+      "src_end": 148.867,
+      "out_start": 24.701,
+      "out_end": 26.201
     },
     {
       "mode": "speed",
-      "src_start": 58.0,
-      "src_end": 64.351,
-      "out_start": 76.64,
-      "out_end": 82.991
+      "src_start": 148.867,
+      "src_end": 154.033,
+      "wait": true,
+      "out_start": 26.201,
+      "out_end": 26.853
+    },
+    {
+      "mode": "speed",
+      "src_start": 154.033,
+      "src_end": 159.4,
+      "out_start": 26.853,
+      "out_end": 30.04
+    },
+    {
+      "mode": "speed",
+      "src_start": 159.4,
+      "src_end": 161.3,
+      "out_start": 30.04,
+      "out_end": 31.205
+    },
+    {
+      "mode": "speed",
+      "src_start": 161.3,
+      "src_end": 167.867,
+      "wait": true,
+      "out_start": 31.205,
+      "out_end": 32.034
+    },
+    {
+      "mode": "speed",
+      "src_start": 167.867,
+      "src_end": 174.3,
+      "out_start": 32.034,
+      "out_end": 35.98
+    },
+    {
+      "mode": "speed",
+      "src_start": 174.3,
+      "src_end": 181.2,
+      "out_start": 35.98,
+      "out_end": 39.32
+    },
+    {
+      "mode": "speed",
+      "src_start": 181.2,
+      "src_end": 183.0,
+      "out_start": 39.32,
+      "out_end": 39.968
+    },
+    {
+      "mode": "speed",
+      "src_start": 194.0,
+      "src_end": 195.2,
+      "xfade": true,
+      "out_start": 39.968,
+      "out_end": 40.4
+    },
+    {
+      "mode": "speed",
+      "src_start": 195.2,
+      "src_end": 197.8,
+      "out_start": 40.4,
+      "out_end": 43.673
+    },
+    {
+      "mode": "speed",
+      "src_start": 218.8,
+      "src_end": 219.6,
+      "xfade": true,
+      "out_start": 43.673,
+      "out_end": 44.68
+    },
+    {
+      "mode": "speed",
+      "src_start": 219.6,
+      "src_end": 222.0,
+      "out_start": 44.68,
+      "out_end": 46.612
+    },
+    {
+      "mode": "speed",
+      "src_start": 229.5,
+      "src_end": 231.2,
+      "xfade": true,
+      "out_start": 46.612,
+      "out_end": 47.98
+    },
+    {
+      "mode": "speed",
+      "src_start": 231.2,
+      "src_end": 233.0,
+      "out_start": 47.98,
+      "out_end": 49.308
+    },
+    {
+      "mode": "speed",
+      "src_start": 242.0,
+      "src_end": 243.2,
+      "xfade": true,
+      "wait": true,
+      "out_start": 49.308,
+      "out_end": 49.46
+    },
+    {
+      "mode": "speed",
+      "src_start": 243.2,
+      "src_end": 244.0,
+      "out_start": 49.46,
+      "out_end": 50.26
+    },
+    {
+      "mode": "speed",
+      "src_start": 244.0,
+      "src_end": 272.4,
+      "out_start": 50.26,
+      "out_end": 58.98
+    },
+    {
+      "mode": "speed",
+      "src_start": 272.4,
+      "src_end": 272.6,
+      "out_start": 58.98,
+      "out_end": 59.18
+    },
+    {
+      "mode": "speed",
+      "src_start": 273.0,
+      "src_end": 273.4,
+      "xfade": true,
+      "out_start": 59.18,
+      "out_end": 59.58
+    },
+    {
+      "mode": "speed",
+      "src_start": 273.4,
+      "src_end": 285.0,
+      "out_start": 59.58,
+      "out_end": 66.726
+    },
+    {
+      "mode": "speed",
+      "src_start": 294.5,
+      "src_end": 295.4,
+      "xfade": true,
+      "out_start": 66.726,
+      "out_end": 67.28
+    },
+    {
+      "mode": "speed",
+      "src_start": 295.4,
+      "src_end": 299.2,
+      "out_start": 67.28,
+      "out_end": 68.48
+    },
+    {
+      "mode": "speed",
+      "src_start": 299.2,
+      "src_end": 303.0,
+      "out_start": 68.48,
+      "out_end": 72.381
+    },
+    {
+      "mode": "speed",
+      "src_start": 342.8,
+      "src_end": 343.5,
+      "xfade": true,
+      "out_start": 72.381,
+      "out_end": 73.1
+    },
+    {
+      "mode": "speed",
+      "src_start": 343.5,
+      "src_end": 347.9,
+      "out_start": 73.1,
+      "out_end": 74.4
+    },
+    {
+      "mode": "speed",
+      "src_start": 347.9,
+      "src_end": 351.7,
+      "out_start": 74.4,
+      "out_end": 75.88
+    },
+    {
+      "mode": "speed",
+      "src_start": 351.7,
+      "src_end": 354.0,
+      "out_start": 75.88,
+      "out_end": 78.393
     }
   ],
   "zooms": [],
-  "ripples": [
-    {
-      "out_t": 21.32,
-      "x": 134,
-      "y": 552,
-      "action": "A1"
-    },
-    {
-      "out_t": 22.66,
-      "x": 416,
-      "y": 468,
-      "action": "A2"
-    },
-    {
-      "out_t": 26.86,
-      "x": 312,
-      "y": 298,
-      "action": "A3"
-    },
-    {
-      "out_t": 38.42,
-      "x": 970,
-      "y": 562,
-      "action": "A5"
-    },
-    {
-      "out_t": 45.14,
-      "x": 984,
-      "y": 504,
-      "action": "A6"
-    },
-    {
-      "out_t": 77.64,
-      "x": 320,
-      "y": 790,
-      "action": "A7"
-    }
-  ],
+  "ripples": [],
   "intro": {
     "mode": "play",
-    "until": 21.32
+    "until": 6.02
   },
   "outro": null,
   "sync": [
     {
       "action": "A1",
-      "line": 4,
-      "word": "Uploads.",
-      "word_index": 53,
-      "word_t": 21.32
-    },
-    {
-      "action": "A2",
-      "line": 5,
-      "word": "Upload",
-      "word_index": 55,
-      "word_t": 22.66
-    },
-    {
-      "action": "A3",
-      "line": 6,
-      "word": "list,",
-      "word_index": 68,
-      "word_t": 26.86
-    },
-    {
-      "action": "A4",
-      "line": 6,
-      "word": "Control",
-      "word_index": 71,
-      "word_t": 27.74
-    },
-    {
-      "action": "A5",
-      "line": 8,
-      "word": "Open",
-      "word_index": 103,
-      "word_t": 38.42
+      "line": 2,
+      "word": "press",
+      "word_index": 21,
+      "word_t": 6.02
     },
     {
       "action": "A6",
-      "line": 9,
-      "word": "drag",
-      "word_index": 122,
-      "word_t": 45.14
+      "line": 3,
+      "word": "Drag",
+      "word_index": 30,
+      "word_t": 8.78
     },
     {
-      "action": "A7",
+      "action": "A2",
+      "line": 3,
+      "word": "toolbar",
+      "word_index": 40,
+      "word_t": 11.14
+    },
+    {
+      "action": "A4",
+      "line": 3,
+      "word": "colour",
+      "word_index": 44,
+      "word_t": 12.36
+    },
+    {
+      "action": "A10",
+      "line": 4,
+      "word": "Position",
+      "word_index": 48,
+      "word_t": 14.12
+    },
+    {
+      "action": "A11",
+      "line": 5,
+      "word": "Select",
+      "word_index": 54,
+      "word_t": 16.2
+    },
+    {
+      "action": "A12",
+      "line": 5,
+      "word": "Animate,",
+      "word_index": 60,
+      "word_t": 17.74
+    },
+    {
+      "action": "A13",
+      "line": 7,
+      "word": "Fade",
+      "word_index": 72,
+      "word_t": 24.04
+    },
+    {
+      "action": "A14",
+      "line": 8,
+      "word": "wipe",
+      "word_index": 78,
+      "word_t": 26.42
+    },
+    {
+      "action": "A15",
+      "line": 8,
+      "word": "direction",
+      "word_index": 93,
+      "word_t": 30.04
+    },
+    {
+      "action": "A16",
+      "line": 9,
+      "word": "replace",
+      "word_index": 112,
+      "word_t": 35.98
+    },
+    {
+      "action": "A18",
+      "line": 10,
+      "word": "rectangle",
+      "word_index": 123,
+      "word_t": 39.32
+    },
+    {
+      "action": "A19",
+      "line": 10,
+      "word": "narrow",
+      "word_index": 127,
+      "word_t": 40.4
+    },
+    {
+      "action": "A20",
+      "line": 11,
+      "word": "wipe",
+      "word_index": 143,
+      "word_t": 44.68
+    },
+    {
+      "action": "A21",
+      "line": 12,
+      "word": "speed",
+      "word_index": 152,
+      "word_t": 47.98
+    },
+    {
+      "action": "A22",
+      "line": 12,
+      "word": "preview",
+      "word_index": 156,
+      "word_t": 49.46
+    },
+    {
+      "action": "A24",
+      "line": 15,
+      "word": "different",
+      "word_index": 187,
+      "word_t": 59.58
+    },
+    {
+      "action": "A25",
       "line": 17,
-      "word": "add",
+      "word": "handwriting",
       "word_index": 208,
-      "word_t": 77.64
+      "word_t": 67.28
+    },
+    {
+      "action": "A26",
+      "line": 17,
+      "word": "choose",
+      "word_index": 210,
+      "word_t": 68.48
+    },
+    {
+      "action": "A27",
+      "line": 18,
+      "word": "Download",
+      "word_index": 221,
+      "word_t": 73.1
+    },
+    {
+      "action": "A29",
+      "line": 18,
+      "word": "mp4",
+      "word_index": 226,
+      "word_t": 74.4
+    },
+    {
+      "action": "A30",
+      "line": 18,
+      "word": "GIF",
+      "word_index": 229,
+      "word_t": 75.88
     }
   ],
   "style": {},
-  "notes": [],
+  "notes": [
+    "intro: cut src 5.00-26.00 - too long to fast-forward at <= 2.00x (junk: opening Canva home and a new design (navigation))",
+    "A6: after A1 (until src 28.50) jumps ahead to src 64.00 - narration order",
+    "A1->A6: fast-forwarded src 27.50-40.00 instead of cutting it (junk: line selected, cursor idle)",
+    "A2: after A6 (until src 68.40) jumps back to src 40.30 - narration order",
+    "A10: after A4 (until src 47.00) jumps ahead to src 97.50 - narration order",
+    "A4->A10: cut src 80.50-98.00 - too long to fast-forward at <= 2.00x (junk: repositioning the line under the heading)",
+    "A11: after A10 (until src 104.50) jumps ahead to src 125.00 - narration order",
+    "A10->A11: cut src 105.00-125.30 - too long to fast-forward at <= 2.00x (junk: idle after placing line)",
+    "A12->A13: fast-forwarded src 132.00-140.00 instead of cutting it (junk: scrolling/hovering the effects panel)",
+    "A13->A14: fast-forwarded src 143.00-150.00 instead of cutting it (junk: hovering effects)",
+    "A15->A16: fast-forwarded src 160.50-174.00 instead of cutting it (junk: settings idle)",
+    "A19: after A18 (until src 183.00) jumps ahead to src 194.00 - narration order",
+    "A20: after A19 (until src 197.80) jumps ahead to src 218.80 - narration order",
+    "A19->A20: fast-forwarded src 199.80-219.00 instead of cutting it (junk: rectangle finishing/colour touch-ups)",
+    "A21: after A20 (until src 222.00) jumps ahead to src 229.50 - narration order",
+    "A20->A21: fast-forwarded src 221.00-231.00 instead of cutting it (junk: panel idle)",
+    "A22: after A21 (until src 233.00) jumps ahead to src 242.00 - narration order",
+    "A24: after A22 (until src 272.60) jumps ahead to src 273.00 - narration order",
+    "A25: after A24 (until src 285.00) jumps ahead to src 294.50 - narration order",
+    "A24->A25: fast-forwarded src 278.00-295.00 instead of cutting it (junk: trying typewriter animation on the heading)",
+    "A27: after A26 (until src 303.00) jumps ahead to src 342.80 - narration order",
+    "A26->A27: fast-forwarded src 301.00-322.00 instead of cutting it (junk: handwriting font applied, idle)"
+  ],
   "generated_by": "tools/plan_builder.py from work/sync.json",
-  "generated_hash": "b1f657b2a7c4"
+  "generated_hash": "b255eb530e41"
 }
