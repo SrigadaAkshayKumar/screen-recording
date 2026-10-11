@@ -1,0 +1,283 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 202.0
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 15.1,
+   "x": 91,
+   "y": 495,
+   "kind": "click",
+   "target": "Uploads icon in left sidebar",
+   "result": "Uploads panel in view",
+   "t_result_visible": 15.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 27.7,
+   "x": 564,
+   "y": 761,
+   "kind": "click",
+   "target": "three-dot menu on a thumbnail",
+   "result": "menu opens (Details/Download/Move/Remove/Move to Trash)",
+   "t_result_visible": 28.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 37.3,
+   "x": 735,
+   "y": 930,
+   "kind": "click",
+   "target": "Move to Trash in the menu",
+   "result": "toast 'Sample - 1 moved to Trash'",
+   "t_result_visible": 37.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 45.3,
+   "x": 108,
+   "y": 725,
+   "kind": "click",
+   "target": "Projects in Canva home sidebar",
+   "result": "All projects page loads",
+   "t_result_visible": 46.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 53.9,
+   "x": 440,
+   "y": 420,
+   "kind": "click",
+   "target": "All projects",
+   "result": "All projects page shown",
+   "t_result_visible": 55.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 58.2,
+   "x": 816,
+   "y": 811,
+   "kind": "click",
+   "target": "Uploads folder",
+   "result": "Uploads folder page opens",
+   "t_result_visible": 58.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 69.2,
+   "x": 1224,
+   "y": 540,
+   "kind": "click",
+   "target": "three-dot menu on Sample-Resume.Pdf - 1",
+   "result": "menu opens",
+   "t_result_visible": 70.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 71.9,
+   "x": 1440,
+   "y": 907,
+   "kind": "click",
+   "target": "Move to Trash",
+   "result": "toast 'moved to Trash'",
+   "t_result_visible": 72.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 91.3,
+   "x": 1423,
+   "y": 432,
+   "kind": "click",
+   "target": "checkbox on New-canva-gif",
+   "result": "thumbnail selected",
+   "t_result_visible": 92.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 93.6,
+   "x": 845,
+   "y": 523,
+   "kind": "click",
+   "target": "checkbox on sample-resume.pdf (1)",
+   "result": "2 selected, action bar",
+   "t_result_visible": 93.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 99.6,
+   "x": 1325,
+   "y": 780,
+   "kind": "click",
+   "target": "trash icon in action bar",
+   "result": "Move 2 items to Trash? dialog",
+   "t_result_visible": 100.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 100.8,
+   "x": 708,
+   "y": 403,
+   "kind": "click",
+   "target": "Move to Trash confirm button",
+   "result": "Moving to Trash progress, then toast",
+   "t_result_visible": 103.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 116.0,
+   "x": 955,
+   "y": 590,
+   "kind": "click",
+   "target": "design page",
+   "result": "page selected (purple outline)",
+   "t_result_visible": 116.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 142.2,
+   "x": 396,
+   "y": 413,
+   "kind": "click",
+   "target": "All projects in sidebar",
+   "result": "All projects page",
+   "t_result_visible": 143.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 152.2,
+   "x": 216,
+   "y": 960,
+   "kind": "click",
+   "target": "Trash in sidebar",
+   "result": "Trash page",
+   "t_result_visible": 153.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 165.8,
+   "x": 1361,
+   "y": 540,
+   "kind": "click",
+   "target": "checkbox on 'Copy of sample' in Trash",
+   "result": "item selected, action bar with Restore/Delete",
+   "t_result_visible": 166.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 169.5,
+   "x": 1339,
+   "y": 869,
+   "kind": "click",
+   "target": "Restore button",
+   "result": "Restoring 1 item, then 'Restored 1 item'",
+   "t_result_visible": 172.2,
+   "confidence": "high"
+  },
+  {
+   "id": "A18",
+   "t_click": 179.4,
+   "x": 1589,
+   "y": 298,
+   "kind": "click",
+   "target": "Empty Trash button",
+   "result": "Empty Trash? dialog",
+   "t_result_visible": 179.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A19",
+   "t_click": 182.0,
+   "x": 1044,
+   "y": 583,
+   "kind": "click",
+   "target": "Empty Trash confirm button",
+   "result": "Emptying progress, then 'Trash is now empty'",
+   "t_result_visible": 187.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A20",
+   "t_click": 190.9,
+   "x": 720,
+   "y": 50,
+   "kind": "click",
+   "target": "Untitled design tab",
+   "result": "design page with Uploads panel",
+   "t_result_visible": 191.4,
+   "confidence": "low"
+  }
+ ],
+ "junk": [
+  {
+   "start": 1.9,
+   "end": 12.0,
+   "reason": "idle design page before cursor moves",
+   "ff": true
+  },
+  {
+   "start": 47.0,
+   "end": 53.3,
+   "reason": "cursor wandering / wrong 'Your projects' click",
+   "ff": true
+  },
+  {
+   "start": 61.2,
+   "end": 67.6,
+   "reason": "cursor wandering over files",
+   "ff": true
+  },
+  {
+   "start": 75.5,
+   "end": 88.5,
+   "reason": "idle after trash toast",
+   "ff": true
+  },
+  {
+   "start": 143.4,
+   "end": 150.8,
+   "reason": "scrolling sidebar to find Trash",
+   "ff": true
+  },
+  {
+   "start": 154.0,
+   "end": 164.6,
+   "reason": "cursor roaming Trash page",
+   "ff": true
+  },
+  {
+   "start": 166.4,
+   "end": 168.3,
+   "reason": "cursor travel to Restore",
+   "ff": true
+  },
+  {
+   "start": 196.0,
+   "end": 202.0,
+   "reason": "recorder stop / desktop (off-topic)"
+  }
+ ]
+}
