@@ -1,0 +1,171 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 193.533
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 17.6,
+   "x": 330,
+   "y": 560,
+   "kind": "click",
+   "target": "Welcome design thumbnail on Canva home",
+   "result": "design opens in the editor",
+   "t_result_visible": 20.2,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 21.5,
+   "x": 960,
+   "y": 520,
+   "kind": "click",
+   "target": "photo (hummingbird)",
+   "result": "photo selected",
+   "t_result_visible": 21.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 28.2,
+   "x": 960,
+   "y": 520,
+   "kind": "click",
+   "target": "photo, not the page background",
+   "result": "photo selected with object toolbar",
+   "t_result_visible": 28.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 36.4,
+   "x": 1320,
+   "y": 226,
+   "kind": "click",
+   "target": "Animate button in toolbar",
+   "result": "Animate panel opens",
+   "t_result_visible": 37.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 52.6,
+   "x": 336,
+   "y": 864,
+   "kind": "click",
+   "target": "Remove animation button",
+   "result": "animation cleared",
+   "t_result_visible": 55.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 64.5,
+   "x": 984,
+   "y": 696,
+   "kind": "click",
+   "target": "Play button",
+   "result": "preview plays",
+   "t_result_visible": 65.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 88.0,
+   "x": 500,
+   "y": 600,
+   "kind": "click",
+   "target": "empty area of the page",
+   "result": "page selected (purple outline)",
+   "t_result_visible": 88.2,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 121.7,
+   "x": 1277,
+   "y": 226,
+   "kind": "click",
+   "target": "Effects tab on text",
+   "result": "Effects panel opens",
+   "t_result_visible": 121.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 142.35,
+   "x": 1363,
+   "y": 226,
+   "kind": "click",
+   "target": "Animate button in toolbar",
+   "result": "Animate panel opens",
+   "t_result_visible": 143.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 144.9,
+   "x": 336,
+   "y": 864,
+   "kind": "click",
+   "target": "Remove animation button",
+   "result": "animation cleared",
+   "t_result_visible": 145.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 172.45,
+   "x": 984,
+   "y": 690,
+   "kind": "click",
+   "target": "Play button",
+   "result": "preview plays from start",
+   "t_result_visible": 173.0,
+   "confidence": "medium"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0.0,
+   "end": 15.4,
+   "reason": "idle editor before the narrated steps start"
+  },
+  {
+   "start": 38.0,
+   "end": 51.5,
+   "ff": true,
+   "reason": "cursor browsing the Animate panel"
+  },
+  {
+   "start": 66.0,
+   "end": 80.433,
+   "ff": true,
+   "reason": "preview playing / timeline scrubbing / idle"
+  },
+  {
+   "start": 89.5,
+   "end": 120.0,
+   "ff": true,
+   "reason": "repeated preview plays and idle"
+  },
+  {
+   "start": 149.0,
+   "end": 165.0,
+   "ff": true,
+   "reason": "hovering over the photo, idle"
+  },
+  {
+   "start": 188.0,
+   "end": 193.533,
+   "reason": "recorder stop / trailing idle"
+  }
+ ]
+}
