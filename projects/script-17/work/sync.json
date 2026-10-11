@@ -1,0 +1,140 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "Projects"
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "Projects",
+   "occurrence": 2
+  },
+  {
+   "action": "A3",
+   "line": 3,
+   "word": "Add"
+  },
+  {
+   "action": "A4",
+   "line": 3,
+   "word": "Folder"
+  },
+  {
+   "action": "A6",
+   "line": 3,
+   "word": "Create"
+  },
+  {
+   "action": "A7",
+   "line": 5,
+   "word": "Open"
+  },
+  {
+   "action": "A9",
+   "line": 5,
+   "word": "create"
+  },
+  {
+   "action": "A11",
+   "line": 5,
+   "word": "thumbnails"
+  },
+  {
+   "action": "A15",
+   "line": 5,
+   "word": "designs"
+  },
+  {
+   "action": "A16",
+   "line": 7,
+   "word": "Projects"
+  },
+  {
+   "action": "A17",
+   "line": 7,
+   "word": "organize"
+  },
+  {
+   "action": "A18",
+   "line": 8,
+   "word": "Choose"
+  },
+  {
+   "action": "A19",
+   "line": 8,
+   "word": "destination"
+  },
+  {
+   "action": "A20",
+   "line": 8,
+   "word": "confirm"
+  },
+  {
+   "action": "A21",
+   "line": 9,
+   "word": "folder"
+  },
+  {
+   "action": "A12",
+   "line": 9,
+   "word": "Add",
+   "src_from": 71.5,
+   "prev_until": 131.6
+  },
+  {
+   "action": "A22",
+   "line": 11,
+   "word": "Remove",
+   "src_from": 148.0,
+   "prev_until": 75.6
+  },
+  {
+   "action": "A23",
+   "line": 12,
+   "word": "Removing"
+  },
+  {
+   "action": "A24",
+   "line": 13,
+   "word": "Trash"
+  },
+  {
+   "action": "A25",
+   "line": 16,
+   "word": "Open"
+  },
+  {
+   "action": "A26",
+   "line": 16,
+   "word": "inside"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A5",
+  "A7",
+  "A8",
+  "A10",
+  "A14",
+  "A16",
+  "A17",
+  "A21",
+  "A22",
+  "A24",
+  "A25",
+  "A26"
+ ],
+ "cuts": [
+  {
+   "src_start": 27.3,
+   "src_end": 31.8,
+   "reason": "dialog idle before name is typed",
+   "xfade": true
+  }
+ ],
+ "ff_max": 3.0,
+ "use_junk": true,
+ "src_end": 211.5
+}
