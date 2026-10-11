@@ -9,7 +9,7 @@
   "height": 1080,
   "fps": 30.0,
   "frames": 2636,
-  "elapsed_s": 55.189,
+  "elapsed_s": 72.488,
   "zoom_peaks": [],
   "joins": [
     {
@@ -97,19 +97,31 @@
       "into": "speed"
     },
     {
-      "out_t": 42.36,
+      "out_t": 41.9,
       "cut": false,
       "xfade": false,
       "into": "speed"
     },
     {
-      "out_t": 42.91,
+      "out_t": 43.77,
       "cut": false,
       "xfade": false,
       "into": "hold"
     },
     {
-      "out_t": 50.75,
+      "out_t": 45.77,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 48.1,
+      "cut": false,
+      "xfade": false,
+      "into": "hold"
+    },
+    {
+      "out_t": 50.07,
       "cut": false,
       "xfade": false,
       "into": "speed"
