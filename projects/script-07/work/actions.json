@@ -1,0 +1,348 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 217.567
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 15.65,
+   "x": 130,
+   "y": 607,
+   "kind": "click",
+   "target": "Uploads in the left sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 16.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 19.75,
+   "x": 360,
+   "y": 418,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "file picker opens",
+   "t_result_visible": 20.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 25.6,
+   "x": 672,
+   "y": 538,
+   "kind": "click",
+   "target": "script-15 audio file in the picker",
+   "result": "file name filled in",
+   "t_result_visible": 26.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 31.15,
+   "x": 960,
+   "y": 545,
+   "kind": "click",
+   "target": "Open button",
+   "result": "picker closes, upload starts",
+   "t_result_visible": 31.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 32.0,
+   "x": 370,
+   "y": 518,
+   "kind": "wait",
+   "target": "upload progress bar",
+   "result": "audio listed under Audio tab",
+   "t_result_visible": 34.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 54.85,
+   "x": 850,
+   "y": 874,
+   "kind": "click",
+   "target": "Add audio button on the timeline",
+   "result": "menu with Music & SFX / Uploads opens",
+   "t_result_visible": 55.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 56.5,
+   "x": 840,
+   "y": 684,
+   "kind": "click",
+   "target": "Uploads item in the Add audio menu",
+   "result": "Uploads panel with Audio tab",
+   "t_result_visible": 57.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 59.75,
+   "x": 346,
+   "y": 533,
+   "kind": "click",
+   "target": "script-15 file in the Audio tab",
+   "result": "audio added to the timeline as its own track",
+   "t_result_visible": 60.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 80.1,
+   "x": 230,
+   "y": 855,
+   "kind": "drag",
+   "target": "audio track",
+   "result": "track moved right along the timeline",
+   "t_result_visible": 82.5,
+   "confidence": "low",
+   "x2": 930,
+   "y2": 845,
+   "t_end": 82.3
+  },
+  {
+   "id": "A10",
+   "t_click": 84.7,
+   "x": 1780,
+   "y": 935,
+   "kind": "drag",
+   "target": "right edge of the audio track",
+   "result": "track shortened",
+   "t_result_visible": 86.5,
+   "confidence": "low",
+   "x2": 900,
+   "y2": 930,
+   "t_end": 86.3
+  },
+  {
+   "id": "A11",
+   "t_click": 98.7,
+   "x": 792,
+   "y": 859,
+   "kind": "click",
+   "target": "audio track menu (three dots)",
+   "result": "context menu with Volume opens",
+   "t_result_visible": 99.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 102.0,
+   "x": 715,
+   "y": 768,
+   "kind": "click",
+   "target": "Volume in the menu",
+   "result": "volume slider popover opens",
+   "t_result_visible": 103.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 104.3,
+   "x": 854,
+   "y": 408,
+   "kind": "drag",
+   "target": "volume slider",
+   "result": "volume changed",
+   "t_result_visible": 106.0,
+   "confidence": "low",
+   "x2": 1000,
+   "y2": 408,
+   "t_end": 105.8
+  },
+  {
+   "id": "A14",
+   "t_click": 111.75,
+   "x": 974,
+   "y": 662,
+   "kind": "click",
+   "target": "Play button",
+   "result": "preview plays",
+   "t_result_visible": 111.95,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 123.85,
+   "x": 110,
+   "y": 505,
+   "kind": "click",
+   "target": "Uploads in the left sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 124.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 126.0,
+   "x": 360,
+   "y": 427,
+   "kind": "click",
+   "target": "Videos tab",
+   "result": "video thumbnails listed",
+   "t_result_visible": 126.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 126.5,
+   "x": 240,
+   "y": 560,
+   "kind": "click",
+   "target": "first video thumbnail",
+   "result": "video added to the design",
+   "t_result_visible": 126.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 155.2,
+   "x": 922,
+   "y": 320,
+   "kind": "click",
+   "target": "Audio tools button in the toolbar",
+   "result": "volume popover opens",
+   "t_result_visible": 155.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A19",
+   "t_click": 156.2,
+   "x": 950,
+   "y": 420,
+   "kind": "drag",
+   "target": "video volume slider",
+   "result": "volume lowered",
+   "t_result_visible": 157.0,
+   "confidence": "low",
+   "x2": 820,
+   "y2": 420,
+   "t_end": 156.8
+  },
+  {
+   "id": "A20",
+   "t_click": 192.5,
+   "x": 1450,
+   "y": 880,
+   "kind": "drag",
+   "target": "end of the video clip",
+   "result": "clip stretched along the timeline",
+   "t_result_visible": 195.0,
+   "confidence": "low",
+   "x2": 1480,
+   "y2": 880,
+   "t_end": 194.6
+  },
+  {
+   "id": "A21",
+   "t_click": 199.9,
+   "x": 1752,
+   "y": 225,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 200.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A22",
+   "t_click": 201.35,
+   "x": 1210,
+   "y": 778,
+   "kind": "click",
+   "target": "Download in the Share panel",
+   "result": "Download settings open",
+   "t_result_visible": 201.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A23",
+   "t_click": 204.5,
+   "x": 1344,
+   "y": 466,
+   "kind": "click",
+   "target": "File type dropdown",
+   "result": "JPG / PNG / PDF / MP4 options shown",
+   "t_result_visible": 205.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A24",
+   "t_click": 205.8,
+   "x": 1282,
+   "y": 715,
+   "kind": "click",
+   "target": "MP4 Video option",
+   "result": "MP4 Video selected",
+   "t_result_visible": 206.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A25",
+   "t_click": 210.9,
+   "x": 1378,
+   "y": 538,
+   "kind": "click",
+   "target": "Download button",
+   "result": "download starts, toast shown",
+   "t_result_visible": 213.9,
+   "confidence": "medium"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0.0,
+   "end": 12.0,
+   "reason": "idle start before the first action",
+   "ff": true
+  },
+  {
+   "start": 36.3,
+   "end": 52.8,
+   "reason": "idle hover, then a failed drag of the file onto the timeline (nothing added)",
+   "ff": true
+  },
+  {
+   "start": 62.5,
+   "end": 79.3,
+   "reason": "unnarrated playback test (clock stays at 0:01)",
+   "ff": true
+  },
+  {
+   "start": 88.4,
+   "end": 96.8,
+   "reason": "hesitation: track held mid-drag, cursor hovering",
+   "ff": true
+  },
+  {
+   "start": 112.6,
+   "end": 121.9,
+   "reason": "preview playing, nothing changes",
+   "ff": true
+  },
+  {
+   "start": 128.6,
+   "end": 153.5,
+   "reason": "unnarrated video clip resizing and idle",
+   "ff": true
+  },
+  {
+   "start": 157.5,
+   "end": 192.0,
+   "reason": "cursor idles, then Uploads panel browsed (Images/Audio tabs) with no action",
+   "ff": true
+  }
+ ]
+}
