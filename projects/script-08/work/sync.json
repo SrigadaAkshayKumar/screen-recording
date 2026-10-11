@@ -1,0 +1,34 @@
+{
+  "anchors": [
+    {"action": "A1", "line": 2, "word": "computer"},
+    {"action": "A2", "line": 5, "word": "Open"},
+    {"action": "A3", "line": 5, "word": "Uploads"},
+    {"action": "A4", "line": 5, "word": "Upload"},
+    {"action": "A5", "line": 6, "word": "Choose"},
+    {"action": "A6", "line": 6, "word": "Open"},
+    {"action": "A7", "line": 7, "word": "Audio"},
+    {"action": "A8", "line": 7, "word": "add"},
+    {"action": "A9", "line": 8, "word": "Move"},
+    {"action": "A10", "line": 9, "word": "Play"},
+    {"action": "A11", "line": 10, "word": "trim"},
+    {"action": "A12", "line": 11, "word": "Move"},
+    {"action": "A13", "line": 12, "word": "Trim"},
+    {"action": "A14", "line": 12, "word": "adjust"},
+    {"action": "A16", "line": 14, "word": "voice"},
+    {"action": "A17", "line": 16, "word": "convert"},
+    {"action": "A18", "line": 16, "word": "supported"},
+    {"action": "A19", "line": 18, "word": "Make"},
+    {"action": "A20", "line": 18, "word": "Share"},
+    {"action": "A21", "line": 18, "word": "Download"},
+    {"action": "A22", "line": 18, "word": "Video", "occurrence": 2},
+    {"action": "A23", "line": 19, "word": "Your"}
+  ],
+  "zooms": [],
+  "no_ripple": ["A9", "A11", "A12", "A13", "A15"],
+  "cuts": [
+    {"src_start": 111.0, "src_end": 118.2, "reason": "idle timeline between the two trims", "ff": true}
+  ],
+  "ff_max": 2.0,
+  "use_junk": true,
+  "src_end": 194.0
+}
