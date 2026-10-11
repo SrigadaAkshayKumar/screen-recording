@@ -1,0 +1,28 @@
+{
+  "anchors": [
+    {"action": "A1", "line": 1, "word": "shortcuts"},
+    {"action": "A2", "line": 2, "word": "projects"},
+    {"action": "A3", "line": 3, "word": "design"},
+    {"action": "A4", "line": 3, "word": "title"},
+    {"action": "A5", "line": 4, "word": "pattern"},
+    {"action": "A12", "line": 7, "word": "checkboxes", "src_from": 164.0},
+    {"action": "A13", "line": 7, "word": "move"},
+    {"action": "A14", "line": 7, "word": "folder"},
+    {"action": "A15", "line": 7, "word": "confirm"},
+    {"action": "A11", "line": 8, "word": "subfolder", "src_from": 142.0},
+    {"action": "A6", "line": 9, "word": "star", "src_from": 82.5},
+    {"action": "A7", "line": 10, "word": "sidebar"},
+    {"action": "A8", "line": 12, "word": "Recent"},
+    {"action": "A9", "line": 13, "word": "retrieve"},
+    {"action": "A10", "line": 13, "word": "folder"}
+  ],
+  "zooms": [],
+  "no_ripple": ["A1", "A2", "A4", "A7", "A8", "A9", "A10", "A12", "A13", "A14"],
+  "cuts": [
+    {"src_start": 88.0, "src_end": 96.5, "reason": "idle after starring (toast)", "ff": true},
+    {"src_start": 100.0, "src_end": 106.5, "reason": "idle cursor on the page", "ff": true}
+  ],
+  "ff_max": 2.0,
+  "use_junk": true,
+  "src_end": 142.0
+}

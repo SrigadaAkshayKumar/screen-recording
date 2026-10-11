@@ -46,3 +46,4 @@ Format: date, symptom, cause, rule.
   the next (unnarrated) filter pass had begun at 164.2: the recorder was already zooming and the
   dropdown was open on the held frame. Rule: before setting src_end (or any hold point), look at
   the 2 s before it and stop at the last frame with nothing starting.
+- **2026-10-11 script-18. Ripples landed in the wrong place on recorder-zoomed footage.** The recording had baked-in auto-zoom; the plan's ripple (recording pixels) assumes the unzoomed frame, so clicks during a recorder zoom got a ripple far from the cursor (preview at 12.8 s). Rule: with baked-in zoom, use `no_ripple` for every click that happens while the recorder is zoomed (check the contact sheet at the click time); keep ripples only on unzoomed clicks.

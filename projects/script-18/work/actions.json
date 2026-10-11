@@ -1,0 +1,192 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 180.8
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 13.8,
+   "x": 74,
+   "y": 405,
+   "kind": "click",
+   "target": "Home button in the sidebar",
+   "result": "Canva home page (What will you design today?)",
+   "t_result_visible": 14.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 17.0,
+   "x": 74,
+   "y": 480,
+   "kind": "click",
+   "target": "Projects button in the sidebar",
+   "result": "All projects page",
+   "t_result_visible": 18.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 24.3,
+   "x": 693,
+   "y": 540,
+   "kind": "click",
+   "target": "three-dot menu on the first design",
+   "result": "context menu with the design title and pencil",
+   "t_result_visible": 26.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 29.8,
+   "x": 884,
+   "y": 357,
+   "kind": "click",
+   "target": "title beside the pencil icon",
+   "result": "title becomes editable and selected",
+   "t_result_visible": 30.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 30.6,
+   "x": 800,
+   "y": 357,
+   "kind": "type",
+   "text": "New-canva-design",
+   "target": "title field",
+   "result": "new name typed and confirmed, 'Design successfully renamed' toast",
+   "t_result_visible": 39.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 84.2,
+   "x": 643,
+   "y": 540,
+   "kind": "click",
+   "target": "star icon on the design card",
+   "result": "design starred, toast and Your starred entry in the sidebar",
+   "t_result_visible": 86.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 98.0,
+   "x": 330,
+   "y": 675,
+   "kind": "click",
+   "target": "starred design in the sidebar",
+   "result": "cursor rests on the Your starred item",
+   "t_result_visible": 98.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 108.0,
+   "x": 530,
+   "y": 465,
+   "kind": "click",
+   "target": "Recents heading",
+   "result": "cursor on the Recents heading",
+   "t_result_visible": 108.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 112.4,
+   "x": 946,
+   "y": 876,
+   "kind": "click",
+   "target": "class-1 folder",
+   "result": "class-1 folder page",
+   "t_result_visible": 113.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 114.0,
+   "x": 560,
+   "y": 540,
+   "kind": "click",
+   "target": "images folder",
+   "result": "images folder with the renamed design",
+   "t_result_visible": 116.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 143.5,
+   "x": 582,
+   "y": 252,
+   "kind": "click",
+   "target": "class-1 breadcrumb",
+   "result": "class-1 folder page with images and thumbnails subfolders",
+   "t_result_visible": 144.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 165.8,
+   "x": 693,
+   "y": 540,
+   "kind": "click",
+   "target": "three-dot menu on the design",
+   "result": "menu with Move opens",
+   "t_result_visible": 166.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 167.2,
+   "x": 776,
+   "y": 731,
+   "kind": "click",
+   "target": "Move menu item",
+   "result": "Move dialog opens",
+   "t_result_visible": 168.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 170.2,
+   "x": 800,
+   "y": 610,
+   "kind": "click",
+   "target": "thumbnails folder in the dialog",
+   "result": "thumbnails folder selected",
+   "t_result_visible": 170.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 172.4,
+   "x": 1227,
+   "y": 813,
+   "kind": "click",
+   "target": "Move confirm button",
+   "result": "toast: moved to thumbnails",
+   "t_result_visible": 173.3,
+   "confidence": "low"
+  }
+ ],
+ "junk": [
+  {
+   "start": 146.5,
+   "end": 160.5,
+   "reason": "design opened in the editor in a new tab and closed again, not narrated"
+  },
+  {
+   "start": 175.6,
+   "end": 180.8,
+   "reason": "recorder stop: desktop and recorder controls"
+  }
+ ]
+}
