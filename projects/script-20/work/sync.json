@@ -1,0 +1,117 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "heading"
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "animate",
+   "occurrence": 2
+  },
+  {
+   "action": "A3",
+   "line": 3,
+   "word": "rise"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "photo"
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "animate"
+  },
+  {
+   "action": "A6",
+   "line": 4,
+   "word": "element"
+  },
+  {
+   "action": "A7",
+   "line": 9,
+   "word": "Preview"
+  },
+  {
+   "action": "A8",
+   "line": 14,
+   "word": "remove",
+   "occurrence": 2
+  },
+  {
+   "action": "A9",
+   "line": 15,
+   "word": "share"
+  },
+  {
+   "action": "A10",
+   "line": 15,
+   "word": "download"
+  },
+  {
+   "action": "A11",
+   "line": 15,
+   "word": "video"
+  },
+  {
+   "action": "A12",
+   "line": 16,
+   "word": "GIF"
+  },
+  {
+   "action": "A14",
+   "line": 17,
+   "word": "PNG"
+  },
+  {
+   "action": "A13",
+   "line": 17,
+   "word": "JPG"
+  },
+  {
+   "action": "A15",
+   "line": 18,
+   "word": "export"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [],
+ "cuts": [
+  {
+   "src_start": 59.5,
+   "src_end": 70.0,
+   "reason": "hovering through animation tiles before the choice",
+   "xfade": true
+  },
+  {
+   "src_start": 75.5,
+   "src_end": 99.5,
+   "reason": "waiting/replaying whip slide preview",
+   "ff": true
+  },
+  {
+   "src_start": 99.5,
+   "src_end": 125.0,
+   "reason": "tweaking speed/direction settings, narration moves on",
+   "ff": true
+  },
+  {
+   "src_start": 135.5,
+   "src_end": 196.0,
+   "reason": "repeated settings experiments and idle",
+   "ff": true
+  },
+  {
+   "src_start": 208.3,
+   "src_end": 213.5,
+   "reason": "dropdown open, waiting before GIF choice",
+   "xfade": true
+  }
+ ],
+ "ff_max": 4.0,
+ "use_junk": true
+}
