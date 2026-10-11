@@ -1,0 +1,28 @@
+{
+ "anchors": [
+  {"action":"A1","line":2,"word":"create"},
+  {"action":"A2","line":3,"word":"vertical"},
+  {"action":"A3","line":4,"word":"Uploads"},
+  {"action":"A4","line":5,"word":"uploaded"},
+  {"action":"A5","line":5,"word":"resize"},
+  {"action":"A6","line":8,"word":"Animate"},
+  {"action":"A7","line":10,"word":"pan"},
+  {"action":"A8","line":10,"word":"fade"},
+  {"action":"A9","line":11,"word":"speed"},
+  {"action":"A10","line":11,"word":"play"},
+  {"action":"A11","line":13,"word":"extend"},
+  {"action":"A12","line":17,"word":"Share"},
+  {"action":"A13","line":17,"word":"download"},
+  {"action":"A14","line":17,"word":"MP4"},
+  {"action":"A15","line":18,"word":"GIF"},
+  {"action":"A17","line":19,"word":"Download"},
+  {"action":"A19","line":19,"word":"check"}
+ ],
+ "zooms": [],
+ "no_ripple": ["A1","A2","A3","A4","A5","A6","A8","A9","A10","A11","A12","A13","A14","A15","A16","A17","A18","A19"],
+ "cuts": [],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 0,
+ "src_end": 205.0
+}
