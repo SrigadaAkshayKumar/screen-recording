@@ -1,0 +1,343 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 246.1
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 22.3,
+   "x": 336,
+   "y": 804,
+   "kind": "click",
+   "target": "Upload item in the Create menu",
+   "result": "Upload page opens",
+   "t_result_visible": 22.7,
+   "confidence": "high"
+  },
+  {
+   "id": "A2",
+   "t_click": 24.35,
+   "x": 984,
+   "y": 512,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "file picker opens",
+   "t_result_visible": 24.9,
+   "confidence": "high"
+  },
+  {
+   "id": "A3",
+   "t_click": 26.75,
+   "x": 1054,
+   "y": 564,
+   "kind": "click",
+   "target": "Open button in the file picker",
+   "result": "picker closes, upload starts on the homepage",
+   "t_result_visible": 27.4,
+   "confidence": "high"
+  },
+  {
+   "id": "A4",
+   "t_click": 27.5,
+   "x": 1440,
+   "y": 910,
+   "kind": "wait",
+   "target": "upload progress toast",
+   "result": "1 item uploaded (sample-resume.pdf)",
+   "t_result_visible": 31.5,
+   "confidence": "high"
+  },
+  {
+   "id": "A5",
+   "t_click": 31.95,
+   "x": 1656,
+   "y": 882,
+   "kind": "click",
+   "target": "Open button in the upload toast",
+   "result": "imported design opens in the editor",
+   "t_result_visible": 34.5,
+   "confidence": "high"
+  },
+  {
+   "id": "A6",
+   "t_click": 94.9,
+   "x": 900,
+   "y": 565,
+   "kind": "click",
+   "target": "text box of the resume",
+   "result": "all text selected, toolbar shows Carlito",
+   "t_result_visible": 95.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 98.7,
+   "x": 752,
+   "y": 322,
+   "kind": "click",
+   "target": "font name box (Carlito)",
+   "result": "Font panel opens",
+   "t_result_visible": 100.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 105.7,
+   "x": 496,
+   "y": 848,
+   "kind": "click",
+   "target": "Change all button",
+   "result": "Carlito replaced by Canva Sans, toast 'Font changed across your design'",
+   "t_result_visible": 109.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 130.5,
+   "x": 658,
+   "y": 616,
+   "kind": "click",
+   "target": "Edit link under Brand Kit",
+   "result": "Brand Kit > Edit Fonts page opens",
+   "t_result_visible": 132.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 133.9,
+   "x": 720,
+   "y": 462,
+   "kind": "click",
+   "target": "font dropdown of the Title style",
+   "result": "font list opens",
+   "t_result_visible": 134.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 138.45,
+   "x": 926,
+   "y": 928,
+   "kind": "click",
+   "target": "Save button",
+   "result": "brand fonts saved, panel closed",
+   "t_result_visible": 138.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 144.9,
+   "x": 672,
+   "y": 267,
+   "kind": "click",
+   "target": "font name box in the editor",
+   "result": "Font panel opens",
+   "t_result_visible": 145.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 147.9,
+   "x": 346,
+   "y": 752,
+   "kind": "click",
+   "target": "Canva Sans under Brand Kit",
+   "result": "font listed under Brand Kit applied",
+   "t_result_visible": 148.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 149.7,
+   "x": 768,
+   "y": 235,
+   "kind": "click",
+   "target": "close X of the Font panel",
+   "result": "panel closes",
+   "t_result_visible": 150.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 168.95,
+   "x": 1786,
+   "y": 224,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 169.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 170.9,
+   "x": 1229,
+   "y": 795,
+   "kind": "click",
+   "target": "Download icon in the Share panel",
+   "result": "Download panel opens",
+   "t_result_visible": 171.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 171.8,
+   "x": 1325,
+   "y": 486,
+   "kind": "click",
+   "target": "file type dropdown",
+   "result": "file type list opens",
+   "t_result_visible": 172.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 181.0,
+   "x": 1382,
+   "y": 547,
+   "kind": "click",
+   "target": "PNG option",
+   "result": "PNG selected with size/quality options",
+   "t_result_visible": 182.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A19",
+   "t_click": 184.7,
+   "x": 1488,
+   "y": 610,
+   "kind": "click",
+   "target": "Download button",
+   "result": "PNG download starts",
+   "t_result_visible": 185.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A20",
+   "t_click": 192.5,
+   "x": 614,
+   "y": 828,
+   "kind": "click",
+   "target": "Add page button",
+   "result": "a second page appears",
+   "t_result_visible": 192.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A21",
+   "t_click": 194.2,
+   "x": 115,
+   "y": 505,
+   "kind": "click",
+   "target": "Uploads tab in the sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 195.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A22",
+   "t_click": 195.3,
+   "x": 466,
+   "y": 419,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "file picker opens",
+   "t_result_visible": 195.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A23",
+   "t_click": 198.2,
+   "x": 1104,
+   "y": 609,
+   "kind": "click",
+   "target": "Open button in the file picker",
+   "result": "picker closes, image uploaded",
+   "t_result_visible": 199.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A24",
+   "t_click": 200.3,
+   "x": 312,
+   "y": 785,
+   "kind": "click",
+   "target": "uploaded PDF-page image thumbnail",
+   "result": "image placed on page 2",
+   "t_result_visible": 201.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A25",
+   "t_click": 205.3,
+   "x": 1238,
+   "y": 695,
+   "kind": "drag",
+   "target": "corner handle of the image",
+   "result": "image resized to cover the page",
+   "t_result_visible": 211.0,
+   "confidence": "low",
+   "x2": 1440,
+   "y2": 870,
+   "t_end": 210.6
+  },
+  {
+   "id": "A26",
+   "t_click": 227.5,
+   "x": 1790,
+   "y": 219,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 228.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A27",
+   "t_click": 233.5,
+   "x": 1498,
+   "y": 728,
+   "kind": "click",
+   "target": "Download button (PDF)",
+   "result": "download starts, 'Completed' popup",
+   "t_result_visible": 235.5,
+   "confidence": "medium"
+  }
+ ],
+ "junk": [
+  {
+   "start": 8.5,
+   "end": 18.2,
+   "reason": "pre-take: text selected/deselected in the open design, then tab switch to Home (off-topic)"
+  },
+  {
+   "start": 35.6,
+   "end": 93.6,
+   "ff": true,
+   "reason": "hovering and scrolling the opened design before the real select/font steps"
+  },
+  {
+   "start": 116.0,
+   "end": 129.8,
+   "ff": true,
+   "reason": "font panel reopened, wandering through Brand Kit list"
+  },
+  {
+   "start": 211.3,
+   "end": 226.4,
+   "ff": true,
+   "reason": "idle on the finished page"
+  },
+  {
+   "start": 241.0,
+   "end": 246.1,
+   "reason": "recording tail: return to Canva then desktop and recorder stop"
+  }
+ ]
+}
