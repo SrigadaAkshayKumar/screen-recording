@@ -1,11 +1,11 @@
 {
-  "file": "C:\\freelance\\screencast-editor\\projects\\script-03\\output\\final.mp4",
+  "file": "/home/runner/work/screen-recording/screen-recording/projects/script-03/output/final.mp4",
   "ok": true,
   "checks": [
     {
       "name": "duration",
       "ok": true,
-      "detail": "74.767s vs voiceover 74.768s"
+      "detail": "85.774s vs voiceover 85.812s"
     },
     {
       "name": "streams",
@@ -25,7 +25,7 @@
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "30 boundaries clean"
+      "detail": "52 boundaries clean"
     }
   ],
   "zoom_frames": []
