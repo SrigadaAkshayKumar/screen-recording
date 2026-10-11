@@ -1,10 +1,7 @@
 # Analyze notes
-
-- No clicks.json: every click time/position was read from frames (no logger). Most are medium confidence (+-0.2 s, +-30 px).
-- The recorder has an auto-zoom (camera follows the cursor) baked in for most of the recording, so the plan uses ripples only, no zooms (lessons.md, script-1).
-- Drags A9, A11, A12, A13 (move/trim the audio track) are low confidence: start/end pixels are estimates. They get no ripple.
-- A23 (final Download click) is low confidence: the cursor shows a busy spinner by 188.7, the click is just before.
-- First Explorer visit (18-38 s): file selected is shown as "script-15" at 21.8 and as "voice" at 37 (renamed/selected in between); not an action I could place.
-- 144-176 s: a second Upload files dialog that is cancelled, then Explorer again. The script has no step for it; the narration over it (L13-17) talks about file formats, so it is used as illustration.
-- Narration says "preview it with your visuals" (L12). The only playback in the recording (85-96 s) happens before the trimming; no second preview after trimming.
-- Narration L10 "select the audio": no distinct click seen; the track is already selected when trimming starts.
+- No clicks.json: click times are from contact sheets/event onsets (+-0.3 s); coordinates are rough estimates read off the sheets (low/medium confidence), not crop-verified. Zooms/ripples are off, so they do not drive the plan.
+- The recorder's auto-zoom is baked into the footage (zoomed frames at 12-17, 22-30, 45-48, ...).
+- Drags A6/A7/A9 (moving/resizing on pages 2-3) times are approximate.
+- Narration mentions the crown/premium indicator, shortening/lengthening page holds, and separate-video export; no distinct action found for them.
+- Page-3 section (src 80-105) and A12 (second transition) are least certain.
+- Junk with ff: idle/loading/progress spans; 238-242 desktop is cut.

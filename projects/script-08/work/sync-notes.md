@@ -2,52 +2,43 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 2 | computer. | 7.920 | A1 File Explorer icon in the taskbar | 17.700 | 2.23x |
-| 5 | Open | 17.800 | A2 File Explorer minimize button | 37.900 | 2.04x |
-| 5 | Uploads | 19.700 | A3 Uploads in the Canva sidebar | 44.500 | 0.79x |
-| 5 | Upload | 20.860 | A4 Upload files button | 49.100 | 1.21x |
-| 6 | Choose | 22.500 | A5 voice recording file in the dialog | 50.600 | 0.91x |
-| 6 | Open | 23.940 | A6 Open button | 51.800 | 0.83x |
-| 7 | Audio | 27.460 | A7 Audio tab | 52.800 | 1.00x +2.5s hold |
-| 7 | add | 28.060 | A8 voice.mp3 in the Audio list | 66.200 | 2.33x |
-| 8 | Move | 29.420 | A9 audio track on the timeline | 67.900 | 1.25x |
-| 9 | Play | 33.020 | A10 Play button | 84.600 | 1.47x |
-| 10 | trim | 38.240 | A11 audio track beginning handle | 103.900 | 1.00x +3.0s hold |
-| 11 | Move | 40.720 | A12 trimmed audio track | 118.600 | 3.02x |
-| 12 | Trim | 44.280 | A13 audio track end handle | 121.500 | 0.81x |
-| 12 | adjust | 46.880 | A14 Volume button in the audio toolbar | 130.100 | 2.12x |
-| 14 | voice | 53.020 | A16 Upload files button (second time) | 146.900 | 1.00x +2.9s hold |
-| 16 | convert | 62.680 | A17 Cancel button in the dialog | 163.000 | 1.67x |
-| 16 | supported | 64.000 | A18 File Explorer icon in the taskbar | 164.300 | 0.98x |
-| 18 | Make | 68.760 | A19 File Explorer minimize button | 176.700 | 1.00x +3.4s hold |
-| 18 | Share, | 71.240 | A20 Share button | 181.300 | 1.85x |
-| 18 | Download | 72.100 | A21 Download in the share panel | 183.400 | 2.44x |
-| 18 | Video. | 73.640 | A22 MP4 Video file type | 185.400 | 1.30x |
-| 19 | Your | 75.000 | A23 Download button | 188.500 | 1.10x |
+| 2 | presentation | 8.000 | A1 Presentations in Create a design | 16.200 | 2.02x |
+| 3 | Upload | 10.660 | A2 Uploads in left sidebar | 24.300 | 0.86x |
+| 3 | place | 11.920 | A3 uploaded photo | 26.800 | 1.98x |
+| 4 | larger | 14.720 | A4 centre photo resize handle | 37.000 | 3.64x |
+| 5 | Duplicate | 17.880 | A5 Duplicate page in page menu | 59.000 | 2.09x |
+| 6 | positions | 22.420 | A6 existing photo on page 2 | 66.500 | 1.65x |
+| 7 | Resize | 26.440 | A7 photo corner handle | 74.000 | 1.87x |
+| 8 | Duplicate | 29.960 | A8 Duplicate page | 79.600 | 1.59x |
+| 9 | Move | 34.160 | A9 existing photo on page 3 | 84.000 | 1.05x |
+| 10 | Add | 40.840 | A10 Add transition (+) between pages | 107.000 | 1.44x |
+| 10 | Match | 42.400 | A11 Match & Move in Transitions panel | 109.000 | 1.28x |
+| 12 | second | 49.760 | A12 transition between pages 2 and 3 | 115.400 | 0.87x |
+| 13 | sequence. | 54.000 | A13 Duration slider | 134.500 | 2.98x |
+| 17 | PNG | 68.700 | A14 PNG in file type list | 179.600 | 2.39x |
+| 19 | Share, | 82.980 | A15 file type dropdown | 197.200 | 1.23x |
+| 19 | MP4 | 84.780 | A16 MP4 Video in list | 201.000 | 2.11x |
+| 19 | pages. | 87.220 | A17 Download button | 210.000 | 3.69x |
+| 20 | Play | 88.300 | A18 downloaded mp4 in browser downloads list | 223.500 | 3.80x |
 
 ## Builder decisions
 
-- intro: fast-forwarded src 5.00-17.20 instead of cutting it (junk: idle Canva screen before the Explorer is opened)
-- A1->A2: fast-forwarded src 22.60-36.40 instead of cutting it (junk: idle File Explorer, nothing changes)
-- A2->A3: cut src 38.80-43.90 - too long to fast-forward at <= 2.00x (junk: idle, cursor drifting to the sidebar)
-- A3->A4: cut src 45.40-48.60 - too long to fast-forward at <= 2.00x (junk: idle Uploads panel, cursor moving to Upload files)
-- A9->A10: cut src 72.60-84.00 - too long to fast-forward at <= 2.00x (junk: idle timeline, cursor wandering to Play)
-- A10->A11: cut src 86.30-103.40 - too long to fast-forward at <= 2.00x (junk: playback and replay, hovering the timeline)
-- A11->A12: cut src 111.00-118.20 - too long to fast-forward at <= 2.00x (idle timeline between the two trims)
-- A13->A14: cut src 126.80-129.90 - too long to fast-forward at <= 2.00x (junk: idle timeline)
-- A14->A16: cut src 132.40-146.00 - too long to fast-forward at <= 2.00x (junk: idle with the volume popup open)
-- A16->A17: fast-forwarded src 149.50-162.40 instead of cutting it (junk: idle open-file dialog)
-- A18->A19: cut src 165.20-176.20 - too long to fast-forward at <= 2.00x (junk: idle File Explorer)
-- A19->A20: fast-forwarded src 177.60-180.90 instead of cutting it (junk: idle Canva editor)
-- A22->A23: cut src 186.60-188.20 - too long to fast-forward at <= 2.00x (junk: idle download panel)
+- intro: fast-forwarded src 4.67-11.13 instead of cutting it (junk: idle opening)
+- A1->A2: cut src 17.40-23.20 - too long to fast-forward at <= 2.00x (junk: editor loading)
+- A4->A5: cut src 40.60-56.00 - too long to fast-forward at <= 2.00x (junk: fine alignment of photos)
+- A9->A10: cut src 90.60-104.00 - too long to fast-forward at <= 2.00x (junk: idle page 3)
+- A12->A13: cut src 118.87-125.33 - too long to fast-forward at <= 2.00x (junk: idle)
+- A13->A14: fast-forwarded src 163.37-170.27 instead of cutting it (junk: idle)
+- A13->A14: cut src 140.67-150.60 - too long to fast-forward at <= 2.00x (junk: idle)
+- A14->A15: fast-forwarded src 181.93-192.63 instead of cutting it (junk: idle in download panel)
+- A14->A15: fast-forwarded src 193.67-195.97 instead of cutting it (junk: idle)
+- A17->A18: cut src 212.50-221.90 - too long to fast-forward at <= 2.00x (junk: download progress)
 
 ## Judgment calls
-
-- No zooms: the recorder's auto-zoom is baked into most of the recording (lessons.md, script-1). Ripples only; drags (A9, A11, A12, A13, A15) have no ripple because their pixels are low confidence.
-- Narration order is the footage order, so no out-of-order jumps were needed. Narrated "select the audio" (L10) has no separate click; "preview" (L12) is held on the volume popup because the only playback happens earlier (A10).
-- A1 on "computer": opening File Explorer illustrates "save the file to your computer"; the idle Explorer (22.6-36.4) is fast-forwarded under L3-L4.
-- A16-A18 (a second Upload files dialog, cancelled, then Explorer again) are not in the script's steps. They are used under L14-L17 (link vs. local file, convert, file extension) as illustration, fast-forwarded (~1.7x) rather than cut.
-- A8 "add": the menu detour (60.3-65.4, Add audio menu opened by mistake) is cut; the idle voice.mp3 preview before it is fast-forwarded/cut by the builder.
-- A23 on "Your" (L19): the final Download click starts the "downloading" toast that stays on screen while L19 plays; tail trimmed at src 194.0.
-- Cuts the builder made because the idle spans did not fit at <= 2x are listed in the notes above (11 cuts, all in-scene idle time). 
-- Warnings: A1, A9, A11, A22 results land slightly after their line ends (0.3-0.6 s), harmless. A15 (volume slider drag) has no word: it follows A14 within 0.3 s.
+- No zooms and no ripples (all `no_ripple`): the recorder's auto-zoom is baked into the footage (lessons: script-1, script-18), and there is no click log, so click positions are rough.
+- Anchors follow the narration order; the recording is already in that order, so there are no reorders.
+- A13 (duration slider) is anchored on "sequence." instead of "duration" so the 19 s of source before it fits in under 4x; the slider result lands about 1 s after line 13 ends (builder warning).
+- A15 (file type dropdown) on "Share,", A17 (Download click) on "pages.", A18 (open the export) on "Play": the recording takes its time between them, so these are the closest words that fit.
+- Junk spans marked `ff` were fast-forwarded where they fit within 2x. The rest were cut: editor loading (17.4-23.2), fine alignment (40.6-56), idle on page 3 (90.6-104), idle (118.9-125.3 and 140.7-150.6), download progress (212.5-221.9). The desktop at 238-242.3 is cut.
+- Narrated but not shown as a distinct action: crown/premium indicator (L11), shortening or lengthening page holds (L14), "separate videos" export (L18, shown only as the Share/Download dialog). The footage plays at whatever speed fits.
+- The second transition (A12) and the page-3 drags (A6, A7, A9) have low-confidence times.
