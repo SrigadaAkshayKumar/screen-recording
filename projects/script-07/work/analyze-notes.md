@@ -1,10 +1,6 @@
-# Analyze notes (script-07)
-
-- The recorder has baked-in auto-zoom (frames alternate between the padded full window and zoomed views). Coordinates are the pixels of the frame at the click time, estimated from contact-sheet tiles (±25 px); none checked with --grid crops. Confidence is medium/low everywhere.
-- Low confidence: A9/A10 (track move / edge trim, 80-87 s), A13 (volume slider), A19 (video volume slider), A20 (video clip end drag). Exact click times are +-0.3 s.
-- 88.4-96.8 s: track held mid-drag with tooltip 14.8-15.6 s; 97-98.5 s the track is moved again. Treated as hesitation (junk, ff), not an action.
-- 48-52 s: drag of script-15 towards the timeline did not add anything (junk). The track was added later by clicking the file (A8, 59.75 s) after using the Add audio button.
-- 65-79 s: unnarrated playback test (junk). 112-121 s: playback (junk).
-- 128-153 s: video clip resized and idle (unnarrated, junk). 157-192 s: cursor idles, Uploads panel browsed (junk).
-- Not in the script's order: the recording clicks Add audio -> Uploads -> file (54-60 s) *after* the first idle/failed drag; narration says click the file first (L6) and the Add Audio button second (L7).
-- The recording has no click log; clicks were found by eye.
+# Analyze notes
+- No clicks.json: every time/position comes from contact sheets and frames, not a click log.
+- The recorder's auto-zoom is baked into most of the footage (zoomed tiles throughout). Cursor positions on zoomed frames are approximate (nominal unzoomed UI positions used), so most coordinates are medium/low confidence.
+- A5 (resize drag, 34.8-36.7), A14/A15 (second text box animation), A16-A18 (timeline drags) are low confidence in time and position.
+- Script says nothing was "on screen" (no notes). Not found in the recording: font/alignment changes (L5), appear-on-click / click order (L19). The footage never shows them.
+- Footage 160-245 s is playback and re-checking of the timeline with no distinct narrated steps; used for L14-L19.

@@ -3,161 +3,130 @@
   {
    "action": "A1",
    "line": 2,
-   "word": "Uploads"
+   "word": "video"
   },
   {
    "action": "A2",
-   "line": 3,
-   "word": "Upload"
+   "line": 2,
+   "word": "text"
   },
   {
    "action": "A3",
-   "line": 4,
-   "word": "audio"
-  },
-  {
-   "action": "A4",
-   "line": 4,
-   "word": "Open"
-  },
-  {
-   "action": "A8",
-   "line": 6,
-   "word": "file",
-   "src_from": 58.0,
-   "prev_until": 35.0
+   "line": 3,
+   "word": "Add"
   },
   {
    "action": "A6",
-   "line": 7,
-   "word": "Add",
-   "src_from": 53.3,
-   "prev_until": 61.0
+   "line": 3,
+   "word": "box"
   },
   {
    "action": "A7",
-   "line": 7,
-   "word": "select",
-   "prev_until": 57.8
+   "line": 4,
+   "word": "example"
+  },
+  {
+   "action": "A8",
+   "line": 4,
+   "word": "lines"
   },
   {
    "action": "A9",
-   "line": 9,
-   "word": "Drag",
-   "src_from": 61.0
+   "line": 5,
+   "word": "font"
   },
   {
    "action": "A10",
-   "line": 10,
-   "word": "drag"
+   "line": 6,
+   "word": "sentences"
   },
   {
    "action": "A11",
-   "line": 11,
-   "word": "track"
+   "line": 7,
+   "word": "Select"
   },
   {
    "action": "A12",
-   "line": 11,
-   "word": "volume"
+   "line": 7,
+   "word": "animate"
   },
   {
    "action": "A13",
-   "line": 11,
-   "word": "adjust"
+   "line": 8,
+   "word": "rise"
   },
   {
    "action": "A14",
-   "line": 12,
-   "word": "play",
-   "prev_until": 113.0
+   "line": 9,
+   "word": "style"
+  },
+  {
+   "action": "A15",
+   "line": 9,
+   "word": "third"
+  },
+  {
+   "action": "A16",
+   "line": 11,
+   "word": "begin"
   },
   {
    "action": "A17",
-   "line": 13,
-   "word": "already",
-   "src_from": 123.0
+   "line": 12,
+   "word": "Extend"
   },
   {
    "action": "A18",
    "line": 13,
-   "word": "tracks"
+   "word": "Shorten"
   },
   {
    "action": "A19",
-   "line": 13,
-   "word": "competing"
-  },
-  {
-   "action": "A23",
-   "line": 15,
-   "word": "PNG",
-   "src_from": 203.0,
-   "prev_until": 158.5
-  },
-  {
-   "action": "A24",
-   "line": 16,
-   "word": "MP4"
+   "line": 14,
+   "word": "Play"
   },
   {
    "action": "A20",
-   "line": 17,
-   "word": "end",
-   "src_from": 192.0,
-   "prev_until": 207.0
-  },
-  {
-   "action": "A21",
-   "line": 19,
-   "word": "Share"
-  },
-  {
-   "action": "A22",
-   "line": 19,
+   "line": 20,
    "word": "Download"
   },
   {
-   "action": "A25",
-   "line": 19,
-   "word": "download",
-   "occurrence": 2
+   "action": "A21",
+   "line": 20,
+   "word": "timed"
+  },
+  {
+   "action": "A22",
+   "line": 20,
+   "word": "mp4"
   }
  ],
  "zooms": [],
- "no_ripple": [],
- "cuts": [
-  {
-   "src_start": 20.6,
-   "src_end": 24.4,
-   "reason": "file picker loading/browsing",
-   "ff": true
-  },
-  {
-   "src_start": 26.4,
-   "src_end": 30.4,
-   "reason": "cursor wanders in the picker",
-   "ff": true
-  },
-  {
-   "src_start": 202.4,
-   "src_end": 204.2,
-   "reason": "idle in Download dialog (dropdown replayed after)",
-   "ff": true
-  },
-  {
-   "src_start": 206.4,
-   "src_end": 210.2,
-   "reason": "cursor travels to Download button",
-   "ff": true
-  },
-  {
-   "src_start": 106.6,
-   "src_end": 110.6,
-   "reason": "cursor idle after slider",
-   "ff": true
-  }
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20",
+  "A21",
+  "A22"
  ],
+ "cuts": [],
  "ff_max": 3.0,
  "use_junk": true
 }

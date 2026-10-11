@@ -1,23 +1,21 @@
-This tutorial shows you how to upload an audio file to Canva and add it to a video design.
-Open your video design and select Uploads from the left sidebar.
-Click Upload Files.
-Choose the audio file and click Open.
-Wait for the upload to finish, then look under Audio in the Uploads panel.
-Click the file to add it to the design.
-If your video editor displays Add Audio on the timeline,
-you can also use that button to select your uploaded audio.
-The audio appears on its own track.
-Drag the entire track left or right to choose when it starts.
-To shorten the track, select it and drag an edge inward.
-To change its loudness, keep the track selected,
-open the volume control and adjust the slider.
-Press play and listen to the result.
-If your video already contains sound,
-check that the two tracks work together instead of competing with each other.
+This tutorial shows you how to make sentences appear one after another in a Canva video.
+Create a video design and open the text panel.
+Add your first sentence, then create a separate text box for each additional sentence.
+For this example, use three short lines.
+Set the font, size and alignment before animating them.
+Leave enough space between the sentences so the layout stays readable as each line appears.
+Select the first text box and open animate.
+Choose fade, rise or another text entrance.
+Apply the same style to the second and third text boxes for a consistent result.
+Now use the video timeline to stagger the sentences.
+Let the first text box begin at zero seconds, the second at about one and a half seconds
+and the third at about three seconds.
+Extend their right edges to the same ending time if you want all three sentences to remain visible together.
+Shorten each box's visible span when the next sentence should replace it.
+Play the video and check that each sentence stays on screen long enough to read comfortably.
+Slow the sequence down when the wording is longer.
 Here's the part many tutorials skip.
-Adding audio to a design does not make a PNG, JPG or ordinary PDF download carry sound.
-Choose MP4 Video when you want the exported design to include the audio.
-Also check the end of the timeline.
-Make sure the visuals last for the section of audio you want viewers to hear.
-Select Share, Download and MP4 Video, then download and test the finished file.
-Your uploaded audio is now part of the video.
+Line breaks inside one text box do not give every sentence its own independent timeline layer.
+Separate text boxes let you control the sentences individually.
+For a live presentation, use appear on click and click order instead of fixed video timing.
+Download the timed video as mp4 video when finished.
