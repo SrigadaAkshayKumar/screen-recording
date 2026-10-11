@@ -1,0 +1,173 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 337.4
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 16.0,
+   "x": 45,
+   "y": 380,
+   "kind": "click",
+   "target": "Uploads sidebar tab",
+   "result": "Uploads panel opens with the image library",
+   "t_result_visible": 17.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 22.0,
+   "x": 590,
+   "y": 880,
+   "kind": "click",
+   "target": "logo thumbnail in Uploads",
+   "result": "logo is added to the canvas",
+   "t_result_visible": 22.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 90.8,
+   "x": 1396,
+   "y": 235,
+   "kind": "click",
+   "target": "Animate button in the toolbar",
+   "result": "Animate panel opens",
+   "t_result_visible": 91.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 94.6,
+   "x": 340,
+   "y": 480,
+   "kind": "click",
+   "target": "first featured entrance effect",
+   "result": "effect applied, logo replays it",
+   "t_result_visible": 95.7,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 98.5,
+   "x": 340,
+   "y": 470,
+   "kind": "click",
+   "target": "effect tiles (hover preview)",
+   "result": "logo previews the effect",
+   "t_result_visible": 99.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 139.3,
+   "x": 402,
+   "y": 612,
+   "kind": "click",
+   "target": "Speed option (Fast/Medium)",
+   "result": "speed selected, preview replays",
+   "t_result_visible": 140.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 184.3,
+   "x": 921,
+   "y": 646,
+   "kind": "click",
+   "target": "Group button on the selection",
+   "result": "parts grouped, toolbar shows Ungroup",
+   "t_result_visible": 185.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 195.1,
+   "x": 921,
+   "y": 646,
+   "kind": "click",
+   "target": "Ungroup button",
+   "result": "parts separate; Animate panel for the symbol",
+   "t_result_visible": 196.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 204.0,
+   "x": 340,
+   "y": 520,
+   "kind": "click",
+   "target": "entrance effect for the symbol",
+   "result": "symbol animates on its own",
+   "t_result_visible": 205.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 226.0,
+   "x": 994,
+   "y": 565,
+   "kind": "click",
+   "target": "Tech AI text (brand name)",
+   "result": "text selected for its own animation",
+   "t_result_visible": 227.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 247.9,
+   "x": 208,
+   "y": 807,
+   "kind": "drag",
+   "target": "logo bar on the timeline",
+   "result": "visible duration changed",
+   "t_result_visible": 249.5,
+   "confidence": "low",
+   "x2": 330,
+   "y2": 807,
+   "t_end": 249.2
+  },
+  {
+   "id": "A12",
+   "t_click": 271.0,
+   "x": 950,
+   "y": 720,
+   "kind": "type",
+   "target": "tagline text box",
+   "result": "Daily Tech typed under the logo",
+   "t_result_visible": 279.6,
+   "confidence": "medium",
+   "text": "Daily Tech"
+  },
+  {
+   "id": "A13",
+   "t_click": 315.0,
+   "x": 1833,
+   "y": 160,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share menu opens",
+   "t_result_visible": 316.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 323.9,
+   "x": 1624,
+   "y": 520,
+   "kind": "click",
+   "target": "Download button",
+   "result": "MP4 download starts",
+   "t_result_visible": 325.0,
+   "confidence": "low"
+  }
+ ],
+ "junk": []
+}
