@@ -2,35 +2,36 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 3 | Add | 11.960 | A1 Upload item in the create menu | 22.400 | 1.00x +7.2s hold |
-| 3 | Upload | 13.440 | A2 Upload files button | 23.850 | 0.98x |
-| 4 | PDF | 15.360 | A3 Open button of the file picker | 26.500 | 1.38x |
-| 5 | Open | 18.200 | A5 uploaded file in the toast | 34.550 | 2.83x |
-| 6 | logos, | 23.200 | A6 chart legend | 51.100 | 3.31x |
-| 9 | enlarging | 32.780 | A13 small image on the page (resize handle) | 214.000 | 2.39x |
-| 10 | Share, | 40.220 | A7 Share button | 113.100 | 1.22x |
-| 10 | Print. | 42.360 | A9 File type dropdown (PDF) | 119.200 | 2.85x |
-| 13 | Download | 52.800 | A10 Download button | 121.800 | 1.00x +7.8s hold |
-| 13 | viewer. | 56.880 | A12 downloaded PDF in the downloads list | 137.500 | 3.12x |
-| 17 | export. | 81.500 | A14 Download button (test export) | 232.900 | 1.56x |
+| 2 | social | 6.900 | A1 Elements tab | 46.500 | 0.83x |
+| 3 | arrow | 11.580 | A2 arrow in Lines | 55.350 | 1.89x |
+| 4 | Place | 13.380 | A3 arrow | 56.600 | 1.00x +0.6s hold |
+| 5 | Select | 15.940 | A4 arrow on canvas | 79.150 | 1.15x |
+| 5 | Animate | 17.100 | A5 Animate button | 87.000 | 0.99x |
+| 5 | Animation. | 19.180 | A6 Create an Animation | 92.100 | 1.01x |
+| 6 | Click | 20.500 | A7 arrow | 95.600 | 1.14x |
+| 10 | Preview | 35.480 | A8 Play preview | 154.200 | 1.40x |
+| 11 | controls | 39.140 | A9 Movement Styles dropdown | 192.800 | 1.48x |
+| 11 | recorded | 40.420 | A10 Smooth option | 194.100 | 1.02x |
+| 12 | Change | 42.420 | A11 Speed slider | 205.600 | 1.10x |
+| 14 | Done | 50.860 | A14 Done / close panel | 264.500 | 0.98x |
+| 15 | Delete | 55.460 | A12 Delete path | 226.200 | 1.50x |
+| 15 | new | 57.200 | A13 arrow | 229.800 | 1.49x |
+| 20 | Play | 75.740 | A15 Play full design | 289.800 | 1.00x |
+| 20 | timing | 77.380 | A16 Share button | 304.300 | 1.16x |
+| 20 | download | 78.240 | A17 Download in share panel | 306.000 | 1.98x |
+| 20 | Video. | 79.840 | A18 MP4 Video | 308.700 | 1.31x |
 
 ## Builder decisions
 
-- A13: after A6 (until src 71.00) jumps ahead to src 211.00 - narration order
-- A6->A13: fast-forwarded src 61.00-68.23 instead of cutting it (junk: idle on the design)
-- A7: after A13 (until src 218.00) jumps back to src 108.00 - narration order
-- A10->A12: cut src 133.10-136.07 - too long to fast-forward at <= 2.00x (junk: idle after export)
-- A14: after A12 (until src 165.00) jumps ahead to src 222.00 - narration order
-- A12->A14: fast-forwarded src 151.07-158.70 instead of cutting it (junk: idle on the design while the viewer is in another tab)
-- A12->A14: fast-forwarded src 164.43-168.33 instead of cutting it (junk: idle in the viewer)
+- A14: after A11 (until src 212.00) jumps ahead to src 262.60 - narration order
+- A12: after A14 (until src 265.80) jumps back to src 220.60 - narration order
+- A15: after A13 (until src 252.00) jumps ahead to src 287.00 - narration order
 
 ## Judgment calls
-
-- Follow the audio: lines 1-2 play over the Canva home (src 17.7+, held); the "Projects / Add New" words are shown by A1 (Upload item) since the recording has no Projects step; A2 "Upload", A3 "PDF" (file picked + Open).
-- Wait for import (A4, 27.5-34.5 s) is fast-forwarded (wait action, up to 8x), not cut.
-- No zooms: the recorder baked in auto-zoom/pan (see lessons). Ripples only.
-- A6 (chart legend click) on "logos" for the zoom-in-on-details narration; lines 7-8 play on from the design (src to 71 s, with idle 61-68 s fast-forwarded).
-- Reorder: line 9 "enlarging" shows A13 (src 214, image enlarged) with a cross-fade; then back to the Share/Download steps (src 108+). Line 17 "export" shows the test export A14 (src 232.9) after the PDF-viewer footage (src to 165). "place it on a matching page" has no separate action (the image was placed before the recording of A13's source span; those frames are shown with A13's lead-in, src_from 211).
-- A7 "Share" and A9 on "Print" (the Print preset is never clicked; the PDF file-type dropdown lands there). A8 (Download in share panel) is unanchored: 0.7 s between "Share" and "Download" words is too short. Its ripple still plays.
-- Cuts (off-topic): script doc 0-17.7, unnarrated chart edits 195-211, desktop at the end. Idle spans 61-68, 76.8-79.5 (n/a if unused), 151-158.7, 164-168 are fast-forwarded. 133.1-136.07 idle after export could not be fast-forwarded within 2x and is cut.
-- A12 result (viewer open) lands at 57.5 s, 0.3 s after line 13 ends; acceptable.
+- Recording (315 s) is ~4x the voiceover (80.7 s): intro 0-40.8 s trimmed, 13 cross-faded cuts of idle/unnarrated footage (see sync.json reasons); no held frames.
+- Anchors: A1 "social" (Elements click), A2 "arrow", A3 "Place", A4 "Select", A5 "Animate", A6 "Animation", A7 "Click" (drag), A8 "Preview", A9 "controls", A10 "recorded", A11 "Change"(speed slider), A14 Done "Done", A12 Delete path "Delete", A13 redraw "new", A15 "Play", A16 "timing" (Share), A17 "download", A18 "Video" (MP4).
+- Order conflicts: Done (src 264.5) is narrated before Delete path (src 226) so the plan jumps ahead then back (xfade). Draw-new-route to Play skips 252-287.
+- No zooms (recorder zoom is baked in); ripple only on A4, `no_ripple` elsewhere because of baked-in zoom.
+- Orient-to-path toggle is narrated but never enabled in the recording: the toggle is shown while the speed slider plays out.
+- Remaining check.py warnings (not fixable): A7, A11, A13 results (drag/slider durations of 2-5 s) appear 0.6-4 s after their lines end; playing them faster would break the 1.5x pace rule. Drag A13 ends in the unnarrated L16-17 area.
+- Last Download click (src 310.3) is not shown; video ends on the MP4 selection.

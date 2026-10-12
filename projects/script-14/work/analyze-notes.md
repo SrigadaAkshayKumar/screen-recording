@@ -1,11 +1,7 @@
 # Analyze notes
-
-- No click log: every position was read off frames (cursor tip). The recorder has baked-in auto-zoom/pan (camera moves on clicks), so plan zooms are skipped (ripples only), see lessons.
-- Low confidence: A5 (cursor was motion-blurred over the upload toast; click time/position approximate), A13 (resize drag of the laptop image; start/end handle positions estimated).
-- Medium: A1, A3, A6-A12, A14 (click time ±0.2 s; position ±20 px).
-- The recording has no "Projects" / "Add New" step: the narration's "open Projects, select Add New" is shown by the Upload item of the create menu (A1).
-- The "Print" preset is never clicked in the recording (Digital stays selected); narration "PDF Print" is anchored on the PDF file-type dropdown (A9).
-- The "make your edits" text selection (~108-110 s) is not an action; no anchor.
-- Compress file / crop marks / bleed: narrated, nothing is clicked; the download panel is held on screen.
-- 195-211 s: chart edits not narrated, cut. 0-17.7 s: script doc open, cut. 238-243.5 s: desktop, cut.
-- The raster-image enlarging (A13, 214 s) happens late in the recording but is narrated at line 9; it is reordered with a cross-fade.
+- Recorder has baked-in auto-zoom (camera moves on most clicks). No clicks.json. Positions are rough; ripples only on A4 (unzoomed). Everything else `no_ripple`; no plan zooms.
+- Low confidence: A3 (placing arrow), A5 Animate click time (87.0, panel already open at 87.4), A11 slider, A12 Delete path click time (226.2; panel changes 227.8), A15 play click, positions of A2/A5/A8-A12/A15-A18.
+- Narrated "enable the option that orients the element to the path": never enabled in the recording (toggle stays off; cursor only passes near it ~207.9). No action.
+- Recording order differs from narration: panel closed (A14 Done, really the X at 264.5) is narrated before Delete path (A12, 226).
+- 105-127 is a retake of the path drag after the panel reopened; 259-286 stroke colour/transparency/etc. is not narrated; skipped. Recording ends with download click at ~310.3, desktop afterwards.
+- Opening 0-40 s is idle/selecting text; trimmed. Scenes 128-150 etc. are dead time and are cut.

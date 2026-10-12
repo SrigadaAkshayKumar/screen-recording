@@ -1,20 +1,23 @@
-This tutorial shows you how to minimise quality loss when you import a PDF into Canva and download it again.
-Start with the original PDF file.
-From Canva's homepage, open Projects, select Add New and choose Upload Files.
-Select the PDF and wait for the import to finish.
-Open the imported design and inspect each page.
-Zoom in on small text, logos, thin lines and detailed photographs.
-Compare those areas with the original PDF.
-Keep the intended page size and proportions.
-Avoid enlarging a small raster image just to fill a bigger page because scaling it up cannot create missing detail.
-Make your edits, then select Share, Download and PDF Print.
-If a Compress file option appears, leave it disabled when your priority is Image Quality.
-Add crop marks or bleed only if your print workflow needs them.
-Download the PDF and inspect the actual exported file in a PDF viewer.
+This tutorial shows you how to create your own movement path for an element in Canva.
+Open a video, presentation or social design and add the object you want to animate.
+For this example, use an arrow from Elements.
+Place the arrow where its movement should begin.
+Select it, click Animate and choose Create an Animation.
+Click and drag the arrow across the canvas to draw its movement path,
+then release the mouse button.
+Canva records the route and uses it to animate the object.
+Start with a short, simple route.
+Once that works, try a gentle curve or a change of direction.
+Preview the path before adding extra effects.
+Use the movement style controls to adjust how the recorded movement behaves.
+Change the speed with the available slider.
+If you want an arrow or vehicle to turn along its route,
+enable the option that orients the element to the path.
+Click Done to save the animation.
+To rebuild it, return to the settings, choose Delete Path and draw a new route.
 Here's the part many tutorials skip.
-PDF print improves the export choice, but it cannot repair detail, fonts or objects that change during import.
-Canva does not guarantee a lossless PDF round trip.
-If the imported page already looks wrong and editable content is unnecessary,
-render the original page as a sufficiently high resolution image,
-place it on a matching Canva page and check a test export.
-Use the exported result only after verifying the details that matter for your document.
+This tool records a movement path for the object.
+Drawing a complicated route does not create separately editable keyframes
+for every property such as opacity, size or colour.
+Keep the object inside the canvas unless you deliberately want it to enter or leave the frame.
+Play the full design, check the timing and download it as MP4 Video.
