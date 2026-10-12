@@ -1,28 +1,192 @@
 {
-  "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 241.067},
-  "sync": {"clicks_offset": 0, "source": "frames"},
-  "actions": [
-    {"id":"A1","t_click":12.0,"x":1200,"y":570,"kind":"click","target":"Welcome heading","result":"heading selected, text toolbar appears","t_result_visible":12.4,"confidence":"medium"},
-    {"id":"A2","t_click":20.5,"x":1610,"y":225,"kind":"click","target":"Animate button in toolbar","result":"Animate panel opens on the left","t_result_visible":20.9,"confidence":"medium"},
-    {"id":"A3","t_click":37.4,"x":202,"y":490,"kind":"click","target":"Rise style","result":"Rise highlighted with Animate/speed options","t_result_visible":38.0,"confidence":"low"},
-    {"id":"A4","t_click":53.5,"x":872,"y":640,"kind":"click","target":"photo","result":"photo selected, image toolbar","t_result_visible":54.4,"confidence":"low"},
-    {"id":"A5","t_click":56.6,"x":1258,"y":270,"kind":"click","target":"Animate button (image toolbar)","result":"Animate panel opens for the photo","t_result_visible":57.5,"confidence":"medium"},
-    {"id":"A6","t_click":73.1,"x":335,"y":540,"kind":"click","target":"Whip Slide animation","result":"photo plays the animation, tile highlighted","t_result_visible":75.0,"confidence":"medium"},
-    {"id":"A7","t_click":134.6,"x":969,"y":715,"kind":"click","target":"Play preview","result":"preview plays the animation","t_result_visible":135.0,"confidence":"low"},
-    {"id":"A8","t_click":196.9,"x":458,"y":912,"kind":"click","target":"Remove animation button","result":"animation removed, panel resets","t_result_visible":197.6,"confidence":"low"},
-    {"id":"A9","t_click":202.2,"x":1775,"y":60,"kind":"click","target":"Share button","result":"Share panel opens","t_result_visible":202.6,"confidence":"medium"},
-    {"id":"A10","t_click":203.9,"x":1215,"y":878,"kind":"click","target":"Download in share panel","result":"Download panel with file type","t_result_visible":205.0,"confidence":"low"},
-    {"id":"A11","t_click":207.3,"x":1571,"y":317,"kind":"click","target":"File type dropdown","result":"list opens with MP4 Video ticked","t_result_visible":207.7,"confidence":"medium"},
-    {"id":"A12","t_click":214.3,"x":1268,"y":955,"kind":"click","target":"GIF option","result":"file type GIF","t_result_visible":215.0,"confidence":"low"},
-    {"id":"A13","t_click":220.7,"x":1359,"y":500,"kind":"click","target":"JPG option","result":"file type JPG with quality options","t_result_visible":221.8,"confidence":"low"},
-    {"id":"A14","t_click":222.2,"x":1359,"y":560,"kind":"click","target":"PNG option","result":"file type PNG","t_result_visible":222.6,"confidence":"low"},
-    {"id":"A15","t_click":231.8,"x":1600,"y":525,"kind":"click","target":"Download button","result":"MP4 downloading toast","t_result_visible":232.5,"confidence":"low"}
-  ],
-  "junk": [
-    {"start":0.0,"end":11.0,"reason":"idle before first action","ff":true},
-    {"start":40.4,"end":51.5,"reason":"idle, nothing changes","ff":true},
-    {"start":117.1,"end":124.3,"reason":"idle cursor","ff":true},
-    {"start":172.6,"end":185.2,"reason":"frozen, nothing changes","ff":true},
-    {"start":236.0,"end":241.067,"reason":"recording stopped, desktop","ff":false}
-  ]
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 284.567
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 12.5,
+   "x": 880,
+   "y": 470,
+   "kind": "click",
+   "target": "page thumbnail / pencil icon",
+   "result": "page selected, timeline opens",
+   "t_result_visible": 12.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 19.2,
+   "x": 470,
+   "y": 862,
+   "kind": "click",
+   "target": "playhead on the time ruler",
+   "result": "playhead jumps to the click",
+   "t_result_visible": 19.35,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 21.5,
+   "x": 420,
+   "y": 862,
+   "kind": "click",
+   "target": "time ruler",
+   "result": "playhead moves again",
+   "t_result_visible": 21.65,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 66.5,
+   "x": 940,
+   "y": 545,
+   "kind": "click",
+   "target": "play button",
+   "result": "playback starts (pause icon)",
+   "t_result_visible": 67.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 122.7,
+   "x": 480,
+   "y": 860,
+   "kind": "click",
+   "target": "Add audio",
+   "result": "audio menu (Music, Upload, Record, AI voice)",
+   "t_result_visible": 123.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 136.2,
+   "x": 400,
+   "y": 800,
+   "kind": "click",
+   "target": "clip on the main track",
+   "result": "clip selected, toolbar appears",
+   "t_result_visible": 136.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 147.0,
+   "x": 420,
+   "y": 830,
+   "kind": "drag",
+   "target": "clip edge handle",
+   "result": "clip trimmed",
+   "t_result_visible": 150.7,
+   "confidence": "low",
+   "x2": 480,
+   "y2": 830,
+   "t_end": 150.39999999999998
+  },
+  {
+   "id": "A8",
+   "t_click": 170.3,
+   "x": 576,
+   "y": 245,
+   "kind": "click",
+   "target": "Split in the clip toolbar",
+   "result": "clip split in two",
+   "t_result_visible": 170.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 173.1,
+   "x": 1550,
+   "y": 240,
+   "kind": "click",
+   "target": "Delete (trash) button",
+   "result": "segment removed",
+   "t_result_visible": 173.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 182.3,
+   "x": 1330,
+   "y": 962,
+   "kind": "drag",
+   "target": "timeline zoom slider",
+   "result": "timeline enlarged",
+   "t_result_visible": 183.4,
+   "confidence": "low",
+   "x2": 1390,
+   "y2": 962,
+   "t_end": 183.1
+  },
+  {
+   "id": "A11",
+   "t_click": 217.5,
+   "x": 350,
+   "y": 300,
+   "kind": "click",
+   "target": "Add a heading",
+   "result": "heading overlay appears on an upper track",
+   "t_result_visible": 219.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 240.4,
+   "x": 960,
+   "y": 560,
+   "kind": "drag",
+   "target": "Welcome text on the canvas",
+   "result": "text moved on the canvas",
+   "t_result_visible": 241.5,
+   "confidence": "low",
+   "x2": 1020,
+   "y2": 560,
+   "t_end": 241.2
+  },
+  {
+   "id": "A13",
+   "t_click": 245.6,
+   "x": 1330,
+   "y": 860,
+   "kind": "drag",
+   "target": "text overlay on the timeline",
+   "result": "overlay moved along the timeline",
+   "t_result_visible": 246.5,
+   "confidence": "low",
+   "x2": 1390,
+   "y2": 860,
+   "t_end": 246.2
+  },
+  {
+   "id": "A14",
+   "t_click": 258.9,
+   "x": 940,
+   "y": 545,
+   "kind": "click",
+   "target": "play button (preview)",
+   "result": "preview plays",
+   "t_result_visible": 259.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 269.9,
+   "x": 1170,
+   "y": 552,
+   "kind": "click",
+   "target": "Share button",
+   "result": "share/download panel",
+   "t_result_visible": 270.6,
+   "confidence": "medium"
+  }
+ ],
+ "junk": []
 }

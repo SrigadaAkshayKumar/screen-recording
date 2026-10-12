@@ -1,1723 +1,1936 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to animate text and graphics in Canva and export the result as a video.",
+    "text": "This tutorial shows you how to arrange clips, layers and audio using Canva's video timeline.",
     "start": 0.0,
-    "end": 5.52,
+    "end": 5.58,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      18
+      14
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.22
+        "end": 0.24
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.22,
-        "end": 0.62
+        "start": 0.24,
+        "end": 0.56
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.62,
-        "end": 1.06
+        "start": 0.56,
+        "end": 1.0
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.06,
-        "end": 1.24
+        "start": 1.0,
+        "end": 1.18
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.24,
-        "end": 1.38
+        "start": 1.18,
+        "end": 1.34
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.38,
-        "end": 1.6
+        "start": 1.34,
+        "end": 1.48
       },
       {
         "i": 6,
-        "word": "animate",
-        "start": 1.6,
-        "end": 1.86
+        "word": "arrange",
+        "start": 1.48,
+        "end": 1.8
       },
       {
         "i": 7,
-        "word": "text",
-        "start": 1.86,
-        "end": 2.24
+        "word": "clips,",
+        "start": 1.8,
+        "end": 2.16
       },
       {
         "i": 8,
-        "word": "and",
-        "start": 2.24,
-        "end": 2.54
+        "word": "layers",
+        "start": 2.92,
+        "end": 2.92
       },
       {
         "i": 9,
-        "word": "graphics",
-        "start": 2.54,
-        "end": 2.9
+        "word": "and",
+        "start": 2.92,
+        "end": 3.32
       },
       {
         "i": 10,
-        "word": "in",
-        "start": 2.9,
-        "end": 3.18
+        "word": "audio",
+        "start": 3.32,
+        "end": 3.74
       },
       {
         "i": 11,
-        "word": "Canva",
-        "start": 3.18,
-        "end": 3.58
+        "word": "using",
+        "start": 3.74,
+        "end": 4.32
       },
       {
         "i": 12,
-        "word": "and",
-        "start": 3.58,
-        "end": 4.02
+        "word": "Canva's",
+        "start": 4.32,
+        "end": 4.82
       },
       {
         "i": 13,
-        "word": "export",
-        "start": 4.02,
-        "end": 4.42
+        "word": "video",
+        "start": 4.82,
+        "end": 5.04
       },
       {
         "i": 14,
-        "word": "the",
-        "start": 4.42,
-        "end": 4.6
-      },
-      {
-        "i": 15,
-        "word": "result",
-        "start": 4.6,
-        "end": 4.86
-      },
-      {
-        "i": 16,
-        "word": "as",
-        "start": 4.86,
-        "end": 5.1
-      },
-      {
-        "i": 17,
-        "word": "a",
-        "start": 5.1,
-        "end": 5.24
-      },
-      {
-        "i": 18,
-        "word": "video.",
-        "start": 5.24,
-        "end": 5.52
+        "word": "timeline.",
+        "start": 5.04,
+        "end": 5.58
       }
     ]
   },
   {
     "id": 2,
-    "text": "Click the heading you want to animate, then select animate from the toolbar.",
-    "start": 6.22,
-    "end": 9.8,
+    "text": "Open a video design.",
+    "start": 6.38,
+    "end": 7.62,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      19,
-      31
+      15,
+      18
     ],
     "words": [
       {
-        "i": 19,
-        "word": "Click",
-        "start": 6.22,
-        "end": 6.44
+        "i": 15,
+        "word": "Open",
+        "start": 6.38,
+        "end": 6.66
       },
       {
-        "i": 20,
-        "word": "the",
-        "start": 6.44,
-        "end": 6.6
+        "i": 16,
+        "word": "a",
+        "start": 6.66,
+        "end": 6.92
       },
       {
-        "i": 21,
-        "word": "heading",
-        "start": 6.6,
-        "end": 6.76
+        "i": 17,
+        "word": "video",
+        "start": 6.92,
+        "end": 7.14
       },
       {
-        "i": 22,
-        "word": "you",
-        "start": 6.76,
-        "end": 6.96
-      },
-      {
-        "i": 23,
-        "word": "want",
-        "start": 6.96,
-        "end": 7.12
-      },
-      {
-        "i": 24,
-        "word": "to",
-        "start": 7.12,
-        "end": 7.32
-      },
-      {
-        "i": 25,
-        "word": "animate,",
-        "start": 7.32,
+        "i": 18,
+        "word": "design.",
+        "start": 7.14,
         "end": 7.62
-      },
-      {
-        "i": 26,
-        "word": "then",
-        "start": 8.02,
-        "end": 8.22
-      },
-      {
-        "i": 27,
-        "word": "select",
-        "start": 8.22,
-        "end": 8.58
-      },
-      {
-        "i": 28,
-        "word": "animate",
-        "start": 8.58,
-        "end": 8.94
-      },
-      {
-        "i": 29,
-        "word": "from",
-        "start": 8.94,
-        "end": 9.28
-      },
-      {
-        "i": 30,
-        "word": "the",
-        "start": 9.28,
-        "end": 9.44
-      },
-      {
-        "i": 31,
-        "word": "toolbar.",
-        "start": 9.44,
-        "end": 9.8
       }
     ]
   },
   {
     "id": 3,
-    "text": "Open the text animation options and choose a style such as a fade or rise that is available in your account.",
-    "start": 10.64,
-    "end": 16.82,
+    "text": "The timeline appears at the bottom of the editor.",
+    "start": 8.14,
+    "end": 10.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      32,
-      52
+      19,
+      27
     ],
     "words": [
       {
-        "i": 32,
-        "word": "Open",
-        "start": 10.64,
-        "end": 10.92
+        "i": 19,
+        "word": "The",
+        "start": 8.14,
+        "end": 8.3
       },
       {
-        "i": 33,
+        "i": 20,
+        "word": "timeline",
+        "start": 8.3,
+        "end": 8.56
+      },
+      {
+        "i": 21,
+        "word": "appears",
+        "start": 8.56,
+        "end": 8.96
+      },
+      {
+        "i": 22,
+        "word": "at",
+        "start": 8.96,
+        "end": 9.14
+      },
+      {
+        "i": 23,
         "word": "the",
-        "start": 10.92,
-        "end": 11.08
+        "start": 9.14,
+        "end": 9.24
       },
       {
-        "i": 34,
-        "word": "text",
-        "start": 11.08,
-        "end": 11.34
+        "i": 24,
+        "word": "bottom",
+        "start": 9.24,
+        "end": 9.46
       },
       {
-        "i": 35,
-        "word": "animation",
-        "start": 11.34,
-        "end": 11.66
+        "i": 25,
+        "word": "of",
+        "start": 9.46,
+        "end": 9.68
       },
       {
-        "i": 36,
-        "word": "options",
-        "start": 11.66,
-        "end": 12.26
+        "i": 26,
+        "word": "the",
+        "start": 9.68,
+        "end": 9.78
       },
       {
-        "i": 37,
-        "word": "and",
-        "start": 12.26,
-        "end": 12.58
-      },
-      {
-        "i": 38,
-        "word": "choose",
-        "start": 12.58,
-        "end": 12.86
-      },
-      {
-        "i": 39,
-        "word": "a",
-        "start": 12.86,
-        "end": 13.02
-      },
-      {
-        "i": 40,
-        "word": "style",
-        "start": 13.02,
-        "end": 13.38
-      },
-      {
-        "i": 41,
-        "word": "such",
-        "start": 13.38,
-        "end": 13.64
-      },
-      {
-        "i": 42,
-        "word": "as",
-        "start": 13.64,
-        "end": 13.82
-      },
-      {
-        "i": 43,
-        "word": "a",
-        "start": 13.82,
-        "end": 13.96
-      },
-      {
-        "i": 44,
-        "word": "fade",
-        "start": 13.96,
-        "end": 14.24
-      },
-      {
-        "i": 45,
-        "word": "or",
-        "start": 14.24,
-        "end": 14.58
-      },
-      {
-        "i": 46,
-        "word": "rise",
-        "start": 14.58,
-        "end": 14.98
-      },
-      {
-        "i": 47,
-        "word": "that",
-        "start": 14.98,
-        "end": 15.44
-      },
-      {
-        "i": 48,
-        "word": "is",
-        "start": 15.44,
-        "end": 15.54
-      },
-      {
-        "i": 49,
-        "word": "available",
-        "start": 15.54,
-        "end": 15.84
-      },
-      {
-        "i": 50,
-        "word": "in",
-        "start": 15.84,
-        "end": 16.22
-      },
-      {
-        "i": 51,
-        "word": "your",
-        "start": 16.22,
-        "end": 16.42
-      },
-      {
-        "i": 52,
-        "word": "account.",
-        "start": 16.42,
-        "end": 16.82
+        "i": 27,
+        "word": "editor.",
+        "start": 9.78,
+        "end": 10.1
       }
     ]
   },
   {
     "id": 4,
-    "text": "Hover over an option to preview it, then click to apply it, select the photo or graphic, open animate again and choose an animation for that element.",
-    "start": 17.94,
-    "end": 26.44,
+    "text": "If you are viewing page thumbnails, use the page's pencil icon when available to enter the video timeline.",
+    "start": 10.76,
+    "end": 16.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      53,
-      79
+      28,
+      45
     ],
     "words": [
       {
-        "i": 53,
-        "word": "Hover",
-        "start": 17.94,
-        "end": 17.96
+        "i": 28,
+        "word": "If",
+        "start": 10.76,
+        "end": 10.92
       },
       {
-        "i": 54,
-        "word": "over",
-        "start": 17.96,
-        "end": 18.28
+        "i": 29,
+        "word": "you",
+        "start": 10.92,
+        "end": 11.04
       },
       {
-        "i": 55,
-        "word": "an",
-        "start": 18.28,
-        "end": 18.44
+        "i": 30,
+        "word": "are",
+        "start": 11.04,
+        "end": 11.12
       },
       {
-        "i": 56,
-        "word": "option",
-        "start": 18.44,
-        "end": 18.66
+        "i": 31,
+        "word": "viewing",
+        "start": 11.12,
+        "end": 11.38
       },
       {
-        "i": 57,
-        "word": "to",
-        "start": 18.66,
-        "end": 18.88
+        "i": 32,
+        "word": "page",
+        "start": 11.38,
+        "end": 11.68
       },
       {
-        "i": 58,
-        "word": "preview",
-        "start": 18.88,
-        "end": 19.16
+        "i": 33,
+        "word": "thumbnails,",
+        "start": 11.68,
+        "end": 12.2
       },
       {
-        "i": 59,
-        "word": "it,",
-        "start": 19.16,
-        "end": 19.56
+        "i": 34,
+        "word": "use",
+        "start": 12.62,
+        "end": 12.84
       },
       {
-        "i": 60,
-        "word": "then",
-        "start": 19.72,
-        "end": 19.94
-      },
-      {
-        "i": 61,
-        "word": "click",
-        "start": 19.94,
-        "end": 20.2
-      },
-      {
-        "i": 62,
-        "word": "to",
-        "start": 20.2,
-        "end": 20.4
-      },
-      {
-        "i": 63,
-        "word": "apply",
-        "start": 20.4,
-        "end": 20.7
-      },
-      {
-        "i": 64,
-        "word": "it,",
-        "start": 20.7,
-        "end": 21.14
-      },
-      {
-        "i": 65,
-        "word": "select",
-        "start": 21.38,
-        "end": 21.64
-      },
-      {
-        "i": 66,
+        "i": 35,
         "word": "the",
-        "start": 21.64,
-        "end": 21.86
+        "start": 12.84,
+        "end": 13.0
       },
       {
-        "i": 67,
-        "word": "photo",
-        "start": 21.86,
-        "end": 22.14
+        "i": 36,
+        "word": "page's",
+        "start": 13.0,
+        "end": 13.38
       },
       {
-        "i": 68,
-        "word": "or",
-        "start": 22.14,
-        "end": 22.42
+        "i": 37,
+        "word": "pencil",
+        "start": 13.38,
+        "end": 13.7
       },
       {
-        "i": 69,
-        "word": "graphic,",
-        "start": 22.42,
-        "end": 22.82
+        "i": 38,
+        "word": "icon",
+        "start": 13.7,
+        "end": 14.1
       },
       {
-        "i": 70,
-        "word": "open",
-        "start": 23.3,
-        "end": 23.64
+        "i": 39,
+        "word": "when",
+        "start": 14.1,
+        "end": 14.48
       },
       {
-        "i": 71,
-        "word": "animate",
-        "start": 23.64,
-        "end": 24.0
+        "i": 40,
+        "word": "available",
+        "start": 14.48,
+        "end": 14.8
       },
       {
-        "i": 72,
-        "word": "again",
-        "start": 24.0,
-        "end": 24.44
+        "i": 41,
+        "word": "to",
+        "start": 14.8,
+        "end": 15.12
       },
       {
-        "i": 73,
-        "word": "and",
-        "start": 24.44,
-        "end": 24.7
+        "i": 42,
+        "word": "enter",
+        "start": 15.12,
+        "end": 15.32
       },
       {
-        "i": 74,
-        "word": "choose",
-        "start": 24.7,
-        "end": 25.0
+        "i": 43,
+        "word": "the",
+        "start": 15.32,
+        "end": 15.54
       },
       {
-        "i": 75,
-        "word": "an",
-        "start": 25.0,
-        "end": 25.2
+        "i": 44,
+        "word": "video",
+        "start": 15.54,
+        "end": 15.84
       },
       {
-        "i": 76,
-        "word": "animation",
-        "start": 25.2,
-        "end": 25.62
-      },
-      {
-        "i": 77,
-        "word": "for",
-        "start": 25.62,
-        "end": 25.92
-      },
-      {
-        "i": 78,
-        "word": "that",
-        "start": 25.92,
-        "end": 26.06
-      },
-      {
-        "i": 79,
-        "word": "element.",
-        "start": 26.06,
-        "end": 26.44
+        "i": 45,
+        "word": "timeline.",
+        "start": 15.84,
+        "end": 16.36
       }
     ]
   },
   {
     "id": 5,
-    "text": "To animate the overall page, use the page tab in the animation panel instead.",
-    "start": 26.98,
-    "end": 31.72,
+    "text": "The vertical line is the playhead.",
+    "start": 16.88,
+    "end": 18.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      80,
-      93
+      46,
+      51
     ],
     "words": [
       {
-        "i": 80,
-        "word": "To",
-        "start": 26.98,
-        "end": 27.28
+        "i": 46,
+        "word": "The",
+        "start": 16.88,
+        "end": 17.1
       },
       {
-        "i": 81,
-        "word": "animate",
-        "start": 27.28,
-        "end": 27.56
+        "i": 47,
+        "word": "vertical",
+        "start": 17.1,
+        "end": 17.42
       },
       {
-        "i": 82,
+        "i": 48,
+        "word": "line",
+        "start": 17.42,
+        "end": 17.82
+      },
+      {
+        "i": 49,
+        "word": "is",
+        "start": 17.82,
+        "end": 18.06
+      },
+      {
+        "i": 50,
         "word": "the",
-        "start": 27.56,
-        "end": 27.8
+        "start": 18.06,
+        "end": 18.2
       },
       {
-        "i": 83,
-        "word": "overall",
-        "start": 27.8,
-        "end": 28.24
-      },
-      {
-        "i": 84,
-        "word": "page,",
-        "start": 28.24,
-        "end": 28.66
-      },
-      {
-        "i": 85,
-        "word": "use",
-        "start": 28.98,
-        "end": 29.22
-      },
-      {
-        "i": 86,
-        "word": "the",
-        "start": 29.22,
-        "end": 29.42
-      },
-      {
-        "i": 87,
-        "word": "page",
-        "start": 29.42,
-        "end": 29.64
-      },
-      {
-        "i": 88,
-        "word": "tab",
-        "start": 29.64,
-        "end": 29.92
-      },
-      {
-        "i": 89,
-        "word": "in",
-        "start": 29.92,
-        "end": 30.2
-      },
-      {
-        "i": 90,
-        "word": "the",
-        "start": 30.2,
-        "end": 30.3
-      },
-      {
-        "i": 91,
-        "word": "animation",
-        "start": 30.3,
-        "end": 30.6
-      },
-      {
-        "i": 92,
-        "word": "panel",
-        "start": 30.6,
-        "end": 31.12
-      },
-      {
-        "i": 93,
-        "word": "instead.",
-        "start": 31.12,
-        "end": 31.72
+        "i": 51,
+        "word": "playhead.",
+        "start": 18.2,
+        "end": 18.7
       }
     ]
   },
   {
     "id": 6,
-    "text": "For custom movement, select an element, open animate and choose create an animation.",
-    "start": 32.5,
-    "end": 37.46,
+    "text": "Drag it or click the time ruler to inspect a particular moment.",
+    "start": 19.38,
+    "end": 22.68,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      94,
-      106
+      52,
+      63
     ],
     "words": [
       {
-        "i": 94,
-        "word": "For",
-        "start": 32.5,
-        "end": 32.64
+        "i": 52,
+        "word": "Drag",
+        "start": 19.38,
+        "end": 19.46
       },
       {
-        "i": 95,
-        "word": "custom",
-        "start": 32.64,
-        "end": 32.92
+        "i": 53,
+        "word": "it",
+        "start": 19.46,
+        "end": 19.68
       },
       {
-        "i": 96,
-        "word": "movement,",
-        "start": 32.92,
-        "end": 33.26
+        "i": 54,
+        "word": "or",
+        "start": 19.68,
+        "end": 20.02
       },
       {
-        "i": 97,
-        "word": "select",
-        "start": 33.42,
-        "end": 33.6
+        "i": 55,
+        "word": "click",
+        "start": 20.02,
+        "end": 20.26
       },
       {
-        "i": 98,
-        "word": "an",
-        "start": 33.6,
-        "end": 33.82
+        "i": 56,
+        "word": "the",
+        "start": 20.26,
+        "end": 20.46
       },
       {
-        "i": 99,
-        "word": "element,",
-        "start": 33.82,
-        "end": 34.14
+        "i": 57,
+        "word": "time",
+        "start": 20.46,
+        "end": 20.72
       },
       {
-        "i": 100,
-        "word": "open",
-        "start": 34.58,
-        "end": 34.9
+        "i": 58,
+        "word": "ruler",
+        "start": 20.72,
+        "end": 20.98
       },
       {
-        "i": 101,
-        "word": "animate",
-        "start": 34.9,
-        "end": 35.3
+        "i": 59,
+        "word": "to",
+        "start": 20.98,
+        "end": 21.26
       },
       {
-        "i": 102,
-        "word": "and",
-        "start": 35.3,
-        "end": 35.92
+        "i": 60,
+        "word": "inspect",
+        "start": 21.26,
+        "end": 21.6
       },
       {
-        "i": 103,
-        "word": "choose",
-        "start": 35.92,
-        "end": 36.34
+        "i": 61,
+        "word": "a",
+        "start": 21.6,
+        "end": 21.9
       },
       {
-        "i": 104,
-        "word": "create",
-        "start": 36.34,
-        "end": 36.68
+        "i": 62,
+        "word": "particular",
+        "start": 21.9,
+        "end": 22.22
       },
       {
-        "i": 105,
-        "word": "an",
-        "start": 36.68,
-        "end": 37.0
-      },
-      {
-        "i": 106,
-        "word": "animation.",
-        "start": 37.0,
-        "end": 37.46
+        "i": 63,
+        "word": "moment.",
+        "start": 22.22,
+        "end": 22.68
       }
     ]
   },
   {
     "id": 7,
-    "text": "Drag the element along the path you want it to follow, adjust the available movement settings, then click done.",
-    "start": 38.2,
-    "end": 43.86,
+    "text": "Press the play button to watch the sequence.",
+    "start": 23.3,
+    "end": 25.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      107,
-      125
+      64,
+      71
     ],
     "words": [
       {
-        "i": 107,
-        "word": "Drag",
-        "start": 38.2,
-        "end": 38.4
+        "i": 64,
+        "word": "Press",
+        "start": 23.3,
+        "end": 23.54
       },
       {
-        "i": 108,
+        "i": 65,
         "word": "the",
-        "start": 38.4,
-        "end": 38.58
+        "start": 23.54,
+        "end": 23.72
       },
       {
-        "i": 109,
-        "word": "element",
-        "start": 38.58,
-        "end": 38.84
+        "i": 66,
+        "word": "play",
+        "start": 23.72,
+        "end": 23.9
       },
       {
-        "i": 110,
-        "word": "along",
-        "start": 38.84,
-        "end": 39.06
+        "i": 67,
+        "word": "button",
+        "start": 23.9,
+        "end": 24.16
       },
       {
-        "i": 111,
-        "word": "the",
-        "start": 39.06,
-        "end": 39.22
-      },
-      {
-        "i": 112,
-        "word": "path",
-        "start": 39.22,
-        "end": 39.46
-      },
-      {
-        "i": 113,
-        "word": "you",
-        "start": 39.46,
-        "end": 39.66
-      },
-      {
-        "i": 114,
-        "word": "want",
-        "start": 39.66,
-        "end": 39.8
-      },
-      {
-        "i": 115,
-        "word": "it",
-        "start": 39.8,
-        "end": 39.92
-      },
-      {
-        "i": 116,
+        "i": 68,
         "word": "to",
-        "start": 39.92,
-        "end": 40.06
+        "start": 24.16,
+        "end": 24.54
       },
       {
-        "i": 117,
-        "word": "follow,",
-        "start": 40.06,
-        "end": 40.38
+        "i": 69,
+        "word": "watch",
+        "start": 24.54,
+        "end": 24.72
       },
       {
-        "i": 118,
-        "word": "adjust",
-        "start": 40.88,
-        "end": 41.2
-      },
-      {
-        "i": 119,
+        "i": 70,
         "word": "the",
-        "start": 41.2,
-        "end": 41.42
+        "start": 24.72,
+        "end": 24.94
       },
       {
-        "i": 120,
-        "word": "available",
-        "start": 41.42,
-        "end": 41.72
-      },
-      {
-        "i": 121,
-        "word": "movement",
-        "start": 41.72,
-        "end": 42.1
-      },
-      {
-        "i": 122,
-        "word": "settings,",
-        "start": 42.1,
-        "end": 42.64
-      },
-      {
-        "i": 123,
-        "word": "then",
-        "start": 42.92,
-        "end": 43.12
-      },
-      {
-        "i": 124,
-        "word": "click",
-        "start": 43.12,
-        "end": 43.4
-      },
-      {
-        "i": 125,
-        "word": "done.",
-        "start": 43.4,
-        "end": 43.86
+        "i": 71,
+        "word": "sequence.",
+        "start": 24.94,
+        "end": 25.32
       }
     ]
   },
   {
     "id": 8,
-    "text": "In a video design, use the element's timeline handles to choose when it appears and disappears.",
-    "start": 44.76,
-    "end": 49.82,
+    "text": "Your main track holds the primary clips, which play one after another.",
+    "start": 25.82,
+    "end": 30.08,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      126,
-      141
+      72,
+      83
     ],
     "words": [
       {
-        "i": 126,
-        "word": "In",
-        "start": 44.76,
-        "end": 44.98
+        "i": 72,
+        "word": "Your",
+        "start": 25.82,
+        "end": 26.14
       },
       {
-        "i": 127,
-        "word": "a",
-        "start": 44.98,
-        "end": 45.08
+        "i": 73,
+        "word": "main",
+        "start": 26.14,
+        "end": 26.46
       },
       {
-        "i": 128,
-        "word": "video",
-        "start": 45.08,
-        "end": 45.28
+        "i": 74,
+        "word": "track",
+        "start": 26.46,
+        "end": 26.72
       },
       {
-        "i": 129,
-        "word": "design,",
-        "start": 45.28,
-        "end": 45.68
+        "i": 75,
+        "word": "holds",
+        "start": 26.72,
+        "end": 27.12
       },
       {
-        "i": 130,
-        "word": "use",
-        "start": 45.84,
-        "end": 45.92
-      },
-      {
-        "i": 131,
+        "i": 76,
         "word": "the",
-        "start": 45.92,
-        "end": 46.14
+        "start": 27.12,
+        "end": 27.34
       },
       {
-        "i": 132,
-        "word": "element's",
-        "start": 46.14,
-        "end": 46.58
+        "i": 77,
+        "word": "primary",
+        "start": 27.34,
+        "end": 27.64
       },
       {
-        "i": 133,
-        "word": "timeline",
-        "start": 46.58,
-        "end": 46.88
+        "i": 78,
+        "word": "clips,",
+        "start": 27.64,
+        "end": 28.08
       },
       {
-        "i": 134,
-        "word": "handles",
-        "start": 46.88,
-        "end": 47.34
+        "i": 79,
+        "word": "which",
+        "start": 28.46,
+        "end": 28.56
       },
       {
-        "i": 135,
-        "word": "to",
-        "start": 47.34,
-        "end": 47.58
+        "i": 80,
+        "word": "play",
+        "start": 28.56,
+        "end": 28.86
       },
       {
-        "i": 136,
-        "word": "choose",
-        "start": 47.58,
-        "end": 47.94
+        "i": 81,
+        "word": "one",
+        "start": 28.86,
+        "end": 29.32
       },
       {
-        "i": 137,
-        "word": "when",
-        "start": 47.94,
-        "end": 48.3
+        "i": 82,
+        "word": "after",
+        "start": 29.32,
+        "end": 29.68
       },
       {
-        "i": 138,
-        "word": "it",
-        "start": 48.3,
-        "end": 48.46
-      },
-      {
-        "i": 139,
-        "word": "appears",
-        "start": 48.46,
-        "end": 48.88
-      },
-      {
-        "i": 140,
-        "word": "and",
-        "start": 48.88,
-        "end": 49.3
-      },
-      {
-        "i": 141,
-        "word": "disappears.",
-        "start": 49.3,
-        "end": 49.82
+        "i": 83,
+        "word": "another.",
+        "start": 29.68,
+        "end": 30.08
       }
     ]
   },
   {
     "id": 9,
-    "text": "Preview the design to check that each animation has time to play.",
-    "start": 50.64,
-    "end": 53.98,
+    "text": "Drag clips along that track to change their order.",
+    "start": 30.94,
+    "end": 32.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      142,
-      153
+      84,
+      92
     ],
     "words": [
       {
-        "i": 142,
-        "word": "Preview",
-        "start": 50.64,
-        "end": 50.7
+        "i": 84,
+        "word": "Drag",
+        "start": 30.94,
+        "end": 30.94
       },
       {
-        "i": 143,
-        "word": "the",
-        "start": 50.7,
-        "end": 51.02
+        "i": 85,
+        "word": "clips",
+        "start": 30.94,
+        "end": 31.2
       },
       {
-        "i": 144,
-        "word": "design",
-        "start": 51.02,
-        "end": 51.34
+        "i": 86,
+        "word": "along",
+        "start": 31.2,
+        "end": 31.42
       },
       {
-        "i": 145,
-        "word": "to",
-        "start": 51.34,
-        "end": 51.5
-      },
-      {
-        "i": 146,
-        "word": "check",
-        "start": 51.5,
-        "end": 51.72
-      },
-      {
-        "i": 147,
+        "i": 87,
         "word": "that",
-        "start": 51.72,
-        "end": 51.94
+        "start": 31.42,
+        "end": 31.62
       },
       {
-        "i": 148,
-        "word": "each",
-        "start": 51.94,
-        "end": 52.24
+        "i": 88,
+        "word": "track",
+        "start": 31.62,
+        "end": 31.84
       },
       {
-        "i": 149,
-        "word": "animation",
-        "start": 52.24,
-        "end": 52.72
-      },
-      {
-        "i": 150,
-        "word": "has",
-        "start": 52.72,
-        "end": 53.14
-      },
-      {
-        "i": 151,
-        "word": "time",
-        "start": 53.14,
-        "end": 53.44
-      },
-      {
-        "i": 152,
+        "i": 89,
         "word": "to",
-        "start": 53.44,
-        "end": 53.66
+        "start": 31.84,
+        "end": 32.06
       },
       {
-        "i": 153,
-        "word": "play.",
-        "start": 53.66,
-        "end": 53.98
+        "i": 90,
+        "word": "change",
+        "start": 32.06,
+        "end": 32.36
+      },
+      {
+        "i": 91,
+        "word": "their",
+        "start": 32.36,
+        "end": 32.62
+      },
+      {
+        "i": 92,
+        "word": "order.",
+        "start": 32.62,
+        "end": 32.94
       }
     ]
   },
   {
     "id": 10,
-    "text": "Here's the part many tutorials skip.",
-    "start": 54.92,
-    "end": 57.22,
+    "text": "Upper tracks hold overlays, including headings, graphics and additional video.",
+    "start": 33.82,
+    "end": 37.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      154,
-      159
+      93,
+      102
     ],
     "words": [
       {
-        "i": 154,
-        "word": "Here's",
-        "start": 54.92,
-        "end": 55.6
+        "i": 93,
+        "word": "Upper",
+        "start": 33.82,
+        "end": 33.82
       },
       {
-        "i": 155,
-        "word": "the",
-        "start": 55.6,
-        "end": 55.7
+        "i": 94,
+        "word": "tracks",
+        "start": 33.82,
+        "end": 34.12
       },
       {
-        "i": 156,
-        "word": "part",
-        "start": 55.7,
-        "end": 55.92
+        "i": 95,
+        "word": "hold",
+        "start": 34.12,
+        "end": 34.44
       },
       {
-        "i": 157,
-        "word": "many",
-        "start": 55.92,
-        "end": 56.22
+        "i": 96,
+        "word": "overlays,",
+        "start": 34.44,
+        "end": 35.08
       },
       {
-        "i": 158,
-        "word": "tutorials",
-        "start": 56.22,
-        "end": 56.82
+        "i": 97,
+        "word": "including",
+        "start": 35.22,
+        "end": 35.5
       },
       {
-        "i": 159,
-        "word": "skip.",
-        "start": 56.82,
-        "end": 57.22
+        "i": 98,
+        "word": "headings,",
+        "start": 35.5,
+        "end": 35.98
+      },
+      {
+        "i": 99,
+        "word": "graphics",
+        "start": 36.4,
+        "end": 36.6
+      },
+      {
+        "i": 100,
+        "word": "and",
+        "start": 36.6,
+        "end": 37.1
+      },
+      {
+        "i": 101,
+        "word": "additional",
+        "start": 37.1,
+        "end": 37.5
+      },
+      {
+        "i": 102,
+        "word": "video.",
+        "start": 37.5,
+        "end": 37.84
       }
     ]
   },
   {
     "id": 11,
-    "text": "Element timing and animation speed are different controls.",
-    "start": 58.06,
-    "end": 60.8,
+    "text": "Items on higher tracks appear over lower items when they overlap in time.",
+    "start": 38.76,
+    "end": 42.82,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      160,
-      167
+      103,
+      115
     ],
     "words": [
       {
-        "i": 160,
-        "word": "Element",
-        "start": 58.06,
-        "end": 58.06
+        "i": 103,
+        "word": "Items",
+        "start": 38.76,
+        "end": 38.98
       },
       {
-        "i": 161,
-        "word": "timing",
-        "start": 58.06,
-        "end": 58.38
+        "i": 104,
+        "word": "on",
+        "start": 38.98,
+        "end": 39.2
       },
       {
-        "i": 162,
-        "word": "and",
-        "start": 58.38,
-        "end": 58.76
+        "i": 105,
+        "word": "higher",
+        "start": 39.2,
+        "end": 39.48
       },
       {
-        "i": 163,
-        "word": "animation",
-        "start": 58.76,
-        "end": 59.1
+        "i": 106,
+        "word": "tracks",
+        "start": 39.48,
+        "end": 39.86
       },
       {
-        "i": 164,
-        "word": "speed",
-        "start": 59.1,
-        "end": 59.54
+        "i": 107,
+        "word": "appear",
+        "start": 39.86,
+        "end": 40.16
       },
       {
-        "i": 165,
-        "word": "are",
-        "start": 59.54,
-        "end": 59.86
+        "i": 108,
+        "word": "over",
+        "start": 40.16,
+        "end": 40.48
       },
       {
-        "i": 166,
-        "word": "different",
-        "start": 59.86,
-        "end": 60.2
+        "i": 109,
+        "word": "lower",
+        "start": 40.48,
+        "end": 40.72
       },
       {
-        "i": 167,
-        "word": "controls.",
-        "start": 60.2,
-        "end": 60.8
+        "i": 110,
+        "word": "items",
+        "start": 40.72,
+        "end": 41.26
+      },
+      {
+        "i": 111,
+        "word": "when",
+        "start": 41.26,
+        "end": 41.62
+      },
+      {
+        "i": 112,
+        "word": "they",
+        "start": 41.62,
+        "end": 41.76
+      },
+      {
+        "i": 113,
+        "word": "overlap",
+        "start": 41.76,
+        "end": 42.24
+      },
+      {
+        "i": 114,
+        "word": "in",
+        "start": 42.24,
+        "end": 42.48
+      },
+      {
+        "i": 115,
+        "word": "time.",
+        "start": 42.48,
+        "end": 42.82
       }
     ]
   },
   {
     "id": 12,
-    "text": "Timeline handles control when the element is visible.",
-    "start": 61.86,
-    "end": 64.36,
+    "text": "Audio has its own track area below the visuals.",
+    "start": 43.82,
+    "end": 46.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      168,
-      175
+      116,
+      124
     ],
     "words": [
       {
-        "i": 168,
-        "word": "Timeline",
-        "start": 61.86,
-        "end": 62.1
+        "i": 116,
+        "word": "Audio",
+        "start": 43.82,
+        "end": 43.9
       },
       {
-        "i": 169,
-        "word": "handles",
-        "start": 62.1,
-        "end": 62.56
+        "i": 117,
+        "word": "has",
+        "start": 43.9,
+        "end": 44.18
       },
       {
-        "i": 170,
-        "word": "control",
-        "start": 62.56,
-        "end": 62.96
+        "i": 118,
+        "word": "its",
+        "start": 44.18,
+        "end": 44.32
       },
       {
-        "i": 171,
-        "word": "when",
-        "start": 62.96,
-        "end": 63.34
+        "i": 119,
+        "word": "own",
+        "start": 44.32,
+        "end": 44.64
       },
       {
-        "i": 172,
+        "i": 120,
+        "word": "track",
+        "start": 44.64,
+        "end": 44.96
+      },
+      {
+        "i": 121,
+        "word": "area",
+        "start": 44.96,
+        "end": 45.38
+      },
+      {
+        "i": 122,
+        "word": "below",
+        "start": 45.38,
+        "end": 45.72
+      },
+      {
+        "i": 123,
         "word": "the",
-        "start": 63.34,
-        "end": 63.46
+        "start": 45.72,
+        "end": 45.92
       },
       {
-        "i": 173,
-        "word": "element",
-        "start": 63.46,
-        "end": 63.74
-      },
-      {
-        "i": 174,
-        "word": "is",
-        "start": 63.74,
-        "end": 64.0
-      },
-      {
-        "i": 175,
-        "word": "visible.",
-        "start": 64.0,
-        "end": 64.36
+        "i": 124,
+        "word": "visuals.",
+        "start": 45.92,
+        "end": 46.26
       }
     ]
   },
   {
     "id": 13,
-    "text": "The animate panel controls the motion settings available for its animation.",
-    "start": 64.88,
-    "end": 68.32,
+    "text": "Select a clip or element and drag its edges to adjust its start and end.",
+    "start": 46.94,
+    "end": 51.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      176,
-      186
+      125,
+      139
     ],
     "words": [
       {
-        "i": 176,
-        "word": "The",
-        "start": 64.88,
-        "end": 65.04
+        "i": 125,
+        "word": "Select",
+        "start": 46.94,
+        "end": 47.14
       },
       {
-        "i": 177,
-        "word": "animate",
-        "start": 65.04,
-        "end": 65.26
+        "i": 126,
+        "word": "a",
+        "start": 47.14,
+        "end": 47.36
       },
       {
-        "i": 178,
-        "word": "panel",
-        "start": 65.26,
-        "end": 65.66
+        "i": 127,
+        "word": "clip",
+        "start": 47.36,
+        "end": 47.58
       },
       {
-        "i": 179,
-        "word": "controls",
-        "start": 65.66,
-        "end": 66.16
+        "i": 128,
+        "word": "or",
+        "start": 47.58,
+        "end": 47.92
       },
       {
-        "i": 180,
-        "word": "the",
-        "start": 66.16,
-        "end": 66.4
+        "i": 129,
+        "word": "element",
+        "start": 47.92,
+        "end": 48.26
       },
       {
-        "i": 181,
-        "word": "motion",
-        "start": 66.4,
-        "end": 66.62
+        "i": 130,
+        "word": "and",
+        "start": 48.26,
+        "end": 48.72
       },
       {
-        "i": 182,
-        "word": "settings",
-        "start": 66.62,
-        "end": 67.02
+        "i": 131,
+        "word": "drag",
+        "start": 48.72,
+        "end": 49.0
       },
       {
-        "i": 183,
-        "word": "available",
-        "start": 67.02,
-        "end": 67.38
-      },
-      {
-        "i": 184,
-        "word": "for",
-        "start": 67.38,
-        "end": 67.74
-      },
-      {
-        "i": 185,
+        "i": 132,
         "word": "its",
-        "start": 67.74,
-        "end": 67.9
+        "start": 49.0,
+        "end": 49.18
       },
       {
-        "i": 186,
-        "word": "animation.",
-        "start": 67.9,
-        "end": 68.32
+        "i": 133,
+        "word": "edges",
+        "start": 49.18,
+        "end": 49.46
+      },
+      {
+        "i": 134,
+        "word": "to",
+        "start": 49.46,
+        "end": 49.72
+      },
+      {
+        "i": 135,
+        "word": "adjust",
+        "start": 49.72,
+        "end": 50.0
+      },
+      {
+        "i": 136,
+        "word": "its",
+        "start": 50.0,
+        "end": 50.22
+      },
+      {
+        "i": 137,
+        "word": "start",
+        "start": 50.22,
+        "end": 50.58
+      },
+      {
+        "i": 138,
+        "word": "and",
+        "start": 50.58,
+        "end": 50.92
+      },
+      {
+        "i": 139,
+        "word": "end.",
+        "start": 50.92,
+        "end": 51.3
       }
     ]
   },
   {
     "id": 14,
-    "text": "To remove an effect, select the element, return to animate and choose remove animation.",
-    "start": 69.06,
-    "end": 73.96,
+    "text": "Drag a whole overlay left or right to move its timing without changing its length.",
+    "start": 51.3,
+    "end": 55.9,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      187,
-      200
+      140,
+      154
     ],
     "words": [
       {
-        "i": 187,
-        "word": "To",
-        "start": 69.06,
-        "end": 69.16
+        "i": 140,
+        "word": "Drag",
+        "start": 51.3,
+        "end": 52.02
       },
       {
-        "i": 188,
-        "word": "remove",
-        "start": 69.16,
-        "end": 69.38
+        "i": 141,
+        "word": "a",
+        "start": 52.02,
+        "end": 52.18
       },
       {
-        "i": 189,
-        "word": "an",
-        "start": 69.38,
-        "end": 69.52
+        "i": 142,
+        "word": "whole",
+        "start": 52.18,
+        "end": 52.38
       },
       {
-        "i": 190,
-        "word": "effect,",
-        "start": 69.52,
-        "end": 69.82
+        "i": 143,
+        "word": "overlay",
+        "start": 52.38,
+        "end": 52.88
       },
       {
-        "i": 191,
-        "word": "select",
-        "start": 70.18,
-        "end": 70.46
+        "i": 144,
+        "word": "left",
+        "start": 52.88,
+        "end": 53.16
       },
       {
-        "i": 192,
-        "word": "the",
-        "start": 70.46,
-        "end": 70.66
+        "i": 145,
+        "word": "or",
+        "start": 53.16,
+        "end": 53.46
       },
       {
-        "i": 193,
-        "word": "element,",
-        "start": 70.66,
-        "end": 71.0
+        "i": 146,
+        "word": "right",
+        "start": 53.46,
+        "end": 53.72
       },
       {
-        "i": 194,
-        "word": "return",
-        "start": 71.42,
-        "end": 71.72
-      },
-      {
-        "i": 195,
+        "i": 147,
         "word": "to",
-        "start": 71.72,
-        "end": 71.92
+        "start": 53.72,
+        "end": 53.98
       },
       {
-        "i": 196,
-        "word": "animate",
-        "start": 71.92,
-        "end": 72.16
+        "i": 148,
+        "word": "move",
+        "start": 53.98,
+        "end": 54.2
       },
       {
-        "i": 197,
-        "word": "and",
-        "start": 72.16,
-        "end": 72.58
+        "i": 149,
+        "word": "its",
+        "start": 54.2,
+        "end": 54.38
       },
       {
-        "i": 198,
-        "word": "choose",
-        "start": 72.58,
-        "end": 72.96
+        "i": 150,
+        "word": "timing",
+        "start": 54.38,
+        "end": 54.64
       },
       {
-        "i": 199,
-        "word": "remove",
-        "start": 72.96,
-        "end": 73.34
+        "i": 151,
+        "word": "without",
+        "start": 54.64,
+        "end": 55.0
       },
       {
-        "i": 200,
-        "word": "animation.",
-        "start": 73.34,
-        "end": 73.96
+        "i": 152,
+        "word": "changing",
+        "start": 55.0,
+        "end": 55.38
+      },
+      {
+        "i": 153,
+        "word": "its",
+        "start": 55.38,
+        "end": 55.62
+      },
+      {
+        "i": 154,
+        "word": "length.",
+        "start": 55.62,
+        "end": 55.9
       }
     ]
   },
   {
     "id": 15,
-    "text": "When the result looks right, choose share, download and mp4 video.",
-    "start": 75.48,
-    "end": 79.6,
+    "text": "To split an item, select it, place the playhead at the cut and choose More, then Split.",
+    "start": 56.56,
+    "end": 61.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      201,
-      211
+      155,
+      171
     ],
     "words": [
       {
-        "i": 201,
-        "word": "When",
-        "start": 75.48,
-        "end": 75.7
+        "i": 155,
+        "word": "To",
+        "start": 56.56,
+        "end": 56.66
       },
       {
-        "i": 202,
+        "i": 156,
+        "word": "split",
+        "start": 56.66,
+        "end": 56.9
+      },
+      {
+        "i": 157,
+        "word": "an",
+        "start": 56.9,
+        "end": 57.1
+      },
+      {
+        "i": 158,
+        "word": "item,",
+        "start": 57.1,
+        "end": 57.34
+      },
+      {
+        "i": 159,
+        "word": "select",
+        "start": 57.52,
+        "end": 57.82
+      },
+      {
+        "i": 160,
+        "word": "it,",
+        "start": 57.82,
+        "end": 58.24
+      },
+      {
+        "i": 161,
+        "word": "place",
+        "start": 58.5,
+        "end": 58.72
+      },
+      {
+        "i": 162,
         "word": "the",
-        "start": 75.7,
-        "end": 75.8
+        "start": 58.72,
+        "end": 58.92
       },
       {
-        "i": 203,
-        "word": "result",
-        "start": 75.8,
-        "end": 76.02
+        "i": 163,
+        "word": "playhead",
+        "start": 58.92,
+        "end": 59.26
       },
       {
-        "i": 204,
-        "word": "looks",
-        "start": 76.02,
-        "end": 76.26
+        "i": 164,
+        "word": "at",
+        "start": 59.26,
+        "end": 59.46
       },
       {
-        "i": 205,
-        "word": "right,",
-        "start": 76.26,
-        "end": 76.56
+        "i": 165,
+        "word": "the",
+        "start": 59.46,
+        "end": 59.62
       },
       {
-        "i": 206,
-        "word": "choose",
-        "start": 76.78,
-        "end": 77.04
+        "i": 166,
+        "word": "cut",
+        "start": 59.62,
+        "end": 59.82
       },
       {
-        "i": 207,
-        "word": "share,",
-        "start": 77.04,
-        "end": 77.42
-      },
-      {
-        "i": 208,
-        "word": "download",
-        "start": 77.82,
-        "end": 78.18
-      },
-      {
-        "i": 209,
+        "i": 167,
         "word": "and",
-        "start": 78.18,
-        "end": 78.54
+        "start": 59.82,
+        "end": 60.16
       },
       {
-        "i": 210,
-        "word": "mp4",
-        "start": 78.54,
-        "end": 79.28
+        "i": 168,
+        "word": "choose",
+        "start": 60.16,
+        "end": 60.52
       },
       {
-        "i": 211,
-        "word": "video.",
-        "start": 79.28,
-        "end": 79.6
+        "i": 169,
+        "word": "More,",
+        "start": 60.52,
+        "end": 60.96
+      },
+      {
+        "i": 170,
+        "word": "then",
+        "start": 61.38,
+        "end": 61.66
+      },
+      {
+        "i": 171,
+        "word": "Split.",
+        "start": 61.66,
+        "end": 61.98
       }
     ]
   },
   {
     "id": 16,
-    "text": "Use GIF if you need an animated image instead.",
-    "start": 80.28,
-    "end": 82.62,
+    "text": "You can delete a segment or edit the resulting pieces separately.",
+    "start": 62.96,
+    "end": 65.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      212,
-      220
+      172,
+      182
     ],
     "words": [
       {
-        "i": 212,
-        "word": "Use",
-        "start": 80.28,
-        "end": 80.6
+        "i": 172,
+        "word": "You",
+        "start": 62.96,
+        "end": 63.16
       },
       {
-        "i": 213,
-        "word": "GIF",
-        "start": 80.6,
-        "end": 80.8
+        "i": 173,
+        "word": "can",
+        "start": 63.16,
+        "end": 63.28
       },
       {
-        "i": 214,
-        "word": "if",
-        "start": 80.8,
-        "end": 81.0
+        "i": 174,
+        "word": "delete",
+        "start": 63.28,
+        "end": 63.52
       },
       {
-        "i": 215,
-        "word": "you",
-        "start": 81.0,
-        "end": 81.14
+        "i": 175,
+        "word": "a",
+        "start": 63.52,
+        "end": 63.7
       },
       {
-        "i": 216,
-        "word": "need",
-        "start": 81.14,
-        "end": 81.26
+        "i": 176,
+        "word": "segment",
+        "start": 63.7,
+        "end": 63.98
       },
       {
-        "i": 217,
-        "word": "an",
-        "start": 81.26,
-        "end": 81.42
+        "i": 177,
+        "word": "or",
+        "start": 63.98,
+        "end": 64.32
       },
       {
-        "i": 218,
-        "word": "animated",
-        "start": 81.42,
-        "end": 81.86
+        "i": 178,
+        "word": "edit",
+        "start": 64.32,
+        "end": 64.56
       },
       {
-        "i": 219,
-        "word": "image",
-        "start": 81.86,
-        "end": 82.2
+        "i": 179,
+        "word": "the",
+        "start": 64.56,
+        "end": 64.72
       },
       {
-        "i": 220,
-        "word": "instead.",
-        "start": 82.2,
-        "end": 82.62
+        "i": 180,
+        "word": "resulting",
+        "start": 64.72,
+        "end": 65.04
+      },
+      {
+        "i": 181,
+        "word": "pieces",
+        "start": 65.04,
+        "end": 65.48
+      },
+      {
+        "i": 182,
+        "word": "separately.",
+        "start": 65.48,
+        "end": 65.98
       }
     ]
   },
   {
     "id": 17,
-    "text": "A PNG or JPG download will show a still image.",
-    "start": 82.62,
-    "end": 86.14,
+    "text": "Use timeline zoom to make short clips easier to inspect.",
+    "start": 66.6,
+    "end": 69.48,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      221,
-      230
+      183,
+      192
     ],
     "words": [
       {
-        "i": 221,
-        "word": "A",
-        "start": 82.62,
-        "end": 83.3
+        "i": 183,
+        "word": "Use",
+        "start": 66.6,
+        "end": 66.82
       },
       {
-        "i": 222,
-        "word": "PNG",
-        "start": 83.3,
-        "end": 83.66
+        "i": 184,
+        "word": "timeline",
+        "start": 66.82,
+        "end": 67.2
       },
       {
-        "i": 223,
-        "word": "or",
-        "start": 83.66,
-        "end": 84.14
+        "i": 185,
+        "word": "zoom",
+        "start": 67.2,
+        "end": 67.52
       },
       {
-        "i": 224,
-        "word": "JPG",
-        "start": 84.14,
-        "end": 84.66
+        "i": 186,
+        "word": "to",
+        "start": 67.52,
+        "end": 67.76
       },
       {
-        "i": 225,
-        "word": "download",
-        "start": 84.66,
-        "end": 85.04
+        "i": 187,
+        "word": "make",
+        "start": 67.76,
+        "end": 67.9
       },
       {
-        "i": 226,
-        "word": "will",
-        "start": 85.04,
-        "end": 85.28
+        "i": 188,
+        "word": "short",
+        "start": 67.9,
+        "end": 68.22
       },
       {
-        "i": 227,
-        "word": "show",
-        "start": 85.28,
-        "end": 85.48
+        "i": 189,
+        "word": "clips",
+        "start": 68.22,
+        "end": 68.46
       },
       {
-        "i": 228,
-        "word": "a",
-        "start": 85.48,
-        "end": 85.62
+        "i": 190,
+        "word": "easier",
+        "start": 68.46,
+        "end": 68.84
       },
       {
-        "i": 229,
-        "word": "still",
-        "start": 85.62,
-        "end": 85.78
+        "i": 191,
+        "word": "to",
+        "start": 68.84,
+        "end": 69.12
       },
       {
-        "i": 230,
-        "word": "image.",
-        "start": 85.78,
-        "end": 86.14
+        "i": 192,
+        "word": "inspect.",
+        "start": 69.12,
+        "end": 69.48
       }
     ]
   },
   {
     "id": 18,
-    "text": "Your Canva design now includes animation you can preview and export.",
-    "start": 86.78,
-    "end": 89.96,
+    "text": "This enlarges the timeline view.",
+    "start": 70.16,
+    "end": 71.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      231,
-      241
+      193,
+      197
     ],
     "words": [
       {
+        "i": 193,
+        "word": "This",
+        "start": 70.16,
+        "end": 70.38
+      },
+      {
+        "i": 194,
+        "word": "enlarges",
+        "start": 70.38,
+        "end": 70.9
+      },
+      {
+        "i": 195,
+        "word": "the",
+        "start": 70.9,
+        "end": 71.08
+      },
+      {
+        "i": 196,
+        "word": "timeline",
+        "start": 71.08,
+        "end": 71.44
+      },
+      {
+        "i": 197,
+        "word": "view.",
+        "start": 71.44,
+        "end": 71.78
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "It does not change the video's resolution or playback speed.",
+    "start": 72.06,
+    "end": 75.0,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      198,
+      207
+    ],
+    "words": [
+      {
+        "i": 198,
+        "word": "It",
+        "start": 72.06,
+        "end": 72.22
+      },
+      {
+        "i": 199,
+        "word": "does",
+        "start": 72.22,
+        "end": 72.34
+      },
+      {
+        "i": 200,
+        "word": "not",
+        "start": 72.34,
+        "end": 72.52
+      },
+      {
+        "i": 201,
+        "word": "change",
+        "start": 72.52,
+        "end": 72.8
+      },
+      {
+        "i": 202,
+        "word": "the",
+        "start": 72.8,
+        "end": 72.96
+      },
+      {
+        "i": 203,
+        "word": "video's",
+        "start": 72.96,
+        "end": 73.32
+      },
+      {
+        "i": 204,
+        "word": "resolution",
+        "start": 73.32,
+        "end": 73.72
+      },
+      {
+        "i": 205,
+        "word": "or",
+        "start": 73.72,
+        "end": 74.18
+      },
+      {
+        "i": 206,
+        "word": "playback",
+        "start": 74.18,
+        "end": 74.48
+      },
+      {
+        "i": 207,
+        "word": "speed.",
+        "start": 74.48,
+        "end": 75.0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Here's the part many tutorials skip.",
+    "start": 75.78,
+    "end": 77.8,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      208,
+      213
+    ],
+    "words": [
+      {
+        "i": 208,
+        "word": "Here's",
+        "start": 75.78,
+        "end": 76.02
+      },
+      {
+        "i": 209,
+        "word": "the",
+        "start": 76.02,
+        "end": 76.14
+      },
+      {
+        "i": 210,
+        "word": "part",
+        "start": 76.14,
+        "end": 76.34
+      },
+      {
+        "i": 211,
+        "word": "many",
+        "start": 76.34,
+        "end": 76.72
+      },
+      {
+        "i": 212,
+        "word": "tutorials",
+        "start": 76.72,
+        "end": 77.32
+      },
+      {
+        "i": 213,
+        "word": "skip.",
+        "start": 77.32,
+        "end": 77.8
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Timeline placement controls when an object appears, while its canvas position controls where viewers see it.",
+    "start": 78.36,
+    "end": 84.38,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      214,
+      229
+    ],
+    "words": [
+      {
+        "i": 214,
+        "word": "Timeline",
+        "start": 78.36,
+        "end": 78.74
+      },
+      {
+        "i": 215,
+        "word": "placement",
+        "start": 78.74,
+        "end": 79.22
+      },
+      {
+        "i": 216,
+        "word": "controls",
+        "start": 79.22,
+        "end": 79.72
+      },
+      {
+        "i": 217,
+        "word": "when",
+        "start": 79.72,
+        "end": 80.04
+      },
+      {
+        "i": 218,
+        "word": "an",
+        "start": 80.04,
+        "end": 80.16
+      },
+      {
+        "i": 219,
+        "word": "object",
+        "start": 80.16,
+        "end": 80.52
+      },
+      {
+        "i": 220,
+        "word": "appears,",
+        "start": 80.52,
+        "end": 81.06
+      },
+      {
+        "i": 221,
+        "word": "while",
+        "start": 81.26,
+        "end": 81.68
+      },
+      {
+        "i": 222,
+        "word": "its",
+        "start": 81.68,
+        "end": 81.88
+      },
+      {
+        "i": 223,
+        "word": "canvas",
+        "start": 81.88,
+        "end": 82.14
+      },
+      {
+        "i": 224,
+        "word": "position",
+        "start": 82.14,
+        "end": 82.56
+      },
+      {
+        "i": 225,
+        "word": "controls",
+        "start": 82.56,
+        "end": 83.06
+      },
+      {
+        "i": 226,
+        "word": "where",
+        "start": 83.06,
+        "end": 83.42
+      },
+      {
+        "i": 227,
+        "word": "viewers",
+        "start": 83.42,
+        "end": 83.74
+      },
+      {
+        "i": 228,
+        "word": "see",
+        "start": 83.74,
+        "end": 84.0
+      },
+      {
+        "i": 229,
+        "word": "it.",
+        "start": 84.0,
+        "end": 84.38
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Moving a text layer later does not move the text to a different part of the screen.",
+    "start": 85.04,
+    "end": 88.84,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      230,
+      246
+    ],
+    "words": [
+      {
+        "i": 230,
+        "word": "Moving",
+        "start": 85.04,
+        "end": 85.26
+      },
+      {
         "i": 231,
-        "word": "Your",
-        "start": 86.78,
-        "end": 86.88
+        "word": "a",
+        "start": 85.26,
+        "end": 85.44
       },
       {
         "i": 232,
-        "word": "Canva",
-        "start": 86.88,
-        "end": 87.18
+        "word": "text",
+        "start": 85.44,
+        "end": 85.64
       },
       {
         "i": 233,
-        "word": "design",
-        "start": 87.18,
-        "end": 87.42
+        "word": "layer",
+        "start": 85.64,
+        "end": 85.86
       },
       {
         "i": 234,
-        "word": "now",
-        "start": 87.42,
-        "end": 87.7
+        "word": "later",
+        "start": 85.86,
+        "end": 86.12
       },
       {
         "i": 235,
-        "word": "includes",
-        "start": 87.7,
-        "end": 88.02
+        "word": "does",
+        "start": 86.12,
+        "end": 86.4
       },
       {
         "i": 236,
-        "word": "animation",
-        "start": 88.02,
-        "end": 88.38
+        "word": "not",
+        "start": 86.4,
+        "end": 86.6
       },
       {
         "i": 237,
-        "word": "you",
-        "start": 88.38,
-        "end": 88.72
+        "word": "move",
+        "start": 86.6,
+        "end": 86.86
       },
       {
         "i": 238,
-        "word": "can",
-        "start": 88.72,
-        "end": 88.88
+        "word": "the",
+        "start": 86.86,
+        "end": 87.02
       },
       {
         "i": 239,
-        "word": "preview",
-        "start": 88.88,
-        "end": 89.2
+        "word": "text",
+        "start": 87.02,
+        "end": 87.28
       },
       {
         "i": 240,
-        "word": "and",
-        "start": 89.2,
-        "end": 89.56
+        "word": "to",
+        "start": 87.28,
+        "end": 87.62
       },
       {
         "i": 241,
-        "word": "export.",
-        "start": 89.56,
-        "end": 89.96
+        "word": "a",
+        "start": 87.62,
+        "end": 87.74
+      },
+      {
+        "i": 242,
+        "word": "different",
+        "start": 87.74,
+        "end": 88.0
+      },
+      {
+        "i": 243,
+        "word": "part",
+        "start": 88.0,
+        "end": 88.26
+      },
+      {
+        "i": 244,
+        "word": "of",
+        "start": 88.26,
+        "end": 88.44
+      },
+      {
+        "i": 245,
+        "word": "the",
+        "start": 88.44,
+        "end": 88.54
+      },
+      {
+        "i": 246,
+        "word": "screen.",
+        "start": 88.54,
+        "end": 88.84
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Preview the video, check how the layers overlap, and export as MP4 video when the sequence is ready.",
+    "start": 89.68,
+    "end": 95.24,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      247,
+      264
+    ],
+    "words": [
+      {
+        "i": 247,
+        "word": "Preview",
+        "start": 89.68,
+        "end": 89.82
+      },
+      {
+        "i": 248,
+        "word": "the",
+        "start": 89.82,
+        "end": 90.06
+      },
+      {
+        "i": 249,
+        "word": "video,",
+        "start": 90.06,
+        "end": 90.36
+      },
+      {
+        "i": 250,
+        "word": "check",
+        "start": 90.68,
+        "end": 90.9
+      },
+      {
+        "i": 251,
+        "word": "how",
+        "start": 90.9,
+        "end": 91.12
+      },
+      {
+        "i": 252,
+        "word": "the",
+        "start": 91.12,
+        "end": 91.26
+      },
+      {
+        "i": 253,
+        "word": "layers",
+        "start": 91.26,
+        "end": 91.52
+      },
+      {
+        "i": 254,
+        "word": "overlap,",
+        "start": 91.52,
+        "end": 91.92
+      },
+      {
+        "i": 255,
+        "word": "and",
+        "start": 92.36,
+        "end": 92.48
+      },
+      {
+        "i": 256,
+        "word": "export",
+        "start": 92.48,
+        "end": 92.86
+      },
+      {
+        "i": 257,
+        "word": "as",
+        "start": 92.86,
+        "end": 93.06
+      },
+      {
+        "i": 258,
+        "word": "MP4",
+        "start": 93.06,
+        "end": 93.8
+      },
+      {
+        "i": 259,
+        "word": "video",
+        "start": 93.8,
+        "end": 94.08
+      },
+      {
+        "i": 260,
+        "word": "when",
+        "start": 94.08,
+        "end": 94.4
+      },
+      {
+        "i": 261,
+        "word": "the",
+        "start": 94.4,
+        "end": 94.54
+      },
+      {
+        "i": 262,
+        "word": "sequence",
+        "start": 94.54,
+        "end": 94.76
+      },
+      {
+        "i": 263,
+        "word": "is",
+        "start": 94.76,
+        "end": 95.06
+      },
+      {
+        "i": 264,
+        "word": "ready.",
+        "start": 95.06,
+        "end": 95.24
       }
     ]
   }

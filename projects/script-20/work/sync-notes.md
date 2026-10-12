@@ -2,34 +2,40 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 2 | heading | 6.600 | A1 Welcome heading | 12.000 | 1.82x |
-| 2 | animate | 8.580 | A2 Animate button in toolbar | 20.500 | 4.29x |
-| 3 | rise | 14.580 | A3 Rise style | 37.400 | 2.82x |
-| 4 | photo | 21.860 | A4 photo | 53.500 | 2.21x |
-| 4 | animate | 23.640 | A5 Animate button (image toolbar) | 56.600 | 1.74x |
-| 4 | element. | 26.060 | A6 Whip Slide animation | 73.100 | 2.48x |
-| 9 | Preview | 50.640 | A7 Play preview | 134.600 | 2.50x |
-| 14 | remove | 72.960 | A8 Remove animation button | 196.900 | 2.79x |
-| 15 | share, | 77.040 | A9 Share button | 202.200 | 1.30x |
-| 15 | download | 77.820 | A10 Download in share panel | 203.900 | 2.18x |
-| 15 | video. | 79.280 | A11 File type dropdown | 207.300 | 2.33x |
-| 16 | GIF | 80.600 | A12 GIF option | 214.300 | 1.36x |
-| 17 | PNG | 83.300 | A14 PNG option | 222.200 | 2.93x |
-| 17 | JPG | 84.140 | A13 JPG option | 220.700 | 3.45x |
-| 18 | export. | 89.560 | A15 Download button | 231.800 | 2.05x |
+| 4 | pencil | 13.380 | A1 page thumbnail / pencil icon | 12.500 | 0.93x |
+| 6 | Drag | 19.380 | A2 playhead on the time ruler | 19.200 | 1.12x |
+| 6 | inspect | 21.260 | A3 time ruler | 21.500 | 1.22x |
+| 7 | play | 23.720 | A4 play button | 66.500 | 1.22x |
+| 9 | clips | 30.940 | A6 clip on the main track | 136.200 | 1.00x |
+| 10 | headings, | 35.500 | A11 Add a heading | 217.500 | 1.10x |
+| 12 | Audio | 43.820 | A5 Add audio | 122.700 | 1.11x |
+| 13 | edges | 49.180 | A7 clip edge handle | 147.000 | 0.99x |
+| 14 | left | 52.880 | A13 text overlay on the timeline | 245.600 | 1.43x |
+| 15 | More, | 60.520 | A8 Split in the clip toolbar | 170.300 | 1.14x |
+| 16 | delete | 63.280 | A9 Delete (trash) button | 173.100 | 1.01x |
+| 17 | zoom | 67.200 | A10 timeline zoom slider | 182.300 | 0.94x |
+| 21 | canvas | 81.880 | A12 Welcome text on the canvas | 240.400 | 0.93x |
+| 23 | Preview | 89.680 | A14 play button (preview) | 258.900 | 1.00x |
+| 23 | export | 92.480 | A15 Share button | 269.900 | 1.07x |
 
 ## Builder decisions
 
-- intro: fast-forwarded src 0.00-11.00 instead of cutting it (junk: idle before first action)
-- A3->A4: fast-forwarded src 40.40-51.50 instead of cutting it (junk: idle, nothing changes)
-- A6->A7: fast-forwarded src 75.50-125.00 instead of cutting it (waiting/replaying whip slide preview; tweaking speed/direction settings, narration moves on; junk: idle cursor)
-- A7->A8: fast-forwarded src 135.50-196.00 instead of cutting it (repeated settings experiments and idle; junk: frozen, nothing changes)
-- A13: after A14 (until src 223.60) jumps back to src 219.20 - narration order
+- A4: after A3 (until src 22.50) jumps ahead to src 64.50 - narration order
+- A6: after A4 (until src 70.90) jumps ahead to src 133.40 - narration order
+- A11: after A6 (until src 137.70) jumps ahead to src 214.00 - narration order
+- A5: after A11 (until src 222.50) jumps back to src 118.50 - narration order
+- A7: after A5 (until src 125.50) jumps ahead to src 144.50 - narration order
+- A13: after A7 (until src 151.00) jumps ahead to src 244.30 - narration order
+- A8: after A13 (until src 248.00) jumps back to src 164.00 - narration order
+- A10: after A9 (until src 175.00) jumps ahead to src 180.50 - narration order
+- A12: after A10 (until src 193.60) jumps ahead to src 238.00 - narration order
+- A14: after A12 (until src 246.80) jumps ahead to src 257.50 - narration order
+- A15: after A14 (until src 261.00) jumps ahead to src 269.00 - narration order
 
 ## Judgment calls
-- No plan zooms: the recorder already zooms the footage (double-zoom lesson); ripples only.
-- Anchors: heading, animate (2nd), rise, photo, animate, element (Whip Slide; "animation" gave only 1.5 s), Preview (Play), remove (2nd), share, download, video (mp4 was 0.7 s after download), GIF, PNG, JPG, export (final Download).
-- PNG/JPG: narration order PNG then JPG, recording JPG then PNG: builder jumps back with a cross-fade.
-- Fast-forwarded (ff, up to 4x): intro idle, frozen 40-51 s, 75-125 s and 135-196 s. Plain cross-faded cuts: 59.5-70.0 (hovering tiles), 208.3-213.5 (open dropdown wait); tail 236+ cut (desktop).
-- Missing in the recording: narration of page tab, create an animation, drag path/done, timeline handles (L5-L8, L10-L13); those lines play over fast-forwarded footage of the settings panel.
-- Warnings: A6 result and A15 result appear slightly after their lines end (<0.8 s).
+
+- Recording (284.6 s) is ~3x the narration (95.7 s) and its order differs from the audio, so every step is anchored in narration order with `src_from`/`prev_until` jumps (11 cross-faded jumps, no cuts, no ff spans needed, no holds). All speeds 0.93-1.43x; `check.py --plan` prints no `pace:` warnings.
+- Anchors: A1 "pencil", A2 "Drag", A3 "inspect", A4 "play" (play footage is from 66 s, the empty-timeline take), A6 "clips" (clip select; no reorder drag exists in the recording), A11 "headings" (Add a heading, 217 s), A5 "Audio" (Add audio menu), A7 "edges" (trim), A13 "left" (overlay move), A8 "More" (split; chosen so the split result is on screen before "delete"), A9 "delete", A10 "zoom", A12 "canvas", A14 "Preview", A15 "export".
+- Zooms: none. The recorder baked in auto-zoom (lessons: script-01/18); ripples only on A1-A3 (unzoomed), `no_ripple` on the rest. A1 ripple point corrected to the cursor after the first preview.
+- L8 (main track) and L10-11 (overlays) are shown with footage that follows the related click (clips in the timeline, heading overlaying the video), not with dedicated actions. L20 has no action.
+- Warning left: A7 result (trim) appears 0.5 s after line 13 ends; trimming the take earlier was not possible without cutting the drag.

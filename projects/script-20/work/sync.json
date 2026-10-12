@@ -1,117 +1,25 @@
 {
- "anchors": [
-  {
-   "action": "A1",
-   "line": 2,
-   "word": "heading"
-  },
-  {
-   "action": "A2",
-   "line": 2,
-   "word": "animate",
-   "occurrence": 2
-  },
-  {
-   "action": "A3",
-   "line": 3,
-   "word": "rise"
-  },
-  {
-   "action": "A4",
-   "line": 4,
-   "word": "photo"
-  },
-  {
-   "action": "A5",
-   "line": 4,
-   "word": "animate"
-  },
-  {
-   "action": "A6",
-   "line": 4,
-   "word": "element"
-  },
-  {
-   "action": "A7",
-   "line": 9,
-   "word": "Preview"
-  },
-  {
-   "action": "A8",
-   "line": 14,
-   "word": "remove",
-   "occurrence": 2
-  },
-  {
-   "action": "A9",
-   "line": 15,
-   "word": "share"
-  },
-  {
-   "action": "A10",
-   "line": 15,
-   "word": "download"
-  },
-  {
-   "action": "A11",
-   "line": 15,
-   "word": "video"
-  },
-  {
-   "action": "A12",
-   "line": 16,
-   "word": "GIF"
-  },
-  {
-   "action": "A14",
-   "line": 17,
-   "word": "PNG"
-  },
-  {
-   "action": "A13",
-   "line": 17,
-   "word": "JPG"
-  },
-  {
-   "action": "A15",
-   "line": 18,
-   "word": "export"
-  }
- ],
- "zooms": [],
- "no_ripple": [],
- "cuts": [
-  {
-   "src_start": 59.5,
-   "src_end": 70.0,
-   "reason": "hovering through animation tiles before the choice",
-   "xfade": true
-  },
-  {
-   "src_start": 75.5,
-   "src_end": 99.5,
-   "reason": "waiting/replaying whip slide preview",
-   "ff": true
-  },
-  {
-   "src_start": 99.5,
-   "src_end": 125.0,
-   "reason": "tweaking speed/direction settings, narration moves on",
-   "ff": true
-  },
-  {
-   "src_start": 135.5,
-   "src_end": 196.0,
-   "reason": "repeated settings experiments and idle",
-   "ff": true
-  },
-  {
-   "src_start": 208.3,
-   "src_end": 213.5,
-   "reason": "dropdown open, waiting before GIF choice",
-   "xfade": true
-  }
- ],
- "ff_max": 4.0,
- "use_junk": true
+  "anchors": [
+    {"action": "A1", "line": 4, "word": "pencil"},
+    {"action": "A2", "line": 6, "word": "Drag"},
+    {"action": "A3", "line": 6, "word": "inspect"},
+    {"action": "A4", "line": 7, "word": "play", "src_from": 64.5, "prev_until": 22.5},
+    {"action": "A6", "line": 9, "word": "clips", "src_from": 133.4, "prev_until": 70.9},
+    {"action": "A11", "line": 10, "word": "headings", "src_from": 214.0, "prev_until": 137.7},
+    {"action": "A5", "line": 12, "word": "Audio", "src_from": 118.5, "prev_until": 222.5},
+    {"action": "A7", "line": 13, "word": "edges", "src_from": 144.5, "prev_until": 125.5},
+    {"action": "A13", "line": 14, "word": "left", "src_from": 244.3, "prev_until": 151.0},
+    {"action": "A8", "line": 15, "word": "More", "src_from": 164.0, "prev_until": 248.0},
+    {"action": "A9", "line": 16, "word": "delete"},
+    {"action": "A10", "line": 17, "word": "zoom", "src_from": 180.5, "prev_until": 175.0},
+    {"action": "A12", "line": 21, "word": "canvas", "src_from": 238.0, "prev_until": 193.6},
+    {"action": "A14", "line": 23, "word": "Preview", "src_from": 257.5, "prev_until": 246.8},
+    {"action": "A15", "line": 23, "word": "export", "src_from": 269.0, "prev_until": 261.0}
+  ],
+  "zooms": [],
+  "no_ripple": ["A4","A5","A6","A7","A8","A9","A10","A11","A12","A13","A14","A15"],
+  "cuts": [],
+  "ff_max": 2.0,
+  "use_junk": true,
+  "src_end": 273.5
 }
