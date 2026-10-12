@@ -1,0 +1,15 @@
+{
+  "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 182.767},
+  "sync": {"clicks_offset": 0, "source": "frames"},
+  "actions": [
+    {"id": "A1", "t_click": 15.1, "x": 100, "y": 600, "kind": "click", "target": "Apps in left sidebar", "result": "apps panel opens", "t_result_visible": 15.8, "confidence": "medium"},
+    {"id": "A2", "t_click": 15.8, "x": 150, "y": 260, "kind": "type", "text": "BGblur", "target": "apps search field", "result": "BG Blur search results listed", "t_result_visible": 16.3, "confidence": "medium"},
+    {"id": "A3", "t_click": 29.6, "x": 500, "y": 504, "kind": "click", "target": "Face Blur in Video app", "result": "Face Blur in Video panel opens", "t_result_visible": 32.1, "confidence": "medium"},
+    {"id": "A4", "t_click": 42.9, "x": 370, "y": 490, "kind": "click", "target": "Choose file button", "result": "file picker opens", "t_result_visible": 43.4, "confidence": "medium"},
+    {"id": "A5", "t_click": 45.15, "x": 1080, "y": 640, "kind": "click", "target": "Open button in file picker", "result": "video uploaded in panel", "t_result_visible": 46.5, "confidence": "low"},
+    {"id": "A6", "t_click": 58.7, "x": 322, "y": 830, "kind": "drag", "x2": 330, "y2": 830, "t_end": 60.1, "target": "Intensity slider", "result": "blur strength changed", "t_result_visible": 60.1, "confidence": "low"},
+    {"id": "A7", "t_click": 79.4, "x": 345, "y": 893, "kind": "click", "target": "Process your video button", "result": "processing starts (Preparing...)", "t_result_visible": 81.7, "confidence": "medium"},
+    {"id": "A8", "t_click": 82.3, "x": 330, "y": 560, "kind": "wait", "target": "Detecting faces progress bar", "result": "progress bar never completes before recording ends", "t_result_visible": 182.0, "confidence": "high"}
+  ],
+  "junk": []
+}

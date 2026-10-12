@@ -1,0 +1,60 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 4,
+   "word": "apps"
+  },
+  {
+   "action": "A3",
+   "line": 5,
+   "word": "Face",
+   "src_from": 28.0,
+   "prev_until": 19.0
+  },
+  {
+   "action": "A4",
+   "line": 8,
+   "word": "Upload"
+  },
+  {
+   "action": "A5",
+   "line": 8,
+   "word": "control"
+  },
+  {
+   "action": "A6",
+   "line": 8,
+   "word": "strength",
+   "src_from": 58.0,
+   "prev_until": 46.6
+  },
+  {
+   "action": "A7",
+   "line": 10,
+   "word": "Run",
+   "src_from": 77.5,
+   "prev_until": 61.5
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7"
+ ],
+ "cuts": [
+  {
+   "src_start": 82.3,
+   "src_end": 176.0,
+   "reason": "progress wait, fast-forwarded",
+   "ff": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true
+}

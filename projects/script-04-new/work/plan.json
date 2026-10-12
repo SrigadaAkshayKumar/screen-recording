@@ -1,0 +1,153 @@
+{
+ "output": {
+  "duration": 92.604,
+  "fps": 30.0,
+  "width": 1920,
+  "height": 1080
+ },
+ "segments": [
+  {
+   "mode": "speed",
+   "src_start": 0.0,
+   "src_end": 15.1,
+   "out_start": 0.0,
+   "out_end": 16.78
+  },
+  {
+   "mode": "speed",
+   "src_start": 15.1,
+   "src_end": 19.0,
+   "out_start": 16.78,
+   "out_end": 20.496
+  },
+  {
+   "mode": "speed",
+   "src_start": 28.0,
+   "src_end": 29.6,
+   "xfade": true,
+   "out_start": 20.496,
+   "out_end": 22.02
+  },
+  {
+   "mode": "speed",
+   "src_start": 29.6,
+   "src_end": 42.9,
+   "out_start": 22.02,
+   "out_end": 33.46
+  },
+  {
+   "mode": "speed",
+   "src_start": 42.9,
+   "src_end": 45.15,
+   "out_start": 33.46,
+   "out_end": 35.44
+  },
+  {
+   "mode": "speed",
+   "src_start": 45.15,
+   "src_end": 46.6,
+   "out_start": 35.44,
+   "out_end": 36.667
+  },
+  {
+   "mode": "speed",
+   "src_start": 58.0,
+   "src_end": 58.7,
+   "xfade": true,
+   "out_start": 36.667,
+   "out_end": 37.26
+  },
+  {
+   "mode": "speed",
+   "src_start": 58.7,
+   "src_end": 61.5,
+   "out_start": 37.26,
+   "out_end": 40.227
+  },
+  {
+   "mode": "speed",
+   "src_start": 77.5,
+   "src_end": 79.4,
+   "xfade": true,
+   "out_start": 40.227,
+   "out_end": 42.24
+  },
+  {
+   "mode": "speed",
+   "src_start": 79.4,
+   "src_end": 82.3,
+   "out_start": 42.24,
+   "out_end": 45.14
+  },
+  {
+   "src_start": 82.3,
+   "src_end": 175.5,
+   "out_start": 45.14,
+   "out_end": 92.604,
+   "mode": "speed",
+   "wait": true
+  }
+ ],
+ "zooms": [],
+ "ripples": [],
+ "intro": {
+  "mode": "play",
+  "until": 16.78
+ },
+ "outro": {
+  "mode": "hold",
+  "from": 51.907
+ },
+ "sync": [
+  {
+   "action": "A1",
+   "line": 4,
+   "word": "apps",
+   "word_index": 47,
+   "word_t": 16.78
+  },
+  {
+   "action": "A3",
+   "line": 5,
+   "word": "Face",
+   "word_index": 62,
+   "word_t": 22.02
+  },
+  {
+   "action": "A4",
+   "line": 8,
+   "word": "Upload",
+   "word_index": 95,
+   "word_t": 33.46
+  },
+  {
+   "action": "A5",
+   "line": 8,
+   "word": "control,",
+   "word_index": 103,
+   "word_t": 35.44
+  },
+  {
+   "action": "A6",
+   "line": 8,
+   "word": "strength.",
+   "word_index": 108,
+   "word_t": 37.26
+  },
+  {
+   "action": "A7",
+   "line": 10,
+   "word": "Run",
+   "word_index": 122,
+   "word_t": 42.24
+  }
+ ],
+ "style": {},
+ "notes": [
+  "A3: after A1 (until src 19.00) jumps ahead to src 28.00 - narration order",
+  "A6: after A5 (until src 46.60) jumps ahead to src 58.00 - narration order",
+  "A7: after A6 (until src 61.50) jumps ahead to src 77.50 - narration order"
+ ],
+ "generated_by": "tools/plan_builder.py from work/sync.json",
+ "generated_hash": "4d0cffa783aa"
+}
