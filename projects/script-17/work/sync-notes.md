@@ -2,37 +2,45 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 2 | Projects, | 7.280 | A1 Projects sidebar icon | 17.600 | 2.42x |
-| 2 | Projects. | 8.700 | A2 All projects sidebar item | 21.000 | 2.39x |
-| 3 | Add | 10.260 | A3 Add new (+) button | 24.750 | 2.40x |
-| 3 | Folder, | 11.860 | A4 New folder menu item | 26.000 | 0.78x |
-| 3 | Create | 13.760 | A6 Create folder button | 36.100 | 2.95x |
-| 5 | Open | 21.680 | A7 class-1 folder card | 56.200 | 2.54x |
-| 5 | create | 22.960 | A9 Folder menu item | 62.000 | 2.81x |
-| 5 | thumbnails, | 25.320 | A11 Create folder button | 67.900 | 2.50x |
-| 5 | designs. | 27.740 | A15 Create folder button | 79.800 | 3.51x |
-| 7 | Projects | 34.060 | A16 All projects sidebar item | 93.800 | 2.22x |
-| 7 | organize | 36.520 | A17 thumbnail checkbox of Copy of sample | 98.400 | 1.87x |
-| 8 | Choose | 39.680 | A18 Move icon in selection toolbar | 115.900 | 1.00x +1.5s hold |
-| 8 | destination | 41.020 | A19 destination folder (class-1 then images) | 120.100 | 3.13x |
-| 8 | confirm. | 42.440 | A20 Move button | 123.950 | 2.71x |
-| 9 | folder, | 44.580 | A21 class-1 / images folder | 130.400 | 3.01x |
-| 9 | Add | 45.680 | A12 Add new button (second time) | 73.000 | 2.45x |
-| 11 | Remove | 53.980 | A22 three-dots menu on the item | 154.900 | 1.14x |
-| 12 | Removing | 57.120 | A23 Remove from folder menu item | 160.000 | 1.62x |
-| 13 | Trash | 62.080 | A24 Move to Trash menu item (hover only, not clicked) | 167.800 | 1.57x |
-| 16 | Open | 75.020 | A25 class-1 folder | 194.900 | 2.09x |
-| 16 | inside | 78.200 | A26 images folder | 197.200 | 1.00x +0.9s hold |
+| 2 | presentation | 6.720 | A1 Landscape video design tile | 22.550 | 1.00x |
+| 3 | circle | 10.460 | A2 circle in Elements > Recently used | 48.700 | 1.30x |
+| 4 | Duplicate | 13.680 | A3 Duplicate in page right-click menu | 75.000 | 1.15x |
+| 4 | circle | 15.440 | A4 circle on page 2 | 86.200 | 1.36x |
+| 5 | Duplicate | 18.140 | A5 Duplicate in page 1 menu | 91.300 | 1.44x |
+| 5 | place | 20.300 | A6 duplicated page thumbnail | 99.000 | 1.16x |
+| 7 | first | 27.640 | A7 junction between pages 1 and 2 | 128.000 | 1.27x |
+| 7 | match | 29.240 | A8 Match and move transition | 129.900 | 1.19x |
+| 8 | second | 32.660 | A9 junction between pages 2 and 3 | 136.800 | 0.99x |
+| 9 | Match | 34.860 | A10 Match and move transition | 139.300 | 1.14x |
+| 12 | Preview | 46.300 | A11 Play button in preview | 170.000 | 1.02x |
+| 15 | Click | 57.740 | A12 Share button | 202.300 | 1.01x |
+| 15 | GIF. | 59.680 | A15 GIF option | 208.300 | 0.98x |
+| 16 | download | 62.060 | A16 Download button | 219.200 | 1.05x |
+| 16 | browser | 63.660 | A18 downloaded GIF in browser toast | 242.400 | 1.38x |
+| 19 | Shorten | 76.120 | A19 page 3 end handle (shorten hold to 0.4 s) | 266.200 | 0.77x |
+| 20 | MP4 | 79.600 | A20 File type dropdown | 282.000 | 1.15x |
 
 ## Builder decisions
 
-- intro: fast-forwarded src 0.00-10.80 instead of cutting it (junk: idle start on All projects)
-- A6->A7: fast-forwarded src 40.00-55.50 instead of cutting it (junk: idle after folder created)
-- A7->A9: cut src 57.00-59.20 - too long to fast-forward at <= 3.00x (junk: folder page loading)
-- A11->A15: cut src 69.30-72.70 - too long to fast-forward at <= 3.00x (junk: waiting after thumbnails created)
-- A15->A16: fast-forwarded src 81.00-93.00 instead of cutting it (junk: idle in class-1)
-- A17->A18: cut src 99.50-115.30 - too long to fast-forward at <= 3.00x (junk: item selected, idle cursor)
-- A12: after A21 (until src 131.60) jumps back to src 71.50 - narration order
-- A21->A12: fast-forwarded src 69.30-72.70 instead of cutting it (junk: waiting after thumbnails created)
-- A22: after A12 (until src 75.60) jumps ahead to src 148.00 - narration order
-- A24->A25: fast-forwarded src 172.50-194.00 instead of cutting it (junk: unnarrated second move and idle)
+- A2: after A1 (until src 25.50) jumps ahead to src 46.80 - narration order
+- A3: after A2 (until src 51.40) jumps ahead to src 74.00 - narration order
+- A4: after A3 (until src 76.90) jumps ahead to src 85.70 - narration order
+- A5: after A4 (until src 89.50) jumps ahead to src 90.70 - narration order
+- A6: after A5 (until src 93.00) jumps ahead to src 98.20 - narration order
+- A7: after A6 (until src 107.30) jumps ahead to src 127.00 - narration order
+- A9: after A8 (until src 132.40) jumps ahead to src 135.90 - narration order
+- A11: after A10 (until src 150.00) jumps ahead to src 169.00 - narration order
+- A12: after A11 (until src 180.50) jumps ahead to src 201.20 - narration order
+- A15: after A12 (until src 203.40) jumps ahead to src 207.50 - narration order
+- A16: after A15 (until src 210.00) jumps ahead to src 218.40 - narration order
+- A18: after A16 (until src 220.50) jumps ahead to src 241.50 - narration order
+- A19: after A18 (until src 250.30) jumps ahead to src 264.50 - narration order
+- A20: after A19 (until src 269.50) jumps ahead to src 281.30 - narration order
+
+## Judgment calls
+- Narration order wins: 15 cross-faded jumps (the recording needs ~300 s for an 87 s narration), each landing on the footage of the step being narrated. No zooms (recorder already zooms), no ripples (would land wrong on zoomed frames, see lessons script-18).
+- Anchors: A1 "presentation", A2 "circle", A3 "Duplicate", A4 "circle" (drag circle right), A5 "Duplicate", A6 "place" (drag page after page 2), A7 "first"/A8 "match" (first transition), A9 "second"/A10 "Match" (second transition), A11 "Preview" (play), A12 "Click" (Share), A15 "GIF", A16 "download", A18 "browser" (open GIF), A19 "Shorten" and A20 "MP4" from the second take at 250-297 s.
+- Not anchored/skipped: A13 Download click and A14 dropdown (L15 says Share, download and GIF in 2 s; showing all would need >2x), A17 download wait (cut), the unnarrated recolour/trim steps.
+- Intro starts at src 15.8 (1x) so the first 6.7 s play the Canva home page before the Create dialog; end at src 289 (1x).
+- Pace: no `pace:` warnings. All speeds 0.77-1.5x, no holds.
+- Remaining warnings: result-after-line for A6, A15, A18, A19 (result appears a second or two after its sentence; harmless) and A13/A14 not anchored (deliberate).
