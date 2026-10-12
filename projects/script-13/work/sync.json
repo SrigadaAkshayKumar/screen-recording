@@ -1,33 +1,197 @@
 {
  "anchors": [
-  {"action":"A1","line":2,"word":"Upload"},
-  {"action":"A3","line":2,"word":"homepage"},
-  {"action":"A5","line":2,"word":"imported"},
-  {"action":"A6","line":3,"word":"text","src_from":94.0,"prev_until":34.6},
-  {"action":"A7","line":3,"word":"menu"},
-  {"action":"A8","line":4,"word":"apply"},
-  {"action":"A9","line":5,"word":"brand","occurrence":2},
-  {"action":"A10","line":6,"word":"category"},
-  {"action":"A11","line":7,"word":"finish"},
-  {"action":"A12","line":8,"word":"select"},
-  {"action":"A13","line":8,"word":"Uploaded"},
-  {"action":"A14","line":9,"word":"weights"},
-  {"action":"A15","line":13,"word":"appearance"},
-  {"action":"A16","line":13,"word":"editable"},
-  {"action":"A17","line":13,"word":"render"},
-  {"action":"A18","line":13,"word":"PNG"},
-  {"action":"A19","line":13,"word":"using"},
-  {"action":"A20","line":14,"word":"pages"},
-  {"action":"A21","line":15,"word":"Upload"},
-  {"action":"A22","line":15,"word":"PNGs"},
-  {"action":"A24","line":15,"word":"image"},
-  {"action":"A25","line":15,"word":"each"},
-  {"action":"A26","line":18,"word":"Download"},
-  {"action":"A27","line":18,"word":"compare"}
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "select"
+  },
+  {
+   "action": "A2",
+   "line": 3,
+   "word": "Animate"
+  },
+  {
+   "action": "A3",
+   "line": 3,
+   "word": "applied"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "Slow"
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "Fast"
+  },
+  {
+   "action": "A7",
+   "line": 5,
+   "word": "play"
+  },
+  {
+   "action": "A8",
+   "line": 6,
+   "word": "intro"
+  },
+  {
+   "action": "A9",
+   "line": 6,
+   "word": "duration"
+  },
+  {
+   "action": "A10",
+   "line": 7,
+   "word": "duration"
+  },
+  {
+   "action": "A11",
+   "line": 8,
+   "word": "longer"
+  },
+  {
+   "action": "A12",
+   "line": 9,
+   "word": "adjust"
+  },
+  {
+   "action": "A13",
+   "line": 12,
+   "word": "choose"
+  },
+  {
+   "action": "A14",
+   "line": 14,
+   "word": "Extending"
+  },
+  {
+   "action": "A15",
+   "line": 17,
+   "word": "text"
+  },
+  {
+   "action": "A16",
+   "line": 18,
+   "word": "images"
+  },
+  {
+   "action": "A17",
+   "line": 19,
+   "word": "Preview"
+  },
+  {
+   "action": "A18",
+   "line": 19,
+   "word": "export"
+  },
+  {
+   "action": "A20",
+   "line": 19,
+   "word": "GIF"
+  }
  ],
  "zooms": [],
- "no_ripple": [],
- "cuts": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A4",
+  "A6",
+  "A7",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20"
+ ],
+ "cuts": [
+  {
+   "src_start": 16.6,
+   "src_end": 23.0,
+   "reason": "selected object idles before the Animate click",
+   "xfade": true
+  },
+  {
+   "src_start": 25.8,
+   "src_end": 30.6,
+   "reason": "panel idle after opening",
+   "xfade": true
+  },
+  {
+   "src_start": 69.8,
+   "src_end": 82.1,
+   "reason": "idle cursor, recorder zoom moves",
+   "xfade": true
+  },
+  {
+   "src_start": 85.3,
+   "src_end": 95.0,
+   "reason": "preview done, idle",
+   "xfade": true
+  },
+  {
+   "src_start": 98.9,
+   "src_end": 110.3,
+   "reason": "cursor idle on On exit",
+   "xfade": true
+  },
+  {
+   "src_start": 116.0,
+   "src_end": 125.0,
+   "reason": "repeat preset clicks, switch to text object",
+   "xfade": true
+  },
+  {
+   "src_start": 139.5,
+   "src_end": 168.5,
+   "reason": "idle and preset browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 178.8,
+   "src_end": 190.0,
+   "reason": "intensity slider wandering",
+   "xfade": true
+  },
+  {
+   "src_start": 202.0,
+   "src_end": 209.0,
+   "reason": "cursor idles on the extended timeline (too long to fast-forward within 2x)",
+   "xfade": true
+  },
+  {
+   "src_start": 215.8,
+   "src_end": 245.3,
+   "reason": "long slider retakes on the text",
+   "xfade": true
+  },
+  {
+   "src_start": 247.6,
+   "src_end": 258.4,
+   "reason": "browsing animations before preview",
+   "xfade": true
+  },
+  {
+   "src_start": 262.0,
+   "src_end": 263.3,
+   "reason": "preview plays",
+   "xfade": true
+  },
+  {
+   "src_start": 266.3,
+   "src_end": 273.0,
+   "reason": "download panel and file-type dropdown opening; resume with the list open",
+   "xfade": true
+  }
+ ],
  "ff_max": 2.0,
- "use_junk": true
+ "use_junk": true,
+ "src_start": 9.5,
+ "src_end": 276.0
 }

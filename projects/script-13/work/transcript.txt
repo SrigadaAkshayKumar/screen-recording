@@ -1,23 +1,20 @@
-This tutorial shows you how to handle font changes when importing a PDF into Canva and
-how to preserve its appearance when editing the text is unnecessary.
-Upload the PDF from Canva's homepage, then open the imported design.
-Select the affected text and check the font menu.
-If the original font is available, apply it and compare the size, spacing and line breaks
-with the PDF.
-If the font is missing and your plan and role support font uploads, go to Brand, open
-your brand kit and find Fonts.
-Choose Add to category, then upload a font.
-Upload the licensed font file and wait for it to finish.
-Return to the design, select the affected text and choose the font under Uploaded Fonts.
-Repeat for the required styles or weights.
+This tutorial shows you how to make an animation move faster or slower in Canva.
+Open your design and select the animated object.
+Click Animate in the toolbar, then select its applied animation to view the available controls.
+Some animations offer speed presets such as Slow, Medium and Fast.
+Choose Slow for a more gradual entrance or Fast for a quicker reveal, then play the preview.
+Other supported effects provide intro and outro duration controls.
+A shorter intro duration makes the entrance happen more quickly.
+A longer duration spreads the same entrance over more time.
+If the object uses Create and Animation, open its custom path settings and adjust the animation speed slider.
+Preview the entire path after each change so the object reaches its intended destination at a useful pace.
+Different effects provide different controls.
+If your selected animation does not offer a speed adjustment,
+choose another effect that does rather than looking for one universal setting for every animation.
 Here's the part many tutorials skip.
-An editable PDF import cannot guarantee identical fonts and layout.
-Adding the font does not automatically repair every text box.
-If preserving the page's appearance matters more than editable text, render the original
-PDF pages as high resolution PNG images using a PDF tool.
-Create Canva pages with the same proportions.
-Upload the PNGs and place one image edge to edge on each page.
-This image method keeps the rendered lettering but the original text becomes part of the
-image.
-Add new Canva text above it if needed.
-Download a test page and compare it with the original before processing the entire document.
+Extending the object's timeline layer controls how long it remains visible.
+That is separate from the speed of its entrance or custom movement.
+Adjust speed in animate and adjust visibility on the timeline.
+For text, make sure the faster setting still leaves the message readable.
+For images, watch for important details moving off the canvas.
+Preview the design from the beginning, then export as MP4 video or GIF to keep the adjusted motion.
