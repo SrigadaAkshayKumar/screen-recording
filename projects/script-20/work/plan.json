@@ -193,17 +193,24 @@
     },
     {
       "mode": "speed",
-      "src_start": 269.0,
-      "src_end": 269.9,
+      "src_start": 270.4,
+      "src_end": 271.6,
       "xfade": true,
       "out_start": 91.64,
       "out_end": 92.48
     },
     {
       "mode": "speed",
-      "src_start": 269.9,
-      "src_end": 273.159,
+      "src_start": 271.6,
+      "src_end": 273.3,
       "out_start": 92.48,
+      "out_end": 93.4
+    },
+    {
+      "mode": "speed",
+      "src_start": 273.3,
+      "src_end": 277.0,
+      "out_start": 93.4,
       "out_end": 95.739
     }
   ],
@@ -232,7 +239,7 @@
     "mode": "play",
     "until": 13.38
   },
-  "outro": null,
+  "outro": "ends on the Download panel with File type MP4 Video selected (src 277)",
   "sync": [
     {
       "action": "A1",

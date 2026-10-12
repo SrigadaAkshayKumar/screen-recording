@@ -8,8 +8,8 @@
   "segments": [
     {
       "mode": "speed",
-      "src_start": 0.0,
-      "src_end": 5.2,
+      "src_start": 6.7,
+      "src_end": 13.9,
       "out_start": 0.0,
       "out_end": 4.511
     },
@@ -17,7 +17,6 @@
       "mode": "speed",
       "src_start": 13.9,
       "src_end": 16.7,
-      "xfade": true,
       "out_start": 4.511,
       "out_end": 6.94
     },
@@ -418,10 +417,7 @@
   ],
   "zooms": [],
   "ripples": [],
-  "intro": {
-    "mode": "play",
-    "until": 6.94
-  },
+  "intro": "opens on the editor timeline being scrubbed (src 6.7-13.9); the static first 6.7 s of the recording are skipped",
   "outro": null,
   "sync": [
     {

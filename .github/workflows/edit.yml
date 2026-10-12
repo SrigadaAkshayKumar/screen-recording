@@ -59,7 +59,7 @@ jobs:
     needs: list
     if: needs.list.outputs.projects != '[]'
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 240
     strategy:
       max-parallel: 1        # one after another
       fail-fast: false       # a failed project does not stop the rest
@@ -90,6 +90,10 @@ jobs:
       - name: Configure rclone
         env: { RCLONE_CONF: '${{ secrets.RCLONE_CONF }}' }
         run: mkdir -p ~/.config/rclone && printf '%s\n' "$RCLONE_CONF" > ~/.config/rclone/rclone.conf
+      - name: Install Claude Code
+        if: env.HAS_AI == 'true'
+        run: npm install -g @anthropic-ai/claude-code
+
       - name: Download inputs from Drive
         run: |
           mkdir -p inbox
@@ -97,21 +101,35 @@ jobs:
           get "$VIDEO"; get "$AUDIO"; get "$SCRIPT"; get "$CLICKS"
           ls -la inbox
 
-      - name: Export frames (temporary debug)
-        run: |
-          mkdir -p dbg
-          case "$P" in
-            script-18) T="0 2 4 4.8 5.5 7 8 10 12 13.2 13.9 14.5 15.2 16 16.7 18" ;;
-            script-20) T="266 267.5 269 269.9 270.4 271 272 273 274 275.5 277 278.5 280 281 281.5 281.8 282.3 283 283.8 284.3" ;;
-          esac
-          for t in $T; do ffmpeg -v error -ss $t -i inbox/$P.mp4 -frames:v 1 -vf "scale=960:-1,drawtext=text='$t':x=10:y=10:fontsize=36:fontcolor=yellow:box=1" dbg/$P-$t.jpg; done
-      - name: Install Claude Code
-        run: npm install -g @anthropic-ai/claude-code
-      - name: Describe frames
+      - name: Edit
         env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDE_MODEL: ${{ inputs.model }}
         run: |
-          claude -p "Read every jpg in dbg/ (the yellow number in each is the recording time in seconds). For each frame, in time order, write one line: '<time>: <what the Canva screen shows: which page/panel/dialog is open, what is selected or highlighted, file type dropdown value if visible, where the mouse cursor is and what it hovers>'. Then one line per pair of consecutive frames saying whether anything visible changed. Plain text only, no preamble." --allowedTools Read,Glob > desc.txt || true
-          cat desc.txt
-          msg=$(python3 -c "import sys;print(open('desc.txt').read().replace('%','%25').replace('\r','').replace('\n','%0A'))")
-          echo "::notice title=frames-$P::$msg"
+          rc=0; python tools/cloud_run.py run "$P" || rc=$?
+          if [ "$rc" = 3 ]; then echo "::warning::$P needs the analyze/sync stages: add ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN, or run /screencast-edit locally and push work/"; exit 0; fi
+          exit $rc
+
+      - name: Upload results to Drive
+        if: always()
+        run: |
+          test -d "projects/$P" || exit 0
+          rclone sync "projects/$P/output" "$DRIVE/output/$P" --exclude "work/**" --exclude "preview*.mp4" -v
+          rclone sync "projects/$P/work" "$DRIVE/output/$P/work" --exclude "frames/**" -v
+          echo "### $P: $(cat projects/$P/output/cloud-status.txt 2>/dev/null || echo 'no status')" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit work files back to the repo
+        if: always()
+        run: |
+          test -d "projects/$P/work" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "projects/$P/work" docs/lessons.md   # the edit skill may add a lesson
+          git diff --cached --quiet && exit 0
+          git commit -m "cloud: work files for $P"
+          for i in 1 2 3; do
+            git pull --rebase --autostash -q && git push -q && exit 0
+            git rebase --abort 2>/dev/null || true; sleep 5
+          done
+          echo "::warning::could not push work files for $P (they are also in Drive output/$P/work)"
