@@ -1,34 +1,188 @@
 {
- "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 247.233},
- "sync": {"clicks_offset": 0, "source": "frames"},
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 213.167
+ },
+ "sync": {
+  "source": "frames"
+ },
  "actions": [
-  {"id":"A1","t_click":15.1,"x":85,"y":580,"kind":"click","target":"Projects in sidebar","result":"All projects page loads","t_result_visible":15.5,"confidence":"medium"},
-  {"id":"A2","t_click":16.65,"x":1736,"y":790,"kind":"click","target":"Add new (+) button","result":"Add new menu opens","t_result_visible":17.0,"confidence":"medium"},
-  {"id":"A3","t_click":18.3,"x":1474,"y":771,"kind":"click","target":"Upload files menu item","result":"file picker opens","t_result_visible":18.9,"confidence":"medium"},
-  {"id":"A4","t_click":24.9,"x":880,"y":330,"kind":"click","target":"sample-resume PDF in file picker","result":"file selected","t_result_visible":25.0,"confidence":"medium"},
-  {"id":"A5","t_click":25.95,"x":1096,"y":585,"kind":"click","target":"Open button","result":"picker closes, upload starts","t_result_visible":26.4,"confidence":"medium"},
-  {"id":"A6","t_click":26.7,"x":1494,"y":873,"kind":"wait","target":"upload/import progress card","result":"item uploaded, PDF thumbnail in Recents","t_result_visible":32.5,"confidence":"medium"},
-  {"id":"A7","t_click":33.6,"x":863,"y":543,"kind":"click","target":"imported sample-resume.pdf design","result":"design opens in editor","t_result_visible":36.4,"confidence":"medium"},
-  {"id":"A8","t_click":43.3,"x":1000,"y":600,"kind":"scroll","target":"document page","result":"page zoomed and scrolled through","t_result_visible":44.5,"confidence":"low"},
-  {"id":"A9","t_click":53.2,"x":713,"y":592,"kind":"click","target":"text area on the page","result":"text block selected, text toolbar appears","t_result_visible":54.6,"confidence":"medium"},
-  {"id":"A10","t_click":72.0,"x":1096,"y":335,"kind":"click","target":"font size control","result":"font size changes","t_result_visible":72.6,"confidence":"low"},
-  {"id":"A11","t_click":74.8,"x":1164,"y":335,"kind":"click","target":"spacing / alignment button","result":"Letter spacing panel opens","t_result_visible":75.0,"confidence":"medium"},
-  {"id":"A12","t_click":76.0,"x":1050,"y":600,"kind":"drag","x2":1090,"y2":600,"t_end":77.9,"target":"Line spacing slider","result":"line spacing value changes","t_result_visible":78.0,"confidence":"low"},
-  {"id":"A13","t_click":213.1,"x":1810,"y":233,"kind":"click","target":"Share button","result":"Share panel opens","t_result_visible":214.0,"confidence":"medium"},
-  {"id":"A14","t_click":214.7,"x":1227,"y":858,"kind":"click","target":"Download in Share panel","result":"Download panel opens","t_result_visible":215.4,"confidence":"medium"},
-  {"id":"A15","t_click":216.3,"x":1640,"y":330,"kind":"click","target":"File type dropdown","result":"file type list opens","t_result_visible":217.0,"confidence":"medium"},
-  {"id":"A16","t_click":220.2,"x":1510,"y":500,"kind":"click","target":"PDF file type option","result":"PDF selected, list closes","t_result_visible":221.0,"confidence":"low"},
-  {"id":"A17","t_click":233.6,"x":1720,"y":330,"kind":"click","target":"Download button","result":"PDF Standard download starts","t_result_visible":234.2,"confidence":"low"},
-  {"id":"A18","t_click":240.7,"x":1324,"y":170,"kind":"click","target":"downloaded sample-resume.pdf in downloads panel","result":"PDF opens in viewer","t_result_visible":241.8,"confidence":"low"}
+  {
+   "id": "A1",
+   "t_click": 21.5,
+   "x": 979,
+   "y": 415,
+   "kind": "click",
+   "target": "animated Welcome text",
+   "result": "text selected, toolbar appears",
+   "t_result_visible": 22.2,
+   "confidence": "high"
+  },
+  {
+   "id": "A2",
+   "t_click": 35.4,
+   "x": 255,
+   "y": 795,
+   "kind": "click",
+   "target": "Welcome layer in the video timeline",
+   "result": "playhead/label follows the layer",
+   "t_result_visible": 35.45,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 38.9,
+   "x": 255,
+   "y": 795,
+   "kind": "drag",
+   "target": "whole Welcome layer",
+   "result": "cursor drags along the layer on the timeline",
+   "t_result_visible": 42.3,
+   "confidence": "low",
+   "x2": 350,
+   "y2": 795,
+   "t_end": 42.0
+  },
+  {
+   "id": "A4",
+   "t_click": 43.4,
+   "x": 350,
+   "y": 795,
+   "kind": "drag",
+   "target": "right edge of the layer",
+   "result": "layer end handle dragged, 7.4s label then shorter layer",
+   "t_result_visible": 45.2,
+   "confidence": "medium",
+   "x2": 320,
+   "y2": 795,
+   "t_end": 45.0
+  },
+  {
+   "id": "A5",
+   "t_click": 109.3,
+   "x": 979,
+   "y": 415,
+   "kind": "click",
+   "target": "Welcome text (selected again)",
+   "result": "toolbar with Animate appears",
+   "t_result_visible": 109.55,
+   "confidence": "high"
+  },
+  {
+   "id": "A6",
+   "t_click": 110.9,
+   "x": 1345,
+   "y": 227,
+   "kind": "click",
+   "target": "Animate button in the toolbar",
+   "result": "Animate panel opens on the left",
+   "t_result_visible": 111.5,
+   "confidence": "high"
+  },
+  {
+   "id": "A7",
+   "t_click": 114.2,
+   "x": 175,
+   "y": 737,
+   "kind": "click",
+   "target": "Speed slider of the Typewriter effect",
+   "result": "slider handle grabbed",
+   "t_result_visible": 114.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 115.0,
+   "x": 175,
+   "y": 737,
+   "kind": "drag",
+   "target": "Speed slider",
+   "result": "slider dragged to the short end, preview types W-e-l...",
+   "t_result_visible": 116.3,
+   "confidence": "medium",
+   "x2": 110,
+   "y2": 737,
+   "t_end": 116.0
+  },
+  {
+   "id": "A9",
+   "t_click": 131.2,
+   "x": 880,
+   "y": 447,
+   "kind": "click",
+   "target": "welcome text in the presentation design",
+   "result": "right-click context menu opens",
+   "t_result_visible": 131.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 133.2,
+   "x": 1000,
+   "y": 480,
+   "kind": "click",
+   "target": "Show element timing menu item",
+   "result": "element timing bar appears under the page",
+   "t_result_visible": 134.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 144.4,
+   "x": 470,
+   "y": 800,
+   "kind": "click",
+   "target": "layer on the video timeline",
+   "result": "timeline with layer and playhead label",
+   "t_result_visible": 145.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 164.3,
+   "x": 1400,
+   "y": 227,
+   "kind": "click",
+   "target": "Animate button for the bird graphic",
+   "result": "Animate panel opens (Rise, Pan, Fade)",
+   "t_result_visible": 165.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A13",
+   "t_click": 166.1,
+   "x": 200,
+   "y": 520,
+   "kind": "click",
+   "target": "Speed presets Slow / Medium / Fast",
+   "result": "presets shown, Medium highlighted",
+   "t_result_visible": 166.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 193.0,
+   "x": 1000,
+   "y": 740,
+   "kind": "click",
+   "target": "Play button in the preview",
+   "result": "animation plays on the page (Wel...)",
+   "t_result_visible": 193.4,
+   "confidence": "high"
+  }
  ],
  "junk": [
-  {"start":19.3,"end":24.5,"reason":"browsing file picker","ff":true},
-  {"start":37.0,"end":42.8,"reason":"idle on loaded doc","ff":true},
-  {"start":54.8,"end":71.0,"reason":"selection idle, cursor wandering","ff":true},
-  {"start":80.5,"end":103.0,"reason":"idle on doc","ff":true},
-  {"start":104.0,"end":208.0,"reason":"off-topic: image insert, retake with another PDF (ID card)"},
-  {"start":209.0,"end":212.7,"reason":"idle on doc before Share","ff":true},
-  {"start":221.0,"end":233.3,"reason":"idle on download panel","ff":true},
-  {"start":234.5,"end":239.5,"reason":"download in progress","ff":true}
+  {
+   "start": 8.9,
+   "end": 20.4,
+   "reason": "first scrub over the timeline before the text is selected (retake; text selected at 21.5)"
+  },
+  {
+   "start": 208.6,
+   "end": 213.167,
+   "reason": "recording ends on the desktop / recorder stop"
+  }
  ]
 }

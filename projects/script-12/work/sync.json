@@ -1,27 +1,99 @@
 {
  "anchors": [
-  {"action":"A1","line":2,"word":"Projects"},
-  {"action":"A2","line":2,"word":"Add"},
-  {"action":"A3","line":2,"word":"Upload"},
-  {"action":"A4","line":3,"word":"PDF"},
-  {"action":"A5","line":3,"word":"Open"},
-  {"action":"A7","line":6,"word":"Open"},
-  {"action":"A8","line":7,"word":"scroll"},
-  {"action":"A9","line":9,"word":"text"},
-  {"action":"A10","line":10,"word":"size"},
-  {"action":"A11","line":10,"word":"alignment"},
-  {"action":"A13","line":17,"word":"Share"},
-  {"action":"A14","line":17,"word":"Download"},
-  {"action":"A15","line":18,"word":"Choose"},
-  {"action":"A16","line":18,"word":"PDF","occurrence":2},
-  {"action":"A17","line":19,"word":"Download"},
-  {"action":"A18","line":19,"word":"PDF"}
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "select"
+  },
+  {
+   "action": "A2",
+   "line": 3,
+   "word": "layer."
+  },
+  {
+   "action": "A4",
+   "line": 6,
+   "word": "edge"
+  },
+  {
+   "action": "A5",
+   "line": 8,
+   "word": "select",
+   "src_from": 106.0,
+   "prev_until": 50.0
+  },
+  {
+   "action": "A6",
+   "line": 8,
+   "word": "animate."
+  },
+  {
+   "action": "A8",
+   "line": 9,
+   "word": "duration"
+  },
+  {
+   "action": "A13",
+   "line": 11,
+   "word": "presets,",
+   "src_from": 162.0,
+   "prev_until": 121.1
+  },
+  {
+   "action": "A9",
+   "line": 12,
+   "word": "right",
+   "src_from": 129.0,
+   "prev_until": 170.9
+  },
+  {
+   "action": "A10",
+   "line": 12,
+   "word": "Show"
+  },
+  {
+   "action": "A11",
+   "line": 13,
+   "word": "timeline",
+   "src_from": 143.0,
+   "prev_until": 135.4
+  },
+  {
+   "action": "A14",
+   "line": 17,
+   "word": "Preview",
+   "src_from": 182.2,
+   "prev_until": 147.4
+  }
  ],
  "zooms": [],
- "no_ripple": [],
- "cuts": [],
- "ff_max": 3.5,
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14"
+ ],
+ "cuts": [
+  {
+   "src_start": 24.2,
+   "src_end": 32.0,
+   "reason": "cursor idles over the Animate tooltip"
+  }
+ ],
+ "ff_max": 2.0,
  "use_junk": true,
- "src_start": 8.5,
- "src_end": 245.5
+ "src_end": 199.7,
+ "style": {
+  "ripple_color": "#2F80ED"
+ }
 }
