@@ -9,7 +9,7 @@
   "height": 1080,
   "fps": 30.0,
   "frames": 2872,
-  "elapsed_s": 71.356,
+  "elapsed_s": 71.346,
   "zoom_peaks": [],
   "joins": [
     {
@@ -164,6 +164,12 @@
     },
     {
       "out_t": 92.48,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 93.4,
       "cut": false,
       "xfade": false,
       "into": "speed"
