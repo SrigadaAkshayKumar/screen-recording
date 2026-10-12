@@ -1,0 +1,3 @@
+# Cloud jobs in one batch each append to the lessons file from the same base commit;
+# union-merge keeps every lesson instead of failing the rebase in the save step.
+docs/lessons.md merge=union
