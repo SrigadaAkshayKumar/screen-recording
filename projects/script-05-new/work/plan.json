@@ -1,0 +1,316 @@
+{
+  "output": {
+    "duration": 92.735,
+    "fps": 30.0,
+    "width": 1920,
+    "height": 1080
+  },
+  "segments": [
+    {
+      "mode": "speed",
+      "src_start": 1.8,
+      "src_end": 35.7,
+      "out_start": 0.0,
+      "out_end": 26.248
+    },
+    {
+      "mode": "speed",
+      "src_start": 47.2,
+      "src_end": 47.5,
+      "xfade": true,
+      "out_start": 26.248,
+      "out_end": 26.48
+    },
+    {
+      "mode": "speed",
+      "src_start": 47.5,
+      "src_end": 51.5,
+      "out_start": 26.48,
+      "out_end": 29.86
+    },
+    {
+      "mode": "speed",
+      "src_start": 51.5,
+      "src_end": 55.2,
+      "out_start": 29.86,
+      "out_end": 32.224
+    },
+    {
+      "mode": "speed",
+      "src_start": 60.5,
+      "src_end": 60.9,
+      "xfade": true,
+      "out_start": 32.224,
+      "out_end": 32.48
+    },
+    {
+      "mode": "speed",
+      "src_start": 60.9,
+      "src_end": 63.8,
+      "out_start": 32.48,
+      "out_end": 34.866
+    },
+    {
+      "mode": "speed",
+      "src_start": 66.4,
+      "src_end": 67.6,
+      "xfade": true,
+      "out_start": 34.866,
+      "out_end": 35.853
+    },
+    {
+      "mode": "speed",
+      "src_start": 81.5,
+      "src_end": 81.8,
+      "xfade": true,
+      "out_start": 35.853,
+      "out_end": 36.1
+    },
+    {
+      "mode": "speed",
+      "src_start": 81.8,
+      "src_end": 84.6,
+      "out_start": 36.1,
+      "out_end": 38.231
+    },
+    {
+      "mode": "speed",
+      "src_start": 87.0,
+      "src_end": 87.8,
+      "xfade": true,
+      "out_start": 38.231,
+      "out_end": 38.84
+    },
+    {
+      "mode": "speed",
+      "src_start": 87.8,
+      "src_end": 88.4,
+      "out_start": 38.84,
+      "out_end": 39.52
+    },
+    {
+      "mode": "speed",
+      "src_start": 88.4,
+      "src_end": 98.5,
+      "out_start": 39.52,
+      "out_end": 47.656
+    },
+    {
+      "mode": "speed",
+      "src_start": 110.6,
+      "src_end": 111.4,
+      "xfade": true,
+      "out_start": 47.656,
+      "out_end": 48.3
+    },
+    {
+      "mode": "speed",
+      "src_start": 111.4,
+      "src_end": 113.6,
+      "out_start": 48.3,
+      "out_end": 50.912
+    },
+    {
+      "mode": "speed",
+      "src_start": 118.6,
+      "src_end": 119.6,
+      "xfade": true,
+      "out_start": 50.912,
+      "out_end": 52.1
+    },
+    {
+      "mode": "speed",
+      "src_start": 119.6,
+      "src_end": 125.7,
+      "out_start": 52.1,
+      "out_end": 56.34
+    },
+    {
+      "mode": "speed",
+      "src_start": 125.7,
+      "src_end": 130.7,
+      "out_start": 56.34,
+      "out_end": 59.54
+    },
+    {
+      "mode": "speed",
+      "src_start": 138.0,
+      "src_end": 139.0,
+      "xfade": true,
+      "out_start": 59.54,
+      "out_end": 60.18
+    },
+    {
+      "mode": "speed",
+      "src_start": 139.0,
+      "src_end": 145.0,
+      "out_start": 60.18,
+      "out_end": 64.04
+    },
+    {
+      "mode": "speed",
+      "src_start": 145.0,
+      "src_end": 152.0,
+      "out_start": 64.04,
+      "out_end": 69.335
+    },
+    {
+      "mode": "speed",
+      "src_start": 141.0,
+      "src_end": 158.8,
+      "xfade": true,
+      "out_start": 69.335,
+      "out_end": 82.8
+    },
+    {
+      "mode": "speed",
+      "src_start": 158.8,
+      "src_end": 162.0,
+      "out_start": 82.8,
+      "out_end": 85.847
+    },
+    {
+      "mode": "speed",
+      "src_start": 196.8,
+      "src_end": 198.2,
+      "xfade": true,
+      "out_start": 85.847,
+      "out_end": 87.18
+    },
+    {
+      "mode": "speed",
+      "src_start": 198.2,
+      "src_end": 199.65,
+      "out_start": 87.18,
+      "out_end": 88.63
+    },
+    {
+      "mode": "hold",
+      "src_start": 199.65,
+      "src_end": 199.65,
+      "out_start": 88.63,
+      "out_end": 89.97
+    },
+    {
+      "mode": "speed",
+      "src_start": 199.65,
+      "src_end": 202.415,
+      "out_start": 89.97,
+      "out_end": 92.735
+    }
+  ],
+  "zooms": [],
+  "ripples": [],
+  "intro": {
+    "mode": "play",
+    "until": 26.48
+  },
+  "outro": null,
+  "sync": [
+    {
+      "action": "A1",
+      "line": 5,
+      "word": "open",
+      "word_index": 71,
+      "word_t": 26.48
+    },
+    {
+      "action": "A2",
+      "line": 6,
+      "word": "blur",
+      "word_index": 81,
+      "word_t": 29.86
+    },
+    {
+      "action": "A3",
+      "line": 6,
+      "word": "export",
+      "word_index": 89,
+      "word_t": 32.48
+    },
+    {
+      "action": "A5",
+      "line": 7,
+      "word": "Upload",
+      "word_index": 96,
+      "word_t": 36.1
+    },
+    {
+      "action": "A6",
+      "line": 8,
+      "word": "first",
+      "word_index": 105,
+      "word_t": 38.84
+    },
+    {
+      "action": "A7",
+      "line": 8,
+      "word": "enlarge",
+      "word_index": 107,
+      "word_t": 39.52
+    },
+    {
+      "action": "A8",
+      "line": 10,
+      "word": "sharp",
+      "word_index": 137,
+      "word_t": 48.3
+    },
+    {
+      "action": "A9",
+      "line": 11,
+      "word": "resize",
+      "word_index": 148,
+      "word_t": 52.1
+    },
+    {
+      "action": "A10",
+      "line": 12,
+      "word": "center",
+      "word_index": 161,
+      "word_t": 56.34
+    },
+    {
+      "action": "A11",
+      "line": 13,
+      "word": "timeline",
+      "word_index": 173,
+      "word_t": 60.18
+    },
+    {
+      "action": "A12",
+      "line": 14,
+      "word": "Keep",
+      "word_index": 184,
+      "word_t": 64.04
+    },
+    {
+      "action": "A13",
+      "line": 19,
+      "word": "Play",
+      "word_index": 241,
+      "word_t": 82.8
+    },
+    {
+      "action": "A14",
+      "line": 20,
+      "word": "Once",
+      "word_index": 250,
+      "word_t": 87.18
+    },
+    {
+      "action": "A15",
+      "line": 20,
+      "word": "download",
+      "word_index": 261,
+      "word_t": 90.02
+    }
+  ],
+  "style": {},
+  "notes": [
+    "A13: after A12 (until src 152.00) jumps back to src 141.00 - narration order",
+    "A14: after A13 (until src 162.00) jumps ahead to src 196.80 - narration order"
+  ],
+  "generated_by": "tools/plan_builder.py from work/sync.json",
+  "generated_hash": "aa0c90f06f3c"
+}

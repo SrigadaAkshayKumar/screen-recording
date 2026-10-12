@@ -1,0 +1,100 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 5,
+   "word": "open"
+  },
+  {
+   "action": "A2",
+   "line": 6,
+   "word": "blur"
+  },
+  {
+   "action": "A3",
+   "line": 6,
+   "word": "export"
+  },
+  {
+   "action": "A5",
+   "line": 7,
+   "word": "Upload"
+  },
+  {
+   "action": "A6",
+   "line": 8,
+   "word": "first"
+  },
+  {
+   "action": "A7",
+   "line": 8,
+   "word": "enlarge"
+  },
+  {
+   "action": "A8",
+   "line": 10,
+   "word": "sharp"
+  },
+  {
+   "action": "A9",
+   "line": 11,
+   "word": "resize"
+  },
+  {
+   "action": "A10",
+   "line": 12,
+   "word": "center"
+  },
+  {
+   "action": "A11",
+   "line": 13,
+   "word": "timeline"
+  },
+  {
+   "action": "A12",
+   "line": 14,
+   "word": "Keep"
+  },
+  {
+   "action": "A13",
+   "line": 19,
+   "word": "Play",
+   "src_from": 141.0,
+   "prev_until": 152.0
+  },
+  {
+   "action": "A14",
+   "line": 20,
+   "word": "Once",
+   "src_from": 196.8,
+   "prev_until": 162.0
+  },
+  {
+   "action": "A15",
+   "line": 20,
+   "word": "download"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A4"
+ ],
+ "cuts": [],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 1.8
+}

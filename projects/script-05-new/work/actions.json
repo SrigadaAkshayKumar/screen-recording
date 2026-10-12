@@ -1,0 +1,239 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 206.0
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 47.5,
+   "x": 1010,
+   "y": 1062,
+   "kind": "click",
+   "target": "CapCut editor (taskbar)",
+   "result": "CapCut online editor with the clip on the timeline",
+   "t_result_visible": 48.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 51.5,
+   "x": 1085,
+   "y": 315,
+   "kind": "drag",
+   "x2": 1363,
+   "y2": 302,
+   "t_end": 54.4,
+   "target": "Blur slider in the video effect",
+   "result": "preview turns blurred",
+   "t_result_visible": 54.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 60.9,
+   "x": 1830,
+   "y": 70,
+   "kind": "click",
+   "target": "Export button",
+   "result": "export dialog opens",
+   "t_result_visible": 63.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 67.0,
+   "x": 1240,
+   "y": 918,
+   "kind": "click",
+   "target": "Export button in the dialog",
+   "result": "export starts",
+   "t_result_visible": 67.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 81.8,
+   "x": 63,
+   "y": 720,
+   "kind": "click",
+   "target": "Uploads tab",
+   "result": "uploads panel opens",
+   "t_result_visible": 82.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 87.8,
+   "x": 120,
+   "y": 700,
+   "kind": "click",
+   "target": "blurred video thumbnail",
+   "result": "blurred clip is added to the canvas",
+   "t_result_visible": 88.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 88.4,
+   "x": 1050,
+   "y": 1000,
+   "kind": "drag",
+   "x2": 1500,
+   "y2": 1060,
+   "t_end": 89.3,
+   "target": "corner handle of the blurred clip",
+   "result": "blurred clip covers the canvas",
+   "t_result_visible": 89.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 111.4,
+   "x": 570,
+   "y": 640,
+   "kind": "click",
+   "target": "sharp video thumbnail",
+   "result": "sharp clip added above the blurred one",
+   "t_result_visible": 112.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 119.6,
+   "x": 1250,
+   "y": 790,
+   "kind": "drag",
+   "x2": 1250,
+   "y2": 690,
+   "t_end": 122.6,
+   "target": "resize handle of the sharp clip",
+   "result": "sharp clip resized to fit",
+   "t_result_visible": 122.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 125.7,
+   "x": 900,
+   "y": 520,
+   "kind": "drag",
+   "x2": 960,
+   "y2": 500,
+   "t_end": 128.0,
+   "target": "sharp clip (centering)",
+   "result": "sharp clip centered",
+   "t_result_visible": 128.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 139.0,
+   "x": 424,
+   "y": 623,
+   "kind": "drag",
+   "x2": 440,
+   "y2": 630,
+   "t_end": 140.5,
+   "target": "clip on the timeline",
+   "result": "timeline start points adjusted",
+   "t_result_visible": 140.7,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 145.0,
+   "x": 386,
+   "y": 830,
+   "kind": "drag",
+   "x2": 420,
+   "y2": 830,
+   "t_end": 147.5,
+   "target": "clip end handle on the timeline",
+   "result": "duration matched",
+   "t_result_visible": 147.7,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 158.8,
+   "x": 979,
+   "y": 720,
+   "kind": "click",
+   "target": "Play button",
+   "result": "design plays",
+   "t_result_visible": 159.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 198.2,
+   "x": 1815,
+   "y": 178,
+   "kind": "click",
+   "target": "Share button",
+   "result": "share panel opens",
+   "t_result_visible": 199.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 199.7,
+   "x": 1211,
+   "y": 793,
+   "kind": "click",
+   "target": "Download in the share panel",
+   "result": "download settings open",
+   "t_result_visible": 201.6,
+   "confidence": "medium"
+  }
+ ],
+ "junk": [
+  {
+   "start": 35.7,
+   "end": 47.2,
+   "reason": "idle on the Canva design before switching to CapCut"
+  },
+  {
+   "start": 55.2,
+   "end": 60.5,
+   "reason": "idle on blur slider after setting it"
+  },
+  {
+   "start": 63.8,
+   "end": 66.4,
+   "reason": "export dialog idle"
+  },
+  {
+   "start": 67.6,
+   "end": 81.5,
+   "reason": "export progress, file exists popup, back to Canva (loading)"
+  },
+  {
+   "start": 84.6,
+   "end": 87.0,
+   "reason": "file picker browsing and upload finishing"
+  },
+  {
+   "start": 98.5,
+   "end": 110.6,
+   "reason": "retake: removed and re-added clips, timeline experiments"
+  },
+  {
+   "start": 113.6,
+   "end": 118.6,
+   "reason": "cursor idles over the canvas"
+  },
+  {
+   "start": 130.7,
+   "end": 138.0,
+   "reason": "idle review of the result"
+  }
+ ]
+}
