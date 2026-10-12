@@ -1,31 +1,98 @@
 {
  "anchors": [
-  {"action":"A1","line":2,"word":"First"},
-  {"action":"A2","line":2,"word":"confirm"},
-  {"action":"A3","line":4,"word":"Uploads"},
-  {"action":"A4","line":5,"word":"Upload"},
-  {"action":"A5","line":5,"word":"choose"},
-  {"action":"A6","line":5,"word":"Open"},
-  {"action":"A8","line":7,"word":"click"},
-  {"action":"A9","line":8,"word":"Drag"},
-  {"action":"A10","line":8,"word":"then"},
-  {"action":"A12","line":9,"word":"Play"},
-  {"action":"A13","line":10,"word":"inspect"},
-  {"action":"A14","line":10,"word":"adjust"},
-  {"action":"A15","line":13,"word":"download"},
-  {"action":"A16","line":13,"word":"preserve"},
-  {"action":"A17","line":14,"word":"PNG"},
-  {"action":"A18","line":15,"word":"GIF"},
-  {"action":"A19","line":15,"word":"MP4"},
-  {"action":"A20","line":17,"word":"Share"},
-  {"action":"A21","line":17,"word":"Download"},
-  {"action":"A22","line":17,"word":"format"},
-  {"action":"A23","line":18,"word":"Open"},
-  {"action":"A26","line":18,"word":"movement"}
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "box"
+  },
+  {
+   "action": "A2",
+   "line": 4,
+   "word": "animate"
+  },
+  {
+   "action": "A3",
+   "line": 5,
+   "word": "remove"
+  },
+  {
+   "action": "A4",
+   "line": 6,
+   "word": "stay"
+  },
+  {
+   "action": "A5",
+   "line": 7,
+   "word": "Preview"
+  },
+  {
+   "action": "A6",
+   "line": 8,
+   "word": "empty"
+  },
+  {
+   "action": "A7",
+   "line": 9,
+   "word": "animate"
+  },
+  {
+   "action": "A9",
+   "line": 10,
+   "word": "text"
+  },
+  {
+   "action": "A11",
+   "line": 11,
+   "word": "remove"
+  },
+  {
+   "action": "A12",
+   "line": 13,
+   "word": "layer"
+  },
+  {
+   "action": "A13",
+   "line": 15,
+   "word": "Extend"
+  },
+  {
+   "action": "A14",
+   "line": 16,
+   "word": "turn"
+  },
+  {
+   "action": "A15",
+   "line": 16,
+   "word": "waiting"
+  },
+  {
+   "action": "A16",
+   "line": 20,
+   "word": "Play"
+  }
  ],
  "zooms": [],
- "no_ripple": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16"
+ ],
  "cuts": [],
- "ff_max": 4.0,
- "use_junk": true
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 16.8,
+ "src_end": 182.5
 }

@@ -1,15 +1,6 @@
-# Analyze notes (script-11)
-
-- No click log: all click times/positions were read from frames. Positions are only approximate because the
-  recorder zooms the footage (baked-in camera moves), so the same control sits at different pixels depending on
-  the zoom state. Ripples may be off by tens of pixels. Low confidence: A9, A10 (resize/move drags), A14 (timeline drag).
-- The recorder has baked-in auto-zoom -> plan uses ripples only, no zooms (lessons: script-1).
-- Recording is 152.6 s, voiceover 79.1 s. Dead time: 34.8-47.8 (cursor rests by Play), 68-95.4 (idle timeline,
-  Images tab browsing), 110-121 and 129-133.5 (idle Download panel), 135-141 (download toast).
-- The Share -> Download -> format flow is recorded twice (95.9-118 and 122.8-135). Pass 1 is used for the narration of
-  "download formats" (L13-15), pass 2 for "Select Share, Download..." (L17).
-- 121.0-122.3: browser context menu flashes (unintended) -> junk, cut.
-- Unnarrated actions left out of actions.json: closing the image viewer (14.6), second timeline click (60.3),
-  opening the format dropdown in pass 2 (~127.2).
-- Narration L11 "Preview the full section" has no distinct action in the recording.
-- Script directions (On screen: ...) are absent.
+# Analyze notes
+- No clicks.json: all times read from contact sheets / single frames; x/y are rough estimates (confidence medium/low) and are NOT used for ripples or zooms.
+- The recording has baked-in recorder auto-zoom (many tiles are zoomed), so coordinates are unreliable; plan uses no zooms and no ripples (lessons: baked-in zoom).
+- A3 (Remove animation, 31.7) and A4/A8 (panel X closes), A10 (Create an animation), A11 (Done), A12 (timeline playhead), A13 (layer drag), A14 (Presentation tab), A15 (Present), A16 (Play) are low confidence in position; times are within ~0.3 s.
+- Script items with no clear footage: "page tab" in L9/L10 (Animate panel shows no separate page tab), "turn off appear on click" (L16, only the Presentation tab/mode is shown), GIF/uploaded video text (L17-19, shown only as the presentation deck).
+- 78-95.5 s (repeat previews and a second path-panel visit) judged a retake and cut.
