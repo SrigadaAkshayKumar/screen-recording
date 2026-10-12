@@ -3,281 +3,161 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 202.0
+  "duration": 236.167
  },
  "sync": {
-  "clicks_offset": 0,
   "source": "frames"
  },
  "actions": [
   {
    "id": "A1",
-   "t_click": 15.1,
-   "x": 91,
-   "y": 495,
+   "t_click": 30.1,
+   "x": 1100,
+   "y": 700,
    "kind": "click",
-   "target": "Uploads icon in left sidebar",
-   "result": "Uploads panel in view",
-   "t_result_visible": 15.4,
-   "confidence": "medium"
+   "target": "empty area of the page",
+   "result": "selection cleared, page deselected",
+   "t_result_visible": 30.25,
+   "confidence": "low"
   },
   {
    "id": "A2",
-   "t_click": 27.7,
-   "x": 564,
-   "y": 761,
+   "t_click": 34.55,
+   "x": 1095,
+   "y": 228,
    "kind": "click",
-   "target": "three-dot menu on a thumbnail",
-   "result": "menu opens (Details/Download/Move/Remove/Move to Trash)",
-   "t_result_visible": 28.1,
+   "target": "Animate button in the toolbar",
+   "result": "Animation panel opens on the left",
+   "t_result_visible": 35.9,
    "confidence": "medium"
   },
   {
    "id": "A3",
-   "t_click": 37.3,
-   "x": 735,
-   "y": 930,
+   "t_click": 44.6,
+   "x": 348,
+   "y": 396,
    "kind": "click",
-   "target": "Move to Trash in the menu",
-   "result": "toast 'Sample - 1 moved to Trash'",
-   "t_result_visible": 37.9,
-   "confidence": "medium"
+   "target": "Magic Animate card",
+   "result": "Magic Animate loads, then the recommended style appears",
+   "t_result_visible": 49.5,
+   "confidence": "high"
   },
   {
    "id": "A4",
-   "t_click": 45.3,
-   "x": 108,
-   "y": 725,
+   "t_click": 65.5,
+   "x": 227,
+   "y": 418,
    "kind": "click",
-   "target": "Projects in Canva home sidebar",
-   "result": "All projects page loads",
-   "t_result_visible": 46.2,
-   "confidence": "medium"
+   "target": "Professional (recommended style)",
+   "result": "style applied, headings and images animate",
+   "t_result_visible": 66.5,
+   "confidence": "high"
   },
   {
    "id": "A5",
-   "t_click": 53.9,
-   "x": 440,
-   "y": 420,
+   "t_click": 90.2,
+   "x": 930,
+   "y": 900,
    "kind": "click",
-   "target": "All projects",
-   "result": "All projects page shown",
-   "t_result_visible": 55.0,
+   "target": "page 2 thumbnail",
+   "result": "page 2 shown, animations preview",
+   "t_result_visible": 90.5,
    "confidence": "medium"
   },
   {
    "id": "A6",
-   "t_click": 58.2,
-   "x": 816,
-   "y": 811,
+   "t_click": 122.8,
+   "x": 255,
+   "y": 545,
    "kind": "click",
-   "target": "Uploads folder",
-   "result": "Uploads folder page opens",
-   "t_result_visible": 58.9,
-   "confidence": "medium"
+   "target": "Bold alternative style",
+   "result": "alternative style applied, toast appears",
+   "t_result_visible": 123.2,
+   "confidence": "high"
   },
   {
    "id": "A7",
-   "t_click": 69.2,
-   "x": 1224,
-   "y": 540,
+   "t_click": 140.6,
+   "x": 965,
+   "y": 235,
    "kind": "click",
-   "target": "three-dot menu on Sample-Resume.Pdf - 1",
-   "result": "menu opens",
-   "t_result_visible": 70.1,
+   "target": "timing (clock) button",
+   "result": "Timing popup opens with slider",
+   "t_result_visible": 141.9,
    "confidence": "medium"
   },
   {
    "id": "A8",
-   "t_click": 71.9,
-   "x": 1440,
-   "y": 907,
+   "t_click": 192.4,
+   "x": 1647,
+   "y": 158,
    "kind": "click",
-   "target": "Move to Trash",
-   "result": "toast 'moved to Trash'",
-   "t_result_visible": 72.9,
+   "target": "Present button",
+   "result": "presentation mode starts full screen",
+   "t_result_visible": 192.6,
    "confidence": "medium"
   },
   {
    "id": "A9",
-   "t_click": 91.3,
-   "x": 1423,
-   "y": 432,
+   "t_click": 200.4,
+   "x": 1360,
+   "y": 470,
    "kind": "click",
-   "target": "checkbox on New-canva-gif",
-   "result": "thumbnail selected",
-   "t_result_visible": 92.0,
+   "target": "right-hand bottle",
+   "result": "object selected",
+   "t_result_visible": 200.6,
    "confidence": "medium"
   },
   {
    "id": "A10",
-   "t_click": 93.6,
-   "x": 845,
-   "y": 523,
+   "t_click": 205.2,
+   "x": 1812,
+   "y": 158,
    "kind": "click",
-   "target": "checkbox on sample-resume.pdf (1)",
-   "result": "2 selected, action bar",
-   "t_result_visible": 93.9,
-   "confidence": "medium"
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 206.0,
+   "confidence": "high"
   },
   {
    "id": "A11",
-   "t_click": 99.6,
-   "x": 1325,
-   "y": 780,
+   "t_click": 206.8,
+   "x": 1214,
+   "y": 955,
    "kind": "click",
-   "target": "trash icon in action bar",
-   "result": "Move 2 items to Trash? dialog",
-   "t_result_visible": 100.0,
+   "target": "Download in Share panel",
+   "result": "Download panel opens (PDF)",
+   "t_result_visible": 207.0,
    "confidence": "medium"
   },
   {
    "id": "A12",
-   "t_click": 100.8,
-   "x": 708,
-   "y": 403,
+   "t_click": 212.0,
+   "x": 1500,
+   "y": 700,
    "kind": "click",
-   "target": "Move to Trash confirm button",
-   "result": "Moving to Trash progress, then toast",
-   "t_result_visible": 103.9,
-   "confidence": "low"
+   "target": "MP4 Video in file type list",
+   "result": "MP4 Video selected",
+   "t_result_visible": 212.5,
+   "confidence": "medium"
   },
   {
    "id": "A13",
-   "t_click": 116.0,
-   "x": 955,
-   "y": 590,
+   "t_click": 218.0,
+   "x": 1500,
+   "y": 880,
    "kind": "click",
-   "target": "design page",
-   "result": "page selected (purple outline)",
-   "t_result_visible": 116.3,
+   "target": "Download button",
+   "result": "download starts",
+   "t_result_visible": 218.2,
    "confidence": "medium"
-  },
-  {
-   "id": "A14",
-   "t_click": 142.2,
-   "x": 396,
-   "y": 413,
-   "kind": "click",
-   "target": "All projects in sidebar",
-   "result": "All projects page",
-   "t_result_visible": 143.4,
-   "confidence": "medium"
-  },
-  {
-   "id": "A15",
-   "t_click": 152.2,
-   "x": 216,
-   "y": 960,
-   "kind": "click",
-   "target": "Trash in sidebar",
-   "result": "Trash page",
-   "t_result_visible": 153.3,
-   "confidence": "medium"
-  },
-  {
-   "id": "A16",
-   "t_click": 165.8,
-   "x": 1361,
-   "y": 540,
-   "kind": "click",
-   "target": "checkbox on 'Copy of sample' in Trash",
-   "result": "item selected, action bar with Restore/Delete",
-   "t_result_visible": 166.1,
-   "confidence": "medium"
-  },
-  {
-   "id": "A17",
-   "t_click": 169.5,
-   "x": 1339,
-   "y": 869,
-   "kind": "click",
-   "target": "Restore button",
-   "result": "Restoring 1 item, then 'Restored 1 item'",
-   "t_result_visible": 172.2,
-   "confidence": "high"
-  },
-  {
-   "id": "A18",
-   "t_click": 179.4,
-   "x": 1589,
-   "y": 298,
-   "kind": "click",
-   "target": "Empty Trash button",
-   "result": "Empty Trash? dialog",
-   "t_result_visible": 179.8,
-   "confidence": "medium"
-  },
-  {
-   "id": "A19",
-   "t_click": 182.0,
-   "x": 1044,
-   "y": 583,
-   "kind": "click",
-   "target": "Empty Trash confirm button",
-   "result": "Emptying progress, then 'Trash is now empty'",
-   "t_result_visible": 187.5,
-   "confidence": "medium"
-  },
-  {
-   "id": "A20",
-   "t_click": 190.9,
-   "x": 720,
-   "y": 50,
-   "kind": "click",
-   "target": "Untitled design tab",
-   "result": "design page with Uploads panel",
-   "t_result_visible": 191.4,
-   "confidence": "low"
   }
  ],
  "junk": [
   {
-   "start": 1.9,
-   "end": 12.0,
-   "reason": "idle design page before cursor moves",
-   "ff": true
-  },
-  {
-   "start": 47.0,
-   "end": 53.3,
-   "reason": "cursor wandering / wrong 'Your projects' click",
-   "ff": true
-  },
-  {
-   "start": 61.2,
-   "end": 67.6,
-   "reason": "cursor wandering over files",
-   "ff": true
-  },
-  {
-   "start": 75.5,
-   "end": 88.5,
-   "reason": "idle after trash toast",
-   "ff": true
-  },
-  {
-   "start": 143.4,
-   "end": 150.8,
-   "reason": "scrolling sidebar to find Trash",
-   "ff": true
-  },
-  {
-   "start": 154.0,
-   "end": 164.6,
-   "reason": "cursor roaming Trash page",
-   "ff": true
-  },
-  {
-   "start": 166.4,
-   "end": 168.3,
-   "reason": "cursor travel to Restore",
-   "ff": true
-  },
-  {
-   "start": 196.0,
-   "end": 202.0,
-   "reason": "recorder stop / desktop (off-topic)"
+   "start": 222.0,
+   "end": 236.167,
+   "reason": "after the download: unrelated Transitions panel, desktop, recorder stop"
   }
  ]
 }

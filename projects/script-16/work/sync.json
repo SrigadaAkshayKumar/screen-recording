@@ -1,29 +1,28 @@
 {
  "anchors": [
-  {"action":"A1","line":2,"word":"Uploads"},
-  {"action":"A2","line":3,"word":"three"},
-  {"action":"A3","line":3,"word":"Trash"},
-  {"action":"A4","line":4,"word":"Projects"},
-  {"action":"A5","line":4,"word":"All"},
-  {"action":"A6","line":4,"word":"Uploads","occurrence":2},
-  {"action":"A7","line":5,"word":"three"},
-  {"action":"A8","line":5,"word":"Trash"},
-  {"action":"A9","line":6,"word":"thumbnail"},
-  {"action":"A10","line":6,"word":"tick"},
-  {"action":"A11","line":7,"word":"trash"},
-  {"action":"A12","line":7,"word":"confirm"},
-  {"action":"A13","line":10,"word":"selected"},
-  {"action":"A14","line":12,"word":"open"},
-  {"action":"A15","line":12,"word":"Trash","occurrence":2},
-  {"action":"A16","line":12,"word":"item"},
-  {"action":"A17","line":12,"word":"Restore"},
-  {"action":"A18","line":13,"word":"empty"},
-  {"action":"A20","line":15,"word":"Return"}
+  {"action":"A1","line":4,"word":"empty"},
+  {"action":"A2","line":4,"word":"Animate"},
+  {"action":"A3","line":8,"word":"Open"},
+  {"action":"A4","line":9,"word":"combination"},
+  {"action":"A6","line":10,"word":"alternative","src_from":121.9,"prev_until":70.2},
+  {"action":"A5","line":11,"word":"Preview","src_from":89.3,"prev_until":124.0},
+  {"action":"A9","line":13,"word":"select","src_from":199.2,"prev_until":105.0},
+  {"action":"A7","line":14,"word":"timing","src_from":139.2,"prev_until":203.0},
+  {"action":"A8","line":18,"word":"presentation","src_from":189.5,"prev_until":159.0},
+  {"action":"A10","line":18,"word":"share","src_from":204.3,"prev_until":194.2},
+  {"action":"A11","line":18,"word":"Share","occurrence":2},
+  {"action":"A12","line":18,"word":"MP4"}
  ],
  "zooms": [],
- "cuts": [],
+ "no_ripple": ["A1","A2","A5","A7","A8","A9","A10","A11","A12","A13"],
+ "cuts": [
+  {"src_start":11.8,"src_end":28.9,"reason":"wandering/recorder zoom on the page before the first click","xfade":true},
+  {"src_start":31.0,"src_end":33.2,"reason":"recorder zoom transition between deselect and Animate","xfade":true},
+  {"src_start":45.5,"src_end":49.4,"reason":"Magic Animate loading screen","xfade":true},
+  {"src_start":50.4,"src_end":63.8,"reason":"idle on recommended style","xfade":true},
+  {"src_start":207.4,"src_end":210.0,"reason":"idle in download panel","xfade":true}
+ ],
  "ff_max": 2.0,
  "use_junk": true,
- "src_start": 1.9,
- "src_end": 196.0
+ "src_end": 219.5
 }

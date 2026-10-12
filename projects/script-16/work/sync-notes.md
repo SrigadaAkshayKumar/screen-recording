@@ -2,42 +2,35 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 2 | Uploads | 7.520 | A1 Uploads icon in left sidebar | 15.100 | 1.76x |
-| 3 | three | 12.040 | A2 three-dot menu on a thumbnail | 27.700 | 2.79x |
-| 3 | Trash. | 14.480 | A3 Move to Trash in the menu | 37.300 | 3.93x |
-| 4 | Projects, | 17.880 | A4 Projects in Canva home sidebar | 45.300 | 2.35x |
-| 4 | All | 18.860 | A5 All projects | 53.900 | 2.35x |
-| 4 | Uploads | 20.700 | A6 Uploads folder | 58.200 | 2.34x |
-| 5 | three | 23.420 | A7 three-dot menu on Sample-Resume.Pdf - 1 | 69.200 | 1.69x |
-| 5 | Trash. | 25.820 | A8 Move to Trash | 71.900 | 1.13x |
-| 6 | thumbnail | 28.580 | A9 checkbox on New-canva-gif | 91.300 | 2.32x |
-| 6 | tick | 29.320 | A10 checkbox on sample-resume.pdf (1) | 93.600 | 3.11x |
-| 7 | trash | 32.920 | A11 trash icon in action bar | 99.600 | 1.67x |
-| 7 | confirm | 34.840 | A12 Move to Trash confirm button | 100.800 | 1.00x +0.7s hold |
-| 10 | selected | 46.380 | A13 design page | 116.000 | 1.32x |
-| 12 | open | 54.100 | A14 All projects in sidebar | 142.200 | 3.39x |
-| 12 | Trash, | 55.240 | A15 Trash in sidebar | 152.200 | 2.28x |
-| 12 | item, | 56.320 | A16 checkbox on 'Copy of sample' in Trash | 165.800 | 2.78x |
-| 12 | Restore | 57.340 | A17 Restore button | 169.500 | 1.76x |
-| 13 | empty | 61.220 | A18 Empty Trash button | 179.400 | 2.55x |
-| 15 | Return | 69.620 | A20 Untitled design tab | 190.900 | 1.37x |
+| 4 | empty | 16.620 | A1 empty area of the page | 30.100 | 0.78x |
+| 4 | Animate | 18.400 | A2 Animate button in the toolbar | 34.550 | 1.26x |
+| 8 | Open | 30.840 | A3 Magic Animate card | 44.600 | 0.81x |
+| 9 | combination | 35.460 | A4 Professional (recommended style) | 65.500 | 0.78x |
+| 10 | alternative | 40.980 | A6 Bold alternative style | 122.800 | 1.01x |
+| 11 | Preview | 42.940 | A5 page 2 thumbnail | 90.200 | 1.07x |
+| 13 | select | 54.960 | A9 right-hand bottle | 200.400 | 1.33x |
+| 14 | timing | 59.320 | A7 timing (clock) button | 140.600 | 0.92x |
+| 18 | presentation, | 76.840 | A8 Present button | 192.400 | 1.22x |
+| 18 | share | 79.680 | A10 Share button | 205.200 | 0.95x |
+| 18 | Share, | 82.000 | A11 Download in Share panel | 206.800 | 1.00x +0.7s hold |
+| 18 | MP4 | 84.000 | A12 MP4 Video in file type list | 212.000 | 1.30x |
 
 ## Builder decisions
 
-- intro: fast-forwarded src 1.90-12.00 instead of cutting it (junk: idle design page before cursor moves)
-- A4->A5: cut src 47.00-53.30 - too long to fast-forward at <= 2.00x (junk: cursor wandering / wrong 'Your projects' click)
-- A6->A7: cut src 61.20-67.60 - too long to fast-forward at <= 2.00x (junk: cursor wandering over files)
-- A8->A9: cut src 75.50-88.50 - too long to fast-forward at <= 2.00x (junk: idle after trash toast)
-- A14->A15: cut src 143.40-150.80 - too long to fast-forward at <= 2.00x (junk: scrolling sidebar to find Trash)
-- A15->A16: cut src 154.00-164.60 - too long to fast-forward at <= 2.00x (junk: cursor roaming Trash page)
-- A16->A17: cut src 166.40-168.30 - too long to fast-forward at <= 2.00x (junk: cursor travel to Restore)
+- A6: after A4 (until src 70.20) jumps ahead to src 121.90 - narration order
+- A5: after A6 (until src 124.00) jumps back to src 89.30 - narration order
+- A9: after A5 (until src 105.00) jumps ahead to src 199.20 - narration order
+- A7: after A9 (until src 203.00) jumps back to src 139.20 - narration order
+- A8: after A7 (until src 159.00) jumps ahead to src 189.50 - narration order
+- A10: after A8 (until src 194.20) jumps ahead to src 204.30 - narration order
 
 ## Judgment calls
-- Anchors: the word naming the control (Uploads, three-dot, Trash, Projects, All, tick, trash icon, confirm, selected, open, Restore, empty, Return). Repeated words use `occurrence` (line 4 "Uploads", line 12 "Trash").
-- A9 on "thumbnail" and A10 on "tick" so the two checkbox clicks (2.3 s apart in the source) fit the 0.7 s of narration.
-- A14 (All projects, home screen) anchored on "open", A15 Trash sidebar on the second "Trash"; A16 on "item" because "select" is only 0.66 s after "Trash".
-- No zooms: the recorder already auto-zooms; ripples only.
-- Cuts (junk that did not fit fast-forward at <= 2x): 47-53.3, 61.2-67.6, 75.5-88.5, 143.4-150.8, 154-164.6, 166.4-168.3. Intro 1.9-12.0 was fast-forwarded. Tail 196-202 (tab switch, desktop) trimmed.
-- Narration L8-L11 (design-page delete vs uploads delete) has no matching footage action: design-page idle footage plays under it.
-- A19 (Empty Trash confirm) has no anchor; it plays inside the A18->A20 interval.
-- Warnings: A12's result (toast) shows after line 7 ends (acceptable); A19 unanchored.
+
+- Anchors: A1 "empty", A2 "Animate" (L4); A3 "Open" (L8, click Magic Animate); A4 "combination" (L9, the Professional click: "Open"->"Choose" leaves only 3.4 s, so the click sits on "combination" to keep the loading/idle cut at <=1.5x); A6 "alternative" (L10, Bold style); A5 "Preview" (L11, page 2 thumbnail); A9 "select" (L13, select the bottle); A7 "timing" (L14, clock button); A8 "presentation" (L18, Present); A10 "share" (L18, Share); A11 second "Share," (L18, Download in the Share panel, a bit before the word "Download" so that MP4 gets enough time); A12 "MP4".
+- Out-of-order footage (audio order wins): alternative style (src 122.8) before the page review (90.2), object selection (200.4) before timing (140.6), Present (192.4) after timing; all cross-faded.
+- Cuts (cross-faded): 11.8-28.9 wandering and recorder zoom, 31.0-33.2 zoom transition, 45.5-49.4 Magic Animate loading screen, 50.4-63.8 idle on the recommended style, 207.4-210.0 idle in the download panel. No in-scene fast-forward above 1.33x was needed; no pace warnings.
+- No zooms (recording has baked-in zoom); ripples only on A3, A4, A6.
+- Present mode shows only ~1.8 s (192.4-194.2) and then jumps to the Share click, because L18 gives 3 s for Present + Share.
+- A13 (final Download click at 218.0) is not narrated and falls ~0.3 s after the end of the plan (src_end 217.68); the video ends on the MP4 Download panel, idle for the last ~3 s (closing hold, source is static there).
+- Unmentioned actions: the empty-area click happens before "Animate" is narrated, per the script; timing slider/toggle, Transitions panel and extra alt styles are not narrated and play at ~1.2x or are not used.
+- Warnings left: "A2: result appears at 20.07 s, after line 4 ends" (the panel opens ~1.7 s after the click; harmless, L5 is about the panel), "A13 not tied to a word" (intentional).
