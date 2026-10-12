@@ -20,12 +20,12 @@
     {
       "name": "frozen spans",
       "ok": true,
-      "detail": "5 freeze(s) over 3s, all planned holds/stills"
+      "detail": "2 freeze(s) over 3s, all planned holds/stills"
     },
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "51 boundaries clean"
+      "detail": "44 boundaries clean"
     }
   ],
   "zoom_frames": []

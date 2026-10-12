@@ -141,7 +141,10 @@ def run_claude(name: str) -> None:
         f"projects/{name}/work/ is current, so reuse it (do not re-transcribe). Do the analyze and "
         "sync stages, the preview review, the final render, verify, and output/report.md exactly as "
         "the skill says. Keep the client's preferences from docs/lessons.md: follow the audio order, "
-        "and fast-forward in-scene dead time instead of cutting it."
+        "and fast-forward in-scene dead time instead of cutting it. These are tutorials: screen movement "
+        "must be smooth and easy to follow - actions at 0.75-1.5x, dead time at most 2x (waits 3x, longer waits cut), "
+        "no held frame over 1.5 s, no choppy pieces; fix every 'pace:' warning from check.py --plan "
+        "before rendering, or explain in the report why one cannot be fixed."
     )
     cmd = ["claude", "-p", prompt, "--dangerously-skip-permissions", "--output-format", "text"]
     if os.environ.get("CLAUDE_MODEL"):

@@ -12,6 +12,8 @@ import sys
 from common import Project, parser
 
 SPEED_MIN, SPEED_MAX, WAIT_MAX = 0.75, 4.0, 8.0
+# Tutorial pacing (client rule, docs/lessons.md 2026-10-12): hard limits above, comfortable ones here.
+PACE_MAX, PACE_WAIT_MAX, PACE_MIN_SEG, PACE_MAX_HOLD, PACE_MAX_END_HOLD = 2.0, 3.0, 0.5, 1.5, 3.0
 ZOOM_MIN, ZOOM_MAX = 1.4, 2.2
 CLICK_TOL = 0.15
 EPS = 0.002
@@ -178,6 +180,24 @@ def validate_plan(plan: dict, probe: dict, actions: dict | None = None, lines: l
                 err.append(f"{tag}: speed {sp:.2f}x above {limit}x{why}")
         else:
             err.append(f"{tag}: mode must be 'speed' or 'hold'")
+        dur = s["out_end"] - s["out_start"]
+        if s.get("mode") == "hold":
+            cap = PACE_MAX_END_HOLD if i == len(segs) - 1 else PACE_MAX_HOLD
+            if dur > cap + EPS:
+                wrn.append(f"{tag}: pace: {dur:.1f}s hold looks frozen (max {cap:g}s) - play nearby footage slower")
+        elif s.get("mode") == "speed":
+            sp, cap = speed(s), (PACE_WAIT_MAX if s.get("wait") else PACE_MAX)
+            if sp > cap + 0.005:
+                wrn.append(f"{tag}: pace: {sp:.2f}x is hard to follow (aim <= {cap:g}x) - give it more time or cut dead time")
+        # A short piece only looks choppy when it stands alone: after a cut, or at a different speed
+        # than both neighbours. Same-speed continuous pieces (anchor splits) play as one move.
+        if dur < PACE_MIN_SEG - EPS and 0 < i < len(segs) - 1 and s.get("mode") == "speed":
+            def same(a):
+                return a.get("mode") == "speed" and abs(speed(a) - speed(s)) <= 0.25 * max(speed(s), 1e-6)
+            nxt = segs[i + 1]
+            joined = (same(prev) and not s.get("xfade")) or (same(nxt) and not nxt.get("xfade"))
+            if not joined:
+                wrn.append(f"{tag}: pace: {dur:.2f}s piece looks choppy (min {PACE_MIN_SEG:g}s) - merge it with its neighbour")
         if prev:
             if abs(s["out_start"] - prev["out_end"]) > EPS:
                 err.append(f"{tag}: gap/overlap with the previous segment ({prev['out_end']} -> {s['out_start']})")

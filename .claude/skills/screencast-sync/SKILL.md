@@ -103,6 +103,12 @@ intro) and runs the plan validator. Rules it enforces, which you must keep if yo
   (the builder sets it);
 - each anchored click lands within ±0.15 s of its word;
 - speed 0.75x-4x; slower -> hold the last frame; still spans/waits up to 8x (`"wait": true`)
+- **Tutorial pacing (client rule, overrides "fits within the limits"):** a viewer must be able
+  to follow every cursor move. Actions and cursor approaches 0.75-1.5x; in-scene dead time at most
+  2x (`ff_max`); waits at most 3x, otherwise cut them with a cross-fade; no held frame over 1.5 s
+  (closing hold up to 3 s); no piece shorter than 0.5 s. `check.py --plan` flags each of these as
+  a `pace:` warning; fix them all before rendering (more narration time, a cut of dead time, or a
+  supporting anchor unpinned), and list any you could not fix in the report.
   or cut with a cross-fade;
 - zoom scale 1.4-2.2.
 

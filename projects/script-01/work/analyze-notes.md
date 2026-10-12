@@ -1,10 +1,11 @@
 # Analyze notes
-- Recorder has baked-in auto-zoom (most clicks happen while zoomed): no plan zooms; ripples only on A9 (unzoomed).
-- No clicks.json: all click times are by eye from contact sheets (±0.3 s); positions are rough (zoomed frames) — low/medium confidence everywhere.
-- A4 (Upload files): the file chooser is not visible in the recording; photos just appear.
-- A6/A7 drag endpoints guessed; the 44-56 s segment extends the layer to 5.0 s.
-- Recording order differs from narration: timeline step (44-56) is before Animate (74); PNG/JPG (169-171) comes after Share/Download-panel.
-- A20 (MP4 reselect at 189.8) is not narrated separately.
-- Recording 0-8.8 s: finished design from an earlier take, cut as pre-roll. 205+ s wallpaper cut.
-- Narration L6-L7 (photo as image, not background) has no on-screen action; 34-38 s hover is the closest footage.
-- L12 ("keep movement small") has no action.
+
+- No clicks.json: every click time/position was read from frames. The recorder has baked-in auto-zoom
+  (zoom-in on most clicks), so recording-pixel positions are only reliable on unzoomed frames. Positions
+  of A1, A2, A13-A17 are estimates (frames were zoomed): low confidence. They get no ripple.
+- Narrated "Upload Files" / "choose your photo" (L4): no click or file dialog in the recording; the image
+  library already holds the photo. No action created.
+- L6-L7 (photo kept as image, not background): nothing on screen to match.
+- A14 and A15 (MP4, GIF selection): exact click times uncertain (+-0.5 s); GIF was already selected at 182.8.
+- Timeline: 44-56 s is a messy first take (duplicate and delete); the clean drag is at 139.8-145. 148-156 repeats the drag.
+- Recording ends with a loading screen in the media player (198-200) and the desktop after 205: cut.

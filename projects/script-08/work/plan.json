@@ -221,8 +221,16 @@
     {
       "mode": "speed",
       "src_start": 223.5,
-      "src_end": 226.315,
+      "src_end": 223.7,
       "out_start": 88.3,
+      "out_end": 88.5
+    },
+    {
+      "mode": "speed",
+      "src_start": 228.0,
+      "src_end": 230.615,
+      "xfade": true,
+      "out_start": 88.5,
       "out_end": 91.115
     }
   ],
