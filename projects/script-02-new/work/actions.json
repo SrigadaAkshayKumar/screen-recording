@@ -1,0 +1,284 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 232.1
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 16.5,
+   "x": 86,
+   "y": 570,
+   "kind": "click",
+   "target": "Uploads in side panel",
+   "result": "Uploads panel opens",
+   "t_result_visible": 17.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 21.2,
+   "x": 300,
+   "y": 350,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "file picker opens",
+   "t_result_visible": 22.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 29.0,
+   "x": 86,
+   "y": 440,
+   "kind": "click",
+   "target": "Text in side panel",
+   "result": "Text panel opens",
+   "t_result_visible": 29.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 32.9,
+   "x": 300,
+   "y": 560,
+   "kind": "click",
+   "target": "Add a heading in Text panel",
+   "result": "heading text box added to the design",
+   "t_result_visible": 33.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 50.8,
+   "x": 1000,
+   "y": 300,
+   "kind": "type",
+   "target": "text box",
+   "result": "'Crack IT' typed",
+   "t_result_visible": 54.2,
+   "confidence": "medium",
+   "text": "Crack IT"
+  },
+  {
+   "id": "A6",
+   "t_click": 56.0,
+   "x": 1100,
+   "y": 330,
+   "kind": "drag",
+   "target": "text box",
+   "result": "watermark text resized and moved to the top right",
+   "t_result_visible": 57.5,
+   "confidence": "low",
+   "x2": 1250,
+   "y2": 330,
+   "t_end": 57.4
+  },
+  {
+   "id": "A7",
+   "t_click": 64.3,
+   "x": 1450,
+   "y": 330,
+   "kind": "click",
+   "target": "Crack IT text (watermark)",
+   "result": "watermark selected, toolbar appears",
+   "t_result_visible": 64.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 80.8,
+   "x": 1250,
+   "y": 330,
+   "kind": "click",
+   "target": "Transparency button in toolbar",
+   "result": "Transparency slider opens",
+   "t_result_visible": 81.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 81.6,
+   "x": 1000,
+   "y": 330,
+   "kind": "drag",
+   "target": "Transparency slider",
+   "result": "value lowered 100 -> 47",
+   "t_result_visible": 83.1,
+   "confidence": "medium",
+   "x2": 1150,
+   "y2": 330,
+   "t_end": 83.0
+  },
+  {
+   "id": "A10",
+   "t_click": 114.3,
+   "x": 1330,
+   "y": 330,
+   "kind": "click",
+   "target": "Position button in toolbar",
+   "result": "Position panel opens",
+   "t_result_visible": 115.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 115.5,
+   "x": 1000,
+   "y": 330,
+   "kind": "click",
+   "target": "Layers tab",
+   "result": "Layers list shown",
+   "t_result_visible": 115.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 137.0,
+   "x": 500,
+   "y": 950,
+   "kind": "click",
+   "target": "timeline layer end",
+   "result": "layer handle at 5.0s",
+   "t_result_visible": 137.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 150.8,
+   "x": 540,
+   "y": 950,
+   "kind": "click",
+   "target": "Add page (+) in timeline",
+   "result": "menu with Blank option",
+   "t_result_visible": 151.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 151.7,
+   "x": 490,
+   "y": 930,
+   "kind": "click",
+   "target": "Blank",
+   "result": "new blank page 2 added",
+   "t_result_visible": 152.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 166.0,
+   "x": 700,
+   "y": 300,
+   "kind": "click",
+   "target": "Text colour button",
+   "result": "Text colour panel opens",
+   "t_result_visible": 166.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A16",
+   "t_click": 168.4,
+   "x": 700,
+   "y": 500,
+   "kind": "click",
+   "target": "colour picker",
+   "result": "text colour changed",
+   "t_result_visible": 169.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A17",
+   "t_click": 176.5,
+   "x": 100,
+   "y": 720,
+   "kind": "click",
+   "target": "black swatch under Background colours",
+   "result": "page 2 turns black",
+   "t_result_visible": 177.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 179.0,
+   "x": 500,
+   "y": 950,
+   "kind": "drag",
+   "target": "timeline layer end",
+   "result": "layer stretched to 10.0s",
+   "t_result_visible": 181.6,
+   "confidence": "low",
+   "x2": 650,
+   "y2": 950,
+   "t_end": 181.5
+  },
+  {
+   "id": "A19",
+   "t_click": 206.5,
+   "x": 1790,
+   "y": 75,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 207.6,
+   "confidence": "high"
+  },
+  {
+   "id": "A20",
+   "t_click": 210.2,
+   "x": 1780,
+   "y": 750,
+   "kind": "click",
+   "target": "Download in Share panel",
+   "result": "Download panel opens",
+   "t_result_visible": 211.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A21",
+   "t_click": 213.4,
+   "x": 1500,
+   "y": 230,
+   "kind": "click",
+   "target": "File type dropdown",
+   "result": "list of file types, MP4 Video selected",
+   "t_result_visible": 214.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A22",
+   "t_click": 215.3,
+   "x": 1560,
+   "y": 310,
+   "kind": "click",
+   "target": "Download button",
+   "result": "download starts",
+   "t_result_visible": 215.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A23",
+   "t_click": 220.4,
+   "x": 230,
+   "y": 950,
+   "kind": "click",
+   "target": "timeline playhead / play",
+   "result": "preview plays",
+   "t_result_visible": 221.0,
+   "confidence": "low"
+  }
+ ],
+ "junk": [
+  {
+   "start": 225.4,
+   "end": 232.1,
+   "reason": "recorder stop, desktop"
+  }
+ ]
+}
