@@ -1,0 +1,283 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "Open"
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "Elements"
+  },
+  {
+   "action": "A3",
+   "line": 2,
+   "word": "shape"
+  },
+  {
+   "action": "A4",
+   "line": 3,
+   "word": "circle"
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "color"
+  },
+  {
+   "action": "A6",
+   "line": 4,
+   "word": "canvas"
+  },
+  {
+   "action": "A7",
+   "line": 5,
+   "word": "circle"
+  },
+  {
+   "action": "A8",
+   "line": 5,
+   "word": "Animate"
+  },
+  {
+   "action": "A9",
+   "line": 6,
+   "word": "Element"
+  },
+  {
+   "action": "A10",
+   "line": 7,
+   "word": "Preview"
+  },
+  {
+   "action": "A11",
+   "line": 7,
+   "word": "Rise"
+  },
+  {
+   "action": "A12",
+   "line": 8,
+   "word": "choose"
+  },
+  {
+   "action": "A13",
+   "line": 9,
+   "word": "speed"
+  },
+  {
+   "action": "A14",
+   "line": 10,
+   "word": "Play"
+  },
+  {
+   "action": "A15",
+   "line": 11,
+   "word": "switch"
+  },
+  {
+   "action": "A20",
+   "line": 12,
+   "word": "both",
+   "src_from": 234.0
+  },
+  {
+   "action": "A21",
+   "line": 12,
+   "word": "Group"
+  },
+  {
+   "action": "A16",
+   "line": 14,
+   "word": "separate",
+   "src_from": 158.0,
+   "prev_until": 244.5
+  },
+  {
+   "action": "A17",
+   "line": 14,
+   "word": "each"
+  },
+  {
+   "action": "A18",
+   "line": 15,
+   "word": "layers"
+  },
+  {
+   "action": "A19",
+   "line": 16,
+   "word": "first"
+  },
+  {
+   "action": "A22",
+   "line": 19,
+   "word": "ungroup",
+   "src_from": 242.5,
+   "prev_until": 233.0
+  },
+  {
+   "action": "A23",
+   "line": 20,
+   "word": "Preview"
+  },
+  {
+   "action": "A24",
+   "line": 20,
+   "word": "download"
+  },
+  {
+   "action": "A25",
+   "line": 20,
+   "word": "Video"
+  },
+  {
+   "action": "A26",
+   "line": 21,
+   "word": "GIF"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A20",
+  "A21",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A22",
+  "A23",
+  "A24",
+  "A25",
+  "A26"
+ ],
+ "cuts": [
+  {
+   "src_start": 11.1,
+   "src_end": 14.3,
+   "reason": "editor loading",
+   "xfade": true
+  },
+  {
+   "src_start": 16.2,
+   "src_end": 17.4,
+   "reason": "Elements panel idle before the cursor moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 18.4,
+   "src_end": 19.7,
+   "reason": "shapes panel loading",
+   "ff": true
+  },
+  {
+   "src_start": 21.7,
+   "src_end": 34.9,
+   "reason": "cursor hovering the circle, nothing narrated",
+   "xfade": true
+  },
+  {
+   "src_start": 37.8,
+   "src_end": 43.6,
+   "reason": "black colour step and colour panel browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 46.0,
+   "src_end": 49.0,
+   "reason": "colour panel closing and idle",
+   "xfade": true
+  },
+  {
+   "src_start": 53.0,
+   "src_end": 54.4,
+   "reason": "idle cursor over Animate panel",
+   "xfade": true
+  },
+  {
+   "src_start": 61.8,
+   "src_end": 68.0,
+   "reason": "extra style previews (Fade) the narration only names",
+   "xfade": true
+  },
+  {
+   "src_start": 73.0,
+   "src_end": 80.5,
+   "reason": "idle with the panel open",
+   "xfade": true
+  },
+  {
+   "src_start": 88.0,
+   "src_end": 117.0,
+   "reason": "repeated speed/timing clicks beyond the one narrated",
+   "xfade": true
+  },
+  {
+   "src_start": 124.0,
+   "src_end": 133.0,
+   "reason": "preview playback and loading",
+   "xfade": true
+  },
+  {
+   "src_start": 160.5,
+   "src_end": 173.5,
+   "reason": "idle after selecting the second circle",
+   "xfade": true
+  },
+  {
+   "src_start": 177.0,
+   "src_end": 213.5,
+   "reason": "effect option browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 218.5,
+   "src_end": 222.0,
+   "reason": "timeline scrubbing",
+   "xfade": true
+  },
+  {
+   "src_start": 253.0,
+   "src_end": 262.5,
+   "reason": "idle after ungroup",
+   "xfade": true
+  },
+  {
+   "src_start": 264.5,
+   "src_end": 269.0,
+   "reason": "preview playback",
+   "xfade": true
+  },
+  {
+   "src_start": 270.6,
+   "src_end": 273.8,
+   "reason": "download panel loading",
+   "xfade": true
+  },
+  {
+   "src_start": 276.2,
+   "src_end": 279.3,
+   "reason": "download in progress, idle",
+   "xfade": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_end": 284.5,
+ "style": {},
+ "src_start": 4.9
+}

@@ -1,0 +1,307 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 288.833
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 10.6,
+   "x": 290,
+   "y": 790,
+   "kind": "click",
+   "target": "Copy of sample design thumbnail",
+   "result": "design opens in the editor",
+   "t_result_visible": 14.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 15.0,
+   "x": 60,
+   "y": 330,
+   "kind": "click",
+   "target": "Elements tab",
+   "result": "Elements panel with categories",
+   "t_result_visible": 16.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 18.0,
+   "x": 210,
+   "y": 490,
+   "kind": "click",
+   "target": "Shapes category",
+   "result": "Shapes panel (loads until ~20.0)",
+   "t_result_visible": 18.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 20.7,
+   "x": 590,
+   "y": 560,
+   "kind": "click",
+   "target": "circle in Basic shapes",
+   "result": "grey circle added to the canvas",
+   "t_result_visible": 21.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A5",
+   "t_click": 35.6,
+   "x": 816,
+   "y": 245,
+   "kind": "click",
+   "target": "colour swatch in the toolbar",
+   "result": "Colour panel opens",
+   "t_result_visible": 37.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 44.9,
+   "x": 600,
+   "y": 600,
+   "kind": "click",
+   "target": "blue colour swatch",
+   "result": "circle turns blue",
+   "t_result_visible": 45.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 49.9,
+   "x": 1060,
+   "y": 560,
+   "kind": "click",
+   "target": "circle on the canvas",
+   "result": "circle selected",
+   "t_result_visible": 50.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 51.4,
+   "x": 1420,
+   "y": 250,
+   "kind": "click",
+   "target": "Animate button",
+   "result": "Animate panel opens",
+   "t_result_visible": 52.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A9",
+   "t_click": 55.0,
+   "x": 420,
+   "y": 300,
+   "kind": "click",
+   "target": "Element tab in the Animate panel",
+   "result": "Element tab shown",
+   "t_result_visible": 55.2,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 59.7,
+   "x": 350,
+   "y": 720,
+   "kind": "click",
+   "target": "Pan style tile",
+   "result": "Pan preview plays on the circle",
+   "t_result_visible": 60.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 70.2,
+   "x": 230,
+   "y": 720,
+   "kind": "click",
+   "target": "Rise style tile",
+   "result": "Rise applied (tile highlighted, options appear)",
+   "t_result_visible": 72.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 82.8,
+   "x": 300,
+   "y": 780,
+   "kind": "click",
+   "target": "Direction down arrow",
+   "result": "direction changes, preview plays",
+   "t_result_visible": 83.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 86.0,
+   "x": 410,
+   "y": 680,
+   "kind": "click",
+   "target": "Fast speed button",
+   "result": "speed set to Fast, preview plays",
+   "t_result_visible": 86.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 121.3,
+   "x": 998,
+   "y": 710,
+   "kind": "click",
+   "target": "Play button",
+   "result": "design plays, circle animates in",
+   "t_result_visible": 122.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 136.0,
+   "x": 350,
+   "y": 720,
+   "kind": "click",
+   "target": "Pan style tile",
+   "result": "Pan applied (subtler slide)",
+   "t_result_visible": 137.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 159.2,
+   "x": 955,
+   "y": 475,
+   "kind": "click",
+   "target": "second circle",
+   "result": "second circle selected",
+   "t_result_visible": 160.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 174.3,
+   "x": 1420,
+   "y": 250,
+   "kind": "click",
+   "target": "Animate button",
+   "result": "Animation panel opens for the second circle",
+   "t_result_visible": 176.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 216.2,
+   "x": 500,
+   "y": 810,
+   "kind": "click",
+   "target": "timeline layer bar",
+   "result": "timeline layer highlighted",
+   "t_result_visible": 216.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A19",
+   "t_click": 227.9,
+   "x": 998,
+   "y": 715,
+   "kind": "click",
+   "target": "Play button",
+   "result": "preview plays the timeline",
+   "t_result_visible": 229.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A20",
+   "t_click": 238.6,
+   "x": 1040,
+   "y": 640,
+   "kind": "click",
+   "target": "second circle (Shift-click)",
+   "result": "both circles selected, Group button appears",
+   "t_result_visible": 239.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A21",
+   "t_click": 241.5,
+   "x": 926,
+   "y": 614,
+   "kind": "click",
+   "target": "Group button",
+   "result": "circles grouped (Ungroup shown, one timeline bar)",
+   "t_result_visible": 242.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A22",
+   "t_click": 251.6,
+   "x": 900,
+   "y": 614,
+   "kind": "click",
+   "target": "Ungroup button",
+   "result": "timeline shows two layers again",
+   "t_result_visible": 252.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A23",
+   "t_click": 263.4,
+   "x": 998,
+   "y": 715,
+   "kind": "click",
+   "target": "Play button (full preview)",
+   "result": "preview plays",
+   "t_result_visible": 264.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A24",
+   "t_click": 269.8,
+   "x": 1815,
+   "y": 75,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share menu opens",
+   "t_result_visible": 270.5,
+   "confidence": "high"
+  },
+  {
+   "id": "A25",
+   "t_click": 275.5,
+   "x": 1608,
+   "y": 547,
+   "kind": "click",
+   "target": "Download button (MP4 Video)",
+   "result": "download starts",
+   "t_result_visible": 276.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A26",
+   "t_click": 280.2,
+   "x": 1560,
+   "y": 650,
+   "kind": "click",
+   "target": "GIF in the file type list",
+   "result": "GIF selected, GIF options shown",
+   "t_result_visible": 280.8,
+   "confidence": "high"
+  }
+ ],
+ "junk": [
+  {
+   "start": 285.0,
+   "end": 288.833,
+   "reason": "desktop after the recording was stopped"
+  }
+ ]
+}
