@@ -101,9 +101,17 @@ jobs:
         run: |
           mkdir -p dbg
           case "$P" in
-            script-18) T="0 1 2 3 4 4.8 5.5 7 8 10 12 13.2 13.9 14.3 15 15.6 16.3 17 18" ;;
+            script-18) T="0 2 4 4.8 5.5 7 8 10 12 13.2 13.9 14.5 15.2 16 16.7 18" ;;
             script-20) T="266 267.5 269 269.9 270.4 271 272 273 274 275.5 277 278.5 280 281 281.5 281.8 282.3 283 283.8 284.3" ;;
           esac
           for t in $T; do ffmpeg -v error -ss $t -i inbox/$P.mp4 -frames:v 1 -vf "scale=960:-1,drawtext=text='$t':x=10:y=10:fontsize=36:fontcolor=yellow:box=1" dbg/$P-$t.jpg; done
-      - uses: actions/upload-artifact@v4
-        with: { name: 'frames-${{ matrix.item.name }}', path: dbg }
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+      - name: Describe frames
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          claude -p "Read every jpg in dbg/ (the yellow number in each is the recording time in seconds). For each frame, in time order, write one line: '<time>: <what the Canva screen shows: which page/panel/dialog is open, what is selected or highlighted, file type dropdown value if visible, where the mouse cursor is and what it hovers>'. Then one line per pair of consecutive frames saying whether anything visible changed. Plain text only, no preamble." --allowedTools Read,Glob > desc.txt || true
+          cat desc.txt
+          msg=$(python3 -c "import sys;print(open('desc.txt').read().replace('%','%25').replace('\r','').replace('\n','%0A'))")
+          echo "::notice title=frames-$P::$msg"
