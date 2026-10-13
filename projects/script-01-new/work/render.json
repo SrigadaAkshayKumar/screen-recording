@@ -9,7 +9,7 @@
   "height": 1080,
   "fps": 30.0,
   "frames": 2240,
-  "elapsed_s": 60.725,
+  "elapsed_s": 62.24,
   "zoom_peaks": [],
   "joins": [
     {
@@ -19,13 +19,49 @@
       "into": "speed"
     },
     {
-      "out_t": 9.635,
+      "out_t": 9.392,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
       "out_t": 10.84,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 14.261,
+      "cut": false,
+      "xfade": false,
+      "into": "hold"
+    },
+    {
+      "out_t": 15.097,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 17.071,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 18.621,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 19.937,
+      "cut": false,
+      "xfade": false,
+      "into": "hold"
+    },
+    {
+      "out_t": 20.773,
       "cut": false,
       "xfade": false,
       "into": "speed"
@@ -97,7 +133,7 @@
       "into": "speed"
     },
     {
-      "out_t": 61.231,
+      "out_t": 48.198,
       "cut": true,
       "xfade": true,
       "into": "speed"
