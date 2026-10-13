@@ -1,0 +1,307 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 204.833
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 9.6,
+   "x": 1070,
+   "y": 925,
+   "kind": "click",
+   "target": "audio bar in the timeline",
+   "result": "audio bar under the cursor, timeline hover marker",
+   "t_result_visible": 9.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 10.4,
+   "x": 985,
+   "y": 935,
+   "kind": "click",
+   "target": "right edge of the audio clip (hover)",
+   "result": "timeline zooms in, time tooltip over the clip",
+   "t_result_visible": 11.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 11.6,
+   "x": 1010,
+   "y": 330,
+   "kind": "click",
+   "target": "video page in the canvas (hover)",
+   "result": "page outlined purple, i.e. the page, not the sound, is hovered",
+   "t_result_visible": 11.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 12.9,
+   "x": 985,
+   "y": 935,
+   "kind": "click",
+   "target": "trim handle at the audio edge (hover)",
+   "result": "handle shows with time tooltip",
+   "t_result_visible": 13.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 13.2,
+   "x": 985,
+   "y": 935,
+   "kind": "drag",
+   "target": "left trim handle",
+   "result": "clip edge dragged, tooltip follows",
+   "t_result_visible": 14.0,
+   "confidence": "medium",
+   "x2": 900,
+   "y2": 935,
+   "t_end": 14.0
+  },
+  {
+   "id": "A6",
+   "t_click": 20.8,
+   "x": 420,
+   "y": 935,
+   "kind": "drag",
+   "target": "right trim handle",
+   "result": "clip edge dragged inward",
+   "t_result_visible": 22.4,
+   "confidence": "medium",
+   "x2": 520,
+   "y2": 935,
+   "t_end": 22.4
+  },
+  {
+   "id": "A7",
+   "t_click": 42.0,
+   "x": 320,
+   "y": 935,
+   "kind": "drag",
+   "target": "left trim handle (trim the silence)",
+   "result": "clip starts later, tooltip 25.8s",
+   "t_result_visible": 44.1,
+   "confidence": "medium",
+   "x2": 380,
+   "y2": 935,
+   "t_end": 44.1
+  },
+  {
+   "id": "A8",
+   "t_click": 44.8,
+   "x": 700,
+   "y": 935,
+   "kind": "drag",
+   "target": "shortened clip (move it)",
+   "result": "clip moved to the start of the timeline",
+   "t_result_visible": 46.6,
+   "confidence": "medium",
+   "x2": 300,
+   "y2": 935,
+   "t_end": 46.6
+  },
+  {
+   "id": "A9",
+   "t_click": 55.3,
+   "x": 1008,
+   "y": 720,
+   "kind": "click",
+   "target": "Play button",
+   "result": "timeline plays (pause icon, time counts)",
+   "t_result_visible": 56.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 95.7,
+   "x": 500,
+   "y": 935,
+   "kind": "click",
+   "target": "audio clip (open its menu)",
+   "result": "context menu opens (Copy, Duplicate, Adjust ...)",
+   "t_result_visible": 95.8,
+   "confidence": "high"
+  },
+  {
+   "id": "A11",
+   "t_click": 97.6,
+   "x": 650,
+   "y": 800,
+   "kind": "click",
+   "target": "Adjust item in the audio menu",
+   "result": "Adjust mode opens (Slip highlighted, waveform shown)",
+   "t_result_visible": 98.2,
+   "confidence": "high"
+  },
+  {
+   "id": "A12",
+   "t_click": 119.0,
+   "x": 300,
+   "y": 940,
+   "kind": "drag",
+   "target": "waveform inside the highlighted range",
+   "result": "waveform slides, tooltip with start time",
+   "t_result_visible": 120.6,
+   "confidence": "medium",
+   "x2": 520,
+   "y2": 940,
+   "t_end": 120.6
+  },
+  {
+   "id": "A13",
+   "t_click": 131.6,
+   "x": 1008,
+   "y": 720,
+   "kind": "click",
+   "target": "Play button",
+   "result": "playback starts (pause icon)",
+   "t_result_visible": 132.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A14",
+   "t_click": 179.3,
+   "x": 864,
+   "y": 245,
+   "kind": "click",
+   "target": "Fade button",
+   "result": "Fade panel opens (Fade in / Fade out sliders)",
+   "t_result_visible": 180.6,
+   "confidence": "high"
+  },
+  {
+   "id": "A15",
+   "t_click": 182.4,
+   "x": 610,
+   "y": 440,
+   "kind": "drag",
+   "target": "Fade out slider",
+   "result": "fade out set to 1.5s",
+   "t_result_visible": 183.4,
+   "confidence": "medium",
+   "x2": 780,
+   "y2": 442,
+   "t_end": 183.4
+  },
+  {
+   "id": "A16",
+   "t_click": 189.6,
+   "x": 1008,
+   "y": 720,
+   "kind": "click",
+   "target": "Play button",
+   "result": "preview plays (pause icon)",
+   "t_result_visible": 190.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A17",
+   "t_click": 191.2,
+   "x": 1814,
+   "y": 178,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 191.4,
+   "confidence": "high"
+  },
+  {
+   "id": "A18",
+   "t_click": 192.5,
+   "x": 1500,
+   "y": 700,
+   "kind": "click",
+   "target": "Download in the Share panel",
+   "result": "Download settings (file type, quality)",
+   "t_result_visible": 194.4,
+   "confidence": "high"
+  },
+  {
+   "id": "A19",
+   "t_click": 195.2,
+   "x": 1550,
+   "y": 540,
+   "kind": "click",
+   "target": "File type dropdown",
+   "result": "list of file types",
+   "t_result_visible": 195.8,
+   "confidence": "high"
+  },
+  {
+   "id": "A20",
+   "t_click": 196.2,
+   "x": 1520,
+   "y": 660,
+   "kind": "click",
+   "target": "MP4 Video option",
+   "result": "MP4 Video selected",
+   "t_result_visible": 196.6,
+   "confidence": "high"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0,
+   "end": 1.8,
+   "reason": "idle opening, cursor only",
+   "ff": true
+  },
+  {
+   "start": 14.6,
+   "end": 20.3,
+   "reason": "idle between drags",
+   "ff": true
+  },
+  {
+   "start": 22.9,
+   "end": 33.0,
+   "reason": "hovering/idle playhead tooltips",
+   "ff": true
+  },
+  {
+   "start": 47.2,
+   "end": 52.4,
+   "reason": "scrubbing playhead, nothing narrated",
+   "ff": true
+  },
+  {
+   "start": 58.4,
+   "end": 92.0,
+   "reason": "second take of trimming and a long idle stretch",
+   "ff": false
+  },
+  {
+   "start": 98.6,
+   "end": 118.0,
+   "reason": "idle in Adjust mode",
+   "ff": true
+  },
+  {
+   "start": 121.4,
+   "end": 131.0,
+   "reason": "idle / hover in Adjust mode",
+   "ff": true
+  },
+  {
+   "start": 133.0,
+   "end": 176.5,
+   "reason": "repeat adjustments and playbacks",
+   "ff": false
+  },
+  {
+   "start": 199.8,
+   "end": 204.833,
+   "reason": "desktop after recording, recorder stop",
+   "ff": false
+  }
+ ]
+}
