@@ -1,112 +1,23 @@
 {
- "anchors": [
-  {
-   "action": "A1",
-   "line": 4,
-   "word": "uploads"
-  },
-  {
-   "action": "A2",
-   "line": 5,
-   "word": "upload",
-   "src_from": 29.5,
-   "prev_until": 19.9
-  },
-  {
-   "action": "A3",
-   "line": 5,
-   "word": "logo",
-   "lead": 0.1,
-   "src_from": 33.5,
-   "prev_until": 31.8
-  },
-  {
-   "action": "A4",
-   "line": 7,
-   "word": "uploaded"
-  },
-  {
-   "action": "A5",
-   "line": 8,
-   "word": "corner",
-   "occurrence": 1
-  },
-  {
-   "action": "A8",
-   "line": 8,
-   "word": "move",
-   "occurrence": 1,
-   "src_from": 89.4,
-   "prev_until": 47.6
-  },
-  {
-   "action": "A6",
-   "line": 10,
-   "word": "footage,",
-   "src_from": 80.1,
-   "prev_until": 97.0
-  },
-  {
-   "action": "A9",
-   "line": 11,
-   "word": "logo",
-   "src_from": 99.0,
-   "prev_until": 86.5
-  },
-  {
-   "action": "A10",
-   "line": 16,
-   "word": "Preview",
-   "src_from": 153.9,
-   "prev_until": 121.5
-  },
-  {
-   "action": "A11",
-   "line": 17,
-   "word": "share,",
-   "src_from": 176.5,
-   "prev_until": 160.0
-  },
-  {
-   "action": "A12",
-   "line": 17,
-   "word": "download",
-   "src_from": 179.7,
-   "prev_until": 178.1
-  },
-  {
-   "action": "A13",
-   "line": 17,
-   "word": "MP4",
-   "src_from": 183.45,
-   "prev_until": 180.6
-  },
-  {
-   "action": "A14",
-   "line": 18,
-   "word": "downloaded",
-   "src_from": 186.2,
-   "prev_until": 184.9
-  }
- ],
- "zooms": [],
- "no_ripple": [
-  "A1",
-  "A3",
-  "A4",
-  "A5",
-  "A6",
-  "A7",
-  "A8",
-  "A9",
-  "A10",
-  "A12",
-  "A13",
-  "A14",
-  "A15"
- ],
- "cuts": [],
- "ff_max": 2.0,
- "use_junk": true,
- "src_end": 190.9
+  "anchors": [
+    {"action": "A1", "line": 2, "word": "Uploads"},
+    {"action": "A2", "line": 3, "word": "Upload", "src_from": 30.9, "prev_until": 19.6},
+    {"action": "A4", "line": 5, "word": "logo"},
+    {"action": "A5", "line": 6, "word": "handle"},
+    {"action": "A8", "line": 6, "word": "corner", "occurrence": 2, "src_from": 88.8, "prev_until": 47.4},
+    {"action": "A6", "line": 8, "word": "behind", "src_from": 76.0, "prev_until": 95.5},
+    {"action": "A7", "line": 8, "word": "Layers"},
+    {"action": "A9", "line": 9, "word": "layer", "src_from": 97.0, "prev_until": 85.3},
+    {"action": "A11", "line": 10, "word": "end", "src_from": 106.9, "prev_until": 102.0},
+    {"action": "A12", "line": 13, "word": "Preview", "src_from": 162.0, "prev_until": 127.0},
+    {"action": "A13", "line": 14, "word": "Share", "src_from": 177.6, "prev_until": 169.5},
+    {"action": "A14", "line": 14, "word": "Download", "lead": 0.1},
+    {"action": "A16", "line": 14, "word": "Video", "src_from": 183.0, "prev_until": 181.2}
+  ],
+  "zooms": [],
+  "no_ripple": ["A1","A2","A3","A4","A5","A6","A7","A8","A9","A10","A11","A12","A13","A14","A15","A16"],
+  "cuts": [],
+  "ff_max": 2.0,
+  "use_junk": true,
+  "src_start": 10.0
 }

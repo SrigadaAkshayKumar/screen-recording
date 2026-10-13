@@ -2,38 +2,39 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 4 | uploads | 18.900 | A1 Uploads in left sidebar | 18.550 | 0.98x |
-| 5 | upload | 21.200 | A2 Upload files button | 30.550 | 1.04x |
-| 5 | logo | 22.900 | A3 Open button in file picker | 34.300 | 1.21x |
-| 7 | uploaded | 32.220 | A4 logo thumbnail in uploads | 41.600 | 0.78x |
-| 8 | corner | 35.460 | A5 bottom-right corner handle | 46.200 | 1.42x |
-| 8 | move | 37.140 | A8 logo | 90.000 | 1.19x |
-| 10 | footage, | 45.960 | A6 chart image in uploads (footage) | 81.600 | 0.96x |
-| 11 | logo | 51.540 | A9 logo layer in timeline | 100.300 | 1.11x |
-| 16 | Preview | 73.700 | A10 playhead on timeline (previewing the video) | 154.900 | 1.00x |
-| 17 | share, | 79.180 | A11 Share button | 177.600 | 1.13x |
-| 17 | download | 80.100 | A12 Download in share menu | 180.200 | 1.09x |
-| 17 | MP4 | 80.980 | A13 MP4 Video in file type list | 183.950 | 1.02x |
-| 18 | downloaded | 82.700 | A14 Download button | 187.100 | 1.08x |
+| 2 | Uploads | 8.540 | A1 Uploads in the left sidebar | 18.600 | 1.01x |
+| 3 | Upload | 10.840 | A2 Upload files button | 32.000 | 0.91x |
+| 5 | logo | 22.220 | A4 uploaded logo thumbnail | 41.300 | 0.82x |
+| 6 | handle | 25.300 | A5 corner handle of the logo | 45.600 | 1.40x |
+| 6 | corner | 27.360 | A8 logo | 89.500 | 1.21x |
+| 8 | behind | 34.980 | A6 Uploads in the left sidebar (again) | 78.400 | 1.10x |
+| 8 | Layers | 37.740 | A7 chart image in the library | 82.300 | 1.41x |
+| 9 | layer | 42.080 | A9 logo (select it) | 99.400 | 1.24x |
+| 10 | end | 45.000 | A11 logo layer edge in the timeline | 107.800 | 1.20x |
+| 13 | Preview | 63.260 | A12 Play button under the canvas | 164.400 | 1.18x |
+| 14 | Share, | 68.800 | A13 Share button | 178.800 | 1.14x |
+| 14 | Download | 69.860 | A14 Download in the share menu | 180.200 | 1.32x |
+| 14 | Video. | 71.220 | A16 MP4 Video option | 183.600 | 1.18x |
 
 ## Builder decisions
 
-- A2: after A1 (until src 19.90) jumps ahead to src 29.50 - narration order
-- A3: after A2 (until src 31.80) jumps ahead to src 33.50 - narration order
-- A8: after A5 (until src 47.60) jumps ahead to src 89.40 - narration order
-- A6: after A8 (until src 97.00) jumps back to src 80.10 - narration order
-- A9: after A6 (until src 86.50) jumps ahead to src 99.00 - narration order
-- A10: after A9 (until src 121.50) jumps ahead to src 153.90 - narration order
-- A11: after A10 (until src 160.00) jumps ahead to src 176.50 - narration order
-- A12: after A11 (until src 178.10) jumps ahead to src 179.70 - narration order
-- A13: after A12 (until src 180.60) jumps ahead to src 183.45 - narration order
-- A14: after A13 (until src 184.90) jumps ahead to src 186.20 - narration order
+- A2: after A1 (until src 19.60) jumps ahead to src 30.90 - narration order
+- A8: after A5 (until src 47.40) jumps ahead to src 88.80 - narration order
+- A6: after A8 (until src 95.50) jumps back to src 76.00 - narration order
+- A9: after A7 (until src 85.30) jumps ahead to src 97.00 - narration order
+- A11: after A9 (until src 102.00) jumps ahead to src 106.90 - narration order
+- A12: after A11 (until src 127.00) jumps ahead to src 162.00 - narration order
+- A13: after A12 (until src 169.50) jumps ahead to src 177.60 - narration order
+- A16: after A14 (until src 181.20) jumps ahead to src 183.00 - narration order
 
 ## Judgment calls
-- Recording has the recorder's auto-zoom baked in -> no zooms, ripples only on the unzoomed clicks (Upload files, Share).
-- Anchors: A1 "uploads", A2 "upload", A3 "logo" (+0.1), A4 "uploaded", A5 "corner" (resize), A8 "move" (move to corner, footage from 89.4), A6 "footage," (chart added, L10), A9 "logo" (L11, layer in timeline), A10 "Preview" (playhead scrub 154.9), A11 "share,", A12 "download", A13 "MP4", A14 "downloaded".
-- Order changes (audio wins): resize/move-to-corner footage (88-92) is shown at L8 although the recording does it after the chart is added (81.6). The chart is then added at L10 "footage" -> continuity oddity: the chart is already on the canvas in the L8 shots.
-- Cuts (cross-faded jumps) instead of fast-forward, because the narration leaves 2.3 s for 12 s of dead time: 20.2-29.5 (idle after Uploads), 32.1-33.5 (file picker browsing), 48-89 jump to the chart section, 97-80 back-jump, 86.5-99, 121.5-153.9, 160-176.5, 178.1-179.7, 180.6-183.45, 184.9-186.2.
-- Unanchored: A7 (resize on chart, never shown), A15 wait (export). Hand edit to plan.json: last segment src_end 190.9 and wait:true (1.6x) so the closing frame shows the finished design instead of the open Download panel.
-- No recording footage exists for "select position / open layers" (L10), "adjust start/end edges" (L12; timeline hover 100-121 played at 1x), "copy logo to scenes" (L13) or "separate scenes" - those lines play over related footage (timeline).
-- Pace: no `pace:` warnings remain. Slowest 0.78x (A3->A4), fastest approach 1.42x (A4->A5).
+
+- Audio order followed. Source jumps (cross-fades, 8 in 74 s): intro idle -> Upload files (11 s of idle at 19.6-30.9 s cannot play at <= 2x in the 2.3 s the narration leaves), resize -> move to corner (45 -> 89 s), corner move -> Uploads reopened (back to 76 s), chart -> logo layer, layer -> second edge drag, edge drag -> Preview (~127 -> 162 s), Preview -> Share, Download -> MP4.
+- Everything else plays at 0.82-1.41x; nothing is cut inside a scene, idle stretches just play at about 1x. No `pace:` warnings.
+- Anchors: A1 "Uploads", A2 "Upload", A4 "logo" (A3, closing the picker, plays inside the "select your logo / wait for it to appear" stretch), A5 "handle", A8 "corner" (2nd), A6 "behind" + A7 "Layers" (see below), A9 "layer", A11 "end", A12 "Preview", A13 "Share", A14 "Download" (+0.1 lead), A16 "Video" (MP4 selection).
+- Line 8 ("select Position, open Layers, move the logo above the video") has no footage. It plays over reopening Uploads and adding the chart as footage, ending with the logo shown above the chart. The words do not match the clicks; the viewer sees the logo above the footage but not the Position/Layers menus.
+- Line 9: the logo-layer row appears in the timeline at 99.4 s; the click is anchored on "layer" (42.08 s) rather than "logo" because the footage after it needed more narration time.
+- A15 (file type dropdown) is cut by the jump to the MP4 selection (narration says "Download, and MP4 Video" in 2 s); A10 is shown but not tied to a word.
+- A8 result (logo in corner) finishes at 28.72 s, 0.6 s after line 6 ends, intentionally: line 7 talks about spacing next to it.
+- No zooms (baked-in recorder zoom) and no ripples (coordinates would be wrong in zoomed frames, lessons 2026-10-10 / 2026-10-11).
+- Intro starts at src 10.0 s (frozen canvas 10-11.9 s plays under "This tutorial shows you...").
