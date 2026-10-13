@@ -170,7 +170,8 @@ def main():
     pr = Project(a.project)
     probe = pr.need("probe.json", "tools/probe.py")
     plan = pr.need("plan.json", "the screencast-sync skill")
-    err, wrn = validate_plan(plan, probe, pr.maybe("actions.json"), pr.maybe("lines.json"))
+    err, wrn = validate_plan(plan, probe, pr.maybe("actions.json"), pr.maybe("lines.json"),
+                             pr.maybe("scenes.json"))
     if not report("plan.json", err, wrn):
         die("fix plan.json before rendering", 1)
     if a.check:

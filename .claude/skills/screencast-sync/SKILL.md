@@ -106,7 +106,9 @@ intro) and runs the plan validator. Rules it enforces, which you must keep if yo
 - **Tutorial pacing (client rule, overrides "fits within the limits"):** a viewer must be able
   to follow every cursor move. Actions and cursor approaches 0.75-1.5x; in-scene dead time at most
   2x (`ff_max`); waits at most 3x, otherwise cut them with a cross-fade; no held frame over 1.5 s
-  (closing hold up to 3 s); no piece shorter than 0.5 s. `check.py --plan` flags each of these as
+  (closing hold up to 3 s); no stretch over 2.5 s where the screen does not move (holds plus
+  `stills` footage played as is, e.g. only the cursor twitching: it looks frozen too); no piece
+  shorter than 0.5 s. `check.py --plan` flags each of these as
   a `pace:` warning; fix them all before rendering (more narration time, a cut of dead time, or a
   supporting anchor unpinned), and list any you could not fix in the report.
   or cut with a cross-fade;

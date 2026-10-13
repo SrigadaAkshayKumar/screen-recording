@@ -143,7 +143,8 @@ def run_claude(name: str) -> None:
         "the skill says. Keep the client's preferences from docs/lessons.md: follow the audio order, "
         "and fast-forward in-scene dead time instead of cutting it. These are tutorials: screen movement "
         "must be smooth and easy to follow - actions at 0.75-1.5x, dead time at most 2x (waits 3x, longer waits cut), "
-        "no held frame over 1.5 s, no choppy pieces; fix every 'pace:' warning from check.py --plan "
+        "no held frame over 1.5 s, no stretch of real footage where the screen does not move for over 2.5 s "
+        "(it looks frozen just like a held frame), no choppy pieces; fix every 'pace:' warning from check.py --plan "
         "before rendering, or explain in the report why one cannot be fixed."
     )
     cmd = ["claude", "-p", prompt, "--dangerously-skip-permissions", "--output-format", "text"]
