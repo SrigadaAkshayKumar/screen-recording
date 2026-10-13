@@ -1,0 +1,249 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 264.3
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 10.45,
+   "x": 90,
+   "y": 640,
+   "kind": "click",
+   "target": "Uploads tab in sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 11.2,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 13.2,
+   "x": 420,
+   "y": 300,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "file picker opens",
+   "t_result_visible": 14.1,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 14.95,
+   "x": 1100,
+   "y": 790,
+   "kind": "click",
+   "target": "Open button in file dialog",
+   "result": "file picker closes, upload starts",
+   "t_result_visible": 15.799999999999999,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 21.8,
+   "x": 380,
+   "y": 520,
+   "kind": "click",
+   "target": "voice-over.mp3 in Uploads > Audio",
+   "result": "audio clip appears on timeline",
+   "t_result_visible": 22.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 23.2,
+   "x": 300,
+   "y": 880,
+   "kind": "drag",
+   "target": "audio clip on timeline",
+   "result": "clip positioned at start of timeline",
+   "t_result_visible": 25.099999999999998,
+   "confidence": "low",
+   "x2": 400,
+   "y2": 880,
+   "t_end": 24.9
+  },
+  {
+   "id": "A6",
+   "t_click": 50.3,
+   "x": 1000,
+   "y": 300,
+   "kind": "click",
+   "target": "Audio category tile in Elements",
+   "result": "audio list opens",
+   "t_result_visible": 51.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 55.4,
+   "x": 260,
+   "y": 610,
+   "kind": "click",
+   "target": "Way You Make Me Feel track",
+   "result": "track details open",
+   "t_result_visible": 56.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 74.4,
+   "x": 260,
+   "y": 610,
+   "kind": "click",
+   "target": "track in audio list (adds to timeline)",
+   "result": "music appears under narration on timeline",
+   "t_result_visible": 75.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 84.0,
+   "x": 260,
+   "y": 610,
+   "kind": "click",
+   "target": "that feeling track in audio list",
+   "result": "sound effect track added to timeline",
+   "t_result_visible": 85.1,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 87.2,
+   "x": 700,
+   "y": 850,
+   "kind": "drag",
+   "target": "sound effect clip on timeline",
+   "result": "clip moved along timeline",
+   "t_result_visible": 88.4,
+   "confidence": "low",
+   "x2": 800,
+   "y2": 850,
+   "t_end": 88.2
+  },
+  {
+   "id": "A11",
+   "t_click": 123.9,
+   "x": 200,
+   "y": 300,
+   "kind": "click",
+   "target": "Add a heading in Text panel",
+   "result": "title text appears on design",
+   "t_result_visible": 125.1,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 145.8,
+   "x": 1000,
+   "y": 730,
+   "kind": "click",
+   "target": "Play button under preview",
+   "result": "preview plays",
+   "t_result_visible": 146.79999999999998,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 182.9,
+   "x": 800,
+   "y": 880,
+   "kind": "click",
+   "target": "narration audio track in timeline",
+   "result": "track selected",
+   "t_result_visible": 183.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 192.6,
+   "x": 1000,
+   "y": 640,
+   "kind": "click",
+   "target": "music track in timeline then volume slider",
+   "result": "volume popup, set to 32",
+   "t_result_visible": 193.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 207.2,
+   "x": 1100,
+   "y": 350,
+   "kind": "drag",
+   "target": "clip edge in timeline",
+   "result": "clip trimmed",
+   "t_result_visible": 210.5,
+   "confidence": "low",
+   "x2": 1200,
+   "y2": 350,
+   "t_end": 210.3
+  },
+  {
+   "id": "A16",
+   "t_click": 219.0,
+   "x": 700,
+   "y": 880,
+   "kind": "drag",
+   "target": "second clip in timeline",
+   "result": "clip placed after the first",
+   "t_result_visible": 221.2,
+   "confidence": "low",
+   "x2": 800,
+   "y2": 880,
+   "t_end": 221.0
+  },
+  {
+   "id": "A17",
+   "t_click": 229.5,
+   "x": 900,
+   "y": 850,
+   "kind": "drag",
+   "target": "clip in timeline",
+   "result": "clips overlap",
+   "t_result_visible": 231.2,
+   "confidence": "low",
+   "x2": 1000,
+   "y2": 850,
+   "t_end": 231.0
+  },
+  {
+   "id": "A18",
+   "t_click": 239.7,
+   "x": 1000,
+   "y": 730,
+   "kind": "click",
+   "target": "Play button",
+   "result": "preview of overlap plays",
+   "t_result_visible": 240.79999999999998,
+   "confidence": "low"
+  },
+  {
+   "id": "A19",
+   "t_click": 248.3,
+   "x": 1800,
+   "y": 70,
+   "kind": "click",
+   "target": "Share button / Download",
+   "result": "share panel opens",
+   "t_result_visible": 249.2,
+   "confidence": "low"
+  },
+  {
+   "id": "A20",
+   "t_click": 254.0,
+   "x": 1500,
+   "y": 700,
+   "kind": "click",
+   "target": "MP4 Video file type",
+   "result": "MP4 selected in Download panel",
+   "t_result_visible": 255.4,
+   "confidence": "low"
+  }
+ ],
+ "junk": []
+}
