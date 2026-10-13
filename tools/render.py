@@ -221,8 +221,8 @@ def main():
                "-r", f"{fps.numerator}/{fps.denominator}", "-i", "-",
                "-ss", f"{t_a:.3f}", "-t", f"{dur:.3f}", "-i", str(pr.voiceover),
                "-map", "0:v:0", "-map", "1:a:0",
-               "-c:v", "libx264", "-preset", "ultrafast" if a.preview else "medium",
-               "-crf", "23" if a.preview else "18", "-pix_fmt", "yuv420p",
+               "-c:v", "libx264", "-preset", "ultrafast" if a.preview else "slow",
+               "-crf", "23" if a.preview else "16", "-pix_fmt", "yuv420p",
                "-c:a", "aac", "-b:a", "192k", "-shortest", "-movflags", "+faststart", str(out)]
     enc = subprocess.Popen(enc_cmd, stdin=subprocess.PIPE, stderr=vlog)
 
