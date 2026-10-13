@@ -1,14 +1,16 @@
 {
+ "src_start": 7.8,
+ "src_end": 241.5,
  "anchors": [
   {
-   "action": "A2",
+   "action": "A1",
    "line": 3,
    "word": "Elements"
   },
   {
-   "action": "A3",
+   "action": "A2",
    "line": 3,
-   "word": "Audio"
+   "word": "category"
   },
   {
    "action": "A4",
@@ -18,17 +20,17 @@
   {
    "action": "A5",
    "line": 4,
-   "word": "genre"
+   "word": "such"
   },
   {
    "action": "A6",
    "line": 5,
-   "word": "Listen"
+   "word": "three"
   },
   {
    "action": "A7",
-   "line": 5,
-   "word": "three"
+   "line": 10,
+   "word": "playhead"
   },
   {
    "action": "A8",
@@ -38,42 +40,62 @@
   {
    "action": "A9",
    "line": 11,
-   "word": "length"
+   "word": "Adjust"
   },
   {
    "action": "A10",
    "line": 12,
-   "word": "volume"
+   "word": "your"
+  },
+  {
+   "action": "A11",
+   "line": 12,
+   "word": "speech"
   },
   {
    "action": "A12",
    "line": 13,
-   "word": "upload"
-  },
-  {
-   "action": "A13",
-   "line": 13,
    "word": "uploads"
   },
   {
-   "action": "A14",
+   "action": "A13",
    "line": 14,
    "word": "license"
   },
   {
-   "action": "A17",
+   "action": "A14",
+   "line": 14,
+   "word": "attribution"
+  },
+  {
+   "action": "A15",
+   "line": 15,
+   "word": "part"
+  },
+  {
+   "action": "A16",
    "line": 16,
-   "word": "case"
+   "word": "guidance"
   },
   {
    "action": "A19",
    "line": 17,
-   "word": "MP4"
+   "word": "Preview"
   },
   {
    "action": "A20",
    "line": 17,
-   "word": "ends"
+   "word": "download"
+  },
+  {
+   "action": "A21",
+   "line": 17,
+   "word": "video"
+  },
+  {
+   "action": "A22",
+   "line": 17,
+   "word": "intended"
   }
  ],
  "zooms": [],
@@ -97,96 +119,96 @@
   "A17",
   "A18",
   "A19",
-  "A20"
+  "A20",
+  "A21",
+  "A22"
  ],
  "cuts": [
   {
-   "src_start": 11.5,
-   "src_end": 14.3,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 20.2,
+   "src_end": 28.8,
+   "reason": "idle cursor on Audio panel",
+   "ff": true
   },
   {
-   "src_start": 22.0,
-   "src_end": 28.9,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 32.2,
+   "src_end": 33.9,
+   "reason": "suggestion dropdown idle",
+   "ff": true
   },
   {
-   "src_start": 30.6,
-   "src_end": 35.2,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
-  },
-  {
-   "src_start": 37.8,
-   "src_end": 42.6,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
-  },
-  {
-   "src_start": 44.5,
+   "src_start": 40.0,
    "src_end": 57.0,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "reason": "cursor browsing results",
+   "ff": true
   },
   {
    "src_start": 72.0,
-   "src_end": 92.5,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_end": 92.0,
+   "reason": "popover static, cursor only"
   },
   {
-   "src_start": 99.6,
-   "src_end": 105.5,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 99.8,
+   "src_end": 116.0,
+   "reason": "timeline adjustments before the trim"
   },
   {
-   "src_start": 110.5,
-   "src_end": 126.1,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 118.6,
+   "src_end": 123.3,
+   "reason": "middle of the trim drag"
   },
   {
-   "src_start": 129.6,
-   "src_end": 130.6,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 125.0,
+   "src_end": 126.0,
+   "reason": "idle between trim and volume",
+   "ff": true
   },
   {
-   "src_start": 133.2,
-   "src_end": 156.8,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 133.5,
+   "src_end": 157.0,
+   "reason": "off-topic: video added to design"
   },
   {
-   "src_start": 158.8,
-   "src_end": 187.9,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 163.0,
+   "src_end": 187.5,
+   "reason": "retake: Audio panel re-opened"
   },
   {
-   "src_start": 191.4,
-   "src_end": 205.4,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 192.17,
+   "src_end": 203.87,
+   "reason": "popover static"
   },
   {
-   "src_start": 220.0,
-   "src_end": 224.8,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 211.0,
+   "src_end": 214.0,
+   "reason": "licensing dialog static"
   },
   {
-   "src_start": 230.0,
-   "src_end": 236.0,
-   "reason": "dead time / off-topic; narration moves on",
-   "xfade": true
+   "src_start": 216.0,
+   "src_end": 220.0,
+   "reason": "cursor travel and zoom animation"
+  },
+  {
+   "src_start": 222.8,
+   "src_end": 225.2,
+   "reason": "playback idle"
+  },
+  {
+   "src_start": 227.4,
+   "src_end": 227.9,
+   "reason": "menu opening"
+  },
+  {
+   "src_start": 229.2,
+   "src_end": 229.9,
+   "reason": "panel idle"
+  },
+  {
+   "src_start": 233.0,
+   "src_end": 237.0,
+   "reason": "cursor idle"
   }
  ],
  "ff_max": 2.0,
- "use_junk": true,
- "src_start": 6.0,
- "src_end": 239.0
+ "use_junk": true
 }

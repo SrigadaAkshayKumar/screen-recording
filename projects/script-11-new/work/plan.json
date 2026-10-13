@@ -1,6 +1,6 @@
 {
   "output": {
-    "duration": 80.98,
+    "duration": 81.032,
     "fps": 30.0,
     "width": 1920,
     "height": 1080
@@ -8,345 +8,414 @@
   "segments": [
     {
       "mode": "speed",
-      "src_start": 6.0,
-      "src_end": 11.5,
+      "src_start": 7.8,
+      "src_end": 16.45,
       "out_start": 0.0,
-      "out_end": 6.586
+      "out_end": 9.74
     },
     {
       "mode": "speed",
-      "src_start": 14.3,
-      "src_end": 16.9,
+      "src_start": 16.45,
+      "src_end": 18.85,
+      "out_start": 9.74,
+      "out_end": 11.34
+    },
+    {
+      "mode": "speed",
+      "src_start": 18.85,
+      "src_end": 20.2,
+      "out_start": 11.34,
+      "out_end": 12.549
+    },
+    {
+      "mode": "speed",
+      "src_start": 28.8,
+      "src_end": 31.0,
       "xfade": true,
-      "out_start": 6.586,
-      "out_end": 9.7
+      "out_start": 12.549,
+      "out_end": 14.52
     },
     {
       "mode": "speed",
-      "src_start": 16.9,
-      "src_end": 18.7,
-      "out_start": 9.7,
-      "out_end": 11.0
+      "src_start": 31.0,
+      "src_end": 32.2,
+      "out_start": 14.52,
+      "out_end": 15.495
     },
     {
       "mode": "speed",
-      "src_start": 18.7,
-      "src_end": 22.0,
-      "out_start": 11.0,
-      "out_end": 13.655
-    },
-    {
-      "mode": "speed",
-      "src_start": 28.9,
-      "src_end": 29.9,
+      "src_start": 33.9,
+      "src_end": 34.3,
       "xfade": true,
-      "out_start": 13.655,
-      "out_end": 14.46
+      "out_start": 15.495,
+      "out_end": 15.82
     },
     {
       "mode": "speed",
-      "src_start": 29.9,
-      "src_end": 30.6,
-      "out_start": 14.46,
-      "out_end": 15.238
-    },
-    {
-      "mode": "speed",
-      "src_start": 35.2,
-      "src_end": 35.4,
-      "xfade": true,
-      "out_start": 15.238,
-      "out_end": 15.46
-    },
-    {
-      "mode": "speed",
-      "src_start": 35.4,
-      "src_end": 37.8,
-      "out_start": 15.46,
-      "out_end": 18.16
-    },
-    {
-      "mode": "speed",
-      "src_start": 42.6,
-      "src_end": 43.4,
-      "xfade": true,
-      "out_start": 18.16,
-      "out_end": 19.06
-    },
-    {
-      "mode": "speed",
-      "src_start": 43.4,
-      "src_end": 44.5,
-      "out_start": 19.06,
-      "out_end": 19.922
+      "src_start": 34.3,
+      "src_end": 40.0,
+      "out_start": 15.82,
+      "out_end": 19.75
     },
     {
       "mode": "speed",
       "src_start": 57.0,
-      "src_end": 58.4,
+      "src_end": 58.9,
       "xfade": true,
-      "out_start": 19.922,
-      "out_end": 21.02
+      "out_start": 19.75,
+      "out_end": 21.06
     },
     {
       "mode": "speed",
-      "src_start": 58.4,
+      "src_start": 58.9,
       "src_end": 72.0,
-      "out_start": 21.02,
-      "out_end": 36.681
+      "out_start": 21.06,
+      "out_end": 37.214
     },
     {
       "mode": "speed",
-      "src_start": 92.5,
-      "src_end": 98.7,
+      "src_start": 92.0,
+      "src_end": 95.8,
       "xfade": true,
-      "out_start": 36.681,
-      "out_end": 43.82
+      "out_start": 37.214,
+      "out_end": 41.9
     },
     {
       "mode": "speed",
-      "src_start": 98.7,
-      "src_end": 99.6,
-      "out_start": 43.82,
-      "out_end": 44.526
+      "src_start": 95.8,
+      "src_end": 98.6,
+      "out_start": 41.9,
+      "out_end": 43.88
     },
     {
       "mode": "speed",
-      "src_start": 105.5,
-      "src_end": 108.4,
+      "src_start": 98.6,
+      "src_end": 99.8,
+      "out_start": 43.88,
+      "out_end": 44.829
+    },
+    {
+      "mode": "speed",
+      "src_start": 116.0,
+      "src_end": 117.0,
       "xfade": true,
-      "out_start": 44.526,
-      "out_end": 46.8
+      "out_start": 44.829,
+      "out_end": 45.62
     },
     {
       "mode": "speed",
-      "src_start": 108.4,
-      "src_end": 110.5,
-      "out_start": 46.8,
-      "out_end": 48.371
+      "src_start": 117.0,
+      "src_end": 118.6,
+      "out_start": 45.62,
+      "out_end": 46.854
     },
     {
       "mode": "speed",
-      "src_start": 126.1,
-      "src_end": 126.7,
+      "src_start": 123.3,
+      "src_end": 126.6,
       "xfade": true,
-      "out_start": 48.371,
-      "out_end": 48.82
+      "out_start": 46.854,
+      "out_end": 49.4
     },
     {
       "mode": "speed",
-      "src_start": 126.7,
-      "src_end": 129.6,
-      "out_start": 48.82,
-      "out_end": 51.14
+      "src_start": 126.6,
+      "src_end": 128.0,
+      "out_start": 49.4,
+      "out_end": 50.72
     },
     {
       "mode": "speed",
-      "src_start": 130.6,
-      "src_end": 131.8,
+      "src_start": 128.0,
+      "src_end": 132.2,
+      "out_start": 50.72,
+      "out_end": 54.06
+    },
+    {
+      "mode": "speed",
+      "src_start": 132.2,
+      "src_end": 133.5,
+      "out_start": 54.06,
+      "out_end": 55.199
+    },
+    {
+      "mode": "speed",
+      "src_start": 157.0,
+      "src_end": 157.8,
       "xfade": true,
-      "out_start": 51.14,
-      "out_end": 52.1
+      "out_start": 55.199,
+      "out_end": 55.9
     },
     {
       "mode": "speed",
-      "src_start": 131.8,
-      "src_end": 133.2,
-      "out_start": 52.1,
-      "out_end": 53.244
+      "src_start": 157.8,
+      "src_end": 160.6,
+      "out_start": 55.9,
+      "out_end": 58.34
     },
     {
       "mode": "speed",
-      "src_start": 156.8,
-      "src_end": 157.7,
+      "src_start": 160.6,
+      "src_end": 163.0,
+      "out_start": 58.34,
+      "out_end": 60.013
+    },
+    {
+      "mode": "speed",
+      "src_start": 187.5,
+      "src_end": 188.6,
       "xfade": true,
-      "out_start": 53.244,
-      "out_end": 53.98
+      "out_start": 60.013,
+      "out_end": 60.78
     },
     {
       "mode": "speed",
-      "src_start": 157.7,
-      "src_end": 158.8,
-      "out_start": 53.98,
-      "out_end": 54.833
+      "src_start": 188.6,
+      "src_end": 192.167,
+      "out_start": 60.78,
+      "out_end": 63.834
     },
     {
       "mode": "speed",
-      "src_start": 187.9,
-      "src_end": 189.2,
+      "src_start": 203.87,
+      "src_end": 209.6,
       "xfade": true,
-      "out_start": 54.833,
-      "out_end": 55.84
+      "out_start": 63.834,
+      "out_end": 68.74
     },
     {
       "mode": "speed",
-      "src_start": 189.2,
-      "src_end": 191.4,
-      "out_start": 55.84,
-      "out_end": 58.312
+      "src_start": 209.6,
+      "src_end": 211.0,
+      "out_start": 68.74,
+      "out_end": 69.996
     },
     {
       "mode": "speed",
-      "src_start": 205.4,
-      "src_end": 218.9,
+      "src_start": 214.0,
+      "src_end": 216.0,
       "xfade": true,
-      "out_start": 58.312,
-      "out_end": 73.48
+      "out_start": 69.996,
+      "out_end": 71.79
     },
     {
       "mode": "speed",
-      "src_start": 218.9,
-      "src_end": 220.0,
-      "out_start": 73.48,
-      "out_end": 74.299
-    },
-    {
-      "mode": "speed",
-      "src_start": 224.8,
-      "src_end": 228.0,
+      "src_start": 220.0,
+      "src_end": 222.8,
       "xfade": true,
-      "out_start": 74.299,
-      "out_end": 76.68
+      "out_start": 71.79,
+      "out_end": 74.302
     },
     {
       "mode": "speed",
-      "src_start": 228.0,
-      "src_end": 230.0,
-      "out_start": 76.68,
-      "out_end": 78.315
-    },
-    {
-      "mode": "speed",
-      "src_start": 236.0,
-      "src_end": 237.4,
+      "src_start": 225.2,
+      "src_end": 226.0,
       "xfade": true,
-      "out_start": 78.315,
-      "out_end": 79.46
+      "out_start": 74.302,
+      "out_end": 75.02
     },
     {
       "mode": "speed",
-      "src_start": 237.4,
-      "src_end": 238.92,
-      "out_start": 79.46,
-      "out_end": 80.98
+      "src_start": 226.0,
+      "src_end": 227.4,
+      "out_start": 75.02,
+      "out_end": 75.953
+    },
+    {
+      "mode": "speed",
+      "src_start": 227.9,
+      "src_end": 228.3,
+      "xfade": true,
+      "out_start": 75.953,
+      "out_end": 76.22
+    },
+    {
+      "mode": "speed",
+      "src_start": 228.3,
+      "src_end": 229.2,
+      "out_start": 76.22,
+      "out_end": 76.928
+    },
+    {
+      "mode": "speed",
+      "src_start": 229.9,
+      "src_end": 230.5,
+      "xfade": true,
+      "out_start": 76.928,
+      "out_end": 77.4
+    },
+    {
+      "mode": "speed",
+      "src_start": 230.5,
+      "src_end": 233.0,
+      "out_start": 77.4,
+      "out_end": 79.176
+    },
+    {
+      "mode": "speed",
+      "src_start": 237.0,
+      "src_end": 238.3,
+      "xfade": true,
+      "out_start": 79.176,
+      "out_end": 80.1
+    },
+    {
+      "mode": "speed",
+      "src_start": 238.3,
+      "src_end": 239.232,
+      "out_start": 80.1,
+      "out_end": 81.032
     }
   ],
   "zooms": [],
   "ripples": [],
   "intro": {
     "mode": "play",
-    "until": 9.7
+    "until": 9.74
   },
   "outro": null,
   "sync": [
     {
-      "action": "A2",
+      "action": "A1",
       "line": 3,
       "word": "Elements",
       "word_index": 34,
-      "word_t": 9.7
+      "word_t": 9.74
     },
     {
-      "action": "A3",
+      "action": "A2",
       "line": 3,
-      "word": "Audio",
-      "word_index": 38,
-      "word_t": 11.0
+      "word": "category,",
+      "word_index": 39,
+      "word_t": 11.34
     },
     {
       "action": "A4",
       "line": 4,
       "word": "Search",
       "word_index": 45,
-      "word_t": 14.46
+      "word_t": 14.52
     },
     {
       "action": "A5",
       "line": 4,
-      "word": "genre",
-      "word_index": 50,
-      "word_t": 15.46
+      "word": "such",
+      "word_index": 51,
+      "word_t": 15.82
     },
     {
       "action": "A6",
       "line": 5,
-      "word": "Listen",
-      "word_index": 57,
-      "word_t": 19.06
+      "word": "three",
+      "word_index": 65,
+      "word_t": 21.06
     },
     {
       "action": "A7",
-      "line": 5,
-      "word": "three",
-      "word_index": 65,
-      "word_t": 21.02
+      "line": 10,
+      "word": "playhead",
+      "word_index": 118,
+      "word_t": 41.9
     },
     {
       "action": "A8",
       "line": 10,
       "word": "click",
       "word_index": 125,
-      "word_t": 43.82
+      "word_t": 43.88
     },
     {
       "action": "A9",
       "line": 11,
-      "word": "length",
-      "word_index": 135,
-      "word_t": 46.8
+      "word": "Adjust",
+      "word_index": 131,
+      "word_t": 45.62
     },
     {
       "action": "A10",
       "line": 12,
-      "word": "volume",
-      "word_index": 141,
-      "word_t": 48.82
+      "word": "your",
+      "word_index": 143,
+      "word_t": 49.4
+    },
+    {
+      "action": "A11",
+      "line": 12,
+      "word": "speech.",
+      "word_index": 147,
+      "word_t": 50.72
     },
     {
       "action": "A12",
       "line": 13,
-      "word": "upload",
-      "word_index": 151,
-      "word_t": 52.1
+      "word": "uploads.",
+      "word_index": 157,
+      "word_t": 54.06
     },
     {
       "action": "A13",
-      "line": 13,
-      "word": "uploads.",
-      "word_index": 157,
-      "word_t": 53.98
+      "line": 14,
+      "word": "license",
+      "word_index": 161,
+      "word_t": 55.9
     },
     {
       "action": "A14",
       "line": 14,
-      "word": "license",
-      "word_index": 161,
-      "word_t": 55.84
+      "word": "attribution",
+      "word_index": 169,
+      "word_t": 58.34
     },
     {
-      "action": "A17",
+      "action": "A15",
+      "line": 15,
+      "word": "part",
+      "word_index": 173,
+      "word_t": 60.78
+    },
+    {
+      "action": "A16",
       "line": 16,
-      "word": "case",
-      "word_index": 204,
-      "word_t": 73.48
+      "word": "guidance",
+      "word_index": 191,
+      "word_t": 68.74
     },
     {
       "action": "A19",
       "line": 17,
-      "word": "MP4",
-      "word_index": 213,
-      "word_t": 76.68
+      "word": "Preview",
+      "word_index": 208,
+      "word_t": 75.02
     },
     {
       "action": "A20",
       "line": 17,
-      "word": "ends",
-      "word_index": 222,
-      "word_t": 79.46
+      "word": "download",
+      "word_index": 211,
+      "word_t": 76.22
+    },
+    {
+      "action": "A21",
+      "line": 17,
+      "word": "video",
+      "word_index": 214,
+      "word_t": 77.4
+    },
+    {
+      "action": "A22",
+      "line": 17,
+      "word": "intended.",
+      "word_index": 225,
+      "word_t": 80.1
     }
   ],
   "style": {},
-  "notes": [],
+  "notes": [
+    "A2->A4: cut src 20.20-28.80 - too long to fast-forward at <= 2.00x (idle cursor on Audio panel)",
+    "A4->A5: cut src 32.20-33.90 - too long to fast-forward at <= 2.00x (suggestion dropdown idle)",
+    "A5->A6: cut src 40.00-57.00 - too long to fast-forward at <= 2.00x (cursor browsing results)",
+    "A9->A10: fast-forwarded src 125.00-126.00 instead of cutting it (idle between trim and volume)"
+  ],
   "generated_by": "tools/plan_builder.py from work/sync.json",
-  "generated_hash": "2f78e7363476"
+  "generated_hash": "cf70976eb606"
 }
