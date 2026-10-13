@@ -1,0 +1,216 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 186.067
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 13.5,
+   "x": 384,
+   "y": 936,
+   "kind": "click",
+   "target": "Audio bar (voiceover track) in the timeline",
+   "result": "track selected, audio toolbar appears",
+   "t_result_visible": 13.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 19.4,
+   "x": 754,
+   "y": 245,
+   "kind": "click",
+   "target": "Volume button in the toolbar",
+   "result": "volume popup opens",
+   "t_result_visible": 19.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 21.0,
+   "x": 672,
+   "y": 317,
+   "kind": "click",
+   "target": "mute control / volume slider to zero",
+   "result": "slider at 0, mute icon active",
+   "t_result_visible": 21.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 32.2,
+   "x": 1003,
+   "y": 715,
+   "kind": "click",
+   "target": "Play button",
+   "result": "video plays (pause icon)",
+   "t_result_visible": 32.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 50.0,
+   "x": 384,
+   "y": 936,
+   "kind": "click",
+   "target": "same audio track in the timeline",
+   "result": "track selected again",
+   "t_result_visible": 50.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 52.1,
+   "x": 754,
+   "y": 245,
+   "kind": "click",
+   "target": "Volume button",
+   "result": "volume popup opens (value 0)",
+   "t_result_visible": 52.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 53.1,
+   "x": 672,
+   "y": 317,
+   "kind": "drag",
+   "target": "volume slider raised",
+   "result": "slider at about 25",
+   "t_result_visible": 53.4,
+   "confidence": "medium",
+   "x2": 720,
+   "y2": 317,
+   "t_end": 53.4
+  },
+  {
+   "id": "A8",
+   "t_click": 75.6,
+   "x": 1008,
+   "y": 480,
+   "kind": "click",
+   "target": "the video itself on the canvas",
+   "result": "video selected, Edit/Replace toolbar",
+   "t_result_visible": 76.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 78.5,
+   "x": 970,
+   "y": 245,
+   "kind": "click",
+   "target": "Volume (audio tools) for the video",
+   "result": "volume popup opens",
+   "t_result_visible": 78.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 93.4,
+   "x": 754,
+   "y": 245,
+   "kind": "click",
+   "target": "Volume for the music track",
+   "result": "volume popup opens, slider adjusted",
+   "t_result_visible": 94.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 108.3,
+   "x": 1008,
+   "y": 480,
+   "kind": "click",
+   "target": "select the video (actual track)",
+   "result": "video toolbar appears",
+   "t_result_visible": 108.7,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 110.6,
+   "x": 970,
+   "y": 245,
+   "kind": "click",
+   "target": "Volume for the video",
+   "result": "volume popup opens",
+   "t_result_visible": 110.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 121.4,
+   "x": 300,
+   "y": 150,
+   "kind": "click",
+   "target": "site-info icon in the browser tab",
+   "result": "site popup with Sound toggle",
+   "t_result_visible": 121.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 125.0,
+   "x": 640,
+   "y": 330,
+   "kind": "click",
+   "target": "Sound toggle in the site popup",
+   "result": "sound toggled off",
+   "t_result_visible": 125.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 142.4,
+   "x": 1003,
+   "y": 715,
+   "kind": "click",
+   "target": "Play button",
+   "result": "playback",
+   "t_result_visible": 143.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 162.9,
+   "x": 1814,
+   "y": 178,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 164.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 164.7,
+   "x": 1300,
+   "y": 780,
+   "kind": "click",
+   "target": "Download tile in the Share panel",
+   "result": "Download panel with MP4 Video opens",
+   "t_result_visible": 165.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 177.0,
+   "x": 1594,
+   "y": 552,
+   "kind": "click",
+   "target": "Download button",
+   "result": "file downloads (progress toast)",
+   "t_result_visible": 178.0,
+   "confidence": "medium"
+  }
+ ],
+ "junk": []
+}
