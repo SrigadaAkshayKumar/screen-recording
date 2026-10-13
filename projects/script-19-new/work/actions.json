@@ -1,0 +1,13 @@
+{"recording":{"width":1920,"height":1080,"fps":30,"duration":256.2},
+ "sync":{"clicks_offset":0,"source":"frames"},
+ "actions":[
+ {"id":"A1","t_click":14.9,"x":60,"y":520,"kind":"click","target":"Uploads in the sidebar","result":"uploads panel opens","t_result_visible":15.5,"confidence":"low"},
+ {"id":"A2","t_click":18.1,"x":960,"y":300,"kind":"click","target":"clip in Uploads","result":"clip added to the design","t_result_visible":18.3,"confidence":"low"},
+ {"id":"A3","t_click":35.0,"x":960,"y":300,"kind":"click","target":"Volume control","result":"volume slider opens","t_result_visible":36.0,"confidence":"low"},
+ {"id":"A4","t_click":40.5,"x":960,"y":300,"kind":"click","target":"mute button","result":"volume 0","t_result_visible":41.0,"confidence":"low"},
+ {"id":"A5","t_click":49.5,"x":960,"y":600,"kind":"click","target":"play button","result":"clip plays","t_result_visible":50.0,"confidence":"low"},
+ {"id":"A6","t_click":110.5,"x":850,"y":300,"kind":"click","target":"Audio tab","result":"audio list","t_result_visible":111.0,"confidence":"low"},
+ {"id":"A7","t_click":115.5,"x":1100,"y":300,"kind":"click","target":"delete (trash) button","result":"audio track removed","t_result_visible":116.5,"confidence":"low"},
+ {"id":"A8","t_click":172.8,"x":1800,"y":160,"kind":"click","target":"Share button","result":"share panel","t_result_visible":175.0,"confidence":"low"}
+ ],
+ "junk":[]}
