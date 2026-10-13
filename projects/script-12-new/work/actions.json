@@ -1,0 +1,218 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 251.467
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 38.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Animate button",
+   "result": "animations panel opens",
+   "t_result_visible": 39.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 43.6,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Audio category",
+   "result": "Audio panel opens",
+   "t_result_visible": 44.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 61.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Uploads tab",
+   "result": "Uploads panel opens",
+   "t_result_visible": 61.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 66.3,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Audio filter in Uploads",
+   "result": "uploaded audio listed",
+   "t_result_visible": 66.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 68.1,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "uploaded audio file",
+   "result": "audio added to design timeline",
+   "t_result_visible": 70.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 76.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Duration/timing control",
+   "result": "timing panel opens",
+   "t_result_visible": 80.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 83.0,
+   "x": 960,
+   "y": 540,
+   "kind": "drag",
+   "target": "timing slider",
+   "result": "duration set to 15 s",
+   "t_result_visible": 96.2,
+   "confidence": "low",
+   "x2": 1000,
+   "y2": 540,
+   "t_end": 96.2
+  },
+  {
+   "id": "A8",
+   "t_click": 111.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "select-all design contents",
+   "result": "all elements selected",
+   "t_result_visible": 112.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 120.4,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "new video design",
+   "result": "blank reel design opens",
+   "t_result_visible": 121.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 150.5,
+   "x": 960,
+   "y": 540,
+   "kind": "drag",
+   "target": "audio clip edge",
+   "result": "audio trimmed to design length",
+   "t_result_visible": 151.9,
+   "confidence": "low",
+   "x2": 1000,
+   "y2": 540,
+   "t_end": 151.9
+  },
+  {
+   "id": "A11",
+   "t_click": 156.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "play button",
+   "result": "preview plays",
+   "t_result_visible": 157.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 162.2,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Volume control",
+   "result": "volume slider opens",
+   "t_result_visible": 163.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 188.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Share button",
+   "result": "share panel opens",
+   "t_result_visible": 189.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 191.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Download option",
+   "result": "download panel opens",
+   "t_result_visible": 192.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 194.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "File type dropdown",
+   "result": "PNG/JPG/PDF/MP4 options listed",
+   "t_result_visible": 195.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A16",
+   "t_click": 201.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "MP4 Video option",
+   "result": "MP4 selected",
+   "t_result_visible": 202.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A17",
+   "t_click": 210.4,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Download button",
+   "result": "export starts",
+   "t_result_visible": 212.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A18",
+   "t_click": 245.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Download button (export toast)",
+   "result": "MP4 downloading toast appears",
+   "t_result_visible": 247.0,
+   "confidence": "low"
+  }
+ ],
+ "junk": []
+}
