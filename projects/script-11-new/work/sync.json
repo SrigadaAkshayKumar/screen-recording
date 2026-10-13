@@ -1,0 +1,192 @@
+{
+ "anchors": [
+  {
+   "action": "A2",
+   "line": 3,
+   "word": "Elements"
+  },
+  {
+   "action": "A3",
+   "line": 3,
+   "word": "Audio"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "Search"
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "genre"
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "Listen"
+  },
+  {
+   "action": "A7",
+   "line": 5,
+   "word": "three"
+  },
+  {
+   "action": "A8",
+   "line": 10,
+   "word": "click"
+  },
+  {
+   "action": "A9",
+   "line": 11,
+   "word": "length"
+  },
+  {
+   "action": "A10",
+   "line": 12,
+   "word": "volume"
+  },
+  {
+   "action": "A12",
+   "line": 13,
+   "word": "upload"
+  },
+  {
+   "action": "A13",
+   "line": 13,
+   "word": "uploads"
+  },
+  {
+   "action": "A14",
+   "line": 14,
+   "word": "license"
+  },
+  {
+   "action": "A17",
+   "line": 16,
+   "word": "case"
+  },
+  {
+   "action": "A19",
+   "line": 17,
+   "word": "MP4"
+  },
+  {
+   "action": "A20",
+   "line": 17,
+   "word": "ends"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20"
+ ],
+ "cuts": [
+  {
+   "src_start": 11.5,
+   "src_end": 14.3,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 22.0,
+   "src_end": 28.9,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 30.6,
+   "src_end": 35.2,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 37.8,
+   "src_end": 42.6,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 44.5,
+   "src_end": 57.0,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 72.0,
+   "src_end": 92.5,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 99.6,
+   "src_end": 105.5,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 110.5,
+   "src_end": 126.1,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 129.6,
+   "src_end": 130.6,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 133.2,
+   "src_end": 156.8,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 158.8,
+   "src_end": 187.9,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 191.4,
+   "src_end": 205.4,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 220.0,
+   "src_end": 224.8,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  },
+  {
+   "src_start": 230.0,
+   "src_end": 236.0,
+   "reason": "dead time / off-topic; narration moves on",
+   "xfade": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 6.0,
+ "src_end": 239.0
+}

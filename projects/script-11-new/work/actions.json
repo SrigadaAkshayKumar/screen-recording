@@ -1,0 +1,242 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 246.6
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 10.35,
+   "x": 960,
+   "y": 400,
+   "kind": "click",
+   "target": "design page",
+   "result": "design selected",
+   "t_result_visible": 10.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 16.9,
+   "x": 100,
+   "y": 430,
+   "kind": "click",
+   "target": "Elements in sidebar",
+   "result": "Elements panel opens",
+   "t_result_visible": 17.6,
+   "confidence": "high"
+  },
+  {
+   "id": "A3",
+   "t_click": 18.7,
+   "x": 880,
+   "y": 640,
+   "kind": "click",
+   "target": "Audio category tile",
+   "result": "Audio panel opens",
+   "t_result_visible": 19.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 29.9,
+   "x": 400,
+   "y": 420,
+   "kind": "click",
+   "target": "Search field",
+   "result": "field focused",
+   "t_result_visible": 30.2,
+   "confidence": "high"
+  },
+  {
+   "id": "A5",
+   "t_click": 35.4,
+   "x": 400,
+   "y": 420,
+   "kind": "type",
+   "target": "Search field",
+   "result": "genre typed, results list (loaded ~41 s)",
+   "t_result_visible": 41.0,
+   "confidence": "medium",
+   "text": "genre"
+  },
+  {
+   "id": "A6",
+   "t_click": 43.4,
+   "x": 240,
+   "y": 600,
+   "kind": "click",
+   "target": "track preview play button",
+   "result": "preview plays",
+   "t_result_visible": 43.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 58.4,
+   "x": 1000,
+   "y": 520,
+   "kind": "click",
+   "target": "three-dot menu of AMB track",
+   "result": "track info popup opens",
+   "t_result_visible": 58.8,
+   "confidence": "high"
+  },
+  {
+   "id": "A8",
+   "t_click": 98.7,
+   "x": 350,
+   "y": 630,
+   "kind": "click",
+   "target": "AMB track",
+   "result": "track added to timeline",
+   "t_result_visible": 99.4,
+   "confidence": "high"
+  },
+  {
+   "id": "A9",
+   "t_click": 108.4,
+   "x": 1500,
+   "y": 820,
+   "kind": "drag",
+   "target": "track end on timeline",
+   "result": "track shortened",
+   "t_result_visible": 110.5,
+   "confidence": "medium",
+   "x2": 1200,
+   "y2": 820,
+   "t_end": 110.3
+  },
+  {
+   "id": "A10",
+   "t_click": 126.7,
+   "x": 520,
+   "y": 150,
+   "kind": "click",
+   "target": "volume icon in toolbar",
+   "result": "volume slider opens",
+   "t_result_visible": 127.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A11",
+   "t_click": 127.5,
+   "x": 600,
+   "y": 330,
+   "kind": "drag",
+   "target": "volume slider",
+   "result": "volume lowered",
+   "t_result_visible": 129.5,
+   "confidence": "medium",
+   "x2": 700,
+   "y2": 330,
+   "t_end": 129.4
+  },
+  {
+   "id": "A12",
+   "t_click": 131.8,
+   "x": 80,
+   "y": 800,
+   "kind": "click",
+   "target": "Uploads in sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 132.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 157.7,
+   "x": 600,
+   "y": 520,
+   "kind": "click",
+   "target": "Audio tab in Uploads",
+   "result": "uploaded audio listed",
+   "t_result_visible": 158.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A14",
+   "t_click": 189.2,
+   "x": 1000,
+   "y": 500,
+   "kind": "click",
+   "target": "three-dot menu of Corporate Music",
+   "result": "info popup opens",
+   "t_result_visible": 189.6,
+   "confidence": "high"
+  },
+  {
+   "id": "A15",
+   "t_click": 207.6,
+   "x": 1100,
+   "y": 300,
+   "kind": "click",
+   "target": "license link in info popup",
+   "result": "Licensing made simple dialog",
+   "t_result_visible": 208.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 215.0,
+   "x": 1280,
+   "y": 500,
+   "kind": "click",
+   "target": "Close in licensing dialog",
+   "result": "dialog closes",
+   "t_result_visible": 216.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 218.9,
+   "x": 980,
+   "y": 740,
+   "kind": "click",
+   "target": "Play in preview",
+   "result": "design preview plays",
+   "t_result_visible": 219.2,
+   "confidence": "high"
+  },
+  {
+   "id": "A18",
+   "t_click": 225.9,
+   "x": 1750,
+   "y": 60,
+   "kind": "click",
+   "target": "Share button",
+   "result": "share panel opens",
+   "t_result_visible": 226.5,
+   "confidence": "high"
+  },
+  {
+   "id": "A19",
+   "t_click": 228.0,
+   "x": 1500,
+   "y": 500,
+   "kind": "click",
+   "target": "Download in share panel",
+   "result": "download settings (MP4)",
+   "t_result_visible": 228.8,
+   "confidence": "high"
+  },
+  {
+   "id": "A20",
+   "t_click": 237.4,
+   "x": 1500,
+   "y": 640,
+   "kind": "click",
+   "target": "Download button",
+   "result": "download starts",
+   "t_result_visible": 237.8,
+   "confidence": "high"
+  }
+ ],
+ "junk": []
+}
