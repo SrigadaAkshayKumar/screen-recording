@@ -16,6 +16,10 @@ on:
         description: 'Added to every project/output folder name, e.g. "-new" -> output/script-01-new (blank = none)'
         default: ''
         required: false
+      clean_voiceover:
+        description: 'One-off fix (2026-10 batch): cut the spoken "SCRIPT N", title and "(On screen: ...)" lines out of each voiceover first (texts in voiceover-fix/all-scripts.txt)'
+        type: boolean
+        default: false
       model:
         description: 'Claude model for the analyze/sync stages (blank = Claude Code default)'
         default: ''
@@ -105,6 +109,16 @@ jobs:
           get "$VIDEO"; get "$AUDIO"; get "$SCRIPT"; get "$CLICKS"
           ls -la inbox
 
+      - name: Clean the voiceover (one-off batch fix)
+        if: inputs.clean_voiceover
+        run: |
+          N=$(echo "${{ matrix.item.name }}" | grep -oE '[0-9]+$' | sed 's/^0*//')
+          A=$(ls inbox/$P.* | grep -iE '\.(mp3|wav|m4a|aac|ogg|flac)$' | head -1)
+          python tools/clean_voiceover.py --scripts voiceover-fix/all-scripts.txt --number "$N" \
+            --audio "$A" --write-script "inbox/$P.md" --backup orig-audio --log "voiceover-cleanup-$P.json" | tee clean.log
+          { echo "### $P voiceover cleanup"; echo '```'; cat clean.log; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          msg=$(sed 's/%/%25/g' clean.log | awk 1 ORS='%0A'); echo "::notice title=voiceover-$P::$msg"
+
       - name: Edit
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -119,6 +133,7 @@ jobs:
         if: always()
         run: |
           test -d "projects/$P" || exit 0
+          if [ -f "voiceover-cleanup-$P.json" ]; then cp "voiceover-cleanup-$P.json" "projects/$P/work/voiceover-cleanup.json"; fi
           rclone sync "projects/$P/output" "$DRIVE/output/$P" --exclude "work/**" --exclude "preview*.mp4" -v
           rclone sync "projects/$P/work" "$DRIVE/output/$P/work" --exclude "frames/**" -v
           echo "### $P: $(cat projects/$P/output/cloud-status.txt 2>/dev/null || echo 'no status')" >> "$GITHUB_STEP_SUMMARY"
