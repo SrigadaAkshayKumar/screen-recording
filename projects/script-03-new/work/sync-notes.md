@@ -2,43 +2,45 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 2 | Canva's | 16.760 | A1 Edit button in Canva toolbar | 15.100 | 0.90x |
-| 2 | process | 18.880 | A2 Filters "See all" | 17.400 | 1.08x |
-| 4 | Upload | 27.640 | A3 Import button (CapCut) | 37.500 | 0.95x |
-| 4 | timeline. | 30.200 | A6 "+" add to timeline on the clip | 42.400 | 1.25x |
-| 5 | effects, | 31.500 | A7 Effects tab | 71.000 | 1.46x |
-| 5 | effects, | 32.960 | A8 Video effects | 73.900 | 1.23x |
-| 6 | Apply | 35.740 | A9 blur effect thumbnail | 103.200 | 1.19x |
-| 6 | strength | 38.360 | A11 Blur strength slider | 114.500 | 1.22x |
-| 7 | Extend | 41.560 | A10 end of the effect strip | 108.300 | 1.12x |
-| 8 | Play | 45.080 | A12 Play button in the preview | 139.300 | 1.11x |
-| 9 | result | 51.140 | A13 Export button | 149.500 | 0.94x |
-| 11 | open | 59.300 | A14 Uploads in the Canva sidebar | 184.300 | 1.58x |
-| 12 | it | 62.980 | A18 blurred clip thumbnail | 206.700 | 1.28x |
-| 12 | position, | 65.340 | A20 Position button | 218.800 | 1.31x |
-| 13 | place | 67.880 | A22 Text tab | 246.000 | 1.46x |
-| 13 | or | 69.940 | A23 Add a heading | 248.300 | 1.12x |
-| 15 | transparency | 75.680 | A25 Transparency button | 284.100 | 1.01x |
-| 15 | how | 77.120 | A26 Transparency slider | 285.500 | 0.97x |
-| 18 | Preview | 84.120 | A24 finished design (idle, reused for the closing lines) | 277.500 | 0.81x |
+| 4 | Upload | 17.020 | A1 Import button | 37.700 | 1.32x |
+| 4 | clip | 17.820 | A2 Open button in file dialog | 41.800 | 1.12x |
+| 4 | add | 19.020 | A3 add clip to timeline | 43.400 | 1.33x |
+| 5 | Effects, | 20.880 | A4 Effects tab | 45.600 | 1.18x |
+| 5 | Video | 22.000 | A5 Video effects | 99.800 | 1.52x |
+| 6 | Apply | 24.560 | A6 Blur effect | 104.200 | 1.72x |
+| 6 | adjust | 27.140 | A8 Blur strength slider | 114.000 | 0.97x |
+| 7 | Extend | 31.020 | A7 effect strip end | 111.600 | 1.42x |
+| 8 | Play | 34.480 | A9 play button | 131.000 | 1.21x |
+| 9 | Export | 40.020 | A10 Export button | 148.900 | 0.99x |
+| 10 | in | 46.460 | A11 Export button in dialog | 171.400 | 1.41x |
+| 11 | Return | 47.580 | A12 Uploads in sidebar | 183.500 | 1.70x |
+| 11 | upload | 49.800 | A14 Open button in file dialog | 197.800 | 1.31x |
+| 12 | Add | 51.700 | A15 uploaded video | 206.500 | 1.16x |
+| 12 | adjust | 53.560 | A16 Position button | 218.200 | 1.51x |
+| 12 | duration. | 55.460 | A17 duration handle | 240.500 | 1.21x |
+| 13 | text, | 57.820 | A18 Text tab | 245.000 | 1.25x |
+| 13 | logo | 59.580 | A20 text on the video | 258.900 | 1.42x |
+| 14 | transparency | 65.080 | A21 Transparency | 285.400 | 1.11x |
+| 16 | Preview | 73.420 | A22 video in the design (preview) | 211.000 | 0.90x |
 
 ## Builder decisions
 
-- A11: after A9 (until src 105.50) jumps ahead to src 113.60 - narration order
-- A10: after A11 (until src 117.60) jumps back to src 107.80 - narration order
-- A12: after A10 (until src 113.60) jumps ahead to src 138.50 - narration order
-- A13->A14: fast-forwarded src 151.50-156.50 instead of cutting it (export dialog dwell)
-- A13->A14: fast-forwarded src 162.90-165.50 instead of cutting it (export dialog dwell)
-- A25: after A23 (until src 253.00) jumps ahead to src 283.00 - narration order
-- A24: after A26 (until src 287.40) jumps back to src 273.70 - narration order
+- A8: after A6 (until src 106.00) jumps ahead to src 113.30 - narration order
+- A7: after A8 (until src 118.50) jumps back to src 110.60 - narration order
+- A9: after A7 (until src 115.00) jumps ahead to src 130.20 - narration order
+- A10: after A9 (until src 136.00) jumps ahead to src 148.40 - narration order
+- A16: after A15 (until src 208.50) jumps ahead to src 217.40 - narration order
+- A17: after A16 (until src 220.00) jumps ahead to src 240.00 - narration order
+- A21: after A20 (until src 263.30) jumps ahead to src 283.40 - narration order
+- A22: after A21 (until src 287.40) jumps back to src 205.50 - narration order
 
 ## Judgment calls
 
-- **No zooms.** The recorder bakes in auto-zoom in many places and click coordinates are rough (no clicks.json), so zooms would frame the wrong place. Ripples only, and `no_ripple` on clicks inside recorder zoom or with uncertain position (A1, A2, A8-A11, A14, A15, A19, A21, A22, A24-A26).
-- **Audio order.** The recording extends the strip (108-113 s) before adjusting strength (114-117 s); narration says strength first. A11 (strength) is anchored on L6, A10 (extend) on L7, each with cross-faded jumps (`src_from`/`prev_until`). A12 (play) jumps ahead to 138.5.
-- **Cuts with cross-fade (dead time/loading/unnarrated):** 25-36.8 (end of Canva scene + CapCut idle), 39.3-41 (file dialog loading), 43.6-70.3 (idle), 72.3-73.4 and 74.6-100.6 (CapCut loading spinner, 26 s), 109.4-111.6, 144.4-148.9 (playback finished, frozen), 156.9-162.5 and 166-174.5 (export dialog dwell and the real export, not narrated), 176-183.8 (original clip deleted in Canva), 185.2-206 (Canva upload loading/browsing, four cuts), 208.3-218.4, 220-230.9, 232.6-245.2 (unnarrated Canva edits). Export dialog 151.5-156.5 and 162.9-165.5 are fast-forwarded (ff, under 2x).
-- **Anchors** on the word naming the control: Edit on "Canva's" (start of line 2), See all on "process", Import on "Upload", add-to-timeline on "timeline", Effects/Video effects on the two "effects,", Apply on "Apply", strength on "strength", extend on "Extend", Play on "Play", Export on "result" (later than "Export" to keep the approach under 1.5x), Uploads on "open", add thumbnail on "it", Position on "position,", Text on "place", Add a heading on "or", Transparency on "transparency", slider on "how".
-- **Closing lines (17-18) have no footage.** The recording ends mid transparency drag at 287.4 s. A24 is a pseudo action (kind scroll) so the builder can reuse the idle finished design (273.7-281.8 s, text over the blurred clip) at ~0.8x/1x under "Use a clip with the blur rendered" and "Preview your Canva design and download...". The Canva preview/download is not in the recording.
-- **Narrated 'browse the blur category'** has no click in the recording; the Video effects list (101 s) plays there.
-- **Unmentioned/unanchored actions:** A4, A5 (file dialog), A15-A17 (Canva upload dialog, Videos tab), A19 (resize), A21 (trim): they play inside their neighbours' intervals.
-- **Unfixable warning:** A26 (transparency slider drag) completes at 79.3 s, 1 s after line 15 ends, because A25 and A26 are only 0.5 s apart in the narration. The slider move plays during "It does not blur...".
+- Recording (287 s) is ~3.7x the voiceover (78 s): the CapCut effects-panel loading (46.4-98.9), dialog browsing, export settings, upload waits and unnarrated text styling are cut with cross-fades; everything else plays at 0.85-1.5x. No pace warnings remain.
+- Recording has baked-in recorder zoom in places, so no zooms and no ripples (all clicks `no_ripple`).
+- Intro (L1-3, 0-17 s) has no actions: plays Canva footage 0-4.2 and 10.3-24.5 (the Canva Edit/Adjust/Filters panels, matching "Canva's regular photo Blur tool"); frozen 4.2-10.3, the Canva video play test 24.5-30.2 and CapCut idle 32.3-35.75 are junk/cut.
+- Order conflicts (narration wins): adjust strength (A8, 114 s) is shown before extending the strip (A7, 111.6 s); play check (A9) and export (A10) jump forward; position/duration (A16/A17) and text (A18/A20) are jumped to, skipping idle time; the transparency step (A21) is at the end of the recording and used on L14.
+- A22 is a made-up anchor: the recording ends on the transparency slider and has no preview/download step, so L15-16 reuse Canva footage of the blurred video in the design (205.5-214.8) as its closest picture. Narrated "download as MP4" is not in the recording.
+- A9 (play check, ~131 s) is low confidence: the preview shows the blurred clip at 131-138 s, the click itself was not seen. A11/A12/A16/A7/A21 times are also approximate (low confidence).
+- A13 (Upload files click) is not anchored: it plays inside the A12->A14 interval. A19 (add heading) was left out; unnarrated.
+- Unfixable/accepted: A11 and A12 results are cut out (export finishing, uploads panel loading), so the viewer sees the next step directly after a cross-fade.
