@@ -1,0 +1,219 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 236.833
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 8.5,
+   "x": 960,
+   "y": 420,
+   "kind": "click",
+   "target": "Canvas page (deselects clip)",
+   "result": "page outlined, cursor over page",
+   "t_result_visible": 9.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 19.0,
+   "x": 1000,
+   "y": 930,
+   "kind": "click",
+   "target": "Playhead on the timeline (audio clip)",
+   "result": "playhead moves, time tooltip shows",
+   "t_result_visible": 19.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 43.55,
+   "x": 1000,
+   "y": 820,
+   "kind": "click",
+   "target": "Split in the audio context menu",
+   "result": "menu closes, clip divided in two",
+   "t_result_visible": 44.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 45.5,
+   "x": 1000,
+   "y": 930,
+   "kind": "click",
+   "target": "Timeline: two sections at the playhead (view only)",
+   "result": "two sections visible, playhead tooltip 6.3s",
+   "t_result_visible": 45.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 102.4,
+   "x": 1000,
+   "y": 690,
+   "kind": "click",
+   "target": "Play button",
+   "result": "playback starts",
+   "t_result_visible": 103.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 134.0,
+   "x": 1000,
+   "y": 930,
+   "kind": "drag",
+   "target": "Playhead to the end of the pause",
+   "result": "playhead at ~10.9 s",
+   "t_result_visible": 135.0,
+   "confidence": "medium",
+   "x2": 1100,
+   "y2": 930,
+   "t_end": 136.0
+  },
+  {
+   "id": "A7",
+   "t_click": 136.2,
+   "x": 990,
+   "y": 60,
+   "kind": "click",
+   "target": "Split button in the floating toolbar",
+   "result": "audio split at playhead",
+   "t_result_visible": 136.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 143.85,
+   "x": 990,
+   "y": 60,
+   "kind": "click",
+   "target": "Split button in the floating toolbar (second split)",
+   "result": "another split",
+   "t_result_visible": 144.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 148.1,
+   "x": 1000,
+   "y": 935,
+   "kind": "click",
+   "target": "Short section between the cuts",
+   "result": "section selected, toolbar shows",
+   "t_result_visible": 149.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 151.0,
+   "x": 1230,
+   "y": 60,
+   "kind": "click",
+   "target": "Delete (trash) button",
+   "result": "section deleted",
+   "t_result_visible": 151.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 155.4,
+   "x": 1000,
+   "y": 935,
+   "kind": "drag",
+   "target": "Remaining section",
+   "result": "section moved next to the other",
+   "t_result_visible": 157.6,
+   "confidence": "medium",
+   "x2": 1100,
+   "y2": 935,
+   "t_end": 157.4
+  },
+  {
+   "id": "A12",
+   "t_click": 160.9,
+   "x": 850,
+   "y": 330,
+   "kind": "click",
+   "target": "Uploaded video in Uploads panel",
+   "result": "video added to the design",
+   "t_result_visible": 162.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 177.0,
+   "x": 1000,
+   "y": 60,
+   "kind": "click",
+   "target": "Captions button in toolbar",
+   "result": "captions panel opens",
+   "t_result_visible": 179.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 193.2,
+   "x": 700,
+   "y": 830,
+   "kind": "click",
+   "target": "Uploaded video clip in the timeline",
+   "result": "video selected, toolbar changes",
+   "t_result_visible": 194.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 194.8,
+   "x": 960,
+   "y": 140,
+   "kind": "click",
+   "target": "Audio tools menu",
+   "result": "menu opens with Extract audio",
+   "t_result_visible": 195.4,
+   "confidence": "high"
+  },
+  {
+   "id": "A16",
+   "t_click": 196.8,
+   "x": 1200,
+   "y": 190,
+   "kind": "click",
+   "target": "Extract button",
+   "result": "audio becomes separate track",
+   "t_result_visible": 197.6,
+   "confidence": "high"
+  },
+  {
+   "id": "A17",
+   "t_click": 224.6,
+   "x": 1700,
+   "y": 90,
+   "kind": "click",
+   "target": "Share button",
+   "result": "share panel opens",
+   "t_result_visible": 225.2,
+   "confidence": "high"
+  },
+  {
+   "id": "A18",
+   "t_click": 227.4,
+   "x": 1750,
+   "y": 880,
+   "kind": "click",
+   "target": "Download in share panel",
+   "result": "download panel with MP4",
+   "t_result_visible": 228.0,
+   "confidence": "medium"
+  }
+ ],
+ "junk": []
+}
