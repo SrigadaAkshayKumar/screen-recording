@@ -1,78 +1,102 @@
 {
  "anchors": [
   {
-   "action": "A1",
-   "line": 5,
-   "word": "open"
-  },
-  {
    "action": "A2",
-   "line": 6,
-   "word": "blur"
+   "line": 2,
+   "word": "sharp"
   },
   {
    "action": "A3",
-   "line": 6,
+   "line": 3,
+   "word": "blur",
+   "src_from": 48.5,
+   "prev_until": 11.5
+  },
+  {
+   "action": "A4",
+   "line": 3,
    "word": "export"
   },
   {
    "action": "A5",
-   "line": 7,
-   "word": "Upload"
+   "line": 4,
+   "word": "Upload",
+   "src_from": 83.0,
+   "prev_until": 69.0
   },
   {
    "action": "A6",
-   "line": 8,
-   "word": "first"
+   "line": 5,
+   "word": "version"
   },
   {
    "action": "A7",
-   "line": 8,
-   "word": "enlarge"
+   "line": 5,
+   "word": "whole"
   },
   {
    "action": "A8",
-   "line": 10,
-   "word": "sharp"
+   "line": 7,
+   "word": "sharp",
+   "src_from": 110.7,
+   "prev_until": 99.0
   },
   {
    "action": "A9",
-   "line": 11,
-   "word": "resize"
+   "line": 8,
+   "word": "resize",
+   "src_from": 123.4,
+   "prev_until": 114.6
   },
   {
    "action": "A10",
-   "line": 12,
-   "word": "center"
+   "line": 9,
+   "word": "centre",
+   "src_from": 130.2,
+   "prev_until": 129.6
   },
   {
    "action": "A11",
-   "line": 13,
-   "word": "timeline"
+   "line": 10,
+   "word": "timeline",
+   "src_from": 137.4,
+   "prev_until": 134.0
   },
   {
    "action": "A12",
-   "line": 14,
-   "word": "Keep"
+   "line": 11,
+   "word": "speed"
   },
   {
    "action": "A13",
-   "line": 19,
-   "word": "Play",
-   "src_from": 141.0,
-   "prev_until": 152.0
+   "line": 12,
+   "word": "volume",
+   "src_from": 150.6,
+   "prev_until": 148.0
   },
   {
    "action": "A14",
-   "line": 20,
-   "word": "Once",
-   "src_from": 196.8,
-   "prev_until": 162.0
+   "line": 15,
+   "word": "Play",
+   "src_from": 176.0,
+   "prev_until": 160.0
   },
   {
    "action": "A15",
-   "line": 20,
+   "line": 16,
+   "word": "filled",
+   "src_from": 197.4,
+   "prev_until": 183.0
+  },
+  {
+   "action": "A16",
+   "line": 16,
    "word": "download"
+  },
+  {
+   "action": "A17",
+   "line": 16,
+   "word": "MP4"
   }
  ],
  "zooms": [],
@@ -80,6 +104,7 @@
   "A1",
   "A2",
   "A3",
+  "A4",
   "A5",
   "A6",
   "A7",
@@ -91,10 +116,19 @@
   "A13",
   "A14",
   "A15",
-  "A4"
+  "A16",
+  "A17"
  ],
- "cuts": [],
+ "cuts": [
+  {
+   "src_start": 54.0,
+   "src_end": 66.5,
+   "reason": "CapCut idle/processing between blur and export",
+   "xfade": true
+  }
+ ],
  "ff_max": 2.0,
  "use_junk": true,
- "src_start": 1.8
+ "src_start": 0.3,
+ "src_end": 204.5
 }

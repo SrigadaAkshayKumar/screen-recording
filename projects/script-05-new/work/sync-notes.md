@@ -2,32 +2,40 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 5 | open | 26.480 | A1 CapCut editor (taskbar) | 47.500 | 1.29x |
-| 6 | blur | 29.860 | A2 Blur slider in the video effect | 51.500 | 1.18x |
-| 6 | export | 32.480 | A3 Export button | 60.900 | 1.56x |
-| 7 | Upload | 36.100 | A5 Uploads tab | 81.800 | 1.22x |
-| 8 | first | 38.840 | A6 blurred video thumbnail | 87.800 | 1.31x |
-| 8 | enlarge | 39.520 | A7 corner handle of the blurred clip | 88.400 | 0.88x |
-| 10 | sharp | 48.300 | A8 sharp video thumbnail | 111.400 | 1.24x |
-| 11 | resize | 52.100 | A9 resize handle of the sharp clip | 119.600 | 0.84x |
-| 12 | center | 56.340 | A10 sharp clip (centering) | 125.700 | 1.44x |
-| 13 | timeline | 60.180 | A11 clip on the timeline | 139.000 | 1.56x |
-| 14 | Keep | 64.040 | A12 clip end handle on the timeline | 145.000 | 1.55x |
-| 19 | Play | 82.800 | A13 Play button | 158.800 | 1.32x |
-| 20 | Once | 87.180 | A14 Share button | 198.200 | 1.05x |
-| 20 | download | 90.020 | A15 Download in the share panel | 199.700 | 1.00x +1.3s hold |
+| 2 | sharp | 9.160 | A2 video thumbnail | 8.200 | 0.86x |
+| 3 | blur | 16.720 | A3 Blur slider in CapCut | 51.600 | 0.85x |
+| 3 | export | 19.360 | A4 Export button in CapCut | 67.400 | 1.25x |
+| 4 | Upload | 22.900 | A5 Open button in the file dialog | 85.000 | 1.02x |
+| 5 | version | 25.420 | A6 uploaded blurred video thumbnail | 88.400 | 1.35x |
+| 5 | whole | 27.840 | A7 corner handle of the blurred clip | 91.200 | 1.16x |
+| 7 | sharp | 35.180 | A8 sharp video thumbnail | 111.650 | 1.19x |
+| 8 | resize | 39.000 | A9 corner handle of the sharp clip | 124.800 | 1.14x |
+| 9 | centre | 43.220 | A10 Position button | 131.450 | 1.43x |
+| 10 | timeline | 47.060 | A11 start handle of the clip on the timeline | 138.400 | 0.92x |
+| 11 | speed | 51.300 | A12 Speed control | 143.000 | 1.08x |
+| 12 | volume | 56.320 | A13 clip audio / volume control | 151.400 | 1.16x |
+| 15 | Play | 70.280 | A14 Play button | 178.300 | 0.78x |
+| 16 | filled | 75.020 | A15 Share button | 198.300 | 1.18x |
+| 16 | download | 76.880 | A16 Download button | 200.900 | 1.40x |
+| 16 | MP4 | 78.080 | A17 File type dropdown | 202.500 | 1.33x |
 
 ## Builder decisions
 
-- A13: after A12 (until src 152.00) jumps back to src 141.00 - narration order
-- A14: after A13 (until src 162.00) jumps ahead to src 196.80 - narration order
+- A3: after A2 (until src 11.50) jumps ahead to src 48.50 - narration order
+- A5: after A4 (until src 69.00) jumps ahead to src 83.00 - narration order
+- A8: after A7 (until src 99.00) jumps ahead to src 110.70 - narration order
+- A9: after A8 (until src 114.60) jumps ahead to src 123.40 - narration order
+- A10: after A9 (until src 129.60) jumps ahead to src 130.20 - narration order
+- A11: after A10 (until src 134.00) jumps ahead to src 137.40 - narration order
+- A13: after A12 (until src 148.00) jumps ahead to src 150.60 - narration order
+- A14: after A13 (until src 160.00) jumps ahead to src 176.00 - narration order
+- A15: after A14 (until src 183.00) jumps ahead to src 197.40 - narration order
 
 ## Judgment calls
-- No zooms, no ripples: the footage has baked-in recorder zoom/pan and there is no click log, so ripples would land in the wrong place (lessons 2026-10-10, 10-11 script-18).
-- Anchors: open (L5), blur/export (L6), Upload (L7), "first" for the blurred thumbnail (L8; "blurred" left no room for the file-picker cut), enlarge, sharp, resize, center, timeline, Keep (L14), Play (L19), Once/download (L20).
-- A4 (CapCut dialog Export click) is unanchored: L6 ends 1.2 s before L7, no room; the export progress/"file exists" popups (67.6-81.5) are cut as loading.
-- Cuts (cross-faded): idle Canva 35.7-47.2, blur slider idle 55.2-60.5, export dialog 63.8-66.4, loading 67.6-81.5, file picker 84.6-87.0, retake 98.5-110.6, canvas idle 113.6-118.6, idle review 130.7-138.0.
-- Reorder/replay: before "Play" the timeline footage 141-152 s is replayed (jump back, cross-fade) to give L13-L18 enough slow footage instead of a 5 s hold. After "Play" the plan plays 158.8-162 and jumps ahead to the Share click at 196.8 (the scrubbing to "middle and end" at 164-196 is skipped).
-- Narrated but not on screen: "set the background copy's volume to zero" (L15) - never shown in the recording; timeline footage plays instead.
-- The recording's first 35 s (sharp clip uploaded and placed) play under L1-L5; they show the empty-space design of L3 but also an upload that is not narrated.
-- All pace: warnings cleared; the only remaining check.py warning is that A4 is not tied to a word (intentional).
+- No zooms/ripples: recorder baked-in zoom (lessons 2026-10-10/11) plus unverified coordinates.
+- L1-L2: A1 left unanchored; the intro plays src 0.3-11.5 (empty Canva, Uploads, clip added) at ~0.86x. A2 anchored on "sharp".
+- L3 uses CapCut (src 48.5-54 blur drag, cut 54-66.5 idle, then export at 67.4), cross-faded.
+- L4-L5 upload dialog / add blurred / enlarge: src 83-99, 1.0-1.35x. L7-L11 use the redo footage (110.7-143) in narration order with cross-faded jumps (A8-A11, A13, A14, A15).
+- L13-L14 explanation plays src 151.4-160 and 176-178 at ~0.78x (no hold, no still over 2.5 s).
+- Unfixable/accepted warnings: A7 and A9 results appear 1.2 s / 0.6 s after their lines end (long drags); A1 unanchored by design.
+- check.py --plan: no pace warnings.
