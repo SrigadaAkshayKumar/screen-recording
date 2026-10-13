@@ -2,39 +2,33 @@
  "anchors": [
   {
    "action": "A1",
-   "line": 4,
+   "line": 2,
    "word": "apps"
   },
   {
-   "action": "A3",
-   "line": 5,
-   "word": "Face",
-   "src_from": 28.0,
-   "prev_until": 19.0
+   "action": "A2",
+   "line": 4,
+   "word": "check"
   },
   {
-   "action": "A4",
-   "line": 8,
+   "action": "A3",
+   "line": 6,
    "word": "Upload"
   },
   {
    "action": "A5",
-   "line": 8,
-   "word": "control"
+   "line": 6,
+   "word": "strength."
   },
   {
    "action": "A6",
-   "line": 8,
-   "word": "strength",
-   "src_from": 58.0,
-   "prev_until": 46.6
+   "line": 7,
+   "word": "use."
   },
   {
    "action": "A7",
-   "line": 10,
-   "word": "Run",
-   "src_from": 77.5,
-   "prev_until": 61.5
+   "line": 8,
+   "word": "Blurring"
   }
  ],
  "zooms": [],
@@ -49,12 +43,58 @@
  ],
  "cuts": [
   {
-   "src_start": 82.3,
-   "src_end": 176.0,
-   "reason": "progress wait, fast-forwarded",
-   "ff": true
+   "src_start": 19.5,
+   "src_end": 25.5,
+   "reason": "search results idle, cursor hovering",
+   "xfade": true
+  },
+  {
+   "src_start": 33.2,
+   "src_end": 39.5,
+   "reason": "panel idle (still span)",
+   "xfade": true
+  },
+  {
+   "src_start": 47.2,
+   "src_end": 58.267,
+   "reason": "idle after upload",
+   "xfade": true
+  },
+  {
+   "src_start": 62.8,
+   "src_end": 70.4,
+   "reason": "hesitation over slider/style",
+   "xfade": true
+  },
+  {
+   "src_start": 72.0,
+   "src_end": 78.9,
+   "reason": "idle before Process click",
+   "xfade": true
+  },
+  {
+   "src_start": 81.2,
+   "src_end": 112.1,
+   "reason": "static progress bar (still spans 82-112)",
+   "xfade": true
+  },
+  {
+   "src_start": 129.9,
+   "src_end": 137.3,
+   "reason": "static progress bar (still)",
+   "xfade": true
+  },
+  {
+   "src_start": 160.1,
+   "src_end": 163.2,
+   "reason": "static progress bar (still)",
+   "xfade": true
   }
  ],
+ "src_end": 172.3,
  "ff_max": 2.0,
- "use_junk": true
+ "use_junk": true,
+ "style": {
+  "cursor_halo": false
+ }
 }

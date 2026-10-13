@@ -1,1888 +1,1711 @@
 [
   {
     "id": 1,
-    "text": "Script four, how to blur a face in a Canva video.",
+    "text": "This tutorial shows you how to blur moving faces in footage used in Canva with the BGBlur Face Blur app.",
     "start": 0.0,
-    "end": 3.1,
+    "end": 6.44,
     "notes": [],
-    "match": 1.0,
+    "match": 0.95,
     "status": "ok",
     "word_range": [
       0,
-      10
+      20
     ],
     "words": [
       {
         "i": 0,
-        "word": "Script",
+        "word": "This",
         "start": 0.0,
-        "end": 0.32
+        "end": 0.48
       },
       {
         "i": 1,
-        "word": "four,",
-        "start": 0.32,
-        "end": 0.74
+        "word": "tutorial",
+        "start": 0.48,
+        "end": 0.8
       },
       {
         "i": 2,
-        "word": "how",
-        "start": 1.1,
-        "end": 1.22
+        "word": "shows",
+        "start": 0.8,
+        "end": 1.14
       },
       {
         "i": 3,
-        "word": "to",
-        "start": 1.22,
-        "end": 1.44
+        "word": "you",
+        "start": 1.14,
+        "end": 1.34
       },
       {
         "i": 4,
-        "word": "blur",
-        "start": 1.44,
-        "end": 1.66
+        "word": "how",
+        "start": 1.34,
+        "end": 1.48
       },
       {
         "i": 5,
-        "word": "a",
-        "start": 1.66,
-        "end": 1.86
+        "word": "to",
+        "start": 1.48,
+        "end": 1.68
       },
       {
         "i": 6,
-        "word": "face",
-        "start": 1.86,
-        "end": 2.08
+        "word": "blur",
+        "start": 1.68,
+        "end": 1.88
       },
       {
         "i": 7,
-        "word": "in",
-        "start": 2.08,
-        "end": 2.24
+        "word": "moving",
+        "start": 1.88,
+        "end": 2.28
       },
       {
         "i": 8,
-        "word": "a",
-        "start": 2.24,
-        "end": 2.42
+        "word": "faces",
+        "start": 2.28,
+        "end": 2.58
       },
       {
         "i": 9,
-        "word": "Canva",
-        "start": 2.42,
-        "end": 2.72
+        "word": "in",
+        "start": 2.58,
+        "end": 2.9
       },
       {
         "i": 10,
-        "word": "video.",
-        "start": 2.72,
-        "end": 3.1
+        "word": "footage",
+        "start": 2.9,
+        "end": 3.12
+      },
+      {
+        "i": 11,
+        "word": "used",
+        "start": 3.12,
+        "end": 3.5
+      },
+      {
+        "i": 12,
+        "word": "in",
+        "start": 3.5,
+        "end": 3.86
+      },
+      {
+        "i": 13,
+        "word": "Canva",
+        "start": 3.86,
+        "end": 4.08
+      },
+      {
+        "i": 14,
+        "word": "with",
+        "start": 4.08,
+        "end": 4.4
+      },
+      {
+        "i": 15,
+        "word": "the",
+        "start": 4.4,
+        "end": 4.62
+      },
+      {
+        "i": 16,
+        "word": "BG",
+        "start": 4.62,
+        "end": 4.9
+      },
+      {
+        "i": 17,
+        "word": "Beeler",
+        "start": 4.9,
+        "end": 5.38
+      },
+      {
+        "i": 18,
+        "word": "Face",
+        "start": 5.38,
+        "end": 5.68
+      },
+      {
+        "i": 19,
+        "word": "Blur",
+        "start": 5.68,
+        "end": 6.12
+      },
+      {
+        "i": 20,
+        "word": "app.",
+        "start": 6.12,
+        "end": 6.44
       }
     ]
   },
   {
     "id": 2,
-    "text": "This tutorial shows you how to blur moving faces in footage used in Canva with the BG Beeler Face Blur app.",
-    "start": 3.82,
-    "end": 10.0,
+    "text": "Open your design, select Apps in the left sidebar, and search for BGBlur or Face Blur.",
+    "start": 7.02,
+    "end": 12.66,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      11,
-      31
+      21,
+      37
     ],
     "words": [
       {
-        "i": 11,
-        "word": "This",
-        "start": 3.82,
-        "end": 4.04
-      },
-      {
-        "i": 12,
-        "word": "tutorial",
-        "start": 4.04,
-        "end": 4.36
-      },
-      {
-        "i": 13,
-        "word": "shows",
-        "start": 4.36,
-        "end": 4.72
-      },
-      {
-        "i": 14,
-        "word": "you",
-        "start": 4.72,
-        "end": 4.9
-      },
-      {
-        "i": 15,
-        "word": "how",
-        "start": 4.9,
-        "end": 5.04
-      },
-      {
-        "i": 16,
-        "word": "to",
-        "start": 5.04,
-        "end": 5.2
-      },
-      {
-        "i": 17,
-        "word": "blur",
-        "start": 5.2,
-        "end": 5.46
-      },
-      {
-        "i": 18,
-        "word": "moving",
-        "start": 5.46,
-        "end": 5.84
-      },
-      {
-        "i": 19,
-        "word": "faces",
-        "start": 5.84,
-        "end": 6.18
-      },
-      {
-        "i": 20,
-        "word": "in",
-        "start": 6.18,
-        "end": 6.46
-      },
-      {
         "i": 21,
-        "word": "footage",
-        "start": 6.46,
-        "end": 6.74
+        "word": "Open",
+        "start": 7.02,
+        "end": 7.34
       },
       {
         "i": 22,
-        "word": "used",
-        "start": 6.74,
-        "end": 7.06
+        "word": "your",
+        "start": 7.34,
+        "end": 7.52
       },
       {
         "i": 23,
-        "word": "in",
-        "start": 7.06,
-        "end": 7.26
+        "word": "design,",
+        "start": 7.52,
+        "end": 7.86
       },
       {
         "i": 24,
-        "word": "Canva",
-        "start": 7.26,
-        "end": 7.66
+        "word": "select",
+        "start": 8.18,
+        "end": 8.46
       },
       {
         "i": 25,
-        "word": "with",
-        "start": 7.66,
-        "end": 7.98
+        "word": "apps",
+        "start": 8.46,
+        "end": 8.84
       },
       {
         "i": 26,
-        "word": "the",
-        "start": 7.98,
-        "end": 8.16
+        "word": "in",
+        "start": 8.84,
+        "end": 9.04
       },
       {
         "i": 27,
-        "word": "BG",
-        "start": 8.16,
-        "end": 8.48
+        "word": "the",
+        "start": 9.04,
+        "end": 9.16
       },
       {
         "i": 28,
-        "word": "Beeler",
-        "start": 8.48,
-        "end": 8.96
+        "word": "left",
+        "start": 9.16,
+        "end": 9.3
       },
       {
         "i": 29,
-        "word": "Face",
-        "start": 8.96,
-        "end": 9.26
+        "word": "sidebar,",
+        "start": 9.3,
+        "end": 9.76
       },
       {
         "i": 30,
-        "word": "Blur",
-        "start": 9.26,
-        "end": 9.68
+        "word": "and",
+        "start": 10.18,
+        "end": 10.38
       },
       {
         "i": 31,
-        "word": "app.",
-        "start": 9.68,
-        "end": 10.0
+        "word": "search",
+        "start": 10.38,
+        "end": 10.56
+      },
+      {
+        "i": 32,
+        "word": "for",
+        "start": 10.56,
+        "end": 10.78
+      },
+      {
+        "i": 33,
+        "word": "BG",
+        "start": 10.78,
+        "end": 11.1
+      },
+      {
+        "i": 34,
+        "word": "Blur",
+        "start": 11.1,
+        "end": 11.5
+      },
+      {
+        "i": 35,
+        "word": "or",
+        "start": 11.5,
+        "end": 11.88
+      },
+      {
+        "i": 36,
+        "word": "Face",
+        "start": 11.88,
+        "end": 12.16
+      },
+      {
+        "i": 37,
+        "word": "Blur.",
+        "start": 12.16,
+        "end": 12.66
       }
     ]
   },
   {
     "id": 3,
-    "text": "On screen, a Canva video project and the apps search panel.",
-    "start": 10.6,
-    "end": 14.46,
+    "text": "Open the Face Blur integration from BGBlur.",
+    "start": 13.28,
+    "end": 15.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      32,
-      42
+      38,
+      45
     ],
     "words": [
       {
-        "i": 32,
-        "word": "On",
-        "start": 10.6,
-        "end": 10.8
-      },
-      {
-        "i": 33,
-        "word": "screen,",
-        "start": 10.8,
-        "end": 11.14
-      },
-      {
-        "i": 34,
-        "word": "a",
-        "start": 11.58,
-        "end": 11.7
-      },
-      {
-        "i": 35,
-        "word": "Canva",
-        "start": 11.7,
-        "end": 12.0
-      },
-      {
-        "i": 36,
-        "word": "video",
-        "start": 12.0,
-        "end": 12.22
-      },
-      {
-        "i": 37,
-        "word": "project",
-        "start": 12.22,
-        "end": 12.68
-      },
-      {
         "i": 38,
-        "word": "and",
-        "start": 12.68,
-        "end": 13.1
+        "word": "Open",
+        "start": 13.28,
+        "end": 13.58
       },
       {
         "i": 39,
         "word": "the",
-        "start": 13.1,
-        "end": 13.24
+        "start": 13.58,
+        "end": 13.7
       },
       {
         "i": 40,
-        "word": "apps",
-        "start": 13.24,
-        "end": 13.56
+        "word": "Face",
+        "start": 13.7,
+        "end": 13.94
       },
       {
         "i": 41,
-        "word": "search",
-        "start": 13.56,
-        "end": 14.06
+        "word": "Blur",
+        "start": 13.94,
+        "end": 14.24
       },
       {
         "i": 42,
-        "word": "panel.",
-        "start": 14.06,
-        "end": 14.46
+        "word": "integration",
+        "start": 14.24,
+        "end": 14.66
+      },
+      {
+        "i": 43,
+        "word": "from",
+        "start": 14.66,
+        "end": 15.1
+      },
+      {
+        "i": 44,
+        "word": "BG",
+        "start": 15.1,
+        "end": 15.44
+      },
+      {
+        "i": 45,
+        "word": "Blur.",
+        "start": 15.44,
+        "end": 15.84
       }
     ]
   },
   {
     "id": 4,
-    "text": "Open your design, select apps in the left sidebar and search for BG Blur or Face Blur.",
-    "start": 15.34,
-    "end": 21.02,
+    "text": "This is a third-party tool, so check the credit requirements and file limits shown in its panel before processing.",
+    "start": 16.2,
+    "end": 21.76,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      43,
-      59
+      46,
+      65
     ],
     "words": [
       {
-        "i": 43,
-        "word": "Open",
-        "start": 15.34,
-        "end": 15.66
-      },
-      {
-        "i": 44,
-        "word": "your",
-        "start": 15.66,
-        "end": 15.82
-      },
-      {
-        "i": 45,
-        "word": "design,",
-        "start": 15.82,
-        "end": 16.2
-      },
-      {
         "i": 46,
-        "word": "select",
-        "start": 16.48,
-        "end": 16.78
+        "word": "This",
+        "start": 16.2,
+        "end": 16.4
       },
       {
         "i": 47,
-        "word": "apps",
-        "start": 16.78,
-        "end": 17.18
+        "word": "is",
+        "start": 16.4,
+        "end": 16.52
       },
       {
         "i": 48,
-        "word": "in",
-        "start": 17.18,
-        "end": 17.36
+        "word": "a",
+        "start": 16.52,
+        "end": 16.66
       },
       {
         "i": 49,
-        "word": "the",
-        "start": 17.36,
-        "end": 17.46
+        "word": "third",
+        "start": 16.66,
+        "end": 16.9
       },
       {
         "i": 50,
-        "word": "left",
-        "start": 17.46,
-        "end": 17.62
+        "word": "-party",
+        "start": 16.9,
+        "end": 17.18
       },
       {
         "i": 51,
-        "word": "sidebar",
-        "start": 17.62,
-        "end": 18.08
+        "word": "tool,",
+        "start": 17.18,
+        "end": 17.54
       },
       {
         "i": 52,
-        "word": "and",
-        "start": 18.08,
-        "end": 18.66
+        "word": "so",
+        "start": 17.68,
+        "end": 17.86
       },
       {
         "i": 53,
-        "word": "search",
-        "start": 18.66,
-        "end": 18.86
+        "word": "check",
+        "start": 17.86,
+        "end": 18.08
       },
       {
         "i": 54,
-        "word": "for",
-        "start": 18.86,
-        "end": 19.08
+        "word": "the",
+        "start": 18.08,
+        "end": 18.28
       },
       {
         "i": 55,
-        "word": "BG",
-        "start": 19.08,
-        "end": 19.4
+        "word": "credit",
+        "start": 18.28,
+        "end": 18.48
       },
       {
         "i": 56,
-        "word": "Blur",
-        "start": 19.4,
-        "end": 19.82
+        "word": "requirements",
+        "start": 18.48,
+        "end": 18.94
       },
       {
         "i": 57,
-        "word": "or",
-        "start": 19.82,
-        "end": 20.18
+        "word": "and",
+        "start": 18.94,
+        "end": 19.24
       },
       {
         "i": 58,
-        "word": "Face",
-        "start": 20.18,
-        "end": 20.48
+        "word": "file",
+        "start": 19.24,
+        "end": 19.5
       },
       {
         "i": 59,
-        "word": "Blur.",
-        "start": 20.48,
-        "end": 21.02
+        "word": "limits",
+        "start": 19.5,
+        "end": 19.82
+      },
+      {
+        "i": 60,
+        "word": "shown",
+        "start": 19.82,
+        "end": 20.3
+      },
+      {
+        "i": 61,
+        "word": "in",
+        "start": 20.3,
+        "end": 20.44
+      },
+      {
+        "i": 62,
+        "word": "its",
+        "start": 20.44,
+        "end": 20.6
+      },
+      {
+        "i": 63,
+        "word": "panel",
+        "start": 20.6,
+        "end": 20.88
+      },
+      {
+        "i": 64,
+        "word": "before",
+        "start": 20.88,
+        "end": 21.26
+      },
+      {
+        "i": 65,
+        "word": "processing.",
+        "start": 21.26,
+        "end": 21.76
       }
     ]
   },
   {
     "id": 5,
-    "text": "Open the Face Blur integration from BG Blur.",
-    "start": 21.52,
-    "end": 24.12,
+    "text": "Connect your BGBlur account if prompted.",
+    "start": 22.52,
+    "end": 24.52,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      60,
-      67
+      66,
+      72
     ],
     "words": [
       {
-        "i": 60,
-        "word": "Open",
-        "start": 21.52,
-        "end": 21.88
-      },
-      {
-        "i": 61,
-        "word": "the",
-        "start": 21.88,
-        "end": 22.02
-      },
-      {
-        "i": 62,
-        "word": "Face",
-        "start": 22.02,
-        "end": 22.24
-      },
-      {
-        "i": 63,
-        "word": "Blur",
-        "start": 22.24,
-        "end": 22.56
-      },
-      {
-        "i": 64,
-        "word": "integration",
-        "start": 22.56,
-        "end": 23.02
-      },
-      {
-        "i": 65,
-        "word": "from",
-        "start": 23.02,
-        "end": 23.4
-      },
-      {
         "i": 66,
-        "word": "BG",
-        "start": 23.4,
-        "end": 23.76
+        "word": "Connect",
+        "start": 22.52,
+        "end": 22.7
       },
       {
         "i": 67,
-        "word": "Blur.",
+        "word": "your",
+        "start": 22.7,
+        "end": 22.92
+      },
+      {
+        "i": 68,
+        "word": "BG",
+        "start": 22.92,
+        "end": 23.22
+      },
+      {
+        "i": 69,
+        "word": "Blur",
+        "start": 23.22,
+        "end": 23.46
+      },
+      {
+        "i": 70,
+        "word": "account",
+        "start": 23.46,
+        "end": 23.76
+      },
+      {
+        "i": 71,
+        "word": "if",
         "start": 23.76,
-        "end": 24.12
+        "end": 24.1
+      },
+      {
+        "i": 72,
+        "word": "prompted.",
+        "start": 24.1,
+        "end": 24.52
       }
     ]
   },
   {
     "id": 6,
-    "text": "This is a third party tool, so check the credit requirements and file limits shown in its panel before processing.",
-    "start": 24.5,
-    "end": 30.08,
+    "text": "Upload the original video through the app's upload control, then choose the blur strength.",
+    "start": 25.06,
+    "end": 29.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      68,
-      87
+      73,
+      86
     ],
     "words": [
       {
-        "i": 68,
-        "word": "This",
-        "start": 24.5,
-        "end": 24.7
-      },
-      {
-        "i": 69,
-        "word": "is",
-        "start": 24.7,
-        "end": 24.82
-      },
-      {
-        "i": 70,
-        "word": "a",
-        "start": 24.82,
-        "end": 24.98
-      },
-      {
-        "i": 71,
-        "word": "third",
-        "start": 24.98,
-        "end": 25.22
-      },
-      {
-        "i": 72,
-        "word": "party",
-        "start": 25.22,
-        "end": 25.48
-      },
-      {
         "i": 73,
-        "word": "tool,",
-        "start": 25.48,
-        "end": 25.86
+        "word": "Upload",
+        "start": 25.06,
+        "end": 25.36
       },
       {
         "i": 74,
-        "word": "so",
-        "start": 25.92,
-        "end": 26.16
+        "word": "the",
+        "start": 25.36,
+        "end": 25.52
       },
       {
         "i": 75,
-        "word": "check",
-        "start": 26.16,
-        "end": 26.4
+        "word": "original",
+        "start": 25.52,
+        "end": 25.76
       },
       {
         "i": 76,
-        "word": "the",
-        "start": 26.4,
-        "end": 26.58
+        "word": "video",
+        "start": 25.76,
+        "end": 26.08
       },
       {
         "i": 77,
-        "word": "credit",
-        "start": 26.58,
-        "end": 26.8
+        "word": "through",
+        "start": 26.08,
+        "end": 26.36
       },
       {
         "i": 78,
-        "word": "requirements",
-        "start": 26.8,
-        "end": 27.28
+        "word": "the",
+        "start": 26.36,
+        "end": 26.5
       },
       {
         "i": 79,
-        "word": "and",
-        "start": 27.28,
-        "end": 27.56
+        "word": "app's",
+        "start": 26.5,
+        "end": 26.86
       },
       {
         "i": 80,
-        "word": "file",
-        "start": 27.56,
-        "end": 27.8
+        "word": "upload",
+        "start": 26.86,
+        "end": 27.12
       },
       {
         "i": 81,
-        "word": "limits",
-        "start": 27.8,
-        "end": 28.16
+        "word": "control,",
+        "start": 27.12,
+        "end": 27.62
       },
       {
         "i": 82,
-        "word": "shown",
-        "start": 28.16,
-        "end": 28.6
+        "word": "then",
+        "start": 27.88,
+        "end": 28.16
       },
       {
         "i": 83,
-        "word": "in",
-        "start": 28.6,
-        "end": 28.76
+        "word": "choose",
+        "start": 28.16,
+        "end": 28.46
       },
       {
         "i": 84,
-        "word": "its",
-        "start": 28.76,
-        "end": 28.9
+        "word": "the",
+        "start": 28.46,
+        "end": 28.72
       },
       {
         "i": 85,
-        "word": "panel",
-        "start": 28.9,
-        "end": 29.2
+        "word": "blur",
+        "start": 28.72,
+        "end": 28.94
       },
       {
         "i": 86,
-        "word": "before",
-        "start": 29.2,
-        "end": 29.58
-      },
-      {
-        "i": 87,
-        "word": "processing.",
-        "start": 29.58,
-        "end": 30.08
+        "word": "strength.",
+        "start": 28.94,
+        "end": 29.3
       }
     ]
   },
   {
     "id": 7,
-    "text": "Connect your BG Blur account if prompted.",
-    "start": 31.02,
-    "end": 32.82,
+    "text": "If the app offers different styles, select the one you want to use.",
+    "start": 29.9,
+    "end": 33.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      88,
-      94
+      87,
+      99
     ],
     "words": [
       {
+        "i": 87,
+        "word": "If",
+        "start": 29.9,
+        "end": 30.46
+      },
+      {
         "i": 88,
-        "word": "Connect",
-        "start": 31.02,
-        "end": 31.02
+        "word": "the",
+        "start": 30.46,
+        "end": 30.58
       },
       {
         "i": 89,
-        "word": "your",
-        "start": 31.02,
-        "end": 31.22
+        "word": "app",
+        "start": 30.58,
+        "end": 30.7
       },
       {
         "i": 90,
-        "word": "BG",
-        "start": 31.22,
-        "end": 31.54
+        "word": "offers",
+        "start": 30.7,
+        "end": 30.98
       },
       {
         "i": 91,
-        "word": "Blur",
-        "start": 31.54,
-        "end": 31.76
+        "word": "different",
+        "start": 30.98,
+        "end": 31.26
       },
       {
         "i": 92,
-        "word": "account",
-        "start": 31.76,
-        "end": 32.06
+        "word": "styles,",
+        "start": 31.26,
+        "end": 31.68
       },
       {
         "i": 93,
-        "word": "if",
-        "start": 32.06,
-        "end": 32.42
+        "word": "select",
+        "start": 32.04,
+        "end": 32.18
       },
       {
         "i": 94,
-        "word": "prompted.",
-        "start": 32.42,
-        "end": 32.82
+        "word": "the",
+        "start": 32.18,
+        "end": 32.38
+      },
+      {
+        "i": 95,
+        "word": "one",
+        "start": 32.38,
+        "end": 32.5
+      },
+      {
+        "i": 96,
+        "word": "you",
+        "start": 32.5,
+        "end": 32.66
+      },
+      {
+        "i": 97,
+        "word": "want",
+        "start": 32.66,
+        "end": 32.8
+      },
+      {
+        "i": 98,
+        "word": "to",
+        "start": 32.8,
+        "end": 32.96
+      },
+      {
+        "i": 99,
+        "word": "use.",
+        "start": 32.96,
+        "end": 33.3
       }
     ]
   },
   {
     "id": 8,
-    "text": "Upload the original video through the apps upload control, then choose the blur strength.",
-    "start": 33.46,
-    "end": 37.64,
+    "text": "Run the face-blurring action and wait for the processed result.",
+    "start": 33.98,
+    "end": 36.8,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      95,
-      108
+      100,
+      110
     ],
     "words": [
       {
-        "i": 95,
-        "word": "Upload",
-        "start": 33.46,
-        "end": 33.66
-      },
-      {
-        "i": 96,
-        "word": "the",
-        "start": 33.66,
-        "end": 33.84
-      },
-      {
-        "i": 97,
-        "word": "original",
-        "start": 33.84,
-        "end": 34.1
-      },
-      {
-        "i": 98,
-        "word": "video",
-        "start": 34.1,
-        "end": 34.4
-      },
-      {
-        "i": 99,
-        "word": "through",
-        "start": 34.4,
-        "end": 34.66
-      },
-      {
         "i": 100,
-        "word": "the",
-        "start": 34.66,
-        "end": 34.82
+        "word": "Run",
+        "start": 33.98,
+        "end": 34.08
       },
       {
         "i": 101,
-        "word": "apps",
-        "start": 34.82,
-        "end": 35.0
+        "word": "the",
+        "start": 34.08,
+        "end": 34.26
       },
       {
         "i": 102,
-        "word": "upload",
-        "start": 35.0,
-        "end": 35.44
+        "word": "Face",
+        "start": 34.26,
+        "end": 34.5
       },
       {
         "i": 103,
-        "word": "control,",
-        "start": 35.44,
-        "end": 35.92
+        "word": "Blurring",
+        "start": 34.5,
+        "end": 34.86
       },
       {
         "i": 104,
-        "word": "then",
-        "start": 36.28,
-        "end": 36.48
+        "word": "action",
+        "start": 34.86,
+        "end": 35.16
       },
       {
         "i": 105,
-        "word": "choose",
-        "start": 36.48,
-        "end": 36.82
+        "word": "and",
+        "start": 35.16,
+        "end": 35.52
       },
       {
         "i": 106,
-        "word": "the",
-        "start": 36.82,
-        "end": 37.02
+        "word": "wait",
+        "start": 35.52,
+        "end": 35.7
       },
       {
         "i": 107,
-        "word": "blur",
-        "start": 37.02,
-        "end": 37.26
+        "word": "for",
+        "start": 35.7,
+        "end": 35.88
       },
       {
         "i": 108,
-        "word": "strength.",
-        "start": 37.26,
-        "end": 37.64
+        "word": "the",
+        "start": 35.88,
+        "end": 36.02
+      },
+      {
+        "i": 109,
+        "word": "processed",
+        "start": 36.02,
+        "end": 36.36
+      },
+      {
+        "i": 110,
+        "word": "result.",
+        "start": 36.36,
+        "end": 36.8
       }
     ]
   },
   {
     "id": 9,
-    "text": "If the app offers different styles, select the one you want to use.",
-    "start": 38.6,
-    "end": 41.64,
+    "text": "Add that version to your Canva design, replacing the unblurred footage in the section you are editing.",
+    "start": 37.56,
+    "end": 42.22,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      109,
-      121
+      111,
+      127
     ],
     "words": [
       {
-        "i": 109,
-        "word": "If",
-        "start": 38.6,
-        "end": 38.78
-      },
-      {
-        "i": 110,
-        "word": "the",
-        "start": 38.78,
-        "end": 38.9
-      },
-      {
         "i": 111,
-        "word": "app",
-        "start": 38.9,
-        "end": 39.04
+        "word": "Add",
+        "start": 37.56,
+        "end": 37.68
       },
       {
         "i": 112,
-        "word": "offers",
-        "start": 39.04,
-        "end": 39.28
+        "word": "that",
+        "start": 37.68,
+        "end": 37.84
       },
       {
         "i": 113,
-        "word": "different",
-        "start": 39.28,
-        "end": 39.58
+        "word": "version",
+        "start": 37.84,
+        "end": 38.12
       },
       {
         "i": 114,
-        "word": "styles,",
-        "start": 39.58,
-        "end": 39.98
+        "word": "to",
+        "start": 38.12,
+        "end": 38.32
       },
       {
         "i": 115,
-        "word": "select",
-        "start": 40.3,
-        "end": 40.5
+        "word": "your",
+        "start": 38.32,
+        "end": 38.46
       },
       {
         "i": 116,
-        "word": "the",
-        "start": 40.5,
-        "end": 40.68
+        "word": "Canva",
+        "start": 38.46,
+        "end": 38.74
       },
       {
         "i": 117,
-        "word": "one",
-        "start": 40.68,
-        "end": 40.82
+        "word": "design,",
+        "start": 38.74,
+        "end": 39.08
       },
       {
         "i": 118,
-        "word": "you",
-        "start": 40.82,
-        "end": 40.96
+        "word": "replacing",
+        "start": 39.44,
+        "end": 39.74
       },
       {
         "i": 119,
-        "word": "want",
-        "start": 40.96,
-        "end": 41.1
+        "word": "the",
+        "start": 39.74,
+        "end": 40.04
       },
       {
         "i": 120,
-        "word": "to",
-        "start": 41.1,
-        "end": 41.28
+        "word": "unblurred",
+        "start": 40.04,
+        "end": 40.62
       },
       {
         "i": 121,
-        "word": "use.",
+        "word": "footage",
+        "start": 40.62,
+        "end": 40.96
+      },
+      {
+        "i": 122,
+        "word": "in",
+        "start": 40.96,
+        "end": 41.18
+      },
+      {
+        "i": 123,
+        "word": "the",
+        "start": 41.18,
+        "end": 41.28
+      },
+      {
+        "i": 124,
+        "word": "section",
         "start": 41.28,
-        "end": 41.64
+        "end": 41.52
+      },
+      {
+        "i": 125,
+        "word": "you",
+        "start": 41.52,
+        "end": 41.74
+      },
+      {
+        "i": 126,
+        "word": "are",
+        "start": 41.74,
+        "end": 41.84
+      },
+      {
+        "i": 127,
+        "word": "editing.",
+        "start": 41.84,
+        "end": 42.22
       }
     ]
   },
   {
     "id": 10,
-    "text": "Run the face blurring action and wait for the processed result.",
-    "start": 42.24,
-    "end": 45.14,
+    "text": "Play the entire clip and check that every face you intend to hide remains covered.",
+    "start": 42.92,
+    "end": 47.24,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      122,
-      132
+      128,
+      142
     ],
     "words": [
       {
-        "i": 122,
-        "word": "Run",
-        "start": 42.24,
-        "end": 42.4
-      },
-      {
-        "i": 123,
-        "word": "the",
-        "start": 42.4,
-        "end": 42.54
-      },
-      {
-        "i": 124,
-        "word": "face",
-        "start": 42.54,
-        "end": 42.8
-      },
-      {
-        "i": 125,
-        "word": "blurring",
-        "start": 42.8,
-        "end": 43.16
-      },
-      {
-        "i": 126,
-        "word": "action",
-        "start": 43.16,
-        "end": 43.54
-      },
-      {
-        "i": 127,
-        "word": "and",
-        "start": 43.54,
-        "end": 43.82
-      },
-      {
         "i": 128,
-        "word": "wait",
-        "start": 43.82,
-        "end": 44.0
+        "word": "Play",
+        "start": 42.92,
+        "end": 43.08
       },
       {
         "i": 129,
-        "word": "for",
-        "start": 44.0,
-        "end": 44.18
+        "word": "the",
+        "start": 43.08,
+        "end": 43.22
       },
       {
         "i": 130,
-        "word": "the",
-        "start": 44.18,
-        "end": 44.32
+        "word": "entire",
+        "start": 43.22,
+        "end": 43.56
       },
       {
         "i": 131,
-        "word": "processed",
-        "start": 44.32,
-        "end": 44.7
+        "word": "clip",
+        "start": 43.56,
+        "end": 43.82
       },
       {
         "i": 132,
-        "word": "result.",
-        "start": 44.7,
-        "end": 45.14
+        "word": "and",
+        "start": 43.82,
+        "end": 44.22
+      },
+      {
+        "i": 133,
+        "word": "check",
+        "start": 44.22,
+        "end": 44.4
+      },
+      {
+        "i": 134,
+        "word": "that",
+        "start": 44.4,
+        "end": 44.58
+      },
+      {
+        "i": 135,
+        "word": "every",
+        "start": 44.58,
+        "end": 44.98
+      },
+      {
+        "i": 136,
+        "word": "face",
+        "start": 44.98,
+        "end": 45.24
+      },
+      {
+        "i": 137,
+        "word": "you",
+        "start": 45.24,
+        "end": 45.44
+      },
+      {
+        "i": 138,
+        "word": "intend",
+        "start": 45.44,
+        "end": 45.7
+      },
+      {
+        "i": 139,
+        "word": "to",
+        "start": 45.7,
+        "end": 45.88
+      },
+      {
+        "i": 140,
+        "word": "hide",
+        "start": 45.88,
+        "end": 46.16
+      },
+      {
+        "i": 141,
+        "word": "remains",
+        "start": 46.16,
+        "end": 46.8
+      },
+      {
+        "i": 142,
+        "word": "covered.",
+        "start": 46.8,
+        "end": 47.24
       }
     ]
   },
   {
     "id": 11,
-    "text": "Add that version to your Canva design, replacing the unblurred footage in the section you are editing.",
-    "start": 45.84,
-    "end": 50.54,
+    "text": "Pay special attention when someone turns sideways, moves quickly, or enters the frame.",
+    "start": 47.9,
+    "end": 52.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      133,
-      149
+      143,
+      155
     ],
     "words": [
       {
-        "i": 133,
-        "word": "Add",
-        "start": 45.84,
-        "end": 46.0
-      },
-      {
-        "i": 134,
-        "word": "that",
-        "start": 46.0,
-        "end": 46.14
-      },
-      {
-        "i": 135,
-        "word": "version",
-        "start": 46.14,
-        "end": 46.44
-      },
-      {
-        "i": 136,
-        "word": "to",
-        "start": 46.44,
-        "end": 46.64
-      },
-      {
-        "i": 137,
-        "word": "your",
-        "start": 46.64,
-        "end": 46.78
-      },
-      {
-        "i": 138,
-        "word": "Canva",
-        "start": 46.78,
-        "end": 47.04
-      },
-      {
-        "i": 139,
-        "word": "design,",
-        "start": 47.04,
-        "end": 47.38
-      },
-      {
-        "i": 140,
-        "word": "replacing",
-        "start": 47.72,
+        "i": 143,
+        "word": "Pay",
+        "start": 47.9,
         "end": 48.06
       },
       {
-        "i": 141,
-        "word": "the",
-        "start": 48.06,
-        "end": 48.36
-      },
-      {
-        "i": 142,
-        "word": "unblurred",
-        "start": 48.36,
-        "end": 48.94
-      },
-      {
-        "i": 143,
-        "word": "footage",
-        "start": 48.94,
-        "end": 49.28
-      },
-      {
         "i": 144,
-        "word": "in",
-        "start": 49.28,
-        "end": 49.48
+        "word": "special",
+        "start": 48.06,
+        "end": 48.48
       },
       {
         "i": 145,
-        "word": "the",
-        "start": 49.48,
-        "end": 49.6
+        "word": "attention",
+        "start": 48.48,
+        "end": 48.8
       },
       {
         "i": 146,
-        "word": "section",
-        "start": 49.6,
-        "end": 49.84
+        "word": "when",
+        "start": 48.8,
+        "end": 49.06
       },
       {
         "i": 147,
-        "word": "you",
-        "start": 49.84,
-        "end": 50.06
+        "word": "someone",
+        "start": 49.06,
+        "end": 49.32
       },
       {
         "i": 148,
-        "word": "are",
-        "start": 50.06,
-        "end": 50.16
+        "word": "turns",
+        "start": 49.32,
+        "end": 49.58
       },
       {
         "i": 149,
-        "word": "editing.",
-        "start": 50.16,
-        "end": 50.54
+        "word": "sideways,",
+        "start": 49.58,
+        "end": 50.0
+      },
+      {
+        "i": 150,
+        "word": "moves",
+        "start": 50.46,
+        "end": 50.74
+      },
+      {
+        "i": 151,
+        "word": "quickly,",
+        "start": 50.74,
+        "end": 51.18
+      },
+      {
+        "i": 152,
+        "word": "or",
+        "start": 51.5,
+        "end": 51.68
+      },
+      {
+        "i": 153,
+        "word": "enters",
+        "start": 51.68,
+        "end": 51.92
+      },
+      {
+        "i": 154,
+        "word": "the",
+        "start": 51.92,
+        "end": 52.1
+      },
+      {
+        "i": 155,
+        "word": "frame.",
+        "start": 52.1,
+        "end": 52.36
       }
     ]
   },
   {
     "id": 12,
-    "text": "Play the entire clip and check that every face you intend to hide remains covered.",
-    "start": 51.14,
-    "end": 55.58,
+    "text": "Increase the blur strength or process the clip again if details remain recognizable.",
+    "start": 53.12,
+    "end": 57.4,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      150,
-      164
+      156,
+      168
     ],
     "words": [
       {
-        "i": 150,
-        "word": "Play",
-        "start": 51.14,
-        "end": 51.38
-      },
-      {
-        "i": 151,
-        "word": "the",
-        "start": 51.38,
-        "end": 51.52
-      },
-      {
-        "i": 152,
-        "word": "entire",
-        "start": 51.52,
-        "end": 51.86
-      },
-      {
-        "i": 153,
-        "word": "clip",
-        "start": 51.86,
-        "end": 52.16
-      },
-      {
-        "i": 154,
-        "word": "and",
-        "start": 52.16,
-        "end": 52.52
-      },
-      {
-        "i": 155,
-        "word": "check",
-        "start": 52.52,
-        "end": 52.72
-      },
-      {
         "i": 156,
-        "word": "that",
-        "start": 52.72,
-        "end": 52.94
+        "word": "Increase",
+        "start": 53.12,
+        "end": 53.44
       },
       {
         "i": 157,
-        "word": "every",
-        "start": 52.94,
-        "end": 53.28
+        "word": "the",
+        "start": 53.44,
+        "end": 53.68
       },
       {
         "i": 158,
-        "word": "face",
-        "start": 53.28,
-        "end": 53.58
+        "word": "blur",
+        "start": 53.68,
+        "end": 53.94
       },
       {
         "i": 159,
-        "word": "you",
-        "start": 53.58,
-        "end": 53.76
+        "word": "strength",
+        "start": 53.94,
+        "end": 54.3
       },
       {
         "i": 160,
-        "word": "intend",
-        "start": 53.76,
-        "end": 54.02
+        "word": "or",
+        "start": 54.3,
+        "end": 54.6
       },
       {
         "i": 161,
-        "word": "to",
-        "start": 54.02,
-        "end": 54.2
+        "word": "process",
+        "start": 54.6,
+        "end": 54.92
       },
       {
         "i": 162,
-        "word": "hide",
-        "start": 54.2,
-        "end": 54.46
+        "word": "the",
+        "start": 54.92,
+        "end": 55.14
       },
       {
         "i": 163,
-        "word": "remains",
-        "start": 54.46,
-        "end": 55.1
+        "word": "clip",
+        "start": 55.14,
+        "end": 55.34
       },
       {
         "i": 164,
-        "word": "covered.",
-        "start": 55.1,
-        "end": 55.58
+        "word": "again",
+        "start": 55.34,
+        "end": 55.64
+      },
+      {
+        "i": 165,
+        "word": "if",
+        "start": 55.64,
+        "end": 56.06
+      },
+      {
+        "i": 166,
+        "word": "details",
+        "start": 56.06,
+        "end": 56.4
+      },
+      {
+        "i": 167,
+        "word": "remain",
+        "start": 56.4,
+        "end": 56.78
+      },
+      {
+        "i": 168,
+        "word": "recognisable.",
+        "start": 56.78,
+        "end": 57.4
       }
     ]
   },
   {
     "id": 13,
-    "text": "Pay special attention when someone turns sideways, moves quickly or enters the frame.",
-    "start": 56.06,
-    "end": 60.7,
+    "text": "Here's the part many tutorials skip: a blur-shaped graphic placed over one frame does not automatically follow a moving face.",
+    "start": 58.18,
+    "end": 65.9,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      165,
-      177
+      169,
+      189
     ],
     "words": [
       {
-        "i": 165,
-        "word": "Pay",
-        "start": 56.06,
-        "end": 56.36
-      },
-      {
-        "i": 166,
-        "word": "special",
-        "start": 56.36,
-        "end": 56.8
-      },
-      {
-        "i": 167,
-        "word": "attention",
-        "start": 56.8,
-        "end": 57.12
-      },
-      {
-        "i": 168,
-        "word": "when",
-        "start": 57.12,
-        "end": 57.38
-      },
-      {
         "i": 169,
-        "word": "someone",
-        "start": 57.38,
-        "end": 57.64
+        "word": "Here's",
+        "start": 58.18,
+        "end": 58.74
       },
       {
         "i": 170,
-        "word": "turns",
-        "start": 57.64,
-        "end": 57.94
+        "word": "the",
+        "start": 58.74,
+        "end": 58.86
       },
       {
         "i": 171,
-        "word": "sideways,",
-        "start": 57.94,
-        "end": 58.34
+        "word": "part",
+        "start": 58.86,
+        "end": 59.08
       },
       {
         "i": 172,
-        "word": "moves",
-        "start": 58.82,
-        "end": 59.06
+        "word": "many",
+        "start": 59.08,
+        "end": 59.4
       },
       {
         "i": 173,
-        "word": "quickly",
-        "start": 59.06,
-        "end": 59.48
-      },
-      {
-        "i": 174,
-        "word": "or",
-        "start": 59.48,
+        "word": "tutorials",
+        "start": 59.4,
         "end": 59.98
       },
       {
-        "i": 175,
-        "word": "enters",
+        "i": 174,
+        "word": "skip.",
         "start": 59.98,
-        "end": 60.24
+        "end": 60.44
+      },
+      {
+        "i": 175,
+        "word": "A",
+        "start": 61.4,
+        "end": 61.54
       },
       {
         "i": 176,
-        "word": "the",
-        "start": 60.24,
-        "end": 60.4
+        "word": "blur",
+        "start": 61.54,
+        "end": 61.82
       },
       {
         "i": 177,
-        "word": "frame.",
-        "start": 60.4,
-        "end": 60.7
+        "word": "-shaped",
+        "start": 61.82,
+        "end": 62.14
+      },
+      {
+        "i": 178,
+        "word": "graphic",
+        "start": 62.14,
+        "end": 62.62
+      },
+      {
+        "i": 179,
+        "word": "placed",
+        "start": 62.62,
+        "end": 62.98
+      },
+      {
+        "i": 180,
+        "word": "over",
+        "start": 62.98,
+        "end": 63.24
+      },
+      {
+        "i": 181,
+        "word": "one",
+        "start": 63.24,
+        "end": 63.5
+      },
+      {
+        "i": 182,
+        "word": "frame",
+        "start": 63.5,
+        "end": 63.86
+      },
+      {
+        "i": 183,
+        "word": "does",
+        "start": 63.86,
+        "end": 64.1
+      },
+      {
+        "i": 184,
+        "word": "not",
+        "start": 64.1,
+        "end": 64.28
+      },
+      {
+        "i": 185,
+        "word": "automatically",
+        "start": 64.28,
+        "end": 64.72
+      },
+      {
+        "i": 186,
+        "word": "follow",
+        "start": 64.72,
+        "end": 65.08
+      },
+      {
+        "i": 187,
+        "word": "a",
+        "start": 65.08,
+        "end": 65.26
+      },
+      {
+        "i": 188,
+        "word": "moving",
+        "start": 65.26,
+        "end": 65.52
+      },
+      {
+        "i": 189,
+        "word": "face.",
+        "start": 65.52,
+        "end": 65.9
       }
     ]
   },
   {
     "id": 14,
-    "text": "Increase the blur strength or process the clip again if details remain recognisable.",
-    "start": 61.7,
-    "end": 65.72,
+    "text": "You need a processed video with tracking, or you must adjust the cover throughout the movement.",
+    "start": 66.88,
+    "end": 71.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      178,
-      190
+      190,
+      205
     ],
     "words": [
       {
-        "i": 178,
-        "word": "Increase",
-        "start": 61.7,
-        "end": 61.76
-      },
-      {
-        "i": 179,
-        "word": "the",
-        "start": 61.76,
-        "end": 62.02
-      },
-      {
-        "i": 180,
-        "word": "blur",
-        "start": 62.02,
-        "end": 62.22
-      },
-      {
-        "i": 181,
-        "word": "strength",
-        "start": 62.22,
-        "end": 62.62
-      },
-      {
-        "i": 182,
-        "word": "or",
-        "start": 62.62,
-        "end": 62.9
-      },
-      {
-        "i": 183,
-        "word": "process",
-        "start": 62.9,
-        "end": 63.24
-      },
-      {
-        "i": 184,
-        "word": "the",
-        "start": 63.24,
-        "end": 63.46
-      },
-      {
-        "i": 185,
-        "word": "clip",
-        "start": 63.46,
-        "end": 63.64
-      },
-      {
-        "i": 186,
-        "word": "again",
-        "start": 63.64,
-        "end": 63.96
-      },
-      {
-        "i": 187,
-        "word": "if",
-        "start": 63.96,
-        "end": 64.36
-      },
-      {
-        "i": 188,
-        "word": "details",
-        "start": 64.36,
-        "end": 64.72
-      },
-      {
-        "i": 189,
-        "word": "remain",
-        "start": 64.72,
-        "end": 65.06
-      },
-      {
         "i": 190,
-        "word": "recognisable.",
-        "start": 65.06,
-        "end": 65.72
+        "word": "You",
+        "start": 66.88,
+        "end": 67.02
+      },
+      {
+        "i": 191,
+        "word": "need",
+        "start": 67.02,
+        "end": 67.14
+      },
+      {
+        "i": 192,
+        "word": "a",
+        "start": 67.14,
+        "end": 67.3
+      },
+      {
+        "i": 193,
+        "word": "processed",
+        "start": 67.3,
+        "end": 67.64
+      },
+      {
+        "i": 194,
+        "word": "video",
+        "start": 67.64,
+        "end": 68.08
+      },
+      {
+        "i": 195,
+        "word": "with",
+        "start": 68.08,
+        "end": 68.36
+      },
+      {
+        "i": 196,
+        "word": "tracking,",
+        "start": 68.36,
+        "end": 68.68
+      },
+      {
+        "i": 197,
+        "word": "or",
+        "start": 68.92,
+        "end": 69.06
+      },
+      {
+        "i": 198,
+        "word": "you",
+        "start": 69.06,
+        "end": 69.2
+      },
+      {
+        "i": 199,
+        "word": "must",
+        "start": 69.2,
+        "end": 69.34
+      },
+      {
+        "i": 200,
+        "word": "adjust",
+        "start": 69.34,
+        "end": 69.66
+      },
+      {
+        "i": 201,
+        "word": "the",
+        "start": 69.66,
+        "end": 69.86
+      },
+      {
+        "i": 202,
+        "word": "cover",
+        "start": 69.86,
+        "end": 70.06
+      },
+      {
+        "i": 203,
+        "word": "throughout",
+        "start": 70.06,
+        "end": 70.5
+      },
+      {
+        "i": 204,
+        "word": "the",
+        "start": 70.5,
+        "end": 70.74
+      },
+      {
+        "i": 205,
+        "word": "movement.",
+        "start": 70.74,
+        "end": 71.06
       }
     ]
   },
   {
     "id": 15,
-    "text": "Here's the part many tutorials skip.",
-    "start": 66.88,
-    "end": 68.76,
+    "text": "If the integration is unavailable or your clip exceeds its limits, process it on the BGBlur website and upload the resulting video to Canva.",
+    "start": 71.68,
+    "end": 79.04,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      191,
-      196
+      206,
+      230
     ],
     "words": [
       {
-        "i": 191,
-        "word": "Here's",
-        "start": 66.88,
-        "end": 67.06
+        "i": 206,
+        "word": "If",
+        "start": 71.68,
+        "end": 71.84
       },
       {
-        "i": 192,
+        "i": 207,
         "word": "the",
-        "start": 67.06,
-        "end": 67.18
+        "start": 71.84,
+        "end": 71.96
       },
       {
-        "i": 193,
-        "word": "part",
-        "start": 67.18,
-        "end": 67.38
+        "i": 208,
+        "word": "integration",
+        "start": 71.96,
+        "end": 72.34
       },
       {
-        "i": 194,
-        "word": "many",
-        "start": 67.38,
-        "end": 67.7
+        "i": 209,
+        "word": "is",
+        "start": 72.34,
+        "end": 72.56
       },
       {
-        "i": 195,
-        "word": "tutorials",
-        "start": 67.7,
-        "end": 68.3
+        "i": 210,
+        "word": "unavailable",
+        "start": 72.56,
+        "end": 72.92
       },
       {
-        "i": 196,
-        "word": "skip.",
-        "start": 68.3,
-        "end": 68.76
+        "i": 211,
+        "word": "or",
+        "start": 72.92,
+        "end": 73.4
+      },
+      {
+        "i": 212,
+        "word": "your",
+        "start": 73.4,
+        "end": 73.58
+      },
+      {
+        "i": 213,
+        "word": "clip",
+        "start": 73.58,
+        "end": 73.84
+      },
+      {
+        "i": 214,
+        "word": "exceeds",
+        "start": 73.84,
+        "end": 74.28
+      },
+      {
+        "i": 215,
+        "word": "its",
+        "start": 74.28,
+        "end": 74.54
+      },
+      {
+        "i": 216,
+        "word": "limits,",
+        "start": 74.54,
+        "end": 74.86
+      },
+      {
+        "i": 217,
+        "word": "process",
+        "start": 75.34,
+        "end": 75.5
+      },
+      {
+        "i": 218,
+        "word": "it",
+        "start": 75.5,
+        "end": 75.74
+      },
+      {
+        "i": 219,
+        "word": "on",
+        "start": 75.74,
+        "end": 75.92
+      },
+      {
+        "i": 220,
+        "word": "the",
+        "start": 75.92,
+        "end": 76.04
+      },
+      {
+        "i": 221,
+        "word": "BG",
+        "start": 76.04,
+        "end": 76.3
+      },
+      {
+        "i": 222,
+        "word": "Blur",
+        "start": 76.3,
+        "end": 76.5
+      },
+      {
+        "i": 223,
+        "word": "website",
+        "start": 76.5,
+        "end": 76.86
+      },
+      {
+        "i": 224,
+        "word": "and",
+        "start": 76.86,
+        "end": 77.18
+      },
+      {
+        "i": 225,
+        "word": "upload",
+        "start": 77.18,
+        "end": 77.56
+      },
+      {
+        "i": 226,
+        "word": "the",
+        "start": 77.56,
+        "end": 77.72
+      },
+      {
+        "i": 227,
+        "word": "resulting",
+        "start": 77.72,
+        "end": 78.02
+      },
+      {
+        "i": 228,
+        "word": "video",
+        "start": 78.02,
+        "end": 78.38
+      },
+      {
+        "i": 229,
+        "word": "to",
+        "start": 78.38,
+        "end": 78.66
+      },
+      {
+        "i": 230,
+        "word": "Canva.",
+        "start": 78.66,
+        "end": 79.04
       }
     ]
   },
   {
     "id": 16,
-    "text": "A blur shaped graphic placed over one frame does not automatically follow a moving face.",
-    "start": 69.72,
-    "end": 74.22,
+    "text": "Finish your text and layout, then export the completed design as an MP4 Video.",
+    "start": 79.48,
+    "end": 83.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      197,
-      211
+      231,
+      244
     ],
     "words": [
-      {
-        "i": 197,
-        "word": "A",
-        "start": 69.72,
-        "end": 69.84
-      },
-      {
-        "i": 198,
-        "word": "blur",
-        "start": 69.84,
-        "end": 70.16
-      },
-      {
-        "i": 199,
-        "word": "shaped",
-        "start": 70.16,
-        "end": 70.46
-      },
-      {
-        "i": 200,
-        "word": "graphic",
-        "start": 70.46,
-        "end": 70.94
-      },
-      {
-        "i": 201,
-        "word": "placed",
-        "start": 70.94,
-        "end": 71.3
-      },
-      {
-        "i": 202,
-        "word": "over",
-        "start": 71.3,
-        "end": 71.54
-      },
-      {
-        "i": 203,
-        "word": "one",
-        "start": 71.54,
-        "end": 71.8
-      },
-      {
-        "i": 204,
-        "word": "frame",
-        "start": 71.8,
-        "end": 72.2
-      },
-      {
-        "i": 205,
-        "word": "does",
-        "start": 72.2,
-        "end": 72.42
-      },
-      {
-        "i": 206,
-        "word": "not",
-        "start": 72.42,
-        "end": 72.62
-      },
-      {
-        "i": 207,
-        "word": "automatically",
-        "start": 72.62,
-        "end": 73.04
-      },
-      {
-        "i": 208,
-        "word": "follow",
-        "start": 73.04,
-        "end": 73.4
-      },
-      {
-        "i": 209,
-        "word": "a",
-        "start": 73.4,
-        "end": 73.58
-      },
-      {
-        "i": 210,
-        "word": "moving",
-        "start": 73.58,
-        "end": 73.82
-      },
-      {
-        "i": 211,
-        "word": "face.",
-        "start": 73.82,
-        "end": 74.22
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "text": "You need a processed video with tracking or you must adjust the cover throughout the movement.",
-    "start": 75.16,
-    "end": 79.4,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      212,
-      227
-    ],
-    "words": [
-      {
-        "i": 212,
-        "word": "You",
-        "start": 75.16,
-        "end": 75.32
-      },
-      {
-        "i": 213,
-        "word": "need",
-        "start": 75.32,
-        "end": 75.46
-      },
-      {
-        "i": 214,
-        "word": "a",
-        "start": 75.46,
-        "end": 75.6
-      },
-      {
-        "i": 215,
-        "word": "processed",
-        "start": 75.6,
-        "end": 75.96
-      },
-      {
-        "i": 216,
-        "word": "video",
-        "start": 75.96,
-        "end": 76.36
-      },
-      {
-        "i": 217,
-        "word": "with",
-        "start": 76.36,
-        "end": 76.68
-      },
-      {
-        "i": 218,
-        "word": "tracking",
-        "start": 76.68,
-        "end": 76.98
-      },
-      {
-        "i": 219,
-        "word": "or",
-        "start": 76.98,
-        "end": 77.38
-      },
-      {
-        "i": 220,
-        "word": "you",
-        "start": 77.38,
-        "end": 77.52
-      },
-      {
-        "i": 221,
-        "word": "must",
-        "start": 77.52,
-        "end": 77.64
-      },
-      {
-        "i": 222,
-        "word": "adjust",
-        "start": 77.64,
-        "end": 77.96
-      },
-      {
-        "i": 223,
-        "word": "the",
-        "start": 77.96,
-        "end": 78.16
-      },
-      {
-        "i": 224,
-        "word": "cover",
-        "start": 78.16,
-        "end": 78.4
-      },
-      {
-        "i": 225,
-        "word": "throughout",
-        "start": 78.4,
-        "end": 78.8
-      },
-      {
-        "i": 226,
-        "word": "the",
-        "start": 78.8,
-        "end": 79.04
-      },
-      {
-        "i": 227,
-        "word": "movement.",
-        "start": 79.04,
-        "end": 79.4
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "text": "If the integration is unavailable or your clip exceeds its limits, process it on the BG Blur website and upload the resulting video to Canva.",
-    "start": 79.92,
-    "end": 87.38,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      228,
-      252
-    ],
-    "words": [
-      {
-        "i": 228,
-        "word": "If",
-        "start": 79.92,
-        "end": 80.14
-      },
-      {
-        "i": 229,
-        "word": "the",
-        "start": 80.14,
-        "end": 80.26
-      },
-      {
-        "i": 230,
-        "word": "integration",
-        "start": 80.26,
-        "end": 80.64
-      },
       {
         "i": 231,
-        "word": "is",
-        "start": 80.64,
-        "end": 80.88
+        "word": "Finish",
+        "start": 79.48,
+        "end": 79.74
       },
       {
         "i": 232,
-        "word": "unavailable",
-        "start": 80.88,
-        "end": 81.24
+        "word": "your",
+        "start": 79.74,
+        "end": 79.92
       },
       {
         "i": 233,
-        "word": "or",
-        "start": 81.24,
-        "end": 81.7
+        "word": "text",
+        "start": 79.92,
+        "end": 80.16
       },
       {
         "i": 234,
-        "word": "your",
-        "start": 81.7,
-        "end": 81.9
+        "word": "and",
+        "start": 80.16,
+        "end": 80.34
       },
       {
         "i": 235,
-        "word": "clip",
-        "start": 81.9,
-        "end": 82.14
+        "word": "layout,",
+        "start": 80.34,
+        "end": 80.56
       },
       {
         "i": 236,
-        "word": "exceeds",
-        "start": 82.14,
-        "end": 82.62
+        "word": "then",
+        "start": 80.96,
+        "end": 81.14
       },
       {
         "i": 237,
-        "word": "its",
-        "start": 82.62,
-        "end": 82.86
+        "word": "export",
+        "start": 81.14,
+        "end": 81.6
       },
       {
         "i": 238,
-        "word": "limits,",
-        "start": 82.86,
-        "end": 83.2
+        "word": "the",
+        "start": 81.6,
+        "end": 81.76
       },
       {
         "i": 239,
-        "word": "process",
-        "start": 83.66,
-        "end": 83.8
+        "word": "completed",
+        "start": 81.76,
+        "end": 82.14
       },
       {
         "i": 240,
-        "word": "it",
-        "start": 83.8,
-        "end": 84.06
+        "word": "design",
+        "start": 82.14,
+        "end": 82.56
       },
       {
         "i": 241,
-        "word": "on",
-        "start": 84.06,
-        "end": 84.22
+        "word": "as",
+        "start": 82.56,
+        "end": 82.84
       },
       {
         "i": 242,
-        "word": "the",
-        "start": 84.22,
-        "end": 84.34
+        "word": "an",
+        "start": 82.84,
+        "end": 82.96
       },
       {
         "i": 243,
-        "word": "BG",
-        "start": 84.34,
-        "end": 84.6
+        "word": "MP4",
+        "start": 82.96,
+        "end": 83.48
       },
       {
         "i": 244,
-        "word": "Blur",
-        "start": 84.6,
-        "end": 84.82
-      },
-      {
-        "i": 245,
-        "word": "website",
-        "start": 84.82,
-        "end": 85.18
-      },
-      {
-        "i": 246,
-        "word": "and",
-        "start": 85.18,
-        "end": 85.46
-      },
-      {
-        "i": 247,
-        "word": "upload",
-        "start": 85.46,
-        "end": 85.88
-      },
-      {
-        "i": 248,
-        "word": "the",
-        "start": 85.88,
-        "end": 86.04
-      },
-      {
-        "i": 249,
-        "word": "resulting",
-        "start": 86.04,
-        "end": 86.32
-      },
-      {
-        "i": 250,
-        "word": "video",
-        "start": 86.32,
-        "end": 86.68
-      },
-      {
-        "i": 251,
-        "word": "to",
-        "start": 86.68,
-        "end": 86.96
-      },
-      {
-        "i": 252,
-        "word": "Canva.",
-        "start": 86.96,
-        "end": 87.38
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "text": "Finish your text and layout, then export the completed design as an MP4 video.",
-    "start": 87.78,
-    "end": 92.1,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      253,
-      266
-    ],
-    "words": [
-      {
-        "i": 253,
-        "word": "Finish",
-        "start": 87.78,
-        "end": 88.04
-      },
-      {
-        "i": 254,
-        "word": "your",
-        "start": 88.04,
-        "end": 88.22
-      },
-      {
-        "i": 255,
-        "word": "text",
-        "start": 88.22,
-        "end": 88.48
-      },
-      {
-        "i": 256,
-        "word": "and",
-        "start": 88.48,
-        "end": 88.64
-      },
-      {
-        "i": 257,
-        "word": "layout,",
-        "start": 88.64,
-        "end": 88.86
-      },
-      {
-        "i": 258,
-        "word": "then",
-        "start": 89.3,
-        "end": 89.44
-      },
-      {
-        "i": 259,
-        "word": "export",
-        "start": 89.44,
-        "end": 89.9
-      },
-      {
-        "i": 260,
-        "word": "the",
-        "start": 89.9,
-        "end": 90.08
-      },
-      {
-        "i": 261,
-        "word": "completed",
-        "start": 90.08,
-        "end": 90.44
-      },
-      {
-        "i": 262,
-        "word": "design",
-        "start": 90.44,
-        "end": 90.88
-      },
-      {
-        "i": 263,
-        "word": "as",
-        "start": 90.88,
-        "end": 91.16
-      },
-      {
-        "i": 264,
-        "word": "an",
-        "start": 91.16,
-        "end": 91.26
-      },
-      {
-        "i": 265,
-        "word": "MP4",
-        "start": 91.26,
-        "end": 91.8
-      },
-      {
-        "i": 266,
         "word": "video.",
-        "start": 91.8,
-        "end": 92.1
+        "start": 83.48,
+        "end": 83.78
       }
     ]
   }

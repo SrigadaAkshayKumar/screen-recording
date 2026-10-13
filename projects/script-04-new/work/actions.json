@@ -1,15 +1,111 @@
 {
-  "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 182.767},
-  "sync": {"clicks_offset": 0, "source": "frames"},
-  "actions": [
-    {"id": "A1", "t_click": 15.1, "x": 100, "y": 600, "kind": "click", "target": "Apps in left sidebar", "result": "apps panel opens", "t_result_visible": 15.8, "confidence": "medium"},
-    {"id": "A2", "t_click": 15.8, "x": 150, "y": 260, "kind": "type", "text": "BGblur", "target": "apps search field", "result": "BG Blur search results listed", "t_result_visible": 16.3, "confidence": "medium"},
-    {"id": "A3", "t_click": 29.6, "x": 500, "y": 504, "kind": "click", "target": "Face Blur in Video app", "result": "Face Blur in Video panel opens", "t_result_visible": 32.1, "confidence": "medium"},
-    {"id": "A4", "t_click": 42.9, "x": 370, "y": 490, "kind": "click", "target": "Choose file button", "result": "file picker opens", "t_result_visible": 43.4, "confidence": "medium"},
-    {"id": "A5", "t_click": 45.15, "x": 1080, "y": 640, "kind": "click", "target": "Open button in file picker", "result": "video uploaded in panel", "t_result_visible": 46.5, "confidence": "low"},
-    {"id": "A6", "t_click": 58.7, "x": 322, "y": 830, "kind": "drag", "x2": 330, "y2": 830, "t_end": 60.1, "target": "Intensity slider", "result": "blur strength changed", "t_result_visible": 60.1, "confidence": "low"},
-    {"id": "A7", "t_click": 79.4, "x": 345, "y": 893, "kind": "click", "target": "Process your video button", "result": "processing starts (Preparing...)", "t_result_visible": 81.7, "confidence": "medium"},
-    {"id": "A8", "t_click": 82.3, "x": 330, "y": 560, "kind": "wait", "target": "Detecting faces progress bar", "result": "progress bar never completes before recording ends", "t_result_visible": 182.0, "confidence": "high"}
-  ],
-  "junk": []
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 182.767
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 15.4,
+   "x": 105,
+   "y": 600,
+   "kind": "click",
+   "target": "Apps in the left sidebar",
+   "result": "Apps panel opens with BGBlur already in the search box",
+   "t_result_visible": 16.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 29.7,
+   "x": 495,
+   "y": 495,
+   "kind": "click",
+   "target": "Face Blur in Video app",
+   "result": "app panel opens (Face Blur in Video)",
+   "t_result_visible": 32.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 41.6,
+   "x": 365,
+   "y": 505,
+   "kind": "click",
+   "target": "Choose file button",
+   "result": "file picker opens",
+   "t_result_visible": 44.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 45.25,
+   "x": 1000,
+   "y": 800,
+   "kind": "click",
+   "target": "Open button in the file dialog",
+   "result": "dialog closes, uploaded video shown in panel",
+   "t_result_visible": 46.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 58.267,
+   "x": 330,
+   "y": 720,
+   "kind": "drag",
+   "target": "Intensity slider",
+   "result": "intensity set to 29",
+   "t_result_visible": 62.5,
+   "confidence": "medium",
+   "x2": 330,
+   "y2": 720,
+   "t_end": 62.4
+  },
+  {
+   "id": "A6",
+   "t_click": 71.2,
+   "x": 200,
+   "y": 600,
+   "kind": "click",
+   "target": "Gaussian blur style",
+   "result": "style selected",
+   "t_result_visible": 71.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 79.5,
+   "x": 370,
+   "y": 830,
+   "kind": "click",
+   "target": "Process your video button",
+   "result": "progress bar appears: Preparing your media",
+   "t_result_visible": 80.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 80.6,
+   "x": 250,
+   "y": 560,
+   "kind": "wait",
+   "target": "processing progress bar",
+   "result": "still detecting faces; recording ends before completion",
+   "t_result_visible": 182.0,
+   "confidence": "high"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0,
+   "end": 5.1,
+   "reason": "cursor wanders, recorder zoomed onto the taskbar (off-topic)"
+  }
+ ]
 }
