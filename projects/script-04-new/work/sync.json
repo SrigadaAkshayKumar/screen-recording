@@ -7,28 +7,73 @@
   },
   {
    "action": "A2",
-   "line": 4,
-   "word": "check"
+   "line": 2,
+   "word": "BG"
   },
   {
    "action": "A3",
+   "line": 3,
+   "word": "Face"
+  },
+  {
+   "action": "A4",
    "line": 6,
    "word": "Upload"
   },
   {
    "action": "A5",
    "line": 6,
-   "word": "strength."
+   "word": "control"
   },
   {
    "action": "A6",
-   "line": 7,
-   "word": "use."
+   "line": 6,
+   "word": "strength"
   },
   {
    "action": "A7",
+   "line": 7,
+   "word": "select"
+  },
+  {
+   "action": "A8",
    "line": 8,
-   "word": "Blurring"
+   "word": "Run"
+  },
+  {
+   "action": "A10",
+   "line": 9,
+   "word": "Add"
+  },
+  {
+   "action": "A11",
+   "line": 10,
+   "word": "Play"
+  },
+  {
+   "action": "A14",
+   "line": 13,
+   "word": "blur"
+  },
+  {
+   "action": "A15",
+   "line": 13,
+   "word": "frame"
+  },
+  {
+   "action": "A17",
+   "line": 16,
+   "word": "Finish"
+  },
+  {
+   "action": "A19",
+   "line": 16,
+   "word": "export"
+  },
+  {
+   "action": "A20",
+   "line": 16,
+   "word": "MP4"
   }
  ],
  "zooms": [],
@@ -39,62 +84,116 @@
   "A4",
   "A5",
   "A6",
-  "A7"
+  "A7",
+  "A8",
+  "A10",
+  "A11",
+  "A14",
+  "A15",
+  "A17",
+  "A19",
+  "A20"
  ],
  "cuts": [
   {
-   "src_start": 19.5,
-   "src_end": 25.5,
-   "reason": "search results idle, cursor hovering",
+   "src_start": 59.0,
+   "src_end": 68.8,
+   "reason": "hover/idle after upload; narration moves on to blur strength",
    "xfade": true
   },
   {
-   "src_start": 33.2,
-   "src_end": 39.5,
-   "reason": "panel idle (still span)",
+   "src_start": 75.2,
+   "src_end": 77.6,
+   "reason": "cursor travel before Process",
    "xfade": true
   },
   {
-   "src_start": 47.2,
-   "src_end": 58.267,
-   "reason": "idle after upload",
+   "src_start": 80.6,
+   "src_end": 114.6,
+   "reason": "processing wait; narration says wait for the result",
    "xfade": true
   },
   {
-   "src_start": 62.8,
-   "src_end": 70.4,
-   "reason": "hesitation over slider/style",
+   "src_start": 115.5,
+   "src_end": 123.8,
+   "reason": "cursor idle on result before Add to design",
    "xfade": true
   },
   {
-   "src_start": 72.0,
-   "src_end": 78.9,
-   "reason": "idle before Process click",
+   "src_start": 126.0,
+   "src_end": 136.8,
+   "reason": "Add to design spinner",
    "xfade": true
   },
   {
-   "src_start": 81.2,
-   "src_end": 112.1,
-   "reason": "static progress bar (still spans 82-112)",
+   "src_start": 139.5,
+   "src_end": 161.0,
+   "reason": "idle with clip selected",
    "xfade": true
   },
   {
-   "src_start": 129.9,
-   "src_end": 137.3,
-   "reason": "static progress bar (still)",
+   "src_start": 176.8,
+   "src_end": 214.3,
+   "reason": "idle with timeline, nothing changes (stills)",
    "xfade": true
   },
   {
-   "src_start": 160.1,
-   "src_end": 163.2,
-   "reason": "static progress bar (still)",
+   "src_start": 218.6,
+   "src_end": 221.3,
+   "reason": "results loading",
+   "xfade": true
+  },
+  {
+   "src_start": 232.5,
+   "src_end": 258.5,
+   "reason": "unmentioned transparency/animation tweaks",
+   "xfade": true
+  },
+  {
+   "src_start": 262.4,
+   "src_end": 274.0,
+   "reason": "idle hover on Start over and navigation back to editor",
+   "xfade": true
+  },
+  {
+   "src_start": 278.8,
+   "src_end": 294.4,
+   "reason": "typing/colour tweaks of the heading",
+   "xfade": true
+  },
+  {
+   "src_start": 296.2,
+   "src_end": 297.9,
+   "reason": "download panel loading",
+   "xfade": true
+  },
+  {
+   "src_start": 30.6,
+   "src_end": 32.6,
+   "reason": "search results static while the cursor travels to the app",
+   "xfade": true
+  },
+  {
+   "src_start": 52.0,
+   "src_end": 56.0,
+   "reason": "browsing folders in the file dialog",
+   "xfade": true
+  },
+  {
+   "src_start": 46.3,
+   "src_end": 48.1,
+   "reason": "static panel, only the cursor twitches",
+   "xfade": true
+  },
+  {
+   "src_start": 37.2,
+   "src_end": 40.0,
+   "reason": "Face Blur panel idle, only the cursor moves",
    "xfade": true
   }
  ],
- "src_end": 172.3,
  "ff_max": 2.0,
  "use_junk": true,
- "style": {
-  "cursor_halo": false
- }
+ "src_end": 300.8,
+ "src_start": 12.0
 }

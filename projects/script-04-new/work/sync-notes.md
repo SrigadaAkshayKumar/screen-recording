@@ -2,17 +2,27 @@
 
 | line | word | out time | action | src time | speed (approach) |
 |---|---|---|---|---|---|
-| 2 | apps | 8.460 | A1 Apps in the left sidebar | 15.400 | 1.22x |
-| 4 | check | 17.860 | A2 Face Blur in Video app | 29.700 | 0.88x |
-| 6 | Upload | 25.060 | A3 Choose file button | 41.600 | 0.78x |
-| 6 | strength. | 28.940 | A5 Intensity slider | 58.267 | 1.44x |
-| 7 | use. | 32.960 | A6 Gaussian blur style | 71.200 | 1.33x |
-| 8 | Blurring | 34.500 | A7 Process your video button | 79.500 | 0.91x |
+| 2 | apps | 8.440 | A1 Apps in the left sidebar | 22.800 | 1.28x |
+| 2 | BG | 10.760 | A2 Apps search field | 26.300 | 1.51x |
+| 3 | Face | 13.680 | A3 Face Blur in Video app icon | 33.600 | 1.82x |
+| 6 | Upload | 25.040 | A4 Choose file button | 50.600 | 1.09x |
+| 6 | control, | 27.100 | A5 Open button in file dialog | 57.000 | 1.17x |
+| 6 | strength. | 28.980 | A6 Intensity slider | 69.800 | 1.60x |
+| 7 | select | 32.020 | A7 Gaussian blur style | 73.400 | 1.18x |
+| 8 | Run | 33.960 | A8 Process your video button | 79.000 | 1.65x |
+| 9 | Add | 37.540 | A10 Add to design button | 124.600 | 0.92x |
+| 10 | Play | 42.900 | A11 Play button | 163.300 | 1.19x |
+| 13 | blur | 61.520 | A14 Elements search field | 217.400 | 0.89x |
+| 13 | frame | 63.480 | A15 blur graphic | 222.400 | 1.17x |
+| 16 | Finish | 79.460 | A17 Add a heading | 277.600 | 1.10x |
+| 16 | export | 81.120 | A19 Share button | 295.200 | 1.20x |
+| 16 | MP4 | 82.940 | A20 MP4 Video file type | 298.900 | 1.10x |
 
 ## Judgment calls
-- Narration lines 9-16 (add to design, check faces, tracking caveat, website fallback, export) have no footage: the recording ends while face detection is still running. Lines 8-16 (34.5-84.3 s) play the processing screen. Real progress-bar footage with the recorder's own zoom pops (112-130, 137-160, 163-171) is used; the static stretches (81.2-112.1, 129.9-137.3, 160.1-163.2) are cut with cross-fades. No stretch over 2.5 s without movement remains.
-- Anchors: A1 "apps"; A2 (Face Blur app click) on "check" (17.9 s) instead of "Open the Face Blur integration" (13.7 s): the panel is idle for 8 s after it opens and A2 earlier would need long stills; A3 Choose file on "Upload"; A5 slider drag on "strength"; A6 style click on "use" (the narration says "select the one you want to use" ~1 s earlier); A7 Process click on "Blurring" (0.5 s after "Run"), because footage between actions is dead and cannot be played faster than 1.5x.
-- Narration is faster than the footage for upload -> strength -> style -> run (9 s of narration, ~25 s of footage), so idle spans between actions are cut with cross-fades (47.2-58.3, 62.8-70.4, 72-78.9) rather than fast-forwarded (>2x needed). Result: 7 cross-fade cuts in 84 s.
-- A4 (Open in file dialog) has no anchor; it plays at ~1.4x within the A3->A5 interval.
-- No zooms and no ripples: the recorder baked its own zoom into the footage (see lessons 2026-10-10 / 2026-10-11).
-- A5's click time was moved to 58.27 (end of a still span where only the cursor rests on the slider) so the builder does not treat the approach as a still at 8x.
+- No zooms, no ripples: the recorder bakes in auto-zoom (many full-screen events) and there is no click log, so cursor positions are not reliable in recording pixels.
+- Audio order followed. Anchors: apps/BG/Face on lines 2-3; Upload/control/strength (A4-A6) all in line 6, so the file dialog is shortened (folder browsing 52-56 s cut).
+- Source 0-16.3 s (setup) is junk; the opening plays 16.4-22.8 s at 0.76x with no hold.
+- Cuts (all cross-faded, reasons in sync.json): processing wait 80.6-114.6 (narration says wait for the result), Add to design spinner 126-136.8, idle 139.5-161 and 176.8-214.3, unmentioned transparency tweaks 232.5-258.5, idle Start-over hover 262.4-274, heading typing 278.8-294.4, still 46.3-48.1.
+- A3 and A6 warnings: the app panel loads ~2.5 s after the click / the slider drag finishes after the word; accepted.
+- Narration lines 11-12 (check faces, increase blur strength) have no matching footage: the timeline scrub (170-176 s) plays under them. Line 15 (BGBlur website) has no footage; it plays the 'Start over' panel (258-262 s) and the blur-graphic footage. A12, A13, A16, A18 are not anchored (extra clicks inside the played footage).
+- Lines 13-14 (blur-shaped graphic): shown by searching Elements for blur and adding the graphic (214-232 s).
