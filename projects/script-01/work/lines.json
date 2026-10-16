@@ -1,1753 +1,1630 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to turn a still photo into an animated design in Canva.",
+    "text": "This tutorial shows you how to record your own voice directly in Canva and place the recording on a video timeline.",
     "start": 0.0,
-    "end": 4.9,
+    "end": 6.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      15
+      20
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.22
+        "end": 0.24
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.22,
-        "end": 0.56
+        "start": 0.24,
+        "end": 0.64
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.56,
-        "end": 1.0
+        "start": 0.64,
+        "end": 1.12
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.0,
-        "end": 1.2
+        "start": 1.12,
+        "end": 1.34
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.2,
-        "end": 1.34
-      },
-      {
-        "i": 5,
-        "word": "to",
         "start": 1.34,
         "end": 1.5
       },
       {
-        "i": 6,
-        "word": "turn",
+        "i": 5,
+        "word": "to",
         "start": 1.5,
         "end": 1.68
       },
       {
-        "i": 7,
-        "word": "a",
+        "i": 6,
+        "word": "record",
         "start": 1.68,
-        "end": 1.84
+        "end": 1.98
+      },
+      {
+        "i": 7,
+        "word": "your",
+        "start": 1.98,
+        "end": 2.24
       },
       {
         "i": 8,
-        "word": "still",
-        "start": 1.84,
-        "end": 2.08
+        "word": "own",
+        "start": 2.24,
+        "end": 2.54
       },
       {
         "i": 9,
-        "word": "photo",
-        "start": 2.08,
-        "end": 2.52
+        "word": "voice",
+        "start": 2.54,
+        "end": 2.86
       },
       {
         "i": 10,
-        "word": "into",
-        "start": 2.52,
-        "end": 2.94
+        "word": "directly",
+        "start": 2.86,
+        "end": 3.24
       },
       {
         "i": 11,
-        "word": "an",
-        "start": 2.94,
-        "end": 3.18
+        "word": "in",
+        "start": 3.24,
+        "end": 3.64
       },
       {
         "i": 12,
-        "word": "animated",
-        "start": 3.18,
-        "end": 3.66
+        "word": "Canva",
+        "start": 3.64,
+        "end": 3.92
       },
       {
         "i": 13,
-        "word": "design",
-        "start": 3.66,
-        "end": 4.14
+        "word": "and",
+        "start": 3.92,
+        "end": 4.18
       },
       {
         "i": 14,
-        "word": "in",
-        "start": 4.14,
-        "end": 4.56
+        "word": "place",
+        "start": 4.18,
+        "end": 4.42
       },
       {
         "i": 15,
-        "word": "Canva.",
-        "start": 4.56,
-        "end": 4.9
+        "word": "the",
+        "start": 4.42,
+        "end": 4.6
+      },
+      {
+        "i": 16,
+        "word": "recording",
+        "start": 4.6,
+        "end": 4.92
+      },
+      {
+        "i": 17,
+        "word": "on",
+        "start": 4.92,
+        "end": 5.14
+      },
+      {
+        "i": 18,
+        "word": "a",
+        "start": 5.14,
+        "end": 5.28
+      },
+      {
+        "i": 19,
+        "word": "video",
+        "start": 5.28,
+        "end": 5.48
+      },
+      {
+        "i": 20,
+        "word": "timeline.",
+        "start": 5.48,
+        "end": 6.02
       }
     ]
   },
   {
     "id": 2,
-    "text": "Open Canva on your computer and create a video design.",
-    "start": 5.46,
-    "end": 8.36,
+    "text": "Open your video project and arrange the scenes before recording.",
+    "start": 6.86,
+    "end": 9.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      16,
-      25
+      21,
+      30
     ],
     "words": [
       {
-        "i": 16,
-        "word": "Open",
-        "start": 5.46,
-        "end": 5.82
-      },
-      {
-        "i": 17,
-        "word": "Canva",
-        "start": 5.82,
-        "end": 6.2
-      },
-      {
-        "i": 18,
-        "word": "on",
-        "start": 6.2,
-        "end": 6.38
-      },
-      {
-        "i": 19,
-        "word": "your",
-        "start": 6.38,
-        "end": 6.52
-      },
-      {
-        "i": 20,
-        "word": "computer",
-        "start": 6.52,
-        "end": 6.84
-      },
-      {
         "i": 21,
-        "word": "and",
-        "start": 6.84,
-        "end": 7.18
+        "word": "Open",
+        "start": 6.86,
+        "end": 7.08
       },
       {
         "i": 22,
-        "word": "create",
-        "start": 7.18,
-        "end": 7.42
+        "word": "your",
+        "start": 7.08,
+        "end": 7.26
       },
       {
         "i": 23,
-        "word": "a",
-        "start": 7.42,
-        "end": 7.64
+        "word": "video",
+        "start": 7.26,
+        "end": 7.52
       },
       {
         "i": 24,
-        "word": "video",
-        "start": 7.64,
-        "end": 7.86
+        "word": "project",
+        "start": 7.52,
+        "end": 7.9
       },
       {
         "i": 25,
-        "word": "design.",
-        "start": 7.86,
-        "end": 8.36
+        "word": "and",
+        "start": 7.9,
+        "end": 8.24
+      },
+      {
+        "i": 26,
+        "word": "arrange",
+        "start": 8.24,
+        "end": 8.56
+      },
+      {
+        "i": 27,
+        "word": "the",
+        "start": 8.56,
+        "end": 8.8
+      },
+      {
+        "i": 28,
+        "word": "scenes",
+        "start": 8.8,
+        "end": 9.1
+      },
+      {
+        "i": 29,
+        "word": "before",
+        "start": 9.1,
+        "end": 9.4
+      },
+      {
+        "i": 30,
+        "word": "recording.",
+        "start": 9.4,
+        "end": 9.92
       }
     ]
   },
   {
     "id": 3,
-    "text": "Choose a landscape or vertical format, depending on where you will use the finished animation.",
-    "start": 8.94,
-    "end": 13.22,
+    "text": "Play through the edit once so you know when each part of your narration should begin.",
+    "start": 10.52,
+    "end": 14.44,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      26,
-      40
+      31,
+      46
     ],
     "words": [
       {
-        "i": 26,
-        "word": "Choose",
-        "start": 8.94,
-        "end": 9.12
-      },
-      {
-        "i": 27,
-        "word": "a",
-        "start": 9.12,
-        "end": 9.3
-      },
-      {
-        "i": 28,
-        "word": "landscape",
-        "start": 9.3,
-        "end": 9.66
-      },
-      {
-        "i": 29,
-        "word": "or",
-        "start": 9.66,
-        "end": 10.02
-      },
-      {
-        "i": 30,
-        "word": "vertical",
-        "start": 10.02,
-        "end": 10.4
-      },
-      {
         "i": 31,
-        "word": "format,",
-        "start": 10.4,
-        "end": 10.9
+        "word": "Play",
+        "start": 10.52,
+        "end": 10.76
       },
       {
         "i": 32,
-        "word": "depending",
-        "start": 11.22,
-        "end": 11.44
+        "word": "through",
+        "start": 10.76,
+        "end": 10.94
       },
       {
         "i": 33,
-        "word": "on",
-        "start": 11.44,
-        "end": 11.64
+        "word": "the",
+        "start": 10.94,
+        "end": 11.08
       },
       {
         "i": 34,
-        "word": "where",
-        "start": 11.64,
-        "end": 11.8
+        "word": "edit",
+        "start": 11.08,
+        "end": 11.24
       },
       {
         "i": 35,
-        "word": "you",
-        "start": 11.8,
-        "end": 11.94
+        "word": "once",
+        "start": 11.24,
+        "end": 11.6
       },
       {
         "i": 36,
-        "word": "will",
-        "start": 11.94,
-        "end": 12.04
+        "word": "so",
+        "start": 11.6,
+        "end": 12.14
       },
       {
         "i": 37,
-        "word": "use",
-        "start": 12.04,
-        "end": 12.26
+        "word": "you",
+        "start": 12.14,
+        "end": 12.28
       },
       {
         "i": 38,
-        "word": "the",
-        "start": 12.26,
-        "end": 12.44
+        "word": "know",
+        "start": 12.28,
+        "end": 12.48
       },
       {
         "i": 39,
-        "word": "finished",
-        "start": 12.44,
-        "end": 12.68
+        "word": "when",
+        "start": 12.48,
+        "end": 12.66
       },
       {
         "i": 40,
-        "word": "animation.",
-        "start": 12.68,
-        "end": 13.22
+        "word": "each",
+        "start": 12.66,
+        "end": 12.82
+      },
+      {
+        "i": 41,
+        "word": "part",
+        "start": 12.82,
+        "end": 13.08
+      },
+      {
+        "i": 42,
+        "word": "of",
+        "start": 13.08,
+        "end": 13.24
+      },
+      {
+        "i": 43,
+        "word": "your",
+        "start": 13.24,
+        "end": 13.38
+      },
+      {
+        "i": 44,
+        "word": "narration",
+        "start": 13.38,
+        "end": 13.72
+      },
+      {
+        "i": 45,
+        "word": "should",
+        "start": 13.72,
+        "end": 14.08
+      },
+      {
+        "i": 46,
+        "word": "begin.",
+        "start": 14.08,
+        "end": 14.44
       }
     ]
   },
   {
     "id": 4,
-    "text": "Open Uploads, click Upload Files, and choose your photo.",
-    "start": 13.98,
-    "end": 17.5,
+    "text": "Open audio in the editor and select record voiceover, allow microphone access when your browser asks, and check that the correct microphone is selected in the recording controls.",
+    "start": 15.88,
+    "end": 25.86,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      41,
-      49
+      47,
+      74
     ],
     "words": [
       {
-        "i": 41,
-        "word": "Open",
-        "start": 13.98,
-        "end": 14.26
-      },
-      {
-        "i": 42,
-        "word": "Uploads,",
-        "start": 14.26,
-        "end": 14.88
-      },
-      {
-        "i": 43,
-        "word": "click",
-        "start": 15.02,
-        "end": 15.3
-      },
-      {
-        "i": 44,
-        "word": "Upload",
-        "start": 15.3,
-        "end": 15.74
-      },
-      {
-        "i": 45,
-        "word": "Files,",
-        "start": 15.74,
-        "end": 16.14
-      },
-      {
-        "i": 46,
-        "word": "and",
-        "start": 16.44,
-        "end": 16.64
-      },
-      {
         "i": 47,
-        "word": "choose",
-        "start": 16.64,
-        "end": 16.9
+        "word": "Open",
+        "start": 15.88,
+        "end": 16.26
       },
       {
         "i": 48,
-        "word": "your",
-        "start": 16.9,
-        "end": 17.12
+        "word": "audio",
+        "start": 16.26,
+        "end": 16.48
       },
       {
         "i": 49,
-        "word": "photo.",
-        "start": 17.12,
-        "end": 17.5
+        "word": "in",
+        "start": 16.48,
+        "end": 16.88
+      },
+      {
+        "i": 50,
+        "word": "the",
+        "start": 16.88,
+        "end": 17.04
+      },
+      {
+        "i": 51,
+        "word": "editor",
+        "start": 17.04,
+        "end": 17.28
+      },
+      {
+        "i": 52,
+        "word": "and",
+        "start": 17.28,
+        "end": 17.66
+      },
+      {
+        "i": 53,
+        "word": "select",
+        "start": 17.66,
+        "end": 18.02
+      },
+      {
+        "i": 54,
+        "word": "record",
+        "start": 18.02,
+        "end": 18.54
+      },
+      {
+        "i": 55,
+        "word": "voiceover,",
+        "start": 18.54,
+        "end": 19.28
+      },
+      {
+        "i": 56,
+        "word": "allow",
+        "start": 19.7,
+        "end": 19.96
+      },
+      {
+        "i": 57,
+        "word": "microphone",
+        "start": 19.96,
+        "end": 20.44
+      },
+      {
+        "i": 58,
+        "word": "access",
+        "start": 20.44,
+        "end": 20.86
+      },
+      {
+        "i": 59,
+        "word": "when",
+        "start": 20.86,
+        "end": 21.1
+      },
+      {
+        "i": 60,
+        "word": "your",
+        "start": 21.1,
+        "end": 21.26
+      },
+      {
+        "i": 61,
+        "word": "browser",
+        "start": 21.26,
+        "end": 21.58
+      },
+      {
+        "i": 62,
+        "word": "asks,",
+        "start": 21.58,
+        "end": 21.96
+      },
+      {
+        "i": 63,
+        "word": "and",
+        "start": 22.32,
+        "end": 22.54
+      },
+      {
+        "i": 64,
+        "word": "check",
+        "start": 22.54,
+        "end": 22.76
+      },
+      {
+        "i": 65,
+        "word": "that",
+        "start": 22.76,
+        "end": 22.96
+      },
+      {
+        "i": 66,
+        "word": "the",
+        "start": 22.96,
+        "end": 23.1
+      },
+      {
+        "i": 67,
+        "word": "correct",
+        "start": 23.1,
+        "end": 23.36
+      },
+      {
+        "i": 68,
+        "word": "microphone",
+        "start": 23.36,
+        "end": 23.8
+      },
+      {
+        "i": 69,
+        "word": "is",
+        "start": 23.8,
+        "end": 24.06
+      },
+      {
+        "i": 70,
+        "word": "selected",
+        "start": 24.06,
+        "end": 24.42
+      },
+      {
+        "i": 71,
+        "word": "in",
+        "start": 24.42,
+        "end": 24.8
+      },
+      {
+        "i": 72,
+        "word": "the",
+        "start": 24.8,
+        "end": 24.94
+      },
+      {
+        "i": 73,
+        "word": "recording",
+        "start": 24.94,
+        "end": 25.3
+      },
+      {
+        "i": 74,
+        "word": "controls.",
+        "start": 25.3,
+        "end": 25.86
       }
     ]
   },
   {
     "id": 5,
-    "text": "Click the uploaded image to place it on the canvas, then resize and position it.",
-    "start": 18.16,
-    "end": 22.4,
+    "text": "Move to the beginning of the section you want to narrate, start the recording and speak clearly while following the visuals.",
+    "start": 26.6,
+    "end": 32.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      50,
-      64
+      75,
+      95
     ],
     "words": [
       {
-        "i": 50,
-        "word": "Click",
-        "start": 18.16,
-        "end": 18.38
+        "i": 75,
+        "word": "Move",
+        "start": 26.6,
+        "end": 27.08
       },
       {
-        "i": 51,
-        "word": "the",
-        "start": 18.38,
-        "end": 18.52
-      },
-      {
-        "i": 52,
-        "word": "uploaded",
-        "start": 18.52,
-        "end": 18.92
-      },
-      {
-        "i": 53,
-        "word": "image",
-        "start": 18.92,
-        "end": 19.3
-      },
-      {
-        "i": 54,
+        "i": 76,
         "word": "to",
-        "start": 19.3,
-        "end": 19.54
+        "start": 27.08,
+        "end": 27.26
       },
       {
-        "i": 55,
-        "word": "place",
-        "start": 19.54,
-        "end": 19.72
-      },
-      {
-        "i": 56,
-        "word": "it",
-        "start": 19.72,
-        "end": 19.86
-      },
-      {
-        "i": 57,
-        "word": "on",
-        "start": 19.86,
-        "end": 19.96
-      },
-      {
-        "i": 58,
+        "i": 77,
         "word": "the",
-        "start": 19.96,
-        "end": 20.08
+        "start": 27.26,
+        "end": 27.36
       },
       {
-        "i": 59,
-        "word": "canvas,",
-        "start": 20.08,
-        "end": 20.4
+        "i": 78,
+        "word": "beginning",
+        "start": 27.36,
+        "end": 27.6
       },
       {
-        "i": 60,
-        "word": "then",
-        "start": 20.76,
-        "end": 20.96
+        "i": 79,
+        "word": "of",
+        "start": 27.6,
+        "end": 27.8
       },
       {
-        "i": 61,
-        "word": "resize",
-        "start": 20.96,
-        "end": 21.38
+        "i": 80,
+        "word": "the",
+        "start": 27.8,
+        "end": 27.94
       },
       {
-        "i": 62,
+        "i": 81,
+        "word": "section",
+        "start": 27.94,
+        "end": 28.18
+      },
+      {
+        "i": 82,
+        "word": "you",
+        "start": 28.18,
+        "end": 28.4
+      },
+      {
+        "i": 83,
+        "word": "want",
+        "start": 28.4,
+        "end": 28.52
+      },
+      {
+        "i": 84,
+        "word": "to",
+        "start": 28.52,
+        "end": 28.7
+      },
+      {
+        "i": 85,
+        "word": "narrate,",
+        "start": 28.7,
+        "end": 29.06
+      },
+      {
+        "i": 86,
+        "word": "start",
+        "start": 29.3,
+        "end": 29.44
+      },
+      {
+        "i": 87,
+        "word": "the",
+        "start": 29.44,
+        "end": 29.6
+      },
+      {
+        "i": 88,
+        "word": "recording",
+        "start": 29.6,
+        "end": 29.98
+      },
+      {
+        "i": 89,
         "word": "and",
-        "start": 21.38,
-        "end": 21.76
+        "start": 29.98,
+        "end": 30.32
       },
       {
-        "i": 63,
-        "word": "position",
-        "start": 21.76,
-        "end": 22.04
+        "i": 90,
+        "word": "speak",
+        "start": 30.32,
+        "end": 30.58
       },
       {
-        "i": 64,
-        "word": "it.",
-        "start": 22.04,
-        "end": 22.4
+        "i": 91,
+        "word": "clearly",
+        "start": 30.58,
+        "end": 31.02
+      },
+      {
+        "i": 92,
+        "word": "while",
+        "start": 31.02,
+        "end": 31.32
+      },
+      {
+        "i": 93,
+        "word": "following",
+        "start": 31.32,
+        "end": 31.7
+      },
+      {
+        "i": 94,
+        "word": "the",
+        "start": 31.7,
+        "end": 31.86
+      },
+      {
+        "i": 95,
+        "word": "visuals.",
+        "start": 31.86,
+        "end": 32.16
       }
     ]
   },
   {
     "id": 6,
-    "text": "For this example, keep the photo as a selectable image instead of setting it as the page background.",
-    "start": 22.76,
-    "end": 27.5,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      65,
-      82
-    ],
-    "words": [
-      {
-        "i": 65,
-        "word": "For",
-        "start": 22.76,
-        "end": 22.92
-      },
-      {
-        "i": 66,
-        "word": "this",
-        "start": 22.92,
-        "end": 23.06
-      },
-      {
-        "i": 67,
-        "word": "example,",
-        "start": 23.06,
-        "end": 23.44
-      },
-      {
-        "i": 68,
-        "word": "keep",
-        "start": 23.66,
-        "end": 23.86
-      },
-      {
-        "i": 69,
-        "word": "the",
-        "start": 23.86,
-        "end": 24.06
-      },
-      {
-        "i": 70,
-        "word": "photo",
-        "start": 24.06,
-        "end": 24.3
-      },
-      {
-        "i": 71,
-        "word": "as",
-        "start": 24.3,
-        "end": 24.5
-      },
-      {
-        "i": 72,
-        "word": "a",
-        "start": 24.5,
-        "end": 24.64
-      },
-      {
-        "i": 73,
-        "word": "selectable",
-        "start": 24.64,
-        "end": 25.12
-      },
-      {
-        "i": 74,
-        "word": "image",
-        "start": 25.12,
-        "end": 25.42
-      },
-      {
-        "i": 75,
-        "word": "instead",
-        "start": 25.42,
-        "end": 25.78
-      },
-      {
-        "i": 76,
-        "word": "of",
-        "start": 25.78,
-        "end": 25.96
-      },
-      {
-        "i": 77,
-        "word": "setting",
-        "start": 25.96,
-        "end": 26.18
-      },
-      {
-        "i": 78,
-        "word": "it",
-        "start": 26.18,
-        "end": 26.4
-      },
-      {
-        "i": 79,
-        "word": "as",
-        "start": 26.4,
-        "end": 26.64
-      },
-      {
-        "i": 80,
-        "word": "the",
-        "start": 26.64,
-        "end": 26.78
-      },
-      {
-        "i": 81,
-        "word": "page",
-        "start": 26.78,
-        "end": 27.06
-      },
-      {
-        "i": 82,
-        "word": "background.",
-        "start": 27.06,
-        "end": 27.5
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "text": "This lets you animate the photo separately from your text and other objects.",
-    "start": 28.08,
-    "end": 32.0,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      83,
-      95
-    ],
-    "words": [
-      {
-        "i": 83,
-        "word": "This",
-        "start": 28.08,
-        "end": 28.36
-      },
-      {
-        "i": 84,
-        "word": "lets",
-        "start": 28.36,
-        "end": 28.54
-      },
-      {
-        "i": 85,
-        "word": "you",
-        "start": 28.54,
-        "end": 28.74
-      },
-      {
-        "i": 86,
-        "word": "animate",
-        "start": 28.74,
-        "end": 29.08
-      },
-      {
-        "i": 87,
-        "word": "the",
-        "start": 29.08,
-        "end": 29.28
-      },
-      {
-        "i": 88,
-        "word": "photo",
-        "start": 29.28,
-        "end": 29.56
-      },
-      {
-        "i": 89,
-        "word": "separately",
-        "start": 29.56,
-        "end": 30.0
-      },
-      {
-        "i": 90,
-        "word": "from",
-        "start": 30.0,
-        "end": 30.32
-      },
-      {
-        "i": 91,
-        "word": "your",
-        "start": 30.32,
-        "end": 30.5
-      },
-      {
-        "i": 92,
-        "word": "text",
-        "start": 30.5,
-        "end": 30.86
-      },
-      {
-        "i": 93,
-        "word": "and",
-        "start": 30.86,
-        "end": 31.34
-      },
-      {
-        "i": 94,
-        "word": "other",
-        "start": 31.34,
-        "end": 31.52
-      },
-      {
-        "i": 95,
-        "word": "objects.",
-        "start": 31.52,
-        "end": 32.0
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "text": "Select the photo and click Animate in the toolbar.",
-    "start": 32.86,
-    "end": 35.16,
+    "text": "Use headphones if you need to hear the video without recording its sound through your microphone.",
+    "start": 32.82,
+    "end": 36.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       96,
-      104
+      111
     ],
     "words": [
       {
         "i": 96,
-        "word": "Select",
-        "start": 32.86,
-        "end": 32.92
+        "word": "Use",
+        "start": 32.82,
+        "end": 32.98
       },
       {
         "i": 97,
-        "word": "the",
-        "start": 32.92,
-        "end": 33.12
+        "word": "headphones",
+        "start": 32.98,
+        "end": 33.34
       },
       {
         "i": 98,
-        "word": "photo",
-        "start": 33.12,
-        "end": 33.36
+        "word": "if",
+        "start": 33.34,
+        "end": 33.58
       },
       {
         "i": 99,
-        "word": "and",
-        "start": 33.36,
-        "end": 33.62
+        "word": "you",
+        "start": 33.58,
+        "end": 33.68
       },
       {
         "i": 100,
-        "word": "click",
-        "start": 33.62,
-        "end": 33.92
+        "word": "need",
+        "start": 33.68,
+        "end": 33.78
       },
       {
         "i": 101,
-        "word": "Animate",
-        "start": 33.92,
-        "end": 34.42
+        "word": "to",
+        "start": 33.78,
+        "end": 33.94
       },
       {
         "i": 102,
-        "word": "in",
-        "start": 34.42,
-        "end": 34.66
+        "word": "hear",
+        "start": 33.94,
+        "end": 34.1
       },
       {
         "i": 103,
         "word": "the",
-        "start": 34.66,
-        "end": 34.78
+        "start": 34.1,
+        "end": 34.24
       },
       {
         "i": 104,
-        "word": "toolbar.",
-        "start": 34.78,
-        "end": 35.16
+        "word": "video",
+        "start": 34.24,
+        "end": 34.52
+      },
+      {
+        "i": 105,
+        "word": "without",
+        "start": 34.52,
+        "end": 34.9
+      },
+      {
+        "i": 106,
+        "word": "recording",
+        "start": 34.9,
+        "end": 35.32
+      },
+      {
+        "i": 107,
+        "word": "its",
+        "start": 35.32,
+        "end": 35.52
+      },
+      {
+        "i": 108,
+        "word": "sound",
+        "start": 35.52,
+        "end": 35.78
+      },
+      {
+        "i": 109,
+        "word": "through",
+        "start": 35.78,
+        "end": 36.02
+      },
+      {
+        "i": 110,
+        "word": "your",
+        "start": 36.02,
+        "end": 36.2
+      },
+      {
+        "i": 111,
+        "word": "microphone.",
+        "start": 36.2,
+        "end": 36.64
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Stop when you finish and keep the recording.",
+    "start": 37.58,
+    "end": 39.36,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      112,
+      119
+    ],
+    "words": [
+      {
+        "i": 112,
+        "word": "Stop",
+        "start": 37.58,
+        "end": 37.76
+      },
+      {
+        "i": 113,
+        "word": "when",
+        "start": 37.76,
+        "end": 37.94
+      },
+      {
+        "i": 114,
+        "word": "you",
+        "start": 37.94,
+        "end": 38.06
+      },
+      {
+        "i": 115,
+        "word": "finish",
+        "start": 38.06,
+        "end": 38.3
+      },
+      {
+        "i": 116,
+        "word": "and",
+        "start": 38.3,
+        "end": 38.6
+      },
+      {
+        "i": 117,
+        "word": "keep",
+        "start": 38.6,
+        "end": 38.78
+      },
+      {
+        "i": 118,
+        "word": "the",
+        "start": 38.78,
+        "end": 38.96
+      },
+      {
+        "i": 119,
+        "word": "recording.",
+        "start": 38.96,
+        "end": 39.36
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Listen to the result before continuing.",
+    "start": 40.12,
+    "end": 41.62,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      120,
+      125
+    ],
+    "words": [
+      {
+        "i": 120,
+        "word": "Listen",
+        "start": 40.12,
+        "end": 40.2
+      },
+      {
+        "i": 121,
+        "word": "to",
+        "start": 40.2,
+        "end": 40.4
+      },
+      {
+        "i": 122,
+        "word": "the",
+        "start": 40.4,
+        "end": 40.5
+      },
+      {
+        "i": 123,
+        "word": "result",
+        "start": 40.5,
+        "end": 40.78
+      },
+      {
+        "i": 124,
+        "word": "before",
+        "start": 40.78,
+        "end": 41.08
+      },
+      {
+        "i": 125,
+        "word": "continuing.",
+        "start": 41.08,
+        "end": 41.62
       }
     ]
   },
   {
     "id": 9,
-    "text": "Open the Element Animation options and preview the available effects.",
-    "start": 35.86,
-    "end": 39.24,
+    "text": "On the timeline, move the audio into position and trim any unwanted silence from its edges.",
+    "start": 42.22,
+    "end": 47.22,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      105,
-      114
+      126,
+      141
     ],
     "words": [
       {
-        "i": 105,
-        "word": "Open",
-        "start": 35.86,
-        "end": 36.12
+        "i": 126,
+        "word": "On",
+        "start": 42.22,
+        "end": 42.34
       },
       {
-        "i": 106,
+        "i": 127,
         "word": "the",
-        "start": 36.12,
-        "end": 36.28
+        "start": 42.34,
+        "end": 42.46
       },
       {
-        "i": 107,
-        "word": "Element",
-        "start": 36.28,
-        "end": 36.52
+        "i": 128,
+        "word": "timeline,",
+        "start": 42.46,
+        "end": 42.82
       },
       {
-        "i": 108,
-        "word": "Animation",
-        "start": 36.52,
-        "end": 37.02
+        "i": 129,
+        "word": "move",
+        "start": 43.06,
+        "end": 43.28
       },
       {
-        "i": 109,
-        "word": "options",
-        "start": 37.02,
-        "end": 37.46
+        "i": 130,
+        "word": "the",
+        "start": 43.28,
+        "end": 43.44
       },
       {
-        "i": 110,
+        "i": 131,
+        "word": "audio",
+        "start": 43.44,
+        "end": 43.68
+      },
+      {
+        "i": 132,
+        "word": "into",
+        "start": 43.68,
+        "end": 43.92
+      },
+      {
+        "i": 133,
+        "word": "position",
+        "start": 43.92,
+        "end": 44.36
+      },
+      {
+        "i": 134,
         "word": "and",
-        "start": 37.46,
-        "end": 37.84
+        "start": 44.36,
+        "end": 44.66
       },
       {
-        "i": 111,
-        "word": "preview",
-        "start": 37.84,
-        "end": 38.18
+        "i": 135,
+        "word": "trim",
+        "start": 44.66,
+        "end": 44.92
       },
       {
-        "i": 112,
-        "word": "the",
-        "start": 38.18,
-        "end": 38.44
+        "i": 136,
+        "word": "any",
+        "start": 44.92,
+        "end": 45.34
       },
       {
-        "i": 113,
-        "word": "available",
-        "start": 38.44,
-        "end": 38.8
+        "i": 137,
+        "word": "unwanted",
+        "start": 45.34,
+        "end": 45.84
       },
       {
-        "i": 114,
-        "word": "effects.",
-        "start": 38.8,
-        "end": 39.24
+        "i": 138,
+        "word": "silence",
+        "start": 45.84,
+        "end": 46.3
+      },
+      {
+        "i": 139,
+        "word": "from",
+        "start": 46.3,
+        "end": 46.64
+      },
+      {
+        "i": 140,
+        "word": "its",
+        "start": 46.64,
+        "end": 46.8
+      },
+      {
+        "i": 141,
+        "word": "edges.",
+        "start": 46.8,
+        "end": 47.22
       }
     ]
   },
   {
     "id": 10,
-    "text": "Choose a gentle movement, such as pan, or use fade for a simple entrance.",
-    "start": 40.1,
-    "end": 44.04,
+    "text": "Here's the part many tutorials skip.",
+    "start": 48.08,
+    "end": 49.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      115,
-      128
+      142,
+      147
     ],
     "words": [
       {
-        "i": 115,
-        "word": "Choose",
-        "start": 40.1,
-        "end": 40.26
+        "i": 142,
+        "word": "Here's",
+        "start": 48.08,
+        "end": 48.26
       },
       {
-        "i": 116,
-        "word": "a",
-        "start": 40.26,
-        "end": 40.44
+        "i": 143,
+        "word": "the",
+        "start": 48.26,
+        "end": 48.38
       },
       {
-        "i": 117,
-        "word": "gentle",
-        "start": 40.44,
-        "end": 40.7
+        "i": 144,
+        "word": "part",
+        "start": 48.38,
+        "end": 48.56
       },
       {
-        "i": 118,
-        "word": "movement,",
-        "start": 40.7,
-        "end": 41.12
+        "i": 145,
+        "word": "many",
+        "start": 48.56,
+        "end": 48.9
       },
       {
-        "i": 119,
-        "word": "such",
-        "start": 41.34,
-        "end": 41.42
+        "i": 146,
+        "word": "tutorials",
+        "start": 48.9,
+        "end": 49.48
       },
       {
-        "i": 120,
-        "word": "as",
-        "start": 41.42,
-        "end": 41.68
-      },
-      {
-        "i": 121,
-        "word": "pan,",
-        "start": 41.68,
-        "end": 41.88
-      },
-      {
-        "i": 122,
-        "word": "or",
-        "start": 42.26,
-        "end": 42.44
-      },
-      {
-        "i": 123,
-        "word": "use",
-        "start": 42.44,
-        "end": 42.66
-      },
-      {
-        "i": 124,
-        "word": "fade",
-        "start": 42.66,
-        "end": 42.92
-      },
-      {
-        "i": 125,
-        "word": "for",
-        "start": 42.92,
-        "end": 43.2
-      },
-      {
-        "i": 126,
-        "word": "a",
-        "start": 43.2,
-        "end": 43.34
-      },
-      {
-        "i": 127,
-        "word": "simple",
-        "start": 43.34,
-        "end": 43.58
-      },
-      {
-        "i": 128,
-        "word": "entrance.",
-        "start": 43.58,
-        "end": 44.04
+        "i": 147,
+        "word": "skip.",
+        "start": 49.48,
+        "end": 49.92
       }
     ]
   },
   {
     "id": 11,
-    "text": "If the chosen effect includes direction or speed controls, adjust them and play the preview.",
-    "start": 44.68,
-    "end": 49.76,
+    "text": "If record voiceover is missing from an older project, create a new blank video design using Canva's new timeline.",
+    "start": 50.46,
+    "end": 56.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      129,
-      143
+      148,
+      166
     ],
     "words": [
       {
-        "i": 129,
+        "i": 148,
         "word": "If",
-        "start": 44.68,
-        "end": 44.78
+        "start": 50.46,
+        "end": 50.6
       },
       {
-        "i": 130,
-        "word": "the",
-        "start": 44.78,
-        "end": 44.94
+        "i": 149,
+        "word": "record",
+        "start": 50.6,
+        "end": 50.96
       },
       {
-        "i": 131,
-        "word": "chosen",
-        "start": 44.94,
-        "end": 45.18
+        "i": 150,
+        "word": "voiceover",
+        "start": 50.96,
+        "end": 51.48
       },
       {
-        "i": 132,
-        "word": "effect",
-        "start": 45.18,
-        "end": 45.52
+        "i": 151,
+        "word": "is",
+        "start": 51.48,
+        "end": 51.7
       },
       {
-        "i": 133,
-        "word": "includes",
-        "start": 45.52,
-        "end": 46.02
+        "i": 152,
+        "word": "missing",
+        "start": 51.7,
+        "end": 52.02
       },
       {
-        "i": 134,
-        "word": "direction",
-        "start": 46.02,
-        "end": 46.42
+        "i": 153,
+        "word": "from",
+        "start": 52.02,
+        "end": 52.22
       },
       {
-        "i": 135,
-        "word": "or",
-        "start": 46.42,
-        "end": 46.78
+        "i": 154,
+        "word": "an",
+        "start": 52.22,
+        "end": 52.34
       },
       {
-        "i": 136,
-        "word": "speed",
-        "start": 46.78,
-        "end": 47.12
+        "i": 155,
+        "word": "older",
+        "start": 52.34,
+        "end": 52.66
       },
       {
-        "i": 137,
-        "word": "controls,",
-        "start": 47.12,
-        "end": 47.62
+        "i": 156,
+        "word": "project,",
+        "start": 52.66,
+        "end": 53.16
       },
       {
-        "i": 138,
-        "word": "adjust",
-        "start": 48.14,
-        "end": 48.4
+        "i": 157,
+        "word": "create",
+        "start": 53.16,
+        "end": 53.7
       },
       {
-        "i": 139,
-        "word": "them",
-        "start": 48.4,
-        "end": 48.7
+        "i": 158,
+        "word": "a",
+        "start": 53.7,
+        "end": 53.98
       },
       {
-        "i": 140,
-        "word": "and",
-        "start": 48.7,
-        "end": 48.98
+        "i": 159,
+        "word": "new",
+        "start": 53.98,
+        "end": 54.22
       },
       {
-        "i": 141,
-        "word": "play",
-        "start": 48.98,
-        "end": 49.22
+        "i": 160,
+        "word": "blank",
+        "start": 54.22,
+        "end": 54.48
       },
       {
-        "i": 142,
-        "word": "the",
-        "start": 49.22,
-        "end": 49.4
+        "i": 161,
+        "word": "video",
+        "start": 54.48,
+        "end": 54.82
       },
       {
-        "i": 143,
-        "word": "preview.",
-        "start": 49.4,
-        "end": 49.76
+        "i": 162,
+        "word": "design",
+        "start": 54.82,
+        "end": 55.26
+      },
+      {
+        "i": 163,
+        "word": "using",
+        "start": 55.26,
+        "end": 55.64
+      },
+      {
+        "i": 164,
+        "word": "Canva's",
+        "start": 55.64,
+        "end": 56.1
+      },
+      {
+        "i": 165,
+        "word": "new",
+        "start": 56.1,
+        "end": 56.3
+      },
+      {
+        "i": 166,
+        "word": "timeline.",
+        "start": 56.3,
+        "end": 56.78
       }
     ]
   },
   {
     "id": 12,
-    "text": "Keep the movement small enough that important parts of the image remain visible.",
-    "start": 50.46,
-    "end": 54.26,
+    "text": "Open audio there, record the narration, then copy the audio track into your original design.",
+    "start": 57.52,
+    "end": 62.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      144,
-      156
+      167,
+      181
     ],
     "words": [
       {
-        "i": 144,
-        "word": "Keep",
-        "start": 50.46,
-        "end": 50.62
+        "i": 167,
+        "word": "Open",
+        "start": 57.52,
+        "end": 57.76
       },
       {
-        "i": 145,
+        "i": 168,
+        "word": "audio",
+        "start": 57.76,
+        "end": 57.96
+      },
+      {
+        "i": 169,
+        "word": "there,",
+        "start": 57.96,
+        "end": 58.34
+      },
+      {
+        "i": 170,
+        "word": "record",
+        "start": 58.66,
+        "end": 58.96
+      },
+      {
+        "i": 171,
         "word": "the",
-        "start": 50.62,
-        "end": 50.78
+        "start": 58.96,
+        "end": 59.14
       },
       {
-        "i": 146,
-        "word": "movement",
-        "start": 50.78,
-        "end": 51.06
+        "i": 172,
+        "word": "narration,",
+        "start": 59.14,
+        "end": 59.56
       },
       {
-        "i": 147,
-        "word": "small",
-        "start": 51.06,
-        "end": 51.44
+        "i": 173,
+        "word": "then",
+        "start": 59.96,
+        "end": 60.14
       },
       {
-        "i": 148,
-        "word": "enough",
-        "start": 51.44,
-        "end": 51.68
+        "i": 174,
+        "word": "copy",
+        "start": 60.14,
+        "end": 60.44
       },
       {
-        "i": 149,
-        "word": "that",
-        "start": 51.68,
-        "end": 51.9
-      },
-      {
-        "i": 150,
-        "word": "important",
-        "start": 51.9,
-        "end": 52.3
-      },
-      {
-        "i": 151,
-        "word": "parts",
-        "start": 52.3,
-        "end": 52.64
-      },
-      {
-        "i": 152,
-        "word": "of",
-        "start": 52.64,
-        "end": 52.8
-      },
-      {
-        "i": 153,
+        "i": 175,
         "word": "the",
-        "start": 52.8,
-        "end": 52.9
+        "start": 60.44,
+        "end": 60.66
       },
       {
-        "i": 154,
-        "word": "image",
-        "start": 52.9,
-        "end": 53.26
+        "i": 176,
+        "word": "audio",
+        "start": 60.66,
+        "end": 61.02
       },
       {
-        "i": 155,
-        "word": "remain",
-        "start": 53.26,
-        "end": 53.82
+        "i": 177,
+        "word": "track",
+        "start": 61.02,
+        "end": 61.32
       },
       {
-        "i": 156,
-        "word": "visible.",
-        "start": 53.82,
-        "end": 54.26
+        "i": 178,
+        "word": "into",
+        "start": 61.32,
+        "end": 61.74
+      },
+      {
+        "i": 179,
+        "word": "your",
+        "start": 61.74,
+        "end": 61.98
+      },
+      {
+        "i": 180,
+        "word": "original",
+        "start": 61.98,
+        "end": 62.34
+      },
+      {
+        "i": 181,
+        "word": "design.",
+        "start": 62.34,
+        "end": 62.78
       }
     ]
   },
   {
     "id": 13,
-    "text": "In the video timeline, extend or shorten the image layer to control how long the photo stays on screen.",
-    "start": 55.04,
-    "end": 60.54,
+    "text": "You can also use record yourself to capture a talking video, select that recording, and choose audio tools, then extract audio.",
+    "start": 63.56,
+    "end": 70.8,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      157,
-      175
+      182,
+      202
     ],
     "words": [
       {
-        "i": 157,
-        "word": "In",
-        "start": 55.04,
-        "end": 55.32
+        "i": 182,
+        "word": "You",
+        "start": 63.56,
+        "end": 63.66
       },
       {
-        "i": 158,
-        "word": "the",
-        "start": 55.32,
-        "end": 55.42
+        "i": 183,
+        "word": "can",
+        "start": 63.66,
+        "end": 63.76
       },
       {
-        "i": 159,
-        "word": "video",
-        "start": 55.42,
-        "end": 55.68
+        "i": 184,
+        "word": "also",
+        "start": 63.76,
+        "end": 63.96
       },
       {
-        "i": 160,
-        "word": "timeline,",
-        "start": 55.68,
-        "end": 56.16
+        "i": 185,
+        "word": "use",
+        "start": 63.96,
+        "end": 64.2
       },
       {
-        "i": 161,
-        "word": "extend",
-        "start": 56.44,
-        "end": 56.78
+        "i": 186,
+        "word": "record",
+        "start": 64.2,
+        "end": 64.54
       },
       {
-        "i": 162,
-        "word": "or",
-        "start": 56.78,
-        "end": 57.16
+        "i": 187,
+        "word": "yourself",
+        "start": 64.54,
+        "end": 64.92
       },
       {
-        "i": 163,
-        "word": "shorten",
-        "start": 57.16,
-        "end": 57.54
-      },
-      {
-        "i": 164,
-        "word": "the",
-        "start": 57.54,
-        "end": 57.72
-      },
-      {
-        "i": 165,
-        "word": "image",
-        "start": 57.72,
-        "end": 58.0
-      },
-      {
-        "i": 166,
-        "word": "layer",
-        "start": 58.0,
-        "end": 58.26
-      },
-      {
-        "i": 167,
+        "i": 188,
         "word": "to",
-        "start": 58.26,
-        "end": 58.44
+        "start": 64.92,
+        "end": 65.16
       },
       {
-        "i": 168,
-        "word": "control",
-        "start": 58.44,
-        "end": 58.74
+        "i": 189,
+        "word": "capture",
+        "start": 65.16,
+        "end": 65.4
       },
       {
-        "i": 169,
-        "word": "how",
-        "start": 58.74,
-        "end": 59.1
+        "i": 190,
+        "word": "a",
+        "start": 65.4,
+        "end": 65.62
       },
       {
-        "i": 170,
-        "word": "long",
-        "start": 59.1,
-        "end": 59.28
+        "i": 191,
+        "word": "talking",
+        "start": 65.62,
+        "end": 65.88
       },
       {
-        "i": 171,
-        "word": "the",
-        "start": 59.28,
-        "end": 59.44
+        "i": 192,
+        "word": "video,",
+        "start": 65.88,
+        "end": 66.26
       },
       {
-        "i": 172,
-        "word": "photo",
-        "start": 59.44,
-        "end": 59.7
+        "i": 193,
+        "word": "select",
+        "start": 66.58,
+        "end": 66.86
       },
       {
-        "i": 173,
-        "word": "stays",
-        "start": 59.7,
-        "end": 59.98
+        "i": 194,
+        "word": "that",
+        "start": 66.86,
+        "end": 67.08
       },
       {
-        "i": 174,
-        "word": "on",
-        "start": 59.98,
-        "end": 60.2
+        "i": 195,
+        "word": "recording,",
+        "start": 67.08,
+        "end": 67.52
       },
       {
-        "i": 175,
-        "word": "screen.",
-        "start": 60.2,
-        "end": 60.54
+        "i": 196,
+        "word": "and",
+        "start": 67.82,
+        "end": 68.02
+      },
+      {
+        "i": 197,
+        "word": "choose",
+        "start": 68.02,
+        "end": 68.26
+      },
+      {
+        "i": 198,
+        "word": "audio",
+        "start": 68.26,
+        "end": 68.62
+      },
+      {
+        "i": 199,
+        "word": "tools,",
+        "start": 68.62,
+        "end": 69.12
+      },
+      {
+        "i": 200,
+        "word": "then",
+        "start": 69.48,
+        "end": 69.74
+      },
+      {
+        "i": 201,
+        "word": "extract",
+        "start": 69.74,
+        "end": 70.3
+      },
+      {
+        "i": 202,
+        "word": "audio.",
+        "start": 70.3,
+        "end": 70.8
       }
     ]
   },
   {
     "id": 14,
-    "text": "For example, use 5 seconds for a short product shot.",
-    "start": 61.26,
-    "end": 63.96,
+    "text": "Once the separate audio track appears, delete the camera video if you only need your voice.",
+    "start": 71.62,
+    "end": 76.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      176,
-      185
+      203,
+      218
     ],
     "words": [
       {
-        "i": 176,
-        "word": "For",
-        "start": 61.26,
-        "end": 61.36
+        "i": 203,
+        "word": "Once",
+        "start": 71.62,
+        "end": 71.86
       },
       {
-        "i": 177,
-        "word": "example,",
-        "start": 61.36,
-        "end": 61.6
+        "i": 204,
+        "word": "the",
+        "start": 71.86,
+        "end": 72.06
       },
       {
-        "i": 178,
-        "word": "use",
-        "start": 61.86,
-        "end": 62.06
+        "i": 205,
+        "word": "separate",
+        "start": 72.06,
+        "end": 72.34
       },
       {
-        "i": 179,
-        "word": "5",
-        "start": 62.06,
-        "end": 62.4
+        "i": 206,
+        "word": "audio",
+        "start": 72.34,
+        "end": 72.68
       },
       {
-        "i": 180,
-        "word": "seconds",
-        "start": 62.4,
-        "end": 62.74
+        "i": 207,
+        "word": "track",
+        "start": 72.68,
+        "end": 72.92
       },
       {
-        "i": 181,
-        "word": "for",
-        "start": 62.74,
-        "end": 63.04
+        "i": 208,
+        "word": "appears,",
+        "start": 72.92,
+        "end": 73.34
       },
       {
-        "i": 182,
-        "word": "a",
-        "start": 63.04,
-        "end": 63.16
+        "i": 209,
+        "word": "delete",
+        "start": 73.68,
+        "end": 73.96
       },
       {
-        "i": 183,
-        "word": "short",
-        "start": 63.16,
-        "end": 63.38
+        "i": 210,
+        "word": "the",
+        "start": 73.96,
+        "end": 74.16
       },
       {
-        "i": 184,
-        "word": "product",
-        "start": 63.38,
-        "end": 63.64
+        "i": 211,
+        "word": "camera",
+        "start": 74.16,
+        "end": 74.38
       },
       {
-        "i": 185,
-        "word": "shot.",
-        "start": 63.64,
-        "end": 63.96
+        "i": 212,
+        "word": "video",
+        "start": 74.38,
+        "end": 74.7
+      },
+      {
+        "i": 213,
+        "word": "if",
+        "start": 74.7,
+        "end": 75.02
+      },
+      {
+        "i": 214,
+        "word": "you",
+        "start": 75.02,
+        "end": 75.16
+      },
+      {
+        "i": 215,
+        "word": "only",
+        "start": 75.16,
+        "end": 75.44
+      },
+      {
+        "i": 216,
+        "word": "need",
+        "start": 75.44,
+        "end": 75.7
+      },
+      {
+        "i": 217,
+        "word": "your",
+        "start": 75.7,
+        "end": 75.9
+      },
+      {
+        "i": 218,
+        "word": "voice.",
+        "start": 75.9,
+        "end": 76.16
       }
     ]
   },
   {
     "id": 15,
-    "text": "Here's the part many tutorials skip.",
-    "start": 64.76,
-    "end": 66.52,
+    "text": "Preview the narration with your scenes, then download the finished design as an mp4 video.",
+    "start": 76.98,
+    "end": 81.28,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      186,
-      191
+      219,
+      233
     ],
     "words": [
-      {
-        "i": 186,
-        "word": "Here's",
-        "start": 64.76,
-        "end": 64.94
-      },
-      {
-        "i": 187,
-        "word": "the",
-        "start": 64.94,
-        "end": 65.04
-      },
-      {
-        "i": 188,
-        "word": "part",
-        "start": 65.04,
-        "end": 65.2
-      },
-      {
-        "i": 189,
-        "word": "many",
-        "start": 65.2,
-        "end": 65.54
-      },
-      {
-        "i": 190,
-        "word": "tutorials",
-        "start": 65.54,
-        "end": 66.14
-      },
-      {
-        "i": 191,
-        "word": "skip.",
-        "start": 66.14,
-        "end": 66.52
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "text": "Downloading as PNG or JPG saves a still image.",
-    "start": 67.22,
-    "end": 70.48,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      192,
-      200
-    ],
-    "words": [
-      {
-        "i": 192,
-        "word": "Downloading",
-        "start": 67.22,
-        "end": 67.68
-      },
-      {
-        "i": 193,
-        "word": "as",
-        "start": 67.68,
-        "end": 67.82
-      },
-      {
-        "i": 194,
-        "word": "PNG",
-        "start": 67.82,
-        "end": 68.28
-      },
-      {
-        "i": 195,
-        "word": "or",
-        "start": 68.28,
-        "end": 68.74
-      },
-      {
-        "i": 196,
-        "word": "JPG",
-        "start": 68.74,
-        "end": 69.36
-      },
-      {
-        "i": 197,
-        "word": "saves",
-        "start": 69.36,
-        "end": 69.8
-      },
-      {
-        "i": 198,
-        "word": "a",
-        "start": 69.8,
-        "end": 70.04
-      },
-      {
-        "i": 199,
-        "word": "still",
-        "start": 70.04,
-        "end": 70.2
-      },
-      {
-        "i": 200,
-        "word": "image.",
-        "start": 70.2,
-        "end": 70.48
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "text": "To keep the movement, click Share, download and choose MP4 Video.",
-    "start": 71.14,
-    "end": 75.2,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      201,
-      211
-    ],
-    "words": [
-      {
-        "i": 201,
-        "word": "To",
-        "start": 71.14,
-        "end": 71.28
-      },
-      {
-        "i": 202,
-        "word": "keep",
-        "start": 71.28,
-        "end": 71.42
-      },
-      {
-        "i": 203,
-        "word": "the",
-        "start": 71.42,
-        "end": 71.58
-      },
-      {
-        "i": 204,
-        "word": "movement,",
-        "start": 71.58,
-        "end": 71.92
-      },
-      {
-        "i": 205,
-        "word": "click",
-        "start": 72.12,
-        "end": 72.28
-      },
-      {
-        "i": 206,
-        "word": "Share,",
-        "start": 72.28,
-        "end": 72.7
-      },
-      {
-        "i": 207,
-        "word": "download",
-        "start": 73.1,
-        "end": 73.4
-      },
-      {
-        "i": 208,
-        "word": "and",
-        "start": 73.4,
-        "end": 73.76
-      },
-      {
-        "i": 209,
-        "word": "choose",
-        "start": 73.76,
-        "end": 74.1
-      },
-      {
-        "i": 210,
-        "word": "MP4",
-        "start": 74.1,
-        "end": 74.92
-      },
-      {
-        "i": 211,
-        "word": "Video.",
-        "start": 74.92,
-        "end": 75.2
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "text": "Use GIF when you need a short animated image without sound.",
-    "start": 75.9,
-    "end": 78.92,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      212,
-      222
-    ],
-    "words": [
-      {
-        "i": 212,
-        "word": "Use",
-        "start": 75.9,
-        "end": 76.14
-      },
-      {
-        "i": 213,
-        "word": "GIF",
-        "start": 76.14,
-        "end": 76.34
-      },
-      {
-        "i": 214,
-        "word": "when",
-        "start": 76.34,
-        "end": 76.58
-      },
-      {
-        "i": 215,
-        "word": "you",
-        "start": 76.58,
-        "end": 76.7
-      },
-      {
-        "i": 216,
-        "word": "need",
-        "start": 76.7,
-        "end": 76.82
-      },
-      {
-        "i": 217,
-        "word": "a",
-        "start": 76.82,
-        "end": 76.98
-      },
-      {
-        "i": 218,
-        "word": "short",
-        "start": 76.98,
-        "end": 77.28
-      },
       {
         "i": 219,
-        "word": "animated",
-        "start": 77.28,
-        "end": 77.68
+        "word": "Preview",
+        "start": 76.98,
+        "end": 77.14
       },
       {
         "i": 220,
-        "word": "image",
-        "start": 77.68,
-        "end": 78.12
+        "word": "the",
+        "start": 77.14,
+        "end": 77.34
       },
       {
         "i": 221,
-        "word": "without",
-        "start": 78.12,
-        "end": 78.4
+        "word": "narration",
+        "start": 77.34,
+        "end": 77.68
       },
       {
         "i": 222,
-        "word": "sound.",
-        "start": 78.4,
-        "end": 78.92
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "text": "Download the file and play it to check the framing.",
-    "start": 79.72,
-    "end": 81.92,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      223,
-      232
-    ],
-    "words": [
+        "word": "with",
+        "start": 77.68,
+        "end": 77.9
+      },
       {
         "i": 223,
-        "word": "Download",
-        "start": 79.72,
-        "end": 79.9
+        "word": "your",
+        "start": 77.9,
+        "end": 78.06
       },
       {
         "i": 224,
-        "word": "the",
-        "start": 79.9,
-        "end": 80.14
+        "word": "scenes,",
+        "start": 78.06,
+        "end": 78.34
       },
       {
         "i": 225,
-        "word": "file",
+        "word": "then",
+        "start": 78.72,
+        "end": 78.94
+      },
+      {
+        "i": 226,
+        "word": "download",
+        "start": 78.94,
+        "end": 79.32
+      },
+      {
+        "i": 227,
+        "word": "the",
+        "start": 79.32,
+        "end": 79.54
+      },
+      {
+        "i": 228,
+        "word": "finished",
+        "start": 79.54,
+        "end": 79.74
+      },
+      {
+        "i": 229,
+        "word": "design",
+        "start": 79.74,
+        "end": 80.14
+      },
+      {
+        "i": 230,
+        "word": "as",
         "start": 80.14,
         "end": 80.36
       },
       {
-        "i": 226,
-        "word": "and",
-        "start": 80.36,
-        "end": 80.66
-      },
-      {
-        "i": 227,
-        "word": "play",
-        "start": 80.66,
-        "end": 80.88
-      },
-      {
-        "i": 228,
-        "word": "it",
-        "start": 80.88,
-        "end": 81.04
-      },
-      {
-        "i": 229,
-        "word": "to",
-        "start": 81.04,
-        "end": 81.22
-      },
-      {
-        "i": 230,
-        "word": "check",
-        "start": 81.22,
-        "end": 81.42
-      },
-      {
         "i": 231,
-        "word": "the",
-        "start": 81.42,
-        "end": 81.62
+        "word": "an",
+        "start": 80.36,
+        "end": 80.48
       },
       {
         "i": 232,
-        "word": "framing.",
-        "start": 81.62,
-        "end": 81.92
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "text": "Your still photo is now an animated Canva design.",
-    "start": 81.92,
-    "end": 85.34,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      233,
-      241
-    ],
-    "words": [
+        "word": "mp4",
+        "start": 80.48,
+        "end": 80.96
+      },
       {
         "i": 233,
-        "word": "Your",
-        "start": 81.92,
-        "end": 82.78
-      },
-      {
-        "i": 234,
-        "word": "still",
-        "start": 82.78,
-        "end": 82.98
-      },
-      {
-        "i": 235,
-        "word": "photo",
-        "start": 82.98,
-        "end": 83.32
-      },
-      {
-        "i": 236,
-        "word": "is",
-        "start": 83.32,
-        "end": 83.52
-      },
-      {
-        "i": 237,
-        "word": "now",
-        "start": 83.52,
-        "end": 83.7
-      },
-      {
-        "i": 238,
-        "word": "an",
-        "start": 83.7,
-        "end": 83.88
-      },
-      {
-        "i": 239,
-        "word": "animated",
-        "start": 83.88,
-        "end": 84.42
-      },
-      {
-        "i": 240,
-        "word": "Canva",
-        "start": 84.42,
-        "end": 84.98
-      },
-      {
-        "i": 241,
-        "word": "design.",
-        "start": 84.98,
-        "end": 85.34
+        "word": "video.",
+        "start": 80.96,
+        "end": 81.28
       }
     ]
   }

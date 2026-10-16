@@ -1,11 +1,13 @@
-# Analyze notes
+# Analyze notes (script-01)
 
-- No clicks.json: every click time/position was read from frames. The recorder has baked-in auto-zoom
-  (zoom-in on most clicks), so recording-pixel positions are only reliable on unzoomed frames. Positions
-  of A1, A2, A13-A17 are estimates (frames were zoomed): low confidence. They get no ripple.
-- Narrated "Upload Files" / "choose your photo" (L4): no click or file dialog in the recording; the image
-  library already holds the photo. No action created.
-- L6-L7 (photo kept as image, not background): nothing on screen to match.
-- A14 and A15 (MP4, GIF selection): exact click times uncertain (+-0.5 s); GIF was already selected at 182.8.
-- Timeline: 44-56 s is a messy first take (duplicate and delete); the clean drag is at 139.8-145. 148-156 repeats the drag.
-- Recording ends with a loading screen in the media player (198-200) and the desktop after 205: cut.
+- The recording has baked-in recorder zoom (frames switch between full-window and zoomed views). Coordinates
+  in actions.json are therefore rough (taken from unzoomed tiles or estimated); the plan uses no zooms and no
+  ripples. Click times were read from single frames (+-0.2 s).
+- Low confidence: A9 (trim drag), A10-A12 (new design), A16, A21 (Download in Share panel).
+- Narrated but not visible: "delete the camera video" (L14): the recording selects the clips around 186-190 s
+  but no deletion is clearly visible; the plan shows that stretch under the sentence. "Record yourself" (L13)
+  and "copy the audio track into your original design" (L12) are not shown as such: the recording only shows the
+  switch to the original tab (169.7 s) and the audio tools.
+- The recorder shows the narrator recording at 43-63 s (live preview, nothing for the viewer to learn).
+- The footage at 27-33 s hovers over Record voiceover in the audio panel before the click at 33.9.
+- Recording does the extract before narrating order is fine; trailing desktop at 208.6 s is junk.
