@@ -3,135 +3,99 @@
   {
    "action": "A1",
    "line": 2,
-   "word": "press"
-  },
-  {
-   "action": "A6",
-   "line": 3,
-   "word": "Drag",
-   "src_from": 64.0,
-   "prev_until": 28.5
+   "word": "Open"
   },
   {
    "action": "A2",
    "line": 3,
-   "word": "toolbar",
-   "src_from": 40.3,
-   "prev_until": 68.4
+   "word": "audio"
+  },
+  {
+   "action": "A3",
+   "line": 3,
+   "word": "search",
+   "src_from": 19.3,
+   "prev_until": 14.2
   },
   {
    "action": "A4",
    "line": 3,
-   "word": "colour",
-   "prev_until": 47.0
+   "word": "preview",
+   "src_from": 45.0,
+   "prev_until": 21.0
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "uploads",
+   "src_from": 49.0,
+   "prev_until": 48.3
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "timeline"
+  },
+  {
+   "action": "A7",
+   "line": 9,
+   "word": "Trim",
+   "src_from": 93.8,
+   "prev_until": 67.5
   },
   {
    "action": "A10",
-   "line": 4,
-   "word": "Position",
-   "src_from": 97.5,
-   "prev_until": 47.0
+   "line": 10,
+   "word": "Preview",
+   "src_from": 179.6,
+   "prev_until": 101.5
+  },
+  {
+   "action": "A9",
+   "line": 11,
+   "word": "durations",
+   "src_from": 66.7,
+   "prev_until": 185.5
+  },
+  {
+   "action": "A8",
+   "line": 13,
+   "word": "click",
+   "src_from": 92.6,
+   "prev_until": 73.4
   },
   {
    "action": "A11",
-   "line": 5,
-   "word": "Select",
-   "src_from": 125.0,
-   "prev_until": 104.5
+   "line": 14,
+   "word": "Test",
+   "src_from": 184.0,
+   "prev_until": 100.0
   },
   {
    "action": "A12",
-   "line": 5,
-   "word": "Animate"
+   "line": 15,
+   "word": "version",
+   "src_from": 193.6,
+   "prev_until": 186.3
   },
   {
    "action": "A13",
-   "line": 7,
-   "word": "Fade"
+   "line": 15,
+   "word": "download"
   },
   {
    "action": "A14",
-   "line": 8,
-   "word": "wipe"
+   "line": 15,
+   "word": "video",
+   "src_from": 198.6,
+   "prev_until": 197.4
   },
   {
    "action": "A15",
-   "line": 8,
-   "word": "direction"
-  },
-  {
-   "action": "A16",
-   "line": 9,
-   "word": "replace"
-  },
-  {
-   "action": "A18",
-   "line": 10,
-   "word": "rectangle"
-  },
-  {
-   "action": "A19",
-   "line": 10,
-   "word": "narrow",
-   "src_from": 194.0,
-   "prev_until": 183.0
-  },
-  {
-   "action": "A20",
-   "line": 11,
-   "word": "wipe",
-   "src_from": 218.8,
-   "prev_until": 197.8
-  },
-  {
-   "action": "A21",
-   "line": 12,
-   "word": "speed",
-   "src_from": 229.5,
-   "prev_until": 222.0
-  },
-  {
-   "action": "A22",
-   "line": 12,
-   "word": "preview",
-   "src_from": 242.0,
-   "prev_until": 233.0
-  },
-  {
-   "action": "A24",
-   "line": 15,
-   "word": "different",
-   "src_from": 273.0,
-   "prev_until": 272.6
-  },
-  {
-   "action": "A25",
-   "line": 17,
-   "word": "handwriting",
-   "src_from": 294.5,
-   "prev_until": 285.0
-  },
-  {
-   "action": "A26",
-   "line": 17,
-   "word": "choose"
-  },
-  {
-   "action": "A27",
-   "line": 18,
-   "word": "Download",
-   "src_from": 342.8,
-   "prev_until": 303.0
-  },
-  {
-   "action": "A29",
-   "line": 18,
-   "word": "mp4"
-  },
-  {
-   "action": "A30",
-   "line": 18,
-   "word": "GIF"
+   "line": 16,
+   "word": "PDF",
+   "src_from": 207.8,
+   "prev_until": 200.4
   }
  ],
  "zooms": [],
@@ -150,24 +114,10 @@
   "A12",
   "A13",
   "A14",
-  "A15",
-  "A16",
-  "A17",
-  "A18",
-  "A19",
-  "A20",
-  "A21",
-  "A22",
-  "A23",
-  "A24",
-  "A25",
-  "A26",
-  "A27",
-  "A28",
-  "A29",
-  "A30"
+  "A15"
  ],
  "cuts": [],
  "ff_max": 2.0,
- "use_junk": true
+ "use_junk": true,
+ "src_start": 7.8
 }
