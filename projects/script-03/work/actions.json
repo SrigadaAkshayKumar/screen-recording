@@ -3,7 +3,7 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 236.1
+  "duration": 195.933
  },
  "sync": {
   "source": "frames"
@@ -11,348 +11,180 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 24.4,
-   "x": 913,
-   "y": 905,
+   "t_click": 4.933,
+   "x": 40,
+   "y": 270,
    "kind": "click",
-   "target": "page 2 thumbnail (Cognizant)",
-   "result": "page 2 opens in the editor",
-   "t_result_visible": 24.9,
+   "target": "Uploads button in sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 5.2,
    "confidence": "medium"
   },
   {
    "id": "A2",
-   "t_click": 27.4,
-   "x": 525,
-   "y": 700,
+   "t_click": 22.9,
+   "x": 480,
+   "y": 430,
    "kind": "click",
-   "target": "empty area of page 2",
-   "result": "page selected (purple border, page toolbar)",
-   "t_result_visible": 27.6,
+   "target": "Upload files button",
+   "result": "file picker opens",
+   "t_result_visible": 23.4,
    "confidence": "medium"
   },
   {
    "id": "A3",
-   "t_click": 37.3,
-   "x": 1111,
-   "y": 230,
+   "t_click": 29.3,
+   "x": 1230,
+   "y": 810,
    "kind": "click",
-   "target": "Animate button in the toolbar",
-   "result": "Page Animations panel opens",
-   "t_result_visible": 37.6,
+   "target": "Open button in file dialog",
+   "result": "dialog closes, upload starts",
+   "t_result_visible": 29.6,
    "confidence": "medium"
   },
   {
    "id": "A4",
-   "t_click": 48.0,
-   "x": 200,
-   "y": 520,
+   "t_click": 30.4,
+   "x": 500,
+   "y": 160,
    "kind": "click",
-   "target": "hover over a page animation tile (Simple)",
-   "result": "animation previews on the page (hover only, no click)",
-   "t_result_visible": 48.4,
+   "target": "Audio tab",
+   "result": "Audio list shows",
+   "t_result_visible": 31.0,
    "confidence": "medium"
   },
   {
    "id": "A5",
-   "t_click": 61.65,
-   "x": 440,
-   "y": 640,
+   "t_click": 44.6,
+   "x": 150,
+   "y": 440,
    "kind": "click",
-   "target": "Fade animation tile",
-   "result": "Fade selected, Animate options appear",
-   "t_result_visible": 62.3,
+   "target": "voice-over.mp3 in Audio list",
+   "result": "audio clip added to timeline",
+   "t_result_visible": 45.0,
    "confidence": "medium"
   },
   {
-   "id": "A6",
-   "t_click": 76.8,
-   "x": 298,
-   "y": 491,
-   "kind": "click",
-   "target": "On enter button",
-   "result": "On enter selected, speed slider shown",
-   "t_result_visible": 77.1,
-   "confidence": "low"
-  },
-  {
    "id": "A7",
-   "t_click": 77.4,
-   "x": 322,
-   "y": 505,
-   "kind": "drag",
-   "target": "Speed slider",
-   "result": "speed handle moved",
-   "t_result_visible": 83.0,
-   "confidence": "low",
-   "x2": 250,
-   "y2": 696,
-   "t_end": 83.0
+   "t_click": 61.8,
+   "x": 1380,
+   "y": 990,
+   "kind": "click",
+   "target": "end handle of the voiceover clip (trim)",
+   "result": "clip trimmed",
+   "t_result_visible": 63.0,
+   "confidence": "medium"
   },
   {
    "id": "A8",
-   "t_click": 97.5,
-   "x": 337,
-   "y": 899,
+   "t_click": 72.7,
+   "x": 1090,
+   "y": 500,
    "kind": "click",
-   "target": "Apply to all pages button (hovered, not clicked)",
-   "result": "nothing changes; other pages stay unanimated",
-   "t_result_visible": 98.0,
+   "target": "Play button",
+   "result": "preview plays",
+   "t_result_visible": 77.6,
    "confidence": "medium"
   },
   {
    "id": "A9",
-   "t_click": 119.7,
-   "x": 1672,
-   "y": 162,
+   "t_click": 87.3,
+   "x": 1330,
+   "y": 990,
    "kind": "click",
-   "target": "Present button",
-   "result": "presentation starts full screen on page 1",
-   "t_result_visible": 120.2,
+   "target": "end handle of the video clip (shorten)",
+   "result": "video clip shortened",
+   "t_result_visible": 89.0,
    "confidence": "medium"
   },
   {
    "id": "A10",
-   "t_click": 122.4,
-   "x": 1800,
-   "y": 540,
+   "t_click": 106.2,
+   "x": 1320,
+   "y": 990,
    "kind": "click",
-   "target": "advance to page 2 in presentation",
-   "result": "page 2 appears with the fade",
-   "t_result_visible": 123.0,
-   "confidence": "low"
+   "target": "Add page / + on timeline",
+   "result": "menu with Uploads / Blank",
+   "t_result_visible": 106.6,
+   "confidence": "medium"
   },
   {
    "id": "A11",
-   "t_click": 124.0,
-   "x": 1800,
-   "y": 540,
+   "t_click": 129.6,
+   "x": 980,
+   "y": 190,
    "kind": "click",
-   "target": "advance to page 3 in presentation",
-   "result": "page 3 appears",
-   "t_result_visible": 124.6,
-   "confidence": "low"
+   "target": "Audio tools button",
+   "result": "volume popup opens",
+   "t_result_visible": 130.5,
+   "confidence": "medium"
   },
   {
    "id": "A12",
-   "t_click": 146.2,
-   "x": 768,
-   "y": 894,
+   "t_click": 136.3,
+   "x": 900,
+   "y": 990,
    "kind": "click",
-   "target": "page 1 thumbnail",
-   "result": "page 1 opens",
-   "t_result_visible": 146.6,
+   "target": "voiceover track in timeline",
+   "result": "track selected, volume toolbar",
+   "t_result_visible": 138.0,
    "confidence": "low"
   },
   {
    "id": "A13",
-   "t_click": 146.9,
-   "x": 1079,
-   "y": 530,
+   "t_click": 148.0,
+   "x": 40,
+   "y": 270,
    "kind": "click",
-   "target": "the welcome text box",
-   "result": "text selected with its own toolbar",
-   "t_result_visible": 147.5,
+   "target": "Uploads in sidebar",
+   "result": "Uploads panel with audio list",
+   "t_result_visible": 148.5,
    "confidence": "medium"
   },
   {
    "id": "A14",
-   "t_click": 148.9,
-   "x": 1293,
-   "y": 228,
+   "t_click": 154.0,
+   "x": 150,
+   "y": 700,
    "kind": "click",
-   "target": "Animate button in the text toolbar",
-   "result": "Animate panel opens on the Text tab",
-   "t_result_visible": 149.5,
-   "confidence": "medium"
+   "target": "voice-over.mp3 drag into timeline",
+   "result": "clip dragged to timeline",
+   "t_result_visible": 155.0,
+   "confidence": "low"
   },
   {
    "id": "A15",
-   "t_click": 149.65,
-   "x": 170,
-   "y": 768,
+   "t_click": 168.3,
+   "x": 1250,
+   "y": 990,
    "kind": "click",
-   "target": "Typewriter text animation",
-   "result": "typewriter plays on the text",
-   "t_result_visible": 150.0,
-   "confidence": "medium"
+   "target": "playhead at end of timeline",
+   "result": "playhead at the end of the visible timeline",
+   "t_result_visible": 168.5,
+   "confidence": "low"
   },
   {
    "id": "A16",
-   "t_click": 155.3,
-   "x": 330,
-   "y": 812,
-   "kind": "drag",
-   "target": "text animation Speed slider",
-   "result": "speed handle moved to the right",
-   "t_result_visible": 156.7,
-   "confidence": "low",
-   "x2": 505,
-   "y2": 812,
-   "t_end": 156.7
+   "t_click": 171.9,
+   "x": 1830,
+   "y": 50,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share menu opens",
+   "t_result_visible": 172.4,
+   "confidence": "high"
   },
   {
    "id": "A17",
-   "t_click": 170.8,
-   "x": 913,
-   "y": 905,
+   "t_click": 174.6,
+   "x": 1030,
+   "y": 850,
    "kind": "click",
-   "target": "page 2 thumbnail",
-   "result": "page 2 opens",
-   "t_result_visible": 171.5,
+   "target": "Download in share menu",
+   "result": "Download panel opens",
+   "t_result_visible": 175.0,
    "confidence": "medium"
-  },
-  {
-   "id": "A18",
-   "t_click": 178.0,
-   "x": 845,
-   "y": 900,
-   "kind": "click",
-   "target": "Add transition button between page 1 and 2",
-   "result": "Transitions panel opens",
-   "t_result_visible": 178.5,
-   "confidence": "medium"
-  },
-  {
-   "id": "A19",
-   "t_click": 179.35,
-   "x": 455,
-   "y": 655,
-   "kind": "click",
-   "target": "Stack transition tile",
-   "result": "Stack selected",
-   "t_result_visible": 179.6,
-   "confidence": "medium"
-  },
-  {
-   "id": "A20",
-   "t_click": 194.6,
-   "x": 500,
-   "y": 700,
-   "kind": "click",
-   "target": "Line Wipe transition tile",
-   "result": "Line Wipe selected, duration and direction options appear",
-   "t_result_visible": 196.0,
-   "confidence": "low"
-  },
-  {
-   "id": "A21",
-   "t_click": 205.85,
-   "x": 1672,
-   "y": 162,
-   "kind": "click",
-   "target": "Present button",
-   "result": "presentation plays the transition",
-   "t_result_visible": 206.2,
-   "confidence": "medium"
-  },
-  {
-   "id": "A22",
-   "t_click": 219.1,
-   "x": 1822,
-   "y": 162,
-   "kind": "click",
-   "target": "Share button, then Download",
-   "result": "Share menu / Download panel opens",
-   "t_result_visible": 220.8,
-   "confidence": "medium"
-  },
-  {
-   "id": "A23",
-   "t_click": 221.8,
-   "x": 1700,
-   "y": 440,
-   "kind": "click",
-   "target": "MP4 Video file type",
-   "result": "MP4 video selected in the download panel",
-   "t_result_visible": 222.2,
-   "confidence": "low"
   }
  ],
- "junk": [
-  {
-   "start": 2.5,
-   "end": 22.5,
-   "reason": "idle cursor and an unnarrated page-1 click before the thumbnail step",
-   "ff": true
-  },
-  {
-   "start": 29.8,
-   "end": 36.6,
-   "reason": "cursor idle on the selected page",
-   "ff": true
-  },
-  {
-   "start": 40.1,
-   "end": 46.9,
-   "reason": "cursor wandering over the panel before the hover preview",
-   "ff": true
-  },
-  {
-   "start": 51.6,
-   "end": 54.1,
-   "reason": "idle between hovers",
-   "ff": true
-  },
-  {
-   "start": 56.0,
-   "end": 60.1,
-   "reason": "idle between hovers",
-   "ff": true
-  },
-  {
-   "start": 65.3,
-   "end": 74.5,
-   "reason": "cursor idle on the panel",
-   "ff": true
-  },
-  {
-   "start": 88.3,
-   "end": 96.6,
-   "reason": "cursor resting on slider",
-   "ff": true
-  },
-  {
-   "start": 98.1,
-   "end": 115.9,
-   "reason": "cursor idle on Remove animations",
-   "ff": true
-  },
-  {
-   "start": 129.5,
-   "end": 145.8,
-   "reason": "idle then unnarrated navigation to page 1",
-   "ff": true
-  },
-  {
-   "start": 158.7,
-   "end": 168.1,
-   "reason": "cursor idle on slider",
-   "ff": true
-  },
-  {
-   "start": 172.0,
-   "end": 177.4,
-   "reason": "zoom and hover before Add transition",
-   "ff": true
-  },
-  {
-   "start": 180.0,
-   "end": 190.9,
-   "reason": "cursor resting on Stack tile",
-   "ff": true
-  },
-  {
-   "start": 198.6,
-   "end": 205.4,
-   "reason": "cursor idle, closing panel",
-   "ff": true
-  },
-  {
-   "start": 215.4,
-   "end": 217.3,
-   "reason": "idle in editor",
-   "ff": true
-  }
- ]
+ "junk": []
 }

@@ -1,570 +1,368 @@
 {
-  "output": {
-    "duration": 85.812,
-    "fps": 30.0,
-    "width": 1920,
-    "height": 1080
+ "output": {
+  "duration": 76.382,
+  "fps": 30.0,
+  "width": 1920,
+  "height": 1080
+ },
+ "segments": [
+  {
+   "src_start": 0,
+   "src_end": 0,
+   "mode": "hold",
+   "out_start": 0,
+   "out_end": 0.3
   },
-  "segments": [
-    {
-      "mode": "speed",
-      "src_start": 0.0,
-      "src_end": 2.5,
-      "wait": true,
-      "out_start": 0.0,
-      "out_end": 0.407
-    },
-    {
-      "mode": "speed",
-      "src_start": 2.5,
-      "src_end": 6.5,
-      "out_start": 0.407,
-      "out_end": 4.407
-    },
-    {
-      "mode": "speed",
-      "src_start": 6.5,
-      "src_end": 13.333,
-      "wait": true,
-      "out_start": 4.407,
-      "out_end": 5.518
-    },
-    {
-      "mode": "speed",
-      "src_start": 13.333,
-      "src_end": 16.667,
-      "out_start": 5.518,
-      "out_end": 8.852
-    },
-    {
-      "mode": "speed",
-      "src_start": 16.667,
-      "src_end": 22.333,
-      "wait": true,
-      "out_start": 8.852,
-      "out_end": 9.773
-    },
-    {
-      "mode": "speed",
-      "src_start": 22.333,
-      "src_end": 24.4,
-      "out_start": 9.773,
-      "out_end": 11.84
-    },
-    {
-      "mode": "speed",
-      "src_start": 24.4,
-      "src_end": 27.4,
-      "out_start": 11.84,
-      "out_end": 13.46
-    },
-    {
-      "mode": "speed",
-      "src_start": 27.4,
-      "src_end": 29.8,
-      "out_start": 13.46,
-      "out_end": 15.86
-    },
-    {
-      "mode": "speed",
-      "src_start": 29.8,
-      "src_end": 36.5,
-      "out_start": 15.86,
-      "out_end": 18.74
-    },
-    {
-      "mode": "speed",
-      "src_start": 36.5,
-      "src_end": 37.3,
-      "out_start": 18.74,
-      "out_end": 19.54
-    },
-    {
-      "mode": "speed",
-      "src_start": 37.3,
-      "src_end": 40.1,
-      "out_start": 19.54,
-      "out_end": 21.895
-    },
-    {
-      "mode": "speed",
-      "src_start": 46.9,
-      "src_end": 48.0,
-      "xfade": true,
-      "out_start": 21.895,
-      "out_end": 22.82
-    },
-    {
-      "mode": "speed",
-      "src_start": 48.0,
-      "src_end": 51.567,
-      "out_start": 22.82,
-      "out_end": 24.883
-    },
-    {
-      "mode": "speed",
-      "src_start": 51.567,
-      "src_end": 54.067,
-      "wait": true,
-      "out_start": 24.883,
-      "out_end": 25.198
-    },
-    {
-      "mode": "speed",
-      "src_start": 54.067,
-      "src_end": 55.967,
-      "out_start": 25.198,
-      "out_end": 26.297
-    },
-    {
-      "mode": "speed",
-      "src_start": 55.967,
-      "src_end": 60.133,
-      "wait": true,
-      "out_start": 26.297,
-      "out_end": 26.823
-    },
-    {
-      "mode": "speed",
-      "src_start": 60.133,
-      "src_end": 61.65,
-      "out_start": 26.823,
-      "out_end": 27.7
-    },
-    {
-      "mode": "speed",
-      "src_start": 61.65,
-      "src_end": 65.333,
-      "out_start": 27.7,
-      "out_end": 29.684
-    },
-    {
-      "mode": "speed",
-      "src_start": 65.333,
-      "src_end": 74.5,
-      "wait": true,
-      "out_start": 29.684,
-      "out_end": 30.841
-    },
-    {
-      "mode": "speed",
-      "src_start": 74.5,
-      "src_end": 76.8,
-      "out_start": 30.841,
-      "out_end": 32.08
-    },
-    {
-      "mode": "speed",
-      "src_start": 76.8,
-      "src_end": 77.25,
-      "out_start": 32.08,
-      "out_end": 32.53
-    },
-    {
-      "mode": "hold",
-      "src_start": 77.25,
-      "src_end": 77.25,
-      "out_start": 32.53,
-      "out_end": 32.79
-    },
-    {
-      "mode": "speed",
-      "src_start": 77.25,
-      "src_end": 77.4,
-      "out_start": 32.79,
-      "out_end": 32.94
-    },
-    {
-      "mode": "speed",
-      "src_start": 77.4,
-      "src_end": 88.3,
-      "out_start": 32.94,
-      "out_end": 36.469
-    },
-    {
-      "mode": "speed",
-      "src_start": 96.6,
-      "src_end": 97.5,
-      "xfade": true,
-      "out_start": 36.469,
-      "out_end": 36.76
-    },
-    {
-      "mode": "speed",
-      "src_start": 97.5,
-      "src_end": 98.067,
-      "out_start": 36.76,
-      "out_end": 37.227
-    },
-    {
-      "mode": "speed",
-      "src_start": 98.067,
-      "src_end": 99.767,
-      "wait": true,
-      "out_start": 37.227,
-      "out_end": 37.442
-    },
-    {
-      "mode": "speed",
-      "src_start": 99.767,
-      "src_end": 100.4,
-      "out_start": 37.442,
-      "out_end": 37.963
-    },
-    {
-      "mode": "speed",
-      "src_start": 100.4,
-      "src_end": 115.4,
-      "wait": true,
-      "out_start": 37.963,
-      "out_end": 39.857
-    },
-    {
-      "mode": "speed",
-      "src_start": 115.4,
-      "src_end": 119.7,
-      "out_start": 39.857,
-      "out_end": 43.4
-    },
-    {
-      "mode": "speed",
-      "src_start": 119.7,
-      "src_end": 122.4,
-      "out_start": 43.4,
-      "out_end": 46.6
-    },
-    {
-      "mode": "speed",
-      "src_start": 122.4,
-      "src_end": 123.15,
-      "out_start": 46.6,
-      "out_end": 47.35
-    },
-    {
-      "mode": "hold",
-      "src_start": 123.15,
-      "src_end": 123.15,
-      "out_start": 47.35,
-      "out_end": 48.65
-    },
-    {
-      "mode": "speed",
-      "src_start": 123.15,
-      "src_end": 124.0,
-      "out_start": 48.65,
-      "out_end": 49.5
-    },
-    {
-      "mode": "speed",
-      "src_start": 124.0,
-      "src_end": 129.5,
-      "out_start": 49.5,
-      "out_end": 54.55
-    },
-    {
-      "mode": "speed",
-      "src_start": 145.8,
-      "src_end": 146.9,
-      "xfade": true,
-      "out_start": 54.55,
-      "out_end": 55.56
-    },
-    {
-      "mode": "speed",
-      "src_start": 146.9,
-      "src_end": 148.9,
-      "out_start": 55.56,
-      "out_end": 57.34
-    },
-    {
-      "mode": "speed",
-      "src_start": 148.9,
-      "src_end": 149.65,
-      "out_start": 57.34,
-      "out_end": 58.08
-    },
-    {
-      "mode": "speed",
-      "src_start": 149.65,
-      "src_end": 158.7,
-      "out_start": 58.08,
-      "out_end": 62.875
-    },
-    {
-      "mode": "speed",
-      "src_start": 168.1,
-      "src_end": 172.0,
-      "xfade": true,
-      "out_start": 62.875,
-      "out_end": 64.942
-    },
-    {
-      "mode": "speed",
-      "src_start": 177.4,
-      "src_end": 178.0,
-      "xfade": true,
-      "out_start": 64.942,
-      "out_end": 65.26
-    },
-    {
-      "mode": "speed",
-      "src_start": 178.0,
-      "src_end": 179.35,
-      "out_start": 65.26,
-      "out_end": 66.88
-    },
-    {
-      "mode": "speed",
-      "src_start": 179.35,
-      "src_end": 179.967,
-      "out_start": 66.88,
-      "out_end": 67.397
-    },
-    {
-      "mode": "speed",
-      "src_start": 179.967,
-      "src_end": 190.9,
-      "wait": true,
-      "out_start": 67.397,
-      "out_end": 68.778
-    },
-    {
-      "mode": "speed",
-      "src_start": 190.9,
-      "src_end": 194.6,
-      "out_start": 68.778,
-      "out_end": 71.88
-    },
-    {
-      "mode": "speed",
-      "src_start": 194.6,
-      "src_end": 198.6,
-      "out_start": 71.88,
-      "out_end": 75.188
-    },
-    {
-      "mode": "speed",
-      "src_start": 205.4,
-      "src_end": 205.85,
-      "xfade": true,
-      "out_start": 75.188,
-      "out_end": 75.56
-    },
-    {
-      "mode": "speed",
-      "src_start": 205.85,
-      "src_end": 208.5,
-      "out_start": 75.56,
-      "out_end": 76.973
-    },
-    {
-      "mode": "speed",
-      "src_start": 214.6,
-      "src_end": 215.4,
-      "xfade": true,
-      "out_start": 76.973,
-      "out_end": 77.4
-    },
-    {
-      "mode": "speed",
-      "src_start": 217.3,
-      "src_end": 219.1,
-      "xfade": true,
-      "out_start": 77.4,
-      "out_end": 78.36
-    },
-    {
-      "mode": "speed",
-      "src_start": 219.1,
-      "src_end": 226.552,
-      "out_start": 78.36,
-      "out_end": 85.812
-    }
-  ],
-  "zooms": [],
-  "ripples": [
-    {
-      "out_t": 27.7,
-      "x": 440,
-      "y": 640,
-      "action": "A5"
-    },
-    {
-      "out_t": 32.08,
-      "x": 298,
-      "y": 491,
-      "action": "A6"
-    },
-    {
-      "out_t": 58.08,
-      "x": 170,
-      "y": 768,
-      "action": "A15"
-    },
-    {
-      "out_t": 66.88,
-      "x": 455,
-      "y": 655,
-      "action": "A19"
-    }
-  ],
-  "intro": {
-    "mode": "play",
-    "until": 11.84
+  {
+   "src_start": 0,
+   "src_end": 4.933,
+   "mode": "speed",
+   "out_start": 0.3,
+   "out_end": 6.88
   },
-  "outro": null,
-  "sync": [
-    {
-      "action": "A1",
-      "line": 3,
-      "word": "second",
-      "word_index": 38,
-      "word_t": 11.84
-    },
-    {
-      "action": "A2",
-      "line": 4,
-      "word": "empty",
-      "word_index": 42,
-      "word_t": 13.46
-    },
-    {
-      "action": "A3",
-      "line": 5,
-      "word": "animate",
-      "word_index": 60,
-      "word_t": 19.54
-    },
-    {
-      "action": "A4",
-      "line": 6,
-      "word": "Hover",
-      "word_index": 69,
-      "word_t": 22.82
-    },
-    {
-      "action": "A5",
-      "line": 7,
-      "word": "fade,",
-      "word_index": 84,
-      "word_t": 27.7
-    },
-    {
-      "action": "A6",
-      "line": 8,
-      "word": "direction,",
-      "word_index": 95,
-      "word_t": 32.08
-    },
-    {
-      "action": "A7",
-      "line": 8,
-      "word": "speed",
-      "word_index": 96,
-      "word_t": 32.94
-    },
-    {
-      "action": "A8",
-      "line": 9,
-      "word": "apply",
-      "word_index": 105,
-      "word_t": 36.76
-    },
-    {
-      "action": "A9",
-      "line": 10,
-      "word": "preview",
-      "word_index": 123,
-      "word_t": 43.4
-    },
-    {
-      "action": "A10",
-      "line": 10,
-      "word": "second",
-      "word_index": 133,
-      "word_t": 46.6
-    },
-    {
-      "action": "A11",
-      "line": 10,
-      "word": "third",
-      "word_index": 143,
-      "word_t": 49.5
-    },
-    {
-      "action": "A13",
-      "line": 11,
-      "word": "select",
-      "word_index": 162,
-      "word_t": 55.56
-    },
-    {
-      "action": "A14",
-      "line": 11,
-      "word": "element",
-      "word_index": 168,
-      "word_t": 57.34
-    },
-    {
-      "action": "A15",
-      "line": 11,
-      "word": "text",
-      "word_index": 170,
-      "word_t": 58.08
-    },
-    {
-      "action": "A18",
-      "line": 13,
-      "word": "transition",
-      "word_index": 189,
-      "word_t": 65.26
-    },
-    {
-      "action": "A19",
-      "line": 13,
-      "word": "separate",
-      "word_index": 193,
-      "word_t": 66.88
-    },
-    {
-      "action": "A20",
-      "line": 14,
-      "word": "inspect",
-      "word_index": 203,
-      "word_t": 71.88
-    },
-    {
-      "action": "A21",
-      "line": 15,
-      "word": "present",
-      "word_index": 213,
-      "word_t": 75.56
-    },
-    {
-      "action": "A22",
-      "line": 15,
-      "word": "download",
-      "word_index": 221,
-      "word_t": 78.36
-    }
-  ],
-  "style": {},
-  "notes": [
-    "intro: fast-forwarded src 2.50-22.50 instead of cutting it (junk: idle cursor and an unnarrated page-1 click before the thumbnail step)",
-    "A2->A3: fast-forwarded src 29.80-36.60 instead of cutting it (junk: cursor idle on the selected page)",
-    "A3->A4: cut src 40.10-46.90 - too long to fast-forward at <= 2.00x (junk: cursor wandering over the panel before the hover preview)",
-    "A4->A5: fast-forwarded src 51.60-54.10 instead of cutting it (junk: idle between hovers)",
-    "A4->A5: fast-forwarded src 56.00-60.10 instead of cutting it (junk: idle between hovers)",
-    "A5->A6: fast-forwarded src 65.30-74.50 instead of cutting it (junk: cursor idle on the panel)",
-    "A7->A8: cut src 88.30-96.60 - too long to fast-forward at <= 2.00x (junk: cursor resting on slider)",
-    "A8->A9: fast-forwarded src 98.10-115.90 instead of cutting it (junk: cursor idle on Remove animations)",
-    "A11->A13: cut src 129.50-145.80 - too long to fast-forward at <= 2.00x (junk: idle then unnarrated navigation to page 1)",
-    "A15->A18: cut src 158.70-168.10 - too long to fast-forward at <= 2.00x (junk: cursor idle on slider)",
-    "A15->A18: cut src 172.00-177.40 - too long to fast-forward at <= 2.00x (junk: zoom and hover before Add transition)",
-    "A19->A20: fast-forwarded src 180.00-190.90 instead of cutting it (junk: cursor resting on Stack tile)",
-    "A20->A21: cut src 198.60-205.40 - too long to fast-forward at <= 2.00x (junk: cursor idle, closing panel)",
-    "A21->A22: cut src 215.40-217.30 - too long to fast-forward at <= 2.00x (junk: idle in editor)"
-  ],
-  "generated_by": "tools/plan_builder.py from work/sync.json",
-  "generated_hash": "92321ce01555"
+  {
+   "src_start": 4.933,
+   "src_end": 7.4,
+   "mode": "speed",
+   "out_start": 6.88,
+   "out_end": 9.180495598304534
+  },
+  {
+   "src_start": 22.3,
+   "src_end": 22.9,
+   "mode": "speed",
+   "out_start": 9.180495598304534,
+   "out_end": 9.74,
+   "xfade": true
+  },
+  {
+   "src_start": 22.9,
+   "src_end": 29.3,
+   "mode": "speed",
+   "out_start": 9.74,
+   "out_end": 16.68
+  },
+  {
+   "src_start": 29.3,
+   "src_end": 29.8,
+   "mode": "speed",
+   "out_start": 16.68,
+   "out_end": 17.346666666666668
+  },
+  {
+   "src_start": 29.8,
+   "src_end": 29.8,
+   "mode": "hold",
+   "out_start": 17.346666666666668,
+   "out_end": 18.836666666666666
+  },
+  {
+   "src_start": 29.8,
+   "src_end": 30.4,
+   "mode": "speed",
+   "out_start": 18.836666666666666,
+   "out_end": 19.64
+  },
+  {
+   "src_start": 30.4,
+   "src_end": 30.9,
+   "mode": "speed",
+   "out_start": 19.64,
+   "out_end": 20.18
+  },
+  {
+   "src_start": 43.6,
+   "src_end": 44.6,
+   "mode": "speed",
+   "out_start": 20.18,
+   "out_end": 21.26,
+   "xfade": true
+  },
+  {
+   "src_start": 44.6,
+   "src_end": 50.6,
+   "mode": "speed",
+   "out_start": 21.26,
+   "out_end": 26.395593220338984
+  },
+  {
+   "src_start": 56.0,
+   "src_end": 61.8,
+   "mode": "speed",
+   "out_start": 26.395593220338984,
+   "out_end": 31.36,
+   "xfade": true
+  },
+  {
+   "src_start": 61.8,
+   "src_end": 63.2,
+   "mode": "speed",
+   "out_start": 31.36,
+   "out_end": 33.04
+  },
+  {
+   "src_start": 72.0,
+   "src_end": 72.7,
+   "mode": "speed",
+   "out_start": 33.04,
+   "out_end": 33.88,
+   "xfade": true
+  },
+  {
+   "src_start": 72.7,
+   "src_end": 74.0,
+   "mode": "speed",
+   "out_start": 33.88,
+   "out_end": 34.99913043478261
+  },
+  {
+   "src_start": 86.3,
+   "src_end": 87.3,
+   "mode": "speed",
+   "out_start": 34.99913043478261,
+   "out_end": 35.86,
+   "xfade": true
+  },
+  {
+   "src_start": 87.3,
+   "src_end": 92.4,
+   "mode": "speed",
+   "out_start": 35.86,
+   "out_end": 40.50513513513514
+  },
+  {
+   "src_start": 103.9,
+   "src_end": 106.2,
+   "mode": "speed",
+   "out_start": 40.50513513513514,
+   "out_end": 42.6,
+   "xfade": true
+  },
+  {
+   "src_start": 106.2,
+   "src_end": 109.0,
+   "mode": "speed",
+   "out_start": 42.6,
+   "out_end": 44.964444444444446
+  },
+  {
+   "src_start": 115.4,
+   "src_end": 117.2,
+   "mode": "speed",
+   "out_start": 44.964444444444446,
+   "out_end": 46.48444444444445,
+   "xfade": true
+  },
+  {
+   "src_start": 127.0,
+   "src_end": 129.6,
+   "mode": "speed",
+   "out_start": 46.48444444444445,
+   "out_end": 48.68,
+   "xfade": true
+  },
+  {
+   "src_start": 129.6,
+   "src_end": 133.0,
+   "mode": "speed",
+   "out_start": 48.68,
+   "out_end": 51.83404255319148
+  },
+  {
+   "src_start": 135.0,
+   "src_end": 136.3,
+   "mode": "speed",
+   "out_start": 51.83404255319148,
+   "out_end": 53.04,
+   "xfade": true
+  },
+  {
+   "src_start": 136.3,
+   "src_end": 141.5,
+   "mode": "speed",
+   "out_start": 53.04,
+   "out_end": 57.931250000000006
+  },
+  {
+   "src_start": 146.8,
+   "src_end": 148.0,
+   "mode": "speed",
+   "out_start": 57.931250000000006,
+   "out_end": 59.06,
+   "xfade": true
+  },
+  {
+   "src_start": 148.0,
+   "src_end": 154.0,
+   "mode": "speed",
+   "out_start": 59.06,
+   "out_end": 63.72
+  },
+  {
+   "src_start": 154.0,
+   "src_end": 155.8,
+   "mode": "speed",
+   "out_start": 63.72,
+   "out_end": 65.11164179104478
+  },
+  {
+   "src_start": 163.4,
+   "src_end": 168.3,
+   "mode": "speed",
+   "out_start": 65.11164179104478,
+   "out_end": 68.9,
+   "xfade": true
+  },
+  {
+   "src_start": 168.3,
+   "src_end": 171.9,
+   "mode": "speed",
+   "out_start": 68.9,
+   "out_end": 71.94
+  },
+  {
+   "src_start": 171.9,
+   "src_end": 174.6,
+   "mode": "speed",
+   "out_start": 71.94,
+   "out_end": 73.78
+  },
+  {
+   "src_start": 174.6,
+   "src_end": 175.4,
+   "mode": "speed",
+   "out_start": 73.78,
+   "out_end": 74.45148387096775
+  },
+  {
+   "src_start": 187.6,
+   "src_end": 189.9,
+   "mode": "speed",
+   "out_start": 74.45148387096775,
+   "out_end": 76.382,
+   "xfade": true
+  }
+ ],
+ "zooms": [],
+ "ripples": [],
+ "intro": null,
+ "outro": null,
+ "sync": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "Open",
+   "word_index": 21,
+   "word_t": 6.98
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "Files.",
+   "word_index": 29,
+   "word_t": 9.84
+  },
+  {
+   "action": "A3",
+   "line": 3,
+   "word": "to",
+   "word_index": 46,
+   "word_t": 16.68
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "Audio",
+   "word_index": 54,
+   "word_t": 19.64
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "add",
+   "word_index": 59,
+   "word_t": 21.26
+  },
+  {
+   "action": "A7",
+   "line": 7,
+   "word": "trim",
+   "word_index": 96,
+   "word_t": 31.36
+  },
+  {
+   "action": "A8",
+   "line": 8,
+   "word": "Play",
+   "word_index": 102,
+   "word_t": 33.88
+  },
+  {
+   "action": "A9",
+   "line": 9,
+   "word": "Shorten",
+   "word_index": 108,
+   "word_t": 35.86
+  },
+  {
+   "action": "A10",
+   "line": 10,
+   "word": "add",
+   "word_index": 133,
+   "word_t": 42.6
+  },
+  {
+   "action": "A11",
+   "line": 11,
+   "word": "reduce",
+   "word_index": 152,
+   "word_t": 48.68
+  },
+  {
+   "action": "A12",
+   "line": 12,
+   "word": "voiceover",
+   "word_index": 168,
+   "word_t": 53.04
+  },
+  {
+   "action": "A13",
+   "line": 14,
+   "word": "Uploading",
+   "word_index": 182,
+   "word_t": 59.06
+  },
+  {
+   "action": "A14",
+   "line": 15,
+   "word": "timeline",
+   "word_index": 200,
+   "word_t": 63.72
+  },
+  {
+   "action": "A15",
+   "line": 16,
+   "word": "Check",
+   "word_index": 217,
+   "word_t": 68.9
+  },
+  {
+   "action": "A16",
+   "line": 17,
+   "word": "Download",
+   "word_index": 228,
+   "word_t": 71.94
+  },
+  {
+   "action": "A17",
+   "line": 17,
+   "word": "video",
+   "word_index": 235,
+   "word_t": 73.78
+  }
+ ],
+ "style": {},
+ "notes": [
+  "hand-built by work/hand_plan.py (builder cannot meet the pace rules); no zooms/ripples: recording has baked-in recorder zoom"
+ ]
 }
