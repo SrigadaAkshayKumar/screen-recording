@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to animate a shape in Canva without animating the entire page.",
+    "text": "This tutorial shows you how to add a sound effect in Canva and time it to a specific action in your video.",
     "start": 0.0,
-    "end": 5.1,
+    "end": 5.48,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      15
+      21
     ],
     "words": [
       {
@@ -22,1675 +22,1654 @@
         "i": 1,
         "word": "tutorial",
         "start": 0.22,
-        "end": 0.58
+        "end": 0.56
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.58,
-        "end": 1.04
+        "start": 0.56,
+        "end": 0.98
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.04,
-        "end": 1.26
+        "start": 0.98,
+        "end": 1.18
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.26,
-        "end": 1.42
+        "start": 1.18,
+        "end": 1.3
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.42,
-        "end": 1.62
+        "start": 1.3,
+        "end": 1.46
       },
       {
         "i": 6,
-        "word": "animate",
-        "start": 1.62,
-        "end": 1.96
+        "word": "add",
+        "start": 1.46,
+        "end": 1.66
       },
       {
         "i": 7,
         "word": "a",
-        "start": 1.96,
-        "end": 2.2
+        "start": 1.66,
+        "end": 1.84
       },
       {
         "i": 8,
-        "word": "shape",
-        "start": 2.2,
-        "end": 2.38
+        "word": "sound",
+        "start": 1.84,
+        "end": 2.06
       },
       {
         "i": 9,
-        "word": "in",
-        "start": 2.38,
-        "end": 2.6
+        "word": "effect",
+        "start": 2.06,
+        "end": 2.32
       },
       {
         "i": 10,
-        "word": "Canva",
-        "start": 2.6,
-        "end": 2.98
+        "word": "in",
+        "start": 2.32,
+        "end": 2.58
       },
       {
         "i": 11,
-        "word": "without",
-        "start": 2.98,
-        "end": 3.36
+        "word": "Canva",
+        "start": 2.58,
+        "end": 3.0
       },
       {
         "i": 12,
-        "word": "animating",
-        "start": 3.36,
-        "end": 4.02
+        "word": "and",
+        "start": 3.0,
+        "end": 3.24
       },
       {
         "i": 13,
-        "word": "the",
-        "start": 4.02,
-        "end": 4.2
+        "word": "time",
+        "start": 3.24,
+        "end": 3.52
       },
       {
         "i": 14,
-        "word": "entire",
-        "start": 4.2,
-        "end": 4.64
+        "word": "it",
+        "start": 3.52,
+        "end": 3.66
       },
       {
         "i": 15,
-        "word": "page.",
-        "start": 4.64,
-        "end": 5.1
+        "word": "to",
+        "start": 3.66,
+        "end": 3.82
+      },
+      {
+        "i": 16,
+        "word": "a",
+        "start": 3.82,
+        "end": 3.92
+      },
+      {
+        "i": 17,
+        "word": "specific",
+        "start": 3.92,
+        "end": 4.24
+      },
+      {
+        "i": 18,
+        "word": "action",
+        "start": 4.24,
+        "end": 4.7
+      },
+      {
+        "i": 19,
+        "word": "in",
+        "start": 4.7,
+        "end": 5.02
+      },
+      {
+        "i": 20,
+        "word": "your",
+        "start": 5.02,
+        "end": 5.16
+      },
+      {
+        "i": 21,
+        "word": "video.",
+        "start": 5.16,
+        "end": 5.48
       }
     ]
   },
   {
     "id": 2,
-    "text": "Open your design, go to Elements, and add a basic shape.",
-    "start": 5.84,
-    "end": 8.94,
+    "text": "Move the timeline playhead to the moment where the sound should begin.",
+    "start": 6.32,
+    "end": 9.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      16,
-      26
+      22,
+      33
     ],
     "words": [
       {
-        "i": 16,
-        "word": "Open",
-        "start": 5.84,
-        "end": 6.1
-      },
-      {
-        "i": 17,
-        "word": "your",
-        "start": 6.1,
-        "end": 6.26
-      },
-      {
-        "i": 18,
-        "word": "design,",
-        "start": 6.26,
-        "end": 6.6
-      },
-      {
-        "i": 19,
-        "word": "go",
-        "start": 6.88,
-        "end": 7.06
-      },
-      {
-        "i": 20,
-        "word": "to",
-        "start": 7.06,
-        "end": 7.24
-      },
-      {
-        "i": 21,
-        "word": "Elements,",
-        "start": 7.24,
-        "end": 7.48
-      },
-      {
         "i": 22,
-        "word": "and",
-        "start": 7.82,
-        "end": 7.9
+        "word": "Move",
+        "start": 6.32,
+        "end": 6.56
       },
       {
         "i": 23,
-        "word": "add",
-        "start": 7.9,
-        "end": 8.14
+        "word": "the",
+        "start": 6.56,
+        "end": 6.74
       },
       {
         "i": 24,
-        "word": "a",
-        "start": 8.14,
-        "end": 8.26
+        "word": "timeline",
+        "start": 6.74,
+        "end": 7.06
       },
       {
         "i": 25,
-        "word": "basic",
-        "start": 8.26,
-        "end": 8.58
+        "word": "playhead",
+        "start": 7.06,
+        "end": 7.54
       },
       {
         "i": 26,
-        "word": "shape.",
-        "start": 8.58,
+        "word": "to",
+        "start": 7.54,
+        "end": 7.7
+      },
+      {
+        "i": 27,
+        "word": "the",
+        "start": 7.7,
+        "end": 7.84
+      },
+      {
+        "i": 28,
+        "word": "moment",
+        "start": 7.84,
+        "end": 8.0
+      },
+      {
+        "i": 29,
+        "word": "where",
+        "start": 8.0,
+        "end": 8.26
+      },
+      {
+        "i": 30,
+        "word": "the",
+        "start": 8.26,
+        "end": 8.42
+      },
+      {
+        "i": 31,
+        "word": "sound",
+        "start": 8.42,
+        "end": 8.68
+      },
+      {
+        "i": 32,
+        "word": "should",
+        "start": 8.68,
         "end": 8.94
+      },
+      {
+        "i": 33,
+        "word": "begin.",
+        "start": 8.94,
+        "end": 9.3
       }
     ]
   },
   {
     "id": 3,
-    "text": "For this example, choose a circle.",
-    "start": 9.58,
-    "end": 11.24,
+    "text": "Open audio in the editor or use add audio on the video timeline.",
+    "start": 9.94,
+    "end": 13.9,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      27,
-      32
+      34,
+      46
     ],
     "words": [
       {
-        "i": 27,
-        "word": "For",
-        "start": 9.58,
-        "end": 9.74
+        "i": 34,
+        "word": "Open",
+        "start": 9.94,
+        "end": 10.22
       },
       {
-        "i": 28,
-        "word": "this",
-        "start": 9.74,
-        "end": 9.9
+        "i": 35,
+        "word": "audio",
+        "start": 10.22,
+        "end": 10.52
       },
       {
-        "i": 29,
-        "word": "example,",
-        "start": 9.9,
-        "end": 10.32
+        "i": 36,
+        "word": "in",
+        "start": 10.52,
+        "end": 10.88
       },
       {
-        "i": 30,
-        "word": "choose",
-        "start": 10.46,
-        "end": 10.68
+        "i": 37,
+        "word": "the",
+        "start": 10.88,
+        "end": 11.0
       },
       {
-        "i": 31,
-        "word": "a",
-        "start": 10.68,
-        "end": 10.92
+        "i": 38,
+        "word": "editor",
+        "start": 11.0,
+        "end": 11.32
       },
       {
-        "i": 32,
-        "word": "circle.",
-        "start": 10.92,
-        "end": 11.24
+        "i": 39,
+        "word": "or",
+        "start": 11.32,
+        "end": 11.78
+      },
+      {
+        "i": 40,
+        "word": "use",
+        "start": 11.78,
+        "end": 12.0
+      },
+      {
+        "i": 41,
+        "word": "add",
+        "start": 12.0,
+        "end": 12.32
+      },
+      {
+        "i": 42,
+        "word": "audio",
+        "start": 12.32,
+        "end": 12.72
+      },
+      {
+        "i": 43,
+        "word": "on",
+        "start": 12.72,
+        "end": 13.02
+      },
+      {
+        "i": 44,
+        "word": "the",
+        "start": 13.02,
+        "end": 13.16
+      },
+      {
+        "i": 45,
+        "word": "video",
+        "start": 13.16,
+        "end": 13.38
+      },
+      {
+        "i": 46,
+        "word": "timeline.",
+        "start": 13.38,
+        "end": 13.9
       }
     ]
   },
   {
     "id": 4,
-    "text": "Set its color, resize it, and position it near the center of the canvas.",
-    "start": 11.82,
-    "end": 15.82,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      33,
-      46
-    ],
-    "words": [
-      {
-        "i": 33,
-        "word": "Set",
-        "start": 11.82,
-        "end": 12.04
-      },
-      {
-        "i": 34,
-        "word": "its",
-        "start": 12.04,
-        "end": 12.24
-      },
-      {
-        "i": 35,
-        "word": "color,",
-        "start": 12.24,
-        "end": 12.44
-      },
-      {
-        "i": 36,
-        "word": "resize",
-        "start": 12.96,
-        "end": 13.3
-      },
-      {
-        "i": 37,
-        "word": "it,",
-        "start": 13.3,
-        "end": 13.7
-      },
-      {
-        "i": 38,
-        "word": "and",
-        "start": 13.92,
-        "end": 14.12
-      },
-      {
-        "i": 39,
-        "word": "position",
-        "start": 14.12,
-        "end": 14.38
-      },
-      {
-        "i": 40,
-        "word": "it",
-        "start": 14.38,
-        "end": 14.64
-      },
-      {
-        "i": 41,
-        "word": "near",
-        "start": 14.64,
-        "end": 14.78
-      },
-      {
-        "i": 42,
-        "word": "the",
-        "start": 14.78,
-        "end": 14.96
-      },
-      {
-        "i": 43,
-        "word": "center",
-        "start": 14.96,
-        "end": 15.16
-      },
-      {
-        "i": 44,
-        "word": "of",
-        "start": 15.16,
-        "end": 15.38
-      },
-      {
-        "i": 45,
-        "word": "the",
-        "start": 15.38,
-        "end": 15.5
-      },
-      {
-        "i": 46,
-        "word": "canvas.",
-        "start": 15.5,
-        "end": 15.82
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "text": "Select the circle and click Animate.",
-    "start": 16.68,
-    "end": 18.58,
+    "text": "Browse the sound effects or search for a description such as whoosh, click, applause or notification.",
+    "start": 14.72,
+    "end": 19.86,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       47,
-      52
+      62
     ],
     "words": [
       {
         "i": 47,
-        "word": "Select",
-        "start": 16.68,
-        "end": 16.9
+        "word": "Browse",
+        "start": 14.72,
+        "end": 14.84
       },
       {
         "i": 48,
         "word": "the",
-        "start": 16.9,
-        "end": 17.1
+        "start": 14.84,
+        "end": 15.04
       },
       {
         "i": 49,
-        "word": "circle",
-        "start": 17.1,
-        "end": 17.4
+        "word": "sound",
+        "start": 15.04,
+        "end": 15.24
       },
       {
         "i": 50,
-        "word": "and",
-        "start": 17.4,
-        "end": 17.66
+        "word": "effects",
+        "start": 15.24,
+        "end": 15.54
       },
       {
         "i": 51,
-        "word": "click",
-        "start": 17.66,
-        "end": 17.96
+        "word": "or",
+        "start": 15.54,
+        "end": 15.9
       },
       {
         "i": 52,
-        "word": "Animate.",
+        "word": "search",
+        "start": 15.9,
+        "end": 16.14
+      },
+      {
+        "i": 53,
+        "word": "for",
+        "start": 16.14,
+        "end": 16.36
+      },
+      {
+        "i": 54,
+        "word": "a",
+        "start": 16.36,
+        "end": 16.44
+      },
+      {
+        "i": 55,
+        "word": "description",
+        "start": 16.44,
+        "end": 16.8
+      },
+      {
+        "i": 56,
+        "word": "such",
+        "start": 16.8,
+        "end": 17.16
+      },
+      {
+        "i": 57,
+        "word": "as",
+        "start": 17.16,
+        "end": 17.42
+      },
+      {
+        "i": 58,
+        "word": "whoosh,",
+        "start": 17.42,
+        "end": 17.68
+      },
+      {
+        "i": 59,
+        "word": "click,",
         "start": 17.96,
-        "end": 18.58
+        "end": 18.22
+      },
+      {
+        "i": 60,
+        "word": "applause",
+        "start": 18.64,
+        "end": 18.98
+      },
+      {
+        "i": 61,
+        "word": "or",
+        "start": 18.98,
+        "end": 19.32
+      },
+      {
+        "i": 62,
+        "word": "notification.",
+        "start": 19.32,
+        "end": 19.86
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "If audio is hidden in your layout, open apps to find it or look under audio in elements.",
+    "start": 20.76,
+    "end": 25.52,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      63,
+      80
+    ],
+    "words": [
+      {
+        "i": 63,
+        "word": "If",
+        "start": 20.76,
+        "end": 20.96
+      },
+      {
+        "i": 64,
+        "word": "audio",
+        "start": 20.96,
+        "end": 21.28
+      },
+      {
+        "i": 65,
+        "word": "is",
+        "start": 21.28,
+        "end": 21.5
+      },
+      {
+        "i": 66,
+        "word": "hidden",
+        "start": 21.5,
+        "end": 21.68
+      },
+      {
+        "i": 67,
+        "word": "in",
+        "start": 21.68,
+        "end": 21.86
+      },
+      {
+        "i": 68,
+        "word": "your",
+        "start": 21.86,
+        "end": 22.0
+      },
+      {
+        "i": 69,
+        "word": "layout,",
+        "start": 22.0,
+        "end": 22.32
+      },
+      {
+        "i": 70,
+        "word": "open",
+        "start": 22.64,
+        "end": 22.86
+      },
+      {
+        "i": 71,
+        "word": "apps",
+        "start": 22.86,
+        "end": 23.1
+      },
+      {
+        "i": 72,
+        "word": "to",
+        "start": 23.1,
+        "end": 23.3
+      },
+      {
+        "i": 73,
+        "word": "find",
+        "start": 23.3,
+        "end": 23.52
+      },
+      {
+        "i": 74,
+        "word": "it",
+        "start": 23.52,
+        "end": 23.82
+      },
+      {
+        "i": 75,
+        "word": "or",
+        "start": 23.82,
+        "end": 24.18
+      },
+      {
+        "i": 76,
+        "word": "look",
+        "start": 24.18,
+        "end": 24.32
+      },
+      {
+        "i": 77,
+        "word": "under",
+        "start": 24.32,
+        "end": 24.52
+      },
+      {
+        "i": 78,
+        "word": "audio",
+        "start": 24.52,
+        "end": 24.84
+      },
+      {
+        "i": 79,
+        "word": "in",
+        "start": 24.84,
+        "end": 25.14
+      },
+      {
+        "i": 80,
+        "word": "elements.",
+        "start": 25.14,
+        "end": 25.52
       }
     ]
   },
   {
     "id": 6,
-    "text": "Open the Element tab so the effect applies to the shape.",
-    "start": 19.18,
-    "end": 21.9,
+    "text": "Preview an effect, then add it to the design.",
+    "start": 26.78,
+    "end": 28.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      53,
-      63
+      81,
+      89
     ],
     "words": [
       {
-        "i": 53,
-        "word": "Open",
-        "start": 19.18,
-        "end": 19.46
+        "i": 81,
+        "word": "Preview",
+        "start": 26.78,
+        "end": 26.94
       },
       {
-        "i": 54,
-        "word": "the",
-        "start": 19.46,
-        "end": 19.62
+        "i": 82,
+        "word": "an",
+        "start": 26.94,
+        "end": 27.16
       },
       {
-        "i": 55,
-        "word": "Element",
-        "start": 19.62,
-        "end": 19.88
+        "i": 83,
+        "word": "effect,",
+        "start": 27.16,
+        "end": 27.48
       },
       {
-        "i": 56,
-        "word": "tab",
-        "start": 19.88,
-        "end": 20.22
+        "i": 84,
+        "word": "then",
+        "start": 27.76,
+        "end": 27.96
       },
       {
-        "i": 57,
-        "word": "so",
-        "start": 20.22,
-        "end": 20.48
+        "i": 85,
+        "word": "add",
+        "start": 27.96,
+        "end": 28.12
       },
       {
-        "i": 58,
-        "word": "the",
-        "start": 20.48,
-        "end": 20.6
+        "i": 86,
+        "word": "it",
+        "start": 28.12,
+        "end": 28.22
       },
       {
-        "i": 59,
-        "word": "effect",
-        "start": 20.6,
-        "end": 20.86
-      },
-      {
-        "i": 60,
-        "word": "applies",
-        "start": 20.86,
-        "end": 21.24
-      },
-      {
-        "i": 61,
+        "i": 87,
         "word": "to",
-        "start": 21.24,
-        "end": 21.48
+        "start": 28.22,
+        "end": 28.32
       },
       {
-        "i": 62,
+        "i": 88,
         "word": "the",
-        "start": 21.48,
-        "end": 21.62
+        "start": 28.32,
+        "end": 28.44
       },
       {
-        "i": 63,
-        "word": "shape.",
-        "start": 21.62,
-        "end": 21.9
+        "i": 89,
+        "word": "design.",
+        "start": 28.44,
+        "end": 28.78
       }
     ]
   },
   {
     "id": 7,
-    "text": "Preview the available styles and choose a simple entrance, such as Rise or Fade.",
-    "start": 22.64,
-    "end": 27.28,
+    "text": "You can also open uploads and add a sound effect you already have permission to use.",
+    "start": 29.28,
+    "end": 33.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      64,
-      77
+      90,
+      105
     ],
     "words": [
       {
-        "i": 64,
-        "word": "Preview",
-        "start": 22.64,
-        "end": 22.72
+        "i": 90,
+        "word": "You",
+        "start": 29.28,
+        "end": 29.52
       },
       {
-        "i": 65,
-        "word": "the",
-        "start": 22.72,
-        "end": 22.96
+        "i": 91,
+        "word": "can",
+        "start": 29.52,
+        "end": 29.68
       },
       {
-        "i": 66,
-        "word": "available",
-        "start": 22.96,
-        "end": 23.28
+        "i": 92,
+        "word": "also",
+        "start": 29.68,
+        "end": 29.86
       },
       {
-        "i": 67,
-        "word": "styles",
-        "start": 23.28,
-        "end": 23.66
+        "i": 93,
+        "word": "open",
+        "start": 29.86,
+        "end": 30.2
       },
       {
-        "i": 68,
+        "i": 94,
+        "word": "uploads",
+        "start": 30.2,
+        "end": 30.82
+      },
+      {
+        "i": 95,
         "word": "and",
-        "start": 23.66,
-        "end": 24.04
+        "start": 30.82,
+        "end": 30.88
       },
       {
-        "i": 69,
-        "word": "choose",
-        "start": 24.04,
-        "end": 24.32
+        "i": 96,
+        "word": "add",
+        "start": 30.88,
+        "end": 31.04
       },
       {
-        "i": 70,
+        "i": 97,
         "word": "a",
-        "start": 24.32,
-        "end": 24.52
+        "start": 31.04,
+        "end": 31.18
       },
       {
-        "i": 71,
-        "word": "simple",
-        "start": 24.52,
-        "end": 24.82
+        "i": 98,
+        "word": "sound",
+        "start": 31.18,
+        "end": 31.38
       },
       {
-        "i": 72,
-        "word": "entrance,",
-        "start": 24.82,
-        "end": 25.24
+        "i": 99,
+        "word": "effect",
+        "start": 31.38,
+        "end": 31.6
       },
       {
-        "i": 73,
-        "word": "such",
-        "start": 25.66,
-        "end": 25.78
+        "i": 100,
+        "word": "you",
+        "start": 31.6,
+        "end": 31.82
       },
       {
-        "i": 74,
-        "word": "as",
-        "start": 25.78,
-        "end": 26.04
+        "i": 101,
+        "word": "already",
+        "start": 31.82,
+        "end": 32.02
       },
       {
-        "i": 75,
-        "word": "Rise",
-        "start": 26.04,
-        "end": 26.32
+        "i": 102,
+        "word": "have",
+        "start": 32.02,
+        "end": 32.24
       },
       {
-        "i": 76,
-        "word": "or",
-        "start": 26.32,
-        "end": 26.9
+        "i": 103,
+        "word": "permission",
+        "start": 32.24,
+        "end": 32.5
       },
       {
-        "i": 77,
-        "word": "Fade.",
-        "start": 26.9,
-        "end": 27.28
+        "i": 104,
+        "word": "to",
+        "start": 32.5,
+        "end": 32.78
+      },
+      {
+        "i": 105,
+        "word": "use.",
+        "start": 32.78,
+        "end": 33.14
       }
     ]
   },
   {
     "id": 8,
-    "text": "If direction controls appear, choose where the shape should come from.",
-    "start": 27.79,
-    "end": 31.24,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      78,
-      88
-    ],
-    "words": [
-      {
-        "i": 78,
-        "word": "If",
-        "start": 27.79,
-        "end": 28.06
-      },
-      {
-        "i": 79,
-        "word": "direction",
-        "start": 28.06,
-        "end": 28.42
-      },
-      {
-        "i": 80,
-        "word": "controls",
-        "start": 28.42,
-        "end": 28.84
-      },
-      {
-        "i": 81,
-        "word": "appear,",
-        "start": 28.84,
-        "end": 29.26
-      },
-      {
-        "i": 82,
-        "word": "choose",
-        "start": 29.72,
-        "end": 29.84
-      },
-      {
-        "i": 83,
-        "word": "where",
-        "start": 29.84,
-        "end": 30.08
-      },
-      {
-        "i": 84,
-        "word": "the",
-        "start": 30.08,
-        "end": 30.24
-      },
-      {
-        "i": 85,
-        "word": "shape",
-        "start": 30.24,
-        "end": 30.42
-      },
-      {
-        "i": 86,
-        "word": "should",
-        "start": 30.42,
-        "end": 30.68
-      },
-      {
-        "i": 87,
-        "word": "come",
-        "start": 30.68,
-        "end": 30.9
-      },
-      {
-        "i": 88,
-        "word": "from.",
-        "start": 30.9,
-        "end": 31.24
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "text": "Adjust the speed or duration controls available for that effect.",
-    "start": 31.98,
-    "end": 34.82,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      89,
-      98
-    ],
-    "words": [
-      {
-        "i": 89,
-        "word": "Adjust",
-        "start": 31.98,
-        "end": 32.0
-      },
-      {
-        "i": 90,
-        "word": "the",
-        "start": 32.0,
-        "end": 32.26
-      },
-      {
-        "i": 91,
-        "word": "speed",
-        "start": 32.26,
-        "end": 32.56
-      },
-      {
-        "i": 92,
-        "word": "or",
-        "start": 32.56,
-        "end": 32.74
-      },
-      {
-        "i": 93,
-        "word": "duration",
-        "start": 32.74,
-        "end": 33.1
-      },
-      {
-        "i": 94,
-        "word": "controls",
-        "start": 33.1,
-        "end": 33.62
-      },
-      {
-        "i": 95,
-        "word": "available",
-        "start": 33.62,
-        "end": 33.96
-      },
-      {
-        "i": 96,
-        "word": "for",
-        "start": 33.96,
-        "end": 34.3
-      },
-      {
-        "i": 97,
-        "word": "that",
-        "start": 34.3,
-        "end": 34.46
-      },
-      {
-        "i": 98,
-        "word": "effect.",
-        "start": 34.46,
-        "end": 34.82
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "text": "Play the design to see the result.",
-    "start": 35.46,
-    "end": 37.04,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      99,
-      105
-    ],
-    "words": [
-      {
-        "i": 99,
-        "word": "Play",
-        "start": 35.46,
-        "end": 35.66
-      },
-      {
-        "i": 100,
-        "word": "the",
-        "start": 35.66,
-        "end": 35.82
-      },
-      {
-        "i": 101,
-        "word": "design",
-        "start": 35.82,
-        "end": 36.12
-      },
-      {
-        "i": 102,
-        "word": "to",
-        "start": 36.12,
-        "end": 36.38
-      },
-      {
-        "i": 103,
-        "word": "see",
-        "start": 36.38,
-        "end": 36.58
-      },
-      {
-        "i": 104,
-        "word": "the",
-        "start": 36.58,
-        "end": 36.72
-      },
-      {
-        "i": 105,
-        "word": "result.",
-        "start": 36.72,
-        "end": 37.04
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "text": "If the movement feels too strong, switch to a more subtle animation rather than making the shape harder to follow.",
-    "start": 37.76,
-    "end": 43.38,
+    "text": "Find the new audio clip on the timeline, drag it into position so the sound matches the action, such as the instant a title lands or a button is clicked.",
+    "start": 33.78,
+    "end": 41.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       106,
-      125
+      135
     ],
     "words": [
       {
         "i": 106,
-        "word": "If",
-        "start": 37.76,
-        "end": 37.88
+        "word": "Find",
+        "start": 33.78,
+        "end": 33.96
       },
       {
         "i": 107,
         "word": "the",
-        "start": 37.88,
-        "end": 38.0
+        "start": 33.96,
+        "end": 34.12
       },
       {
         "i": 108,
-        "word": "movement",
-        "start": 38.0,
-        "end": 38.22
+        "word": "new",
+        "start": 34.12,
+        "end": 34.32
       },
       {
         "i": 109,
-        "word": "feels",
-        "start": 38.22,
-        "end": 38.52
+        "word": "audio",
+        "start": 34.32,
+        "end": 34.64
       },
       {
         "i": 110,
-        "word": "too",
-        "start": 38.52,
-        "end": 38.78
+        "word": "clip",
+        "start": 34.64,
+        "end": 34.86
       },
       {
         "i": 111,
-        "word": "strong,",
-        "start": 38.78,
-        "end": 39.16
+        "word": "on",
+        "start": 34.86,
+        "end": 35.0
       },
       {
         "i": 112,
-        "word": "switch",
-        "start": 39.6,
-        "end": 39.68
+        "word": "the",
+        "start": 35.0,
+        "end": 35.12
       },
       {
         "i": 113,
-        "word": "to",
-        "start": 39.68,
-        "end": 39.9
+        "word": "timeline,",
+        "start": 35.12,
+        "end": 35.52
       },
       {
         "i": 114,
-        "word": "a",
-        "start": 39.9,
-        "end": 40.0
+        "word": "drag",
+        "start": 36.06,
+        "end": 36.28
       },
       {
         "i": 115,
-        "word": "more",
-        "start": 40.0,
-        "end": 40.16
+        "word": "it",
+        "start": 36.28,
+        "end": 36.4
       },
       {
         "i": 116,
-        "word": "subtle",
+        "word": "into",
+        "start": 36.4,
+        "end": 36.56
+      },
+      {
+        "i": 117,
+        "word": "position",
+        "start": 36.56,
+        "end": 36.82
+      },
+      {
+        "i": 118,
+        "word": "so",
+        "start": 36.82,
+        "end": 37.08
+      },
+      {
+        "i": 119,
+        "word": "the",
+        "start": 37.08,
+        "end": 37.24
+      },
+      {
+        "i": 120,
+        "word": "sound",
+        "start": 37.24,
+        "end": 37.48
+      },
+      {
+        "i": 121,
+        "word": "matches",
+        "start": 37.48,
+        "end": 37.76
+      },
+      {
+        "i": 122,
+        "word": "the",
+        "start": 37.76,
+        "end": 37.94
+      },
+      {
+        "i": 123,
+        "word": "action,",
+        "start": 37.94,
+        "end": 38.28
+      },
+      {
+        "i": 124,
+        "word": "such",
+        "start": 38.6,
+        "end": 38.76
+      },
+      {
+        "i": 125,
+        "word": "as",
+        "start": 38.76,
+        "end": 38.94
+      },
+      {
+        "i": 126,
+        "word": "the",
+        "start": 38.94,
+        "end": 39.06
+      },
+      {
+        "i": 127,
+        "word": "instant",
+        "start": 39.06,
+        "end": 39.38
+      },
+      {
+        "i": 128,
+        "word": "a",
+        "start": 39.38,
+        "end": 39.6
+      },
+      {
+        "i": 129,
+        "word": "title",
+        "start": 39.6,
+        "end": 39.88
+      },
+      {
+        "i": 130,
+        "word": "lands",
+        "start": 39.88,
+        "end": 40.16
+      },
+      {
+        "i": 131,
+        "word": "or",
         "start": 40.16,
         "end": 40.48
       },
       {
-        "i": 117,
-        "word": "animation",
+        "i": 132,
+        "word": "a",
         "start": 40.48,
-        "end": 41.06
+        "end": 40.6
       },
       {
-        "i": 118,
-        "word": "rather",
-        "start": 41.06,
-        "end": 41.5
+        "i": 133,
+        "word": "button",
+        "start": 40.6,
+        "end": 40.76
       },
       {
-        "i": 119,
-        "word": "than",
-        "start": 41.5,
-        "end": 41.76
+        "i": 134,
+        "word": "is",
+        "start": 40.76,
+        "end": 40.96
       },
       {
-        "i": 120,
-        "word": "making",
-        "start": 41.76,
-        "end": 41.94
-      },
+        "i": 135,
+        "word": "clicked.",
+        "start": 40.96,
+        "end": 41.26
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Trim any unnecessary silence from the effect.",
+    "start": 41.9,
+    "end": 44.36,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      136,
+      142
+    ],
+    "words": [
       {
-        "i": 121,
-        "word": "the",
-        "start": 41.94,
+        "i": 136,
+        "word": "Trim",
+        "start": 41.9,
         "end": 42.2
       },
       {
-        "i": 122,
-        "word": "shape",
+        "i": 137,
+        "word": "any",
         "start": 42.2,
-        "end": 42.44
+        "end": 42.52
       },
       {
-        "i": 123,
-        "word": "harder",
-        "start": 42.44,
-        "end": 42.88
+        "i": 138,
+        "word": "unnecessary",
+        "start": 42.52,
+        "end": 43.06
       },
       {
-        "i": 124,
-        "word": "to",
-        "start": 42.88,
-        "end": 43.12
+        "i": 139,
+        "word": "silence",
+        "start": 43.06,
+        "end": 43.64
       },
       {
-        "i": 125,
-        "word": "follow.",
-        "start": 43.12,
-        "end": 43.38
+        "i": 140,
+        "word": "from",
+        "start": 43.64,
+        "end": 43.88
+      },
+      {
+        "i": 141,
+        "word": "the",
+        "start": 43.88,
+        "end": 44.0
+      },
+      {
+        "i": 142,
+        "word": "effect.",
+        "start": 44.0,
+        "end": 44.36
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Select the audio and lower its volume if it is much louder than the rest of the video.",
+    "start": 44.9,
+    "end": 48.48,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      143,
+      160
+    ],
+    "words": [
+      {
+        "i": 143,
+        "word": "Select",
+        "start": 44.9,
+        "end": 45.14
+      },
+      {
+        "i": 144,
+        "word": "the",
+        "start": 45.14,
+        "end": 45.32
+      },
+      {
+        "i": 145,
+        "word": "audio",
+        "start": 45.32,
+        "end": 45.56
+      },
+      {
+        "i": 146,
+        "word": "and",
+        "start": 45.56,
+        "end": 45.88
+      },
+      {
+        "i": 147,
+        "word": "lower",
+        "start": 45.88,
+        "end": 46.08
+      },
+      {
+        "i": 148,
+        "word": "its",
+        "start": 46.08,
+        "end": 46.32
+      },
+      {
+        "i": 149,
+        "word": "volume",
+        "start": 46.32,
+        "end": 46.62
+      },
+      {
+        "i": 150,
+        "word": "if",
+        "start": 46.62,
+        "end": 46.86
+      },
+      {
+        "i": 151,
+        "word": "it",
+        "start": 46.86,
+        "end": 46.94
+      },
+      {
+        "i": 152,
+        "word": "is",
+        "start": 46.94,
+        "end": 47.06
+      },
+      {
+        "i": 153,
+        "word": "much",
+        "start": 47.06,
+        "end": 47.22
+      },
+      {
+        "i": 154,
+        "word": "louder",
+        "start": 47.22,
+        "end": 47.5
+      },
+      {
+        "i": 155,
+        "word": "than",
+        "start": 47.5,
+        "end": 47.7
+      },
+      {
+        "i": 156,
+        "word": "the",
+        "start": 47.7,
+        "end": 47.82
+      },
+      {
+        "i": 157,
+        "word": "rest",
+        "start": 47.82,
+        "end": 47.98
+      },
+      {
+        "i": 158,
+        "word": "of",
+        "start": 47.98,
+        "end": 48.12
+      },
+      {
+        "i": 159,
+        "word": "the",
+        "start": 48.12,
+        "end": 48.2
+      },
+      {
+        "i": 160,
+        "word": "video.",
+        "start": 48.2,
+        "end": 48.48
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Here's the part many tutorials skip.",
+    "start": 49.12,
+    "end": 50.82,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      161,
+      166
+    ],
+    "words": [
+      {
+        "i": 161,
+        "word": "Here's",
+        "start": 49.12,
+        "end": 49.32
+      },
+      {
+        "i": 162,
+        "word": "the",
+        "start": 49.32,
+        "end": 49.42
+      },
+      {
+        "i": 163,
+        "word": "part",
+        "start": 49.42,
+        "end": 49.6
+      },
+      {
+        "i": 164,
+        "word": "many",
+        "start": 49.6,
+        "end": 49.88
+      },
+      {
+        "i": 165,
+        "word": "tutorials",
+        "start": 49.88,
+        "end": 50.44
+      },
+      {
+        "i": 166,
+        "word": "skip.",
+        "start": 50.44,
+        "end": 50.82
       }
     ]
   },
   {
     "id": 12,
-    "text": "To make two shapes move together, select both while holding Shift and click Group.",
-    "start": 44.02,
-    "end": 48.32,
+    "text": "Align the noticeable sound in the recording with the action, rather than automatically aligning the beginning of the file.",
+    "start": 51.38,
+    "end": 57.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      126,
-      139
+      167,
+      185
     ],
     "words": [
       {
-        "i": 126,
-        "word": "To",
-        "start": 44.02,
-        "end": 44.18
+        "i": 167,
+        "word": "Align",
+        "start": 51.38,
+        "end": 51.66
       },
       {
-        "i": 127,
-        "word": "make",
-        "start": 44.18,
-        "end": 44.32
+        "i": 168,
+        "word": "the",
+        "start": 51.66,
+        "end": 51.84
       },
       {
-        "i": 128,
-        "word": "two",
-        "start": 44.32,
-        "end": 44.64
+        "i": 169,
+        "word": "noticeable",
+        "start": 51.84,
+        "end": 52.22
       },
       {
-        "i": 129,
-        "word": "shapes",
-        "start": 44.64,
-        "end": 44.92
+        "i": 170,
+        "word": "sound",
+        "start": 52.22,
+        "end": 52.66
       },
       {
-        "i": 130,
-        "word": "move",
-        "start": 44.92,
-        "end": 45.16
+        "i": 171,
+        "word": "in",
+        "start": 52.66,
+        "end": 52.9
       },
       {
-        "i": 131,
-        "word": "together,",
-        "start": 45.16,
-        "end": 45.58
+        "i": 172,
+        "word": "the",
+        "start": 52.9,
+        "end": 53.0
       },
       {
-        "i": 132,
-        "word": "select",
-        "start": 45.96,
-        "end": 46.14
+        "i": 173,
+        "word": "recording",
+        "start": 53.0,
+        "end": 53.36
       },
       {
-        "i": 133,
-        "word": "both",
-        "start": 46.14,
-        "end": 46.42
+        "i": 174,
+        "word": "with",
+        "start": 53.36,
+        "end": 53.58
       },
       {
-        "i": 134,
-        "word": "while",
-        "start": 46.42,
-        "end": 46.66
+        "i": 175,
+        "word": "the",
+        "start": 53.58,
+        "end": 53.74
       },
       {
-        "i": 135,
-        "word": "holding",
-        "start": 46.66,
-        "end": 47.02
+        "i": 176,
+        "word": "action,",
+        "start": 53.74,
+        "end": 54.12
       },
       {
-        "i": 136,
-        "word": "Shift",
-        "start": 47.02,
-        "end": 47.26
+        "i": 177,
+        "word": "rather",
+        "start": 54.52,
+        "end": 54.8
       },
       {
-        "i": 137,
-        "word": "and",
-        "start": 47.26,
-        "end": 47.82
+        "i": 178,
+        "word": "than",
+        "start": 54.8,
+        "end": 55.14
       },
       {
-        "i": 138,
-        "word": "click",
-        "start": 47.82,
-        "end": 48.06
+        "i": 179,
+        "word": "automatically",
+        "start": 55.14,
+        "end": 55.7
       },
       {
-        "i": 139,
-        "word": "Group.",
-        "start": 48.06,
-        "end": 48.32
+        "i": 180,
+        "word": "aligning",
+        "start": 55.7,
+        "end": 56.32
+      },
+      {
+        "i": 181,
+        "word": "the",
+        "start": 56.32,
+        "end": 56.42
+      },
+      {
+        "i": 182,
+        "word": "beginning",
+        "start": 56.42,
+        "end": 56.66
+      },
+      {
+        "i": 183,
+        "word": "of",
+        "start": 56.66,
+        "end": 56.88
+      },
+      {
+        "i": 184,
+        "word": "the",
+        "start": 56.88,
+        "end": 57.0
+      },
+      {
+        "i": 185,
+        "word": "file.",
+        "start": 57.0,
+        "end": 57.3
       }
     ]
   },
   {
     "id": 13,
-    "text": "Then animate the group.",
-    "start": 48.94,
-    "end": 49.98,
+    "text": "A whoosh may contain a quiet lead-in before its strongest moment.",
+    "start": 57.3,
+    "end": 61.04,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      140,
-      143
+      186,
+      197
     ],
     "words": [
       {
-        "i": 140,
-        "word": "Then",
-        "start": 48.94,
-        "end": 49.1
+        "i": 186,
+        "word": "A",
+        "start": 57.3,
+        "end": 57.9
       },
       {
-        "i": 141,
-        "word": "animate",
-        "start": 49.1,
-        "end": 49.54
+        "i": 187,
+        "word": "whoosh",
+        "start": 57.9,
+        "end": 58.2
       },
       {
-        "i": 142,
-        "word": "the",
-        "start": 49.54,
-        "end": 49.76
+        "i": 188,
+        "word": "may",
+        "start": 58.2,
+        "end": 58.42
       },
       {
-        "i": 143,
-        "word": "group.",
-        "start": 49.76,
-        "end": 49.98
+        "i": 189,
+        "word": "contain",
+        "start": 58.42,
+        "end": 58.72
+      },
+      {
+        "i": 190,
+        "word": "a",
+        "start": 58.72,
+        "end": 58.92
+      },
+      {
+        "i": 191,
+        "word": "quiet",
+        "start": 58.92,
+        "end": 59.24
+      },
+      {
+        "i": 192,
+        "word": "lead",
+        "start": 59.24,
+        "end": 59.58
+      },
+      {
+        "i": 193,
+        "word": "-in",
+        "start": 59.58,
+        "end": 59.78
+      },
+      {
+        "i": 194,
+        "word": "before",
+        "start": 59.78,
+        "end": 60.08
+      },
+      {
+        "i": 195,
+        "word": "its",
+        "start": 60.08,
+        "end": 60.26
+      },
+      {
+        "i": 196,
+        "word": "strongest",
+        "start": 60.26,
+        "end": 60.6
+      },
+      {
+        "i": 197,
+        "word": "moment.",
+        "start": 60.6,
+        "end": 61.04
       }
     ]
   },
   {
     "id": 14,
-    "text": "To give them different entrances, keep them separate and animate each one individually.",
-    "start": 50.52,
-    "end": 54.96,
+    "text": "Replay a few seconds before and after the effect.",
+    "start": 61.84,
+    "end": 64.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      144,
-      156
+      198,
+      206
     ],
     "words": [
       {
-        "i": 144,
-        "word": "To",
-        "start": 50.52,
-        "end": 50.68
+        "i": 198,
+        "word": "Replay",
+        "start": 61.84,
+        "end": 62.02
       },
       {
-        "i": 145,
-        "word": "give",
-        "start": 50.68,
-        "end": 50.8
+        "i": 199,
+        "word": "a",
+        "start": 62.02,
+        "end": 62.22
       },
       {
-        "i": 146,
-        "word": "them",
-        "start": 50.8,
-        "end": 50.96
+        "i": 200,
+        "word": "few",
+        "start": 62.22,
+        "end": 62.38
       },
       {
-        "i": 147,
-        "word": "different",
-        "start": 50.96,
-        "end": 51.24
+        "i": 201,
+        "word": "seconds",
+        "start": 62.38,
+        "end": 62.66
       },
       {
-        "i": 148,
-        "word": "entrances,",
-        "start": 51.24,
-        "end": 51.78
+        "i": 202,
+        "word": "before",
+        "start": 62.66,
+        "end": 63.06
       },
       {
-        "i": 149,
-        "word": "keep",
-        "start": 52.18,
-        "end": 52.34
-      },
-      {
-        "i": 150,
-        "word": "them",
-        "start": 52.34,
-        "end": 52.58
-      },
-      {
-        "i": 151,
-        "word": "separate",
-        "start": 52.58,
-        "end": 52.92
-      },
-      {
-        "i": 152,
+        "i": 203,
         "word": "and",
-        "start": 52.92,
-        "end": 53.36
+        "start": 63.06,
+        "end": 63.4
       },
       {
-        "i": 153,
-        "word": "animate",
-        "start": 53.36,
-        "end": 53.76
+        "i": 204,
+        "word": "after",
+        "start": 63.4,
+        "end": 63.6
       },
       {
-        "i": 154,
-        "word": "each",
-        "start": 53.76,
-        "end": 54.12
+        "i": 205,
+        "word": "the",
+        "start": 63.6,
+        "end": 63.76
       },
       {
-        "i": 155,
-        "word": "one",
-        "start": 54.12,
-        "end": 54.5
-      },
-      {
-        "i": 156,
-        "word": "individually.",
-        "start": 54.5,
-        "end": 54.96
+        "i": 206,
+        "word": "effect.",
+        "start": 63.76,
+        "end": 64.1
       }
     ]
   },
   {
     "id": 15,
-    "text": "In a video design, use their timeline layers to stagger when the shapes appear.",
-    "start": 55.68,
-    "end": 59.94,
+    "text": "Listen with the narration and music playing so you can judge the actual mix.",
+    "start": 64.72,
+    "end": 68.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      157,
-      170
+      207,
+      220
     ],
     "words": [
       {
-        "i": 157,
-        "word": "In",
-        "start": 55.68,
-        "end": 56.02
+        "i": 207,
+        "word": "Listen",
+        "start": 64.72,
+        "end": 64.96
       },
       {
-        "i": 158,
-        "word": "a",
-        "start": 56.02,
-        "end": 56.12
+        "i": 208,
+        "word": "with",
+        "start": 64.96,
+        "end": 65.2
       },
       {
-        "i": 159,
-        "word": "video",
-        "start": 56.12,
-        "end": 56.32
-      },
-      {
-        "i": 160,
-        "word": "design,",
-        "start": 56.32,
-        "end": 56.7
-      },
-      {
-        "i": 161,
-        "word": "use",
-        "start": 56.92,
-        "end": 57.14
-      },
-      {
-        "i": 162,
-        "word": "their",
-        "start": 57.14,
-        "end": 57.38
-      },
-      {
-        "i": 163,
-        "word": "timeline",
-        "start": 57.38,
-        "end": 57.74
-      },
-      {
-        "i": 164,
-        "word": "layers",
-        "start": 57.74,
-        "end": 58.16
-      },
-      {
-        "i": 165,
-        "word": "to",
-        "start": 58.16,
-        "end": 58.38
-      },
-      {
-        "i": 166,
-        "word": "stagger",
-        "start": 58.38,
-        "end": 58.72
-      },
-      {
-        "i": 167,
-        "word": "when",
-        "start": 58.72,
-        "end": 59.1
-      },
-      {
-        "i": 168,
+        "i": 209,
         "word": "the",
-        "start": 59.1,
-        "end": 59.28
+        "start": 65.2,
+        "end": 65.32
       },
       {
-        "i": 169,
-        "word": "shapes",
-        "start": 59.28,
-        "end": 59.52
+        "i": 210,
+        "word": "narration",
+        "start": 65.32,
+        "end": 65.68
       },
       {
-        "i": 170,
-        "word": "appear.",
-        "start": 59.52,
-        "end": 59.94
+        "i": 211,
+        "word": "and",
+        "start": 65.68,
+        "end": 66.06
+      },
+      {
+        "i": 212,
+        "word": "music",
+        "start": 66.06,
+        "end": 66.32
+      },
+      {
+        "i": 213,
+        "word": "playing",
+        "start": 66.32,
+        "end": 66.68
+      },
+      {
+        "i": 214,
+        "word": "so",
+        "start": 66.68,
+        "end": 66.94
+      },
+      {
+        "i": 215,
+        "word": "you",
+        "start": 66.94,
+        "end": 67.06
+      },
+      {
+        "i": 216,
+        "word": "can",
+        "start": 67.06,
+        "end": 67.24
+      },
+      {
+        "i": 217,
+        "word": "judge",
+        "start": 67.24,
+        "end": 67.44
+      },
+      {
+        "i": 218,
+        "word": "the",
+        "start": 67.44,
+        "end": 67.64
+      },
+      {
+        "i": 219,
+        "word": "actual",
+        "start": 67.64,
+        "end": 68.06
+      },
+      {
+        "i": 220,
+        "word": "mix.",
+        "start": 68.06,
+        "end": 68.34
       }
     ]
   },
   {
     "id": 16,
-    "text": "Try introducing the circle first and a second shape one second later.",
-    "start": 60.56,
-    "end": 64.74,
+    "text": "When the timing sounds right, export as an MP4 video to keep the sound in the finished design.",
+    "start": 68.96,
+    "end": 73.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      171,
-      182
+      221,
+      238
     ],
     "words": [
-      {
-        "i": 171,
-        "word": "Try",
-        "start": 60.56,
-        "end": 60.82
-      },
-      {
-        "i": 172,
-        "word": "introducing",
-        "start": 60.82,
-        "end": 61.3
-      },
-      {
-        "i": 173,
-        "word": "the",
-        "start": 61.3,
-        "end": 61.56
-      },
-      {
-        "i": 174,
-        "word": "circle",
-        "start": 61.56,
-        "end": 61.86
-      },
-      {
-        "i": 175,
-        "word": "first",
-        "start": 61.86,
-        "end": 62.2
-      },
-      {
-        "i": 176,
-        "word": "and",
-        "start": 62.2,
-        "end": 62.78
-      },
-      {
-        "i": 177,
-        "word": "a",
-        "start": 62.78,
-        "end": 62.9
-      },
-      {
-        "i": 178,
-        "word": "second",
-        "start": 62.9,
-        "end": 63.14
-      },
-      {
-        "i": 179,
-        "word": "shape",
-        "start": 63.14,
-        "end": 63.48
-      },
-      {
-        "i": 180,
-        "word": "one",
-        "start": 63.48,
-        "end": 63.94
-      },
-      {
-        "i": 181,
-        "word": "second",
-        "start": 63.94,
-        "end": 64.22
-      },
-      {
-        "i": 182,
-        "word": "later.",
-        "start": 64.22,
-        "end": 64.74
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "text": "Here's the part many tutorials skip.",
-    "start": 65.58,
-    "end": 67.52,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      183,
-      188
-    ],
-    "words": [
-      {
-        "i": 183,
-        "word": "Here's",
-        "start": 65.58,
-        "end": 65.82
-      },
-      {
-        "i": 184,
-        "word": "the",
-        "start": 65.82,
-        "end": 65.92
-      },
-      {
-        "i": 185,
-        "word": "part",
-        "start": 65.92,
-        "end": 66.1
-      },
-      {
-        "i": 186,
-        "word": "many",
-        "start": 66.1,
-        "end": 66.44
-      },
-      {
-        "i": 187,
-        "word": "tutorials",
-        "start": 66.44,
-        "end": 67.1
-      },
-      {
-        "i": 188,
-        "word": "skip.",
-        "start": 67.1,
-        "end": 67.52
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "text": "Grouped shapes share the group's movement.",
-    "start": 68.34,
-    "end": 70.26,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      189,
-      194
-    ],
-    "words": [
-      {
-        "i": 189,
-        "word": "Grouped",
-        "start": 68.34,
-        "end": 68.58
-      },
-      {
-        "i": 190,
-        "word": "shapes",
-        "start": 68.58,
-        "end": 68.74
-      },
-      {
-        "i": 191,
-        "word": "share",
-        "start": 68.74,
-        "end": 69.3
-      },
-      {
-        "i": 192,
-        "word": "the",
-        "start": 69.3,
-        "end": 69.52
-      },
-      {
-        "i": 193,
-        "word": "group's",
-        "start": 69.52,
-        "end": 69.92
-      },
-      {
-        "i": 194,
-        "word": "movement.",
-        "start": 69.92,
-        "end": 70.26
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "text": "If you need independent motion or timing, ungroup them before adjusting the individual shapes.",
-    "start": 71.0,
-    "end": 76.16,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      195,
-      208
-    ],
-    "words": [
-      {
-        "i": 195,
-        "word": "If",
-        "start": 71.0,
-        "end": 71.16
-      },
-      {
-        "i": 196,
-        "word": "you",
-        "start": 71.16,
-        "end": 71.28
-      },
-      {
-        "i": 197,
-        "word": "need",
-        "start": 71.28,
-        "end": 71.46
-      },
-      {
-        "i": 198,
-        "word": "independent",
-        "start": 71.46,
-        "end": 71.96
-      },
-      {
-        "i": 199,
-        "word": "motion",
-        "start": 71.96,
-        "end": 72.4
-      },
-      {
-        "i": 200,
-        "word": "or",
-        "start": 72.4,
-        "end": 72.76
-      },
-      {
-        "i": 201,
-        "word": "timing,",
-        "start": 72.76,
-        "end": 73.2
-      },
-      {
-        "i": 202,
-        "word": "ungroup",
-        "start": 73.74,
-        "end": 74.02
-      },
-      {
-        "i": 203,
-        "word": "them",
-        "start": 74.02,
-        "end": 74.26
-      },
-      {
-        "i": 204,
-        "word": "before",
-        "start": 74.26,
-        "end": 74.56
-      },
-      {
-        "i": 205,
-        "word": "adjusting",
-        "start": 74.56,
-        "end": 74.96
-      },
-      {
-        "i": 206,
-        "word": "the",
-        "start": 74.96,
-        "end": 75.18
-      },
-      {
-        "i": 207,
-        "word": "individual",
-        "start": 75.18,
-        "end": 75.62
-      },
-      {
-        "i": 208,
-        "word": "shapes.",
-        "start": 75.62,
-        "end": 76.16
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "text": "Preview the complete sequence and download it as MP4 Video.",
-    "start": 76.88,
-    "end": 80.42,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      209,
-      218
-    ],
-    "words": [
-      {
-        "i": 209,
-        "word": "Preview",
-        "start": 76.88,
-        "end": 77.02
-      },
-      {
-        "i": 210,
-        "word": "the",
-        "start": 77.02,
-        "end": 77.3
-      },
-      {
-        "i": 211,
-        "word": "complete",
-        "start": 77.3,
-        "end": 77.64
-      },
-      {
-        "i": 212,
-        "word": "sequence",
-        "start": 77.64,
-        "end": 78.08
-      },
-      {
-        "i": 213,
-        "word": "and",
-        "start": 78.08,
-        "end": 78.42
-      },
-      {
-        "i": 214,
-        "word": "download",
-        "start": 78.42,
-        "end": 78.78
-      },
-      {
-        "i": 215,
-        "word": "it",
-        "start": 78.78,
-        "end": 79.02
-      },
-      {
-        "i": 216,
-        "word": "as",
-        "start": 79.02,
-        "end": 79.24
-      },
-      {
-        "i": 217,
-        "word": "MP4",
-        "start": 79.24,
-        "end": 80.08
-      },
-      {
-        "i": 218,
-        "word": "Video.",
-        "start": 80.08,
-        "end": 80.42
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "text": "Use GIF for a short animation that does not need audio.",
-    "start": 80.42,
-    "end": 84.02,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      219,
-      229
-    ],
-    "words": [
-      {
-        "i": 219,
-        "word": "Use",
-        "start": 80.42,
-        "end": 81.4
-      },
-      {
-        "i": 220,
-        "word": "GIF",
-        "start": 81.4,
-        "end": 81.6
-      },
       {
         "i": 221,
-        "word": "for",
-        "start": 81.6,
-        "end": 81.84
+        "word": "When",
+        "start": 68.96,
+        "end": 69.06
       },
       {
         "i": 222,
-        "word": "a",
-        "start": 81.84,
-        "end": 81.96
+        "word": "the",
+        "start": 69.06,
+        "end": 69.18
       },
       {
         "i": 223,
-        "word": "short",
-        "start": 81.96,
-        "end": 82.18
+        "word": "timing",
+        "start": 69.18,
+        "end": 69.4
       },
       {
         "i": 224,
-        "word": "animation",
-        "start": 82.18,
-        "end": 82.54
+        "word": "sounds",
+        "start": 69.4,
+        "end": 69.7
       },
       {
         "i": 225,
-        "word": "that",
-        "start": 82.54,
-        "end": 82.94
+        "word": "right,",
+        "start": 69.7,
+        "end": 70.02
       },
       {
         "i": 226,
-        "word": "does",
-        "start": 82.94,
-        "end": 83.08
+        "word": "export",
+        "start": 70.3,
+        "end": 70.56
       },
       {
         "i": 227,
-        "word": "not",
-        "start": 83.08,
-        "end": 83.28
+        "word": "as",
+        "start": 70.56,
+        "end": 70.82
       },
       {
         "i": 228,
-        "word": "need",
-        "start": 83.28,
-        "end": 83.56
+        "word": "an",
+        "start": 70.82,
+        "end": 70.98
       },
       {
         "i": 229,
-        "word": "audio.",
-        "start": 83.56,
-        "end": 84.02
+        "word": "MP4",
+        "start": 70.98,
+        "end": 71.68
+      },
+      {
+        "i": 230,
+        "word": "video",
+        "start": 71.68,
+        "end": 72.0
+      },
+      {
+        "i": 231,
+        "word": "to",
+        "start": 72.0,
+        "end": 72.42
+      },
+      {
+        "i": 232,
+        "word": "keep",
+        "start": 72.42,
+        "end": 72.62
+      },
+      {
+        "i": 233,
+        "word": "the",
+        "start": 72.62,
+        "end": 72.8
+      },
+      {
+        "i": 234,
+        "word": "sound",
+        "start": 72.8,
+        "end": 73.04
+      },
+      {
+        "i": 235,
+        "word": "in",
+        "start": 73.04,
+        "end": 73.2
+      },
+      {
+        "i": 236,
+        "word": "the",
+        "start": 73.2,
+        "end": 73.32
+      },
+      {
+        "i": 237,
+        "word": "finished",
+        "start": 73.32,
+        "end": 73.56
+      },
+      {
+        "i": 238,
+        "word": "design.",
+        "start": 73.56,
+        "end": 73.98
       }
     ]
   }
