@@ -1,16 +1,6 @@
-# analyze notes (script-02)
-
-- No click log: every click time was read from frames (±0.1-0.2 s). Confidence per action is in actions.json.
-- **x/y are approximate** for most actions and not checked with a crosshair (the recorder's auto-zoom makes
-  the recording-pixel position change between frames). The sync step therefore uses `no_ripple` for all clicks.
-- **Baked-in recorder zoom**: the footage is already auto-zoomed on most clicks (e.g. 43.5, 58.5, 89.4, 111, 165, 177, 277 s).
-  The plan adds no zooms of its own.
-- The recording is 291 s, the voiceover 81 s: the footage has long idle stretches (waiting on the slide 18-32 s,
-  hovering in the animate panel 141-155 s, trying animations 201-250 s).
-- Low-confidence items: A6 (the Edit panel was already open when Edit was clicked), A7 (the HR row removal moment),
-  A8/A9 (colour swatch + hex field, the picker is only visible zoomed), A12, A15, A16, A18, A22.
-- Narration vs recording: "search for Charts" - the recording browses the Apps grid and clicks the Charts icon, nothing is typed.
-  "Preview the slide in presentation mode" - no presentation mode was recorded; the closest is the animation
-  preview playing on page 2 (263-268 s) (A22).
-- Drag-resize of the chart at 156-162 s is not narrated and was undone: junk (cut, no fast-forward).
-- The recording ends with the Windows tray popup at 288 s: not used.
+# Analyze notes (script-02)
+- Only the 8 clicks the narration names were logged as actions (A1-A8); x/y are placeholders (960,540) because the plan has no zooms or ripples (the recorder baked in its own zooms, see docs/lessons.md 2026-10-10/11).
+- Click times are read from single frames, +-0.1 s. Medium confidence: A3 (voice-over item, 35.6: hover seen 34.6-35.2, timeline add visible 36.8) and A4 (Play, 49.5), A7 (Generate, 102.7: progress visible at 103.0).
+- Caption generation finishes at ~113.0 (E40); a contact-sheet tile labelled 111.8 looked finished but single frames at 111.4-112.5 still show progress.
+- Not in the recording: Text > dynamic text (L6; the Captions toolbar button was used instead), upload-files dialog (voiceover was already uploaded), opening the downloaded file (L19).
+- Long idle spans in the source (3.1-11.3, 41-45.5, 64-67.5, 114-122, 127-132, 160-179, 198-207) are not used.
