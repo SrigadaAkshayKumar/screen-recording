@@ -1,10 +1,8 @@
-# Analyze notes
-No clicks.json: all times/positions come from contact sheets, so every position is approximate.
-The recorder auto-zooms (baked-in zoom in many stretches), so the plan uses no zooms and no ripples.
-- Positions for A4, A5, A9, A14 are low confidence (panel scrolled / recorder-zoomed frames).
-- A4/A5 are hover-previews and effect picks in the Animate panel; the exact click frame was not isolated.
-- A11 drag on the timeline (A11 in this file is the timeline drag) is a guess from the 245-262 s span.
-- Narration L6 (background colour): no colour change found in the recording (page clicked at ~56-60 s only).
-- Narration "upload files / choose your logo": the file dialog is not visible; only the logo appearing in Uploads.
-- Narration L16-L19 (PNG is one image): no matching action; footage after the tagline is reused.
-- No junk marked; dead time handled with cuts/ff in sync.json.
+# Analyze notes (script-06)
+
+- Recording is 257 s for a 73 s voiceover; it has the recorder's baked-in auto-zoom (camera moves on clicks), so no plan zooms and no ripples are used (docs/lessons.md script-18).
+- ~60 % of the recording is static (idle between steps); the plan only uses spans where the screen moves.
+- Action coordinates/times were read from contact-sheet tiles of zoomed footage, NOT verified on single frames: all low confidence except A6. Many more small actions (trim handle drags, playhead moves) exist and are not listed.
+- The recording does not follow the script's step order exactly: it trims/plays/adds the second clip in a different order (second-clip trim at 105-111 s happens after the drag at 102 s) - the plan follows the audio order.
+- Retake-like material 126-160 s (text box appears at 132-136 s, white blank preview 156-160 s) is not used.
+- Script has no "(On screen:)" notes.
