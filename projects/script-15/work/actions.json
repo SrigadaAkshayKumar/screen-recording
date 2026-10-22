@@ -3,7 +3,7 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 225.967
+  "duration": 204.833
  },
  "sync": {
   "clicks_offset": 0,
@@ -12,245 +12,134 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 22.2,
-   "x": 1205,
-   "y": 165,
+   "t_click": 16.4,
+   "x": 420,
+   "y": 830,
    "kind": "click",
-   "target": "title field in the top toolbar",
-   "result": "title becomes editable, name selected",
-   "t_result_visible": 23.0,
+   "target": "Welcome caption segment on timeline",
+   "result": "segment selected, caption toolbar appears",
+   "t_result_visible": 16.8,
    "confidence": "medium"
   },
   {
    "id": "A2",
-   "t_click": 24.5,
-   "x": 1205,
-   "y": 165,
-   "kind": "type",
-   "target": "title field",
-   "result": "new name 'new-file' typed",
-   "t_result_visible": 33.5,
-   "confidence": "medium",
-   "text": "new-file"
+   "t_click": 25.4,
+   "x": 570,
+   "y": 245,
+   "kind": "click",
+   "target": "Captions button in toolbar",
+   "result": "Captions panel opens",
+   "t_result_visible": 26.0,
+   "confidence": "medium"
   },
   {
    "id": "A3",
-   "t_click": 52.0,
-   "x": 462,
-   "y": 50,
+   "t_click": 29.95,
+   "x": 451,
+   "y": 370,
    "kind": "click",
-   "target": "Home tab in the browser tab strip",
-   "result": "Canva home page shown",
-   "t_result_visible": 52.6,
-   "confidence": "low"
+   "target": "Styles tab",
+   "result": "style packs listed",
+   "t_result_visible": 30.6,
+   "confidence": "medium"
   },
   {
    "id": "A4",
-   "t_click": 61.7,
-   "x": 88,
-   "y": 486,
+   "t_click": 87.0,
+   "x": 264,
+   "y": 600,
    "kind": "click",
-   "target": "Projects in the left sidebar",
-   "result": "All projects page loads",
-   "t_result_visible": 64.8,
+   "target": "Momentum style pack tile",
+   "result": "tile starts applying (spinner); style applied to captions at 110.4",
+   "t_result_visible": 110.4,
    "confidence": "medium"
   },
   {
    "id": "A5",
-   "t_click": 76.2,
-   "x": 672,
-   "y": 496,
-   "kind": "click",
-   "target": "three-dots menu on the design card",
-   "result": "card menu opens",
-   "t_result_visible": 77.8,
-   "confidence": "medium"
+   "t_click": 117.5,
+   "x": 240,
+   "y": 830,
+   "kind": "drag",
+   "target": "playhead on timeline",
+   "result": "scrub through the video, captions animate",
+   "t_result_visible": 118.0,
+   "confidence": "medium",
+   "x2": 1700,
+   "y2": 830,
+   "t_end": 135.5
   },
   {
    "id": "A6",
-   "t_click": 78.8,
-   "x": 762,
-   "y": 357,
+   "t_click": 139.0,
+   "x": 576,
+   "y": 245,
    "kind": "click",
-   "target": "design title (beside pencil icon) in the card menu",
-   "result": "title editable, text selected",
-   "t_result_visible": 79.2,
+   "target": "Captions button in toolbar",
+   "result": "Captions panel with Styles reopens",
+   "t_result_visible": 141.0,
    "confidence": "medium"
   },
   {
    "id": "A7",
-   "t_click": 80.9,
-   "x": 762,
-   "y": 357,
-   "kind": "type",
-   "target": "design title field",
-   "result": "'new-canva-design' typed, Enter confirms; toast 'Design successfully renamed'",
-   "t_result_visible": 88.4,
-   "confidence": "medium",
-   "text": "new-canva-design"
+   "t_click": 167.9,
+   "x": 300,
+   "y": 370,
+   "kind": "click",
+   "target": "Transcript tab",
+   "result": "transcript list of captions",
+   "t_result_visible": 168.4,
+   "confidence": "medium"
   },
   {
    "id": "A8",
-   "t_click": 96.1,
-   "x": 580,
-   "y": 830,
+   "t_click": 185.4,
+   "x": 1020,
+   "y": 245,
    "kind": "click",
-   "target": "Uploads folder",
-   "result": "Uploads folder opens",
-   "t_result_visible": 98.5,
+   "target": "Animate button in toolbar",
+   "result": "Animate panel opens",
+   "t_result_visible": 186.0,
    "confidence": "medium"
   },
   {
    "id": "A9",
-   "t_click": 112.2,
-   "x": 764,
-   "y": 576,
+   "t_click": 194.6,
+   "x": 1050,
+   "y": 690,
    "kind": "click",
-   "target": "three-dots menu on the duck gif card",
-   "result": "file menu opens (Details, Download, Move... no Rename)",
-   "t_result_visible": 113.5,
+   "target": "Download in Share panel",
+   "result": "Download settings open",
+   "t_result_visible": 195.0,
    "confidence": "medium"
   },
   {
    "id": "A10",
-   "t_click": 117.5,
-   "x": 839,
-   "y": 620,
+   "t_click": 196.5,
+   "x": 1500,
+   "y": 500,
    "kind": "click",
-   "target": "duck gif thumbnail",
-   "result": "file preview opens",
-   "t_result_visible": 118.5,
+   "target": "MP4 Video file type",
+   "result": "MP4 selected in the Download panel",
+   "t_result_visible": 197.0,
    "confidence": "medium"
-  },
-  {
-   "id": "A11",
-   "t_click": 121.2,
-   "x": 1552,
-   "y": 173,
-   "kind": "click",
-   "target": "three-dots menu in the preview controls",
-   "result": "menu opens (Details, Download, Move, Insights...)",
-   "t_result_visible": 122.7,
-   "confidence": "medium"
-  },
-  {
-   "id": "A12",
-   "t_click": 123.3,
-   "x": 440,
-   "y": 236,
-   "kind": "click",
-   "target": "file name in the preview header",
-   "result": "name field editable, text selected",
-   "t_result_visible": 123.9,
-   "confidence": "medium"
-  },
-  {
-   "id": "A13",
-   "t_click": 125.0,
-   "x": 440,
-   "y": 236,
-   "kind": "type",
-   "target": "file name field",
-   "result": "'new-canva.gif' typed",
-   "t_result_visible": 130.5,
-   "confidence": "medium",
-   "text": "new-canva.gif"
-  },
-  {
-   "id": "A14",
-   "t_click": 184.3,
-   "x": 1300,
-   "y": 165,
-   "kind": "click",
-   "target": "design title in the editor toolbar",
-   "result": "title editable",
-   "t_result_visible": 184.6,
-   "confidence": "low"
-  },
-  {
-   "id": "A15",
-   "t_click": 187.0,
-   "x": 1300,
-   "y": 165,
-   "kind": "type",
-   "target": "design title field",
-   "result": "version label 'Final' added to the name",
-   "t_result_visible": 205.0,
-   "confidence": "low",
-   "text": "new-canva-design Final"
-  },
-  {
-   "id": "A16",
-   "t_click": 213.0,
-   "x": 270,
-   "y": 350,
-   "kind": "click",
-   "target": "Your projects in the left sidebar",
-   "result": "Projects page loads, renamed design visible",
-   "t_result_visible": 215.5,
-   "confidence": "low"
   }
  ],
  "junk": [
   {
-   "start": 5.3,
-   "end": 16.9,
-   "reason": "idle editor at start",
-   "ff": true
+   "start": 6.0,
+   "end": 13.6,
+   "reason": "take 1 idle cursor before the first action"
   },
   {
-   "start": 34.6,
-   "end": 50.2,
-   "reason": "frozen screen after rename",
-   "ff": true
+   "start": 18.4,
+   "end": 24.2,
+   "reason": "take 1 idle (frozen screen) before Captions click",
+   "ff": false
   },
   {
-   "start": 53.5,
-   "end": 61.0,
-   "reason": "browsing home page",
-   "ff": true
-  },
-  {
-   "start": 65.0,
-   "end": 75.8,
-   "reason": "cursor wandering over recents",
-   "ff": true
-  },
-  {
-   "start": 88.9,
-   "end": 95.8,
-   "reason": "toast idle",
-   "ff": true
-  },
-  {
-   "start": 98.8,
-   "end": 100.0,
-   "reason": "page loading",
-   "ff": true
-  },
-  {
-   "start": 101.3,
-   "end": 111.8,
-   "reason": "scrolling uploads items",
-   "ff": true
-  },
-  {
-   "start": 130.7,
-   "end": 153.0,
-   "reason": "idle on renamed preview",
-   "ff": true
-  },
-  {
-   "start": 153.4,
-   "end": 182.0,
-   "reason": "closing preview, navigating back, idle on Uploads",
-   "ff": true
-  },
-  {
-   "start": 205.5,
-   "end": 210.6,
-   "reason": "idle on editor",
-   "ff": true
+   "start": 45.5,
+   "end": 86.4,
+   "reason": "rest of take 1 (retaken; style never applied) and take 2 intro"
   }
  ]
 }

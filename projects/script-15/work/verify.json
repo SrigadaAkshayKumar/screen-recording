@@ -5,7 +5,7 @@
     {
       "name": "duration",
       "ok": true,
-      "detail": "75.929s vs voiceover 75.964s"
+      "detail": "80.666s vs voiceover 80.666s"
     },
     {
       "name": "streams",
@@ -20,12 +20,12 @@
     {
       "name": "frozen spans",
       "ok": true,
-      "detail": "4 freeze(s) over 3s, all planned holds/stills; static in the source too (not caused by the edit): 15.07-20.93, 27.80-31.40, 42.90-50.00, 60.50-68.30"
+      "detail": "1 freeze(s) over 3s, all planned holds/stills; static in the source too (not caused by the edit): 17.93-22.00"
     },
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "44 boundaries clean"
+      "detail": "21 boundaries clean"
     }
   ],
   "zoom_frames": []

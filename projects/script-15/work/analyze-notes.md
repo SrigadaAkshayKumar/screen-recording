@@ -1,8 +1,8 @@
 # Analyze notes
-- No click log; every click time/position is estimated from frames (confidence medium/low). Positions verified by eye only roughly.
-- The recorder bakes in auto-zoom (e.g. 17.4-22.3, 51-52, 76-78, 112-123, 182-186). Plan uses ripples only, no zooms.
-- A3 (Home tab click, t~52.0) and A14-A16 (late editor rename and Projects click) are low confidence in time and position.
-- Unlisted actions (not narrated): tab switch back to the editor at ~182.3 and to the Canva tab at ~211.5, close-preview X at ~153.3.
-- A11 opens the preview's three-dots menu; it has no Rename entry (Details/Download/Move/Insights/Remove). The rename was actually done by clicking the file name in the preview header (A12-A13).
-- The final rename (A14-A15) adds a version label to the design title, matching narration line 14 (Draft01/Final) rather than the first-time rename.
-- Junk spans are in-scene dead time, all marked ff.
+- The recording has two takes: take 1 (0-80 s) never applied a style; take 2 (80-205 s) did. Plan uses take 1 for the intro and the A1-A3 steps (select caption, Captions, Styles tab) and take 2 from the style click (87 s) on. Take 1 31-80 is junk (not used).
+- Recorder auto-zoom is baked in (13.5-17.5, 24.5-31, 82-86, 112-115, 120, 138-139, 168-170, 180-196...): no plan zooms, ripples only on unzoomed clicks.
+- Click times/positions are by eye (no click log); positions of clicks made while the recorder was zoomed are approximate (those get no ripple).
+- A4: the Momentum tile shows a spinner from 87 s to 108.4 s and the caption style only changes at 110.4 s; the click is the one at ~87 s. Medium confidence.
+- A5 is a playhead scrub (117.5-135.5 s) used for "play beginning, middle and end" and "check a short and a longer caption". The Play button click at ~115.8 is not used.
+- Narration L11-L15 (the tips, "text boxes typed manually") has no matching on-screen action; it plays over the scrub, panel and transcript footage.
+- Click times may be 0.1-0.3 s off; the 24.9/25.4 and 167.9 clicks need an eye check in the preview.
