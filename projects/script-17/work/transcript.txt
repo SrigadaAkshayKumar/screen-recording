@@ -1,23 +1,19 @@
-This tutorial shows you how to build an animation that returns to its starting position and
-repeats as a GIF.
-Create a presentation or social design with a plain background.
-Add a circle and place it on the left side of the first page.
-Duplicate the page and move the existing circle to the right on the second page.
-Duplicate the original first page again and place that copy after the second page.
-The three positions are now left, right and left.
-Between the first and second pages, add a match and move transition.
-Apply the same transition between the second and third pages.
-Match and move is a premium transition, so you need access to it for this method.
-Use matching transition durations and short page holds.
-Remove other entrance animations that could interrupt the movement.
-Preview the sequence.
-The circle should move right, return left and finish exactly where it started.
-Keep the background and the circle size identical on the first and last pages.
-Click Share, download and choose GIF.
-Include all three pages, then download and open the file in a browser to test the repeated motion.
+This tutorial shows you how to remove a caption in Canva by identifying whether it is text,
+a generated subtitle, or a playback setting.
+First, click the caption you want to remove.
+If it behaves like a normal text box, select the text element and press Delete.
+Check the timeline selection before deleting so you remove the caption rather than the video underneath it.
+If it is a generated caption, open the captions panel.
+Find the specific line and use its delete icon.
+Preview that moment to confirm the unwanted line has disappeared.
+If the caption cannot be selected and only appears while media is playing, open File, then Accessibility.
+Turn off Show View Only Captions on Media.
+For an individual video, its More menu may also contain the View Only Caption Control.
 Here's the part many tutorials skip.
-A matching start and end position prevents a visual jump,
-but a long hold on the first or last page can still make the loop pause.
-Shorten those holds if you want a more continuous result.
-An MP4 file needs a player or platform that repeats playback.
-Use GIF when you want an animated image that can loop without audio.
+Turning off View Only Captions changes the playback display.
+It does not delete text boxes or generated caption elements already placed in your design.
+Check the exact moment again after making the change.
+If you still see words, pause and determine whether there is another text element on top of the video.
+Captions already embedded in an uploaded video require the original footage without those words.
+They are not separate Canva elements.
+Once the intended caption is gone, download a new MP4 and check the saved video.

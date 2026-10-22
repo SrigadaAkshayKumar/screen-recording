@@ -1,7 +1,7 @@
 # Analyze notes (script-17)
-- The recording has baked-in recorder auto-zoom (zoomed/unzoomed alternate), so all x/y are approximate (recording-pixel estimates read off zoomed frames, confidence medium/low). No zooms are planned and every action is `no_ripple`.
-- Click times are read from contact sheets (about +-0.3 s), not from a click log. Lowest confidence: A5 (second page duplicate), A6 (page drag), A11 (play), A19 (hold-shortening drag).
-- The recording is a first take (0-250 s) plus a second take (250-297 s) that shortens the page-3 hold and re-opens the Download dialog; the second take is reused for the narration's "shorten those holds" / MP4 vs GIF part.
-- Narrated "remove other entrance animations" (L11) has no matching action in the recording; the idle timeline footage plays there.
-- Unnarrated actions: recolour of circle (52-61 s), trimming page length (62-73 s), Download click (A13) and file type dropdown (A14) in the first take, the wait for the GIF download (A17).
-- Junk: none marked; unwanted spans are skipped by the narration-order jumps.
+- No click log. Click times read from frames; positions are rough estimates (A1, A2, A7, A8 low confidence) and are not used (no ripples).
+- The recording has baked-in recorder zoom (zoomed timeline/canvas at 14.7-18.5, 33.7-35, 43.7-47, 52.7-53.7, 62-63, 74-75.5, 90.9-92.4, 104-106, 121-124, 130-137): no plan zooms, no ripples.
+- The recording is two passes over the same steps (10-70 s and 72-143 s) plus idle spells (0-10.4, 24.7-28.7, 40.3-42.6, 48.9-52, 68.5-72.6, 80.1-88.9, 97.6-100.9, 108-110, 114.7-119.6). The first pass never actually clicks a delete icon (hover only at 38-40 s).
+- Narration says "press Delete" (L3) / "use its delete icon" (L6): only hovers/tooltips exist on screen, no deletion is performed.
+- A4 (File), A5, A6-A9 times are medium/low: read from 0.4-0.8 s spaced frames.
+- "More menu" of an individual video (L10): the recording has no clear More-menu click; the toolbar "..." (91-93 s) and the File menu are shown instead.
