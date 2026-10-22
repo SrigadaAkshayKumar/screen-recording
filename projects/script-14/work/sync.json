@@ -1,197 +1,89 @@
 {
- "anchors": [
+ "note": "hand-built via work/hand_plan.py (plan_builder not used)",
+ "sync": [
   {
    "action": "A1",
    "line": 2,
-   "word": "social"
+   "word": "video",
+   "word_index": 22,
+   "word_t": 6.54
   },
   {
    "action": "A2",
-   "line": 3,
-   "word": "arrow"
+   "line": 2,
+   "word": "animate",
+   "word_index": 30,
+   "word_t": 8.28
   },
   {
    "action": "A3",
-   "line": 4,
-   "word": "Place"
-  },
-  {
-   "action": "A4",
-   "line": 5,
-   "word": "Select"
+   "line": 3,
+   "word": "available",
+   "word_index": 39,
+   "word_t": 11.2
   },
   {
    "action": "A5",
    "line": 5,
-   "word": "Animate"
+   "word": "reveal",
+   "word_index": 57,
+   "word_t": 17.22
   },
   {
    "action": "A6",
    "line": 5,
-   "word": "Animation"
+   "word": "highlight",
+   "word_index": 58,
+   "word_t": 18.1
   },
   {
    "action": "A7",
-   "line": 6,
-   "word": "Click"
+   "line": 7,
+   "word": "animation",
+   "word_index": 79,
+   "word_t": 25.38
   },
   {
    "action": "A8",
-   "line": 10,
-   "word": "Preview"
+   "line": 12,
+   "word": "through",
+   "word_index": 150,
+   "word_t": 50.58
   },
   {
    "action": "A9",
-   "line": 11,
-   "word": "controls"
+   "line": 12,
+   "word": "panel",
+   "word_index": 153,
+   "word_t": 51.46
   },
   {
    "action": "A10",
-   "line": 11,
-   "word": "recorded"
+   "line": 16,
+   "word": "play",
+   "word_index": 200,
+   "word_t": 69.4
   },
   {
    "action": "A11",
-   "line": 12,
-   "word": "Change"
-  },
-  {
-   "action": "A14",
-   "line": 14,
-   "word": "Done",
-   "src_from": 262.6,
-   "prev_until": 212.0
+   "line": 16,
+   "word": "once",
+   "word_index": 207,
+   "word_t": 71.38
   },
   {
    "action": "A12",
-   "line": 15,
-   "word": "Delete",
-   "src_from": 220.6
+   "line": 17,
+   "word": "finished",
+   "word_index": 212,
+   "word_t": 73.42
   },
   {
    "action": "A13",
-   "line": 15,
-   "word": "new"
-  },
-  {
-   "action": "A15",
-   "line": 20,
-   "word": "Play",
-   "src_from": 287.0,
-   "prev_until": 252.0
-  },
-  {
-   "action": "A16",
-   "line": 20,
-   "word": "timing"
-  },
-  {
-   "action": "A17",
-   "line": 20,
-   "word": "download"
-  },
-  {
-   "action": "A18",
-   "line": 20,
-   "word": "Video"
+   "line": 17,
+   "word": "video",
+   "word_index": 217,
+   "word_t": 75.06
   }
- ],
- "zooms": [],
- "no_ripple": [
-  "A1",
-  "A2",
-  "A3",
-  "A5",
-  "A6",
-  "A7",
-  "A8",
-  "A9",
-  "A10",
-  "A11",
-  "A12",
-  "A13",
-  "A14",
-  "A15",
-  "A16",
-  "A17",
-  "A18"
- ],
- "cuts": [
-  {
-   "src_start": 58.6,
-   "src_end": 78.2,
-   "reason": "stroke-weight styling, not narrated",
-   "xfade": true
-  },
-  {
-   "src_start": 79.6,
-   "src_end": 86.3,
-   "reason": "cursor travel to Animate",
-   "xfade": true
-  },
-  {
-   "src_start": 88.0,
-   "src_end": 91.0,
-   "reason": "browsing Animate panel",
-   "xfade": true
-  },
-  {
-   "src_start": 92.9,
-   "src_end": 94.9,
-   "reason": "idle before drag",
-   "xfade": true
-  },
-  {
-   "src_start": 109.2,
-   "src_end": 113.0,
-   "reason": "idle",
-   "xfade": true
-  },
-  {
-   "src_start": 119.0,
-   "src_end": 152.8,
-   "reason": "idle panel",
-   "xfade": true
-  },
-  {
-   "src_start": 157.0,
-   "src_end": 190.2,
-   "reason": "preview and reopening settings",
-   "xfade": true
-  },
-  {
-   "src_start": 195.5,
-   "src_end": 204.8,
-   "reason": "idle",
-   "xfade": true
-  },
-  {
-   "src_start": 227.9,
-   "src_end": 228.9,
-   "reason": "idle",
-   "xfade": true
-  },
-  {
-   "src_start": 239.3,
-   "src_end": 245.7,
-   "reason": "still: nothing changes",
-   "xfade": true
-  },
-  {
-   "src_start": 291.0,
-   "src_end": 303.6,
-   "reason": "playback wait",
-   "xfade": true
-  },
-  {
-   "src_start": 306.8,
-   "src_end": 307.4,
-   "reason": "download panel loading",
-   "xfade": true
-  }
- ],
- "ff_max": 2.0,
- "use_junk": true,
- "src_start": 40.8,
- "src_end": 310.0
+ ]
 }

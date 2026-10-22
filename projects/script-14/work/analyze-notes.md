@@ -1,7 +1,6 @@
-# Analyze notes
-- Recorder has baked-in auto-zoom (camera moves on most clicks). No clicks.json. Positions are rough; ripples only on A4 (unzoomed). Everything else `no_ripple`; no plan zooms.
-- Low confidence: A3 (placing arrow), A5 Animate click time (87.0, panel already open at 87.4), A11 slider, A12 Delete path click time (226.2; panel changes 227.8), A15 play click, positions of A2/A5/A8-A12/A15-A18.
-- Narrated "enable the option that orients the element to the path": never enabled in the recording (toggle stays off; cursor only passes near it ~207.9). No action.
-- Recording order differs from narration: panel closed (A14 Done, really the X at 264.5) is narrated before Delete path (A12, 226).
-- 105-127 is a retake of the path drag after the panel reopened; 259-286 stroke colour/transparency/etc. is not narrated; skipped. Recording ends with download click at ~310.3, desktop afterwards.
-- Opening 0-40 s is idle/selecting text; trimmed. Scenes 128-150 etc. are dead time and are cut.
+# analyze notes (script-14)
+- Old committed work files were for a different script (movement path); everything was re-read against the new transcript.
+- The recording has baked-in recorder auto-zoom (e.g. 16.1, 25.3, 98.9, 124 s). Coordinates of clicks made while zoomed (A2, A3, A5, A6, A8-A13) were taken from the unzoomed layout / frame position and are approximate.
+- Click times were read on single frames (0.1 s steps). Medium/low: A1 (video select, ~8.45), A4, A10 (play: hover 175.6-177.0, load spinner from 177.1), A11 (play 2, loads ~10 s), A12/A13 (share/download).
+- Speed-slider drags (~80-86 s, 112-120 s, 147-151 s) are in the footage but not logged as actions.
+- Junk marked ff: long idle spells (34-44, 52-72, 87-97, 116-120, 128-138, 147-151, 155-166 s). Loading spinner 190-199.9 s and the end 216+ are cut.

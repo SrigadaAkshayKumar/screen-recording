@@ -3,7 +3,7 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 315.6
+  "duration": 220.1
  },
  "sync": {
   "clicks_offset": 0,
@@ -12,225 +12,214 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 46.5,
-   "x": 105,
-   "y": 422,
+   "t_click": 8.45,
+   "x": 970,
+   "y": 575,
    "kind": "click",
-   "target": "Elements tab",
-   "result": "Elements panel opens",
-   "t_result_visible": 47.8,
+   "target": "video on the canvas",
+   "result": "video selected, its toolbar appears",
+   "t_result_visible": 9.2,
    "confidence": "medium"
   },
   {
    "id": "A2",
-   "t_click": 55.35,
-   "x": 170,
-   "y": 460,
+   "t_click": 16.12,
+   "x": 1000,
+   "y": 573,
    "kind": "click",
-   "target": "arrow in Lines",
-   "result": "arrow added on canvas",
-   "t_result_visible": 56.2,
+   "target": "caption on the video",
+   "result": "caption selected (outline + toolbar)",
+   "t_result_visible": 16.3,
    "confidence": "medium"
   },
   {
    "id": "A3",
-   "t_click": 56.6,
-   "x": 1000,
-   "y": 500,
-   "kind": "drag",
-   "target": "arrow",
-   "result": "arrow placed under the text",
-   "t_result_visible": 57.8,
-   "confidence": "low",
-   "x2": 1000,
-   "y2": 590,
-   "t_end": 57.6
-  },
-  {
-   "id": "A4",
-   "t_click": 79.15,
-   "x": 710,
-   "y": 514,
+   "t_click": 26.95,
+   "x": 1482,
+   "y": 214,
    "kind": "click",
-   "target": "arrow on canvas",
-   "result": "arrow selected",
-   "t_result_visible": 79.3,
+   "target": "Animate button in the toolbar",
+   "result": "Animate panel opens on the left",
+   "t_result_visible": 27.4,
    "confidence": "high"
   },
   {
-   "id": "A5",
-   "t_click": 87.0,
-   "x": 1118,
-   "y": 246,
+   "id": "A4",
+   "t_click": 29.45,
+   "x": 335,
+   "y": 695,
    "kind": "click",
-   "target": "Animate button",
-   "result": "Animate panel opens",
-   "t_result_visible": 87.4,
-   "confidence": "low"
+   "target": "Highlight card (Captions section)",
+   "result": "preview plays the Highlight effect",
+   "t_result_visible": 29.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 31.35,
+   "x": 204,
+   "y": 695,
+   "kind": "click",
+   "target": "Reveal card (Captions section)",
+   "result": "Reveal selected",
+   "t_result_visible": 31.45,
+   "confidence": "high"
   },
   {
    "id": "A6",
-   "t_click": 92.1,
-   "x": 288,
-   "y": 394,
+   "t_click": 32.55,
+   "x": 335,
+   "y": 695,
    "kind": "click",
-   "target": "Create an Animation",
-   "result": "Create an Animation panel opens",
-   "t_result_visible": 92.5,
-   "confidence": "medium"
+   "target": "Highlight card (Captions section)",
+   "result": "Highlight selected, preview plays",
+   "t_result_visible": 32.7,
+   "confidence": "high"
   },
   {
    "id": "A7",
-   "t_click": 95.6,
-   "x": 700,
-   "y": 505,
-   "kind": "drag",
-   "target": "arrow",
-   "result": "path drawn across canvas",
-   "t_result_visible": 104.8,
-   "confidence": "medium",
-   "x2": 1300,
-   "y2": 560,
-   "t_end": 104.5
+   "t_click": 79.2,
+   "x": 199,
+   "y": 758,
+   "kind": "click",
+   "target": "Typewriter in Suggested text animations",
+   "result": "Typewriter selected, Animate options show",
+   "t_result_visible": 79.4,
+   "confidence": "high"
   },
   {
    "id": "A8",
-   "t_click": 154.2,
-   "x": 1008,
-   "y": 744,
+   "t_click": 124.65,
+   "x": 564,
+   "y": 214,
    "kind": "click",
-   "target": "Play preview",
-   "result": "preview plays",
-   "t_result_visible": 154.9,
-   "confidence": "medium"
+   "target": "Captions button in the toolbar",
+   "result": "Captions panel opens",
+   "t_result_visible": 124.7,
+   "confidence": "high"
   },
   {
    "id": "A9",
-   "t_click": 192.8,
-   "x": 360,
-   "y": 346,
+   "t_click": 125.5,
+   "x": 423,
+   "y": 350,
    "kind": "click",
-   "target": "Movement Styles dropdown",
-   "result": "list of styles opens",
-   "t_result_visible": 193.2,
-   "confidence": "medium"
+   "target": "Styles tab",
+   "result": "caption style packs listed",
+   "t_result_visible": 125.8,
+   "confidence": "high"
   },
   {
    "id": "A10",
-   "t_click": 194.1,
-   "x": 330,
-   "y": 400,
+   "t_click": 177.0,
+   "x": 1015,
+   "y": 715,
    "kind": "click",
-   "target": "Smooth option",
-   "result": "Smooth selected",
-   "t_result_visible": 194.4,
+   "target": "Play button",
+   "result": "playback starts (after a short load)",
+   "t_result_visible": 181.0,
    "confidence": "medium"
   },
   {
    "id": "A11",
-   "t_click": 205.6,
-   "x": 480,
-   "y": 480,
-   "kind": "drag",
-   "target": "Speed slider",
-   "result": "speed changed",
-   "t_result_visible": 207.9,
-   "confidence": "low",
-   "x2": 540,
-   "y2": 480,
-   "t_end": 207.8
+   "t_click": 189.2,
+   "x": 1015,
+   "y": 715,
+   "kind": "click",
+   "target": "Play button",
+   "result": "second playback starts",
+   "t_result_visible": 200.6,
+   "confidence": "low"
   },
   {
    "id": "A12",
-   "t_click": 226.2,
-   "x": 290,
-   "y": 902,
+   "t_click": 202.65,
+   "x": 1818,
+   "y": 160,
    "kind": "click",
-   "target": "Delete path",
-   "result": "path removed, tutorial panel shown",
-   "t_result_visible": 227.8,
-   "confidence": "low"
+   "target": "Share button",
+   "result": "Share design panel opens",
+   "t_result_visible": 202.9,
+   "confidence": "medium"
   },
   {
    "id": "A13",
-   "t_click": 229.8,
-   "x": 700,
-   "y": 505,
-   "kind": "drag",
-   "target": "arrow",
-   "result": "new path drawn",
-   "t_result_visible": 234.3,
-   "confidence": "medium",
-   "x2": 1300,
-   "y2": 500,
-   "t_end": 234.0
-  },
-  {
-   "id": "A14",
-   "t_click": 264.5,
-   "x": 538,
-   "y": 254,
+   "t_click": 203.95,
+   "x": 1215,
+   "y": 768,
    "kind": "click",
-   "target": "Done / close panel",
-   "result": "panel closes",
-   "t_result_visible": 264.8,
-   "confidence": "medium"
-  },
-  {
-   "id": "A15",
-   "t_click": 289.8,
-   "x": 1008,
-   "y": 744,
-   "kind": "click",
-   "target": "Play full design",
-   "result": "design plays",
-   "t_result_visible": 290.4,
-   "confidence": "low"
-  },
-  {
-   "id": "A16",
-   "t_click": 304.3,
-   "x": 1838,
-   "y": 182,
-   "kind": "click",
-   "target": "Share button",
-   "result": "Share panel opens",
-   "t_result_visible": 304.9,
-   "confidence": "high"
-  },
-  {
-   "id": "A17",
-   "t_click": 306.0,
-   "x": 1250,
-   "y": 880,
-   "kind": "click",
-   "target": "Download in share panel",
-   "result": "Download panel opens",
-   "t_result_visible": 306.6,
-   "confidence": "medium"
-  },
-  {
-   "id": "A18",
-   "t_click": 308.7,
-   "x": 900,
-   "y": 800,
-   "kind": "click",
-   "target": "MP4 Video",
-   "result": "MP4 Video selected",
-   "t_result_visible": 309.0,
+   "target": "Download in the share panel",
+   "result": "Download panel (MP4 video) opens",
+   "t_result_visible": 204.2,
    "confidence": "medium"
   }
  ],
  "junk": [
   {
-   "start": 0,
-   "end": 40.5,
-   "reason": "idle design before the Elements step"
+   "start": 0.0,
+   "end": 2.667,
+   "reason": "static opening, cursor only",
+   "ff": true
   },
   {
-   "start": 310.0,
-   "end": 315.6,
-   "reason": "after download click; desktop"
+   "start": 34.433,
+   "end": 44.1,
+   "reason": "idle panel, cursor only",
+   "ff": true
+  },
+  {
+   "start": 51.567,
+   "end": 64.833,
+   "reason": "idle (frozen) panel",
+   "ff": true
+  },
+  {
+   "start": 65.9,
+   "end": 71.9,
+   "reason": "idle panel",
+   "ff": true
+  },
+  {
+   "start": 87.167,
+   "end": 96.9,
+   "reason": "idle panel, cursor only",
+   "ff": true
+  },
+  {
+   "start": 116.333,
+   "end": 119.567,
+   "reason": "idle panel",
+   "ff": true
+  },
+  {
+   "start": 128.1,
+   "end": 137.767,
+   "reason": "idle styles panel",
+   "ff": true
+  },
+  {
+   "start": 147.2,
+   "end": 151.033,
+   "reason": "cursor-only slider hover",
+   "ff": true
+  },
+  {
+   "start": 154.933,
+   "end": 165.933,
+   "reason": "idle panel",
+   "ff": true
+  },
+  {
+   "start": 190.0,
+   "end": 199.9,
+   "reason": "player loading spinner",
+   "ff": false
+  },
+  {
+   "start": 216.2,
+   "end": 220.1,
+   "reason": "recorder stop / desktop",
+   "ff": false
   }
  ]
 }
