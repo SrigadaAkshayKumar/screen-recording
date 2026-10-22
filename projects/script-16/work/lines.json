@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to use Magic Animate to add coordinated animations to a Canva design.",
+    "text": "This tutorial shows you how to remove the automatic captions you generated inside a Canva video project.",
     "start": 0.0,
-    "end": 5.3,
+    "end": 5.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
@@ -16,1735 +16,1537 @@
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.24
+        "end": 0.22
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.24,
-        "end": 0.58
+        "start": 0.22,
+        "end": 0.56
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.58,
+        "start": 0.56,
         "end": 1.0
       },
       {
         "i": 3,
         "word": "you",
         "start": 1.0,
-        "end": 1.2
+        "end": 1.22
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.2,
-        "end": 1.34
+        "start": 1.22,
+        "end": 1.36
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.34,
+        "start": 1.36,
         "end": 1.5
       },
       {
         "i": 6,
-        "word": "use",
+        "word": "remove",
         "start": 1.5,
-        "end": 1.74
+        "end": 1.76
       },
       {
         "i": 7,
-        "word": "Magic",
-        "start": 1.74,
-        "end": 2.06
+        "word": "the",
+        "start": 1.76,
+        "end": 1.98
       },
       {
         "i": 8,
-        "word": "Animate",
-        "start": 2.06,
-        "end": 2.48
+        "word": "automatic",
+        "start": 1.98,
+        "end": 2.5
       },
       {
         "i": 9,
-        "word": "to",
-        "start": 2.48,
-        "end": 2.76
-      },
-      {
-        "i": 10,
-        "word": "add",
-        "start": 2.76,
+        "word": "captions",
+        "start": 2.5,
         "end": 2.96
       },
       {
-        "i": 11,
-        "word": "coordinated",
+        "i": 10,
+        "word": "you",
         "start": 2.96,
+        "end": 3.12
+      },
+      {
+        "i": 11,
+        "word": "generated",
+        "start": 3.12,
         "end": 3.52
       },
       {
         "i": 12,
-        "word": "animations",
+        "word": "inside",
         "start": 3.52,
-        "end": 4.16
+        "end": 4.02
       },
       {
         "i": 13,
-        "word": "to",
-        "start": 4.16,
-        "end": 4.5
+        "word": "a",
+        "start": 4.02,
+        "end": 4.4
       },
       {
         "i": 14,
-        "word": "a",
-        "start": 4.5,
-        "end": 4.7
+        "word": "Canva",
+        "start": 4.4,
+        "end": 4.52
       },
       {
         "i": 15,
-        "word": "Canva",
-        "start": 4.7,
-        "end": 4.9
+        "word": "video",
+        "start": 4.52,
+        "end": 4.76
       },
       {
         "i": 16,
-        "word": "design.",
-        "start": 4.9,
-        "end": 5.3
+        "word": "project.",
+        "start": 4.76,
+        "end": 5.32
       }
     ]
   },
   {
     "id": 2,
-    "text": "Open a presentation, social media design or video in Canva.",
-    "start": 6.14,
-    "end": 9.84,
+    "text": "Open the original Canva project and pause where a caption is visible.",
+    "start": 6.08,
+    "end": 9.22,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       17,
-      26
+      28
     ],
     "words": [
       {
         "i": 17,
         "word": "Open",
-        "start": 6.14,
-        "end": 6.3
+        "start": 6.08,
+        "end": 6.26
       },
       {
         "i": 18,
-        "word": "a",
-        "start": 6.3,
+        "word": "the",
+        "start": 6.26,
         "end": 6.44
       },
       {
         "i": 19,
-        "word": "presentation,",
+        "word": "original",
         "start": 6.44,
-        "end": 6.96
+        "end": 6.78
       },
       {
         "i": 20,
-        "word": "social",
-        "start": 7.46,
-        "end": 7.64
+        "word": "Canva",
+        "start": 6.78,
+        "end": 7.16
       },
       {
         "i": 21,
-        "word": "media",
-        "start": 7.64,
-        "end": 7.98
+        "word": "project",
+        "start": 7.16,
+        "end": 7.46
       },
       {
         "i": 22,
-        "word": "design",
-        "start": 7.98,
-        "end": 8.38
+        "word": "and",
+        "start": 7.46,
+        "end": 7.8
       },
       {
         "i": 23,
-        "word": "or",
-        "start": 8.38,
-        "end": 8.7
+        "word": "pause",
+        "start": 7.8,
+        "end": 8.06
       },
       {
         "i": 24,
-        "word": "video",
-        "start": 8.7,
-        "end": 8.98
+        "word": "where",
+        "start": 8.06,
+        "end": 8.28
       },
       {
         "i": 25,
-        "word": "in",
-        "start": 8.98,
-        "end": 9.4
+        "word": "a",
+        "start": 8.28,
+        "end": 8.5
       },
       {
         "i": 26,
-        "word": "Canva.",
-        "start": 9.4,
-        "end": 9.84
+        "word": "caption",
+        "start": 8.5,
+        "end": 8.64
+      },
+      {
+        "i": 27,
+        "word": "is",
+        "start": 8.64,
+        "end": 8.86
+      },
+      {
+        "i": 28,
+        "word": "visible.",
+        "start": 8.86,
+        "end": 9.22
       }
     ]
   },
   {
     "id": 3,
-    "text": "Finish the main layout first so your text, photos and shapes are in their intended positions.",
-    "start": 10.48,
-    "end": 15.48,
+    "text": "Select a generated caption, then open Captions from the toolbar.",
+    "start": 9.94,
+    "end": 13.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      27,
-      42
+      29,
+      38
     ],
     "words": [
       {
-        "i": 27,
-        "word": "Finish",
-        "start": 10.48,
-        "end": 10.76
-      },
-      {
-        "i": 28,
-        "word": "the",
-        "start": 10.76,
-        "end": 10.94
-      },
-      {
         "i": 29,
-        "word": "main",
-        "start": 10.94,
-        "end": 11.14
+        "word": "Select",
+        "start": 9.94,
+        "end": 10.18
       },
       {
         "i": 30,
-        "word": "layout",
-        "start": 11.14,
-        "end": 11.42
+        "word": "a",
+        "start": 10.18,
+        "end": 10.34
       },
       {
         "i": 31,
-        "word": "first",
-        "start": 11.42,
-        "end": 11.8
+        "word": "generated",
+        "start": 10.34,
+        "end": 10.7
       },
       {
         "i": 32,
-        "word": "so",
-        "start": 11.8,
-        "end": 12.08
+        "word": "caption,",
+        "start": 10.7,
+        "end": 11.18
       },
       {
         "i": 33,
-        "word": "your",
-        "start": 12.08,
-        "end": 12.26
+        "word": "then",
+        "start": 11.58,
+        "end": 11.7
       },
       {
         "i": 34,
-        "word": "text,",
-        "start": 12.26,
-        "end": 12.58
+        "word": "open",
+        "start": 11.7,
+        "end": 12.04
       },
       {
         "i": 35,
-        "word": "photos",
-        "start": 12.92,
-        "end": 13.08
+        "word": "Captions",
+        "start": 12.04,
+        "end": 12.48
       },
       {
         "i": 36,
-        "word": "and",
-        "start": 13.08,
-        "end": 13.52
+        "word": "from",
+        "start": 12.48,
+        "end": 12.66
       },
       {
         "i": 37,
-        "word": "shapes",
-        "start": 13.52,
-        "end": 13.8
+        "word": "the",
+        "start": 12.66,
+        "end": 12.8
       },
       {
         "i": 38,
-        "word": "are",
-        "start": 13.8,
-        "end": 14.28
-      },
-      {
-        "i": 39,
-        "word": "in",
-        "start": 14.28,
-        "end": 14.4
-      },
-      {
-        "i": 40,
-        "word": "their",
-        "start": 14.4,
-        "end": 14.52
-      },
-      {
-        "i": 41,
-        "word": "intended",
-        "start": 14.52,
-        "end": 14.9
-      },
-      {
-        "i": 42,
-        "word": "positions.",
-        "start": 14.9,
-        "end": 15.48
+        "word": "toolbar.",
+        "start": 12.8,
+        "end": 13.14
       }
     ]
   },
   {
     "id": 4,
-    "text": "Click an empty area of the page and open Animate in the toolbar.",
-    "start": 16.3,
-    "end": 19.62,
+    "text": "Choose Delete All Captions in the Captions panel to remove the generated captions across the design.",
+    "start": 13.88,
+    "end": 18.46,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      43,
-      55
+      39,
+      54
     ],
     "words": [
       {
+        "i": 39,
+        "word": "Choose",
+        "start": 13.88,
+        "end": 14.1
+      },
+      {
+        "i": 40,
+        "word": "Delete",
+        "start": 14.1,
+        "end": 14.36
+      },
+      {
+        "i": 41,
+        "word": "All",
+        "start": 14.36,
+        "end": 14.74
+      },
+      {
+        "i": 42,
+        "word": "Captions",
+        "start": 14.74,
+        "end": 15.14
+      },
+      {
         "i": 43,
-        "word": "Click",
+        "word": "in",
+        "start": 15.14,
+        "end": 15.3
+      },
+      {
+        "i": 44,
+        "word": "the",
+        "start": 15.3,
+        "end": 15.46
+      },
+      {
+        "i": 45,
+        "word": "Captions",
+        "start": 15.46,
+        "end": 15.8
+      },
+      {
+        "i": 46,
+        "word": "panel",
+        "start": 15.8,
+        "end": 16.04
+      },
+      {
+        "i": 47,
+        "word": "to",
+        "start": 16.04,
+        "end": 16.3
+      },
+      {
+        "i": 48,
+        "word": "remove",
         "start": 16.3,
         "end": 16.5
       },
       {
-        "i": 44,
-        "word": "an",
-        "start": 16.5,
-        "end": 16.62
-      },
-      {
-        "i": 45,
-        "word": "empty",
-        "start": 16.62,
-        "end": 16.96
-      },
-      {
-        "i": 46,
-        "word": "area",
-        "start": 16.96,
-        "end": 17.26
-      },
-      {
-        "i": 47,
-        "word": "of",
-        "start": 17.26,
-        "end": 17.48
-      },
-      {
-        "i": 48,
-        "word": "the",
-        "start": 17.48,
-        "end": 17.62
-      },
-      {
         "i": 49,
-        "word": "page",
-        "start": 17.62,
-        "end": 17.92
+        "word": "the",
+        "start": 16.5,
+        "end": 16.68
       },
       {
         "i": 50,
-        "word": "and",
-        "start": 17.92,
-        "end": 18.16
+        "word": "generated",
+        "start": 16.68,
+        "end": 17.04
       },
       {
         "i": 51,
-        "word": "open",
-        "start": 18.16,
-        "end": 18.4
+        "word": "captions",
+        "start": 17.04,
+        "end": 17.58
       },
       {
         "i": 52,
-        "word": "Animate",
-        "start": 18.4,
-        "end": 18.9
+        "word": "across",
+        "start": 17.58,
+        "end": 17.86
       },
       {
         "i": 53,
-        "word": "in",
-        "start": 18.9,
-        "end": 19.12
+        "word": "the",
+        "start": 17.86,
+        "end": 18.1
       },
       {
         "i": 54,
-        "word": "the",
-        "start": 19.12,
-        "end": 19.24
-      },
-      {
-        "i": 55,
-        "word": "toolbar.",
-        "start": 19.24,
-        "end": 19.62
+        "word": "design.",
+        "start": 18.1,
+        "end": 18.46
       }
     ]
   },
   {
     "id": 5,
-    "text": "Find Magic Animate in the Animation panel.",
-    "start": 20.4,
-    "end": 22.56,
+    "text": "If you only want to remove one line, use the Delete control beside that line instead.",
+    "start": 19.14,
+    "end": 22.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      56,
-      62
+      55,
+      70
     ],
     "words": [
       {
+        "i": 55,
+        "word": "If",
+        "start": 19.14,
+        "end": 19.26
+      },
+      {
         "i": 56,
-        "word": "Find",
-        "start": 20.4,
-        "end": 20.62
+        "word": "you",
+        "start": 19.26,
+        "end": 19.36
       },
       {
         "i": 57,
-        "word": "Magic",
-        "start": 20.62,
-        "end": 21.0
+        "word": "only",
+        "start": 19.36,
+        "end": 19.54
       },
       {
         "i": 58,
-        "word": "Animate",
-        "start": 21.0,
-        "end": 21.34
+        "word": "want",
+        "start": 19.54,
+        "end": 19.72
       },
       {
         "i": 59,
-        "word": "in",
-        "start": 21.34,
-        "end": 21.64
+        "word": "to",
+        "start": 19.72,
+        "end": 19.84
       },
       {
         "i": 60,
-        "word": "the",
-        "start": 21.64,
-        "end": 21.76
+        "word": "remove",
+        "start": 19.84,
+        "end": 20.04
       },
       {
         "i": 61,
-        "word": "Animation",
-        "start": 21.76,
-        "end": 22.14
+        "word": "one",
+        "start": 20.04,
+        "end": 20.3
       },
       {
         "i": 62,
-        "word": "panel.",
-        "start": 22.14,
-        "end": 22.56
+        "word": "line,",
+        "start": 20.3,
+        "end": 20.56
+      },
+      {
+        "i": 63,
+        "word": "use",
+        "start": 20.78,
+        "end": 20.88
+      },
+      {
+        "i": 64,
+        "word": "the",
+        "start": 20.88,
+        "end": 21.08
+      },
+      {
+        "i": 65,
+        "word": "Delete",
+        "start": 21.08,
+        "end": 21.28
+      },
+      {
+        "i": 66,
+        "word": "control",
+        "start": 21.28,
+        "end": 21.66
+      },
+      {
+        "i": 67,
+        "word": "beside",
+        "start": 21.66,
+        "end": 22.04
+      },
+      {
+        "i": 68,
+        "word": "that",
+        "start": 22.04,
+        "end": 22.32
+      },
+      {
+        "i": 69,
+        "word": "line",
+        "start": 22.32,
+        "end": 22.54
+      },
+      {
+        "i": 70,
+        "word": "instead.",
+        "start": 22.54,
+        "end": 22.94
       }
     ]
   },
   {
     "id": 6,
-    "text": "Magic Animate is a premium feature.",
-    "start": 23.3,
-    "end": 24.86,
+    "text": "Play through the project after deleting.",
+    "start": 23.5,
+    "end": 25.12,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      63,
-      68
+      71,
+      76
     ],
     "words": [
       {
-        "i": 63,
-        "word": "Magic",
-        "start": 23.3,
-        "end": 23.42
+        "i": 71,
+        "word": "Play",
+        "start": 23.5,
+        "end": 23.78
       },
       {
-        "i": 64,
-        "word": "Animate",
-        "start": 23.42,
-        "end": 23.74
+        "i": 72,
+        "word": "through",
+        "start": 23.78,
+        "end": 23.92
       },
       {
-        "i": 65,
-        "word": "is",
-        "start": 23.74,
-        "end": 23.94
-      },
-      {
-        "i": 66,
-        "word": "a",
-        "start": 23.94,
+        "i": 73,
+        "word": "the",
+        "start": 23.92,
         "end": 24.08
       },
       {
-        "i": 67,
-        "word": "premium",
+        "i": 74,
+        "word": "project",
         "start": 24.08,
-        "end": 24.36
+        "end": 24.38
       },
       {
-        "i": 68,
-        "word": "feature.",
-        "start": 24.36,
-        "end": 24.86
+        "i": 75,
+        "word": "after",
+        "start": 24.38,
+        "end": 24.76
+      },
+      {
+        "i": 76,
+        "word": "deleting.",
+        "start": 24.76,
+        "end": 25.12
       }
     ]
   },
   {
     "id": 7,
-    "text": "If it is unavailable, check your plan access and make sure you are working in a supported design type.",
-    "start": 24.86,
-    "end": 30.48,
+    "text": "Look at sections from every part of the video to make sure you remove the captions you intended and left other titles intact.",
+    "start": 25.12,
+    "end": 31.74,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      69,
-      87
+      77,
+      99
     ],
     "words": [
       {
-        "i": 69,
-        "word": "If",
-        "start": 24.86,
-        "end": 25.56
-      },
-      {
-        "i": 70,
-        "word": "it",
-        "start": 25.56,
-        "end": 25.66
-      },
-      {
-        "i": 71,
-        "word": "is",
-        "start": 25.66,
-        "end": 25.78
-      },
-      {
-        "i": 72,
-        "word": "unavailable,",
-        "start": 25.78,
-        "end": 26.26
-      },
-      {
-        "i": 73,
-        "word": "check",
-        "start": 26.68,
-        "end": 26.8
-      },
-      {
-        "i": 74,
-        "word": "your",
-        "start": 26.8,
-        "end": 27.0
-      },
-      {
-        "i": 75,
-        "word": "plan",
-        "start": 27.0,
-        "end": 27.2
-      },
-      {
-        "i": 76,
-        "word": "access",
-        "start": 27.2,
-        "end": 27.56
-      },
-      {
         "i": 77,
-        "word": "and",
-        "start": 27.56,
-        "end": 28.1
+        "word": "Look",
+        "start": 25.12,
+        "end": 25.96
       },
       {
         "i": 78,
-        "word": "make",
-        "start": 28.1,
-        "end": 28.24
+        "word": "at",
+        "start": 25.96,
+        "end": 26.1
       },
       {
         "i": 79,
-        "word": "sure",
-        "start": 28.24,
-        "end": 28.46
+        "word": "sections",
+        "start": 26.1,
+        "end": 26.42
       },
       {
         "i": 80,
-        "word": "you",
-        "start": 28.46,
-        "end": 28.62
+        "word": "from",
+        "start": 26.42,
+        "end": 26.68
       },
       {
         "i": 81,
-        "word": "are",
-        "start": 28.62,
-        "end": 28.74
+        "word": "every",
+        "start": 26.68,
+        "end": 27.02
       },
       {
         "i": 82,
-        "word": "working",
-        "start": 28.74,
-        "end": 28.96
+        "word": "part",
+        "start": 27.02,
+        "end": 27.28
       },
       {
         "i": 83,
-        "word": "in",
-        "start": 28.96,
-        "end": 29.18
+        "word": "of",
+        "start": 27.28,
+        "end": 27.42
       },
       {
         "i": 84,
-        "word": "a",
-        "start": 29.18,
-        "end": 29.3
+        "word": "the",
+        "start": 27.42,
+        "end": 27.52
       },
       {
         "i": 85,
-        "word": "supported",
-        "start": 29.3,
-        "end": 29.64
+        "word": "video",
+        "start": 27.52,
+        "end": 27.76
       },
       {
         "i": 86,
-        "word": "design",
-        "start": 29.64,
-        "end": 30.04
+        "word": "to",
+        "start": 27.76,
+        "end": 28.06
       },
       {
         "i": 87,
-        "word": "type.",
-        "start": 30.04,
-        "end": 30.48
+        "word": "make",
+        "start": 28.06,
+        "end": 28.2
+      },
+      {
+        "i": 88,
+        "word": "sure",
+        "start": 28.2,
+        "end": 28.38
+      },
+      {
+        "i": 89,
+        "word": "you",
+        "start": 28.38,
+        "end": 28.54
+      },
+      {
+        "i": 90,
+        "word": "remove",
+        "start": 28.54,
+        "end": 28.84
+      },
+      {
+        "i": 91,
+        "word": "the",
+        "start": 28.84,
+        "end": 29.1
+      },
+      {
+        "i": 92,
+        "word": "captions",
+        "start": 29.1,
+        "end": 29.4
+      },
+      {
+        "i": 93,
+        "word": "you",
+        "start": 29.4,
+        "end": 29.58
+      },
+      {
+        "i": 94,
+        "word": "intended",
+        "start": 29.58,
+        "end": 29.96
+      },
+      {
+        "i": 95,
+        "word": "and",
+        "start": 29.96,
+        "end": 30.46
+      },
+      {
+        "i": 96,
+        "word": "left",
+        "start": 30.46,
+        "end": 30.62
+      },
+      {
+        "i": 97,
+        "word": "other",
+        "start": 30.62,
+        "end": 30.92
+      },
+      {
+        "i": 98,
+        "word": "titles",
+        "start": 30.92,
+        "end": 31.26
+      },
+      {
+        "i": 99,
+        "word": "intact.",
+        "start": 31.26,
+        "end": 31.74
       }
     ]
   },
   {
     "id": 8,
-    "text": "Open Magic Animate and review the recommended style.",
-    "start": 30.84,
-    "end": 33.48,
+    "text": "Here's the part many tutorials skip.",
+    "start": 32.48,
+    "end": 34.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      88,
-      95
+      100,
+      105
     ],
     "words": [
       {
-        "i": 88,
-        "word": "Open",
-        "start": 30.84,
-        "end": 31.16
+        "i": 100,
+        "word": "Here's",
+        "start": 32.48,
+        "end": 32.62
       },
       {
-        "i": 89,
-        "word": "Magic",
-        "start": 31.16,
-        "end": 31.44
-      },
-      {
-        "i": 90,
-        "word": "Animate",
-        "start": 31.44,
-        "end": 31.84
-      },
-      {
-        "i": 91,
-        "word": "and",
-        "start": 31.84,
-        "end": 32.14
-      },
-      {
-        "i": 92,
-        "word": "review",
-        "start": 32.14,
-        "end": 32.44
-      },
-      {
-        "i": 93,
+        "i": 101,
         "word": "the",
-        "start": 32.44,
-        "end": 32.64
+        "start": 32.62,
+        "end": 32.74
       },
       {
-        "i": 94,
-        "word": "recommended",
-        "start": 32.64,
-        "end": 33.0
+        "i": 102,
+        "word": "part",
+        "start": 32.74,
+        "end": 32.9
       },
       {
-        "i": 95,
-        "word": "style.",
-        "start": 33.0,
-        "end": 33.48
+        "i": 103,
+        "word": "many",
+        "start": 32.9,
+        "end": 33.26
+      },
+      {
+        "i": 104,
+        "word": "tutorials",
+        "start": 33.26,
+        "end": 33.9
+      },
+      {
+        "i": 105,
+        "word": "skip.",
+        "start": 33.9,
+        "end": 34.36
       }
     ]
   },
   {
     "id": 9,
-    "text": "Choose it to apply the suggested combination of animations and transitions across your design.",
-    "start": 34.2,
-    "end": 39.1,
+    "text": "Canva can remove captions that exist as editable elements in the project.",
+    "start": 35.5,
+    "end": 39.0,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      96,
-      109
+      106,
+      117
     ],
     "words": [
       {
-        "i": 96,
-        "word": "Choose",
-        "start": 34.2,
-        "end": 34.36
-      },
-      {
-        "i": 97,
-        "word": "it",
-        "start": 34.36,
-        "end": 34.54
-      },
-      {
-        "i": 98,
-        "word": "to",
-        "start": 34.54,
-        "end": 34.64
-      },
-      {
-        "i": 99,
-        "word": "apply",
-        "start": 34.64,
-        "end": 34.92
-      },
-      {
-        "i": 100,
-        "word": "the",
-        "start": 34.92,
-        "end": 35.1
-      },
-      {
-        "i": 101,
-        "word": "suggested",
-        "start": 35.1,
-        "end": 35.46
-      },
-      {
-        "i": 102,
-        "word": "combination",
-        "start": 35.46,
-        "end": 35.92
-      },
-      {
-        "i": 103,
-        "word": "of",
-        "start": 35.92,
-        "end": 36.34
-      },
-      {
-        "i": 104,
-        "word": "animations",
-        "start": 36.34,
-        "end": 36.64
-      },
-      {
-        "i": 105,
-        "word": "and",
-        "start": 36.64,
-        "end": 37.24
-      },
-      {
         "i": 106,
-        "word": "transitions",
-        "start": 37.24,
-        "end": 37.72
+        "word": "Canva",
+        "start": 35.5,
+        "end": 35.62
       },
       {
         "i": 107,
-        "word": "across",
-        "start": 37.72,
-        "end": 38.44
+        "word": "can",
+        "start": 35.62,
+        "end": 35.78
       },
       {
         "i": 108,
-        "word": "your",
-        "start": 38.44,
-        "end": 38.7
+        "word": "remove",
+        "start": 35.78,
+        "end": 36.16
       },
       {
         "i": 109,
-        "word": "design.",
-        "start": 38.7,
-        "end": 39.1
+        "word": "captions",
+        "start": 36.16,
+        "end": 36.66
+      },
+      {
+        "i": 110,
+        "word": "that",
+        "start": 36.66,
+        "end": 36.82
+      },
+      {
+        "i": 111,
+        "word": "exist",
+        "start": 36.82,
+        "end": 37.14
+      },
+      {
+        "i": 112,
+        "word": "as",
+        "start": 37.14,
+        "end": 37.42
+      },
+      {
+        "i": 113,
+        "word": "editable",
+        "start": 37.42,
+        "end": 37.96
+      },
+      {
+        "i": 114,
+        "word": "elements",
+        "start": 37.96,
+        "end": 38.3
+      },
+      {
+        "i": 115,
+        "word": "in",
+        "start": 38.3,
+        "end": 38.54
+      },
+      {
+        "i": 116,
+        "word": "the",
+        "start": 38.54,
+        "end": 38.66
+      },
+      {
+        "i": 117,
+        "word": "project.",
+        "start": 38.66,
+        "end": 39.0
       }
     ]
   },
   {
     "id": 10,
-    "text": "You can also try one of the alternative styles.",
-    "start": 39.82,
-    "end": 42.08,
+    "text": "If you uploaded a finished video with subtitles and already burned into its picture, those words are part of the footage and cannot be deleted through the captions panel.",
+    "start": 39.74,
+    "end": 47.68,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      110,
-      118
+      118,
+      146
     ],
     "words": [
       {
-        "i": 110,
-        "word": "You",
-        "start": 39.82,
-        "end": 39.96
-      },
-      {
-        "i": 111,
-        "word": "can",
-        "start": 39.96,
-        "end": 40.06
-      },
-      {
-        "i": 112,
-        "word": "also",
-        "start": 40.06,
-        "end": 40.24
-      },
-      {
-        "i": 113,
-        "word": "try",
-        "start": 40.24,
-        "end": 40.52
-      },
-      {
-        "i": 114,
-        "word": "one",
-        "start": 40.52,
-        "end": 40.7
-      },
-      {
-        "i": 115,
-        "word": "of",
-        "start": 40.7,
-        "end": 40.82
-      },
-      {
-        "i": 116,
-        "word": "the",
-        "start": 40.82,
-        "end": 40.98
-      },
-      {
-        "i": 117,
-        "word": "alternative",
-        "start": 40.98,
-        "end": 41.52
-      },
-      {
         "i": 118,
-        "word": "styles.",
-        "start": 41.52,
-        "end": 42.08
+        "word": "If",
+        "start": 39.74,
+        "end": 39.9
+      },
+      {
+        "i": 119,
+        "word": "you",
+        "start": 39.9,
+        "end": 40.04
+      },
+      {
+        "i": 120,
+        "word": "uploaded",
+        "start": 40.04,
+        "end": 40.46
+      },
+      {
+        "i": 121,
+        "word": "a",
+        "start": 40.46,
+        "end": 40.64
+      },
+      {
+        "i": 122,
+        "word": "finished",
+        "start": 40.64,
+        "end": 40.86
+      },
+      {
+        "i": 123,
+        "word": "video",
+        "start": 40.86,
+        "end": 41.24
+      },
+      {
+        "i": 124,
+        "word": "with",
+        "start": 41.24,
+        "end": 41.46
+      },
+      {
+        "i": 125,
+        "word": "subtitles",
+        "start": 41.46,
+        "end": 41.9
+      },
+      {
+        "i": 126,
+        "word": "and",
+        "start": 41.9,
+        "end": 42.28
+      },
+      {
+        "i": 127,
+        "word": "already",
+        "start": 42.28,
+        "end": 42.52
+      },
+      {
+        "i": 128,
+        "word": "burned",
+        "start": 42.52,
+        "end": 42.8
+      },
+      {
+        "i": 129,
+        "word": "into",
+        "start": 42.8,
+        "end": 43.04
+      },
+      {
+        "i": 130,
+        "word": "its",
+        "start": 43.04,
+        "end": 43.2
+      },
+      {
+        "i": 131,
+        "word": "picture,",
+        "start": 43.2,
+        "end": 43.62
+      },
+      {
+        "i": 132,
+        "word": "those",
+        "start": 44.0,
+        "end": 44.22
+      },
+      {
+        "i": 133,
+        "word": "words",
+        "start": 44.22,
+        "end": 44.52
+      },
+      {
+        "i": 134,
+        "word": "are",
+        "start": 44.52,
+        "end": 44.68
+      },
+      {
+        "i": 135,
+        "word": "part",
+        "start": 44.68,
+        "end": 44.88
+      },
+      {
+        "i": 136,
+        "word": "of",
+        "start": 44.88,
+        "end": 45.02
+      },
+      {
+        "i": 137,
+        "word": "the",
+        "start": 45.02,
+        "end": 45.1
+      },
+      {
+        "i": 138,
+        "word": "footage",
+        "start": 45.1,
+        "end": 45.42
+      },
+      {
+        "i": 139,
+        "word": "and",
+        "start": 45.42,
+        "end": 45.7
+      },
+      {
+        "i": 140,
+        "word": "cannot",
+        "start": 45.7,
+        "end": 45.96
+      },
+      {
+        "i": 141,
+        "word": "be",
+        "start": 45.96,
+        "end": 46.16
+      },
+      {
+        "i": 142,
+        "word": "deleted",
+        "start": 46.16,
+        "end": 46.5
+      },
+      {
+        "i": 143,
+        "word": "through",
+        "start": 46.5,
+        "end": 46.8
+      },
+      {
+        "i": 144,
+        "word": "the",
+        "start": 46.8,
+        "end": 47.02
+      },
+      {
+        "i": 145,
+        "word": "captions",
+        "start": 47.02,
+        "end": 47.36
+      },
+      {
+        "i": 146,
+        "word": "panel.",
+        "start": 47.36,
+        "end": 47.68
       }
     ]
   },
   {
     "id": 11,
-    "text": "Preview the entire design rather than checking only the first page.",
-    "start": 42.94,
-    "end": 46.3,
+    "text": "For burned-in subtitles, use the original video without captions or return to the project that created them.",
+    "start": 48.62,
+    "end": 54.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      119,
-      129
+      147,
+      164
     ],
     "words": [
       {
-        "i": 119,
-        "word": "Preview",
-        "start": 42.94,
-        "end": 43.0
+        "i": 147,
+        "word": "For",
+        "start": 48.62,
+        "end": 48.78
       },
       {
-        "i": 120,
+        "i": 148,
+        "word": "burned",
+        "start": 48.78,
+        "end": 49.02
+      },
+      {
+        "i": 149,
+        "word": "-in",
+        "start": 49.02,
+        "end": 49.2
+      },
+      {
+        "i": 150,
+        "word": "subtitles,",
+        "start": 49.2,
+        "end": 49.7
+      },
+      {
+        "i": 151,
+        "word": "use",
+        "start": 50.04,
+        "end": 50.3
+      },
+      {
+        "i": 152,
         "word": "the",
-        "start": 43.0,
-        "end": 43.3
+        "start": 50.3,
+        "end": 50.44
       },
       {
-        "i": 121,
-        "word": "entire",
-        "start": 43.3,
-        "end": 43.74
+        "i": 153,
+        "word": "original",
+        "start": 50.44,
+        "end": 50.72
       },
       {
-        "i": 122,
-        "word": "design",
-        "start": 43.74,
-        "end": 44.2
+        "i": 154,
+        "word": "video",
+        "start": 50.72,
+        "end": 51.14
       },
       {
-        "i": 123,
-        "word": "rather",
-        "start": 44.2,
-        "end": 44.46
+        "i": 155,
+        "word": "without",
+        "start": 51.14,
+        "end": 51.62
       },
       {
-        "i": 124,
-        "word": "than",
-        "start": 44.46,
-        "end": 44.74
+        "i": 156,
+        "word": "captions",
+        "start": 51.62,
+        "end": 52.22
       },
       {
-        "i": 125,
-        "word": "checking",
-        "start": 44.74,
-        "end": 44.98
+        "i": 157,
+        "word": "or",
+        "start": 52.22,
+        "end": 52.56
       },
       {
-        "i": 126,
-        "word": "only",
-        "start": 44.98,
-        "end": 45.44
+        "i": 158,
+        "word": "return",
+        "start": 52.56,
+        "end": 52.88
       },
       {
-        "i": 127,
+        "i": 159,
+        "word": "to",
+        "start": 52.88,
+        "end": 53.06
+      },
+      {
+        "i": 160,
         "word": "the",
-        "start": 45.44,
-        "end": 45.66
+        "start": 53.06,
+        "end": 53.18
       },
       {
-        "i": 128,
-        "word": "first",
-        "start": 45.66,
-        "end": 45.86
+        "i": 161,
+        "word": "project",
+        "start": 53.18,
+        "end": 53.46
       },
       {
-        "i": 129,
-        "word": "page.",
-        "start": 45.86,
-        "end": 46.3
+        "i": 162,
+        "word": "that",
+        "start": 53.46,
+        "end": 53.68
+      },
+      {
+        "i": 163,
+        "word": "created",
+        "start": 53.68,
+        "end": 53.96
+      },
+      {
+        "i": 164,
+        "word": "them.",
+        "start": 53.96,
+        "end": 54.32
       }
     ]
   },
   {
     "id": 12,
-    "text": "Watch how headings enter, how images move and how one page connects to the next.",
-    "start": 47.0,
-    "end": 51.66,
+    "text": "Cropping may hide words near an edge, but it also removes part of the picture.",
+    "start": 54.32,
+    "end": 58.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      130,
-      144
+      165,
+      179
     ],
     "words": [
       {
-        "i": 130,
-        "word": "Watch",
-        "start": 47.0,
-        "end": 47.14
+        "i": 165,
+        "word": "Cropping",
+        "start": 54.32,
+        "end": 55.3
       },
       {
-        "i": 131,
-        "word": "how",
-        "start": 47.14,
-        "end": 47.4
+        "i": 166,
+        "word": "may",
+        "start": 55.3,
+        "end": 55.5
       },
       {
-        "i": 132,
-        "word": "headings",
-        "start": 47.4,
-        "end": 47.76
+        "i": 167,
+        "word": "hide",
+        "start": 55.5,
+        "end": 55.82
       },
       {
-        "i": 133,
-        "word": "enter,",
-        "start": 47.76,
-        "end": 48.18
+        "i": 168,
+        "word": "words",
+        "start": 55.82,
+        "end": 56.14
       },
       {
-        "i": 134,
-        "word": "how",
-        "start": 48.5,
-        "end": 48.76
+        "i": 169,
+        "word": "near",
+        "start": 56.14,
+        "end": 56.36
       },
       {
-        "i": 135,
-        "word": "images",
-        "start": 48.76,
-        "end": 49.08
+        "i": 170,
+        "word": "an",
+        "start": 56.36,
+        "end": 56.52
       },
       {
-        "i": 136,
-        "word": "move",
-        "start": 49.08,
-        "end": 49.5
+        "i": 171,
+        "word": "edge,",
+        "start": 56.52,
+        "end": 56.72
       },
       {
-        "i": 137,
-        "word": "and",
-        "start": 49.5,
-        "end": 49.98
+        "i": 172,
+        "word": "but",
+        "start": 56.88,
+        "end": 56.92
       },
       {
-        "i": 138,
-        "word": "how",
-        "start": 49.98,
-        "end": 50.16
+        "i": 173,
+        "word": "it",
+        "start": 56.92,
+        "end": 57.04
       },
       {
-        "i": 139,
-        "word": "one",
-        "start": 50.16,
-        "end": 50.42
+        "i": 174,
+        "word": "also",
+        "start": 57.04,
+        "end": 57.34
       },
       {
-        "i": 140,
-        "word": "page",
-        "start": 50.42,
-        "end": 50.7
+        "i": 175,
+        "word": "removes",
+        "start": 57.34,
+        "end": 57.78
       },
       {
-        "i": 141,
-        "word": "connects",
-        "start": 50.7,
-        "end": 51.02
+        "i": 176,
+        "word": "part",
+        "start": 57.78,
+        "end": 58.06
       },
       {
-        "i": 142,
-        "word": "to",
-        "start": 51.02,
-        "end": 51.28
+        "i": 177,
+        "word": "of",
+        "start": 58.06,
+        "end": 58.22
       },
       {
-        "i": 143,
+        "i": 178,
         "word": "the",
-        "start": 51.28,
-        "end": 51.38
+        "start": 58.22,
+        "end": 58.32
       },
       {
-        "i": 144,
-        "word": "next.",
-        "start": 51.38,
-        "end": 51.66
+        "i": 179,
+        "word": "picture.",
+        "start": 58.32,
+        "end": 58.64
       }
     ]
   },
   {
     "id": 13,
-    "text": "If a particular object needs a different treatment, select it and adjust its animation manually.",
-    "start": 51.66,
-    "end": 57.52,
+    "text": "If captions only appear during playback and have no editable layer, check whether view-only accessibility captions are enabled.",
+    "start": 59.22,
+    "end": 65.9,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      145,
-      159
+      180,
+      198
     ],
     "words": [
       {
-        "i": 145,
+        "i": 180,
         "word": "If",
-        "start": 51.66,
-        "end": 52.58
+        "start": 59.22,
+        "end": 59.28
       },
       {
-        "i": 146,
-        "word": "a",
-        "start": 52.58,
-        "end": 52.7
+        "i": 181,
+        "word": "captions",
+        "start": 59.28,
+        "end": 59.72
       },
       {
-        "i": 147,
-        "word": "particular",
-        "start": 52.7,
-        "end": 53.06
+        "i": 182,
+        "word": "only",
+        "start": 59.72,
+        "end": 60.06
       },
       {
-        "i": 148,
-        "word": "object",
-        "start": 53.06,
-        "end": 53.4
+        "i": 183,
+        "word": "appear",
+        "start": 60.06,
+        "end": 60.38
       },
       {
-        "i": 149,
-        "word": "needs",
-        "start": 53.4,
-        "end": 53.68
+        "i": 184,
+        "word": "during",
+        "start": 60.38,
+        "end": 60.7
       },
       {
-        "i": 150,
-        "word": "a",
-        "start": 53.68,
-        "end": 53.84
+        "i": 185,
+        "word": "playback",
+        "start": 60.7,
+        "end": 61.06
       },
       {
-        "i": 151,
-        "word": "different",
-        "start": 53.84,
-        "end": 54.08
-      },
-      {
-        "i": 152,
-        "word": "treatment,",
-        "start": 54.08,
-        "end": 54.54
-      },
-      {
-        "i": 153,
-        "word": "select",
-        "start": 54.96,
-        "end": 55.2
-      },
-      {
-        "i": 154,
-        "word": "it",
-        "start": 55.2,
-        "end": 55.5
-      },
-      {
-        "i": 155,
+        "i": 186,
         "word": "and",
-        "start": 55.5,
-        "end": 55.8
+        "start": 61.06,
+        "end": 61.44
       },
       {
-        "i": 156,
-        "word": "adjust",
-        "start": 55.8,
-        "end": 56.08
+        "i": 187,
+        "word": "have",
+        "start": 61.44,
+        "end": 61.6
       },
       {
-        "i": 157,
-        "word": "its",
-        "start": 56.08,
-        "end": 56.36
+        "i": 188,
+        "word": "no",
+        "start": 61.6,
+        "end": 61.88
       },
       {
-        "i": 158,
-        "word": "animation",
-        "start": 56.36,
-        "end": 56.8
+        "i": 189,
+        "word": "editable",
+        "start": 61.88,
+        "end": 62.42
       },
       {
-        "i": 159,
-        "word": "manually.",
-        "start": 56.8,
-        "end": 57.52
+        "i": 190,
+        "word": "layer,",
+        "start": 62.42,
+        "end": 62.7
+      },
+      {
+        "i": 191,
+        "word": "check",
+        "start": 63.14,
+        "end": 63.26
+      },
+      {
+        "i": 192,
+        "word": "whether",
+        "start": 63.26,
+        "end": 63.5
+      },
+      {
+        "i": 193,
+        "word": "view",
+        "start": 63.5,
+        "end": 63.76
+      },
+      {
+        "i": 194,
+        "word": "-only",
+        "start": 63.76,
+        "end": 64.08
+      },
+      {
+        "i": 195,
+        "word": "accessibility",
+        "start": 64.08,
+        "end": 64.64
+      },
+      {
+        "i": 196,
+        "word": "captions",
+        "start": 64.64,
+        "end": 65.3
+      },
+      {
+        "i": 197,
+        "word": "are",
+        "start": 65.3,
+        "end": 65.48
+      },
+      {
+        "i": 198,
+        "word": "enabled.",
+        "start": 65.48,
+        "end": 65.9
       }
     ]
   },
   {
     "id": 14,
-    "text": "Use the object's timing controls when you need to change when it appears.",
-    "start": 58.38,
-    "end": 61.84,
+    "text": "Download a new MP4 after deleting the editable captions.",
+    "start": 66.48,
+    "end": 69.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      160,
-      172
+      199,
+      207
     ],
     "words": [
       {
-        "i": 160,
-        "word": "Use",
-        "start": 58.38,
-        "end": 58.64
+        "i": 199,
+        "word": "Download",
+        "start": 66.48,
+        "end": 66.72
       },
       {
-        "i": 161,
+        "i": 200,
+        "word": "a",
+        "start": 66.72,
+        "end": 66.9
+      },
+      {
+        "i": 201,
+        "word": "new",
+        "start": 66.9,
+        "end": 67.06
+      },
+      {
+        "i": 202,
+        "word": "MP4",
+        "start": 67.06,
+        "end": 67.76
+      },
+      {
+        "i": 203,
+        "word": "after",
+        "start": 67.76,
+        "end": 68.08
+      },
+      {
+        "i": 204,
+        "word": "deleting",
+        "start": 68.08,
+        "end": 68.42
+      },
+      {
+        "i": 205,
         "word": "the",
-        "start": 58.64,
-        "end": 58.86
+        "start": 68.42,
+        "end": 68.64
       },
       {
-        "i": 162,
-        "word": "object's",
-        "start": 58.86,
-        "end": 59.32
+        "i": 206,
+        "word": "editable",
+        "start": 68.64,
+        "end": 69.14
       },
       {
-        "i": 163,
-        "word": "timing",
-        "start": 59.32,
-        "end": 59.58
-      },
-      {
-        "i": 164,
-        "word": "controls",
-        "start": 59.58,
-        "end": 60.06
-      },
-      {
-        "i": 165,
-        "word": "when",
-        "start": 60.06,
-        "end": 60.4
-      },
-      {
-        "i": 166,
-        "word": "you",
-        "start": 60.4,
-        "end": 60.52
-      },
-      {
-        "i": 167,
-        "word": "need",
-        "start": 60.52,
-        "end": 60.68
-      },
-      {
-        "i": 168,
-        "word": "to",
-        "start": 60.68,
-        "end": 60.84
-      },
-      {
-        "i": 169,
-        "word": "change",
-        "start": 60.84,
-        "end": 61.14
-      },
-      {
-        "i": 170,
-        "word": "when",
-        "start": 61.14,
-        "end": 61.38
-      },
-      {
-        "i": 171,
-        "word": "it",
-        "start": 61.38,
-        "end": 61.48
-      },
-      {
-        "i": 172,
-        "word": "appears.",
-        "start": 61.48,
-        "end": 61.84
+        "i": 207,
+        "word": "captions.",
+        "start": 69.14,
+        "end": 69.7
       }
     ]
   },
   {
     "id": 15,
-    "text": "Here's the part many tutorials skip.",
-    "start": 63.16,
-    "end": 65.04,
+    "text": "An older exported file will still contain the subtitles from before the change.",
+    "start": 70.14,
+    "end": 74.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      173,
-      178
+      208,
+      220
     ],
     "words": [
-      {
-        "i": 173,
-        "word": "Here's",
-        "start": 63.16,
-        "end": 63.38
-      },
-      {
-        "i": 174,
-        "word": "the",
-        "start": 63.38,
-        "end": 63.48
-      },
-      {
-        "i": 175,
-        "word": "part",
-        "start": 63.48,
-        "end": 63.66
-      },
-      {
-        "i": 176,
-        "word": "many",
-        "start": 63.66,
-        "end": 64.06
-      },
-      {
-        "i": 177,
-        "word": "tutorials",
-        "start": 64.06,
-        "end": 64.64
-      },
-      {
-        "i": 178,
-        "word": "skip.",
-        "start": 64.64,
-        "end": 65.04
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "text": "Automatic animation choices still need a readability check.",
-    "start": 65.7,
-    "end": 68.94,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      179,
-      186
-    ],
-    "words": [
-      {
-        "i": 179,
-        "word": "Automatic",
-        "start": 65.7,
-        "end": 65.96
-      },
-      {
-        "i": 180,
-        "word": "animation",
-        "start": 65.96,
-        "end": 66.46
-      },
-      {
-        "i": 181,
-        "word": "choices",
-        "start": 66.46,
-        "end": 67.04
-      },
-      {
-        "i": 182,
-        "word": "still",
-        "start": 67.04,
-        "end": 67.62
-      },
-      {
-        "i": 183,
-        "word": "need",
-        "start": 67.62,
-        "end": 67.9
-      },
-      {
-        "i": 184,
-        "word": "a",
-        "start": 67.9,
-        "end": 68.12
-      },
-      {
-        "i": 185,
-        "word": "readability",
-        "start": 68.12,
-        "end": 68.54
-      },
-      {
-        "i": 186,
-        "word": "check.",
-        "start": 68.54,
-        "end": 68.94
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "text": "A good-looking entrance can leave a long sentence on screen for too little time, so adjust the timing after applying the style.",
-    "start": 69.52,
-    "end": 75.72,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      187,
-      209
-    ],
-    "words": [
-      {
-        "i": 187,
-        "word": "A",
-        "start": 69.52,
-        "end": 69.74
-      },
-      {
-        "i": 188,
-        "word": "good",
-        "start": 69.74,
-        "end": 69.86
-      },
-      {
-        "i": 189,
-        "word": "-looking",
-        "start": 69.86,
-        "end": 70.04
-      },
-      {
-        "i": 190,
-        "word": "entrance",
-        "start": 70.04,
-        "end": 70.48
-      },
-      {
-        "i": 191,
-        "word": "can",
-        "start": 70.48,
-        "end": 70.74
-      },
-      {
-        "i": 192,
-        "word": "leave",
-        "start": 70.74,
-        "end": 70.88
-      },
-      {
-        "i": 193,
-        "word": "a",
-        "start": 70.88,
-        "end": 71.04
-      },
-      {
-        "i": 194,
-        "word": "long",
-        "start": 71.04,
-        "end": 71.24
-      },
-      {
-        "i": 195,
-        "word": "sentence",
-        "start": 71.24,
-        "end": 71.56
-      },
-      {
-        "i": 196,
-        "word": "on",
-        "start": 71.56,
-        "end": 71.84
-      },
-      {
-        "i": 197,
-        "word": "screen",
-        "start": 71.84,
-        "end": 72.14
-      },
-      {
-        "i": 198,
-        "word": "for",
-        "start": 72.14,
-        "end": 72.38
-      },
-      {
-        "i": 199,
-        "word": "too",
-        "start": 72.38,
-        "end": 72.66
-      },
-      {
-        "i": 200,
-        "word": "little",
-        "start": 72.66,
-        "end": 72.84
-      },
-      {
-        "i": 201,
-        "word": "time,",
-        "start": 72.84,
-        "end": 73.22
-      },
-      {
-        "i": 202,
-        "word": "so",
-        "start": 73.22,
-        "end": 73.48
-      },
-      {
-        "i": 203,
-        "word": "adjust",
-        "start": 73.48,
-        "end": 73.8
-      },
-      {
-        "i": 204,
-        "word": "the",
-        "start": 73.8,
-        "end": 73.98
-      },
-      {
-        "i": 205,
-        "word": "timing",
-        "start": 73.98,
-        "end": 74.32
-      },
-      {
-        "i": 206,
-        "word": "after",
-        "start": 74.32,
-        "end": 74.78
-      },
-      {
-        "i": 207,
-        "word": "applying",
-        "start": 74.78,
-        "end": 75.2
-      },
       {
         "i": 208,
-        "word": "the",
-        "start": 75.2,
-        "end": 75.36
+        "word": "An",
+        "start": 70.14,
+        "end": 70.24
       },
       {
         "i": 209,
-        "word": "style.",
-        "start": 75.36,
-        "end": 75.72
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "text": "For a live presentation, test the result in Present To share a fixed animated version, click Share, Download and choose MP4 Video.",
-    "start": 76.42,
-    "end": 85.14,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      210,
-      231
-    ],
-    "words": [
+        "word": "older",
+        "start": 70.24,
+        "end": 70.54
+      },
       {
         "i": 210,
-        "word": "For",
-        "start": 76.42,
-        "end": 76.58
+        "word": "exported",
+        "start": 70.54,
+        "end": 71.02
       },
       {
         "i": 211,
-        "word": "a",
-        "start": 76.58,
-        "end": 76.68
+        "word": "file",
+        "start": 71.02,
+        "end": 71.4
       },
       {
         "i": 212,
-        "word": "live",
-        "start": 76.68,
-        "end": 76.84
+        "word": "will",
+        "start": 71.4,
+        "end": 71.62
       },
       {
         "i": 213,
-        "word": "presentation,",
-        "start": 76.84,
-        "end": 77.34
+        "word": "still",
+        "start": 71.62,
+        "end": 71.88
       },
       {
         "i": 214,
-        "word": "test",
-        "start": 77.74,
-        "end": 77.98
+        "word": "contain",
+        "start": 71.88,
+        "end": 72.2
       },
       {
         "i": 215,
         "word": "the",
-        "start": 77.98,
-        "end": 78.16
+        "start": 72.2,
+        "end": 72.36
       },
       {
         "i": 216,
-        "word": "result",
-        "start": 78.16,
-        "end": 78.42
+        "word": "subtitles",
+        "start": 72.36,
+        "end": 72.8
       },
       {
         "i": 217,
-        "word": "in",
-        "start": 78.42,
-        "end": 78.76
+        "word": "from",
+        "start": 72.8,
+        "end": 73.32
       },
       {
         "i": 218,
-        "word": "Present",
-        "start": 78.76,
-        "end": 79.08
+        "word": "before",
+        "start": 73.32,
+        "end": 73.68
       },
       {
         "i": 219,
-        "word": "To",
-        "start": 79.08,
-        "end": 79.68
+        "word": "the",
+        "start": 73.68,
+        "end": 73.84
       },
       {
         "i": 220,
-        "word": "share",
-        "start": 79.68,
-        "end": 79.96
-      },
-      {
-        "i": 221,
-        "word": "a",
-        "start": 79.96,
-        "end": 80.2
-      },
-      {
-        "i": 222,
-        "word": "fixed",
-        "start": 80.2,
-        "end": 80.54
-      },
-      {
-        "i": 223,
-        "word": "animated",
-        "start": 80.54,
-        "end": 81.02
-      },
-      {
-        "i": 224,
-        "word": "version,",
-        "start": 81.02,
-        "end": 81.5
-      },
-      {
-        "i": 225,
-        "word": "click",
-        "start": 81.76,
-        "end": 82.0
-      },
-      {
-        "i": 226,
-        "word": "Share,",
-        "start": 82.0,
-        "end": 82.38
-      },
-      {
-        "i": 227,
-        "word": "Download",
-        "start": 82.78,
-        "end": 83.06
-      },
-      {
-        "i": 228,
-        "word": "and",
-        "start": 83.06,
-        "end": 83.64
-      },
-      {
-        "i": 229,
-        "word": "choose",
-        "start": 83.64,
-        "end": 84.0
-      },
-      {
-        "i": 230,
-        "word": "MP4",
-        "start": 84.0,
-        "end": 84.82
-      },
-      {
-        "i": 231,
-        "word": "Video.",
-        "start": 84.82,
-        "end": 85.14
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "text": "The design now has a coordinated animation style that you can refine.",
-    "start": 85.98,
-    "end": 89.1,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      232,
-      243
-    ],
-    "words": [
-      {
-        "i": 232,
-        "word": "The",
-        "start": 85.98,
-        "end": 86.1
-      },
-      {
-        "i": 233,
-        "word": "design",
-        "start": 86.1,
-        "end": 86.36
-      },
-      {
-        "i": 234,
-        "word": "now",
-        "start": 86.36,
-        "end": 86.62
-      },
-      {
-        "i": 235,
-        "word": "has",
-        "start": 86.62,
-        "end": 86.8
-      },
-      {
-        "i": 236,
-        "word": "a",
-        "start": 86.8,
-        "end": 86.94
-      },
-      {
-        "i": 237,
-        "word": "coordinated",
-        "start": 86.94,
-        "end": 87.36
-      },
-      {
-        "i": 238,
-        "word": "animation",
-        "start": 87.36,
-        "end": 87.82
-      },
-      {
-        "i": 239,
-        "word": "style",
-        "start": 87.82,
-        "end": 88.3
-      },
-      {
-        "i": 240,
-        "word": "that",
-        "start": 88.3,
-        "end": 88.48
-      },
-      {
-        "i": 241,
-        "word": "you",
-        "start": 88.48,
-        "end": 88.6
-      },
-      {
-        "i": 242,
-        "word": "can",
-        "start": 88.6,
-        "end": 88.74
-      },
-      {
-        "i": 243,
-        "word": "refine.",
-        "start": 88.74,
-        "end": 89.1
+        "word": "change.",
+        "start": 73.84,
+        "end": 74.1
       }
     ]
   }
