@@ -1,8 +1,5 @@
 # Analyze notes (script-20)
-
-- No click log. Times come from contact/event sheets and single frames; coordinates are approximate.
-- The recorder auto-zooms (baked-in zoom) around 10-12, 24-27, 57-79, 87-100, 108-111, 132-136, 144-175, 216-260. Positions of actions in those spans are coordinates of the zoomed frame, so the plan uses no zooms and ripples only on A1-A3 (unzoomed).
-- Low confidence: A7 (trim drag; the clip length label changes 6.8s -> 4.2s around 147-153), A10 (zoom slider position), A12 and A13 (text move on canvas / overlay move on timeline; the movement is subtle), all coordinates marked medium.
-- The recording does not show "Open a video design" (it starts inside the editor) and shows no clip reorder drag (L9); no action exists for them.
-- The recording order differs from the narration (play at 66 s vs. narrated early; audio menu at 122 s; split/delete at 170 s; text overlay at 217-249 s). Sync reorders the footage.
-- 0-8 s idle, 30-34 s, 43-46 s, 82-86 s idle; 87-108 s uploading/adding clips; 112-122 s and 194-206 s idle: not narrated, skipped by jumps.
+- No clicks.json; the recording has baked-in recorder zoom on many stretches (src 5-10, 13-17, 28-33, 90-96, 130+, 229-235), so click coordinates are rough (low confidence) and the plan uses no zooms and no ripples.
+- Only the three clicks the narration names (Properties, Upload files, Open) are listed as actions; all other narration steps (play video, check size/format, browser test, storage) are shown by matching footage intervals, not clicks.
+- Recording (256 s) is much longer than the voiceover (84 s). Long static stretches (src 45-57 properties idle, 62-66, 104-122 Canva idle, 124-140 properties idle, 160-168 Canva idle, 198-202, 217-224) are not used.
+- Narration has no recorded counterpart for "compress/shorten", "export a fresh MP4", "extension alone does not convert", "stable connection", "storage": nearest on-screen footage was used (properties tabs, Google speed test, Canva Data and storage page).

@@ -1,23 +1,19 @@
-This tutorial shows you how to arrange clips, layers and audio using Canva's video timeline.
-Open a video design. The timeline appears at the bottom of the editor.
-If you are viewing page thumbnails, use the page's pencil icon when available to enter the video timeline.
-The vertical line is the playhead.
-Drag it or click the time ruler to inspect a particular moment.
-Press the play button to watch the sequence.
-Your main track holds the primary clips, which play one after another.
-Drag clips along that track to change their order.
-Upper tracks hold overlays, including headings, graphics and additional video.
-Items on higher tracks appear over lower items when they overlap in time.
-Audio has its own track area below the visuals.
-Select a clip or element and drag its edges to adjust its start and end.
-Drag a whole overlay left or right to move its timing without changing its length.
-To split an item, select it, place the playhead at the cut and choose More, then Split.
-You can delete a segment or edit the resulting pieces separately.
-Use timeline zoom to make short clips easier to inspect.
-This enlarges the timeline view. It does not change the video's resolution or playback speed.
+This tutorial shows you how to troubleshoot a video that will not upload or finish processing in Canva.
+First, open the video on your computer.
+Play several parts, including the ending, to check that the file is complete and readable.
+If it will not play locally, obtain a working copy before uploading again.
+Check the file's size and format.
+Canva's current video upload limit is 1 GB per file and MP4 is one of its supported formats.
+Compress or shorten a larger file before retrying.
+If the format seems compatible but Canva rejects it, try exporting a fresh MP4 copy from your video editor.
+Changing the file name extension alone does not convert the video.
+Open the Canva design and upload through uploads, then upload files.
+Wait for processing to finish before placing the clip or generating captions.
 Here's the part many tutorials skip.
-Timeline placement controls when an object appears,
-while its canvas position controls where viewers see it.
-Moving a text layer later does not move the text to a different part of the screen.
-Preview the video, check how the layers overlap,
-and export as MP4 video when the sequence is ready.
+A supported file extension does not guarantee that an incomplete or unusually encoded file will upload.
+A small, freshly exported test clip helps you separate a file problem from a browser or connection problem.
+Try a stable connection and an updated browser.
+If necessary, test another browser and check Canva's status page for an upload incident.
+Also check whether your account has available storage.
+If a small test video uploads but the original still fails,
+investigate that original file's size and encoding before retrying it repeatedly.
