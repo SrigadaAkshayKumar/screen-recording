@@ -1,11 +1,13 @@
-# Sync notes
-plan.json comes from `work/hand_plan.py` (hand budget per narration interval), not plan_builder; check.py --plan: OK, no pace warnings.
+# Sync notes (script-04)
+Hand-built plan (`work/hand_plan.py`, re-run it to regenerate plan.json; plan_builder was not used). No sync anchors, no zooms, no ripples.
 
 ## Judgment calls
-- Anchors: see work/sync.json. A1 lands on "moment" (not "playhead") so the approach plays at ~1x instead of 2.6x. A7 (add) on "design" so preview->add has 1.7 s.
-- Cuts (cross-faded): 3.8-11.2 (idle), 15.7-19.3 and 20.2-28.7 (cursor idle at sidebar), 41.8-50.9 (search results loading), 60.3-65.7 (preview popover), 72-88.5 (idle with clip on timeline), 95.4-99, 103.5-116, 132.5-136.6, 138-147.4 etc. (repeat drags/idle), 175-203 (play spinner), 211.6-217.6 (download skeleton).
-- Intro plays 0-3.8 at 0.75x (zoom-out + cursor), then cursor approach to the timeline.
-- No zooms and no ripples anywhere: the recorder's zoom is baked in; ripples would land in the wrong place.
-- L5 ("open apps / audio in elements") plays over the search-results loading/arrival: the recording never opens Apps.
-- L7 ("open uploads") plays over the clip being added and moving to the timeline: no Uploads step recorded.
-- L11-13 (align/lead-in) use clip-drag footage with tooltips (131-138, 147-158); L14 uses 140.5-143.4 (play click), L15 uses 203-207 (playback), L16 uses Share -> Download -> MP4 (208.5-221.2).
+- Narration order wins: 21 narration blocks, each filled with 1-3 source pieces at one uniform speed (0.8-1.7x), cross-faded at jumps.
+- L5/L6 (install, Connect, authorize) use the Connect-Canva dialog footage recorded at 313-335 s (a retake, recorded after the rest). L7 returns to the connected page (30-32 s, 340-343 s).
+- L8-L10 use the @/plus-menu footage (55-61, 78-84 s); L11 typing uses 4 pieces straddling the non-still gaps (scenes.py flags typing as still), at ~1.6x.
+- L12-L15: design ready/options (253-257), Open link dialog (258-262), title edit (273-280), share/download panel (297-304).
+- L16-L20: settings/plugins footage (308-310, 335-340, 344-351) and the Rename/Reconnect/Disconnect menu (47-55 s).
+- L21 closes on the ChatGPT chat with the Canva chip (382-387 s); the desktop wallpaper after 387.5 s is excluded.
+- Cut: the 192-250 s "generating design" wait (narration does not cover it), the static Canva home (7.5-12 s), static settings pages (32-46 s, 360-373 s), the second take of the design.
+- No zooms/ripples: the recorder baked in zoom on many spans and there is no click log (lessons: script-18, script-01).
+- The 7 check.py warnings "not tied to a narration word" come from the approximate actions.json; they are not anchored on purpose.
