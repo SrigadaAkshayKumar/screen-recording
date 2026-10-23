@@ -3,7 +3,7 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 220.1
+  "duration": 314.3
  },
  "sync": {
   "clicks_offset": 0,
@@ -12,214 +12,37 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 8.45,
-   "x": 970,
-   "y": 575,
-   "kind": "click",
-   "target": "video on the canvas",
-   "result": "video selected, its toolbar appears",
-   "t_result_visible": 9.2,
-   "confidence": "medium"
-  },
-  {
-   "id": "A2",
-   "t_click": 16.12,
-   "x": 1000,
-   "y": 573,
-   "kind": "click",
-   "target": "caption on the video",
-   "result": "caption selected (outline + toolbar)",
-   "t_result_visible": 16.3,
-   "confidence": "medium"
-  },
-  {
-   "id": "A3",
-   "t_click": 26.95,
-   "x": 1482,
-   "y": 214,
-   "kind": "click",
-   "target": "Animate button in the toolbar",
-   "result": "Animate panel opens on the left",
-   "t_result_visible": 27.4,
-   "confidence": "high"
-  },
-  {
-   "id": "A4",
-   "t_click": 29.45,
-   "x": 335,
-   "y": 695,
-   "kind": "click",
-   "target": "Highlight card (Captions section)",
-   "result": "preview plays the Highlight effect",
-   "t_result_visible": 29.6,
-   "confidence": "medium"
-  },
-  {
-   "id": "A5",
-   "t_click": 31.35,
-   "x": 204,
-   "y": 695,
-   "kind": "click",
-   "target": "Reveal card (Captions section)",
-   "result": "Reveal selected",
-   "t_result_visible": 31.45,
-   "confidence": "high"
-  },
-  {
-   "id": "A6",
-   "t_click": 32.55,
-   "x": 335,
-   "y": 695,
-   "kind": "click",
-   "target": "Highlight card (Captions section)",
-   "result": "Highlight selected, preview plays",
-   "t_result_visible": 32.7,
-   "confidence": "high"
-  },
-  {
-   "id": "A7",
-   "t_click": 79.2,
-   "x": 199,
-   "y": 758,
-   "kind": "click",
-   "target": "Typewriter in Suggested text animations",
-   "result": "Typewriter selected, Animate options show",
-   "t_result_visible": 79.4,
-   "confidence": "high"
-  },
-  {
-   "id": "A8",
-   "t_click": 124.65,
-   "x": 564,
-   "y": 214,
-   "kind": "click",
-   "target": "Captions button in the toolbar",
-   "result": "Captions panel opens",
-   "t_result_visible": 124.7,
-   "confidence": "high"
-  },
-  {
-   "id": "A9",
-   "t_click": 125.5,
-   "x": 423,
-   "y": 350,
-   "kind": "click",
-   "target": "Styles tab",
-   "result": "caption style packs listed",
-   "t_result_visible": 125.8,
-   "confidence": "high"
-  },
-  {
-   "id": "A10",
-   "t_click": 177.0,
-   "x": 1015,
-   "y": 715,
-   "kind": "click",
-   "target": "Play button",
-   "result": "playback starts (after a short load)",
-   "t_result_visible": 181.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A11",
-   "t_click": 189.2,
-   "x": 1015,
-   "y": 715,
-   "kind": "click",
-   "target": "Play button",
-   "result": "second playback starts",
-   "t_result_visible": 200.6,
-   "confidence": "low"
-  },
-  {
-   "id": "A12",
-   "t_click": 202.65,
-   "x": 1818,
-   "y": 160,
+   "t_click": 234.5,
+   "x": 1860,
+   "y": 167,
    "kind": "click",
    "target": "Share button",
    "result": "Share design panel opens",
-   "t_result_visible": 202.9,
-   "confidence": "medium"
+   "t_result_visible": 244.0,
+   "confidence": "low"
   },
   {
-   "id": "A13",
-   "t_click": 203.95,
-   "x": 1215,
-   "y": 768,
+   "id": "A2",
+   "t_click": 258.9,
+   "x": 1657,
+   "y": 697,
    "kind": "click",
-   "target": "Download in the share panel",
-   "result": "Download panel (MP4 video) opens",
-   "t_result_visible": 204.2,
-   "confidence": "medium"
+   "target": "Create template link button",
+   "result": "template link created and copied",
+   "t_result_visible": 264.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 284.2,
+   "x": 1642,
+   "y": 760,
+   "kind": "click",
+   "target": "Download button in the download panel",
+   "result": "PDF downloads, browser shows the file",
+   "t_result_visible": 290.0,
+   "confidence": "low"
   }
  ],
- "junk": [
-  {
-   "start": 0.0,
-   "end": 2.667,
-   "reason": "static opening, cursor only",
-   "ff": true
-  },
-  {
-   "start": 34.433,
-   "end": 44.1,
-   "reason": "idle panel, cursor only",
-   "ff": true
-  },
-  {
-   "start": 51.567,
-   "end": 64.833,
-   "reason": "idle (frozen) panel",
-   "ff": true
-  },
-  {
-   "start": 65.9,
-   "end": 71.9,
-   "reason": "idle panel",
-   "ff": true
-  },
-  {
-   "start": 87.167,
-   "end": 96.9,
-   "reason": "idle panel, cursor only",
-   "ff": true
-  },
-  {
-   "start": 116.333,
-   "end": 119.567,
-   "reason": "idle panel",
-   "ff": true
-  },
-  {
-   "start": 128.1,
-   "end": 137.767,
-   "reason": "idle styles panel",
-   "ff": true
-  },
-  {
-   "start": 147.2,
-   "end": 151.033,
-   "reason": "cursor-only slider hover",
-   "ff": true
-  },
-  {
-   "start": 154.933,
-   "end": 165.933,
-   "reason": "idle panel",
-   "ff": true
-  },
-  {
-   "start": 190.0,
-   "end": 199.9,
-   "reason": "player loading spinner",
-   "ff": false
-  },
-  {
-   "start": 216.2,
-   "end": 220.1,
-   "reason": "recorder stop / desktop",
-   "ff": false
-  }
- ]
+ "junk": []
 }

@@ -1,7 +1,7 @@
 # sync notes (script-14)
-- plan_builder was not used: 220 s recording for a 77 s voiceover with long idle spells; plan built by hand (work/hand_plan.py), pieces per narration interval at 0.75-1.5x, jumps cross-faded.
-- No zooms and no ripples: the recorder already zooms (lessons 2026-10-10 script-1, script-18).
-- Anchors are within ~0.12 s of their words; A3 anchored on "available" (not "Animate") and A5 lands 0.12 s before "Reveal" to keep speed >= 0.75x.
-- A4 (first Highlight click, 29.45) is unanchored; it plays inside "Depending on the features...".
-- Footage reused out of source order to follow the audio: L6 (preview) uses 74-79 s, L7 Typewriter 79 s, L9-10 use 109.6-116.3 (other caption, preview), L11 98-102.6 (other captions), L14-15 use 165.9-177 (timeline), second play and Share/Download from 181-206 s.
-- Where the narration has no matching action (L8, L10, L13-15) the footage shows related moving screens, not the exact step.
+Built by `work/hand_plan.py` (23 pieces, 0.71-2x), not plan_builder; no sync anchors (A1-A3 are not tied to words).
+## Judgment calls
+- Footage is not in the narration's order and does not exist for every line, so each line gets a moving piece of the closest step: L1-4 Canva home -> blank A4 page (0-19 s); L5-7 heading/page edits (19-35 s); L8 priorities page (89-95); L9 note-area page (175-179); L10 text-colour panel (123-129); L11 share panel (233-248); L12 download panel (283-287); L13-16 PDF opened in the browser (289-305); L17-19 template link panel (257-274); L20 download again (279-285); L21 page 3 note area (199-205).
+- L14 (preview image) and L15-16 have no matching footage; the PDF view is reused.
+- Typing (20.9-24.9 src) is played at ~2x; one piece at 0.71x (static typing footage 24-26.8 is 0.78x).
+- All jumps are cross-faded (22 xfades) because pieces come from all over the recording.
