@@ -1,130 +1,140 @@
 {
  "output": {
-  "duration": 83.127,
+  "duration": 96.27,
   "fps": 30,
   "width": 1920,
   "height": 1080
  },
  "segments": [
   {
-   "src_start": 10.0,
-   "src_end": 16.94,
+   "src_start": 107.0,
+   "src_end": 112.66,
    "out_start": 0,
-   "out_end": 6.94,
+   "out_end": 5.66,
    "mode": "speed"
   },
   {
-   "src_start": 17.0,
-   "src_end": 23.0,
-   "out_start": 6.94,
-   "out_end": 11.84,
+   "src_start": 7.9,
+   "src_end": 13.4,
+   "out_start": 5.66,
+   "out_end": 12.76,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 30.5,
-   "src_end": 34.7,
-   "out_start": 11.84,
-   "out_end": 15.24,
+   "src_start": 19.2,
+   "src_end": 25.1,
+   "out_start": 12.76,
+   "out_end": 20.5,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 34.7,
-   "src_end": 37.4,
-   "out_start": 15.24,
-   "out_end": 18.8,
+   "src_start": 25.1,
+   "src_end": 27.5,
+   "out_start": 20.5,
+   "out_end": 23.6,
    "mode": "speed"
   },
   {
-   "src_start": 37.4,
-   "src_end": 39.4,
-   "out_start": 18.8,
-   "out_end": 20.82,
-   "mode": "speed"
-  },
-  {
-   "src_start": 42.0,
-   "src_end": 45.1,
-   "out_start": 20.82,
-   "out_end": 23.12,
+   "src_start": 35.4,
+   "src_end": 43.1,
+   "out_start": 23.6,
+   "out_end": 33.2,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 45.1,
-   "src_end": 50.0,
-   "out_start": 23.12,
-   "out_end": 29.14,
+   "src_start": 43.1,
+   "src_end": 49.0,
+   "out_start": 33.2,
+   "out_end": 37.7,
    "mode": "speed"
   },
   {
-   "src_start": 71.4,
-   "src_end": 76.0,
-   "out_start": 29.14,
-   "out_end": 34.56,
+   "src_start": 52.0,
+   "src_end": 57.0,
+   "out_start": 37.7,
+   "out_end": 41.03,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 118.8,
-   "src_end": 133.7,
-   "out_start": 34.56,
-   "out_end": 49.3,
+   "src_start": 62.8,
+   "src_end": 71.8,
+   "out_start": 41.03,
+   "out_end": 47.2,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 133.7,
-   "src_end": 135.5,
-   "out_start": 49.3,
-   "out_end": 50.76,
-   "mode": "speed"
-  },
-  {
-   "src_start": 135.5,
-   "src_end": 139.3,
-   "out_start": 50.76,
-   "out_end": 54.56,
-   "mode": "speed"
-  },
-  {
-   "src_start": 88.0,
-   "src_end": 93.0,
-   "out_start": 54.56,
-   "out_end": 59.2,
+   "src_start": 72.0,
+   "src_end": 77.0,
+   "out_start": 47.2,
+   "out_end": 49.92,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 148.0,
-   "src_end": 158.5,
-   "out_start": 59.2,
-   "out_end": 71.48,
+   "src_start": 90.4,
+   "src_end": 92.4,
+   "out_start": 49.92,
+   "out_end": 51.8,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 96.3,
+   "src_end": 106.2,
+   "out_start": 51.8,
+   "out_end": 60.12,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 106.2,
+   "src_end": 117.3,
+   "out_start": 60.12,
+   "out_end": 71.2,
+   "mode": "speed"
+  },
+  {
+   "src_start": 126.3,
+   "src_end": 134.4,
+   "out_start": 71.2,
+   "out_end": 78.44,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 144.6,
+   "src_end": 149.6,
+   "out_start": 78.44,
+   "out_end": 83.0,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 153.3,
+   "src_end": 156.3,
+   "out_start": 83.0,
+   "out_end": 86.94,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 119.9,
+   "src_end": 124.6,
+   "out_start": 86.94,
+   "out_end": 92.52,
    "mode": "speed",
    "xfade": true
   },
   {
    "src_start": 163.8,
-   "src_end": 168.4,
-   "out_start": 71.48,
-   "out_end": 76.1,
-   "mode": "speed",
-   "xfade": true
-  },
-  {
-   "src_start": 197.5,
-   "src_end": 199.0,
-   "out_start": 76.1,
-   "out_end": 77.6,
-   "mode": "speed",
-   "xfade": true
-  },
-  {
-   "src_start": 201.0,
-   "src_end": 208.0,
-   "out_start": 77.6,
-   "out_end": 83.127,
+   "src_end": 167.5,
+   "out_start": 92.52,
+   "out_end": 96.27,
    "mode": "speed",
    "xfade": true
   }
@@ -133,50 +143,7 @@
  "ripples": [],
  "intro": null,
  "outro": null,
- "sync": [
-  {
-   "action": "A1",
-   "line": 4,
-   "word": "Open",
-   "word_index": 44,
-   "word_t": 15.24
-  },
-  {
-   "action": "A2",
-   "line": 5,
-   "word": "Dynamic",
-   "word_index": 54,
-   "word_t": 18.8
-  },
-  {
-   "action": "A3",
-   "line": 5,
-   "word": "media",
-   "word_index": 61,
-   "word_t": 21.58
-  },
-  {
-   "action": "A4",
-   "line": 5,
-   "word": "toolbar.",
-   "word_index": 67,
-   "word_t": 23.12
-  },
-  {
-   "action": "A5",
-   "line": 11,
-   "word": "Apply",
-   "word_index": 133,
-   "word_t": 49.3
-  },
-  {
-   "action": "A6",
-   "line": 11,
-   "word": "generate",
-   "word_index": 137,
-   "word_t": 50.76
-  }
- ],
+ "sync": [],
  "style": {
   "ripple_color": "#2F80ED",
   "ripple_alpha": 0.6,
