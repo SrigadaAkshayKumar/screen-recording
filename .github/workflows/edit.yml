@@ -57,7 +57,8 @@ jobs:
         run: rclone mkdir "$DRIVE/inbox" && rclone mkdir "$DRIVE/output"
       - id: pick
         run: |
-          list=$(python tools/cloud_run.py list --drive "$DRIVE" --want "${{ inputs.projects }}")
+          list=$(python tools/cloud_run.py list --drive "$DRIVE" --want "${{ inputs.projects }}" 2>err.txt) \
+            || { echo "::error title=inbox::$(tr '\n' ' ' < err.txt)"; exit 1; }
           echo "projects=$list" >> "$GITHUB_OUTPUT"
           names=$(echo "$list" | python -c 'import json,sys; print(", ".join(i["stem"] for i in json.load(sys.stdin)) or "nothing in the inbox")')
           echo "### To edit: $names" >> "$GITHUB_STEP_SUMMARY"
