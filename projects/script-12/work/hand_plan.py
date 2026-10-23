@@ -1,32 +1,45 @@
-"""Hand-budgeted plan for script-12 (209 s recording, 75 s voiceover, baked-in recorder zoom: no zooms/ripples)."""
+"""Hand-budgeted plan for script-12 (213 s recording, 104.8 s voiceover, baked-in recorder zoom: no zooms/ripples)."""
 import json, os
 here = os.path.dirname(os.path.abspath(__file__))
-D = 74.908
-# (src_a, src_b, out_a, out_b, xfade)
+D = 104.815
+# (out_end, src_a, src_b, label); out_start = previous out_end
 Q = [
- (0.0, 5.0, 0.0, 6.67, False),        # L1 intro, cursor approaches play (0.75x)
- (5.0, 6.33, 6.67, 8.0, False),       # play clicked, video starts
- (14.3, 17.2, 8.0, 10.9, True),       # video paused (L3)
- (29.2, 33.6, 10.9, 15.3, True),      # select caption on timeline (L4)
- (38.5, 41.5, 15.3, 17.3, True),      # typing the correction
- (58.5, 64.7, 17.3, 22.9, True),      # Captions toolbar -> panel -> matching line (L5)
- (77.0, 90.0, 22.9, 32.9, True),      # edit line in panel (L6-7)
- (120.5, 134.0, 32.9, 44.9, True),    # timeline segment, drag edge (L8-9)
- (146.0, 153.0, 44.9, 51.2, True),    # caption text edit (L10-11)
- (159.8, 166.3, 51.2, 57.7, True),    # end of timeline (L12)
- (175.5, 183.2, 57.7, 65.4, True),    # replay from earlier point (L13-14)
- (183.2, 187.0, 65.4, 69.2, False),   # preview (L15)
- (193.2, 195.4, 69.2, 71.4, True),    # Share -> download panel (L16)
- (198.0, 201.5, 71.4, D, True),       # MP4 -> Download
+ (8.0, 4.6, 10.7, "L1 homepage, search typed"),
+ (10.26, 10.7, 12.73, "L2 results page"),
+ (14.3, 12.73, 15.8, "L2-3 template chosen"),
+ (17.9, 16.4, 19.8, "L3 editor opens"),
+ (21.24, 24.0, 28.4, "L4 title selected and replaced"),
+ (27.32, 44.0, 52.5, "L5 date/venue text edit"),
+ (30.24, 57.0, 60.0, "L6 (no delete footage) editing continues"),
+ (34.04, 117.0, 120.5, "L7 photo section"),
+ (37.0, 63.8, 66.77, "L8 layout browsing"),
+ (38.1, 66.77, 68.97, "L8 static spell at 2x"),
+ (40.52, 68.97, 71.0, "L8 layout browsing"),
+ (44.44, 72.0, 76.0, "L9 button/link text"),
+ (46.64, 85.5, 87.7, "L10 right-click -> Link"),
+ (48.84, 96.0, 99.0, "L10 paste map link"),
+ (55.0, 150.0, 156.0, "L11 form link / form tab"),
+ (59.64, 132.2, 138.0, "L12 RSVP button link"),
+ (63.7, 105.5, 109.5, "L13 button selected"),
+ (67.12, 161.5, 165.0, "L14 mobile preview"),
+ (71.94, 199.9, 204.4, "L15 site buttons -> destinations"),
+ (78.82, 158.0, 164.8, "L16 publish panel"),
+ (83.96, 165.0, 170.0, "L17 address / mobile"),
+ (86.98, 175.46, 178.0, "L18 publish click"),
+ (89.4, 178.0, 182.7, "L19 website live (progress, 2x)"),
+ (91.0, 186.3, 187.5, "L20 open site"),
+ (94.12, 194.8, 197.8, "L20 site scroll"),
+ (98.96, 204.4, 208.4, "L21 form"),
+ (101.9, 155.4, 158.0, "L22 republish: back to Publish"),
+ (D, 209.0, 212.2, "closing"),
 ]
-segs = []
-for a, b, oa, ob, x in Q:
-    s = {"mode": "speed", "src_start": a, "src_end": b, "out_start": oa, "out_end": ob}
-    if x: s["xfade"] = True
-    segs.append(s)
-w = json.load(open(os.path.join(here, "words.json")))
-W = w["words"] if isinstance(w, dict) else w
-def idx(t): return min(range(len(W)), key=lambda i: abs(W[i]["start"] - t))
+segs = []; o = 0.0; prev = None
+for oe, a, b, lab in Q:
+    s = {"mode": "speed", "src_start": a, "src_end": b, "out_start": round(o, 3), "out_end": oe}
+    if prev is not None and abs(a - prev) > 0.05: s["xfade"] = True
+    segs.append(s); prev = b
+    print(f"{lab:40s} {(b-a)/(oe-o):.2f}x")
+    o = oe
 plan = {"output": {"duration": D, "fps": 30.0, "width": 1920, "height": 1080}, "segments": segs,
         "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False},

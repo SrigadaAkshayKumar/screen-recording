@@ -1,14 +1,8 @@
-{"recording":{"width":1920,"height":1080,"fps":30,"duration":209.067},
- "sync":{"clicks_offset":0,"source":"frames"},
- "actions":[
- {"id":"A1","t_click":5.0,"x":975,"y":566,"kind":"click","target":"Play button","result":"video plays","t_result_visible":5.5,"confidence":"medium"},
- {"id":"A2","t_click":16.7,"x":1010,"y":720,"kind":"click","target":"Pause (video paused on 'Because')","result":"playback stops","t_result_visible":17.0,"confidence":"low"},
- {"id":"A3","t_click":32.6,"x":1000,"y":820,"kind":"click","target":"caption/clip on timeline","result":"element toolbar appears","t_result_visible":33.3,"confidence":"medium"},
- {"id":"A4","t_click":38.5,"x":1000,"y":300,"kind":"type","text":"heres","target":"caption text","result":"caption text edited","t_result_visible":40.5,"confidence":"medium"},
- {"id":"A5","t_click":60.6,"x":1010,"y":570,"kind":"click","target":"Captions toolbar button","result":"Captions panel opens","t_result_visible":61.6,"confidence":"medium"},
- {"id":"A6","t_click":79.0,"x":150,"y":300,"kind":"type","text":"I am","target":"caption line in panel","result":"line corrected","t_result_visible":85.8,"confidence":"medium"},
- {"id":"A7","t_click":128.5,"x":900,"y":820,"kind":"drag","x2":930,"y2":820,"t_end":130.5,"target":"caption segment edge on timeline","result":"duration changes","t_result_visible":131,"confidence":"low"},
- {"id":"A8","t_click":176.0,"x":1000,"y":720,"kind":"click","target":"Play button","result":"preview plays","t_result_visible":176.5,"confidence":"medium"},
- {"id":"A9","t_click":193.2,"x":1800,"y":70,"kind":"click","target":"Share button","result":"Share menu","t_result_visible":194,"confidence":"medium"},
- {"id":"A10","t_click":200.2,"x":1000,"y":730,"kind":"click","target":"Download button","result":"export starts","t_result_visible":201,"confidence":"low"}],
- "junk":[{"start":17.2,"end":29.4,"reason":"paused, idle cursor","ff":true},{"start":134.8,"end":143.9,"reason":"idle","ff":true},{"start":167.6,"end":172.1,"reason":"idle","ff":true},{"start":205.5,"end":209.0,"reason":"desktop after recording"}]}
+{"recording":{"width":1920,"height":1080,"fps":30,"duration":213.0},"sync":{"source":"frames"},
+"actions":[
+{"id":"A1","t_click":7.533,"x":960,"y":480,"kind":"type","text":"wedding website","target":"Canva search box","result":"suggestions dropdown","t_result_visible":8.8,"confidence":"low"},
+{"id":"A2","t_click":13.4,"x":960,"y":700,"kind":"click","target":"template thumbnail","result":"editor loads","t_result_visible":17.6,"confidence":"low"},
+{"id":"A3","t_click":24.0,"x":960,"y":500,"kind":"type","text":"RAM & SITA","target":"main title","result":"title replaced","t_result_visible":40.0,"confidence":"low"},
+{"id":"A4","t_click":85.0,"x":1000,"y":540,"kind":"click","target":"Link in context menu","result":"link dialog opens","t_result_visible":92.4,"confidence":"low"},
+{"id":"A5","t_click":157.6,"x":1450,"y":75,"kind":"click","target":"Publish website button","result":"publish panel opens","t_result_visible":158.4,"confidence":"low"}
+],"junk":[]}
