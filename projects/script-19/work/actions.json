@@ -1,9 +1,0 @@
-{"recording":{"width":1920,"height":1080,"fps":30,"duration":234.067},
-"sync":{"clicks_offset":0,"source":"frames"},
-"actions":[
-{"id":"A1","t_click":61.3,"x":74,"y":780,"kind":"click","target":"Captions sidebar button","result":"Captions panel opens with transcript","t_result_visible":62.4,"confidence":"low"},
-{"id":"A2","t_click":90.9,"x":1100,"y":190,"kind":"click","target":"Captions button in the clip toolbar","result":"clip toolbar / captions options","t_result_visible":91.6,"confidence":"low"},
-{"id":"A3","t_click":126.9,"x":835,"y":593,"kind":"click","target":"Play button","result":"video plays with captions","t_result_visible":127.3,"confidence":"medium"},
-{"id":"A4","t_click":214.5,"x":1518,"y":135,"kind":"click","target":"Share button","result":"Share panel opens","t_result_visible":216.0,"confidence":"low"},
-{"id":"A5","t_click":225.5,"x":1347,"y":453,"kind":"click","target":"Download button","result":"download starts","t_result_visible":226.4,"confidence":"low"}],
-"junk":[{"start":228.0,"end":234.067,"reason":"desktop after the demo, recorder stop","ff":false}]}

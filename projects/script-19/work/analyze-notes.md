@@ -1,3 +1,1 @@
-# Analyze notes (script-19)
-- No click log. The recorder baked in auto-zoom (many zoomed spans), so coordinates on zoomed frames are unreliable; actions.json is a short, low-confidence list (A1-A5) only used for documentation. Only A3 (play button, 835,593) was verified on an unzoomed frame.
-- The recording shows a *caption editing/styling* session in Canva (transcript text edits, Styles tab, font, play, share/download). It has NO language settings UI: "Automatically detect spoken language", "Translate captions into", "Apply captions 2" never appear. Those narrated steps could not be shown literally.
+No actions.json was written: the recording has baked-in recorder zoom and no click log, so the plan is hand-built from contact sheets (see sync-notes.md). Not shown in the recording: template search typed text, cropping, the Download file-type choice (PNG shown at 226-229), YouTube upload "Save".

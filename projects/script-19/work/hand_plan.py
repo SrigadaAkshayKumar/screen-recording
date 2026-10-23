@@ -1,38 +1,41 @@
-"""Hand-built plan for script-19 (234 s recording, 83.4 s voiceover, recorder zoom baked in: no zooms/ripples)."""
+"""Hand-built plan for script-19 (301.6 s recording, 102.7 s voiceover, recorder zoom baked in: no zooms/ripples).
+Pieces are taken from the moving windows of the recording (freezedetect n=0.003 d=0.8), one group per narration interval."""
 import json
 P = 'projects/script-19/work/'
-lines = json.load(open(P + 'lines.json'))
-words = {(l['id'], w['word'].strip('.,').lower()): (w['start'], w['i']) for l in lines for w in l['words']}
-END = 83.406
+END = json.load(open(P + 'probe.json'))['voiceover']['duration']
+# (out_start, out_end, [(src_a, src_b)])
 G = [
- (0, 7.62, [(0.0, 7.0)], None),
- (7.62, 11.36, [(60.6, 64.3)], ('A1', 2, 'captions')),
- (11.36, 16.98, [(150.0, 155.6)], None),
- (16.98, 21.22, [(106.0, 110.2)], None),
- (21.22, 27.24, [(88.0, 94.0)], ('A2', 5, 'edit')),
- (27.24, 30.48, [(76.5, 79.7)], None),
- (30.48, 36.6, [(79.7, 84.9)], None),
- (36.6, 40.24, [(164.0, 167.6)], None),
- (40.24, 44.26, [(126.2, 130.2)], ('A3', 9, 'generate')),
- (44.26, 52.24, [(130.2, 138.2)], None),
- (52.24, 54.48, [(71.0, 73.3)], None),
- (54.48, 57.8, [(67.0, 70.3)], None),
- (57.8, 60.92, [(160.6, 163.7)], None),
- (60.92, 66.76, [(167.0, 172.0)], None),
- (66.76, 78.24, [(191.8, 203.3)], None),
- (78.24, END, [(217.0, 222.2)], ('A5', 17, 'download')),
+ (0, 6.08, [(9.1, 11.5), (13.4, 16.1)]),
+ (6.08, 13.72, [(18.1, 21.0), (21.9, 23.1), (24.3, 27.5)]),
+ (13.72, 19.66, [(27.5, 29.1), (36.9, 39.5), (56.1, 57.8)]),
+ (19.66, 25.24, [(157.6, 163.2)]),
+ (25.24, 32.52, [(58.0, 60.7), (75.1, 80.1)]),
+ (32.52, 40.52, [(84.6, 87.0), (89.0, 93.5), (94.8, 96.3)]),
+ (40.52, 45.14, [(125.8, 127.1), (128.1, 132.1)]),
+ (45.14, 49.9, [(132.9, 134.4), (135.5, 139.6)]),
+ (49.9, 55.1, [(163.2, 168.4)]),
+ (55.1, 57.68, [(168.4, 171.0)]),
+ (57.68, 62.84, [(171.0, 175.3), (181.0, 182.6)]),
+ (62.84, 68.8, [(188.8, 190.2), (197.9, 202.0)]),
+ (68.8, 74.24, [(202.0, 203.1), (209.6, 212.6)]),
+ (74.24, 80.26, [(212.6, 213.6), (216.6, 220.5)]),
+ (80.26, 84.94, [(224.2, 228.6)]),
+ (84.94, 88.02, [(238.3, 241.5)]),
+ (88.02, 94.46, [(252.0, 255.6), (258.9, 260.5), (264.7, 266.0)]),
+ (94.46, 99.0, [(271.3, 273.9), (276.2, 278.2)]),
+ (99.0, END, [(281.9, 285.6)]),
 ]
-segs, sync, prev_end = [], [], None
-for o0, o1, pieces, anc in G:
-    sp = sum(p[1] - p[0] for p in pieces) / (o1 - o0)
+segs, prev_end = [], None
+for o0, o1, pieces in G:
+    sp = sum(b - a for a, b in pieces) / (o1 - o0)
     t = o0
-    for k, p in enumerate(pieces):
-        end = o1 if k == len(pieces) - 1 else t + (p[1] - p[0]) / sp
-        s = {"src_start": p[0], "src_end": p[1], "out_start": t, "out_end": end, "mode": "speed"}
-        if len(p) == 3: s["wait"] = True
-        if prev_end is not None and abs(p[0] - prev_end) > 0.002:
+    for k, (a, b) in enumerate(pieces):
+        end = o1 if k == len(pieces) - 1 else t + (b - a) / sp
+        s = {"src_start": a, "src_end": b, "out_start": t, "out_end": end, "mode": "speed"}
+        if prev_end is not None and abs(a - prev_end) > 0.002:
             s["xfade"] = True
-        segs.append(s); prev_end = p[1]; t = end
+        segs.append(s); prev_end = b; t = end
+    print(o0, o1, '%.2fx' % sp)
 plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080},
         "segments": segs, "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
