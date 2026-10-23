@@ -3,143 +3,111 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 204.833
+  "duration": 220.7
  },
  "sync": {
-  "clicks_offset": 0,
   "source": "frames"
  },
  "actions": [
   {
    "id": "A1",
-   "t_click": 16.4,
-   "x": 420,
-   "y": 830,
+   "t_click": 8.4,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Welcome caption segment on timeline",
-   "result": "segment selected, caption toolbar appears",
-   "t_result_visible": 16.8,
-   "confidence": "medium"
+   "target": "Templates tab",
+   "result": "landscape video search",
+   "t_result_visible": 8.700000000000001,
+   "confidence": "low"
   },
   {
    "id": "A2",
-   "t_click": 25.4,
-   "x": 570,
-   "y": 245,
+   "t_click": 23.0,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Captions button in toolbar",
-   "result": "Captions panel opens",
-   "t_result_visible": 26.0,
-   "confidence": "medium"
+   "target": "Blank menu item",
+   "result": "blank page added",
+   "t_result_visible": 23.3,
+   "confidence": "low"
   },
   {
    "id": "A3",
-   "t_click": 29.95,
-   "x": 451,
-   "y": 370,
+   "t_click": 32.2,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Styles tab",
-   "result": "style packs listed",
-   "t_result_visible": 30.6,
-   "confidence": "medium"
+   "target": "Background colour",
+   "result": "colour applied",
+   "t_result_visible": 32.5,
+   "confidence": "low"
   },
   {
    "id": "A4",
-   "t_click": 87.0,
-   "x": 264,
-   "y": 600,
+   "t_click": 46.0,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Momentum style pack tile",
-   "result": "tile starts applying (spinner); style applied to captions at 110.4",
-   "t_result_visible": 110.4,
-   "confidence": "medium"
+   "target": "Add a heading",
+   "result": "headline added",
+   "t_result_visible": 46.3,
+   "confidence": "low"
   },
   {
    "id": "A5",
-   "t_click": 117.5,
-   "x": 240,
-   "y": 830,
-   "kind": "drag",
-   "target": "playhead on timeline",
-   "result": "scrub through the video, captions animate",
-   "t_result_visible": 118.0,
-   "confidence": "medium",
-   "x2": 1700,
-   "y2": 830,
-   "t_end": 135.5
+   "t_click": 69.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "circle search",
+   "result": "circle results",
+   "t_result_visible": 69.3,
+   "confidence": "low"
   },
   {
    "id": "A6",
-   "t_click": 139.0,
-   "x": 576,
-   "y": 245,
+   "t_click": 121.9,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Captions button in toolbar",
-   "result": "Captions panel with Styles reopens",
-   "t_result_visible": 141.0,
-   "confidence": "medium"
+   "target": "Animate",
+   "result": "animation panel",
+   "t_result_visible": 122.2,
+   "confidence": "low"
   },
   {
    "id": "A7",
-   "t_click": 167.9,
-   "x": 300,
-   "y": 370,
+   "t_click": 161.0,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Transcript tab",
-   "result": "transcript list of captions",
-   "t_result_visible": 168.4,
-   "confidence": "medium"
+   "target": "Play button",
+   "result": "preview plays",
+   "t_result_visible": 161.3,
+   "confidence": "low"
   },
   {
    "id": "A8",
-   "t_click": 185.4,
-   "x": 1020,
-   "y": 245,
+   "t_click": 190.9,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Animate button in toolbar",
-   "result": "Animate panel opens",
-   "t_result_visible": 186.0,
-   "confidence": "medium"
+   "target": "Share",
+   "result": "share menu",
+   "t_result_visible": 191.20000000000002,
+   "confidence": "low"
   },
   {
    "id": "A9",
-   "t_click": 194.6,
-   "x": 1050,
-   "y": 690,
+   "t_click": 195.5,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Download in Share panel",
-   "result": "Download settings open",
-   "t_result_visible": 195.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A10",
-   "t_click": 196.5,
-   "x": 1500,
-   "y": 500,
-   "kind": "click",
-   "target": "MP4 Video file type",
-   "result": "MP4 selected in the Download panel",
-   "t_result_visible": 197.0,
-   "confidence": "medium"
+   "target": "MP4 download",
+   "result": "download starts",
+   "t_result_visible": 195.8,
+   "confidence": "low"
   }
  ],
- "junk": [
-  {
-   "start": 6.0,
-   "end": 13.6,
-   "reason": "take 1 idle cursor before the first action"
-  },
-  {
-   "start": 18.4,
-   "end": 24.2,
-   "reason": "take 1 idle (frozen screen) before Captions click",
-   "ff": false
-  },
-  {
-   "start": 45.5,
-   "end": 86.4,
-   "reason": "rest of take 1 (retaken; style never applied) and take 2 intro"
-  }
- ]
+ "junk": []
 }
