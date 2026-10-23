@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to add a recorded voiceover to a Canva video and generate subtitles from that narration.",
+    "text": "This tutorial shows you how to create a complete magazine in Canva, including the cover, article pages and a downloadable PDF.",
     "start": 0.0,
-    "end": 6.28,
+    "end": 7.22,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      19
+      20
     ],
     "words": [
       {
@@ -22,1639 +22,2125 @@
         "i": 1,
         "word": "tutorial",
         "start": 0.24,
-        "end": 0.56
+        "end": 0.58
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.56,
-        "end": 1.0
+        "start": 0.58,
+        "end": 1.02
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.0,
-        "end": 1.2
+        "start": 1.02,
+        "end": 1.22
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.2,
+        "start": 1.22,
         "end": 1.36
       },
       {
         "i": 5,
         "word": "to",
         "start": 1.36,
-        "end": 1.54
+        "end": 1.52
       },
       {
         "i": 6,
-        "word": "add",
-        "start": 1.54,
+        "word": "create",
+        "start": 1.52,
         "end": 1.72
       },
       {
         "i": 7,
         "word": "a",
         "start": 1.72,
-        "end": 1.82
+        "end": 1.98
       },
       {
         "i": 8,
-        "word": "recorded",
-        "start": 1.82,
-        "end": 2.28
+        "word": "complete",
+        "start": 1.98,
+        "end": 2.34
       },
       {
         "i": 9,
-        "word": "voiceover",
-        "start": 2.28,
-        "end": 2.84
+        "word": "magazine",
+        "start": 2.34,
+        "end": 2.92
       },
       {
         "i": 10,
-        "word": "to",
-        "start": 2.84,
-        "end": 3.02
+        "word": "in",
+        "start": 2.92,
+        "end": 3.24
       },
       {
         "i": 11,
-        "word": "a",
-        "start": 3.02,
-        "end": 3.32
+        "word": "Canva,",
+        "start": 3.24,
+        "end": 3.54
       },
       {
         "i": 12,
-        "word": "Canva",
-        "start": 3.32,
-        "end": 3.46
+        "word": "including",
+        "start": 3.64,
+        "end": 3.92
       },
       {
         "i": 13,
-        "word": "video",
-        "start": 3.46,
-        "end": 3.74
+        "word": "the",
+        "start": 3.92,
+        "end": 4.16
       },
       {
         "i": 14,
-        "word": "and",
-        "start": 3.74,
-        "end": 4.34
+        "word": "cover,",
+        "start": 4.16,
+        "end": 4.38
       },
       {
         "i": 15,
-        "word": "generate",
-        "start": 4.34,
-        "end": 4.74
+        "word": "article",
+        "start": 4.88,
+        "end": 5.16
       },
       {
         "i": 16,
-        "word": "subtitles",
-        "start": 4.74,
-        "end": 5.26
+        "word": "pages",
+        "start": 5.16,
+        "end": 5.52
       },
       {
         "i": 17,
-        "word": "from",
-        "start": 5.26,
-        "end": 5.64
+        "word": "and",
+        "start": 5.52,
+        "end": 6.12
       },
       {
         "i": 18,
-        "word": "that",
-        "start": 5.64,
-        "end": 5.8
+        "word": "a",
+        "start": 6.12,
+        "end": 6.24
       },
       {
         "i": 19,
-        "word": "narration.",
-        "start": 5.8,
-        "end": 6.28
+        "word": "downloadable",
+        "start": 6.24,
+        "end": 6.74
+      },
+      {
+        "i": 20,
+        "word": "PDF.",
+        "start": 6.74,
+        "end": 7.22
       }
     ]
   },
   {
     "id": 2,
-    "text": "Open uploads, select upload files, and choose your voiceover recording.",
-    "start": 7.0,
-    "end": 11.34,
+    "text": "Start by deciding the finished page size.",
+    "start": 8.08,
+    "end": 10.08,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      20,
-      29
+      21,
+      27
     ],
     "words": [
       {
-        "i": 20,
-        "word": "Open",
-        "start": 7.0,
-        "end": 7.3
-      },
-      {
         "i": 21,
-        "word": "uploads,",
-        "start": 7.3,
-        "end": 7.92
+        "word": "Start",
+        "start": 8.08,
+        "end": 8.3
       },
       {
         "i": 22,
-        "word": "select",
-        "start": 8.08,
-        "end": 8.32
+        "word": "by",
+        "start": 8.3,
+        "end": 8.48
       },
       {
         "i": 23,
-        "word": "upload",
-        "start": 8.32,
-        "end": 8.72
+        "word": "deciding",
+        "start": 8.48,
+        "end": 8.82
       },
       {
         "i": 24,
-        "word": "files,",
-        "start": 8.72,
-        "end": 9.14
+        "word": "the",
+        "start": 8.82,
+        "end": 9.04
       },
       {
         "i": 25,
-        "word": "and",
-        "start": 9.52,
-        "end": 9.74
+        "word": "finished",
+        "start": 9.04,
+        "end": 9.34
       },
       {
         "i": 26,
-        "word": "choose",
-        "start": 9.74,
-        "end": 10.04
+        "word": "page",
+        "start": 9.34,
+        "end": 9.66
       },
       {
         "i": 27,
-        "word": "your",
-        "start": 10.04,
-        "end": 10.32
-      },
-      {
-        "i": 28,
-        "word": "voiceover",
-        "start": 10.32,
-        "end": 10.82
-      },
-      {
-        "i": 29,
-        "word": "recording.",
-        "start": 10.82,
-        "end": 11.34
+        "word": "size.",
+        "start": 9.66,
+        "end": 10.08
       }
     ]
   },
   {
     "id": 3,
-    "text": "When the upload finishes, add it to the video and position the audio at the point where the narration should start.",
-    "start": 12.2,
-    "end": 17.78,
+    "text": "For this example, create an A4 portrait design.",
+    "start": 10.62,
+    "end": 13.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      30,
-      50
+      28,
+      35
     ],
     "words": [
       {
+        "i": 28,
+        "word": "For",
+        "start": 10.62,
+        "end": 10.74
+      },
+      {
+        "i": 29,
+        "word": "this",
+        "start": 10.74,
+        "end": 10.88
+      },
+      {
         "i": 30,
-        "word": "When",
-        "start": 12.2,
-        "end": 12.4
+        "word": "example,",
+        "start": 10.88,
+        "end": 11.32
       },
       {
         "i": 31,
-        "word": "the",
-        "start": 12.4,
-        "end": 12.5
+        "word": "create",
+        "start": 11.46,
+        "end": 11.7
       },
       {
         "i": 32,
-        "word": "upload",
-        "start": 12.5,
-        "end": 12.8
+        "word": "an",
+        "start": 11.7,
+        "end": 11.98
       },
       {
         "i": 33,
-        "word": "finishes,",
-        "start": 12.8,
-        "end": 13.22
+        "word": "A4",
+        "start": 11.98,
+        "end": 12.62
       },
       {
         "i": 34,
-        "word": "add",
-        "start": 13.56,
-        "end": 13.78
+        "word": "portrait",
+        "start": 12.62,
+        "end": 13.0
       },
       {
         "i": 35,
-        "word": "it",
-        "start": 13.78,
-        "end": 13.9
-      },
-      {
-        "i": 36,
-        "word": "to",
-        "start": 13.9,
-        "end": 14.02
-      },
-      {
-        "i": 37,
-        "word": "the",
-        "start": 14.02,
-        "end": 14.12
-      },
-      {
-        "i": 38,
-        "word": "video",
-        "start": 14.12,
-        "end": 14.38
-      },
-      {
-        "i": 39,
-        "word": "and",
-        "start": 14.38,
-        "end": 14.9
-      },
-      {
-        "i": 40,
-        "word": "position",
-        "start": 14.9,
-        "end": 15.18
-      },
-      {
-        "i": 41,
-        "word": "the",
-        "start": 15.18,
-        "end": 15.4
-      },
-      {
-        "i": 42,
-        "word": "audio",
-        "start": 15.4,
-        "end": 15.7
-      },
-      {
-        "i": 43,
-        "word": "at",
-        "start": 15.7,
-        "end": 16.04
-      },
-      {
-        "i": 44,
-        "word": "the",
-        "start": 16.04,
-        "end": 16.18
-      },
-      {
-        "i": 45,
-        "word": "point",
-        "start": 16.18,
-        "end": 16.36
-      },
-      {
-        "i": 46,
-        "word": "where",
-        "start": 16.36,
-        "end": 16.58
-      },
-      {
-        "i": 47,
-        "word": "the",
-        "start": 16.58,
-        "end": 16.7
-      },
-      {
-        "i": 48,
-        "word": "narration",
-        "start": 16.7,
-        "end": 17.04
-      },
-      {
-        "i": 49,
-        "word": "should",
-        "start": 17.04,
-        "end": 17.36
-      },
-      {
-        "i": 50,
-        "word": "start.",
-        "start": 17.36,
-        "end": 17.78
+        "word": "design.",
+        "start": 13.0,
+        "end": 13.5
       }
     ]
   },
   {
     "id": 4,
-    "text": "Play the video and adjust the scene lengths to match your voice.",
-    "start": 18.52,
-    "end": 21.42,
+    "text": "If a printer will produce the magazine, use that printer's required dimensions.",
+    "start": 14.12,
+    "end": 17.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      51,
-      62
+      36,
+      47
     ],
     "words": [
       {
-        "i": 51,
-        "word": "Play",
-        "start": 18.52,
-        "end": 18.78
+        "i": 36,
+        "word": "If",
+        "start": 14.12,
+        "end": 14.26
       },
       {
-        "i": 52,
+        "i": 37,
+        "word": "a",
+        "start": 14.26,
+        "end": 14.38
+      },
+      {
+        "i": 38,
+        "word": "printer",
+        "start": 14.38,
+        "end": 14.58
+      },
+      {
+        "i": 39,
+        "word": "will",
+        "start": 14.58,
+        "end": 14.8
+      },
+      {
+        "i": 40,
+        "word": "produce",
+        "start": 14.8,
+        "end": 15.08
+      },
+      {
+        "i": 41,
         "word": "the",
-        "start": 18.78,
-        "end": 18.94
+        "start": 15.08,
+        "end": 15.22
       },
       {
-        "i": 53,
-        "word": "video",
-        "start": 18.94,
-        "end": 19.18
+        "i": 42,
+        "word": "magazine,",
+        "start": 15.22,
+        "end": 15.68
       },
       {
-        "i": 54,
-        "word": "and",
-        "start": 19.18,
-        "end": 19.52
+        "i": 43,
+        "word": "use",
+        "start": 16.1,
+        "end": 16.32
       },
       {
-        "i": 55,
-        "word": "adjust",
-        "start": 19.52,
-        "end": 19.8
+        "i": 44,
+        "word": "that",
+        "start": 16.32,
+        "end": 16.52
       },
       {
-        "i": 56,
-        "word": "the",
-        "start": 19.8,
-        "end": 20.04
+        "i": 45,
+        "word": "printer's",
+        "start": 16.52,
+        "end": 16.9
       },
       {
-        "i": 57,
-        "word": "scene",
-        "start": 20.04,
-        "end": 20.28
+        "i": 46,
+        "word": "required",
+        "start": 16.9,
+        "end": 17.22
       },
       {
-        "i": 58,
-        "word": "lengths",
-        "start": 20.28,
-        "end": 20.52
-      },
-      {
-        "i": 59,
-        "word": "to",
-        "start": 20.52,
-        "end": 20.76
-      },
-      {
-        "i": 60,
-        "word": "match",
-        "start": 20.76,
-        "end": 20.9
-      },
-      {
-        "i": 61,
-        "word": "your",
-        "start": 20.9,
-        "end": 21.14
-      },
-      {
-        "i": 62,
-        "word": "voice.",
-        "start": 21.14,
-        "end": 21.42
+        "i": 47,
+        "word": "dimensions.",
+        "start": 17.22,
+        "end": 17.78
       }
     ]
   },
   {
     "id": 5,
-    "text": "If the original footage also contains sound, lower its volume so it does not compete with the narration.",
-    "start": 21.96,
-    "end": 27.08,
+    "text": "Search Canva's templates for magazine layouts.",
+    "start": 18.84,
+    "end": 20.76,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      63,
-      80
+      48,
+      53
     ],
     "words": [
       {
-        "i": 63,
-        "word": "If",
-        "start": 21.96,
-        "end": 22.18
+        "i": 48,
+        "word": "Search",
+        "start": 18.84,
+        "end": 18.92
       },
       {
-        "i": 64,
-        "word": "the",
-        "start": 22.18,
-        "end": 22.32
+        "i": 49,
+        "word": "Canva's",
+        "start": 18.92,
+        "end": 19.42
       },
       {
-        "i": 65,
-        "word": "original",
-        "start": 22.32,
-        "end": 22.56
+        "i": 50,
+        "word": "templates",
+        "start": 19.42,
+        "end": 19.74
       },
       {
-        "i": 66,
-        "word": "footage",
-        "start": 22.56,
-        "end": 22.98
+        "i": 51,
+        "word": "for",
+        "start": 19.74,
+        "end": 20.04
       },
       {
-        "i": 67,
-        "word": "also",
-        "start": 22.98,
-        "end": 23.34
+        "i": 52,
+        "word": "magazine",
+        "start": 20.04,
+        "end": 20.38
       },
       {
-        "i": 68,
-        "word": "contains",
-        "start": 23.34,
-        "end": 23.78
-      },
-      {
-        "i": 69,
-        "word": "sound,",
-        "start": 23.78,
-        "end": 24.2
-      },
-      {
-        "i": 70,
-        "word": "lower",
-        "start": 24.64,
-        "end": 24.78
-      },
-      {
-        "i": 71,
-        "word": "its",
-        "start": 24.78,
-        "end": 25.02
-      },
-      {
-        "i": 72,
-        "word": "volume",
-        "start": 25.02,
-        "end": 25.32
-      },
-      {
-        "i": 73,
-        "word": "so",
-        "start": 25.32,
-        "end": 25.58
-      },
-      {
-        "i": 74,
-        "word": "it",
-        "start": 25.58,
-        "end": 25.68
-      },
-      {
-        "i": 75,
-        "word": "does",
-        "start": 25.68,
-        "end": 25.78
-      },
-      {
-        "i": 76,
-        "word": "not",
-        "start": 25.78,
-        "end": 25.94
-      },
-      {
-        "i": 77,
-        "word": "compete",
-        "start": 25.94,
-        "end": 26.3
-      },
-      {
-        "i": 78,
-        "word": "with",
-        "start": 26.3,
-        "end": 26.54
-      },
-      {
-        "i": 79,
-        "word": "the",
-        "start": 26.54,
-        "end": 26.66
-      },
-      {
-        "i": 80,
-        "word": "narration.",
-        "start": 26.66,
-        "end": 27.08
+        "i": 53,
+        "word": "layouts.",
+        "start": 20.38,
+        "end": 20.76
       }
     ]
   },
   {
     "id": 6,
-    "text": "Next, open text and choose captions under dynamic text.",
-    "start": 27.75,
-    "end": 31.76,
+    "text": "Choose a design with suitable interior pages, as well as a cover.",
+    "start": 21.56,
+    "end": 24.74,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      81,
-      89
+      54,
+      65
     ],
     "words": [
       {
-        "i": 81,
-        "word": "Next,",
-        "start": 27.75,
-        "end": 28.08
+        "i": 54,
+        "word": "Choose",
+        "start": 21.56,
+        "end": 21.7
       },
       {
-        "i": 82,
-        "word": "open",
-        "start": 28.56,
-        "end": 28.84
+        "i": 55,
+        "word": "a",
+        "start": 21.7,
+        "end": 21.86
       },
       {
-        "i": 83,
-        "word": "text",
-        "start": 28.84,
-        "end": 29.18
+        "i": 56,
+        "word": "design",
+        "start": 21.86,
+        "end": 22.16
       },
       {
-        "i": 84,
-        "word": "and",
-        "start": 29.18,
-        "end": 29.66
+        "i": 57,
+        "word": "with",
+        "start": 22.16,
+        "end": 22.36
       },
       {
-        "i": 85,
-        "word": "choose",
-        "start": 29.66,
-        "end": 30.02
+        "i": 58,
+        "word": "suitable",
+        "start": 22.36,
+        "end": 22.7
       },
       {
-        "i": 86,
-        "word": "captions",
-        "start": 30.02,
-        "end": 30.54
+        "i": 59,
+        "word": "interior",
+        "start": 22.7,
+        "end": 23.2
       },
       {
-        "i": 87,
-        "word": "under",
-        "start": 30.54,
-        "end": 30.88
+        "i": 60,
+        "word": "pages,",
+        "start": 23.2,
+        "end": 23.74
       },
       {
-        "i": 88,
-        "word": "dynamic",
-        "start": 30.88,
-        "end": 31.26
+        "i": 61,
+        "word": "as",
+        "start": 23.98,
+        "end": 24.12
       },
       {
-        "i": 89,
-        "word": "text.",
-        "start": 31.26,
-        "end": 31.76
+        "i": 62,
+        "word": "well",
+        "start": 24.12,
+        "end": 24.28
+      },
+      {
+        "i": 63,
+        "word": "as",
+        "start": 24.28,
+        "end": 24.4
+      },
+      {
+        "i": 64,
+        "word": "a",
+        "start": 24.4,
+        "end": 24.52
+      },
+      {
+        "i": 65,
+        "word": "cover.",
+        "start": 24.52,
+        "end": 24.74
       }
     ]
   },
   {
     "id": 7,
-    "text": "In the captions panel, use apply captions to to select the voiceover audio.",
-    "start": 32.56,
-    "end": 36.7,
+    "text": "Apply the pages you need or add pages individually to your existing design.",
+    "start": 25.52,
+    "end": 29.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      90,
-      102
+      66,
+      78
     ],
     "words": [
       {
-        "i": 90,
-        "word": "In",
-        "start": 32.56,
-        "end": 32.68
+        "i": 66,
+        "word": "Apply",
+        "start": 25.52,
+        "end": 25.76
       },
       {
-        "i": 91,
+        "i": 67,
         "word": "the",
-        "start": 32.68,
-        "end": 32.86
+        "start": 25.76,
+        "end": 25.92
       },
       {
-        "i": 92,
-        "word": "captions",
-        "start": 32.86,
-        "end": 33.18
+        "i": 68,
+        "word": "pages",
+        "start": 25.92,
+        "end": 26.16
       },
       {
-        "i": 93,
-        "word": "panel,",
-        "start": 33.18,
-        "end": 33.5
+        "i": 69,
+        "word": "you",
+        "start": 26.16,
+        "end": 26.36
       },
       {
-        "i": 94,
-        "word": "use",
-        "start": 33.8,
-        "end": 33.92
+        "i": 70,
+        "word": "need",
+        "start": 26.36,
+        "end": 26.6
       },
       {
-        "i": 95,
-        "word": "apply",
-        "start": 33.92,
-        "end": 34.24
+        "i": 71,
+        "word": "or",
+        "start": 26.6,
+        "end": 26.94
       },
       {
-        "i": 96,
-        "word": "captions",
-        "start": 34.24,
-        "end": 34.74
+        "i": 72,
+        "word": "add",
+        "start": 26.94,
+        "end": 27.2
       },
       {
-        "i": 97,
+        "i": 73,
+        "word": "pages",
+        "start": 27.2,
+        "end": 27.56
+      },
+      {
+        "i": 74,
+        "word": "individually",
+        "start": 27.56,
+        "end": 28.06
+      },
+      {
+        "i": 75,
         "word": "to",
-        "start": 34.74,
-        "end": 35.0
+        "start": 28.06,
+        "end": 28.44
       },
       {
-        "i": 98,
-        "word": "to",
-        "start": 35.0,
-        "end": 35.32
+        "i": 76,
+        "word": "your",
+        "start": 28.44,
+        "end": 28.56
       },
       {
-        "i": 99,
-        "word": "select",
-        "start": 35.32,
-        "end": 35.66
+        "i": 77,
+        "word": "existing",
+        "start": 28.56,
+        "end": 28.92
       },
       {
-        "i": 100,
-        "word": "the",
-        "start": 35.66,
-        "end": 35.86
-      },
-      {
-        "i": 101,
-        "word": "voiceover",
-        "start": 35.86,
-        "end": 36.32
-      },
-      {
-        "i": 102,
-        "word": "audio.",
-        "start": 36.32,
-        "end": 36.7
+        "i": 78,
+        "word": "design.",
+        "start": 28.92,
+        "end": 29.38
       }
     ]
   },
   {
     "id": 8,
-    "text": "Leave unrelated music and other recordings out of the selection.",
-    "start": 37.36,
-    "end": 40.34,
+    "text": "Build a simple structure, a cover, a contents page, your articles and a back cover.",
+    "start": 29.38,
+    "end": 35.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      103,
-      112
+      79,
+      93
     ],
     "words": [
       {
-        "i": 103,
-        "word": "Leave",
-        "start": 37.36,
-        "end": 37.64
+        "i": 79,
+        "word": "Build",
+        "start": 29.38,
+        "end": 30.06
       },
       {
-        "i": 104,
-        "word": "unrelated",
-        "start": 37.64,
-        "end": 38.04
+        "i": 80,
+        "word": "a",
+        "start": 30.06,
+        "end": 30.22
       },
       {
-        "i": 105,
-        "word": "music",
-        "start": 38.04,
-        "end": 38.48
+        "i": 81,
+        "word": "simple",
+        "start": 30.22,
+        "end": 30.56
       },
       {
-        "i": 106,
+        "i": 82,
+        "word": "structure,",
+        "start": 30.56,
+        "end": 31.02
+      },
+      {
+        "i": 83,
+        "word": "a",
+        "start": 31.36,
+        "end": 31.42
+      },
+      {
+        "i": 84,
+        "word": "cover,",
+        "start": 31.42,
+        "end": 31.6
+      },
+      {
+        "i": 85,
+        "word": "a",
+        "start": 32.1,
+        "end": 32.2
+      },
+      {
+        "i": 86,
+        "word": "contents",
+        "start": 32.2,
+        "end": 32.52
+      },
+      {
+        "i": 87,
+        "word": "page,",
+        "start": 32.52,
+        "end": 32.86
+      },
+      {
+        "i": 88,
+        "word": "your",
+        "start": 33.32,
+        "end": 33.44
+      },
+      {
+        "i": 89,
+        "word": "articles",
+        "start": 33.44,
+        "end": 33.84
+      },
+      {
+        "i": 90,
         "word": "and",
-        "start": 38.48,
-        "end": 38.8
+        "start": 33.84,
+        "end": 34.5
       },
       {
-        "i": 107,
-        "word": "other",
-        "start": 38.8,
-        "end": 38.98
+        "i": 91,
+        "word": "a",
+        "start": 34.5,
+        "end": 34.62
       },
       {
-        "i": 108,
-        "word": "recordings",
-        "start": 38.98,
-        "end": 39.4
+        "i": 92,
+        "word": "back",
+        "start": 34.62,
+        "end": 34.78
       },
       {
-        "i": 109,
-        "word": "out",
-        "start": 39.4,
-        "end": 39.66
-      },
-      {
-        "i": 110,
-        "word": "of",
-        "start": 39.66,
-        "end": 39.78
-      },
-      {
-        "i": 111,
-        "word": "the",
-        "start": 39.78,
-        "end": 39.88
-      },
-      {
-        "i": 112,
-        "word": "selection.",
-        "start": 39.88,
-        "end": 40.34
+        "i": 93,
+        "word": "cover.",
+        "start": 34.78,
+        "end": 35.06
       }
     ]
   },
   {
     "id": 9,
-    "text": "Choose a caption style and select generate captions.",
-    "start": 40.92,
-    "end": 44.04,
+    "text": "Replace the magazine name, issue date, cover image and article headlines.",
+    "start": 35.66,
+    "end": 40.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      113,
-      120
+      94,
+      104
     ],
     "words": [
       {
-        "i": 113,
-        "word": "Choose",
-        "start": 40.92,
-        "end": 41.2
+        "i": 94,
+        "word": "Replace",
+        "start": 35.66,
+        "end": 35.98
       },
       {
-        "i": 114,
-        "word": "a",
-        "start": 41.2,
-        "end": 41.34
+        "i": 95,
+        "word": "the",
+        "start": 35.98,
+        "end": 36.2
       },
       {
-        "i": 115,
-        "word": "caption",
-        "start": 41.34,
-        "end": 41.66
+        "i": 96,
+        "word": "magazine",
+        "start": 36.2,
+        "end": 36.54
       },
       {
-        "i": 116,
-        "word": "style",
-        "start": 41.66,
-        "end": 41.98
+        "i": 97,
+        "word": "name,",
+        "start": 36.54,
+        "end": 36.92
       },
       {
-        "i": 117,
+        "i": 98,
+        "word": "issue",
+        "start": 37.3,
+        "end": 37.52
+      },
+      {
+        "i": 99,
+        "word": "date,",
+        "start": 37.52,
+        "end": 37.8
+      },
+      {
+        "i": 100,
+        "word": "cover",
+        "start": 38.28,
+        "end": 38.4
+      },
+      {
+        "i": 101,
+        "word": "image",
+        "start": 38.4,
+        "end": 38.78
+      },
+      {
+        "i": 102,
         "word": "and",
-        "start": 41.98,
-        "end": 42.28
+        "start": 38.78,
+        "end": 39.22
       },
       {
-        "i": 118,
-        "word": "select",
-        "start": 42.28,
-        "end": 42.64
+        "i": 103,
+        "word": "article",
+        "start": 39.22,
+        "end": 39.54
       },
       {
-        "i": 119,
-        "word": "generate",
-        "start": 42.64,
-        "end": 43.2
-      },
-      {
-        "i": 120,
-        "word": "captions.",
-        "start": 43.2,
-        "end": 44.04
+        "i": 104,
+        "word": "headlines.",
+        "start": 39.54,
+        "end": 40.02
       }
     ]
   },
   {
     "id": 10,
-    "text": "The generated subtitles appear on the video timeline.",
-    "start": 44.56,
-    "end": 47.16,
+    "text": "Open uploads to add your photos.",
+    "start": 40.86,
+    "end": 42.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      121,
-      128
+      105,
+      110
     ],
     "words": [
       {
-        "i": 121,
-        "word": "The",
-        "start": 44.56,
-        "end": 44.66
+        "i": 105,
+        "word": "Open",
+        "start": 40.86,
+        "end": 41.12
       },
       {
-        "i": 122,
-        "word": "generated",
-        "start": 44.66,
-        "end": 45.04
+        "i": 106,
+        "word": "uploads",
+        "start": 41.12,
+        "end": 41.64
       },
       {
-        "i": 123,
-        "word": "subtitles",
-        "start": 45.04,
-        "end": 45.54
+        "i": 107,
+        "word": "to",
+        "start": 41.64,
+        "end": 41.74
       },
       {
-        "i": 124,
-        "word": "appear",
-        "start": 45.54,
-        "end": 46.04
+        "i": 108,
+        "word": "add",
+        "start": 41.74,
+        "end": 41.92
       },
       {
-        "i": 125,
-        "word": "on",
-        "start": 46.04,
-        "end": 46.26
+        "i": 109,
+        "word": "your",
+        "start": 41.92,
+        "end": 42.1
       },
       {
-        "i": 126,
-        "word": "the",
-        "start": 46.26,
-        "end": 46.42
-      },
-      {
-        "i": 127,
-        "word": "video",
-        "start": 46.42,
-        "end": 46.66
-      },
-      {
-        "i": 128,
-        "word": "timeline.",
-        "start": 46.66,
-        "end": 47.16
+        "i": 110,
+        "word": "photos.",
+        "start": 42.1,
+        "end": 42.54
       }
     ]
   },
   {
     "id": 11,
-    "text": "Listen to the narration while reading the captions.",
-    "start": 47.92,
-    "end": 49.98,
+    "text": "Drag a photo into a frame, then double-click it to adjust the crop.",
+    "start": 43.2,
+    "end": 46.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      129,
-      136
+      111,
+      124
     ],
     "words": [
       {
-        "i": 129,
-        "word": "Listen",
-        "start": 47.92,
-        "end": 48.06
+        "i": 111,
+        "word": "Drag",
+        "start": 43.2,
+        "end": 43.36
       },
       {
-        "i": 130,
+        "i": 112,
+        "word": "a",
+        "start": 43.36,
+        "end": 43.52
+      },
+      {
+        "i": 113,
+        "word": "photo",
+        "start": 43.52,
+        "end": 43.68
+      },
+      {
+        "i": 114,
+        "word": "into",
+        "start": 43.68,
+        "end": 43.92
+      },
+      {
+        "i": 115,
+        "word": "a",
+        "start": 43.92,
+        "end": 44.12
+      },
+      {
+        "i": 116,
+        "word": "frame,",
+        "start": 44.12,
+        "end": 44.4
+      },
+      {
+        "i": 117,
+        "word": "then",
+        "start": 44.56,
+        "end": 44.72
+      },
+      {
+        "i": 118,
+        "word": "double",
+        "start": 44.72,
+        "end": 45.02
+      },
+      {
+        "i": 119,
+        "word": "-click",
+        "start": 45.02,
+        "end": 45.22
+      },
+      {
+        "i": 120,
+        "word": "it",
+        "start": 45.22,
+        "end": 45.42
+      },
+      {
+        "i": 121,
         "word": "to",
-        "start": 48.06,
-        "end": 48.26
+        "start": 45.42,
+        "end": 45.54
       },
       {
-        "i": 131,
+        "i": 122,
+        "word": "adjust",
+        "start": 45.54,
+        "end": 45.8
+      },
+      {
+        "i": 123,
         "word": "the",
-        "start": 48.26,
-        "end": 48.36
+        "start": 45.8,
+        "end": 45.98
       },
       {
-        "i": 132,
-        "word": "narration",
-        "start": 48.36,
-        "end": 48.72
-      },
-      {
-        "i": 133,
-        "word": "while",
-        "start": 48.72,
-        "end": 49.0
-      },
-      {
-        "i": 134,
-        "word": "reading",
-        "start": 49.0,
-        "end": 49.28
-      },
-      {
-        "i": 135,
-        "word": "the",
-        "start": 49.28,
-        "end": 49.48
-      },
-      {
-        "i": 136,
-        "word": "captions.",
-        "start": 49.48,
-        "end": 49.98
+        "i": 124,
+        "word": "crop.",
+        "start": 45.98,
+        "end": 46.2
       }
     ]
   },
   {
     "id": 12,
-    "text": "Correct names, numbers, and any words can be misunderstood.",
-    "start": 50.6,
-    "end": 54.02,
+    "text": "Keep the subject clear of headlines and page edges.",
+    "start": 46.88,
+    "end": 49.18,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      137,
-      145
+      125,
+      133
     ],
     "words": [
       {
-        "i": 137,
-        "word": "Correct",
-        "start": 50.6,
-        "end": 50.86
+        "i": 125,
+        "word": "Keep",
+        "start": 46.88,
+        "end": 47.02
       },
       {
-        "i": 138,
-        "word": "names,",
-        "start": 50.86,
-        "end": 51.26
+        "i": 126,
+        "word": "the",
+        "start": 47.02,
+        "end": 47.18
       },
       {
-        "i": 139,
-        "word": "numbers,",
-        "start": 51.7,
-        "end": 51.9
+        "i": 127,
+        "word": "subject",
+        "start": 47.18,
+        "end": 47.4
       },
       {
-        "i": 140,
+        "i": 128,
+        "word": "clear",
+        "start": 47.4,
+        "end": 47.78
+      },
+      {
+        "i": 129,
+        "word": "of",
+        "start": 47.78,
+        "end": 47.96
+      },
+      {
+        "i": 130,
+        "word": "headlines",
+        "start": 47.96,
+        "end": 48.38
+      },
+      {
+        "i": 131,
         "word": "and",
-        "start": 52.2,
-        "end": 52.3
+        "start": 48.38,
+        "end": 48.64
       },
       {
-        "i": 141,
-        "word": "any",
-        "start": 52.3,
-        "end": 52.64
+        "i": 132,
+        "word": "page",
+        "start": 48.64,
+        "end": 48.84
       },
       {
-        "i": 142,
-        "word": "words",
-        "start": 52.64,
-        "end": 53.0
-      },
-      {
-        "i": 143,
-        "word": "can",
-        "start": 53.0,
-        "end": 53.26
-      },
-      {
-        "i": 144,
-        "word": "be",
-        "start": 53.26,
-        "end": 53.4
-      },
-      {
-        "i": 145,
-        "word": "misunderstood.",
-        "start": 53.4,
-        "end": 54.02
+        "i": 133,
+        "word": "edges.",
+        "start": 48.84,
+        "end": 49.18
       }
     ]
   },
   {
     "id": 13,
-    "text": "Keep the text away from faces and from the area where social media buttons will appear.",
-    "start": 54.02,
-    "end": 59.1,
+    "text": "For an article, add a heading and two separate body text boxes to create columns.",
+    "start": 49.9,
+    "end": 54.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      146,
-      161
+      134,
+      148
     ],
     "words": [
       {
+        "i": 134,
+        "word": "For",
+        "start": 49.9,
+        "end": 50.0
+      },
+      {
+        "i": 135,
+        "word": "an",
+        "start": 50.0,
+        "end": 50.1
+      },
+      {
+        "i": 136,
+        "word": "article,",
+        "start": 50.1,
+        "end": 50.4
+      },
+      {
+        "i": 137,
+        "word": "add",
+        "start": 50.6,
+        "end": 50.7
+      },
+      {
+        "i": 138,
+        "word": "a",
+        "start": 50.7,
+        "end": 50.82
+      },
+      {
+        "i": 139,
+        "word": "heading",
+        "start": 50.82,
+        "end": 51.02
+      },
+      {
+        "i": 140,
+        "word": "and",
+        "start": 51.02,
+        "end": 51.34
+      },
+      {
+        "i": 141,
+        "word": "two",
+        "start": 51.34,
+        "end": 51.56
+      },
+      {
+        "i": 142,
+        "word": "separate",
+        "start": 51.56,
+        "end": 52.0
+      },
+      {
+        "i": 143,
+        "word": "body",
+        "start": 52.0,
+        "end": 52.24
+      },
+      {
+        "i": 144,
+        "word": "text",
+        "start": 52.24,
+        "end": 52.48
+      },
+      {
+        "i": 145,
+        "word": "boxes",
+        "start": 52.48,
+        "end": 52.86
+      },
+      {
         "i": 146,
-        "word": "Keep",
-        "start": 54.02,
-        "end": 54.88
+        "word": "to",
+        "start": 52.86,
+        "end": 53.38
       },
       {
         "i": 147,
-        "word": "the",
-        "start": 54.88,
-        "end": 55.06
+        "word": "create",
+        "start": 53.38,
+        "end": 53.68
       },
       {
         "i": 148,
-        "word": "text",
-        "start": 55.06,
-        "end": 55.28
-      },
-      {
-        "i": 149,
-        "word": "away",
-        "start": 55.28,
-        "end": 55.5
-      },
-      {
-        "i": 150,
-        "word": "from",
-        "start": 55.5,
-        "end": 55.74
-      },
-      {
-        "i": 151,
-        "word": "faces",
-        "start": 55.74,
-        "end": 56.04
-      },
-      {
-        "i": 152,
-        "word": "and",
-        "start": 56.04,
-        "end": 56.4
-      },
-      {
-        "i": 153,
-        "word": "from",
-        "start": 56.4,
-        "end": 56.56
-      },
-      {
-        "i": 154,
-        "word": "the",
-        "start": 56.56,
-        "end": 56.68
-      },
-      {
-        "i": 155,
-        "word": "area",
-        "start": 56.68,
-        "end": 57.06
-      },
-      {
-        "i": 156,
-        "word": "where",
-        "start": 57.06,
-        "end": 57.5
-      },
-      {
-        "i": 157,
-        "word": "social",
-        "start": 57.5,
-        "end": 57.86
-      },
-      {
-        "i": 158,
-        "word": "media",
-        "start": 57.86,
-        "end": 58.18
-      },
-      {
-        "i": 159,
-        "word": "buttons",
-        "start": 58.18,
-        "end": 58.5
-      },
-      {
-        "i": 160,
-        "word": "will",
-        "start": 58.5,
-        "end": 58.7
-      },
-      {
-        "i": 161,
-        "word": "appear.",
-        "start": 58.7,
-        "end": 59.1
+        "word": "columns.",
+        "start": 53.68,
+        "end": 54.06
       }
     ]
   },
   {
     "id": 14,
-    "text": "Here's the part many tutorials skip.",
-    "start": 59.84,
-    "end": 61.66,
+    "text": "Paste the first section into the left column and continue the article in the right.",
+    "start": 54.8,
+    "end": 58.72,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      162,
-      167
+      149,
+      163
     ],
     "words": [
       {
+        "i": 149,
+        "word": "Paste",
+        "start": 54.8,
+        "end": 54.94
+      },
+      {
+        "i": 150,
+        "word": "the",
+        "start": 54.94,
+        "end": 55.14
+      },
+      {
+        "i": 151,
+        "word": "first",
+        "start": 55.14,
+        "end": 55.34
+      },
+      {
+        "i": 152,
+        "word": "section",
+        "start": 55.34,
+        "end": 55.72
+      },
+      {
+        "i": 153,
+        "word": "into",
+        "start": 55.72,
+        "end": 55.96
+      },
+      {
+        "i": 154,
+        "word": "the",
+        "start": 55.96,
+        "end": 56.12
+      },
+      {
+        "i": 155,
+        "word": "left",
+        "start": 56.12,
+        "end": 56.28
+      },
+      {
+        "i": 156,
+        "word": "column",
+        "start": 56.28,
+        "end": 56.62
+      },
+      {
+        "i": 157,
+        "word": "and",
+        "start": 56.62,
+        "end": 57.04
+      },
+      {
+        "i": 158,
+        "word": "continue",
+        "start": 57.04,
+        "end": 57.38
+      },
+      {
+        "i": 159,
+        "word": "the",
+        "start": 57.38,
+        "end": 57.58
+      },
+      {
+        "i": 160,
+        "word": "article",
+        "start": 57.58,
+        "end": 58.04
+      },
+      {
+        "i": 161,
+        "word": "in",
+        "start": 58.04,
+        "end": 58.32
+      },
+      {
         "i": 162,
-        "word": "Here's",
-        "start": 59.84,
-        "end": 60.02
+        "word": "the",
+        "start": 58.32,
+        "end": 58.46
       },
       {
         "i": 163,
-        "word": "the",
-        "start": 60.02,
-        "end": 60.14
-      },
-      {
-        "i": 164,
-        "word": "part",
-        "start": 60.14,
-        "end": 60.32
-      },
-      {
-        "i": 165,
-        "word": "many",
-        "start": 60.32,
-        "end": 60.62
-      },
-      {
-        "i": 166,
-        "word": "tutorials",
-        "start": 60.62,
-        "end": 61.24
-      },
-      {
-        "i": 167,
-        "word": "skip.",
-        "start": 61.24,
-        "end": 61.66
+        "word": "right.",
+        "start": 58.46,
+        "end": 58.72
       }
     ]
   },
   {
     "id": 15,
-    "text": "Generate subtitles after you finish moving and trimming the voiceover.",
-    "start": 62.46,
-    "end": 66.08,
+    "text": "Use the same body font, text size and spacing throughout.",
+    "start": 58.72,
+    "end": 62.82,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      168,
-      177
+      164,
+      173
     ],
     "words": [
       {
+        "i": 164,
+        "word": "Use",
+        "start": 58.72,
+        "end": 59.4
+      },
+      {
+        "i": 165,
+        "word": "the",
+        "start": 59.4,
+        "end": 59.58
+      },
+      {
+        "i": 166,
+        "word": "same",
+        "start": 59.58,
+        "end": 59.84
+      },
+      {
+        "i": 167,
+        "word": "body",
+        "start": 59.84,
+        "end": 60.04
+      },
+      {
         "i": 168,
-        "word": "Generate",
-        "start": 62.46,
-        "end": 62.82
+        "word": "font,",
+        "start": 60.04,
+        "end": 60.4
       },
       {
         "i": 169,
-        "word": "subtitles",
-        "start": 62.82,
-        "end": 63.4
+        "word": "text",
+        "start": 60.96,
+        "end": 61.14
       },
       {
         "i": 170,
-        "word": "after",
-        "start": 63.4,
-        "end": 63.84
+        "word": "size",
+        "start": 61.14,
+        "end": 61.52
       },
       {
         "i": 171,
-        "word": "you",
-        "start": 63.84,
-        "end": 64.04
+        "word": "and",
+        "start": 61.52,
+        "end": 61.86
       },
       {
         "i": 172,
-        "word": "finish",
-        "start": 64.04,
-        "end": 64.24
+        "word": "spacing",
+        "start": 61.86,
+        "end": 62.34
       },
       {
         "i": 173,
-        "word": "moving",
-        "start": 64.24,
-        "end": 64.62
-      },
-      {
-        "i": 174,
-        "word": "and",
-        "start": 64.62,
-        "end": 65.08
-      },
-      {
-        "i": 175,
-        "word": "trimming",
-        "start": 65.08,
-        "end": 65.44
-      },
-      {
-        "i": 176,
-        "word": "the",
-        "start": 65.44,
-        "end": 65.54
-      },
-      {
-        "i": 177,
-        "word": "voiceover.",
-        "start": 65.54,
-        "end": 66.08
+        "word": "throughout.",
+        "start": 62.34,
+        "end": 62.82
       }
     ]
   },
   {
     "id": 16,
-    "text": "Changing the narration timing afterward can leave the subtitles appearing before or after the words are spoken.",
-    "start": 66.82,
-    "end": 72.04,
+    "text": "Duplicate a finished article page to keep the layout consistent.",
+    "start": 63.62,
+    "end": 66.42,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      178,
-      194
+      174,
+      183
     ],
     "words": [
       {
+        "i": 174,
+        "word": "Duplicate",
+        "start": 63.62,
+        "end": 63.92
+      },
+      {
+        "i": 175,
+        "word": "a",
+        "start": 63.92,
+        "end": 64.14
+      },
+      {
+        "i": 176,
+        "word": "finished",
+        "start": 64.14,
+        "end": 64.38
+      },
+      {
+        "i": 177,
+        "word": "article",
+        "start": 64.38,
+        "end": 64.7
+      },
+      {
         "i": 178,
-        "word": "Changing",
-        "start": 66.82,
-        "end": 67.02
+        "word": "page",
+        "start": 64.7,
+        "end": 65.02
       },
       {
         "i": 179,
-        "word": "the",
-        "start": 67.02,
-        "end": 67.24
+        "word": "to",
+        "start": 65.02,
+        "end": 65.24
       },
       {
         "i": 180,
-        "word": "narration",
-        "start": 67.24,
-        "end": 67.62
+        "word": "keep",
+        "start": 65.24,
+        "end": 65.42
       },
       {
         "i": 181,
-        "word": "timing",
-        "start": 67.62,
-        "end": 67.98
+        "word": "the",
+        "start": 65.42,
+        "end": 65.56
       },
       {
         "i": 182,
-        "word": "afterward",
-        "start": 67.98,
-        "end": 68.48
+        "word": "layout",
+        "start": 65.56,
+        "end": 65.82
       },
       {
         "i": 183,
-        "word": "can",
-        "start": 68.48,
-        "end": 68.68
-      },
-      {
-        "i": 184,
-        "word": "leave",
-        "start": 68.68,
-        "end": 68.88
-      },
-      {
-        "i": 185,
-        "word": "the",
-        "start": 68.88,
-        "end": 69.04
-      },
-      {
-        "i": 186,
-        "word": "subtitles",
-        "start": 69.04,
-        "end": 69.54
-      },
-      {
-        "i": 187,
-        "word": "appearing",
-        "start": 69.54,
-        "end": 69.98
-      },
-      {
-        "i": 188,
-        "word": "before",
-        "start": 69.98,
-        "end": 70.42
-      },
-      {
-        "i": 189,
-        "word": "or",
-        "start": 70.42,
-        "end": 70.76
-      },
-      {
-        "i": 190,
-        "word": "after",
-        "start": 70.76,
-        "end": 71.16
-      },
-      {
-        "i": 191,
-        "word": "the",
-        "start": 71.16,
-        "end": 71.36
-      },
-      {
-        "i": 192,
-        "word": "words",
-        "start": 71.36,
-        "end": 71.56
-      },
-      {
-        "i": 193,
-        "word": "are",
-        "start": 71.56,
-        "end": 71.72
-      },
-      {
-        "i": 194,
-        "word": "spoken.",
-        "start": 71.72,
-        "end": 72.04
+        "word": "consistent.",
+        "start": 65.82,
+        "end": 66.42
       }
     ]
   },
   {
     "id": 17,
-    "text": "If you do adjust the voiceover later, review the affected captions before exporting.",
-    "start": 72.84,
-    "end": 77.22,
+    "text": "Replace its content and update the page number.",
+    "start": 67.2,
+    "end": 69.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      195,
-      207
+      184,
+      191
     ],
     "words": [
       {
-        "i": 195,
-        "word": "If",
-        "start": 72.84,
-        "end": 72.98
+        "i": 184,
+        "word": "Replace",
+        "start": 67.2,
+        "end": 67.46
       },
       {
-        "i": 196,
-        "word": "you",
-        "start": 72.98,
-        "end": 73.14
+        "i": 185,
+        "word": "its",
+        "start": 67.46,
+        "end": 67.72
       },
       {
-        "i": 197,
-        "word": "do",
-        "start": 73.14,
-        "end": 73.3
+        "i": 186,
+        "word": "content",
+        "start": 67.72,
+        "end": 68.08
       },
       {
-        "i": 198,
-        "word": "adjust",
-        "start": 73.3,
-        "end": 73.62
+        "i": 187,
+        "word": "and",
+        "start": 68.08,
+        "end": 68.38
       },
       {
-        "i": 199,
+        "i": 188,
+        "word": "update",
+        "start": 68.38,
+        "end": 68.68
+      },
+      {
+        "i": 189,
         "word": "the",
-        "start": 73.62,
-        "end": 73.78
+        "start": 68.68,
+        "end": 68.84
       },
       {
-        "i": 200,
-        "word": "voiceover",
-        "start": 73.78,
-        "end": 74.2
+        "i": 190,
+        "word": "page",
+        "start": 68.84,
+        "end": 69.06
       },
       {
-        "i": 201,
-        "word": "later,",
-        "start": 74.2,
-        "end": 74.6
-      },
-      {
-        "i": 202,
-        "word": "review",
-        "start": 74.96,
-        "end": 75.2
-      },
-      {
-        "i": 203,
-        "word": "the",
-        "start": 75.2,
-        "end": 75.38
-      },
-      {
-        "i": 204,
-        "word": "affected",
-        "start": 75.38,
-        "end": 75.8
-      },
-      {
-        "i": 205,
-        "word": "captions",
-        "start": 75.8,
-        "end": 76.32
-      },
-      {
-        "i": 206,
-        "word": "before",
-        "start": 76.32,
-        "end": 76.62
-      },
-      {
-        "i": 207,
-        "word": "exporting.",
-        "start": 76.62,
-        "end": 77.22
+        "i": 191,
+        "word": "number.",
+        "start": 69.06,
+        "end": 69.38
       }
     ]
   },
   {
     "id": 18,
-    "text": "Select share, download, and mp4 video.",
-    "start": 77.94,
-    "end": 81.16,
+    "text": "Use grid view to drag the pages into order, then check that the contents page lists the correct locations.",
+    "start": 69.94,
+    "end": 75.4,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      208,
-      213
+      192,
+      210
     ],
     "words": [
       {
+        "i": 192,
+        "word": "Use",
+        "start": 69.94,
+        "end": 70.16
+      },
+      {
+        "i": 193,
+        "word": "grid",
+        "start": 70.16,
+        "end": 70.42
+      },
+      {
+        "i": 194,
+        "word": "view",
+        "start": 70.42,
+        "end": 70.64
+      },
+      {
+        "i": 195,
+        "word": "to",
+        "start": 70.64,
+        "end": 70.88
+      },
+      {
+        "i": 196,
+        "word": "drag",
+        "start": 70.88,
+        "end": 71.1
+      },
+      {
+        "i": 197,
+        "word": "the",
+        "start": 71.1,
+        "end": 71.24
+      },
+      {
+        "i": 198,
+        "word": "pages",
+        "start": 71.24,
+        "end": 71.5
+      },
+      {
+        "i": 199,
+        "word": "into",
+        "start": 71.5,
+        "end": 71.78
+      },
+      {
+        "i": 200,
+        "word": "order,",
+        "start": 71.78,
+        "end": 72.1
+      },
+      {
+        "i": 201,
+        "word": "then",
+        "start": 72.34,
+        "end": 72.54
+      },
+      {
+        "i": 202,
+        "word": "check",
+        "start": 72.54,
+        "end": 72.78
+      },
+      {
+        "i": 203,
+        "word": "that",
+        "start": 72.78,
+        "end": 72.94
+      },
+      {
+        "i": 204,
+        "word": "the",
+        "start": 72.94,
+        "end": 73.1
+      },
+      {
+        "i": 205,
+        "word": "contents",
+        "start": 73.1,
+        "end": 73.42
+      },
+      {
+        "i": 206,
+        "word": "page",
+        "start": 73.42,
+        "end": 73.78
+      },
+      {
+        "i": 207,
+        "word": "lists",
+        "start": 73.78,
+        "end": 74.3
+      },
+      {
         "i": 208,
-        "word": "Select",
-        "start": 77.94,
-        "end": 78.18
+        "word": "the",
+        "start": 74.3,
+        "end": 74.56
       },
       {
         "i": 209,
-        "word": "share,",
-        "start": 78.18,
-        "end": 78.54
+        "word": "correct",
+        "start": 74.56,
+        "end": 74.82
       },
       {
         "i": 210,
-        "word": "download,",
-        "start": 79.04,
-        "end": 79.38
-      },
-      {
-        "i": 211,
-        "word": "and",
-        "start": 79.88,
-        "end": 80.0
-      },
-      {
-        "i": 212,
-        "word": "mp4",
-        "start": 80.0,
-        "end": 80.8
-      },
-      {
-        "i": 213,
-        "word": "video.",
-        "start": 80.8,
-        "end": 81.16
+        "word": "locations.",
+        "start": 74.82,
+        "end": 75.4
       }
     ]
   },
   {
     "id": 19,
-    "text": "Open the downloaded file and check that both the narration and the subtitles are present.",
-    "start": 81.16,
-    "end": 86.36,
+    "text": "Here's the part many tutorials skip.",
+    "start": 76.8,
+    "end": 78.62,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      214,
-      228
+      211,
+      216
     ],
     "words": [
       {
+        "i": 211,
+        "word": "Here's",
+        "start": 76.8,
+        "end": 77.0
+      },
+      {
+        "i": 212,
+        "word": "the",
+        "start": 77.0,
+        "end": 77.14
+      },
+      {
+        "i": 213,
+        "word": "part",
+        "start": 77.14,
+        "end": 77.3
+      },
+      {
         "i": 214,
-        "word": "Open",
-        "start": 81.16,
-        "end": 82.12
+        "word": "many",
+        "start": 77.3,
+        "end": 77.64
       },
       {
         "i": 215,
-        "word": "the",
-        "start": 82.12,
-        "end": 82.34
+        "word": "tutorials",
+        "start": 77.64,
+        "end": 78.18
       },
       {
         "i": 216,
-        "word": "downloaded",
-        "start": 82.34,
-        "end": 82.72
-      },
+        "word": "skip.",
+        "start": 78.18,
+        "end": 78.62
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Separate text boxes need their own content.",
+    "start": 79.26,
+    "end": 81.4,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      217,
+      223
+    ],
+    "words": [
       {
         "i": 217,
-        "word": "file",
-        "start": 82.72,
-        "end": 83.12
+        "word": "Separate",
+        "start": 79.26,
+        "end": 79.56
       },
       {
         "i": 218,
-        "word": "and",
-        "start": 83.12,
-        "end": 83.4
+        "word": "text",
+        "start": 79.56,
+        "end": 79.82
       },
       {
         "i": 219,
-        "word": "check",
-        "start": 83.4,
-        "end": 83.6
+        "word": "boxes",
+        "start": 79.82,
+        "end": 80.16
       },
       {
         "i": 220,
-        "word": "that",
-        "start": 83.6,
-        "end": 83.78
+        "word": "need",
+        "start": 80.16,
+        "end": 80.48
       },
       {
         "i": 221,
-        "word": "both",
-        "start": 83.78,
-        "end": 83.96
+        "word": "their",
+        "start": 80.48,
+        "end": 80.72
       },
       {
         "i": 222,
-        "word": "the",
-        "start": 83.96,
-        "end": 84.16
+        "word": "own",
+        "start": 80.72,
+        "end": 80.92
       },
       {
         "i": 223,
-        "word": "narration",
-        "start": 84.16,
-        "end": 84.5
-      },
+        "word": "content.",
+        "start": 80.92,
+        "end": 81.4
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "When an article grows, manually move the extra text into the next column or page and check the reading order.",
+    "start": 82.06,
+    "end": 87.94,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      224,
+      243
+    ],
+    "words": [
       {
         "i": 224,
-        "word": "and",
-        "start": 84.5,
-        "end": 85.0
+        "word": "When",
+        "start": 82.06,
+        "end": 82.24
       },
       {
         "i": 225,
-        "word": "the",
-        "start": 85.0,
-        "end": 85.14
+        "word": "an",
+        "start": 82.24,
+        "end": 82.38
       },
       {
         "i": 226,
-        "word": "subtitles",
-        "start": 85.14,
-        "end": 85.56
+        "word": "article",
+        "start": 82.38,
+        "end": 82.66
       },
       {
         "i": 227,
-        "word": "are",
-        "start": 85.56,
-        "end": 86.02
+        "word": "grows,",
+        "start": 82.66,
+        "end": 83.08
       },
       {
         "i": 228,
-        "word": "present.",
-        "start": 86.02,
-        "end": 86.36
+        "word": "manually",
+        "start": 83.52,
+        "end": 83.72
+      },
+      {
+        "i": 229,
+        "word": "move",
+        "start": 83.72,
+        "end": 84.1
+      },
+      {
+        "i": 230,
+        "word": "the",
+        "start": 84.1,
+        "end": 84.28
+      },
+      {
+        "i": 231,
+        "word": "extra",
+        "start": 84.28,
+        "end": 84.54
+      },
+      {
+        "i": 232,
+        "word": "text",
+        "start": 84.54,
+        "end": 84.86
+      },
+      {
+        "i": 233,
+        "word": "into",
+        "start": 84.86,
+        "end": 85.28
+      },
+      {
+        "i": 234,
+        "word": "the",
+        "start": 85.28,
+        "end": 85.48
+      },
+      {
+        "i": 235,
+        "word": "next",
+        "start": 85.48,
+        "end": 85.68
+      },
+      {
+        "i": 236,
+        "word": "column",
+        "start": 85.68,
+        "end": 85.98
+      },
+      {
+        "i": 237,
+        "word": "or",
+        "start": 85.98,
+        "end": 86.4
+      },
+      {
+        "i": 238,
+        "word": "page",
+        "start": 86.4,
+        "end": 86.72
+      },
+      {
+        "i": 239,
+        "word": "and",
+        "start": 86.72,
+        "end": 87.0
+      },
+      {
+        "i": 240,
+        "word": "check",
+        "start": 87.0,
+        "end": 87.22
+      },
+      {
+        "i": 241,
+        "word": "the",
+        "start": 87.22,
+        "end": 87.4
+      },
+      {
+        "i": 242,
+        "word": "reading",
+        "start": 87.4,
+        "end": 87.62
+      },
+      {
+        "i": 243,
+        "word": "order.",
+        "start": 87.62,
+        "end": 87.94
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Shrinking the entire article can make it difficult to read.",
+    "start": 87.94,
+    "end": 91.2,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      244,
+      253
+    ],
+    "words": [
+      {
+        "i": 244,
+        "word": "Shrinking",
+        "start": 87.94,
+        "end": 88.82
+      },
+      {
+        "i": 245,
+        "word": "the",
+        "start": 88.82,
+        "end": 89.06
+      },
+      {
+        "i": 246,
+        "word": "entire",
+        "start": 89.06,
+        "end": 89.38
+      },
+      {
+        "i": 247,
+        "word": "article",
+        "start": 89.38,
+        "end": 89.8
+      },
+      {
+        "i": 248,
+        "word": "can",
+        "start": 89.8,
+        "end": 90.04
+      },
+      {
+        "i": 249,
+        "word": "make",
+        "start": 90.04,
+        "end": 90.2
+      },
+      {
+        "i": 250,
+        "word": "it",
+        "start": 90.2,
+        "end": 90.34
+      },
+      {
+        "i": 251,
+        "word": "difficult",
+        "start": 90.34,
+        "end": 90.62
+      },
+      {
+        "i": 252,
+        "word": "to",
+        "start": 90.62,
+        "end": 90.9
+      },
+      {
+        "i": 253,
+        "word": "read.",
+        "start": 90.9,
+        "end": 91.2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Choose share, download and PDF standard for a digital copy, or PDF print for a print copy.",
+    "start": 91.86,
+    "end": 97.58,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      254,
+      270
+    ],
+    "words": [
+      {
+        "i": 254,
+        "word": "Choose",
+        "start": 91.86,
+        "end": 92.0
+      },
+      {
+        "i": 255,
+        "word": "share,",
+        "start": 92.0,
+        "end": 92.38
+      },
+      {
+        "i": 256,
+        "word": "download",
+        "start": 92.86,
+        "end": 93.2
+      },
+      {
+        "i": 257,
+        "word": "and",
+        "start": 93.2,
+        "end": 93.58
+      },
+      {
+        "i": 258,
+        "word": "PDF",
+        "start": 93.58,
+        "end": 93.88
+      },
+      {
+        "i": 259,
+        "word": "standard",
+        "start": 93.88,
+        "end": 94.3
+      },
+      {
+        "i": 260,
+        "word": "for",
+        "start": 94.3,
+        "end": 94.6
+      },
+      {
+        "i": 261,
+        "word": "a",
+        "start": 94.6,
+        "end": 94.72
+      },
+      {
+        "i": 262,
+        "word": "digital",
+        "start": 94.72,
+        "end": 95.0
+      },
+      {
+        "i": 263,
+        "word": "copy,",
+        "start": 95.0,
+        "end": 95.34
+      },
+      {
+        "i": 264,
+        "word": "or",
+        "start": 95.74,
+        "end": 96.02
+      },
+      {
+        "i": 265,
+        "word": "PDF",
+        "start": 96.02,
+        "end": 96.36
+      },
+      {
+        "i": 266,
+        "word": "print",
+        "start": 96.36,
+        "end": 96.7
+      },
+      {
+        "i": 267,
+        "word": "for",
+        "start": 96.7,
+        "end": 96.94
+      },
+      {
+        "i": 268,
+        "word": "a",
+        "start": 96.94,
+        "end": 97.06
+      },
+      {
+        "i": 269,
+        "word": "print",
+        "start": 97.06,
+        "end": 97.24
+      },
+      {
+        "i": 270,
+        "word": "copy.",
+        "start": 97.24,
+        "end": 97.58
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Add bleed and crop marks only when the printer requests them.",
+    "start": 98.2,
+    "end": 100.98,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      271,
+      281
+    ],
+    "words": [
+      {
+        "i": 271,
+        "word": "Add",
+        "start": 98.2,
+        "end": 98.36
+      },
+      {
+        "i": 272,
+        "word": "bleed",
+        "start": 98.36,
+        "end": 98.6
+      },
+      {
+        "i": 273,
+        "word": "and",
+        "start": 98.6,
+        "end": 98.78
+      },
+      {
+        "i": 274,
+        "word": "crop",
+        "start": 98.78,
+        "end": 98.96
+      },
+      {
+        "i": 275,
+        "word": "marks",
+        "start": 98.96,
+        "end": 99.28
+      },
+      {
+        "i": 276,
+        "word": "only",
+        "start": 99.28,
+        "end": 99.6
+      },
+      {
+        "i": 277,
+        "word": "when",
+        "start": 99.6,
+        "end": 99.82
+      },
+      {
+        "i": 278,
+        "word": "the",
+        "start": 99.82,
+        "end": 99.94
+      },
+      {
+        "i": 279,
+        "word": "printer",
+        "start": 99.94,
+        "end": 100.2
+      },
+      {
+        "i": 280,
+        "word": "requests",
+        "start": 100.2,
+        "end": 100.54
+      },
+      {
+        "i": 281,
+        "word": "them.",
+        "start": 100.54,
+        "end": 100.98
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Export the pages in reading order and inspect the PDF before sharing it.",
+    "start": 101.46,
+    "end": 105.0,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      282,
+      294
+    ],
+    "words": [
+      {
+        "i": 282,
+        "word": "Export",
+        "start": 101.46,
+        "end": 101.78
+      },
+      {
+        "i": 283,
+        "word": "the",
+        "start": 101.78,
+        "end": 101.96
+      },
+      {
+        "i": 284,
+        "word": "pages",
+        "start": 101.96,
+        "end": 102.16
+      },
+      {
+        "i": 285,
+        "word": "in",
+        "start": 102.16,
+        "end": 102.36
+      },
+      {
+        "i": 286,
+        "word": "reading",
+        "start": 102.36,
+        "end": 102.56
+      },
+      {
+        "i": 287,
+        "word": "order",
+        "start": 102.56,
+        "end": 102.88
+      },
+      {
+        "i": 288,
+        "word": "and",
+        "start": 102.88,
+        "end": 103.3
+      },
+      {
+        "i": 289,
+        "word": "inspect",
+        "start": 103.3,
+        "end": 103.56
+      },
+      {
+        "i": 290,
+        "word": "the",
+        "start": 103.56,
+        "end": 103.74
+      },
+      {
+        "i": 291,
+        "word": "PDF",
+        "start": 103.74,
+        "end": 104.08
+      },
+      {
+        "i": 292,
+        "word": "before",
+        "start": 104.08,
+        "end": 104.42
+      },
+      {
+        "i": 293,
+        "word": "sharing",
+        "start": 104.42,
+        "end": 104.76
+      },
+      {
+        "i": 294,
+        "word": "it.",
+        "start": 104.76,
+        "end": 105.0
       }
     ]
   }
