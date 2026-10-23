@@ -1,18 +1,25 @@
-This tutorial shows you how to generate automatic captions in Canva instead of typing every line by hand.
-First, decide which recording contains the words you want to caption.
-A talking video and a separate voiceover may both be available in the same project.
-So check the source before generating anything.
-Select your media and open captions from the toolbar.
-You can also find the feature through text, dynamic text and captions.
-Choose the source in apply captions to, select a style and click generate captions.
-Canva creates timed captions from the selected speech.
-Play through the result and correct anything that changes the meaning.
-Check that a caption appears when its words are spoken, rather than during an unrelated scene.
-If a line is difficult to understand, listen to that moment again before rewriting it.
-Keep punctuation natural and avoid turning one short spoken phrase into a crowded block of text.
+This tutorial shows you how to link your Canva account to Gemini and request a Canva design from your conversation.
+Open Gemini in your desktop browser and sign into the Google account you want to use.
+Canva's setup guidance uses the personal Google account experience.
+Open Settings, then Personal Intelligence, and select Connected Apps.
+Scroll to the other section and find Canva.
+Turn on Canva's toggle.
+When the connection screen opens, sign into the correct Canva account
+and follow the prompts to link the accounts.
+Review and complete the requested authorization.
+Return to Connected Apps and confirm that Canva is enabled.
+Then open a new Gemini conversation and select Canva by typing the at symbol
+and choosing it from the available apps.
+Ask for a specific design, for example, request a birthday invitation in Canva with a blue background,
+yellow accents, a large event title, and spaces for the date, time, location, and RSVP details.
+Review the returned result and open the provided Canva design.
+Replace every sample event detail and adjust the layout in Canva before downloading or publishing it.
 Here's the part many tutorials skip.
-Automatic captions are a first transcription, not a final proofreading pass.
-A convincing looking caption can still contain the wrong name, number or negative word.
-Review the complete video, including its first and last lines.
-Make sure the captions remain readable when the video is viewed at a smaller size.
-Download the design as an MP4 video and check the saved result before uploading it to your channel.
+The connection depends on the Google account currently active in Gemini.
+If Canva is missing, first check which account you are using
+and whether connected apps are supported for that account.
+If Canva is enabled but stops responding,
+return to Connected Apps and switch it off and back on.
+If that does not help, use Canva's connection details to unlink it.
+Then repeat the sign-in process.
+Once linked, Gemini can use the Canva capabilities available through the connection.

@@ -1,136 +1,21 @@
 {
- "recording": {
-  "width": 1920,
-  "height": 1080,
-  "fps": 30,
-  "duration": 199.7
- },
- "sync": {
-  "clicks_offset": 0,
-  "source": "frames"
- },
- "actions": [
-  {
-   "id": "A1",
-   "t_click": 11.9,
-   "x": 1001,
-   "y": 471,
-   "kind": "click",
-   "target": "video on the canvas",
-   "result": "video selected, editing toolbar appears",
-   "t_result_visible": 12.2,
-   "confidence": "medium"
-  },
-  {
-   "id": "A2",
-   "t_click": 26.6,
-   "x": 40,
-   "y": 640,
-   "kind": "click",
-   "target": "left sidebar tab (Uploads)",
-   "result": "Uploads panel opens, sidebar browsing",
-   "t_result_visible": 27.2,
-   "confidence": "low"
-  },
-  {
-   "id": "A3",
-   "t_click": 37.3,
-   "x": 1015,
-   "y": 218,
-   "kind": "click",
-   "target": "Captions button in the toolbar",
-   "result": "Captions style panel opens on the left",
-   "t_result_visible": 37.9,
-   "confidence": "high"
-  },
-  {
-   "id": "A4",
-   "t_click": 49.8,
-   "x": 175,
-   "y": 520,
-   "kind": "click",
-   "target": "caption style",
-   "result": "style highlighted",
-   "t_result_visible": 50.3,
-   "confidence": "medium"
-  },
-  {
-   "id": "A5",
-   "t_click": 56.4,
-   "x": 350,
-   "y": 950,
-   "kind": "click",
-   "target": "Generate captions button",
-   "result": "Creating your captions progress panel",
-   "t_result_visible": 56.9,
-   "confidence": "medium"
-  },
-  {
-   "id": "A6",
-   "t_click": 57.0,
-   "x": 195,
-   "y": 525,
-   "kind": "wait",
-   "target": "caption generation progress bar",
-   "result": "captions added to the design",
-   "t_result_visible": 78.9,
-   "confidence": "high"
-  },
-  {
-   "id": "A7",
-   "t_click": 83.8,
-   "x": 1001,
-   "y": 700,
-   "kind": "click",
-   "target": "Play button",
-   "result": "video plays with captions",
-   "t_result_visible": 84.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A8",
-   "t_click": 102.8,
-   "x": 564,
-   "y": 214,
-   "kind": "click",
-   "target": "Captions in toolbar",
-   "result": "Captions transcript panel opens",
-   "t_result_visible": 103.2,
-   "confidence": "medium"
-  },
-  {
-   "id": "A9",
-   "t_click": 106.8,
-   "x": 1100,
-   "y": 800,
-   "kind": "click",
-   "target": "edit caption pencil",
-   "result": "caption text editable",
-   "t_result_visible": 107.1,
-   "confidence": "low"
-  },
-  {
-   "id": "A10",
-   "t_click": 184.5,
-   "x": 1835,
-   "y": 75,
-   "kind": "click",
-   "target": "Share button",
-   "result": "Share menu opens",
-   "t_result_visible": 185.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A11",
-   "t_click": 185.8,
-   "x": 520,
-   "y": 830,
-   "kind": "click",
-   "target": "Download tile in Share menu",
-   "result": "Download panel with file type",
-   "t_result_visible": 186.4,
-   "confidence": "medium"
-  }
- ],
- "junk": []
+  "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 346.133},
+  "sync": {"clicks_offset": 0, "source": "frames"},
+  "actions": [
+    {"id": "A1", "t_click": 26.3, "x": 240, "y": 1000, "kind": "click", "target": "Settings button", "result": "settings menu opens", "t_result_visible": 27.0, "confidence": "medium"},
+    {"id": "A2", "t_click": 28.6, "x": 320, "y": 520, "kind": "click", "target": "Personal Intelligence", "result": "Personal Intelligence page", "t_result_visible": 29.0, "confidence": "medium"},
+    {"id": "A3", "t_click": 31.7, "x": 700, "y": 640, "kind": "click", "target": "Connected apps", "result": "Connected apps page", "t_result_visible": 33.0, "confidence": "medium"},
+    {"id": "A4", "t_click": 35.0, "x": 960, "y": 600, "kind": "scroll", "target": "Connected apps list", "result": "Canva visible in the other section", "t_result_visible": 37.0, "confidence": "medium"},
+    {"id": "A5", "t_click": 42.8, "x": 1090, "y": 600, "kind": "click", "target": "Canva add (+) toggle", "result": "Connect to Canva? dialog", "t_result_visible": 44.0, "confidence": "medium"},
+    {"id": "A6", "t_click": 45.3, "x": 1250, "y": 770, "kind": "click", "target": "Connect button", "result": "Canva sign-in window", "t_result_visible": 50.0, "confidence": "medium"},
+    {"id": "A7", "t_click": 60.2, "x": 1180, "y": 750, "kind": "click", "target": "Allow button", "result": "Authorization Successful", "t_result_visible": 62.3, "confidence": "medium"},
+    {"id": "A8", "t_click": 104.0, "x": 960, "y": 640, "kind": "type", "text": "@", "target": "prompt box", "result": "app menu with Canva", "t_result_visible": 104.5, "confidence": "high"},
+    {"id": "A9", "t_click": 109.0, "x": 990, "y": 660, "kind": "click", "target": "Canva in the app menu", "result": "@Canva added to the prompt", "t_result_visible": 109.5, "confidence": "medium"},
+    {"id": "A10", "t_click": 128.0, "x": 960, "y": 640, "kind": "type", "text": "birthday invitation prompt", "target": "prompt box", "result": "prompt typed", "t_result_visible": 190.4, "confidence": "high"},
+    {"id": "A11", "t_click": 236.7, "x": 1330, "y": 640, "kind": "click", "target": "Canva design thumbnail", "result": "Canva editor opens in a new tab", "t_result_visible": 241.0, "confidence": "medium"},
+    {"id": "A12", "t_click": 244.5, "x": 1000, "y": 570, "kind": "click", "target": "event title text", "result": "text edited", "t_result_visible": 248.5, "confidence": "medium"},
+    {"id": "A13", "t_click": 301.0, "x": 1480, "y": 560, "kind": "click", "target": "Canva options (...) menu", "result": "Use now / Unlink / Disconnect menu", "t_result_visible": 301.5, "confidence": "medium"},
+    {"id": "A14", "t_click": 326.8, "x": 1400, "y": 580, "kind": "click", "target": "Unlink from Google Account", "result": "Canva is disconnected", "t_result_visible": 328.0, "confidence": "medium"}
+  ],
+  "junk": []
 }

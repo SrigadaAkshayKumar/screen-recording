@@ -1,28 +1,25 @@
-"""Hand-budgeted plan for script-10 (plan_builder cannot slow footage below 1x; see docs/lessons.md)."""
+"""Hand-budgeted plan for script-10 (346 s recording, 98.2 s voiceover; plan_builder cannot slow below 1x)."""
 import json, os
 here = os.path.dirname(os.path.abspath(__file__))
 # (src_a, src_b, out_a, out_b, xfade)
 Q = [
- (5.3, 9.3, 0.0, 5.33, False), (25.2, 32.0, 5.33, 14.4, True), (9.3, 12.4, 14.4, 18.4, True),
- (36.12, 37.3, 18.4, 19.58, True), (37.3, 38.3, 19.58, 20.58, False), (31.8, 36.0, 20.58, 26.1, True),
- (47.15, 49.8, 26.1, 28.75, True), (49.8, 50.5, 28.75, 29.45, False), (55.75, 56.4, 29.45, 30.1, True),
- (56.4, 59.5, 30.1, 31.9, False), (77.4, 79.4, 31.9, 33.9, True), (82.3, 83.8, 33.9, 35.46, True),
- (83.8, 102.8, 35.46, 59.12, False), (102.8, 106.8, 59.12, 63.9, False), (106.8, 115.9, 63.9, 75.1, False),
- (182.3, 184.5, 75.1, 77.3, True), (184.5, 185.8, 77.3, 78.32, False), (185.8, 189.5, 78.32, 82.939, False),
+ (2.2, 7.9, 0.0, 6.8, False), (9.8, 13.5, 6.8, 11.0, True), (334.9, 339.0, 11.0, 15.98, True),
+ (26.1, 33.0, 15.98, 20.74, True), (35.0, 38.0, 20.74, 23.1, True), (42.3, 44.0, 23.1, 24.94, True),
+ (44.0, 46.8, 24.94, 27.7, False), (49.2, 53.2, 27.7, 30.78, True), (58.3, 62.9, 30.78, 34.66, True),
+ (87.0, 91.8, 34.66, 38.76, True), (98.0, 99.8, 38.76, 40.5, True), (103.7, 109.6, 40.5, 45.5, True),
+ (134.0, 140.0, 45.5, 48.9, True), (142.0, 146.0, 48.9, 52.0, True), (161.0, 163.0, 52.0, 54.0, True),
+ (190.0, 193.0, 54.0, 58.0, True),
+ (223.0, 227.0, 58.0, 60.9, True), (236.0, 238.6, 60.9, 62.84, True), (241.5, 248.0, 62.84, 69.08, True),
+ (277.2, 280.8, 69.08, 72.0, True), (285.2, 288.5, 72.0, 75.4, True), (294.4, 300.0, 75.4, 81.78, True),
+ (300.0, 302.0, 81.78, 83.78, False), (311.0, 315.2, 83.78, 88.0, True), (324.2, 327.8, 88.0, 91.62, True),
+ (332.4, 334.5, 91.62, 93.78, True), (227.6, 232.0, 93.78, 98.22, True),
 ]
 segs = []
 for a, b, oa, ob, x in Q:
     s = {"mode": "speed", "src_start": a, "src_end": b, "out_start": oa, "out_end": ob}
     if x: s["xfade"] = True
     segs.append(s)
-words = json.load(open(os.path.join(here, "words.json")))
-W = words["words"] if isinstance(words, dict) else words
-def idx(t): return min(range(len(W)), key=lambda i: abs(W[i]["start"] - t))
-sync = []
-for act, line, word, t in [("A3",5,"captions",19.58),("A4",7,"select",28.7),("A5",7,"generate",30.1),("A7",9,"Play",35.46),
-                           ("A8",14,"first",59.12),("A9",15,"caption",63.9),("A10",18,"Download",77.3),("A11",18,"MP4",78.32)]:
-    sync.append({"action": act, "line": line, "word": word, "word_index": idx(t), "word_t": t})
-plan = {"output": {"duration": 82.939, "fps": 30.0, "width": 1920, "height": 1080}, "segments": segs,
-        "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": sync, "style": {},
-        "notes": ["hand-built by hand_plan.py"]}
+plan = {"output": {"duration": 98.22, "fps": 30.0, "width": 1920, "height": 1080}, "segments": segs,
+        "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [], "style": {},
+        "notes": ["hand-built by hand_plan.py; no zooms/ripples (recorder zoom is baked into the footage)"]}
 json.dump(plan, open(os.path.join(here, "plan.json"), "w"), indent=1)

@@ -1,1627 +1,1897 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to generate automatic captions in Canva instead of typing every line by hand.",
+    "text": "This tutorial shows you how to link your Canva account to Gemini and request a Canva design from your conversation.",
     "start": 0.0,
-    "end": 5.96,
+    "end": 5.86,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      17
+      19
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.24
+        "end": 0.22
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.24,
-        "end": 0.6
+        "start": 0.22,
+        "end": 0.58
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.6,
-        "end": 1.08
+        "start": 0.58,
+        "end": 1.02
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.08,
-        "end": 1.28
+        "start": 1.02,
+        "end": 1.22
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.28,
-        "end": 1.44
+        "start": 1.22,
+        "end": 1.36
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.44,
-        "end": 1.62
+        "start": 1.36,
+        "end": 1.54
       },
       {
         "i": 6,
-        "word": "generate",
-        "start": 1.62,
-        "end": 1.98
+        "word": "link",
+        "start": 1.54,
+        "end": 1.72
       },
       {
         "i": 7,
-        "word": "automatic",
-        "start": 1.98,
-        "end": 2.58
+        "word": "your",
+        "start": 1.72,
+        "end": 2.04
       },
       {
         "i": 8,
-        "word": "captions",
-        "start": 2.58,
-        "end": 3.18
+        "word": "Canva",
+        "start": 2.04,
+        "end": 2.32
       },
       {
         "i": 9,
-        "word": "in",
-        "start": 3.18,
-        "end": 3.38
+        "word": "account",
+        "start": 2.32,
+        "end": 2.66
       },
       {
         "i": 10,
-        "word": "Canva",
-        "start": 3.38,
-        "end": 3.78
+        "word": "to",
+        "start": 2.66,
+        "end": 2.9
       },
       {
         "i": 11,
-        "word": "instead",
-        "start": 3.78,
-        "end": 4.14
+        "word": "Gemini",
+        "start": 2.9,
+        "end": 3.2
       },
       {
         "i": 12,
-        "word": "of",
-        "start": 4.14,
-        "end": 4.28
+        "word": "and",
+        "start": 3.2,
+        "end": 3.82
       },
       {
         "i": 13,
-        "word": "typing",
-        "start": 4.28,
-        "end": 4.6
+        "word": "request",
+        "start": 3.82,
+        "end": 4.12
       },
       {
         "i": 14,
-        "word": "every",
-        "start": 4.6,
-        "end": 5.08
+        "word": "a",
+        "start": 4.12,
+        "end": 4.32
       },
       {
         "i": 15,
-        "word": "line",
-        "start": 5.08,
-        "end": 5.32
+        "word": "Canva",
+        "start": 4.32,
+        "end": 4.64
       },
       {
         "i": 16,
-        "word": "by",
-        "start": 5.32,
-        "end": 5.56
+        "word": "design",
+        "start": 4.64,
+        "end": 4.92
       },
       {
         "i": 17,
-        "word": "hand.",
-        "start": 5.56,
-        "end": 5.96
+        "word": "from",
+        "start": 4.92,
+        "end": 5.18
+      },
+      {
+        "i": 18,
+        "word": "your",
+        "start": 5.18,
+        "end": 5.34
+      },
+      {
+        "i": 19,
+        "word": "conversation.",
+        "start": 5.34,
+        "end": 5.86
       }
     ]
   },
   {
     "id": 2,
-    "text": "First, decide which recording contains the words you want to caption.",
-    "start": 7.02,
-    "end": 9.9,
+    "text": "Open Gemini in your desktop browser and sign into the Google account you want to use.",
+    "start": 6.78,
+    "end": 11.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      18,
-      28
+      20,
+      35
     ],
     "words": [
       {
-        "i": 18,
-        "word": "First,",
-        "start": 7.02,
+        "i": 20,
+        "word": "Open",
+        "start": 6.78,
         "end": 7.02
       },
       {
-        "i": 19,
-        "word": "decide",
-        "start": 7.3,
-        "end": 7.62
-      },
-      {
-        "i": 20,
-        "word": "which",
-        "start": 7.62,
-        "end": 7.84
-      },
-      {
         "i": 21,
-        "word": "recording",
-        "start": 7.84,
-        "end": 8.22
+        "word": "Gemini",
+        "start": 7.02,
+        "end": 7.32
       },
       {
         "i": 22,
-        "word": "contains",
-        "start": 8.22,
-        "end": 8.64
+        "word": "in",
+        "start": 7.32,
+        "end": 7.66
       },
       {
         "i": 23,
-        "word": "the",
-        "start": 8.64,
-        "end": 8.88
+        "word": "your",
+        "start": 7.66,
+        "end": 7.84
       },
       {
         "i": 24,
-        "word": "words",
-        "start": 8.88,
-        "end": 9.08
+        "word": "desktop",
+        "start": 7.84,
+        "end": 8.12
       },
       {
         "i": 25,
-        "word": "you",
-        "start": 9.08,
-        "end": 9.28
+        "word": "browser",
+        "start": 8.12,
+        "end": 8.5
       },
       {
         "i": 26,
-        "word": "want",
-        "start": 9.28,
-        "end": 9.4
+        "word": "and",
+        "start": 8.5,
+        "end": 9.12
       },
       {
         "i": 27,
-        "word": "to",
-        "start": 9.4,
-        "end": 9.58
+        "word": "sign",
+        "start": 9.12,
+        "end": 9.4
       },
       {
         "i": 28,
-        "word": "caption.",
-        "start": 9.58,
-        "end": 9.9
+        "word": "into",
+        "start": 9.4,
+        "end": 9.66
+      },
+      {
+        "i": 29,
+        "word": "the",
+        "start": 9.66,
+        "end": 9.82
+      },
+      {
+        "i": 30,
+        "word": "Google",
+        "start": 9.82,
+        "end": 10.06
+      },
+      {
+        "i": 31,
+        "word": "account",
+        "start": 10.06,
+        "end": 10.36
+      },
+      {
+        "i": 32,
+        "word": "you",
+        "start": 10.36,
+        "end": 10.62
+      },
+      {
+        "i": 33,
+        "word": "want",
+        "start": 10.62,
+        "end": 10.78
+      },
+      {
+        "i": 34,
+        "word": "to",
+        "start": 10.78,
+        "end": 10.94
+      },
+      {
+        "i": 35,
+        "word": "use.",
+        "start": 10.94,
+        "end": 11.32
       }
     ]
   },
   {
     "id": 3,
-    "text": "A talking video and a separate voiceover may both be available in the same project.",
-    "start": 10.52,
-    "end": 14.92,
+    "text": "Canva's setup guidance uses the personal Google account experience.",
+    "start": 12.06,
+    "end": 15.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      29,
-      43
+      36,
+      44
     ],
     "words": [
       {
-        "i": 29,
-        "word": "A",
-        "start": 10.52,
-        "end": 10.68
-      },
-      {
-        "i": 30,
-        "word": "talking",
-        "start": 10.68,
-        "end": 10.98
-      },
-      {
-        "i": 31,
-        "word": "video",
-        "start": 10.98,
-        "end": 11.34
-      },
-      {
-        "i": 32,
-        "word": "and",
-        "start": 11.34,
-        "end": 11.6
-      },
-      {
-        "i": 33,
-        "word": "a",
-        "start": 11.6,
-        "end": 11.74
-      },
-      {
-        "i": 34,
-        "word": "separate",
-        "start": 11.74,
-        "end": 12.02
-      },
-      {
-        "i": 35,
-        "word": "voiceover",
-        "start": 12.02,
-        "end": 12.62
-      },
-      {
         "i": 36,
-        "word": "may",
-        "start": 12.62,
-        "end": 13.02
+        "word": "Canva's",
+        "start": 12.06,
+        "end": 12.28
       },
       {
         "i": 37,
-        "word": "both",
-        "start": 13.02,
-        "end": 13.26
+        "word": "setup",
+        "start": 12.28,
+        "end": 12.48
       },
       {
         "i": 38,
-        "word": "be",
-        "start": 13.26,
-        "end": 13.46
+        "word": "guidance",
+        "start": 12.48,
+        "end": 12.94
       },
       {
         "i": 39,
-        "word": "available",
-        "start": 13.46,
-        "end": 13.74
+        "word": "uses",
+        "start": 12.94,
+        "end": 13.28
       },
       {
         "i": 40,
-        "word": "in",
-        "start": 13.74,
-        "end": 14.08
+        "word": "the",
+        "start": 13.28,
+        "end": 13.52
       },
       {
         "i": 41,
-        "word": "the",
-        "start": 14.08,
-        "end": 14.22
+        "word": "personal",
+        "start": 13.52,
+        "end": 13.92
       },
       {
         "i": 42,
-        "word": "same",
-        "start": 14.22,
-        "end": 14.5
+        "word": "Google",
+        "start": 13.92,
+        "end": 14.26
       },
       {
         "i": 43,
-        "word": "project.",
-        "start": 14.5,
-        "end": 14.92
+        "word": "account",
+        "start": 14.26,
+        "end": 14.58
+      },
+      {
+        "i": 44,
+        "word": "experience.",
+        "start": 14.58,
+        "end": 15.26
       }
     ]
   },
   {
     "id": 4,
-    "text": "So check the source before generating anything.",
-    "start": 15.36,
-    "end": 17.68,
+    "text": "Open Settings, then Personal Intelligence, and select Connected Apps.",
+    "start": 15.98,
+    "end": 19.72,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      44,
-      50
+      45,
+      53
     ],
     "words": [
       {
-        "i": 44,
-        "word": "So",
-        "start": 15.36,
-        "end": 15.52
-      },
-      {
         "i": 45,
-        "word": "check",
-        "start": 15.52,
-        "end": 15.76
+        "word": "Open",
+        "start": 15.98,
+        "end": 16.18
       },
       {
         "i": 46,
-        "word": "the",
-        "start": 15.76,
-        "end": 15.96
+        "word": "Settings,",
+        "start": 16.18,
+        "end": 16.54
       },
       {
         "i": 47,
-        "word": "source",
-        "start": 15.96,
-        "end": 16.22
+        "word": "then",
+        "start": 16.94,
+        "end": 17.06
       },
       {
         "i": 48,
-        "word": "before",
-        "start": 16.22,
-        "end": 16.6
+        "word": "Personal",
+        "start": 17.06,
+        "end": 17.48
       },
       {
         "i": 49,
-        "word": "generating",
-        "start": 16.6,
-        "end": 17.14
+        "word": "Intelligence,",
+        "start": 17.48,
+        "end": 17.96
       },
       {
         "i": 50,
-        "word": "anything.",
-        "start": 17.14,
-        "end": 17.68
+        "word": "and",
+        "start": 18.4,
+        "end": 18.58
+      },
+      {
+        "i": 51,
+        "word": "select",
+        "start": 18.58,
+        "end": 18.88
+      },
+      {
+        "i": 52,
+        "word": "Connected",
+        "start": 18.88,
+        "end": 19.44
+      },
+      {
+        "i": 53,
+        "word": "Apps.",
+        "start": 19.44,
+        "end": 19.72
       }
     ]
   },
   {
     "id": 5,
-    "text": "Select your media and open captions from the toolbar.",
-    "start": 18.24,
-    "end": 20.7,
+    "text": "Scroll to the other section and find Canva.",
+    "start": 20.74,
+    "end": 22.86,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      51,
-      59
+      54,
+      61
     ],
     "words": [
       {
-        "i": 51,
-        "word": "Select",
-        "start": 18.24,
-        "end": 18.52
-      },
-      {
-        "i": 52,
-        "word": "your",
-        "start": 18.52,
-        "end": 18.72
-      },
-      {
-        "i": 53,
-        "word": "media",
-        "start": 18.72,
-        "end": 18.96
-      },
-      {
         "i": 54,
-        "word": "and",
-        "start": 18.96,
-        "end": 19.28
+        "word": "Scroll",
+        "start": 20.74,
+        "end": 20.76
       },
       {
         "i": 55,
-        "word": "open",
-        "start": 19.28,
-        "end": 19.58
+        "word": "to",
+        "start": 20.76,
+        "end": 20.96
       },
       {
         "i": 56,
-        "word": "captions",
-        "start": 19.58,
-        "end": 20.04
+        "word": "the",
+        "start": 20.96,
+        "end": 21.06
       },
       {
         "i": 57,
-        "word": "from",
-        "start": 20.04,
-        "end": 20.18
+        "word": "other",
+        "start": 21.06,
+        "end": 21.26
       },
       {
         "i": 58,
-        "word": "the",
-        "start": 20.18,
-        "end": 20.34
+        "word": "section",
+        "start": 21.26,
+        "end": 21.66
       },
       {
         "i": 59,
-        "word": "toolbar.",
-        "start": 20.34,
-        "end": 20.7
+        "word": "and",
+        "start": 21.66,
+        "end": 21.98
+      },
+      {
+        "i": 60,
+        "word": "find",
+        "start": 21.98,
+        "end": 22.3
+      },
+      {
+        "i": 61,
+        "word": "Canva.",
+        "start": 22.3,
+        "end": 22.86
       }
     ]
   },
   {
     "id": 6,
-    "text": "You can also find the feature through text, dynamic text and captions.",
-    "start": 21.32,
-    "end": 25.4,
+    "text": "Turn on Canva's toggle.",
+    "start": 23.36,
+    "end": 24.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      60,
-      71
+      62,
+      65
     ],
     "words": [
       {
-        "i": 60,
-        "word": "You",
-        "start": 21.32,
-        "end": 21.48
-      },
-      {
-        "i": 61,
-        "word": "can",
-        "start": 21.48,
-        "end": 21.6
-      },
-      {
         "i": 62,
-        "word": "also",
-        "start": 21.6,
-        "end": 21.76
+        "word": "Turn",
+        "start": 23.36,
+        "end": 23.58
       },
       {
         "i": 63,
-        "word": "find",
-        "start": 21.76,
-        "end": 22.02
+        "word": "on",
+        "start": 23.58,
+        "end": 23.74
       },
       {
         "i": 64,
-        "word": "the",
-        "start": 22.02,
-        "end": 22.16
+        "word": "Canva's",
+        "start": 23.74,
+        "end": 24.16
       },
       {
         "i": 65,
-        "word": "feature",
-        "start": 22.16,
-        "end": 22.42
-      },
-      {
-        "i": 66,
-        "word": "through",
-        "start": 22.42,
-        "end": 22.76
-      },
-      {
-        "i": 67,
-        "word": "text,",
-        "start": 22.76,
-        "end": 23.12
-      },
-      {
-        "i": 68,
-        "word": "dynamic",
-        "start": 23.8,
-        "end": 23.86
-      },
-      {
-        "i": 69,
-        "word": "text",
-        "start": 23.86,
-        "end": 24.32
-      },
-      {
-        "i": 70,
-        "word": "and",
-        "start": 24.32,
-        "end": 24.8
-      },
-      {
-        "i": 71,
-        "word": "captions.",
-        "start": 24.8,
-        "end": 25.4
+        "word": "toggle.",
+        "start": 24.16,
+        "end": 24.36
       }
     ]
   },
   {
     "id": 7,
-    "text": "Choose the source in apply captions to, select a style and click generate captions.",
-    "start": 26.1,
-    "end": 31.46,
+    "text": "When the connection screen opens, sign into the correct Canva account and follow the prompts to link the accounts.",
+    "start": 24.94,
+    "end": 30.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      72,
-      85
+      66,
+      84
     ],
     "words": [
       {
+        "i": 66,
+        "word": "When",
+        "start": 24.94,
+        "end": 25.14
+      },
+      {
+        "i": 67,
+        "word": "the",
+        "start": 25.14,
+        "end": 25.28
+      },
+      {
+        "i": 68,
+        "word": "connection",
+        "start": 25.28,
+        "end": 25.52
+      },
+      {
+        "i": 69,
+        "word": "screen",
+        "start": 25.52,
+        "end": 25.88
+      },
+      {
+        "i": 70,
+        "word": "opens,",
+        "start": 25.88,
+        "end": 26.32
+      },
+      {
+        "i": 71,
+        "word": "sign",
+        "start": 26.66,
+        "end": 27.02
+      },
+      {
         "i": 72,
-        "word": "Choose",
-        "start": 26.1,
-        "end": 26.5
+        "word": "into",
+        "start": 27.02,
+        "end": 27.28
       },
       {
         "i": 73,
         "word": "the",
-        "start": 26.5,
-        "end": 26.68
+        "start": 27.28,
+        "end": 27.42
       },
       {
         "i": 74,
-        "word": "source",
-        "start": 26.68,
-        "end": 26.96
+        "word": "correct",
+        "start": 27.42,
+        "end": 27.68
       },
       {
         "i": 75,
-        "word": "in",
-        "start": 26.96,
-        "end": 27.24
+        "word": "Canva",
+        "start": 27.68,
+        "end": 28.1
       },
       {
         "i": 76,
-        "word": "apply",
-        "start": 27.24,
-        "end": 27.5
+        "word": "account",
+        "start": 28.1,
+        "end": 28.48
       },
       {
         "i": 77,
-        "word": "captions",
-        "start": 27.5,
-        "end": 28.0
+        "word": "and",
+        "start": 28.48,
+        "end": 29.0
       },
       {
         "i": 78,
-        "word": "to,",
-        "start": 28.0,
-        "end": 28.36
+        "word": "follow",
+        "start": 29.0,
+        "end": 29.26
       },
       {
         "i": 79,
-        "word": "select",
-        "start": 28.7,
-        "end": 29.02
+        "word": "the",
+        "start": 29.26,
+        "end": 29.5
       },
       {
         "i": 80,
-        "word": "a",
-        "start": 29.02,
-        "end": 29.18
+        "word": "prompts",
+        "start": 29.5,
+        "end": 29.76
       },
       {
         "i": 81,
-        "word": "style",
-        "start": 29.18,
-        "end": 29.52
+        "word": "to",
+        "start": 29.76,
+        "end": 30.02
       },
       {
         "i": 82,
-        "word": "and",
-        "start": 29.52,
-        "end": 29.8
+        "word": "link",
+        "start": 30.02,
+        "end": 30.16
       },
       {
         "i": 83,
-        "word": "click",
-        "start": 29.8,
-        "end": 30.1
+        "word": "the",
+        "start": 30.16,
+        "end": 30.32
       },
       {
         "i": 84,
-        "word": "generate",
-        "start": 30.1,
-        "end": 30.6
-      },
-      {
-        "i": 85,
-        "word": "captions.",
-        "start": 30.6,
-        "end": 31.46
+        "word": "accounts.",
+        "start": 30.32,
+        "end": 30.78
       }
     ]
   },
   {
     "id": 8,
-    "text": "Canva creates timed captions from the selected speech.",
-    "start": 32.3,
-    "end": 34.92,
+    "text": "Review and complete the requested authorization.",
+    "start": 31.38,
+    "end": 33.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      86,
-      93
+      85,
+      90
     ],
     "words": [
       {
+        "i": 85,
+        "word": "Review",
+        "start": 31.38,
+        "end": 31.76
+      },
+      {
         "i": 86,
-        "word": "Canva",
-        "start": 32.3,
-        "end": 32.42
+        "word": "and",
+        "start": 31.76,
+        "end": 32.12
       },
       {
         "i": 87,
-        "word": "creates",
-        "start": 32.42,
-        "end": 32.78
+        "word": "complete",
+        "start": 32.12,
+        "end": 32.54
       },
       {
         "i": 88,
-        "word": "timed",
-        "start": 32.78,
-        "end": 33.16
+        "word": "the",
+        "start": 32.54,
+        "end": 32.74
       },
       {
         "i": 89,
-        "word": "captions",
-        "start": 33.16,
-        "end": 33.76
+        "word": "requested",
+        "start": 32.74,
+        "end": 33.14
       },
       {
         "i": 90,
-        "word": "from",
-        "start": 33.76,
-        "end": 33.94
-      },
-      {
-        "i": 91,
-        "word": "the",
-        "start": 33.94,
-        "end": 34.08
-      },
-      {
-        "i": 92,
-        "word": "selected",
-        "start": 34.08,
-        "end": 34.42
-      },
-      {
-        "i": 93,
-        "word": "speech.",
-        "start": 34.42,
-        "end": 34.92
+        "word": "authorization.",
+        "start": 33.14,
+        "end": 33.92
       }
     ]
   },
   {
     "id": 9,
-    "text": "Play through the result and correct anything that changes the meaning.",
-    "start": 35.46,
-    "end": 38.46,
+    "text": "Return to Connected Apps and confirm that Canva is enabled.",
+    "start": 34.66,
+    "end": 37.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      94,
-      104
+      91,
+      100
     ],
     "words": [
       {
+        "i": 91,
+        "word": "Return",
+        "start": 34.66,
+        "end": 35.06
+      },
+      {
+        "i": 92,
+        "word": "to",
+        "start": 35.06,
+        "end": 35.26
+      },
+      {
+        "i": 93,
+        "word": "Connected",
+        "start": 35.26,
+        "end": 35.68
+      },
+      {
         "i": 94,
-        "word": "Play",
-        "start": 35.46,
-        "end": 35.7
+        "word": "Apps",
+        "start": 35.68,
+        "end": 35.82
       },
       {
         "i": 95,
-        "word": "through",
-        "start": 35.7,
-        "end": 35.9
+        "word": "and",
+        "start": 35.82,
+        "end": 36.2
       },
       {
         "i": 96,
-        "word": "the",
-        "start": 35.9,
-        "end": 36.02
+        "word": "confirm",
+        "start": 36.2,
+        "end": 36.6
       },
       {
         "i": 97,
-        "word": "result",
-        "start": 36.02,
-        "end": 36.28
+        "word": "that",
+        "start": 36.6,
+        "end": 37.0
       },
       {
         "i": 98,
-        "word": "and",
-        "start": 36.28,
-        "end": 36.56
+        "word": "Canva",
+        "start": 37.0,
+        "end": 37.18
       },
       {
         "i": 99,
-        "word": "correct",
-        "start": 36.56,
-        "end": 36.84
+        "word": "is",
+        "start": 37.18,
+        "end": 37.38
       },
       {
         "i": 100,
-        "word": "anything",
-        "start": 36.84,
-        "end": 37.36
-      },
-      {
-        "i": 101,
-        "word": "that",
-        "start": 37.36,
-        "end": 37.62
-      },
-      {
-        "i": 102,
-        "word": "changes",
-        "start": 37.62,
-        "end": 37.94
-      },
-      {
-        "i": 103,
-        "word": "the",
-        "start": 37.94,
-        "end": 38.14
-      },
-      {
-        "i": 104,
-        "word": "meaning.",
-        "start": 38.14,
-        "end": 38.46
+        "word": "enabled.",
+        "start": 37.38,
+        "end": 37.78
       }
     ]
   },
   {
     "id": 10,
-    "text": "Check that a caption appears when its words are spoken, rather than during an unrelated scene.",
-    "start": 39.06,
-    "end": 43.7,
+    "text": "Then open a new Gemini conversation and select Canva by typing the at symbol and choosing it from the available apps.",
+    "start": 38.76,
+    "end": 45.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      105,
-      120
+      101,
+      121
     ],
     "words": [
       {
-        "i": 105,
-        "word": "Check",
-        "start": 39.06,
+        "i": 101,
+        "word": "Then",
+        "start": 38.76,
+        "end": 38.96
+      },
+      {
+        "i": 102,
+        "word": "open",
+        "start": 38.96,
+        "end": 39.12
+      },
+      {
+        "i": 103,
+        "word": "a",
+        "start": 39.12,
         "end": 39.28
       },
       {
-        "i": 106,
-        "word": "that",
+        "i": 104,
+        "word": "new",
         "start": 39.28,
-        "end": 39.44
-      },
-      {
-        "i": 107,
-        "word": "a",
-        "start": 39.44,
         "end": 39.56
       },
       {
-        "i": 108,
-        "word": "caption",
+        "i": 105,
+        "word": "Gemini",
         "start": 39.56,
-        "end": 39.82
+        "end": 39.84
+      },
+      {
+        "i": 106,
+        "word": "conversation",
+        "start": 39.84,
+        "end": 40.36
+      },
+      {
+        "i": 107,
+        "word": "and",
+        "start": 40.36,
+        "end": 40.9
+      },
+      {
+        "i": 108,
+        "word": "select",
+        "start": 40.9,
+        "end": 41.28
       },
       {
         "i": 109,
-        "word": "appears",
-        "start": 39.82,
-        "end": 40.2
+        "word": "Canva",
+        "start": 41.28,
+        "end": 41.8
       },
       {
         "i": 110,
-        "word": "when",
-        "start": 40.2,
-        "end": 40.4
+        "word": "by",
+        "start": 41.8,
+        "end": 42.18
       },
       {
         "i": 111,
-        "word": "its",
-        "start": 40.4,
-        "end": 40.52
+        "word": "typing",
+        "start": 42.18,
+        "end": 42.52
       },
       {
         "i": 112,
-        "word": "words",
-        "start": 40.52,
-        "end": 40.76
+        "word": "the",
+        "start": 42.52,
+        "end": 42.74
       },
       {
         "i": 113,
-        "word": "are",
-        "start": 40.76,
-        "end": 40.94
+        "word": "at",
+        "start": 42.74,
+        "end": 43.02
       },
       {
         "i": 114,
-        "word": "spoken,",
-        "start": 40.94,
-        "end": 41.32
+        "word": "symbol",
+        "start": 43.02,
+        "end": 43.4
       },
       {
         "i": 115,
-        "word": "rather",
-        "start": 41.66,
-        "end": 41.98
+        "word": "and",
+        "start": 43.4,
+        "end": 43.96
       },
       {
         "i": 116,
-        "word": "than",
-        "start": 41.98,
-        "end": 42.24
+        "word": "choosing",
+        "start": 43.96,
+        "end": 44.24
       },
       {
         "i": 117,
-        "word": "during",
-        "start": 42.24,
-        "end": 42.46
+        "word": "it",
+        "start": 44.24,
+        "end": 44.44
       },
       {
         "i": 118,
-        "word": "an",
-        "start": 42.46,
-        "end": 42.68
+        "word": "from",
+        "start": 44.44,
+        "end": 44.6
       },
       {
         "i": 119,
-        "word": "unrelated",
-        "start": 42.68,
-        "end": 43.14
+        "word": "the",
+        "start": 44.6,
+        "end": 44.72
       },
       {
         "i": 120,
-        "word": "scene.",
-        "start": 43.14,
-        "end": 43.7
+        "word": "available",
+        "start": 44.72,
+        "end": 45.04
+      },
+      {
+        "i": 121,
+        "word": "apps.",
+        "start": 45.04,
+        "end": 45.5
       }
     ]
   },
   {
     "id": 11,
-    "text": "If a line is difficult to understand, listen to that moment again before rewriting it.",
-    "start": 44.42,
-    "end": 48.84,
+    "text": "Ask for a specific design, for example, request a birthday invitation in Canva with a blue background, yellow accents, a large event title, and spaces for the date, time, location, and RSVP details.",
+    "start": 46.16,
+    "end": 58.44,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      121,
-      135
+      122,
+      154
     ],
     "words": [
       {
-        "i": 121,
-        "word": "If",
-        "start": 44.42,
-        "end": 44.54
-      },
-      {
         "i": 122,
-        "word": "a",
-        "start": 44.54,
-        "end": 44.66
+        "word": "Ask",
+        "start": 46.16,
+        "end": 46.2
       },
       {
         "i": 123,
-        "word": "line",
-        "start": 44.66,
-        "end": 44.84
+        "word": "for",
+        "start": 46.2,
+        "end": 46.36
       },
       {
         "i": 124,
-        "word": "is",
-        "start": 44.84,
-        "end": 45.0
+        "word": "a",
+        "start": 46.36,
+        "end": 46.42
       },
       {
         "i": 125,
-        "word": "difficult",
-        "start": 45.0,
-        "end": 45.28
-      },
-      {
-        "i": 126,
-        "word": "to",
-        "start": 45.28,
-        "end": 45.5
-      },
-      {
-        "i": 127,
-        "word": "understand,",
-        "start": 45.5,
-        "end": 45.98
-      },
-      {
-        "i": 128,
-        "word": "listen",
-        "start": 46.54,
-        "end": 46.64
-      },
-      {
-        "i": 129,
-        "word": "to",
-        "start": 46.64,
+        "word": "specific",
+        "start": 46.42,
         "end": 46.84
       },
       {
-        "i": 130,
-        "word": "that",
+        "i": 126,
+        "word": "design,",
         "start": 46.84,
-        "end": 46.98
+        "end": 47.3
+      },
+      {
+        "i": 127,
+        "word": "for",
+        "start": 47.52,
+        "end": 47.6
+      },
+      {
+        "i": 128,
+        "word": "example,",
+        "start": 47.6,
+        "end": 47.94
+      },
+      {
+        "i": 129,
+        "word": "request",
+        "start": 48.22,
+        "end": 48.46
+      },
+      {
+        "i": 130,
+        "word": "a",
+        "start": 48.46,
+        "end": 48.64
       },
       {
         "i": 131,
-        "word": "moment",
-        "start": 46.98,
-        "end": 47.18
+        "word": "birthday",
+        "start": 48.64,
+        "end": 48.86
       },
       {
         "i": 132,
-        "word": "again",
-        "start": 47.18,
-        "end": 47.56
+        "word": "invitation",
+        "start": 48.86,
+        "end": 49.42
       },
       {
         "i": 133,
-        "word": "before",
-        "start": 47.56,
-        "end": 47.96
+        "word": "in",
+        "start": 49.42,
+        "end": 49.66
       },
       {
         "i": 134,
-        "word": "rewriting",
-        "start": 47.96,
-        "end": 48.38
+        "word": "Canva",
+        "start": 49.66,
+        "end": 50.02
       },
       {
         "i": 135,
-        "word": "it.",
-        "start": 48.38,
-        "end": 48.84
+        "word": "with",
+        "start": 50.02,
+        "end": 50.14
+      },
+      {
+        "i": 136,
+        "word": "a",
+        "start": 50.14,
+        "end": 50.26
+      },
+      {
+        "i": 137,
+        "word": "blue",
+        "start": 50.26,
+        "end": 50.48
+      },
+      {
+        "i": 138,
+        "word": "background,",
+        "start": 50.48,
+        "end": 50.96
+      },
+      {
+        "i": 139,
+        "word": "yellow",
+        "start": 50.96,
+        "end": 51.52
+      },
+      {
+        "i": 140,
+        "word": "accents,",
+        "start": 51.52,
+        "end": 52.1
+      },
+      {
+        "i": 141,
+        "word": "a",
+        "start": 52.56,
+        "end": 52.72
+      },
+      {
+        "i": 142,
+        "word": "large",
+        "start": 52.72,
+        "end": 52.98
+      },
+      {
+        "i": 143,
+        "word": "event",
+        "start": 52.98,
+        "end": 53.26
+      },
+      {
+        "i": 144,
+        "word": "title,",
+        "start": 53.26,
+        "end": 53.64
+      },
+      {
+        "i": 145,
+        "word": "and",
+        "start": 54.04,
+        "end": 54.1
+      },
+      {
+        "i": 146,
+        "word": "spaces",
+        "start": 54.1,
+        "end": 54.42
+      },
+      {
+        "i": 147,
+        "word": "for",
+        "start": 54.42,
+        "end": 54.68
+      },
+      {
+        "i": 148,
+        "word": "the",
+        "start": 54.68,
+        "end": 54.8
+      },
+      {
+        "i": 149,
+        "word": "date,",
+        "start": 54.8,
+        "end": 55.0
+      },
+      {
+        "i": 150,
+        "word": "time,",
+        "start": 55.34,
+        "end": 55.72
+      },
+      {
+        "i": 151,
+        "word": "location,",
+        "start": 56.08,
+        "end": 56.54
+      },
+      {
+        "i": 152,
+        "word": "and",
+        "start": 56.96,
+        "end": 57.06
+      },
+      {
+        "i": 153,
+        "word": "RSVP",
+        "start": 57.06,
+        "end": 57.7
+      },
+      {
+        "i": 154,
+        "word": "details.",
+        "start": 57.7,
+        "end": 58.44
       }
     ]
   },
   {
     "id": 12,
-    "text": "Keep punctuation natural and avoid turning one short spoken phrase into a crowded block of text.",
-    "start": 49.26,
-    "end": 54.44,
+    "text": "Review the returned result and open the provided Canva design.",
+    "start": 59.1,
+    "end": 62.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      136,
-      151
+      155,
+      164
     ],
     "words": [
       {
-        "i": 136,
-        "word": "Keep",
-        "start": 49.26,
-        "end": 49.48
+        "i": 155,
+        "word": "Review",
+        "start": 59.1,
+        "end": 59.38
       },
       {
-        "i": 137,
-        "word": "punctuation",
-        "start": 49.48,
-        "end": 50.1
+        "i": 156,
+        "word": "the",
+        "start": 59.38,
+        "end": 59.58
       },
       {
-        "i": 138,
-        "word": "natural",
-        "start": 50.1,
-        "end": 50.48
+        "i": 157,
+        "word": "returned",
+        "start": 59.58,
+        "end": 59.9
       },
       {
-        "i": 139,
+        "i": 158,
+        "word": "result",
+        "start": 59.9,
+        "end": 60.22
+      },
+      {
+        "i": 159,
         "word": "and",
-        "start": 50.48,
-        "end": 50.86
+        "start": 60.22,
+        "end": 60.54
       },
       {
-        "i": 140,
-        "word": "avoid",
-        "start": 50.86,
-        "end": 51.08
+        "i": 160,
+        "word": "open",
+        "start": 60.54,
+        "end": 60.78
       },
       {
-        "i": 141,
-        "word": "turning",
-        "start": 51.08,
-        "end": 51.42
+        "i": 161,
+        "word": "the",
+        "start": 60.78,
+        "end": 60.92
       },
       {
-        "i": 142,
-        "word": "one",
-        "start": 51.42,
-        "end": 51.76
+        "i": 162,
+        "word": "provided",
+        "start": 60.92,
+        "end": 61.4
       },
       {
-        "i": 143,
-        "word": "short",
-        "start": 51.76,
-        "end": 52.08
+        "i": 163,
+        "word": "Canva",
+        "start": 61.4,
+        "end": 61.74
       },
       {
-        "i": 144,
-        "word": "spoken",
-        "start": 52.08,
-        "end": 52.42
-      },
-      {
-        "i": 145,
-        "word": "phrase",
-        "start": 52.42,
-        "end": 52.82
-      },
-      {
-        "i": 146,
-        "word": "into",
-        "start": 52.82,
-        "end": 53.18
-      },
-      {
-        "i": 147,
-        "word": "a",
-        "start": 53.18,
-        "end": 53.44
-      },
-      {
-        "i": 148,
-        "word": "crowded",
-        "start": 53.44,
-        "end": 53.62
-      },
-      {
-        "i": 149,
-        "word": "block",
-        "start": 53.62,
-        "end": 53.92
-      },
-      {
-        "i": 150,
-        "word": "of",
-        "start": 53.92,
-        "end": 54.1
-      },
-      {
-        "i": 151,
-        "word": "text.",
-        "start": 54.1,
-        "end": 54.44
+        "i": 164,
+        "word": "design.",
+        "start": 61.74,
+        "end": 62.14
       }
     ]
   },
   {
     "id": 13,
-    "text": "Here's the part many tutorials skip.",
-    "start": 55.24,
-    "end": 57.24,
+    "text": "Replace every sample event detail and adjust the layout in Canva before downloading or publishing it.",
+    "start": 62.84,
+    "end": 68.42,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      152,
-      157
+      165,
+      180
     ],
     "words": [
       {
-        "i": 152,
-        "word": "Here's",
-        "start": 55.24,
-        "end": 55.56
+        "i": 165,
+        "word": "Replace",
+        "start": 62.84,
+        "end": 63.12
       },
       {
-        "i": 153,
+        "i": 166,
+        "word": "every",
+        "start": 63.12,
+        "end": 63.6
+      },
+      {
+        "i": 167,
+        "word": "sample",
+        "start": 63.6,
+        "end": 63.92
+      },
+      {
+        "i": 168,
+        "word": "event",
+        "start": 63.92,
+        "end": 64.26
+      },
+      {
+        "i": 169,
+        "word": "detail",
+        "start": 64.26,
+        "end": 64.68
+      },
+      {
+        "i": 170,
+        "word": "and",
+        "start": 64.68,
+        "end": 65.12
+      },
+      {
+        "i": 171,
+        "word": "adjust",
+        "start": 65.12,
+        "end": 65.44
+      },
+      {
+        "i": 172,
         "word": "the",
-        "start": 55.56,
-        "end": 55.68
+        "start": 65.44,
+        "end": 65.66
       },
       {
-        "i": 154,
-        "word": "part",
-        "start": 55.68,
-        "end": 55.86
+        "i": 173,
+        "word": "layout",
+        "start": 65.66,
+        "end": 65.84
       },
       {
-        "i": 155,
-        "word": "many",
-        "start": 55.86,
-        "end": 56.2
+        "i": 174,
+        "word": "in",
+        "start": 65.84,
+        "end": 66.08
       },
       {
-        "i": 156,
-        "word": "tutorials",
-        "start": 56.2,
-        "end": 56.82
+        "i": 175,
+        "word": "Canva",
+        "start": 66.08,
+        "end": 66.42
       },
       {
-        "i": 157,
-        "word": "skip.",
-        "start": 56.82,
-        "end": 57.24
+        "i": 176,
+        "word": "before",
+        "start": 66.42,
+        "end": 66.7
+      },
+      {
+        "i": 177,
+        "word": "downloading",
+        "start": 66.7,
+        "end": 67.22
+      },
+      {
+        "i": 178,
+        "word": "or",
+        "start": 67.22,
+        "end": 67.62
+      },
+      {
+        "i": 179,
+        "word": "publishing",
+        "start": 67.62,
+        "end": 67.96
+      },
+      {
+        "i": 180,
+        "word": "it.",
+        "start": 67.96,
+        "end": 68.42
       }
     ]
   },
   {
     "id": 14,
-    "text": "Automatic captions are a first transcription, not a final proofreading pass.",
-    "start": 57.98,
-    "end": 62.18,
+    "text": "Here's the part many tutorials skip.",
+    "start": 69.08,
+    "end": 71.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      158,
-      168
+      181,
+      186
     ],
     "words": [
       {
-        "i": 158,
-        "word": "Automatic",
-        "start": 57.98,
-        "end": 58.3
+        "i": 181,
+        "word": "Here's",
+        "start": 69.08,
+        "end": 69.36
       },
       {
-        "i": 159,
-        "word": "captions",
-        "start": 58.3,
-        "end": 58.82
+        "i": 182,
+        "word": "the",
+        "start": 69.36,
+        "end": 69.48
       },
       {
-        "i": 160,
-        "word": "are",
-        "start": 58.82,
-        "end": 58.98
+        "i": 183,
+        "word": "part",
+        "start": 69.48,
+        "end": 69.66
       },
       {
-        "i": 161,
-        "word": "a",
-        "start": 58.98,
-        "end": 59.12
+        "i": 184,
+        "word": "many",
+        "start": 69.66,
+        "end": 70.02
       },
       {
-        "i": 162,
-        "word": "first",
-        "start": 59.12,
-        "end": 59.34
+        "i": 185,
+        "word": "tutorials",
+        "start": 70.02,
+        "end": 70.6
       },
       {
-        "i": 163,
-        "word": "transcription,",
-        "start": 59.34,
-        "end": 59.94
-      },
-      {
-        "i": 164,
-        "word": "not",
-        "start": 60.38,
-        "end": 60.64
-      },
-      {
-        "i": 165,
-        "word": "a",
-        "start": 60.64,
-        "end": 60.84
-      },
-      {
-        "i": 166,
-        "word": "final",
-        "start": 60.84,
-        "end": 61.18
-      },
-      {
-        "i": 167,
-        "word": "proofreading",
-        "start": 61.18,
-        "end": 61.8
-      },
-      {
-        "i": 168,
-        "word": "pass.",
-        "start": 61.8,
-        "end": 62.18
+        "i": 186,
+        "word": "skip.",
+        "start": 70.6,
+        "end": 71.06
       }
     ]
   },
   {
     "id": 15,
-    "text": "A convincing looking caption can still contain the wrong name, number or negative word.",
-    "start": 63.04,
-    "end": 67.88,
+    "text": "The connection depends on the Google account currently active in Gemini.",
+    "start": 71.52,
+    "end": 74.88,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      169,
-      182
+      187,
+      197
     ],
     "words": [
       {
-        "i": 169,
-        "word": "A",
-        "start": 63.04,
-        "end": 63.16
+        "i": 187,
+        "word": "The",
+        "start": 71.52,
+        "end": 71.66
       },
       {
-        "i": 170,
-        "word": "convincing",
-        "start": 63.16,
-        "end": 63.58
+        "i": 188,
+        "word": "connection",
+        "start": 71.66,
+        "end": 71.92
       },
       {
-        "i": 171,
-        "word": "looking",
-        "start": 63.58,
-        "end": 63.9
+        "i": 189,
+        "word": "depends",
+        "start": 71.92,
+        "end": 72.36
       },
       {
-        "i": 172,
-        "word": "caption",
-        "start": 63.9,
-        "end": 64.28
+        "i": 190,
+        "word": "on",
+        "start": 72.36,
+        "end": 72.56
       },
       {
-        "i": 173,
-        "word": "can",
-        "start": 64.28,
-        "end": 64.5
-      },
-      {
-        "i": 174,
-        "word": "still",
-        "start": 64.5,
-        "end": 64.76
-      },
-      {
-        "i": 175,
-        "word": "contain",
-        "start": 64.76,
-        "end": 65.1
-      },
-      {
-        "i": 176,
+        "i": 191,
         "word": "the",
-        "start": 65.1,
-        "end": 65.3
+        "start": 72.56,
+        "end": 72.7
       },
       {
-        "i": 177,
-        "word": "wrong",
-        "start": 65.3,
-        "end": 65.5
+        "i": 192,
+        "word": "Google",
+        "start": 72.7,
+        "end": 72.94
       },
       {
-        "i": 178,
-        "word": "name,",
-        "start": 65.5,
-        "end": 65.84
+        "i": 193,
+        "word": "account",
+        "start": 72.94,
+        "end": 73.3
       },
       {
-        "i": 179,
-        "word": "number",
-        "start": 66.18,
-        "end": 66.44
+        "i": 194,
+        "word": "currently",
+        "start": 73.3,
+        "end": 73.74
       },
       {
-        "i": 180,
-        "word": "or",
-        "start": 66.44,
-        "end": 67.06
+        "i": 195,
+        "word": "active",
+        "start": 73.74,
+        "end": 74.22
       },
       {
-        "i": 181,
-        "word": "negative",
-        "start": 67.06,
-        "end": 67.34
+        "i": 196,
+        "word": "in",
+        "start": 74.22,
+        "end": 74.58
       },
       {
-        "i": 182,
-        "word": "word.",
-        "start": 67.34,
-        "end": 67.88
+        "i": 197,
+        "word": "Gemini.",
+        "start": 74.58,
+        "end": 74.88
       }
     ]
   },
   {
     "id": 16,
-    "text": "Review the complete video, including its first and last lines.",
-    "start": 68.88,
-    "end": 72.06,
+    "text": "If Canva is missing, first check which account you are using and whether connected apps are supported for that account.",
+    "start": 75.46,
+    "end": 81.04,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      183,
-      192
+      198,
+      217
     ],
     "words": [
       {
-        "i": 183,
-        "word": "Review",
-        "start": 68.88,
-        "end": 68.94
+        "i": 198,
+        "word": "If",
+        "start": 75.46,
+        "end": 75.72
       },
       {
-        "i": 184,
-        "word": "the",
-        "start": 68.94,
-        "end": 69.12
+        "i": 199,
+        "word": "Canva",
+        "start": 75.72,
+        "end": 76.08
       },
       {
-        "i": 185,
-        "word": "complete",
-        "start": 69.12,
-        "end": 69.46
+        "i": 200,
+        "word": "is",
+        "start": 76.08,
+        "end": 76.24
       },
       {
-        "i": 186,
-        "word": "video,",
-        "start": 69.46,
-        "end": 69.88
+        "i": 201,
+        "word": "missing,",
+        "start": 76.24,
+        "end": 76.6
       },
       {
-        "i": 187,
-        "word": "including",
-        "start": 70.1,
-        "end": 70.42
-      },
-      {
-        "i": 188,
-        "word": "its",
-        "start": 70.42,
-        "end": 70.68
-      },
-      {
-        "i": 189,
+        "i": 202,
         "word": "first",
-        "start": 70.68,
-        "end": 70.96
+        "start": 76.74,
+        "end": 76.94
       },
       {
-        "i": 190,
+        "i": 203,
+        "word": "check",
+        "start": 76.94,
+        "end": 77.24
+      },
+      {
+        "i": 204,
+        "word": "which",
+        "start": 77.24,
+        "end": 77.5
+      },
+      {
+        "i": 205,
+        "word": "account",
+        "start": 77.5,
+        "end": 77.82
+      },
+      {
+        "i": 206,
+        "word": "you",
+        "start": 77.82,
+        "end": 78.06
+      },
+      {
+        "i": 207,
+        "word": "are",
+        "start": 78.06,
+        "end": 78.18
+      },
+      {
+        "i": 208,
+        "word": "using",
+        "start": 78.18,
+        "end": 78.56
+      },
+      {
+        "i": 209,
         "word": "and",
-        "start": 70.96,
-        "end": 71.32
+        "start": 78.56,
+        "end": 78.94
       },
       {
-        "i": 191,
-        "word": "last",
-        "start": 71.32,
-        "end": 71.58
+        "i": 210,
+        "word": "whether",
+        "start": 78.94,
+        "end": 79.08
       },
       {
-        "i": 192,
-        "word": "lines.",
-        "start": 71.58,
-        "end": 72.06
+        "i": 211,
+        "word": "connected",
+        "start": 79.08,
+        "end": 79.46
+      },
+      {
+        "i": 212,
+        "word": "apps",
+        "start": 79.46,
+        "end": 79.74
+      },
+      {
+        "i": 213,
+        "word": "are",
+        "start": 79.74,
+        "end": 79.94
+      },
+      {
+        "i": 214,
+        "word": "supported",
+        "start": 79.94,
+        "end": 80.28
+      },
+      {
+        "i": 215,
+        "word": "for",
+        "start": 80.28,
+        "end": 80.54
+      },
+      {
+        "i": 216,
+        "word": "that",
+        "start": 80.54,
+        "end": 80.68
+      },
+      {
+        "i": 217,
+        "word": "account.",
+        "start": 80.68,
+        "end": 81.04
       }
     ]
   },
   {
     "id": 17,
-    "text": "Make sure the captions remain readable when the video is viewed at a smaller size.",
-    "start": 72.8,
-    "end": 76.58,
+    "text": "If Canva is enabled but stops responding, return to Connected Apps and switch it off and back on.",
+    "start": 81.78,
+    "end": 87.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      193,
-      207
+      218,
+      235
     ],
     "words": [
       {
-        "i": 193,
-        "word": "Make",
-        "start": 72.8,
-        "end": 72.94
+        "i": 218,
+        "word": "If",
+        "start": 81.78,
+        "end": 81.94
       },
       {
-        "i": 194,
-        "word": "sure",
-        "start": 72.94,
-        "end": 73.12
+        "i": 219,
+        "word": "Canva",
+        "start": 81.94,
+        "end": 82.26
       },
       {
-        "i": 195,
-        "word": "the",
-        "start": 73.12,
-        "end": 73.28
-      },
-      {
-        "i": 196,
-        "word": "captions",
-        "start": 73.28,
-        "end": 73.62
-      },
-      {
-        "i": 197,
-        "word": "remain",
-        "start": 73.62,
-        "end": 73.92
-      },
-      {
-        "i": 198,
-        "word": "readable",
-        "start": 73.92,
-        "end": 74.32
-      },
-      {
-        "i": 199,
-        "word": "when",
-        "start": 74.32,
-        "end": 74.62
-      },
-      {
-        "i": 200,
-        "word": "the",
-        "start": 74.62,
-        "end": 74.76
-      },
-      {
-        "i": 201,
-        "word": "video",
-        "start": 74.76,
-        "end": 74.94
-      },
-      {
-        "i": 202,
+        "i": 220,
         "word": "is",
-        "start": 74.94,
-        "end": 75.18
+        "start": 82.26,
+        "end": 82.44
       },
       {
-        "i": 203,
-        "word": "viewed",
-        "start": 75.18,
-        "end": 75.4
+        "i": 221,
+        "word": "enabled",
+        "start": 82.44,
+        "end": 82.76
       },
       {
-        "i": 204,
-        "word": "at",
-        "start": 75.4,
-        "end": 75.64
+        "i": 222,
+        "word": "but",
+        "start": 82.76,
+        "end": 83.04
       },
       {
-        "i": 205,
-        "word": "a",
-        "start": 75.64,
-        "end": 75.78
+        "i": 223,
+        "word": "stops",
+        "start": 83.04,
+        "end": 83.36
       },
       {
-        "i": 206,
-        "word": "smaller",
-        "start": 75.78,
-        "end": 76.06
+        "i": 224,
+        "word": "responding,",
+        "start": 83.36,
+        "end": 83.92
       },
       {
-        "i": 207,
-        "word": "size.",
-        "start": 76.06,
-        "end": 76.58
+        "i": 225,
+        "word": "return",
+        "start": 84.28,
+        "end": 84.58
+      },
+      {
+        "i": 226,
+        "word": "to",
+        "start": 84.58,
+        "end": 84.76
+      },
+      {
+        "i": 227,
+        "word": "Connected",
+        "start": 84.76,
+        "end": 85.16
+      },
+      {
+        "i": 228,
+        "word": "Apps",
+        "start": 85.16,
+        "end": 85.32
+      },
+      {
+        "i": 229,
+        "word": "and",
+        "start": 85.32,
+        "end": 85.7
+      },
+      {
+        "i": 230,
+        "word": "switch",
+        "start": 85.7,
+        "end": 85.92
+      },
+      {
+        "i": 231,
+        "word": "it",
+        "start": 85.92,
+        "end": 86.1
+      },
+      {
+        "i": 232,
+        "word": "off",
+        "start": 86.1,
+        "end": 86.28
+      },
+      {
+        "i": 233,
+        "word": "and",
+        "start": 86.28,
+        "end": 86.68
+      },
+      {
+        "i": 234,
+        "word": "back",
+        "start": 86.68,
+        "end": 86.84
+      },
+      {
+        "i": 235,
+        "word": "on.",
+        "start": 86.84,
+        "end": 87.14
       }
     ]
   },
   {
     "id": 18,
-    "text": "Download the design as an MP4 video and check the saved result before uploading it to your channel.",
-    "start": 77.3,
-    "end": 82.42,
+    "text": "If that does not help, use Canva's connection details to unlink it.",
+    "start": 88.0,
+    "end": 91.4,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      208,
-      225
+      236,
+      247
     ],
     "words": [
       {
-        "i": 208,
-        "word": "Download",
-        "start": 77.3,
-        "end": 77.56
+        "i": 236,
+        "word": "If",
+        "start": 88.0,
+        "end": 88.1
       },
       {
-        "i": 209,
-        "word": "the",
-        "start": 77.56,
-        "end": 77.74
+        "i": 237,
+        "word": "that",
+        "start": 88.1,
+        "end": 88.24
       },
       {
-        "i": 210,
-        "word": "design",
-        "start": 77.74,
-        "end": 78.0
+        "i": 238,
+        "word": "does",
+        "start": 88.24,
+        "end": 88.38
       },
       {
-        "i": 211,
-        "word": "as",
-        "start": 78.0,
-        "end": 78.18
+        "i": 239,
+        "word": "not",
+        "start": 88.38,
+        "end": 88.54
       },
       {
-        "i": 212,
-        "word": "an",
-        "start": 78.18,
-        "end": 78.32
+        "i": 240,
+        "word": "help,",
+        "start": 88.54,
+        "end": 88.84
       },
       {
-        "i": 213,
-        "word": "MP4",
-        "start": 78.32,
-        "end": 79.0
+        "i": 241,
+        "word": "use",
+        "start": 89.06,
+        "end": 89.22
       },
       {
-        "i": 214,
-        "word": "video",
-        "start": 79.0,
-        "end": 79.32
+        "i": 242,
+        "word": "Canva's",
+        "start": 89.22,
+        "end": 89.7
       },
       {
-        "i": 215,
-        "word": "and",
-        "start": 79.32,
-        "end": 79.78
+        "i": 243,
+        "word": "connection",
+        "start": 89.7,
+        "end": 89.94
       },
       {
-        "i": 216,
-        "word": "check",
-        "start": 79.78,
-        "end": 80.02
+        "i": 244,
+        "word": "details",
+        "start": 89.94,
+        "end": 90.44
       },
       {
-        "i": 217,
-        "word": "the",
-        "start": 80.02,
-        "end": 80.22
-      },
-      {
-        "i": 218,
-        "word": "saved",
-        "start": 80.22,
-        "end": 80.5
-      },
-      {
-        "i": 219,
-        "word": "result",
-        "start": 80.5,
-        "end": 80.84
-      },
-      {
-        "i": 220,
-        "word": "before",
-        "start": 80.84,
-        "end": 81.18
-      },
-      {
-        "i": 221,
-        "word": "uploading",
-        "start": 81.18,
-        "end": 81.7
-      },
-      {
-        "i": 222,
-        "word": "it",
-        "start": 81.7,
-        "end": 81.88
-      },
-      {
-        "i": 223,
+        "i": 245,
         "word": "to",
-        "start": 81.88,
-        "end": 82.0
+        "start": 90.44,
+        "end": 90.7
       },
       {
-        "i": 224,
-        "word": "your",
-        "start": 82.0,
-        "end": 82.14
+        "i": 246,
+        "word": "unlink",
+        "start": 90.7,
+        "end": 91.08
       },
       {
-        "i": 225,
-        "word": "channel.",
-        "start": 82.14,
-        "end": 82.42
+        "i": 247,
+        "word": "it.",
+        "start": 91.08,
+        "end": 91.4
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Then repeat the sign-in process.",
+    "start": 91.62,
+    "end": 93.0,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      248,
+      253
+    ],
+    "words": [
+      {
+        "i": 248,
+        "word": "Then",
+        "start": 91.62,
+        "end": 91.76
+      },
+      {
+        "i": 249,
+        "word": "repeat",
+        "start": 91.76,
+        "end": 92.04
+      },
+      {
+        "i": 250,
+        "word": "the",
+        "start": 92.04,
+        "end": 92.26
+      },
+      {
+        "i": 251,
+        "word": "sign",
+        "start": 92.26,
+        "end": 92.48
+      },
+      {
+        "i": 252,
+        "word": "-in",
+        "start": 92.48,
+        "end": 92.62
+      },
+      {
+        "i": 253,
+        "word": "process.",
+        "start": 92.62,
+        "end": 93.0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Once linked, Gemini can use the Canva capabilities available through the connection.",
+    "start": 93.78,
+    "end": 97.64,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      254,
+      265
+    ],
+    "words": [
+      {
+        "i": 254,
+        "word": "Once",
+        "start": 93.78,
+        "end": 94.0
+      },
+      {
+        "i": 255,
+        "word": "linked,",
+        "start": 94.0,
+        "end": 94.42
+      },
+      {
+        "i": 256,
+        "word": "Gemini",
+        "start": 94.8,
+        "end": 94.88
+      },
+      {
+        "i": 257,
+        "word": "can",
+        "start": 94.88,
+        "end": 95.2
+      },
+      {
+        "i": 258,
+        "word": "use",
+        "start": 95.2,
+        "end": 95.38
+      },
+      {
+        "i": 259,
+        "word": "the",
+        "start": 95.38,
+        "end": 95.54
+      },
+      {
+        "i": 260,
+        "word": "Canva",
+        "start": 95.54,
+        "end": 95.82
+      },
+      {
+        "i": 261,
+        "word": "capabilities",
+        "start": 95.82,
+        "end": 96.38
+      },
+      {
+        "i": 262,
+        "word": "available",
+        "start": 96.38,
+        "end": 96.78
+      },
+      {
+        "i": 263,
+        "word": "through",
+        "start": 96.78,
+        "end": 97.18
+      },
+      {
+        "i": 264,
+        "word": "the",
+        "start": 97.18,
+        "end": 97.34
+      },
+      {
+        "i": 265,
+        "word": "connection.",
+        "start": 97.34,
+        "end": 97.64
       }
     ]
   }
