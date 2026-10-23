@@ -83,7 +83,8 @@ def cmd_list(a):
         if "/" in f:                                      # inbox/<folder>/...: the folder is the project
             groups.setdefault(f.split("/")[0], {}).setdefault(k, []).append(f)
         else:                                             # loose files pair by name
-            loose.setdefault(os.path.splitext(f)[0], {}).setdefault(k, []).append(f)
+            # case-insensitive: Script-14.mp4 pairs with script-14.mp3
+            loose.setdefault(os.path.splitext(f)[0].lower(), {}).setdefault(k, []).append(f)
     cands = []                                            # (label, files by kind)
     for stem, d in loose.items():
         cands.append((stem, d))
@@ -94,7 +95,7 @@ def cmd_list(a):
             sub: dict[str, dict[str, list[str]]] = {}
             for k, fs in d.items():
                 for f in fs:
-                    sub.setdefault(os.path.splitext(f.split("/")[-1])[0], {}).setdefault(k, []).append(f)
+                    sub.setdefault(os.path.splitext(f.split("/")[-1])[0].lower(), {}).setdefault(k, []).append(f)
             for stem, sd in sub.items():
                 cands.append((f"{folder}/{stem}", sd))
 
