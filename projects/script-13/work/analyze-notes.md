@@ -1,3 +1,0 @@
-- Recording has baked-in recorder auto-zoom (zoomed/unzoomed alternate), so click coordinates in actions.json are approximate (medium/low confidence) and are only used for the sync list; no plan zooms or ripples.
-- No clicks.json; times read from frames. A5 (Styles tab, 206.5 s) is low confidence.
-- 289 s recording vs 76 s voiceover: footage was chosen per narration line, not all actions are used.

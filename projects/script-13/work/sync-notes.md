@@ -1,2 +1,0 @@
-- Plan built by hand (projects/script-13/work/hand_plan.py), since the recording is 3.8x the voiceover length and zoom-baked. Re-run it after any edit; plan_builder was not used.
-- A3 (font size click) result appears 0.56 s after L6 ends: warning only.
