@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to repeat a music clip so it covers a longer Canva video.",
+    "text": "This tutorial shows you how to create printable wall art in Canva and export a file at the correct physical size.",
     "start": 0.0,
-    "end": 4.34,
+    "end": 6.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      16
+      20
     ],
     "words": [
       {
@@ -22,1642 +22,1999 @@
         "i": 1,
         "word": "tutorial",
         "start": 0.24,
-        "end": 0.62
+        "end": 0.6
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.62,
-        "end": 1.02
+        "start": 0.6,
+        "end": 1.08
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.02,
-        "end": 1.24
+        "start": 1.08,
+        "end": 1.3
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.24,
-        "end": 1.38
+        "start": 1.3,
+        "end": 1.44
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.38,
-        "end": 1.52
+        "start": 1.44,
+        "end": 1.64
       },
       {
         "i": 6,
-        "word": "repeat",
-        "start": 1.52,
-        "end": 1.76
+        "word": "create",
+        "start": 1.64,
+        "end": 1.9
       },
       {
         "i": 7,
-        "word": "a",
-        "start": 1.76,
-        "end": 1.94
+        "word": "printable",
+        "start": 1.9,
+        "end": 2.44
       },
       {
         "i": 8,
-        "word": "music",
-        "start": 1.94,
-        "end": 2.18
+        "word": "wall",
+        "start": 2.44,
+        "end": 2.66
       },
       {
         "i": 9,
-        "word": "clip",
-        "start": 2.18,
-        "end": 2.48
+        "word": "art",
+        "start": 2.66,
+        "end": 2.94
       },
       {
         "i": 10,
-        "word": "so",
-        "start": 2.48,
-        "end": 2.9
+        "word": "in",
+        "start": 2.94,
+        "end": 3.1
       },
       {
         "i": 11,
-        "word": "it",
-        "start": 2.9,
-        "end": 3.02
+        "word": "Canva",
+        "start": 3.1,
+        "end": 3.48
       },
       {
         "i": 12,
-        "word": "covers",
-        "start": 3.02,
-        "end": 3.22
+        "word": "and",
+        "start": 3.48,
+        "end": 3.72
       },
       {
         "i": 13,
-        "word": "a",
-        "start": 3.22,
-        "end": 3.4
+        "word": "export",
+        "start": 3.72,
+        "end": 4.12
       },
       {
         "i": 14,
-        "word": "longer",
-        "start": 3.4,
-        "end": 3.64
+        "word": "a",
+        "start": 4.12,
+        "end": 4.32
       },
       {
         "i": 15,
-        "word": "Canva",
-        "start": 3.64,
-        "end": 4.0
+        "word": "file",
+        "start": 4.32,
+        "end": 4.6
       },
       {
         "i": 16,
-        "word": "video.",
-        "start": 4.0,
-        "end": 4.34
+        "word": "at",
+        "start": 4.6,
+        "end": 4.82
+      },
+      {
+        "i": 17,
+        "word": "the",
+        "start": 4.82,
+        "end": 4.96
+      },
+      {
+        "i": 18,
+        "word": "correct",
+        "start": 4.96,
+        "end": 5.24
+      },
+      {
+        "i": 19,
+        "word": "physical",
+        "start": 5.24,
+        "end": 5.6
+      },
+      {
+        "i": 20,
+        "word": "size.",
+        "start": 5.6,
+        "end": 6.16
       }
     ]
   },
   {
     "id": 2,
-    "text": "Add the music from audio or from your uploaded files.",
-    "start": 4.94,
-    "end": 7.72,
+    "text": "Before designing, choose the finished print dimensions.",
+    "start": 6.66,
+    "end": 8.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      17,
-      26
+      21,
+      27
     ],
     "words": [
       {
-        "i": 17,
-        "word": "Add",
-        "start": 4.94,
-        "end": 5.1
-      },
-      {
-        "i": 18,
-        "word": "the",
-        "start": 5.1,
-        "end": 5.2
-      },
-      {
-        "i": 19,
-        "word": "music",
-        "start": 5.2,
-        "end": 5.46
-      },
-      {
-        "i": 20,
-        "word": "from",
-        "start": 5.46,
-        "end": 5.68
-      },
-      {
         "i": 21,
-        "word": "audio",
-        "start": 5.68,
-        "end": 6.08
+        "word": "Before",
+        "start": 6.66,
+        "end": 6.94
       },
       {
         "i": 22,
-        "word": "or",
-        "start": 6.08,
-        "end": 6.54
+        "word": "designing,",
+        "start": 6.94,
+        "end": 7.36
       },
       {
         "i": 23,
-        "word": "from",
-        "start": 6.54,
-        "end": 6.66
+        "word": "choose",
+        "start": 7.58,
+        "end": 7.7
       },
       {
         "i": 24,
-        "word": "your",
-        "start": 6.66,
-        "end": 6.8
+        "word": "the",
+        "start": 7.7,
+        "end": 7.94
       },
       {
         "i": 25,
-        "word": "uploaded",
-        "start": 6.8,
-        "end": 7.22
+        "word": "finished",
+        "start": 7.94,
+        "end": 8.2
       },
       {
         "i": 26,
-        "word": "files.",
-        "start": 7.22,
-        "end": 7.72
+        "word": "print",
+        "start": 8.2,
+        "end": 8.5
+      },
+      {
+        "i": 27,
+        "word": "dimensions.",
+        "start": 8.5,
+        "end": 8.98
       }
     ]
   },
   {
     "id": 3,
-    "text": "Place the first clip at the beginning of the section where you want the background music.",
-    "start": 8.52,
-    "end": 11.74,
+    "text": "For this example, select Custom Size, change the units to inches, and enter 12 inches wide by 18 inches high.",
+    "start": 9.9,
+    "end": 16.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      27,
-      42
+      28,
+      47
     ],
     "words": [
       {
-        "i": 27,
-        "word": "Place",
-        "start": 8.52,
-        "end": 8.66
-      },
-      {
         "i": 28,
-        "word": "the",
-        "start": 8.66,
-        "end": 8.86
-      },
-      {
-        "i": 29,
-        "word": "first",
-        "start": 8.86,
-        "end": 9.08
-      },
-      {
-        "i": 30,
-        "word": "clip",
-        "start": 9.08,
-        "end": 9.28
-      },
-      {
-        "i": 31,
-        "word": "at",
-        "start": 9.28,
-        "end": 9.4
-      },
-      {
-        "i": 32,
-        "word": "the",
-        "start": 9.4,
-        "end": 9.5
-      },
-      {
-        "i": 33,
-        "word": "beginning",
-        "start": 9.5,
-        "end": 9.7
-      },
-      {
-        "i": 34,
-        "word": "of",
-        "start": 9.7,
-        "end": 9.9
-      },
-      {
-        "i": 35,
-        "word": "the",
+        "word": "For",
         "start": 9.9,
         "end": 10.02
       },
       {
-        "i": 36,
-        "word": "section",
+        "i": 29,
+        "word": "this",
         "start": 10.02,
-        "end": 10.26
+        "end": 10.14
+      },
+      {
+        "i": 30,
+        "word": "example,",
+        "start": 10.14,
+        "end": 10.56
+      },
+      {
+        "i": 31,
+        "word": "select",
+        "start": 10.84,
+        "end": 11.1
+      },
+      {
+        "i": 32,
+        "word": "Custom",
+        "start": 11.1,
+        "end": 11.46
+      },
+      {
+        "i": 33,
+        "word": "Size,",
+        "start": 11.46,
+        "end": 11.82
+      },
+      {
+        "i": 34,
+        "word": "change",
+        "start": 12.22,
+        "end": 12.42
+      },
+      {
+        "i": 35,
+        "word": "the",
+        "start": 12.42,
+        "end": 12.62
+      },
+      {
+        "i": 36,
+        "word": "units",
+        "start": 12.62,
+        "end": 12.82
       },
       {
         "i": 37,
-        "word": "where",
-        "start": 10.26,
-        "end": 10.52
+        "word": "to",
+        "start": 12.82,
+        "end": 13.08
       },
       {
         "i": 38,
-        "word": "you",
-        "start": 10.52,
-        "end": 10.66
+        "word": "inches,",
+        "start": 13.08,
+        "end": 13.26
       },
       {
         "i": 39,
-        "word": "want",
-        "start": 10.66,
-        "end": 10.8
+        "word": "and",
+        "start": 13.72,
+        "end": 13.9
       },
       {
         "i": 40,
-        "word": "the",
-        "start": 10.8,
-        "end": 10.96
+        "word": "enter",
+        "start": 13.9,
+        "end": 14.12
       },
       {
         "i": 41,
-        "word": "background",
-        "start": 10.96,
-        "end": 11.3
+        "word": "12",
+        "start": 14.12,
+        "end": 14.44
       },
       {
         "i": 42,
-        "word": "music.",
-        "start": 11.3,
-        "end": 11.74
+        "word": "inches",
+        "start": 14.44,
+        "end": 14.7
+      },
+      {
+        "i": 43,
+        "word": "wide",
+        "start": 14.7,
+        "end": 15.04
+      },
+      {
+        "i": 44,
+        "word": "by",
+        "start": 15.04,
+        "end": 15.26
+      },
+      {
+        "i": 45,
+        "word": "18",
+        "start": 15.26,
+        "end": 15.68
+      },
+      {
+        "i": 46,
+        "word": "inches",
+        "start": 15.68,
+        "end": 15.98
+      },
+      {
+        "i": 47,
+        "word": "high.",
+        "start": 15.98,
+        "end": 16.34
       }
     ]
   },
   {
     "id": 4,
-    "text": "Trim it to the musical section you want to repeat.",
-    "start": 12.54,
-    "end": 14.46,
+    "text": "Choose a background colour, then add your artwork through uploads or build a design with text and graphics.",
+    "start": 16.96,
+    "end": 21.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      43,
-      52
+      48,
+      65
     ],
     "words": [
       {
-        "i": 43,
-        "word": "Trim",
-        "start": 12.54,
-        "end": 12.64
-      },
-      {
-        "i": 44,
-        "word": "it",
-        "start": 12.64,
-        "end": 12.74
-      },
-      {
-        "i": 45,
-        "word": "to",
-        "start": 12.74,
-        "end": 12.88
-      },
-      {
-        "i": 46,
-        "word": "the",
-        "start": 12.88,
-        "end": 13.02
-      },
-      {
-        "i": 47,
-        "word": "musical",
-        "start": 13.02,
-        "end": 13.24
-      },
-      {
         "i": 48,
-        "word": "section",
-        "start": 13.24,
-        "end": 13.64
+        "word": "Choose",
+        "start": 16.96,
+        "end": 17.16
       },
       {
         "i": 49,
-        "word": "you",
-        "start": 13.64,
-        "end": 13.88
+        "word": "a",
+        "start": 17.16,
+        "end": 17.3
       },
       {
         "i": 50,
-        "word": "want",
-        "start": 13.88,
-        "end": 14.0
+        "word": "background",
+        "start": 17.3,
+        "end": 17.64
       },
       {
         "i": 51,
-        "word": "to",
-        "start": 14.0,
-        "end": 14.14
+        "word": "colour,",
+        "start": 17.64,
+        "end": 17.94
       },
       {
         "i": 52,
-        "word": "repeat.",
-        "start": 14.14,
-        "end": 14.46
+        "word": "then",
+        "start": 18.16,
+        "end": 18.32
+      },
+      {
+        "i": 53,
+        "word": "add",
+        "start": 18.32,
+        "end": 18.54
+      },
+      {
+        "i": 54,
+        "word": "your",
+        "start": 18.54,
+        "end": 18.68
+      },
+      {
+        "i": 55,
+        "word": "artwork",
+        "start": 18.68,
+        "end": 19.02
+      },
+      {
+        "i": 56,
+        "word": "through",
+        "start": 19.02,
+        "end": 19.28
+      },
+      {
+        "i": 57,
+        "word": "uploads",
+        "start": 19.28,
+        "end": 19.88
+      },
+      {
+        "i": 58,
+        "word": "or",
+        "start": 19.88,
+        "end": 20.06
+      },
+      {
+        "i": 59,
+        "word": "build",
+        "start": 20.06,
+        "end": 20.24
+      },
+      {
+        "i": 60,
+        "word": "a",
+        "start": 20.24,
+        "end": 20.38
+      },
+      {
+        "i": 61,
+        "word": "design",
+        "start": 20.38,
+        "end": 20.66
+      },
+      {
+        "i": 62,
+        "word": "with",
+        "start": 20.66,
+        "end": 20.86
+      },
+      {
+        "i": 63,
+        "word": "text",
+        "start": 20.86,
+        "end": 21.12
+      },
+      {
+        "i": 64,
+        "word": "and",
+        "start": 21.12,
+        "end": 21.32
+      },
+      {
+        "i": 65,
+        "word": "graphics.",
+        "start": 21.32,
+        "end": 21.64
       }
     ]
   },
   {
     "id": 5,
-    "text": "Listen to the beginning and end of that section before making copies.",
-    "start": 15.46,
-    "end": 18.6,
+    "text": "For a simple typography print, add a short quote, select a readable font, and adjust the line spacing.",
+    "start": 22.46,
+    "end": 27.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      53,
-      64
+      66,
+      83
     ],
     "words": [
       {
-        "i": 53,
-        "word": "Listen",
-        "start": 15.46,
-        "end": 15.62
+        "i": 66,
+        "word": "For",
+        "start": 22.46,
+        "end": 22.58
       },
       {
-        "i": 54,
-        "word": "to",
-        "start": 15.62,
-        "end": 15.82
+        "i": 67,
+        "word": "a",
+        "start": 22.58,
+        "end": 22.7
       },
       {
-        "i": 55,
-        "word": "the",
-        "start": 15.82,
-        "end": 15.92
+        "i": 68,
+        "word": "simple",
+        "start": 22.7,
+        "end": 22.94
       },
       {
-        "i": 56,
-        "word": "beginning",
-        "start": 15.92,
-        "end": 16.14
+        "i": 69,
+        "word": "typography",
+        "start": 22.94,
+        "end": 23.44
       },
       {
-        "i": 57,
+        "i": 70,
+        "word": "print,",
+        "start": 23.44,
+        "end": 23.76
+      },
+      {
+        "i": 71,
+        "word": "add",
+        "start": 24.06,
+        "end": 24.2
+      },
+      {
+        "i": 72,
+        "word": "a",
+        "start": 24.2,
+        "end": 24.32
+      },
+      {
+        "i": 73,
+        "word": "short",
+        "start": 24.32,
+        "end": 24.52
+      },
+      {
+        "i": 74,
+        "word": "quote,",
+        "start": 24.52,
+        "end": 24.8
+      },
+      {
+        "i": 75,
+        "word": "select",
+        "start": 25.24,
+        "end": 25.46
+      },
+      {
+        "i": 76,
+        "word": "a",
+        "start": 25.46,
+        "end": 25.66
+      },
+      {
+        "i": 77,
+        "word": "readable",
+        "start": 25.66,
+        "end": 25.86
+      },
+      {
+        "i": 78,
+        "word": "font,",
+        "start": 25.86,
+        "end": 26.28
+      },
+      {
+        "i": 79,
         "word": "and",
-        "start": 16.14,
-        "end": 16.54
+        "start": 26.66,
+        "end": 26.84
       },
       {
-        "i": 58,
-        "word": "end",
-        "start": 16.54,
-        "end": 16.84
+        "i": 80,
+        "word": "adjust",
+        "start": 26.84,
+        "end": 27.1
       },
       {
-        "i": 59,
-        "word": "of",
-        "start": 16.84,
-        "end": 16.98
+        "i": 81,
+        "word": "the",
+        "start": 27.1,
+        "end": 27.28
       },
       {
-        "i": 60,
-        "word": "that",
-        "start": 16.98,
-        "end": 17.14
+        "i": 82,
+        "word": "line",
+        "start": 27.28,
+        "end": 27.46
       },
       {
-        "i": 61,
-        "word": "section",
-        "start": 17.14,
-        "end": 17.5
-      },
-      {
-        "i": 62,
-        "word": "before",
-        "start": 17.5,
-        "end": 17.8
-      },
-      {
-        "i": 63,
-        "word": "making",
-        "start": 17.8,
-        "end": 18.14
-      },
-      {
-        "i": 64,
-        "word": "copies.",
-        "start": 18.14,
-        "end": 18.6
+        "i": 83,
+        "word": "spacing.",
+        "start": 27.46,
+        "end": 27.84
       }
     ]
   },
   {
     "id": 6,
-    "text": "Add the same music again from audio or uploads.",
-    "start": 19.48,
-    "end": 22.58,
+    "text": "Use position to centre the main elements.",
+    "start": 28.48,
+    "end": 30.42,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      65,
-      73
+      84,
+      90
     ],
     "words": [
       {
-        "i": 65,
-        "word": "Add",
-        "start": 19.48,
-        "end": 19.74
+        "i": 84,
+        "word": "Use",
+        "start": 28.48,
+        "end": 28.78
       },
       {
-        "i": 66,
+        "i": 85,
+        "word": "position",
+        "start": 28.78,
+        "end": 29.12
+      },
+      {
+        "i": 86,
+        "word": "to",
+        "start": 29.12,
+        "end": 29.42
+      },
+      {
+        "i": 87,
+        "word": "centre",
+        "start": 29.42,
+        "end": 29.64
+      },
+      {
+        "i": 88,
         "word": "the",
-        "start": 19.74,
-        "end": 19.9
+        "start": 29.64,
+        "end": 29.82
       },
       {
-        "i": 67,
-        "word": "same",
-        "start": 19.9,
-        "end": 20.1
+        "i": 89,
+        "word": "main",
+        "start": 29.82,
+        "end": 30.02
       },
       {
-        "i": 68,
-        "word": "music",
-        "start": 20.1,
-        "end": 20.4
-      },
-      {
-        "i": 69,
-        "word": "again",
-        "start": 20.4,
-        "end": 20.72
-      },
-      {
-        "i": 70,
-        "word": "from",
-        "start": 20.72,
-        "end": 20.96
-      },
-      {
-        "i": 71,
-        "word": "audio",
-        "start": 20.96,
-        "end": 21.38
-      },
-      {
-        "i": 72,
-        "word": "or",
-        "start": 21.38,
-        "end": 21.8
-      },
-      {
-        "i": 73,
-        "word": "uploads.",
-        "start": 21.8,
-        "end": 22.58
+        "i": 90,
+        "word": "elements.",
+        "start": 30.02,
+        "end": 30.42
       }
     ]
   },
   {
     "id": 7,
-    "text": "If you trimmed the first clip, adjust the second one to use the same portion of the recording.",
-    "start": 22.86,
-    "end": 26.9,
+    "text": "Keep important text comfortably inside the edges, especially if the artwork will sit behind a frame opening or mat.",
+    "start": 31.08,
+    "end": 37.0,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      74,
-      91
+      91,
+      109
     ],
     "words": [
       {
-        "i": 74,
-        "word": "If",
-        "start": 22.86,
-        "end": 23.0
-      },
-      {
-        "i": 75,
-        "word": "you",
-        "start": 23.0,
-        "end": 23.14
-      },
-      {
-        "i": 76,
-        "word": "trimmed",
-        "start": 23.14,
-        "end": 23.38
-      },
-      {
-        "i": 77,
-        "word": "the",
-        "start": 23.38,
-        "end": 23.54
-      },
-      {
-        "i": 78,
-        "word": "first",
-        "start": 23.54,
-        "end": 23.74
-      },
-      {
-        "i": 79,
-        "word": "clip,",
-        "start": 23.74,
-        "end": 24.06
-      },
-      {
-        "i": 80,
-        "word": "adjust",
-        "start": 24.28,
-        "end": 24.54
-      },
-      {
-        "i": 81,
-        "word": "the",
-        "start": 24.54,
-        "end": 24.78
-      },
-      {
-        "i": 82,
-        "word": "second",
-        "start": 24.78,
-        "end": 25.0
-      },
-      {
-        "i": 83,
-        "word": "one",
-        "start": 25.0,
-        "end": 25.18
-      },
-      {
-        "i": 84,
-        "word": "to",
-        "start": 25.18,
-        "end": 25.38
-      },
-      {
-        "i": 85,
-        "word": "use",
-        "start": 25.38,
-        "end": 25.52
-      },
-      {
-        "i": 86,
-        "word": "the",
-        "start": 25.52,
-        "end": 25.68
-      },
-      {
-        "i": 87,
-        "word": "same",
-        "start": 25.68,
-        "end": 25.92
-      },
-      {
-        "i": 88,
-        "word": "portion",
-        "start": 25.92,
-        "end": 26.24
-      },
-      {
-        "i": 89,
-        "word": "of",
-        "start": 26.24,
-        "end": 26.4
-      },
-      {
-        "i": 90,
-        "word": "the",
-        "start": 26.4,
-        "end": 26.5
-      },
-      {
         "i": 91,
-        "word": "recording.",
-        "start": 26.5,
-        "end": 26.9
+        "word": "Keep",
+        "start": 31.08,
+        "end": 31.16
+      },
+      {
+        "i": 92,
+        "word": "important",
+        "start": 31.16,
+        "end": 31.62
+      },
+      {
+        "i": 93,
+        "word": "text",
+        "start": 31.62,
+        "end": 31.94
+      },
+      {
+        "i": 94,
+        "word": "comfortably",
+        "start": 31.94,
+        "end": 32.46
+      },
+      {
+        "i": 95,
+        "word": "inside",
+        "start": 32.46,
+        "end": 32.9
+      },
+      {
+        "i": 96,
+        "word": "the",
+        "start": 32.9,
+        "end": 33.08
+      },
+      {
+        "i": 97,
+        "word": "edges,",
+        "start": 33.08,
+        "end": 33.4
+      },
+      {
+        "i": 98,
+        "word": "especially",
+        "start": 33.82,
+        "end": 34.12
+      },
+      {
+        "i": 99,
+        "word": "if",
+        "start": 34.12,
+        "end": 34.4
+      },
+      {
+        "i": 100,
+        "word": "the",
+        "start": 34.4,
+        "end": 34.5
+      },
+      {
+        "i": 101,
+        "word": "artwork",
+        "start": 34.5,
+        "end": 34.86
+      },
+      {
+        "i": 102,
+        "word": "will",
+        "start": 34.86,
+        "end": 35.1
+      },
+      {
+        "i": 103,
+        "word": "sit",
+        "start": 35.1,
+        "end": 35.28
+      },
+      {
+        "i": 104,
+        "word": "behind",
+        "start": 35.28,
+        "end": 35.6
+      },
+      {
+        "i": 105,
+        "word": "a",
+        "start": 35.6,
+        "end": 35.74
+      },
+      {
+        "i": 106,
+        "word": "frame",
+        "start": 35.74,
+        "end": 35.98
+      },
+      {
+        "i": 107,
+        "word": "opening",
+        "start": 35.98,
+        "end": 36.34
+      },
+      {
+        "i": 108,
+        "word": "or",
+        "start": 36.34,
+        "end": 36.76
+      },
+      {
+        "i": 109,
+        "word": "mat.",
+        "start": 36.76,
+        "end": 37.0
       }
     ]
   },
   {
     "id": 8,
-    "text": "Drag the second clip directly after the first.",
-    "start": 26.9,
-    "end": 29.62,
+    "text": "If the background should reach the cut edge, open file, settings, and show print bleed, extend the background through the bleed area.",
+    "start": 37.8,
+    "end": 44.72,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      92,
-      99
+      110,
+      131
     ],
     "words": [
       {
-        "i": 92,
-        "word": "Drag",
-        "start": 26.9,
-        "end": 27.62
+        "i": 110,
+        "word": "If",
+        "start": 37.8,
+        "end": 37.9
       },
       {
-        "i": 93,
+        "i": 111,
         "word": "the",
-        "start": 27.62,
-        "end": 27.82
+        "start": 37.9,
+        "end": 38.02
       },
       {
-        "i": 94,
-        "word": "second",
-        "start": 27.82,
-        "end": 28.08
+        "i": 112,
+        "word": "background",
+        "start": 38.02,
+        "end": 38.32
       },
       {
-        "i": 95,
-        "word": "clip",
-        "start": 28.08,
-        "end": 28.3
+        "i": 113,
+        "word": "should",
+        "start": 38.32,
+        "end": 38.54
       },
       {
-        "i": 96,
-        "word": "directly",
-        "start": 28.3,
-        "end": 28.7
+        "i": 114,
+        "word": "reach",
+        "start": 38.54,
+        "end": 38.76
       },
       {
-        "i": 97,
-        "word": "after",
-        "start": 28.7,
-        "end": 29.12
-      },
-      {
-        "i": 98,
+        "i": 115,
         "word": "the",
-        "start": 29.12,
-        "end": 29.3
+        "start": 38.76,
+        "end": 38.98
       },
       {
-        "i": 99,
-        "word": "first.",
-        "start": 29.3,
-        "end": 29.62
+        "i": 116,
+        "word": "cut",
+        "start": 38.98,
+        "end": 39.16
+      },
+      {
+        "i": 117,
+        "word": "edge,",
+        "start": 39.16,
+        "end": 39.44
+      },
+      {
+        "i": 118,
+        "word": "open",
+        "start": 39.88,
+        "end": 40.02
+      },
+      {
+        "i": 119,
+        "word": "file,",
+        "start": 40.02,
+        "end": 40.38
+      },
+      {
+        "i": 120,
+        "word": "settings,",
+        "start": 40.76,
+        "end": 41.04
+      },
+      {
+        "i": 121,
+        "word": "and",
+        "start": 41.38,
+        "end": 41.46
+      },
+      {
+        "i": 122,
+        "word": "show",
+        "start": 41.46,
+        "end": 41.72
+      },
+      {
+        "i": 123,
+        "word": "print",
+        "start": 41.72,
+        "end": 41.98
+      },
+      {
+        "i": 124,
+        "word": "bleed,",
+        "start": 41.98,
+        "end": 42.24
+      },
+      {
+        "i": 125,
+        "word": "extend",
+        "start": 42.78,
+        "end": 43.1
+      },
+      {
+        "i": 126,
+        "word": "the",
+        "start": 43.1,
+        "end": 43.28
+      },
+      {
+        "i": 127,
+        "word": "background",
+        "start": 43.28,
+        "end": 43.64
+      },
+      {
+        "i": 128,
+        "word": "through",
+        "start": 43.64,
+        "end": 43.9
+      },
+      {
+        "i": 129,
+        "word": "the",
+        "start": 43.9,
+        "end": 44.08
+      },
+      {
+        "i": 130,
+        "word": "bleed",
+        "start": 44.08,
+        "end": 44.3
+      },
+      {
+        "i": 131,
+        "word": "area.",
+        "start": 44.3,
+        "end": 44.72
       }
     ]
   },
   {
     "id": 9,
-    "text": "Zoom into the timeline to check that there is no accidental gap or overlap between them.",
-    "start": 30.18,
-    "end": 34.66,
+    "text": "Confirm the printer's requirements before including bleed in the final file.",
+    "start": 45.12,
+    "end": 48.58,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      100,
-      115
+      132,
+      142
     ],
     "words": [
       {
-        "i": 100,
-        "word": "Zoom",
-        "start": 30.18,
-        "end": 30.44
+        "i": 132,
+        "word": "Confirm",
+        "start": 45.12,
+        "end": 45.46
       },
       {
-        "i": 101,
-        "word": "into",
-        "start": 30.44,
-        "end": 30.68
-      },
-      {
-        "i": 102,
+        "i": 133,
         "word": "the",
-        "start": 30.68,
-        "end": 30.82
+        "start": 45.46,
+        "end": 45.62
       },
       {
-        "i": 103,
-        "word": "timeline",
-        "start": 30.82,
-        "end": 31.1
+        "i": 134,
+        "word": "printer's",
+        "start": 45.62,
+        "end": 45.98
       },
       {
-        "i": 104,
-        "word": "to",
-        "start": 31.1,
-        "end": 31.36
+        "i": 135,
+        "word": "requirements",
+        "start": 45.98,
+        "end": 46.36
       },
       {
-        "i": 105,
-        "word": "check",
-        "start": 31.36,
-        "end": 31.54
+        "i": 136,
+        "word": "before",
+        "start": 46.36,
+        "end": 46.76
       },
       {
-        "i": 106,
-        "word": "that",
-        "start": 31.54,
-        "end": 31.7
+        "i": 137,
+        "word": "including",
+        "start": 46.76,
+        "end": 47.26
       },
       {
-        "i": 107,
-        "word": "there",
-        "start": 31.7,
-        "end": 31.82
+        "i": 138,
+        "word": "bleed",
+        "start": 47.26,
+        "end": 47.6
       },
       {
-        "i": 108,
-        "word": "is",
-        "start": 31.82,
-        "end": 31.94
+        "i": 139,
+        "word": "in",
+        "start": 47.6,
+        "end": 47.78
       },
       {
-        "i": 109,
-        "word": "no",
-        "start": 31.94,
-        "end": 32.2
+        "i": 140,
+        "word": "the",
+        "start": 47.78,
+        "end": 47.88
       },
       {
-        "i": 110,
-        "word": "accidental",
-        "start": 32.2,
-        "end": 32.78
+        "i": 141,
+        "word": "final",
+        "start": 47.88,
+        "end": 48.16
       },
       {
-        "i": 111,
-        "word": "gap",
-        "start": 32.78,
-        "end": 33.18
-      },
-      {
-        "i": 112,
-        "word": "or",
-        "start": 33.18,
-        "end": 33.58
-      },
-      {
-        "i": 113,
-        "word": "overlap",
-        "start": 33.58,
-        "end": 34.0
-      },
-      {
-        "i": 114,
-        "word": "between",
-        "start": 34.0,
-        "end": 34.32
-      },
-      {
-        "i": 115,
-        "word": "them.",
-        "start": 34.32,
-        "end": 34.66
+        "i": 142,
+        "word": "file.",
+        "start": 48.16,
+        "end": 48.58
       }
     ]
   },
   {
     "id": 10,
-    "text": "Continue adding copies until the music covers the required duration.",
-    "start": 35.2,
-    "end": 38.16,
+    "text": "Here's the part many tutorials skip.",
+    "start": 49.48,
+    "end": 51.24,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      116,
-      125
+      143,
+      148
     ],
     "words": [
       {
-        "i": 116,
-        "word": "Continue",
-        "start": 35.2,
-        "end": 35.42
+        "i": 143,
+        "word": "Here's",
+        "start": 49.48,
+        "end": 49.7
       },
       {
-        "i": 117,
-        "word": "adding",
-        "start": 35.42,
-        "end": 35.76
-      },
-      {
-        "i": 118,
-        "word": "copies",
-        "start": 35.76,
-        "end": 36.02
-      },
-      {
-        "i": 119,
-        "word": "until",
-        "start": 36.02,
-        "end": 36.34
-      },
-      {
-        "i": 120,
+        "i": 144,
         "word": "the",
-        "start": 36.34,
-        "end": 36.46
+        "start": 49.7,
+        "end": 49.84
       },
       {
-        "i": 121,
-        "word": "music",
-        "start": 36.46,
-        "end": 36.72
+        "i": 145,
+        "word": "part",
+        "start": 49.84,
+        "end": 50.0
       },
       {
-        "i": 122,
-        "word": "covers",
-        "start": 36.72,
-        "end": 37.02
+        "i": 146,
+        "word": "many",
+        "start": 50.0,
+        "end": 50.26
       },
       {
-        "i": 123,
-        "word": "the",
-        "start": 37.02,
-        "end": 37.22
+        "i": 147,
+        "word": "tutorials",
+        "start": 50.26,
+        "end": 50.84
       },
       {
-        "i": 124,
-        "word": "required",
-        "start": 37.22,
-        "end": 37.6
-      },
-      {
-        "i": 125,
-        "word": "duration.",
-        "start": 37.6,
-        "end": 38.16
+        "i": 148,
+        "word": "skip.",
+        "start": 50.84,
+        "end": 51.24
       }
     ]
   },
   {
     "id": 11,
-    "text": "Trim the last copy so it ends with your video, then add a short fade out if the ending sounds abrupt.",
-    "start": 39.0,
-    "end": 43.5,
+    "text": "A larger canvas cannot restore detail to a small, uploaded photo.",
+    "start": 51.64,
+    "end": 55.22,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      126,
-      146
+      149,
+      159
     ],
     "words": [
       {
-        "i": 126,
-        "word": "Trim",
-        "start": 39.0,
-        "end": 39.08
+        "i": 149,
+        "word": "A",
+        "start": 51.64,
+        "end": 51.8
       },
       {
-        "i": 127,
-        "word": "the",
-        "start": 39.08,
-        "end": 39.22
+        "i": 150,
+        "word": "larger",
+        "start": 51.8,
+        "end": 52.06
       },
       {
-        "i": 128,
-        "word": "last",
-        "start": 39.22,
-        "end": 39.4
+        "i": 151,
+        "word": "canvas",
+        "start": 52.06,
+        "end": 52.48
       },
       {
-        "i": 129,
-        "word": "copy",
-        "start": 39.4,
-        "end": 39.68
+        "i": 152,
+        "word": "cannot",
+        "start": 52.48,
+        "end": 52.76
       },
       {
-        "i": 130,
-        "word": "so",
-        "start": 39.68,
-        "end": 39.9
+        "i": 153,
+        "word": "restore",
+        "start": 52.76,
+        "end": 53.18
       },
       {
-        "i": 131,
-        "word": "it",
-        "start": 39.9,
-        "end": 40.0
+        "i": 154,
+        "word": "detail",
+        "start": 53.18,
+        "end": 53.58
       },
       {
-        "i": 132,
-        "word": "ends",
-        "start": 40.0,
-        "end": 40.22
+        "i": 155,
+        "word": "to",
+        "start": 53.58,
+        "end": 53.84
       },
       {
-        "i": 133,
-        "word": "with",
-        "start": 40.22,
-        "end": 40.38
-      },
-      {
-        "i": 134,
-        "word": "your",
-        "start": 40.38,
-        "end": 40.52
-      },
-      {
-        "i": 135,
-        "word": "video,",
-        "start": 40.52,
-        "end": 40.82
-      },
-      {
-        "i": 136,
-        "word": "then",
-        "start": 41.02,
-        "end": 41.26
-      },
-      {
-        "i": 137,
-        "word": "add",
-        "start": 41.26,
-        "end": 41.42
-      },
-      {
-        "i": 138,
+        "i": 156,
         "word": "a",
-        "start": 41.42,
-        "end": 41.56
+        "start": 53.84,
+        "end": 53.94
       },
       {
-        "i": 139,
-        "word": "short",
-        "start": 41.56,
-        "end": 41.76
+        "i": 157,
+        "word": "small,",
+        "start": 53.94,
+        "end": 54.28
       },
       {
-        "i": 140,
-        "word": "fade",
-        "start": 41.76,
-        "end": 42.08
+        "i": 158,
+        "word": "uploaded",
+        "start": 54.36,
+        "end": 54.78
       },
       {
-        "i": 141,
-        "word": "out",
-        "start": 42.08,
-        "end": 42.3
-      },
-      {
-        "i": 142,
-        "word": "if",
-        "start": 42.3,
-        "end": 42.52
-      },
-      {
-        "i": 143,
-        "word": "the",
-        "start": 42.52,
-        "end": 42.64
-      },
-      {
-        "i": 144,
-        "word": "ending",
-        "start": 42.64,
-        "end": 42.86
-      },
-      {
-        "i": 145,
-        "word": "sounds",
-        "start": 42.86,
-        "end": 43.18
-      },
-      {
-        "i": 146,
-        "word": "abrupt.",
-        "start": 43.18,
-        "end": 43.5
+        "i": 159,
+        "word": "photo.",
+        "start": 54.78,
+        "end": 55.22
       }
     ]
   },
   {
     "id": 12,
-    "text": "Here's the part many tutorials skip.",
-    "start": 44.16,
-    "end": 46.02,
+    "text": "At 300 pixels per inch, a 12 by 18 inch photo needs about 3,600 by 5,400 pixels.",
+    "start": 55.22,
+    "end": 62.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      147,
-      152
+      160,
+      178
     ],
     "words": [
       {
-        "i": 147,
-        "word": "Here's",
-        "start": 44.16,
-        "end": 44.42
+        "i": 160,
+        "word": "At",
+        "start": 55.22,
+        "end": 55.92
       },
       {
-        "i": 148,
-        "word": "the",
-        "start": 44.42,
-        "end": 44.54
+        "i": 161,
+        "word": "300",
+        "start": 55.92,
+        "end": 56.5
       },
       {
-        "i": 149,
-        "word": "part",
-        "start": 44.54,
-        "end": 44.72
+        "i": 162,
+        "word": "pixels",
+        "start": 56.5,
+        "end": 56.74
       },
       {
-        "i": 150,
-        "word": "many",
-        "start": 44.72,
-        "end": 45.08
+        "i": 163,
+        "word": "per",
+        "start": 56.74,
+        "end": 57.06
       },
       {
-        "i": 151,
-        "word": "tutorials",
-        "start": 45.08,
-        "end": 45.6
+        "i": 164,
+        "word": "inch,",
+        "start": 57.06,
+        "end": 57.34
       },
       {
-        "i": 152,
-        "word": "skip.",
-        "start": 45.6,
-        "end": 46.02
+        "i": 165,
+        "word": "a",
+        "start": 57.76,
+        "end": 57.84
+      },
+      {
+        "i": 166,
+        "word": "12",
+        "start": 57.84,
+        "end": 58.1
+      },
+      {
+        "i": 167,
+        "word": "by",
+        "start": 58.1,
+        "end": 58.26
+      },
+      {
+        "i": 168,
+        "word": "18",
+        "start": 58.26,
+        "end": 58.64
+      },
+      {
+        "i": 169,
+        "word": "inch",
+        "start": 58.64,
+        "end": 58.86
+      },
+      {
+        "i": 170,
+        "word": "photo",
+        "start": 58.86,
+        "end": 59.08
+      },
+      {
+        "i": 171,
+        "word": "needs",
+        "start": 59.08,
+        "end": 59.42
+      },
+      {
+        "i": 172,
+        "word": "about",
+        "start": 59.42,
+        "end": 59.7
+      },
+      {
+        "i": 173,
+        "word": "3",
+        "start": 59.7,
+        "end": 60.0
+      },
+      {
+        "i": 174,
+        "word": ",600",
+        "start": 60.0,
+        "end": 60.5
+      },
+      {
+        "i": 175,
+        "word": "by",
+        "start": 60.5,
+        "end": 60.86
+      },
+      {
+        "i": 176,
+        "word": "5",
+        "start": 60.86,
+        "end": 61.22
+      },
+      {
+        "i": 177,
+        "word": ",400",
+        "start": 61.22,
+        "end": 61.74
+      },
+      {
+        "i": 178,
+        "word": "pixels.",
+        "start": 61.74,
+        "end": 62.26
       }
     ]
   },
   {
     "id": 13,
-    "text": "Repeating a file does not guarantee a seamless musical loop.",
-    "start": 46.78,
-    "end": 49.58,
+    "text": "Use a sufficiently large original image and inspect it closely before printing.",
+    "start": 62.92,
+    "end": 66.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      153,
-      162
+      179,
+      190
     ],
     "words": [
       {
-        "i": 153,
-        "word": "Repeating",
-        "start": 46.78,
-        "end": 47.04
+        "i": 179,
+        "word": "Use",
+        "start": 62.92,
+        "end": 63.12
       },
       {
-        "i": 154,
+        "i": 180,
         "word": "a",
-        "start": 47.04,
-        "end": 47.16
+        "start": 63.12,
+        "end": 63.3
       },
       {
-        "i": 155,
-        "word": "file",
-        "start": 47.16,
-        "end": 47.44
+        "i": 181,
+        "word": "sufficiently",
+        "start": 63.3,
+        "end": 63.66
       },
       {
-        "i": 156,
-        "word": "does",
-        "start": 47.44,
-        "end": 47.6
+        "i": 182,
+        "word": "large",
+        "start": 63.66,
+        "end": 64.04
       },
       {
-        "i": 157,
-        "word": "not",
-        "start": 47.6,
-        "end": 47.82
+        "i": 183,
+        "word": "original",
+        "start": 64.04,
+        "end": 64.36
       },
       {
-        "i": 158,
-        "word": "guarantee",
-        "start": 47.82,
-        "end": 48.16
+        "i": 184,
+        "word": "image",
+        "start": 64.36,
+        "end": 64.76
       },
       {
-        "i": 159,
-        "word": "a",
-        "start": 48.16,
-        "end": 48.4
+        "i": 185,
+        "word": "and",
+        "start": 64.76,
+        "end": 65.0
       },
       {
-        "i": 160,
-        "word": "seamless",
-        "start": 48.4,
-        "end": 48.78
+        "i": 186,
+        "word": "inspect",
+        "start": 65.0,
+        "end": 65.32
       },
       {
-        "i": 161,
-        "word": "musical",
-        "start": 48.78,
-        "end": 49.22
+        "i": 187,
+        "word": "it",
+        "start": 65.32,
+        "end": 65.56
       },
       {
-        "i": 162,
-        "word": "loop.",
-        "start": 49.22,
-        "end": 49.58
+        "i": 188,
+        "word": "closely",
+        "start": 65.56,
+        "end": 65.8
+      },
+      {
+        "i": 189,
+        "word": "before",
+        "start": 65.8,
+        "end": 66.22
+      },
+      {
+        "i": 190,
+        "word": "printing.",
+        "start": 66.22,
+        "end": 66.64
       }
     ]
   },
   {
     "id": 14,
-    "text": "A recording with a fading ending, a silent opening, or an unfinished phrase can sound awkward every time it restarts.",
-    "start": 50.18,
-    "end": 56.58,
+    "text": "Click Share, then Download, and choose PDF Print.",
+    "start": 67.22,
+    "end": 70.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      163,
-      182
+      191,
+      198
     ],
     "words": [
       {
-        "i": 163,
-        "word": "A",
-        "start": 50.18,
-        "end": 50.36
+        "i": 191,
+        "word": "Click",
+        "start": 67.22,
+        "end": 67.5
       },
       {
-        "i": 164,
-        "word": "recording",
-        "start": 50.36,
-        "end": 50.66
+        "i": 192,
+        "word": "Share,",
+        "start": 67.5,
+        "end": 67.78
       },
       {
-        "i": 165,
-        "word": "with",
-        "start": 50.66,
-        "end": 50.88
+        "i": 193,
+        "word": "then",
+        "start": 68.0,
+        "end": 68.2
       },
       {
-        "i": 166,
-        "word": "a",
-        "start": 50.88,
-        "end": 51.0
+        "i": 194,
+        "word": "Download,",
+        "start": 68.2,
+        "end": 68.6
       },
       {
-        "i": 167,
-        "word": "fading",
-        "start": 51.0,
-        "end": 51.24
+        "i": 195,
+        "word": "and",
+        "start": 68.82,
+        "end": 68.98
       },
       {
-        "i": 168,
-        "word": "ending,",
-        "start": 51.24,
-        "end": 51.6
+        "i": 196,
+        "word": "choose",
+        "start": 68.98,
+        "end": 69.26
       },
       {
-        "i": 169,
-        "word": "a",
-        "start": 51.9,
-        "end": 52.04
+        "i": 197,
+        "word": "PDF",
+        "start": 69.26,
+        "end": 69.76
       },
       {
-        "i": 170,
-        "word": "silent",
-        "start": 52.04,
-        "end": 52.32
-      },
-      {
-        "i": 171,
-        "word": "opening,",
-        "start": 52.32,
-        "end": 52.76
-      },
-      {
-        "i": 172,
-        "word": "or",
-        "start": 52.9,
-        "end": 53.14
-      },
-      {
-        "i": 173,
-        "word": "an",
-        "start": 53.14,
-        "end": 53.28
-      },
-      {
-        "i": 174,
-        "word": "unfinished",
-        "start": 53.28,
-        "end": 53.76
-      },
-      {
-        "i": 175,
-        "word": "phrase",
-        "start": 53.76,
-        "end": 54.14
-      },
-      {
-        "i": 176,
-        "word": "can",
-        "start": 54.14,
-        "end": 54.42
-      },
-      {
-        "i": 177,
-        "word": "sound",
-        "start": 54.42,
-        "end": 54.64
-      },
-      {
-        "i": 178,
-        "word": "awkward",
-        "start": 54.64,
-        "end": 55.08
-      },
-      {
-        "i": 179,
-        "word": "every",
-        "start": 55.08,
-        "end": 55.48
-      },
-      {
-        "i": 180,
-        "word": "time",
-        "start": 55.48,
-        "end": 55.8
-      },
-      {
-        "i": 181,
-        "word": "it",
-        "start": 55.8,
-        "end": 55.98
-      },
-      {
-        "i": 182,
-        "word": "restarts.",
-        "start": 55.98,
-        "end": 56.58
+        "i": 198,
+        "word": "Print.",
+        "start": 69.76,
+        "end": 70.16
       }
     ]
   },
   {
     "id": 15,
-    "text": "Choose a section that begins and ends on compatible beats or use music made for looping.",
-    "start": 57.36,
-    "end": 61.7,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      183,
-      198
-    ],
-    "words": [
-      {
-        "i": 183,
-        "word": "Choose",
-        "start": 57.36,
-        "end": 57.4
-      },
-      {
-        "i": 184,
-        "word": "a",
-        "start": 57.4,
-        "end": 57.6
-      },
-      {
-        "i": 185,
-        "word": "section",
-        "start": 57.6,
-        "end": 57.8
-      },
-      {
-        "i": 186,
-        "word": "that",
-        "start": 57.8,
-        "end": 58.02
-      },
-      {
-        "i": 187,
-        "word": "begins",
-        "start": 58.02,
-        "end": 58.28
-      },
-      {
-        "i": 188,
-        "word": "and",
-        "start": 58.28,
-        "end": 58.48
-      },
-      {
-        "i": 189,
-        "word": "ends",
-        "start": 58.48,
-        "end": 58.72
-      },
-      {
-        "i": 190,
-        "word": "on",
-        "start": 58.72,
-        "end": 58.88
-      },
-      {
-        "i": 191,
-        "word": "compatible",
-        "start": 58.88,
-        "end": 59.32
-      },
-      {
-        "i": 192,
-        "word": "beats",
-        "start": 59.32,
-        "end": 59.72
-      },
-      {
-        "i": 193,
-        "word": "or",
-        "start": 59.72,
-        "end": 60.3
-      },
-      {
-        "i": 194,
-        "word": "use",
-        "start": 60.3,
-        "end": 60.48
-      },
-      {
-        "i": 195,
-        "word": "music",
-        "start": 60.48,
-        "end": 60.82
-      },
-      {
-        "i": 196,
-        "word": "made",
-        "start": 60.82,
-        "end": 61.02
-      },
-      {
-        "i": 197,
-        "word": "for",
-        "start": 61.02,
-        "end": 61.2
-      },
-      {
-        "i": 198,
-        "word": "looping.",
-        "start": 61.2,
-        "end": 61.7
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "text": "Listen across each join rather than checking only the first copy.",
-    "start": 62.18,
-    "end": 65.38,
+    "text": "Enable crop marks and bleed only if your print provider asks for them.",
+    "start": 70.92,
+    "end": 74.24,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       199,
-      209
+      211
     ],
     "words": [
       {
         "i": 199,
-        "word": "Listen",
-        "start": 62.18,
-        "end": 62.3
+        "word": "Enable",
+        "start": 70.92,
+        "end": 71.2
       },
       {
         "i": 200,
-        "word": "across",
-        "start": 62.3,
-        "end": 62.56
+        "word": "crop",
+        "start": 71.2,
+        "end": 71.46
       },
       {
         "i": 201,
-        "word": "each",
-        "start": 62.56,
-        "end": 62.94
+        "word": "marks",
+        "start": 71.46,
+        "end": 71.7
       },
       {
         "i": 202,
-        "word": "join",
-        "start": 62.94,
-        "end": 63.34
+        "word": "and",
+        "start": 71.7,
+        "end": 72.02
       },
       {
         "i": 203,
-        "word": "rather",
-        "start": 63.34,
-        "end": 63.66
+        "word": "bleed",
+        "start": 72.02,
+        "end": 72.2
       },
       {
         "i": 204,
-        "word": "than",
-        "start": 63.66,
-        "end": 63.92
+        "word": "only",
+        "start": 72.2,
+        "end": 72.54
       },
       {
         "i": 205,
-        "word": "checking",
-        "start": 63.92,
-        "end": 64.14
+        "word": "if",
+        "start": 72.54,
+        "end": 72.78
       },
       {
         "i": 206,
-        "word": "only",
-        "start": 64.14,
-        "end": 64.54
+        "word": "your",
+        "start": 72.78,
+        "end": 72.94
       },
       {
         "i": 207,
-        "word": "the",
-        "start": 64.54,
-        "end": 64.76
+        "word": "print",
+        "start": 72.94,
+        "end": 73.16
       },
       {
         "i": 208,
-        "word": "first",
-        "start": 64.76,
-        "end": 64.98
+        "word": "provider",
+        "start": 73.16,
+        "end": 73.48
       },
       {
         "i": 209,
-        "word": "copy.",
-        "start": 64.98,
-        "end": 65.38
+        "word": "asks",
+        "start": 73.48,
+        "end": 73.78
+      },
+      {
+        "i": 210,
+        "word": "for",
+        "start": 73.78,
+        "end": 74.02
+      },
+      {
+        "i": 211,
+        "word": "them.",
+        "start": 74.02,
+        "end": 74.24
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Use the colour profile requested by the printer when that option is available.",
+    "start": 74.76,
+    "end": 77.98,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      212,
+      224
+    ],
+    "words": [
+      {
+        "i": 212,
+        "word": "Use",
+        "start": 74.76,
+        "end": 74.94
+      },
+      {
+        "i": 213,
+        "word": "the",
+        "start": 74.94,
+        "end": 75.12
+      },
+      {
+        "i": 214,
+        "word": "colour",
+        "start": 75.12,
+        "end": 75.28
+      },
+      {
+        "i": 215,
+        "word": "profile",
+        "start": 75.28,
+        "end": 75.76
+      },
+      {
+        "i": 216,
+        "word": "requested",
+        "start": 75.76,
+        "end": 76.16
+      },
+      {
+        "i": 217,
+        "word": "by",
+        "start": 76.16,
+        "end": 76.42
+      },
+      {
+        "i": 218,
+        "word": "the",
+        "start": 76.42,
+        "end": 76.56
+      },
+      {
+        "i": 219,
+        "word": "printer",
+        "start": 76.56,
+        "end": 76.76
+      },
+      {
+        "i": 220,
+        "word": "when",
+        "start": 76.76,
+        "end": 77.0
+      },
+      {
+        "i": 221,
+        "word": "that",
+        "start": 77.0,
+        "end": 77.16
+      },
+      {
+        "i": 222,
+        "word": "option",
+        "start": 77.16,
+        "end": 77.46
+      },
+      {
+        "i": 223,
+        "word": "is",
+        "start": 77.46,
+        "end": 77.62
+      },
+      {
+        "i": 224,
+        "word": "available.",
+        "start": 77.62,
+        "end": 77.98
       }
     ]
   },
   {
     "id": 17,
-    "text": "Preview the complete video and download it as an mp4.",
-    "start": 66.04,
-    "end": 69.02,
+    "text": "Open the exported PDF and check its dimensions.",
+    "start": 78.74,
+    "end": 81.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      210,
-      219
+      225,
+      232
     ],
     "words": [
       {
-        "i": 210,
-        "word": "Preview",
-        "start": 66.04,
-        "end": 66.12
+        "i": 225,
+        "word": "Open",
+        "start": 78.74,
+        "end": 79.0
       },
       {
-        "i": 211,
+        "i": 226,
         "word": "the",
-        "start": 66.12,
-        "end": 66.38
+        "start": 79.0,
+        "end": 79.14
       },
       {
-        "i": 212,
-        "word": "complete",
-        "start": 66.38,
-        "end": 66.68
+        "i": 227,
+        "word": "exported",
+        "start": 79.14,
+        "end": 79.58
       },
       {
-        "i": 213,
-        "word": "video",
-        "start": 66.68,
-        "end": 67.06
+        "i": 228,
+        "word": "PDF",
+        "start": 79.58,
+        "end": 80.06
       },
       {
-        "i": 214,
+        "i": 229,
         "word": "and",
-        "start": 67.06,
-        "end": 67.54
+        "start": 80.06,
+        "end": 80.48
       },
       {
-        "i": 215,
-        "word": "download",
-        "start": 67.54,
-        "end": 67.9
+        "i": 230,
+        "word": "check",
+        "start": 80.48,
+        "end": 80.72
       },
       {
-        "i": 216,
-        "word": "it",
-        "start": 67.9,
-        "end": 68.08
+        "i": 231,
+        "word": "its",
+        "start": 80.72,
+        "end": 80.9
       },
       {
-        "i": 217,
-        "word": "as",
-        "start": 68.08,
-        "end": 68.26
-      },
-      {
-        "i": 218,
-        "word": "an",
-        "start": 68.26,
-        "end": 68.36
-      },
-      {
-        "i": 219,
-        "word": "mp4.",
-        "start": 68.36,
-        "end": 69.02
+        "i": 232,
+        "word": "dimensions.",
+        "start": 80.9,
+        "end": 81.36
       }
     ]
   },
   {
     "id": 18,
-    "text": "The exported music repeats for the duration you created on the timeline.",
-    "start": 69.54,
-    "end": 72.64,
+    "text": "Print a test or order a proof before producing a batch.",
+    "start": 81.9,
+    "end": 84.76,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      220,
-      231
+      233,
+      243
     ],
     "words": [
       {
-        "i": 220,
-        "word": "The",
-        "start": 69.54,
-        "end": 69.64
+        "i": 233,
+        "word": "Print",
+        "start": 81.9,
+        "end": 82.2
       },
       {
-        "i": 221,
-        "word": "exported",
-        "start": 69.64,
-        "end": 70.0
+        "i": 234,
+        "word": "a",
+        "start": 82.2,
+        "end": 82.36
       },
       {
-        "i": 222,
-        "word": "music",
-        "start": 70.0,
-        "end": 70.36
+        "i": 235,
+        "word": "test",
+        "start": 82.36,
+        "end": 82.6
       },
       {
-        "i": 223,
-        "word": "repeats",
-        "start": 70.36,
-        "end": 70.72
+        "i": 236,
+        "word": "or",
+        "start": 82.6,
+        "end": 82.92
       },
       {
-        "i": 224,
-        "word": "for",
-        "start": 70.72,
-        "end": 70.94
+        "i": 237,
+        "word": "order",
+        "start": 82.92,
+        "end": 83.2
       },
       {
-        "i": 225,
+        "i": 238,
+        "word": "a",
+        "start": 83.2,
+        "end": 83.34
+      },
+      {
+        "i": 239,
+        "word": "proof",
+        "start": 83.34,
+        "end": 83.6
+      },
+      {
+        "i": 240,
+        "word": "before",
+        "start": 83.6,
+        "end": 83.98
+      },
+      {
+        "i": 241,
+        "word": "producing",
+        "start": 83.98,
+        "end": 84.34
+      },
+      {
+        "i": 242,
+        "word": "a",
+        "start": 84.34,
+        "end": 84.52
+      },
+      {
+        "i": 243,
+        "word": "batch.",
+        "start": 84.52,
+        "end": 84.76
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "If the artwork includes a deliberate border, check the print dialogue scaling so the border remains even.",
+    "start": 85.48,
+    "end": 90.56,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      244,
+      260
+    ],
+    "words": [
+      {
+        "i": 244,
+        "word": "If",
+        "start": 85.48,
+        "end": 85.56
+      },
+      {
+        "i": 245,
         "word": "the",
-        "start": 70.94,
-        "end": 71.04
+        "start": 85.56,
+        "end": 85.68
       },
       {
-        "i": 226,
-        "word": "duration",
-        "start": 71.04,
-        "end": 71.44
+        "i": 246,
+        "word": "artwork",
+        "start": 85.68,
+        "end": 86.0
       },
       {
-        "i": 227,
-        "word": "you",
-        "start": 71.44,
-        "end": 71.64
+        "i": 247,
+        "word": "includes",
+        "start": 86.0,
+        "end": 86.38
       },
       {
-        "i": 228,
-        "word": "created",
-        "start": 71.64,
-        "end": 72.0
+        "i": 248,
+        "word": "a",
+        "start": 86.38,
+        "end": 86.56
       },
       {
-        "i": 229,
-        "word": "on",
-        "start": 72.0,
-        "end": 72.2
+        "i": 249,
+        "word": "deliberate",
+        "start": 86.56,
+        "end": 86.86
       },
       {
-        "i": 230,
+        "i": 250,
+        "word": "border,",
+        "start": 86.86,
+        "end": 87.28
+      },
+      {
+        "i": 251,
+        "word": "check",
+        "start": 87.7,
+        "end": 87.8
+      },
+      {
+        "i": 252,
         "word": "the",
-        "start": 72.2,
-        "end": 72.32
+        "start": 87.8,
+        "end": 87.98
       },
       {
-        "i": 231,
-        "word": "timeline.",
-        "start": 72.32,
-        "end": 72.64
+        "i": 253,
+        "word": "print",
+        "start": 87.98,
+        "end": 88.24
+      },
+      {
+        "i": 254,
+        "word": "dialogue",
+        "start": 88.24,
+        "end": 88.58
+      },
+      {
+        "i": 255,
+        "word": "scaling",
+        "start": 88.58,
+        "end": 89.02
+      },
+      {
+        "i": 256,
+        "word": "so",
+        "start": 89.02,
+        "end": 89.34
+      },
+      {
+        "i": 257,
+        "word": "the",
+        "start": 89.34,
+        "end": 89.48
+      },
+      {
+        "i": 258,
+        "word": "border",
+        "start": 89.48,
+        "end": 89.72
+      },
+      {
+        "i": 259,
+        "word": "remains",
+        "start": 89.72,
+        "end": 90.12
+      },
+      {
+        "i": 260,
+        "word": "even.",
+        "start": 90.12,
+        "end": 90.56
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "For additional sizes, create versions with the correct proportions and check the composition again.",
+    "start": 91.22,
+    "end": 95.94,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      261,
+      274
+    ],
+    "words": [
+      {
+        "i": 261,
+        "word": "For",
+        "start": 91.22,
+        "end": 91.34
+      },
+      {
+        "i": 262,
+        "word": "additional",
+        "start": 91.34,
+        "end": 91.62
+      },
+      {
+        "i": 263,
+        "word": "sizes,",
+        "start": 91.62,
+        "end": 92.06
+      },
+      {
+        "i": 264,
+        "word": "create",
+        "start": 92.46,
+        "end": 92.74
+      },
+      {
+        "i": 265,
+        "word": "versions",
+        "start": 92.74,
+        "end": 93.18
+      },
+      {
+        "i": 266,
+        "word": "with",
+        "start": 93.18,
+        "end": 93.42
+      },
+      {
+        "i": 267,
+        "word": "the",
+        "start": 93.42,
+        "end": 93.52
+      },
+      {
+        "i": 268,
+        "word": "correct",
+        "start": 93.52,
+        "end": 93.78
+      },
+      {
+        "i": 269,
+        "word": "proportions",
+        "start": 93.78,
+        "end": 94.3
+      },
+      {
+        "i": 270,
+        "word": "and",
+        "start": 94.3,
+        "end": 94.72
+      },
+      {
+        "i": 271,
+        "word": "check",
+        "start": 94.72,
+        "end": 94.96
+      },
+      {
+        "i": 272,
+        "word": "the",
+        "start": 94.96,
+        "end": 95.14
+      },
+      {
+        "i": 273,
+        "word": "composition",
+        "start": 95.14,
+        "end": 95.52
+      },
+      {
+        "i": 274,
+        "word": "again.",
+        "start": 95.52,
+        "end": 95.94
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Different aspect ratios may need their own layout adjustments.",
+    "start": 96.78,
+    "end": 99.58,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      275,
+      283
+    ],
+    "words": [
+      {
+        "i": 275,
+        "word": "Different",
+        "start": 96.78,
+        "end": 96.94
+      },
+      {
+        "i": 276,
+        "word": "aspect",
+        "start": 96.94,
+        "end": 97.24
+      },
+      {
+        "i": 277,
+        "word": "ratios",
+        "start": 97.24,
+        "end": 97.76
+      },
+      {
+        "i": 278,
+        "word": "may",
+        "start": 97.76,
+        "end": 98.22
+      },
+      {
+        "i": 279,
+        "word": "need",
+        "start": 98.22,
+        "end": 98.42
+      },
+      {
+        "i": 280,
+        "word": "their",
+        "start": 98.42,
+        "end": 98.62
+      },
+      {
+        "i": 281,
+        "word": "own",
+        "start": 98.62,
+        "end": 98.84
+      },
+      {
+        "i": 282,
+        "word": "layout",
+        "start": 98.84,
+        "end": 99.16
+      },
+      {
+        "i": 283,
+        "word": "adjustments.",
+        "start": 99.16,
+        "end": 99.58
       }
     ]
   }

@@ -1,8 +1,5 @@
 # Analyze notes (script-06)
-
-- Recording is 257 s for a 73 s voiceover; it has the recorder's baked-in auto-zoom (camera moves on clicks), so no plan zooms and no ripples are used (docs/lessons.md script-18).
-- ~60 % of the recording is static (idle between steps); the plan only uses spans where the screen moves.
-- Action coordinates/times were read from contact-sheet tiles of zoomed footage, NOT verified on single frames: all low confidence except A6. Many more small actions (trim handle drags, playhead moves) exist and are not listed.
-- The recording does not follow the script's step order exactly: it trims/plays/adds the second clip in a different order (second-clip trim at 105-111 s happens after the drag at 102 s) - the plan follows the audio order.
-- Retake-like material 126-160 s (text box appears at 132-136 s, white blank preview 156-160 s) is not used.
-- Script has no "(On screen:)" notes.
+- No actions.json was written: the recording has baked-in recorder zoom, no click log, and is 327 s for a 100 s voiceover, so the plan is a hand plan (work/hand_plan.py) built from the contact sheets and scenes.json stills. No click times/positions were extracted, so there are no ripples or zooms.
+- Recording order matches the narration order up to ~L9 (new design, colour, upload, text, font, position, File > Settings). L10-L13 (resolution) reuse the second Custom-size take (src 220-236, 3600x5400) and the hummingbird photo (src 200-204). L14-L16 Download/PDF Print/crop marks/colour profile come from src 183-187 and 241-259. L17-L19 are the opened PDF (src 283-299). L20-21 are the Resize panel (src 306-316).
+- Narration items with no footage: "line spacing" (L5) and "background extend through bleed" (L8): shown only as the File > Settings menu; "show print bleed" is not in the recording.
+- Uncertain: all piece boundaries come from sheet tiles, not single-frame checks.
