@@ -1,19 +1,24 @@
-This tutorial shows you how to troubleshoot a video that will not upload or finish processing in Canva.
-First, open the video on your computer.
-Play several parts, including the ending, to check that the file is complete and readable.
-If it will not play locally, obtain a working copy before uploading again.
-Check the file's size and format.
-Canva's current video upload limit is 1 GB per file and MP4 is one of its supported formats.
-Compress or shorten a larger file before retrying.
-If the format seems compatible but Canva rejects it, try exporting a fresh MP4 copy from your video editor.
-Changing the file name extension alone does not convert the video.
-Open the Canva design and upload through uploads, then upload files.
-Wait for processing to finish before placing the clip or generating captions.
+This tutorial shows you how to create a paperback cover in Canva using Amazon KDP's exact cover dimensions.
+Finalise the book's trim size, interior type, paper and page count first.
+These details determine the cover size, especially the spine width.
+Open KDP's print cover calculator and templates page.
+Enter the book specifications, calculate the dimensions and download the template.
+Extract the download so you can access the PNG guide.
+In Canva, choose custom size, select inches and enter the full cover width and height supplied by KDP.
+Use the measurements for the entire wrap, including its bleed.
+Upload the PNG template.
+Stretch it to match the canvas exactly, reduce its transparency and lock it as a guide.
+Keep it above your background while checking the layout.
+For a left-to-right paperback, the back cover is on the left, the spine is in the middle and the front cover is on the right.
+Build the artwork over the guide.
+Add the title and author name to the front, a description to the back and a continuous background across the full wrap.
+Keep text inside the template's safe areas and leave its barcode area clear if KDP will add the barcode.
+Add spine text only when the book qualifies and it fits inside the template's spine guides.
+KDP requires at least 79 pages for paperback spine text.
 Here's the part many tutorials skip.
-A supported file extension does not guarantee that an incomplete or unusually encoded file will upload.
-A small, freshly exported test clip helps you separate a file problem from a browser or connection problem.
-Try a stable connection and an updated browser.
-If necessary, test another browser and check Canva's status page for an upload incident.
-Also check whether your account has available storage.
-If a small test video uploads but the original still fails,
-investigate that original file's size and encoding before retrying it repeatedly.
+The calculator template already includes bleed.
+Adding Canva's crop marks and bleed during download changes the file size and can cause a mismatch.
+Unlock and delete the template guide before exporting.
+Choose share, download and PDF print.
+Leave crop marks and bleed unchecked.
+Use flattened PDF if available as KDP recommends flattened cover files.

@@ -1,6 +1,0 @@
-{"recording":{"width":1920,"height":1080,"fps":30,"duration":255.867},"sync":{"source":"frames"},
-"actions":[
-{"id":"A1","t_click":77.5,"x":960,"y":900,"kind":"click","target":"Properties in the right-click menu","result":"file Properties dialog opens","t_result_visible":77.7,"confidence":"low"},
-{"id":"A2","t_click":90.9,"x":320,"y":300,"kind":"click","target":"Upload files button","result":"file picker opens","t_result_visible":91.2,"confidence":"low"},
-{"id":"A3","t_click":95.5,"x":1150,"y":800,"kind":"click","target":"Open button in the file picker","result":"video appears in the Videos panel","t_result_visible":95.6,"confidence":"low"}
-],"junk":[{"start":0.0,"end":4.4,"reason":"static opening","ff":true},{"start":255.0,"end":255.867,"reason":"desktop after recording","ff":false}]}
