@@ -1,8 +1,0 @@
-{"note": "plan.json was hand-built by work/hand_plan.py (plan_builder cannot meet the pace rules: 287 s of footage, recorder zoom baked in)",
- "anchors": [
-  {"action":"A1","line":3,"word":"Uploads"},{"action":"A2","line":4,"word":"place"},{"action":"A3","line":4,"word":"resize"},
-  {"action":"A4","line":5,"word":"Text"},{"action":"A5","line":5,"word":"Text","occurrence":2},{"action":"A6","line":6,"word":"caption"},
-  {"action":"A7","line":7,"word":"colour"},{"action":"A8","line":8,"word":"extend"},{"action":"A9","line":9,"word":"move"},
-  {"action":"A10","line":10,"word":"Preview"},{"action":"A11","line":15,"word":"Select"},{"action":"A12","line":15,"word":"Download"},
-  {"action":"A13","line":15,"word":"file"},{"action":"A14","line":16,"word":"it"},{"action":"A15","line":17,"word":"GIF"},{"action":"A16","line":18,"word":"PNG"}],
- "zooms": [], "no_ripple": ["A1","A2","A3","A4","A5","A6","A7","A8","A9","A10","A11","A12","A13","A14","A15","A16"], "cuts": [], "use_junk": true}
