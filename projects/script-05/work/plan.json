@@ -1,368 +1,256 @@
 {
  "output": {
-  "duration": 74.397,
+  "duration": 96.409,
   "fps": 30.0,
   "width": 1920,
   "height": 1080
  },
  "segments": [
   {
-   "mode": "hold",
-   "src_start": 7.4,
-   "src_end": 7.4,
-   "out_start": 0.0,
-   "out_end": 1.5
+   "src_start": 13.2,
+   "src_end": 19.7,
+   "out_start": 0,
+   "out_end": 6.52,
+   "mode": "speed"
   },
   {
+   "src_start": 27.3,
+   "src_end": 33.4,
+   "out_start": 6.52,
+   "out_end": 10.66,
    "mode": "speed",
-   "src_start": 7.4,
-   "src_end": 11.0,
-   "out_start": 1.5,
-   "out_end": 6.32
+   "xfade": true
   },
   {
+   "src_start": 43.8,
+   "src_end": 52.4,
+   "out_start": 10.66,
+   "out_end": 17.62,
    "mode": "speed",
-   "src_start": 11.0,
-   "src_end": 13.3,
-   "out_start": 6.32,
-   "out_end": 9.32
+   "xfade": true
   },
   {
-   "mode": "hold",
-   "src_start": 13.3,
-   "src_end": 13.3,
-   "out_start": 9.32,
-   "out_end": 10.58
-  },
-  {
+   "src_start": 60.3,
+   "src_end": 63.9,
+   "out_start": 17.62,
+   "out_end": 20.28,
    "mode": "speed",
-   "src_start": 13.4,
-   "src_end": 14.2,
-   "out_start": 10.58,
-   "out_end": 11.089
+   "xfade": true
   },
   {
+   "src_start": 79.8,
+   "src_end": 86.5,
+   "out_start": 20.28,
+   "out_end": 25.26,
    "mode": "speed",
-   "src_start": 19.3,
-   "src_end": 19.6,
-   "xfade": true,
-   "out_start": 11.089,
-   "out_end": 11.28
+   "xfade": true
   },
   {
+   "src_start": 131.8,
+   "src_end": 141.6,
+   "out_start": 25.26,
+   "out_end": 37.6,
    "mode": "speed",
-   "src_start": 19.6,
-   "src_end": 21.0,
-   "out_start": 11.28,
-   "out_end": 12.272
+   "xfade": true
   },
   {
+   "src_start": 155.0,
+   "src_end": 159.2,
+   "out_start": 37.6,
+   "out_end": 40.46,
    "mode": "speed",
-   "src_start": 45.0,
-   "src_end": 46.0,
-   "xfade": true,
-   "out_start": 12.272,
-   "out_end": 12.98
+   "xfade": true
   },
   {
+   "src_start": 118.8,
+   "src_end": 124.0,
+   "out_start": 40.46,
+   "out_end": 46.16,
    "mode": "speed",
-   "src_start": 46.0,
-   "src_end": 48.3,
-   "out_start": 12.98,
-   "out_end": 15.087
+   "xfade": true
   },
   {
+   "src_start": 194.2,
+   "src_end": 198.6,
+   "out_start": 46.16,
+   "out_end": 50.42,
    "mode": "speed",
-   "src_start": 49.0,
-   "src_end": 51.0,
-   "xfade": true,
-   "out_start": 15.087,
-   "out_end": 16.92
+   "xfade": true
   },
   {
+   "src_start": 198.8,
+   "src_end": 201.4,
+   "out_start": 50.42,
+   "out_end": 53.66,
    "mode": "speed",
-   "src_start": 51.0,
-   "src_end": 54.0,
-   "out_start": 16.92,
-   "out_end": 19.78
+   "xfade": true
   },
   {
+   "src_start": 208.2,
+   "src_end": 210.8,
+   "out_start": 53.66,
+   "out_end": 56.46,
    "mode": "speed",
-   "src_start": 54.0,
-   "src_end": 67.5,
-   "out_start": 19.78,
-   "out_end": 35.778
+   "xfade": true
   },
   {
+   "src_start": 210.8,
+   "src_end": 215.4,
+   "out_start": 56.46,
+   "out_end": 62.44,
+   "mode": "speed"
+  },
+  {
+   "src_start": 223.4,
+   "src_end": 227.4,
+   "out_start": 62.44,
+   "out_end": 65.4,
    "mode": "speed",
-   "src_start": 93.8,
-   "src_end": 95.0,
-   "xfade": true,
-   "out_start": 35.778,
-   "out_end": 37.2
+   "xfade": true
   },
   {
+   "src_start": 234.2,
+   "src_end": 236.2,
+   "out_start": 65.4,
+   "out_end": 67.3125,
    "mode": "speed",
-   "src_start": 95.0,
-   "src_end": 101.5,
-   "out_start": 37.2,
-   "out_end": 42.588
+   "xfade": true
   },
   {
+   "src_start": 238.4,
+   "src_end": 239.6,
+   "out_start": 67.3125,
+   "out_end": 68.46,
    "mode": "speed",
-   "src_start": 179.6,
-   "src_end": 181.4,
-   "xfade": true,
-   "out_start": 42.588,
-   "out_end": 44.08
+   "xfade": true
   },
   {
+   "src_start": 239.6,
+   "src_end": 241.8,
+   "out_start": 68.46,
+   "out_end": 70.20603174603175,
+   "mode": "speed"
+  },
+  {
+   "src_start": 244.3,
+   "src_end": 245.6,
+   "out_start": 70.20603174603175,
+   "out_end": 71.23777777777777,
    "mode": "speed",
-   "src_start": 181.4,
-   "src_end": 185.5,
-   "out_start": 44.08,
-   "out_end": 47.21
+   "xfade": true
   },
   {
+   "src_start": 248.0,
+   "src_end": 250.8,
+   "out_start": 71.23777777777777,
+   "out_end": 73.46,
    "mode": "speed",
-   "src_start": 66.7,
-   "src_end": 69.7,
-   "xfade": true,
-   "out_start": 47.21,
-   "out_end": 49.5
+   "xfade": true
   },
   {
+   "src_start": 250.8,
+   "src_end": 253.0,
+   "out_start": 73.46,
+   "out_end": 75.88,
+   "mode": "speed"
+  },
+  {
+   "src_start": 253.0,
+   "src_end": 255.7,
+   "out_start": 75.88,
+   "out_end": 78.6,
+   "mode": "speed"
+  },
+  {
+   "src_start": 258.8,
+   "src_end": 265.4,
+   "out_start": 78.6,
+   "out_end": 85.32,
    "mode": "speed",
-   "src_start": 69.7,
-   "src_end": 73.4,
-   "out_start": 49.5,
-   "out_end": 53.633
+   "xfade": true
   },
   {
+   "src_start": 277.3,
+   "src_end": 284.2,
+   "out_start": 85.32,
+   "out_end": 92.18,
    "mode": "speed",
-   "src_start": 92.6,
-   "src_end": 98.3,
-   "xfade": true,
-   "out_start": 53.633,
-   "out_end": 60.0
+   "xfade": true
   },
   {
+   "src_start": 212.3,
+   "src_end": 216.3,
+   "out_start": 92.18,
+   "out_end": 96.409,
    "mode": "speed",
-   "src_start": 98.3,
-   "src_end": 100.0,
-   "out_start": 60.0,
-   "out_end": 61.567
-  },
-  {
-   "mode": "speed",
-   "src_start": 184.0,
-   "src_end": 184.6,
-   "xfade": true,
-   "out_start": 61.567,
-   "out_end": 62.12
-  },
-  {
-   "mode": "speed",
-   "src_start": 184.6,
-   "src_end": 186.3,
-   "out_start": 62.12,
-   "out_end": 64.259
-  },
-  {
-   "mode": "speed",
-   "src_start": 193.6,
-   "src_end": 195.0,
-   "xfade": true,
-   "out_start": 64.259,
-   "out_end": 66.02
-  },
-  {
-   "mode": "speed",
-   "src_start": 195.0,
-   "src_end": 195.65,
-   "out_start": 66.02,
-   "out_end": 66.67
-  },
-  {
-   "mode": "hold",
-   "src_start": 195.65,
-   "src_end": 195.65,
-   "out_start": 66.67,
-   "out_end": 67.53
-  },
-  {
-   "mode": "speed",
-   "src_start": 195.65,
-   "src_end": 196.4,
-   "out_start": 67.53,
-   "out_end": 68.28
-  },
-  {
-   "mode": "speed",
-   "src_start": 196.4,
-   "src_end": 197.4,
-   "out_start": 68.28,
-   "out_end": 69.237
-  },
-  {
-   "mode": "speed",
-   "src_start": 198.6,
-   "src_end": 199.9,
-   "xfade": true,
-   "out_start": 69.237,
-   "out_end": 70.48
-  },
-  {
-   "mode": "speed",
-   "src_start": 199.9,
-   "src_end": 200.4,
-   "out_start": 70.48,
-   "out_end": 70.873
-  },
-  {
-   "mode": "speed",
-   "src_start": 207.8,
-   "src_end": 208.7,
-   "xfade": true,
-   "out_start": 70.873,
-   "out_end": 71.58
-  },
-  {
-   "mode": "speed",
-   "src_start": 208.7,
-   "src_end": 211.517,
-   "out_start": 71.58,
-   "out_end": 74.397
+   "xfade": true
   }
  ],
  "zooms": [],
  "ripples": [],
- "intro": {
-  "mode": "hold",
-  "until": 6.32
- },
+ "intro": null,
  "outro": null,
  "sync": [
   {
-   "action": "A1",
-   "line": 2,
-   "word": "Open",
-   "word_index": 19,
-   "word_t": 6.32
-  },
-  {
-   "action": "A2",
-   "line": 3,
-   "word": "audio,",
-   "word_index": 32,
-   "word_t": 10.58
-  },
-  {
    "action": "A3",
    "line": 3,
-   "word": "search",
-   "word_index": 33,
-   "word_t": 11.28
+   "word": "at",
+   "word_index": 39,
+   "word_t": 13.34,
+   "out_t": 13.25
   },
   {
    "action": "A4",
-   "line": 3,
-   "word": "preview",
-   "word_index": 39,
-   "word_t": 12.98
+   "line": 4,
+   "word": "slide",
+   "word_index": 50,
+   "word_t": 18.28,
+   "out_t": 18.137
   },
   {
    "action": "A5",
-   "line": 4,
-   "word": "uploads.",
-   "word_index": 52,
-   "word_t": 16.92
+   "line": 5,
+   "word": "to",
+   "word_index": 68,
+   "word_t": 23.46,
+   "out_t": 23.402
   },
   {
    "action": "A6",
-   "line": 5,
-   "word": "timeline",
-   "word_index": 58,
-   "word_t": 19.78
-  },
-  {
-   "action": "A7",
-   "line": 9,
-   "word": "Trim",
-   "word_index": 116,
-   "word_t": 37.2
-  },
-  {
-   "action": "A10",
-   "line": 10,
-   "word": "Preview",
-   "word_index": 138,
-   "word_t": 44.08
-  },
-  {
-   "action": "A9",
-   "line": 11,
-   "word": "durations",
-   "word_index": 159,
-   "word_t": 49.5
+   "line": 13,
+   "word": "drag",
+   "word_index": 164,
+   "word_t": 54.66,
+   "out_t": 54.522
   },
   {
    "action": "A8",
-   "line": 13,
-   "word": "click",
-   "word_index": 189,
-   "word_t": 60.0
-  },
-  {
-   "action": "A11",
-   "line": 14,
-   "word": "Test",
-   "word_index": 194,
-   "word_t": 62.12
-  },
-  {
-   "action": "A12",
    "line": 15,
-   "word": "version",
-   "word_index": 208,
-   "word_t": 66.02
+   "word": "PNG",
+   "word_index": 192,
+   "word_t": 64.28,
+   "out_t": 64.364
   },
   {
-   "action": "A13",
-   "line": 15,
-   "word": "download",
-   "word_index": 214,
-   "word_t": 68.28
-  },
-  {
-   "action": "A14",
-   "line": 15,
-   "word": "video.",
-   "word_index": 220,
-   "word_t": 70.48
-  },
-  {
-   "action": "A15",
+   "action": "A9",
    "line": 16,
-   "word": "PDF",
-   "word_index": 222,
-   "word_t": 71.58
+   "word": "download",
+   "word_index": 198,
+   "word_t": 67.3,
+   "out_t": 67.408
+  },
+  {
+   "action": "A10",
+   "line": 20,
+   "word": "for",
+   "word_index": 244,
+   "word_t": 82.86,
+   "out_t": 82.876
   }
  ],
- "style": {},
- "notes": [
-  "A3: after A2 (until src 14.20) jumps ahead to src 19.30 - narration order",
-  "A4: after A3 (until src 21.00) jumps ahead to src 45.00 - narration order",
-  "A5: after A4 (until src 48.30) jumps ahead to src 49.00 - narration order",
-  "A7: after A6 (until src 67.50) jumps ahead to src 93.80 - narration order",
-  "A10: after A7 (until src 101.50) jumps ahead to src 179.60 - narration order",
-  "A9: after A10 (until src 185.50) jumps back to src 66.70 - narration order",
-  "A8: after A9 (until src 73.40) jumps ahead to src 92.60 - narration order",
-  "A11: after A8 (until src 100.00) jumps ahead to src 184.00 - narration order",
-  "A12: after A11 (until src 186.30) jumps ahead to src 193.60 - narration order",
-  "A14: after A13 (until src 197.40) jumps ahead to src 198.60 - narration order",
-  "A15: after A14 (until src 200.40) jumps ahead to src 207.80 - narration order"
- ],
- "generated_by": "tools/plan_builder.py from work/sync.json",
- "generated_hash": "27dca8e77272"
+ "style": {
+  "ripple_color": "#2F80ED",
+  "ripple_alpha": 0.6,
+  "cursor_halo": false
+ }
 }

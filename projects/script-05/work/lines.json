@@ -1,1621 +1,2017 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to add a sound effect to a Canva presentation and control when it plays.",
+    "text": "This tutorial shows you how to design a swipeable carousel in Canva and download its slides in the correct order.",
     "start": 0.0,
-    "end": 5.36,
+    "end": 5.9,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      18
+      19
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.22
+        "end": 0.24
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.22,
+        "start": 0.24,
         "end": 0.6
       },
       {
         "i": 2,
         "word": "shows",
         "start": 0.6,
-        "end": 1.06
+        "end": 1.04
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.06,
-        "end": 1.28
+        "start": 1.04,
+        "end": 1.24
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.28,
-        "end": 1.42
+        "start": 1.24,
+        "end": 1.4
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.42,
-        "end": 1.58
+        "start": 1.4,
+        "end": 1.56
       },
       {
         "i": 6,
-        "word": "add",
-        "start": 1.58,
-        "end": 1.76
+        "word": "design",
+        "start": 1.56,
+        "end": 1.84
       },
       {
         "i": 7,
         "word": "a",
-        "start": 1.76,
-        "end": 1.94
+        "start": 1.84,
+        "end": 1.98
       },
       {
         "i": 8,
-        "word": "sound",
-        "start": 1.94,
-        "end": 2.16
+        "word": "swipeable",
+        "start": 1.98,
+        "end": 2.58
       },
       {
         "i": 9,
-        "word": "effect",
-        "start": 2.16,
-        "end": 2.46
+        "word": "carousel",
+        "start": 2.58,
+        "end": 3.0
       },
       {
         "i": 10,
-        "word": "to",
-        "start": 2.46,
-        "end": 2.7
+        "word": "in",
+        "start": 3.0,
+        "end": 3.3
       },
       {
         "i": 11,
-        "word": "a",
-        "start": 2.7,
-        "end": 2.94
+        "word": "Canva",
+        "start": 3.3,
+        "end": 3.64
       },
       {
         "i": 12,
-        "word": "Canva",
-        "start": 2.94,
-        "end": 3.16
+        "word": "and",
+        "start": 3.64,
+        "end": 3.9
       },
       {
         "i": 13,
-        "word": "presentation",
-        "start": 3.16,
-        "end": 3.62
+        "word": "download",
+        "start": 3.9,
+        "end": 4.32
       },
       {
         "i": 14,
-        "word": "and",
-        "start": 3.62,
-        "end": 4.1
-      },
-      {
-        "i": 15,
-        "word": "control",
-        "start": 4.1,
+        "word": "its",
+        "start": 4.32,
         "end": 4.56
       },
       {
-        "i": 16,
-        "word": "when",
+        "i": 15,
+        "word": "slides",
         "start": 4.56,
-        "end": 4.94
+        "end": 4.84
+      },
+      {
+        "i": 16,
+        "word": "in",
+        "start": 4.84,
+        "end": 5.06
       },
       {
         "i": 17,
-        "word": "it",
-        "start": 4.94,
-        "end": 5.08
+        "word": "the",
+        "start": 5.06,
+        "end": 5.16
       },
       {
         "i": 18,
-        "word": "plays.",
-        "start": 5.08,
-        "end": 5.36
+        "word": "correct",
+        "start": 5.16,
+        "end": 5.42
+      },
+      {
+        "i": 19,
+        "word": "order.",
+        "start": 5.42,
+        "end": 5.9
       }
     ]
   },
   {
     "id": 2,
-    "text": "Open your presentation and select the slide where you want the effect.",
-    "start": 6.32,
-    "end": 9.52,
+    "text": "From Canva's homepage, search for an Instagram carousel template.",
+    "start": 6.52,
+    "end": 9.96,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      19,
-      30
+      20,
+      28
     ],
     "words": [
       {
-        "i": 19,
-        "word": "Open",
-        "start": 6.32,
-        "end": 6.52
-      },
-      {
         "i": 20,
-        "word": "your",
+        "word": "From",
         "start": 6.52,
-        "end": 6.7
+        "end": 6.72
       },
       {
         "i": 21,
-        "word": "presentation",
-        "start": 6.7,
-        "end": 7.1
+        "word": "Canva's",
+        "start": 6.72,
+        "end": 7.16
       },
       {
         "i": 22,
-        "word": "and",
-        "start": 7.1,
-        "end": 7.58
+        "word": "homepage,",
+        "start": 7.16,
+        "end": 7.52
       },
       {
         "i": 23,
-        "word": "select",
-        "start": 7.58,
-        "end": 7.88
+        "word": "search",
+        "start": 7.9,
+        "end": 8.14
       },
       {
         "i": 24,
-        "word": "the",
-        "start": 7.88,
-        "end": 8.12
+        "word": "for",
+        "start": 8.14,
+        "end": 8.36
       },
       {
         "i": 25,
-        "word": "slide",
-        "start": 8.12,
-        "end": 8.42
+        "word": "an",
+        "start": 8.36,
+        "end": 8.46
       },
       {
         "i": 26,
-        "word": "where",
-        "start": 8.42,
-        "end": 8.64
+        "word": "Instagram",
+        "start": 8.46,
+        "end": 8.94
       },
       {
         "i": 27,
-        "word": "you",
-        "start": 8.64,
-        "end": 8.8
+        "word": "carousel",
+        "start": 8.94,
+        "end": 9.44
       },
       {
         "i": 28,
-        "word": "want",
-        "start": 8.8,
-        "end": 9.0
-      },
-      {
-        "i": 29,
-        "word": "the",
-        "start": 9.0,
-        "end": 9.16
-      },
-      {
-        "i": 30,
-        "word": "effect.",
-        "start": 9.16,
-        "end": 9.52
+        "word": "template.",
+        "start": 9.44,
+        "end": 9.96
       }
     ]
   },
   {
     "id": 3,
-    "text": "Open audio, search for a suitable sound, and preview it before adding it.",
-    "start": 10.34,
-    "end": 14.5,
+    "text": "Choose a multi-page design or create a custom design at 1080 x 1350 pixels for a portrait example.",
+    "start": 10.66,
+    "end": 16.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      31,
-      43
+      29,
+      47
     ],
     "words": [
       {
+        "i": 29,
+        "word": "Choose",
+        "start": 10.66,
+        "end": 10.84
+      },
+      {
+        "i": 30,
+        "word": "a",
+        "start": 10.84,
+        "end": 11.02
+      },
+      {
         "i": 31,
-        "word": "Open",
-        "start": 10.34,
-        "end": 10.58
+        "word": "multi",
+        "start": 11.02,
+        "end": 11.26
       },
       {
         "i": 32,
-        "word": "audio,",
-        "start": 10.58,
-        "end": 10.82
+        "word": "-page",
+        "start": 11.26,
+        "end": 11.52
       },
       {
         "i": 33,
-        "word": "search",
-        "start": 11.28,
-        "end": 11.42
+        "word": "design",
+        "start": 11.52,
+        "end": 11.94
       },
       {
         "i": 34,
-        "word": "for",
-        "start": 11.42,
-        "end": 11.66
+        "word": "or",
+        "start": 11.94,
+        "end": 12.22
       },
       {
         "i": 35,
-        "word": "a",
-        "start": 11.66,
-        "end": 11.78
+        "word": "create",
+        "start": 12.22,
+        "end": 12.46
       },
       {
         "i": 36,
-        "word": "suitable",
-        "start": 11.78,
-        "end": 12.02
+        "word": "a",
+        "start": 12.46,
+        "end": 12.68
       },
       {
         "i": 37,
-        "word": "sound,",
-        "start": 12.02,
-        "end": 12.52
+        "word": "custom",
+        "start": 12.68,
+        "end": 12.96
       },
       {
         "i": 38,
-        "word": "and",
-        "start": 12.76,
-        "end": 12.98
+        "word": "design",
+        "start": 12.96,
+        "end": 13.34
       },
       {
         "i": 39,
-        "word": "preview",
-        "start": 12.98,
-        "end": 13.28
-      },
-      {
-        "i": 40,
-        "word": "it",
-        "start": 13.28,
+        "word": "at",
+        "start": 13.34,
         "end": 13.54
       },
       {
-        "i": 41,
-        "word": "before",
+        "i": 40,
+        "word": "1080",
         "start": 13.54,
-        "end": 13.86
+        "end": 13.98
+      },
+      {
+        "i": 41,
+        "word": "x",
+        "start": 13.98,
+        "end": 14.3
       },
       {
         "i": 42,
-        "word": "adding",
-        "start": 13.86,
-        "end": 14.12
+        "word": "1350",
+        "start": 14.3,
+        "end": 15.16
       },
       {
         "i": 43,
-        "word": "it.",
-        "start": 14.12,
-        "end": 14.5
+        "word": "pixels",
+        "start": 15.16,
+        "end": 15.42
+      },
+      {
+        "i": 44,
+        "word": "for",
+        "start": 15.42,
+        "end": 16.0
+      },
+      {
+        "i": 45,
+        "word": "a",
+        "start": 16.0,
+        "end": 16.12
+      },
+      {
+        "i": 46,
+        "word": "portrait",
+        "start": 16.12,
+        "end": 16.42
+      },
+      {
+        "i": 47,
+        "word": "example.",
+        "start": 16.42,
+        "end": 16.92
       }
     ]
   },
   {
     "id": 4,
-    "text": "You can also upload your own recording through uploads.",
-    "start": 14.96,
-    "end": 17.8,
+    "text": "Keep every slide at the same dimensions.",
+    "start": 17.62,
+    "end": 19.56,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      44,
-      52
+      48,
+      54
     ],
     "words": [
       {
-        "i": 44,
-        "word": "You",
-        "start": 14.96,
-        "end": 15.08
-      },
-      {
-        "i": 45,
-        "word": "can",
-        "start": 15.08,
-        "end": 15.18
-      },
-      {
-        "i": 46,
-        "word": "also",
-        "start": 15.18,
-        "end": 15.42
-      },
-      {
-        "i": 47,
-        "word": "upload",
-        "start": 15.42,
-        "end": 15.72
-      },
-      {
         "i": 48,
-        "word": "your",
-        "start": 15.72,
-        "end": 15.94
+        "word": "Keep",
+        "start": 17.62,
+        "end": 17.84
       },
       {
         "i": 49,
-        "word": "own",
-        "start": 15.94,
-        "end": 16.2
+        "word": "every",
+        "start": 17.84,
+        "end": 18.28
       },
       {
         "i": 50,
-        "word": "recording",
-        "start": 16.2,
-        "end": 16.6
+        "word": "slide",
+        "start": 18.28,
+        "end": 18.58
       },
       {
         "i": 51,
-        "word": "through",
-        "start": 16.6,
-        "end": 16.92
+        "word": "at",
+        "start": 18.58,
+        "end": 18.72
       },
       {
         "i": 52,
-        "word": "uploads.",
-        "start": 16.92,
-        "end": 17.8
+        "word": "the",
+        "start": 18.72,
+        "end": 18.86
+      },
+      {
+        "i": 53,
+        "word": "same",
+        "start": 18.86,
+        "end": 19.04
+      },
+      {
+        "i": 54,
+        "word": "dimensions.",
+        "start": 19.04,
+        "end": 19.56
       }
     ]
   },
   {
     "id": 5,
-    "text": "Show the presentation's timing or timeline controls so you can see the audio in relation to the slides.",
-    "start": 18.08,
-    "end": 23.6,
+    "text": "Start with a cover that states one clear benefit, such as five ways to organise your desk.",
+    "start": 20.28,
+    "end": 24.6,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      53,
-      70
+      55,
+      71
     ],
     "words": [
       {
-        "i": 53,
-        "word": "Show",
-        "start": 18.08,
-        "end": 18.26
-      },
-      {
-        "i": 54,
-        "word": "the",
-        "start": 18.26,
-        "end": 18.42
-      },
-      {
         "i": 55,
-        "word": "presentation's",
-        "start": 18.42,
-        "end": 19.12
+        "word": "Start",
+        "start": 20.28,
+        "end": 20.5
       },
       {
         "i": 56,
-        "word": "timing",
-        "start": 19.12,
-        "end": 19.42
+        "word": "with",
+        "start": 20.5,
+        "end": 20.64
       },
       {
         "i": 57,
-        "word": "or",
-        "start": 19.42,
-        "end": 19.78
+        "word": "a",
+        "start": 20.64,
+        "end": 20.76
       },
       {
         "i": 58,
-        "word": "timeline",
-        "start": 19.78,
-        "end": 20.14
+        "word": "cover",
+        "start": 20.76,
+        "end": 20.92
       },
       {
         "i": 59,
-        "word": "controls",
-        "start": 20.14,
-        "end": 20.68
+        "word": "that",
+        "start": 20.92,
+        "end": 21.1
       },
       {
         "i": 60,
-        "word": "so",
-        "start": 20.68,
-        "end": 21.3
+        "word": "states",
+        "start": 21.1,
+        "end": 21.34
       },
       {
         "i": 61,
-        "word": "you",
-        "start": 21.3,
-        "end": 21.42
+        "word": "one",
+        "start": 21.34,
+        "end": 21.7
       },
       {
         "i": 62,
-        "word": "can",
-        "start": 21.42,
-        "end": 21.54
+        "word": "clear",
+        "start": 21.7,
+        "end": 22.06
       },
       {
         "i": 63,
-        "word": "see",
-        "start": 21.54,
-        "end": 21.72
+        "word": "benefit,",
+        "start": 22.06,
+        "end": 22.48
       },
       {
         "i": 64,
-        "word": "the",
-        "start": 21.72,
-        "end": 21.86
+        "word": "such",
+        "start": 22.58,
+        "end": 22.76
       },
       {
         "i": 65,
-        "word": "audio",
-        "start": 21.86,
-        "end": 22.28
+        "word": "as",
+        "start": 22.76,
+        "end": 22.98
       },
       {
         "i": 66,
-        "word": "in",
-        "start": 22.28,
-        "end": 22.66
+        "word": "five",
+        "start": 22.98,
+        "end": 23.22
       },
       {
         "i": 67,
-        "word": "relation",
-        "start": 22.66,
-        "end": 22.9
+        "word": "ways",
+        "start": 23.22,
+        "end": 23.46
       },
       {
         "i": 68,
         "word": "to",
-        "start": 22.9,
-        "end": 23.16
+        "start": 23.46,
+        "end": 23.7
       },
       {
         "i": 69,
-        "word": "the",
-        "start": 23.16,
-        "end": 23.28
+        "word": "organise",
+        "start": 23.7,
+        "end": 23.96
       },
       {
         "i": 70,
-        "word": "slides.",
-        "start": 23.28,
-        "end": 23.6
+        "word": "your",
+        "start": 23.96,
+        "end": 24.28
+      },
+      {
+        "i": 71,
+        "word": "desk.",
+        "start": 24.28,
+        "end": 24.6
       }
     ]
   },
   {
     "id": 6,
-    "text": "Find the sound effect and position it at the moment you want it to play.",
-    "start": 24.3,
-    "end": 27.42,
+    "text": "Use the next three pages for individual tips.",
+    "start": 25.26,
+    "end": 27.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      71,
-      85
+      72,
+      79
     ],
     "words": [
       {
-        "i": 71,
-        "word": "Find",
-        "start": 24.3,
-        "end": 24.48
-      },
-      {
         "i": 72,
-        "word": "the",
-        "start": 24.48,
-        "end": 24.64
+        "word": "Use",
+        "start": 25.26,
+        "end": 25.46
       },
       {
         "i": 73,
-        "word": "sound",
-        "start": 24.64,
-        "end": 24.82
+        "word": "the",
+        "start": 25.46,
+        "end": 25.62
       },
       {
         "i": 74,
-        "word": "effect",
-        "start": 24.82,
-        "end": 25.08
+        "word": "next",
+        "start": 25.62,
+        "end": 25.82
       },
       {
         "i": 75,
-        "word": "and",
-        "start": 25.08,
-        "end": 25.38
+        "word": "three",
+        "start": 25.82,
+        "end": 26.06
       },
       {
         "i": 76,
-        "word": "position",
-        "start": 25.38,
-        "end": 25.66
+        "word": "pages",
+        "start": 26.06,
+        "end": 26.38
       },
       {
         "i": 77,
-        "word": "it",
-        "start": 25.66,
-        "end": 25.9
+        "word": "for",
+        "start": 26.38,
+        "end": 26.62
       },
       {
         "i": 78,
-        "word": "at",
-        "start": 25.9,
-        "end": 26.18
+        "word": "individual",
+        "start": 26.62,
+        "end": 27.02
       },
       {
         "i": 79,
-        "word": "the",
-        "start": 26.18,
-        "end": 26.34
-      },
-      {
-        "i": 80,
-        "word": "moment",
-        "start": 26.34,
-        "end": 26.56
-      },
-      {
-        "i": 81,
-        "word": "you",
-        "start": 26.56,
-        "end": 26.8
-      },
-      {
-        "i": 82,
-        "word": "want",
-        "start": 26.8,
-        "end": 26.94
-      },
-      {
-        "i": 83,
-        "word": "it",
-        "start": 26.94,
-        "end": 27.08
-      },
-      {
-        "i": 84,
-        "word": "to",
-        "start": 27.08,
-        "end": 27.22
-      },
-      {
-        "i": 85,
-        "word": "play.",
-        "start": 27.22,
-        "end": 27.42
+        "word": "tips.",
+        "start": 27.02,
+        "end": 27.5
       }
     ]
   },
   {
     "id": 7,
-    "text": "For an effect at the beginning of a slide, align its start with that slide's start.",
-    "start": 27.42,
-    "end": 31.58,
+    "text": "Give each page a short heading, a brief explanation and one useful visual.",
+    "start": 27.5,
+    "end": 32.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      86,
-      101
+      80,
+      92
     ],
     "words": [
       {
+        "i": 80,
+        "word": "Give",
+        "start": 27.5,
+        "end": 28.26
+      },
+      {
+        "i": 81,
+        "word": "each",
+        "start": 28.26,
+        "end": 28.5
+      },
+      {
+        "i": 82,
+        "word": "page",
+        "start": 28.5,
+        "end": 28.72
+      },
+      {
+        "i": 83,
+        "word": "a",
+        "start": 28.72,
+        "end": 28.94
+      },
+      {
+        "i": 84,
+        "word": "short",
+        "start": 28.94,
+        "end": 29.18
+      },
+      {
+        "i": 85,
+        "word": "heading,",
+        "start": 29.18,
+        "end": 29.5
+      },
+      {
         "i": 86,
-        "word": "For",
-        "start": 27.42,
-        "end": 28.1
+        "word": "a",
+        "start": 29.96,
+        "end": 30.08
       },
       {
         "i": 87,
-        "word": "an",
-        "start": 28.1,
-        "end": 28.18
+        "word": "brief",
+        "start": 30.08,
+        "end": 30.3
       },
       {
         "i": 88,
-        "word": "effect",
-        "start": 28.18,
-        "end": 28.42
+        "word": "explanation",
+        "start": 30.3,
+        "end": 30.92
       },
       {
         "i": 89,
-        "word": "at",
-        "start": 28.42,
-        "end": 28.6
+        "word": "and",
+        "start": 30.92,
+        "end": 31.54
       },
       {
         "i": 90,
-        "word": "the",
-        "start": 28.6,
-        "end": 28.68
+        "word": "one",
+        "start": 31.54,
+        "end": 31.76
       },
       {
         "i": 91,
-        "word": "beginning",
-        "start": 28.68,
-        "end": 28.9
+        "word": "useful",
+        "start": 31.76,
+        "end": 32.12
       },
       {
         "i": 92,
-        "word": "of",
-        "start": 28.9,
-        "end": 29.06
-      },
-      {
-        "i": 93,
-        "word": "a",
-        "start": 29.06,
-        "end": 29.16
-      },
-      {
-        "i": 94,
-        "word": "slide,",
-        "start": 29.16,
-        "end": 29.46
-      },
-      {
-        "i": 95,
-        "word": "align",
-        "start": 29.62,
-        "end": 29.88
-      },
-      {
-        "i": 96,
-        "word": "its",
-        "start": 29.88,
-        "end": 30.14
-      },
-      {
-        "i": 97,
-        "word": "start",
-        "start": 30.14,
-        "end": 30.4
-      },
-      {
-        "i": 98,
-        "word": "with",
-        "start": 30.4,
-        "end": 30.62
-      },
-      {
-        "i": 99,
-        "word": "that",
-        "start": 30.62,
-        "end": 30.8
-      },
-      {
-        "i": 100,
-        "word": "slide's",
-        "start": 30.8,
-        "end": 31.28
-      },
-      {
-        "i": 101,
-        "word": "start.",
-        "start": 31.28,
-        "end": 31.58
+        "word": "visual.",
+        "start": 32.12,
+        "end": 32.5
       }
     ]
   },
   {
     "id": 8,
-    "text": "For a timed title reveal, move the effect to the title's appearance time instead.",
-    "start": 32.18,
-    "end": 36.36,
+    "text": "Finish with a page that asks the viewer to save the post or try one of the tips.",
+    "start": 33.32,
+    "end": 36.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      102,
-      115
+      93,
+      110
     ],
     "words": [
       {
+        "i": 93,
+        "word": "Finish",
+        "start": 33.32,
+        "end": 33.44
+      },
+      {
+        "i": 94,
+        "word": "with",
+        "start": 33.44,
+        "end": 33.62
+      },
+      {
+        "i": 95,
+        "word": "a",
+        "start": 33.62,
+        "end": 33.74
+      },
+      {
+        "i": 96,
+        "word": "page",
+        "start": 33.74,
+        "end": 33.92
+      },
+      {
+        "i": 97,
+        "word": "that",
+        "start": 33.92,
+        "end": 34.1
+      },
+      {
+        "i": 98,
+        "word": "asks",
+        "start": 34.1,
+        "end": 34.38
+      },
+      {
+        "i": 99,
+        "word": "the",
+        "start": 34.38,
+        "end": 34.6
+      },
+      {
+        "i": 100,
+        "word": "viewer",
+        "start": 34.6,
+        "end": 34.76
+      },
+      {
+        "i": 101,
+        "word": "to",
+        "start": 34.76,
+        "end": 34.98
+      },
+      {
         "i": 102,
-        "word": "For",
-        "start": 32.18,
-        "end": 32.32
+        "word": "save",
+        "start": 34.98,
+        "end": 35.24
       },
       {
         "i": 103,
-        "word": "a",
-        "start": 32.32,
-        "end": 32.5
+        "word": "the",
+        "start": 35.24,
+        "end": 35.4
       },
       {
         "i": 104,
-        "word": "timed",
-        "start": 32.5,
-        "end": 32.74
+        "word": "post",
+        "start": 35.4,
+        "end": 35.66
       },
       {
         "i": 105,
-        "word": "title",
-        "start": 32.74,
-        "end": 33.16
+        "word": "or",
+        "start": 35.66,
+        "end": 35.92
       },
       {
         "i": 106,
-        "word": "reveal,",
-        "start": 33.16,
-        "end": 33.5
+        "word": "try",
+        "start": 35.92,
+        "end": 36.2
       },
       {
         "i": 107,
-        "word": "move",
-        "start": 33.9,
-        "end": 34.02
+        "word": "one",
+        "start": 36.2,
+        "end": 36.4
       },
       {
         "i": 108,
-        "word": "the",
-        "start": 34.02,
-        "end": 34.2
+        "word": "of",
+        "start": 36.4,
+        "end": 36.52
       },
       {
         "i": 109,
-        "word": "effect",
-        "start": 34.2,
-        "end": 34.46
+        "word": "the",
+        "start": 36.52,
+        "end": 36.62
       },
       {
         "i": 110,
-        "word": "to",
-        "start": 34.46,
-        "end": 34.68
-      },
-      {
-        "i": 111,
-        "word": "the",
-        "start": 34.68,
-        "end": 34.8
-      },
-      {
-        "i": 112,
-        "word": "title's",
-        "start": 34.8,
-        "end": 35.26
-      },
-      {
-        "i": 113,
-        "word": "appearance",
-        "start": 35.26,
-        "end": 35.5
-      },
-      {
-        "i": 114,
-        "word": "time",
-        "start": 35.5,
-        "end": 35.9
-      },
-      {
-        "i": 115,
-        "word": "instead.",
-        "start": 35.9,
-        "end": 36.36
+        "word": "tips.",
+        "start": 36.62,
+        "end": 36.92
       }
     ]
   },
   {
     "id": 9,
-    "text": "Trim the effect, if it lasts too long, and reduce its volume so the sound supports your presentation without startling the audience.",
-    "start": 37.2,
-    "end": 43.24,
+    "text": "Replace the template's colours and fonts with your own.",
+    "start": 37.6,
+    "end": 39.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      116,
-      137
+      111,
+      119
     ],
     "words": [
       {
-        "i": 116,
-        "word": "Trim",
-        "start": 37.2,
-        "end": 37.26
+        "i": 111,
+        "word": "Replace",
+        "start": 37.6,
+        "end": 37.84
       },
       {
-        "i": 117,
+        "i": 112,
         "word": "the",
-        "start": 37.26,
-        "end": 37.4
-      },
-      {
-        "i": 118,
-        "word": "effect,",
-        "start": 37.4,
-        "end": 37.72
-      },
-      {
-        "i": 119,
-        "word": "if",
         "start": 37.84,
-        "end": 37.94
+        "end": 38.06
       },
       {
-        "i": 120,
-        "word": "it",
-        "start": 37.94,
-        "end": 38.04
+        "i": 113,
+        "word": "template's",
+        "start": 38.06,
+        "end": 38.54
       },
       {
-        "i": 121,
-        "word": "lasts",
-        "start": 38.04,
-        "end": 38.22
+        "i": 114,
+        "word": "colours",
+        "start": 38.54,
+        "end": 38.68
       },
       {
-        "i": 122,
-        "word": "too",
-        "start": 38.22,
-        "end": 38.48
-      },
-      {
-        "i": 123,
-        "word": "long,",
-        "start": 38.48,
-        "end": 38.74
-      },
-      {
-        "i": 124,
+        "i": 115,
         "word": "and",
-        "start": 39.1,
+        "start": 38.68,
+        "end": 38.96
+      },
+      {
+        "i": 116,
+        "word": "fonts",
+        "start": 38.96,
         "end": 39.22
       },
       {
-        "i": 125,
-        "word": "reduce",
+        "i": 117,
+        "word": "with",
         "start": 39.22,
-        "end": 39.48
+        "end": 39.42
       },
       {
-        "i": 126,
-        "word": "its",
-        "start": 39.48,
-        "end": 39.72
-      },
-      {
-        "i": 127,
-        "word": "volume",
-        "start": 39.72,
-        "end": 40.0
-      },
-      {
-        "i": 128,
-        "word": "so",
-        "start": 40.0,
-        "end": 40.24
-      },
-      {
-        "i": 129,
-        "word": "the",
-        "start": 40.24,
-        "end": 40.4
-      },
-      {
-        "i": 130,
-        "word": "sound",
-        "start": 40.4,
-        "end": 40.64
-      },
-      {
-        "i": 131,
-        "word": "supports",
-        "start": 40.64,
-        "end": 41.1
-      },
-      {
-        "i": 132,
+        "i": 118,
         "word": "your",
-        "start": 41.1,
-        "end": 41.32
+        "start": 39.42,
+        "end": 39.58
       },
       {
-        "i": 133,
-        "word": "presentation",
-        "start": 41.32,
-        "end": 41.8
-      },
-      {
-        "i": 134,
-        "word": "without",
-        "start": 41.8,
-        "end": 42.24
-      },
-      {
-        "i": 135,
-        "word": "startling",
-        "start": 42.24,
-        "end": 42.7
-      },
-      {
-        "i": 136,
-        "word": "the",
-        "start": 42.7,
-        "end": 42.9
-      },
-      {
-        "i": 137,
-        "word": "audience.",
-        "start": 42.9,
-        "end": 43.24
+        "i": 119,
+        "word": "own.",
+        "start": 39.58,
+        "end": 39.84
       }
     ]
   },
   {
     "id": 10,
-    "text": "Preview the slides in the same playback mode you plan to use.",
-    "start": 44.08,
-    "end": 46.86,
+    "text": "Keep the heading and page number positions consistent and leave enough space around the edges for the text to breathe.",
+    "start": 40.46,
+    "end": 45.56,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      138,
-      149
+      120,
+      139
     ],
     "words": [
       {
+        "i": 120,
+        "word": "Keep",
+        "start": 40.46,
+        "end": 40.62
+      },
+      {
+        "i": 121,
+        "word": "the",
+        "start": 40.62,
+        "end": 40.8
+      },
+      {
+        "i": 122,
+        "word": "heading",
+        "start": 40.8,
+        "end": 40.98
+      },
+      {
+        "i": 123,
+        "word": "and",
+        "start": 40.98,
+        "end": 41.28
+      },
+      {
+        "i": 124,
+        "word": "page",
+        "start": 41.28,
+        "end": 41.54
+      },
+      {
+        "i": 125,
+        "word": "number",
+        "start": 41.54,
+        "end": 41.72
+      },
+      {
+        "i": 126,
+        "word": "positions",
+        "start": 41.72,
+        "end": 42.16
+      },
+      {
+        "i": 127,
+        "word": "consistent",
+        "start": 42.16,
+        "end": 42.78
+      },
+      {
+        "i": 128,
+        "word": "and",
+        "start": 42.78,
+        "end": 43.26
+      },
+      {
+        "i": 129,
+        "word": "leave",
+        "start": 43.26,
+        "end": 43.4
+      },
+      {
+        "i": 130,
+        "word": "enough",
+        "start": 43.4,
+        "end": 43.6
+      },
+      {
+        "i": 131,
+        "word": "space",
+        "start": 43.6,
+        "end": 43.92
+      },
+      {
+        "i": 132,
+        "word": "around",
+        "start": 43.92,
+        "end": 44.2
+      },
+      {
+        "i": 133,
+        "word": "the",
+        "start": 44.2,
+        "end": 44.34
+      },
+      {
+        "i": 134,
+        "word": "edges",
+        "start": 44.34,
+        "end": 44.56
+      },
+      {
+        "i": 135,
+        "word": "for",
+        "start": 44.56,
+        "end": 44.78
+      },
+      {
+        "i": 136,
+        "word": "the",
+        "start": 44.78,
+        "end": 44.88
+      },
+      {
+        "i": 137,
+        "word": "text",
+        "start": 44.88,
+        "end": 45.1
+      },
+      {
         "i": 138,
-        "word": "Preview",
-        "start": 44.08,
-        "end": 44.26
-      },
-      {
-        "i": 139,
-        "word": "the",
-        "start": 44.26,
-        "end": 44.5
-      },
-      {
-        "i": 140,
-        "word": "slides",
-        "start": 44.5,
-        "end": 44.76
-      },
-      {
-        "i": 141,
-        "word": "in",
-        "start": 44.76,
-        "end": 44.94
-      },
-      {
-        "i": 142,
-        "word": "the",
-        "start": 44.94,
-        "end": 45.04
-      },
-      {
-        "i": 143,
-        "word": "same",
-        "start": 45.04,
+        "word": "to",
+        "start": 45.1,
         "end": 45.32
       },
       {
-        "i": 144,
-        "word": "playback",
+        "i": 139,
+        "word": "breathe.",
         "start": 45.32,
-        "end": 45.62
-      },
-      {
-        "i": 145,
-        "word": "mode",
-        "start": 45.62,
-        "end": 45.94
-      },
-      {
-        "i": 146,
-        "word": "you",
-        "start": 45.94,
-        "end": 46.14
-      },
-      {
-        "i": 147,
-        "word": "plan",
-        "start": 46.14,
-        "end": 46.32
-      },
-      {
-        "i": 148,
-        "word": "to",
-        "start": 46.32,
-        "end": 46.5
-      },
-      {
-        "i": 149,
-        "word": "use.",
-        "start": 46.5,
-        "end": 46.86
+        "end": 45.56
       }
     ]
   },
   {
     "id": 11,
-    "text": "If you want a fixed sequence, set the slide durations and check the sound against those timings.",
-    "start": 47.4,
-    "end": 52.44,
+    "text": "To add another slide, duplicate an existing page and replace its content.",
+    "start": 46.16,
+    "end": 49.8,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      150,
-      166
+      140,
+      151
     ],
     "words": [
       {
-        "i": 150,
-        "word": "If",
-        "start": 47.4,
+        "i": 140,
+        "word": "To",
+        "start": 46.16,
+        "end": 46.32
+      },
+      {
+        "i": 141,
+        "word": "add",
+        "start": 46.32,
+        "end": 46.44
+      },
+      {
+        "i": 142,
+        "word": "another",
+        "start": 46.44,
+        "end": 46.7
+      },
+      {
+        "i": 143,
+        "word": "slide,",
+        "start": 46.7,
+        "end": 47.04
+      },
+      {
+        "i": 144,
+        "word": "duplicate",
+        "start": 47.26,
         "end": 47.52
       },
       {
-        "i": 151,
-        "word": "you",
+        "i": 145,
+        "word": "an",
         "start": 47.52,
-        "end": 47.62
+        "end": 47.82
       },
       {
-        "i": 152,
-        "word": "want",
-        "start": 47.62,
-        "end": 47.72
+        "i": 146,
+        "word": "existing",
+        "start": 47.82,
+        "end": 48.2
       },
       {
-        "i": 153,
-        "word": "a",
-        "start": 47.72,
-        "end": 47.86
+        "i": 147,
+        "word": "page",
+        "start": 48.2,
+        "end": 48.58
       },
       {
-        "i": 154,
-        "word": "fixed",
-        "start": 47.86,
-        "end": 48.04
-      },
-      {
-        "i": 155,
-        "word": "sequence,",
-        "start": 48.04,
-        "end": 48.52
-      },
-      {
-        "i": 156,
-        "word": "set",
-        "start": 48.9,
-        "end": 49.08
-      },
-      {
-        "i": 157,
-        "word": "the",
-        "start": 49.08,
-        "end": 49.24
-      },
-      {
-        "i": 158,
-        "word": "slide",
-        "start": 49.24,
-        "end": 49.5
-      },
-      {
-        "i": 159,
-        "word": "durations",
-        "start": 49.5,
-        "end": 49.94
-      },
-      {
-        "i": 160,
+        "i": 148,
         "word": "and",
-        "start": 49.94,
-        "end": 50.48
+        "start": 48.58,
+        "end": 48.88
       },
       {
-        "i": 161,
-        "word": "check",
-        "start": 50.48,
-        "end": 50.7
+        "i": 149,
+        "word": "replace",
+        "start": 48.88,
+        "end": 49.16
       },
       {
-        "i": 162,
-        "word": "the",
-        "start": 50.7,
-        "end": 50.9
+        "i": 150,
+        "word": "its",
+        "start": 49.16,
+        "end": 49.42
       },
       {
-        "i": 163,
-        "word": "sound",
-        "start": 50.9,
-        "end": 51.24
-      },
-      {
-        "i": 164,
-        "word": "against",
-        "start": 51.24,
-        "end": 51.58
-      },
-      {
-        "i": 165,
-        "word": "those",
-        "start": 51.58,
-        "end": 51.94
-      },
-      {
-        "i": 166,
-        "word": "timings.",
-        "start": 51.94,
-        "end": 52.44
+        "i": 151,
+        "word": "content.",
+        "start": 49.42,
+        "end": 49.8
       }
     ]
   },
   {
     "id": 12,
-    "text": "Here's the part many tutorials skip.",
-    "start": 53.08,
-    "end": 55.02,
+    "text": "This keeps the design consistent without rebuilding the layout.",
+    "start": 50.42,
+    "end": 52.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      167,
-      172
+      152,
+      160
     ],
     "words": [
       {
-        "i": 167,
-        "word": "Here's",
-        "start": 53.08,
-        "end": 53.4
+        "i": 152,
+        "word": "This",
+        "start": 50.42,
+        "end": 50.62
       },
       {
-        "i": 168,
+        "i": 153,
+        "word": "keeps",
+        "start": 50.62,
+        "end": 50.8
+      },
+      {
+        "i": 154,
         "word": "the",
-        "start": 53.4,
-        "end": 53.52
+        "start": 50.8,
+        "end": 51.0
       },
       {
-        "i": 169,
-        "word": "part",
-        "start": 53.52,
-        "end": 53.74
+        "i": 155,
+        "word": "design",
+        "start": 51.0,
+        "end": 51.28
       },
       {
-        "i": 170,
-        "word": "many",
-        "start": 53.74,
-        "end": 54.04
+        "i": 156,
+        "word": "consistent",
+        "start": 51.28,
+        "end": 51.72
       },
       {
-        "i": 171,
-        "word": "tutorials",
-        "start": 54.04,
-        "end": 54.58
+        "i": 157,
+        "word": "without",
+        "start": 51.72,
+        "end": 52.08
       },
       {
-        "i": 172,
-        "word": "skip.",
-        "start": 54.58,
-        "end": 55.02
+        "i": 158,
+        "word": "rebuilding",
+        "start": 52.08,
+        "end": 52.46
+      },
+      {
+        "i": 159,
+        "word": "the",
+        "start": 52.46,
+        "end": 52.7
+      },
+      {
+        "i": 160,
+        "word": "layout.",
+        "start": 52.7,
+        "end": 52.98
       }
     ]
   },
   {
     "id": 13,
-    "text": "A sound placed on a timed presentation is not automatically a sound that triggers whenever you click a particular text box.",
-    "start": 55.5,
-    "end": 61.3,
+    "text": "Open GridView and drag the pages into their final order.",
+    "start": 53.66,
+    "end": 56.46,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      173,
-      193
+      161,
+      170
     ],
     "words": [
       {
-        "i": 173,
-        "word": "A",
-        "start": 55.5,
-        "end": 55.62
+        "i": 161,
+        "word": "Open",
+        "start": 53.66,
+        "end": 53.92
       },
       {
-        "i": 174,
-        "word": "sound",
-        "start": 55.62,
-        "end": 55.9
+        "i": 162,
+        "word": "GridView",
+        "start": 53.92,
+        "end": 54.32
       },
       {
-        "i": 175,
-        "word": "placed",
-        "start": 55.9,
-        "end": 56.18
+        "i": 163,
+        "word": "and",
+        "start": 54.32,
+        "end": 54.66
       },
       {
-        "i": 176,
-        "word": "on",
-        "start": 56.18,
-        "end": 56.4
+        "i": 164,
+        "word": "drag",
+        "start": 54.66,
+        "end": 54.9
       },
       {
-        "i": 177,
-        "word": "a",
-        "start": 56.4,
-        "end": 56.52
+        "i": 165,
+        "word": "the",
+        "start": 54.9,
+        "end": 55.06
       },
       {
-        "i": 178,
-        "word": "timed",
-        "start": 56.52,
-        "end": 56.76
+        "i": 166,
+        "word": "pages",
+        "start": 55.06,
+        "end": 55.38
       },
       {
-        "i": 179,
-        "word": "presentation",
-        "start": 56.76,
-        "end": 57.3
+        "i": 167,
+        "word": "into",
+        "start": 55.38,
+        "end": 55.58
       },
       {
-        "i": 180,
-        "word": "is",
-        "start": 57.3,
-        "end": 57.66
+        "i": 168,
+        "word": "their",
+        "start": 55.58,
+        "end": 55.82
       },
       {
-        "i": 181,
-        "word": "not",
-        "start": 57.66,
-        "end": 57.9
+        "i": 169,
+        "word": "final",
+        "start": 55.82,
+        "end": 56.08
       },
       {
-        "i": 182,
-        "word": "automatically",
-        "start": 57.9,
-        "end": 58.5
-      },
-      {
-        "i": 183,
-        "word": "a",
-        "start": 58.5,
-        "end": 58.78
-      },
-      {
-        "i": 184,
-        "word": "sound",
-        "start": 58.78,
-        "end": 59.02
-      },
-      {
-        "i": 185,
-        "word": "that",
-        "start": 59.02,
-        "end": 59.18
-      },
-      {
-        "i": 186,
-        "word": "triggers",
-        "start": 59.18,
-        "end": 59.46
-      },
-      {
-        "i": 187,
-        "word": "whenever",
-        "start": 59.46,
-        "end": 59.76
-      },
-      {
-        "i": 188,
-        "word": "you",
-        "start": 59.76,
-        "end": 60.0
-      },
-      {
-        "i": 189,
-        "word": "click",
-        "start": 60.0,
-        "end": 60.2
-      },
-      {
-        "i": 190,
-        "word": "a",
-        "start": 60.2,
-        "end": 60.32
-      },
-      {
-        "i": 191,
-        "word": "particular",
-        "start": 60.32,
-        "end": 60.7
-      },
-      {
-        "i": 192,
-        "word": "text",
-        "start": 60.7,
-        "end": 60.98
-      },
-      {
-        "i": 193,
-        "word": "box.",
-        "start": 60.98,
-        "end": 61.3
+        "i": 170,
+        "word": "order.",
+        "start": 56.08,
+        "end": 56.46
       }
     ]
   },
   {
     "id": 14,
-    "text": "Test your presentation mode before using the effect in a live talk.",
-    "start": 62.12,
-    "end": 65.14,
+    "text": "Read them from beginning to end to make sure each slide follows naturally from the previous one.",
+    "start": 56.46,
+    "end": 61.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      194,
-      205
+      171,
+      187
     ],
     "words": [
       {
-        "i": 194,
-        "word": "Test",
-        "start": 62.12,
-        "end": 62.26
+        "i": 171,
+        "word": "Read",
+        "start": 56.46,
+        "end": 57.28
       },
       {
-        "i": 195,
-        "word": "your",
-        "start": 62.26,
-        "end": 62.44
+        "i": 172,
+        "word": "them",
+        "start": 57.28,
+        "end": 57.46
       },
       {
-        "i": 196,
-        "word": "presentation",
-        "start": 62.44,
-        "end": 62.88
+        "i": 173,
+        "word": "from",
+        "start": 57.46,
+        "end": 57.64
       },
       {
-        "i": 197,
-        "word": "mode",
-        "start": 62.88,
-        "end": 63.26
+        "i": 174,
+        "word": "beginning",
+        "start": 57.64,
+        "end": 57.9
       },
       {
-        "i": 198,
-        "word": "before",
-        "start": 63.26,
-        "end": 63.54
+        "i": 175,
+        "word": "to",
+        "start": 57.9,
+        "end": 58.16
       },
       {
-        "i": 199,
-        "word": "using",
-        "start": 63.54,
-        "end": 63.82
+        "i": 176,
+        "word": "end",
+        "start": 58.16,
+        "end": 58.44
       },
       {
-        "i": 200,
+        "i": 177,
+        "word": "to",
+        "start": 58.44,
+        "end": 58.68
+      },
+      {
+        "i": 178,
+        "word": "make",
+        "start": 58.68,
+        "end": 58.82
+      },
+      {
+        "i": 179,
+        "word": "sure",
+        "start": 58.82,
+        "end": 59.06
+      },
+      {
+        "i": 180,
+        "word": "each",
+        "start": 59.06,
+        "end": 59.36
+      },
+      {
+        "i": 181,
+        "word": "slide",
+        "start": 59.36,
+        "end": 59.7
+      },
+      {
+        "i": 182,
+        "word": "follows",
+        "start": 59.7,
+        "end": 60.02
+      },
+      {
+        "i": 183,
+        "word": "naturally",
+        "start": 60.02,
+        "end": 60.48
+      },
+      {
+        "i": 184,
+        "word": "from",
+        "start": 60.48,
+        "end": 60.74
+      },
+      {
+        "i": 185,
         "word": "the",
-        "start": 63.82,
-        "end": 64.0
+        "start": 60.74,
+        "end": 60.86
       },
       {
-        "i": 201,
-        "word": "effect",
-        "start": 64.0,
-        "end": 64.26
+        "i": 186,
+        "word": "previous",
+        "start": 60.86,
+        "end": 61.14
       },
       {
-        "i": 202,
-        "word": "in",
-        "start": 64.26,
-        "end": 64.54
-      },
-      {
-        "i": 203,
-        "word": "a",
-        "start": 64.54,
-        "end": 64.64
-      },
-      {
-        "i": 204,
-        "word": "live",
-        "start": 64.64,
-        "end": 64.78
-      },
-      {
-        "i": 205,
-        "word": "talk.",
-        "start": 64.78,
-        "end": 65.14
+        "i": 187,
+        "word": "one.",
+        "start": 61.14,
+        "end": 61.64
       }
     ]
   },
   {
     "id": 15,
-    "text": "For a version that preserves your tested timing, download the presentation as an MP4 video.",
-    "start": 65.78,
-    "end": 70.82,
+    "text": "Choose Share, Download and PNG.",
+    "start": 62.44,
+    "end": 64.76,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      206,
-      220
+      188,
+      192
     ],
     "words": [
       {
-        "i": 206,
-        "word": "For",
-        "start": 65.78,
-        "end": 65.9
+        "i": 188,
+        "word": "Choose",
+        "start": 62.44,
+        "end": 62.58
       },
       {
-        "i": 207,
-        "word": "a",
-        "start": 65.9,
-        "end": 66.02
+        "i": 189,
+        "word": "Share,",
+        "start": 62.58,
+        "end": 62.94
       },
       {
-        "i": 208,
-        "word": "version",
-        "start": 66.02,
-        "end": 66.24
+        "i": 190,
+        "word": "Download",
+        "start": 63.34,
+        "end": 63.74
       },
       {
-        "i": 209,
-        "word": "that",
-        "start": 66.24,
-        "end": 66.44
+        "i": 191,
+        "word": "and",
+        "start": 63.74,
+        "end": 64.28
       },
       {
-        "i": 210,
-        "word": "preserves",
-        "start": 66.44,
-        "end": 66.78
-      },
-      {
-        "i": 211,
-        "word": "your",
-        "start": 66.78,
-        "end": 67.02
-      },
-      {
-        "i": 212,
-        "word": "tested",
-        "start": 67.02,
-        "end": 67.32
-      },
-      {
-        "i": 213,
-        "word": "timing,",
-        "start": 67.32,
-        "end": 67.78
-      },
-      {
-        "i": 214,
-        "word": "download",
-        "start": 68.28,
-        "end": 68.48
-      },
-      {
-        "i": 215,
-        "word": "the",
-        "start": 68.48,
-        "end": 68.68
-      },
-      {
-        "i": 216,
-        "word": "presentation",
-        "start": 68.68,
-        "end": 69.12
-      },
-      {
-        "i": 217,
-        "word": "as",
-        "start": 69.12,
-        "end": 69.5
-      },
-      {
-        "i": 218,
-        "word": "an",
-        "start": 69.5,
-        "end": 69.64
-      },
-      {
-        "i": 219,
-        "word": "MP4",
-        "start": 69.64,
-        "end": 70.48
-      },
-      {
-        "i": 220,
-        "word": "video.",
-        "start": 70.48,
-        "end": 70.82
+        "i": 192,
+        "word": "PNG.",
+        "start": 64.28,
+        "end": 64.76
       }
     ]
   },
   {
     "id": 16,
-    "text": "A PDF download will not preserve the sound effects.",
-    "start": 71.44,
-    "end": 73.82,
+    "text": "Select all carousel pages and download them.",
+    "start": 65.4,
+    "end": 67.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      221,
-      229
+      193,
+      199
     ],
     "words": [
       {
+        "i": 193,
+        "word": "Select",
+        "start": 65.4,
+        "end": 65.6
+      },
+      {
+        "i": 194,
+        "word": "all",
+        "start": 65.6,
+        "end": 66.04
+      },
+      {
+        "i": 195,
+        "word": "carousel",
+        "start": 66.04,
+        "end": 66.4
+      },
+      {
+        "i": 196,
+        "word": "pages",
+        "start": 66.4,
+        "end": 66.8
+      },
+      {
+        "i": 197,
+        "word": "and",
+        "start": 66.8,
+        "end": 67.3
+      },
+      {
+        "i": 198,
+        "word": "download",
+        "start": 67.3,
+        "end": 67.6
+      },
+      {
+        "i": 199,
+        "word": "them.",
+        "start": 67.6,
+        "end": 67.94
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "If Canva provides a zip file, extract it to access the individual slide images.",
+    "start": 68.46,
+    "end": 72.62,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      200,
+      213
+    ],
+    "words": [
+      {
+        "i": 200,
+        "word": "If",
+        "start": 68.46,
+        "end": 68.6
+      },
+      {
+        "i": 201,
+        "word": "Canva",
+        "start": 68.6,
+        "end": 68.9
+      },
+      {
+        "i": 202,
+        "word": "provides",
+        "start": 68.9,
+        "end": 69.26
+      },
+      {
+        "i": 203,
+        "word": "a",
+        "start": 69.26,
+        "end": 69.5
+      },
+      {
+        "i": 204,
+        "word": "zip",
+        "start": 69.5,
+        "end": 69.62
+      },
+      {
+        "i": 205,
+        "word": "file,",
+        "start": 69.62,
+        "end": 69.96
+      },
+      {
+        "i": 206,
+        "word": "extract",
+        "start": 70.18,
+        "end": 70.48
+      },
+      {
+        "i": 207,
+        "word": "it",
+        "start": 70.48,
+        "end": 70.74
+      },
+      {
+        "i": 208,
+        "word": "to",
+        "start": 70.74,
+        "end": 70.88
+      },
+      {
+        "i": 209,
+        "word": "access",
+        "start": 70.88,
+        "end": 71.18
+      },
+      {
+        "i": 210,
+        "word": "the",
+        "start": 71.18,
+        "end": 71.42
+      },
+      {
+        "i": 211,
+        "word": "individual",
+        "start": 71.42,
+        "end": 71.88
+      },
+      {
+        "i": 212,
+        "word": "slide",
+        "start": 71.88,
+        "end": 72.24
+      },
+      {
+        "i": 213,
+        "word": "images.",
+        "start": 72.24,
+        "end": 72.62
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Here's the part many tutorials skip.",
+    "start": 73.46,
+    "end": 75.36,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      214,
+      219
+    ],
+    "words": [
+      {
+        "i": 214,
+        "word": "Here's",
+        "start": 73.46,
+        "end": 73.68
+      },
+      {
+        "i": 215,
+        "word": "the",
+        "start": 73.68,
+        "end": 73.8
+      },
+      {
+        "i": 216,
+        "word": "part",
+        "start": 73.8,
+        "end": 74.0
+      },
+      {
+        "i": 217,
+        "word": "many",
+        "start": 74.0,
+        "end": 74.36
+      },
+      {
+        "i": 218,
+        "word": "tutorials",
+        "start": 74.36,
+        "end": 74.96
+      },
+      {
+        "i": 219,
+        "word": "skip.",
+        "start": 74.96,
+        "end": 75.36
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "The carousel is made from separate images.",
+    "start": 75.88,
+    "end": 77.74,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      220,
+      226
+    ],
+    "words": [
+      {
+        "i": 220,
+        "word": "The",
+        "start": 75.88,
+        "end": 76.02
+      },
+      {
         "i": 221,
-        "word": "A",
-        "start": 71.44,
-        "end": 71.58
+        "word": "carousel",
+        "start": 76.02,
+        "end": 76.32
       },
       {
         "i": 222,
-        "word": "PDF",
-        "start": 71.58,
-        "end": 71.84
+        "word": "is",
+        "start": 76.32,
+        "end": 76.54
       },
       {
         "i": 223,
-        "word": "download",
-        "start": 71.84,
-        "end": 72.32
+        "word": "made",
+        "start": 76.54,
+        "end": 76.74
       },
       {
         "i": 224,
-        "word": "will",
-        "start": 72.32,
-        "end": 72.54
+        "word": "from",
+        "start": 76.74,
+        "end": 76.98
       },
       {
         "i": 225,
-        "word": "not",
-        "start": 72.54,
-        "end": 72.74
+        "word": "separate",
+        "start": 76.98,
+        "end": 77.44
       },
       {
         "i": 226,
-        "word": "preserve",
-        "start": 72.74,
-        "end": 73.08
-      },
+        "word": "images.",
+        "start": 77.44,
+        "end": 77.74
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "A PDF or one long image will not give you the same ready-to-upload slide files for an Instagram image carousel.",
+    "start": 78.6,
+    "end": 84.54,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      227,
+      248
+    ],
+    "words": [
       {
         "i": 227,
-        "word": "the",
-        "start": 73.08,
-        "end": 73.28
+        "word": "A",
+        "start": 78.6,
+        "end": 78.78
       },
       {
         "i": 228,
-        "word": "sound",
-        "start": 73.28,
-        "end": 73.5
+        "word": "PDF",
+        "start": 78.78,
+        "end": 79.06
       },
       {
         "i": 229,
-        "word": "effects.",
-        "start": 73.5,
-        "end": 73.82
+        "word": "or",
+        "start": 79.06,
+        "end": 79.54
+      },
+      {
+        "i": 230,
+        "word": "one",
+        "start": 79.54,
+        "end": 79.78
+      },
+      {
+        "i": 231,
+        "word": "long",
+        "start": 79.78,
+        "end": 79.96
+      },
+      {
+        "i": 232,
+        "word": "image",
+        "start": 79.96,
+        "end": 80.26
+      },
+      {
+        "i": 233,
+        "word": "will",
+        "start": 80.26,
+        "end": 80.46
+      },
+      {
+        "i": 234,
+        "word": "not",
+        "start": 80.46,
+        "end": 80.64
+      },
+      {
+        "i": 235,
+        "word": "give",
+        "start": 80.64,
+        "end": 80.82
+      },
+      {
+        "i": 236,
+        "word": "you",
+        "start": 80.82,
+        "end": 80.96
+      },
+      {
+        "i": 237,
+        "word": "the",
+        "start": 80.96,
+        "end": 81.08
+      },
+      {
+        "i": 238,
+        "word": "same",
+        "start": 81.08,
+        "end": 81.32
+      },
+      {
+        "i": 239,
+        "word": "ready",
+        "start": 81.32,
+        "end": 81.56
+      },
+      {
+        "i": 240,
+        "word": "-to",
+        "start": 81.56,
+        "end": 81.8
+      },
+      {
+        "i": 241,
+        "word": "-upload",
+        "start": 81.8,
+        "end": 82.08
+      },
+      {
+        "i": 242,
+        "word": "slide",
+        "start": 82.08,
+        "end": 82.48
+      },
+      {
+        "i": 243,
+        "word": "files",
+        "start": 82.48,
+        "end": 82.86
+      },
+      {
+        "i": 244,
+        "word": "for",
+        "start": 82.86,
+        "end": 83.1
+      },
+      {
+        "i": 245,
+        "word": "an",
+        "start": 83.1,
+        "end": 83.22
+      },
+      {
+        "i": 246,
+        "word": "Instagram",
+        "start": 83.22,
+        "end": 83.66
+      },
+      {
+        "i": 247,
+        "word": "image",
+        "start": 83.66,
+        "end": 84.06
+      },
+      {
+        "i": 248,
+        "word": "carousel.",
+        "start": 84.06,
+        "end": 84.54
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "When creating the Instagram post, select the images in their intended order and check the upload preview for cropping.",
+    "start": 85.32,
+    "end": 91.34,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      249,
+      267
+    ],
+    "words": [
+      {
+        "i": 249,
+        "word": "When",
+        "start": 85.32,
+        "end": 85.64
+      },
+      {
+        "i": 250,
+        "word": "creating",
+        "start": 85.64,
+        "end": 85.96
+      },
+      {
+        "i": 251,
+        "word": "the",
+        "start": 85.96,
+        "end": 86.2
+      },
+      {
+        "i": 252,
+        "word": "Instagram",
+        "start": 86.2,
+        "end": 86.62
+      },
+      {
+        "i": 253,
+        "word": "post,",
+        "start": 86.62,
+        "end": 87.02
+      },
+      {
+        "i": 254,
+        "word": "select",
+        "start": 87.22,
+        "end": 87.5
+      },
+      {
+        "i": 255,
+        "word": "the",
+        "start": 87.5,
+        "end": 87.7
+      },
+      {
+        "i": 256,
+        "word": "images",
+        "start": 87.7,
+        "end": 87.98
+      },
+      {
+        "i": 257,
+        "word": "in",
+        "start": 87.98,
+        "end": 88.22
+      },
+      {
+        "i": 258,
+        "word": "their",
+        "start": 88.22,
+        "end": 88.36
+      },
+      {
+        "i": 259,
+        "word": "intended",
+        "start": 88.36,
+        "end": 88.74
+      },
+      {
+        "i": 260,
+        "word": "order",
+        "start": 88.74,
+        "end": 89.16
+      },
+      {
+        "i": 261,
+        "word": "and",
+        "start": 89.16,
+        "end": 89.46
+      },
+      {
+        "i": 262,
+        "word": "check",
+        "start": 89.46,
+        "end": 89.7
+      },
+      {
+        "i": 263,
+        "word": "the",
+        "start": 89.7,
+        "end": 89.9
+      },
+      {
+        "i": 264,
+        "word": "upload",
+        "start": 89.9,
+        "end": 90.26
+      },
+      {
+        "i": 265,
+        "word": "preview",
+        "start": 90.26,
+        "end": 90.68
+      },
+      {
+        "i": 266,
+        "word": "for",
+        "start": 90.68,
+        "end": 90.96
+      },
+      {
+        "i": 267,
+        "word": "cropping.",
+        "start": 90.96,
+        "end": 91.34
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Your cover should appear first and the final action page should appear last.",
+    "start": 92.18,
+    "end": 95.88,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      268,
+      280
+    ],
+    "words": [
+      {
+        "i": 268,
+        "word": "Your",
+        "start": 92.18,
+        "end": 92.3
+      },
+      {
+        "i": 269,
+        "word": "cover",
+        "start": 92.3,
+        "end": 92.5
+      },
+      {
+        "i": 270,
+        "word": "should",
+        "start": 92.5,
+        "end": 92.7
+      },
+      {
+        "i": 271,
+        "word": "appear",
+        "start": 92.7,
+        "end": 92.92
+      },
+      {
+        "i": 272,
+        "word": "first",
+        "start": 92.92,
+        "end": 93.24
+      },
+      {
+        "i": 273,
+        "word": "and",
+        "start": 93.24,
+        "end": 93.64
+      },
+      {
+        "i": 274,
+        "word": "the",
+        "start": 93.64,
+        "end": 93.78
+      },
+      {
+        "i": 275,
+        "word": "final",
+        "start": 93.78,
+        "end": 94.1
+      },
+      {
+        "i": 276,
+        "word": "action",
+        "start": 94.1,
+        "end": 94.46
+      },
+      {
+        "i": 277,
+        "word": "page",
+        "start": 94.46,
+        "end": 94.9
+      },
+      {
+        "i": 278,
+        "word": "should",
+        "start": 94.9,
+        "end": 95.28
+      },
+      {
+        "i": 279,
+        "word": "appear",
+        "start": 95.28,
+        "end": 95.56
+      },
+      {
+        "i": 280,
+        "word": "last.",
+        "start": 95.56,
+        "end": 95.88
       }
     ]
   }
