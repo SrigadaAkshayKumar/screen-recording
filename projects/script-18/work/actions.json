@@ -1,13 +1,102 @@
-{"recording":{"width":1920,"height":1080,"fps":30,"duration":275.633},
- "sync":{"clicks_offset":0,"source":"frames"},
- "actions":[
- {"id":"A1","t_click":10.2,"x":960,"y":540,"kind":"click","target":"timeline play/pause control","result":"playback starts","t_result_visible":11.0,"confidence":"low"},
- {"id":"A2","t_click":34.0,"x":40,"y":560,"kind":"click","target":"Elements / Audio panel","result":"audio panel opens","t_result_visible":35.2,"confidence":"low"},
- {"id":"A3","t_click":38.0,"x":120,"y":300,"kind":"click","target":"music sample preview","result":"sample plays","t_result_visible":38.3,"confidence":"low"},
- {"id":"A4","t_click":46.0,"x":120,"y":300,"kind":"click","target":"stop sample preview","result":"preview stops","t_result_visible":46.3,"confidence":"low"},
- {"id":"A5","t_click":63.8,"x":600,"y":30,"kind":"click","target":"other Canva tab","result":"other design plays","t_result_visible":64.2,"confidence":"low"},
- {"id":"A6","t_click":69.0,"x":960,"y":540,"kind":"click","target":"pause in other tab","result":"paused","t_result_visible":69.2,"confidence":"low"},
- {"id":"A7","t_click":128.0,"x":1850,"y":60,"kind":"click","target":"Chrome menu / new incognito window","result":"incognito window opens","t_result_visible":129.8,"confidence":"low"},
- {"id":"A8","t_click":205.9,"x":1600,"y":600,"kind":"click","target":"MP4 file type","result":"MP4 selected","t_result_visible":206.5,"confidence":"low"}
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 362.267
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 26.3,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Resize menu",
+   "result": "size panel opens",
+   "t_result_visible": 26.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 56.7,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Custom size fields",
+   "result": "8.5 x 11 typed",
+   "t_result_visible": 57.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 87.10000000000001,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "File menu",
+   "result": "settings submenu / margins",
+   "t_result_visible": 87.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 139.7,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Upload files",
+   "result": "uploads panel",
+   "t_result_visible": 140.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 155.6,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Drawing",
+   "result": "placed and resized on page",
+   "t_result_visible": 155.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 215.7,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Replace drawing",
+   "result": "bird replaces chart",
+   "t_result_visible": 216.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 239.1,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Add heading",
+   "result": "Bird text",
+   "t_result_visible": 239.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 299.9,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Download",
+   "result": "PDF download panel",
+   "t_result_visible": 300.2,
+   "confidence": "low"
+  }
  ],
- "junk":[]}
+ "junk": []
+}
