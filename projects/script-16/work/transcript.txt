@@ -1,16 +1,23 @@
-This tutorial shows you how to remove the automatic captions you generated inside a Canva video project.
-Open the original Canva project and pause where a caption is visible.
-Select a generated caption, then open Captions from the toolbar.
-Choose Delete All Captions in the Captions panel to remove the generated captions across the design.
-If you only want to remove one line, use the Delete control beside that line instead.
-Play through the project after deleting.
-Look at sections from every part of the video to make sure you remove the captions you intended and left other titles intact.
+This tutorial shows you how to make text scroll horizontally across a Canva video using a custom motion path.
+Create a blank landscape video design and add a background.
+Set up an eight second section for this example.
+Open text and add your message in one text box.
+Use a readable font and widen the box enough to keep a short message on one line.
+Place it near the bottom of the canvas.
+Add a contrasting rectangle behind the text if the background makes the words difficult to read.
+Keep the rectangle still so it acts as a clear strip for the scrolling message.
+Move the text toward the right edge, leaving a small part on the page so you can still select it.
+Click animate then, create an animation.
+Hold shift while dragging the text horizontally to the left.
+Continue until the last letter has moved beyond the left edge, then release to finish recording the path.
+Use the movement controls to adjust the animation speed.
+Preview it and check that the entire message enters, crosses the frame and leaves without stopping halfway.
+If the path is uneven, delete it and record a straight path again.
+In the video timeline, make sure the text element stays active for the entire scroll.
+Extend the background to cover the same period.
 Here's the part many tutorials skip.
-Canva can remove captions that exist as editable elements in the project.
-If you uploaded a finished video with subtitles and already burned into its picture,
-those words are part of the footage and cannot be deleted through the captions panel.
-For burned-in subtitles, use the original video without captions or return to the project that created them.
-Cropping may hide words near an edge, but it also removes part of the picture.
-If captions only appear during playback and have no editable layer, check whether view-only accessibility captions are enabled.
-Download a new MP4 after deleting the editable captions.
-An older exported file will still contain the subtitles from before the change.
+Extending the background does not automatically slow the text's motion.
+Adjust the path speed as well and check that the text clip is long enough for the movement to finish.
+Play the result at normal speed.
+If the words are difficult to follow, shorten the message or slow the animation.
+Export through share, download and MP4 video to preserve the scrolling movement.
