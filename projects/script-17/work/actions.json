@@ -1,133 +1,20 @@
 {
- "recording": {
-  "width": 1920,
-  "height": 1080,
-  "fps": 30,
-  "duration": 143.8
- },
- "sync": {
-  "clicks_offset": 0,
-  "source": "frames"
- },
+ "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 265.767},
+ "sync": {"clicks_offset": 0, "source": "frames"},
  "actions": [
-  {
-   "id": "A1",
-   "t_click": 10.95,
-   "x": 1368,
-   "y": 372,
-   "kind": "click",
-   "target": "caption/video on the canvas",
-   "result": "video selected (purple outline)",
-   "t_result_visible": 11.1,
-   "confidence": "low"
-  },
-  {
-   "id": "A2",
-   "t_click": 19.4,
-   "x": 1000,
-   "y": 720,
-   "kind": "click",
-   "target": "caption text element",
-   "result": "caption text box selected, toolbar with Delete icon",
-   "t_result_visible": 19.6,
-   "confidence": "medium"
-  },
-  {
-   "id": "A3",
-   "t_click": 34.85,
-   "x": 550,
-   "y": 240,
-   "kind": "click",
-   "target": "Captions button in the toolbar",
-   "result": "Captions panel opens at left",
-   "t_result_visible": 35.0,
-   "confidence": "high"
-  },
-  {
-   "id": "A4",
-   "t_click": 53.8,
-   "x": 151,
-   "y": 162,
-   "kind": "click",
-   "target": "File menu",
-   "result": "File menu opens",
-   "t_result_visible": 54.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A5",
-   "t_click": 63.6,
-   "x": 696,
-   "y": 782,
-   "kind": "click",
-   "target": "Show view-only captions on media",
-   "result": "tick disappears, menu closes",
-   "t_result_visible": 63.8,
-   "confidence": "medium"
-  },
-  {
-   "id": "A6",
-   "t_click": 132.6,
-   "x": 1822,
-   "y": 162,
-   "kind": "click",
-   "target": "Share button",
-   "result": "Share panel opens",
-   "t_result_visible": 133.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A7",
-   "t_click": 133.8,
-   "x": 1500,
-   "y": 800,
-   "kind": "click",
-   "target": "Download in Share panel",
-   "result": "Download pane opens",
-   "t_result_visible": 134.6,
-   "confidence": "low"
-  },
-  {
-   "id": "A8",
-   "t_click": 137.7,
-   "x": 1150,
-   "y": 700,
-   "kind": "click",
-   "target": "MP4 Video file type",
-   "result": "dropdown closes with MP4 chosen",
-   "t_result_visible": 138.0,
-   "confidence": "low"
-  },
-  {
-   "id": "A9",
-   "t_click": 140.3,
-   "x": 1400,
-   "y": 520,
-   "kind": "click",
-   "target": "Download button",
-   "result": "download starts (button greys out)",
-   "t_result_visible": 140.5,
-   "confidence": "medium"
-  }
+  {"id":"A1","t_click":32.4,"x":960,"y":600,"kind":"click","target":"Uploads in the Create menu","result":"Uploads page opens","t_result_visible":33.6,"confidence":"low"},
+  {"id":"A2","t_click":34.8,"x":960,"y":560,"kind":"click","target":"Upload files button","result":"file picker opens","t_result_visible":36.8,"confidence":"low"},
+  {"id":"A3","t_click":38.0,"x":960,"y":560,"kind":"click","target":"downloaded PNG in the picker","result":"image preview dialog opens","t_result_visible":38.6,"confidence":"low"},
+  {"id":"A4","t_click":70.8,"x":960,"y":250,"kind":"click","target":"Edit in the toolbar","result":"Edit image panel with Magic Layers","t_result_visible":74.0,"confidence":"medium"},
+  {"id":"A5","t_click":75.6,"x":960,"y":300,"kind":"click","target":"Magic Layers","result":"processing animation starts","t_result_visible":76.0,"confidence":"medium"},
+  {"id":"A6","t_click":76.0,"x":960,"y":540,"kind":"wait","target":"Magic Layers progress","result":"image split into editable layers","t_result_visible":89.4,"confidence":"high"},
+  {"id":"A7","t_click":92.5,"x":1100,"y":500,"kind":"click","target":"recovered text element","result":"text selected","t_result_visible":93.0,"confidence":"low"},
+  {"id":"A8","t_click":186.0,"x":600,"y":280,"kind":"click","target":"Edit in the toolbar (photo)","result":"Edit image panel","t_result_visible":187.9,"confidence":"medium"},
+  {"id":"A9","t_click":190.7,"x":700,"y":300,"kind":"click","target":"Magic Edit","result":"Magic Edit panel opens","t_result_visible":193.2,"confidence":"medium"}
  ],
  "junk": [
-  {
-   "start": 0,
-   "end": 10.35,
-   "reason": "idle cursor before the first click",
-   "ff": true
-  },
-  {
-   "start": 80.1,
-   "end": 88.9,
-   "reason": "idle, nothing happens",
-   "ff": true
-  },
-  {
-   "start": 141.7,
-   "end": 143.8,
-   "reason": "recorder stop",
-   "ff": false
-  }
+  {"start": 0.0, "end": 17.8, "reason": "idle Canva home page, cursor only", "ff": true},
+  {"start": 139.0, "end": 157.0, "reason": "idle editor after text edits", "ff": true},
+  {"start": 196.0, "end": 205.4, "reason": "typing the Magic Edit prompt", "ff": true}
  ]
 }

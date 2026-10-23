@@ -1,19 +1,21 @@
-This tutorial shows you how to remove a caption in Canva by identifying whether it is text,
-a generated subtitle, or a playback setting.
-First, click the caption you want to remove.
-If it behaves like a normal text box, select the text element and press Delete.
-Check the timeline selection before deleting so you remove the caption rather than the video underneath it.
-If it is a generated caption, open the captions panel.
-Find the specific line and use its delete icon.
-Preview that moment to confirm the unwanted line has disappeared.
-If the caption cannot be selected and only appears while media is playing, open File, then Accessibility.
-Turn off Show View Only Captions on Media.
-For an individual video, its More menu may also contain the View Only Caption Control.
-Here's the part many tutorials skip.
-Turning off View Only Captions changes the playback display.
-It does not delete text boxes or generated caption elements already placed in your design.
-Check the exact moment again after making the change.
-If you still see words, pause and determine whether there is another text element on top of the video.
-Captions already embedded in an uploaded video require the original footage without those words.
-They are not separate Canva elements.
-Once the intended caption is gone, download a new MP4 and check the saved video.
+This tutorial shows you how to bring a chat GPT-generated image into Canva and use magic layers to edit individual parts when the image is suitable.
+Save the generated image from chat GPT to your computer.
+Use the downloaded PNG or JPG so you retain the available image detail.
+Open a Canva design, select Uploads and upload the image.
+Add it to the page and keep a duplicate page containing the original so you can compare the result.
+Select the image, click Edit in the toolbar and choose Magic Layers.
+Wait while Canva processes the image and rebuilds it as separate design elements.
+Click a recovered text element to change its wording, font, size or colour.
+Select a graphic to move or resize it.
+Remove an unwanted element and replace it with your own image or a Canva graphic if needed.
+For a poster, try correcting the headline, moving the main illustration and adding your logo.
+Check the spacing again after each change. Here's the part many tutorials skip.
+Magic Layers reconstructs an editable design from the image.
+Inspect the spelling, object boundaries and background because complex details may separate imperfectly.
+Graphic layouts and illustrations generally work better than realistic photographs.
+If you want to replace an object in a photographic image, select the photo, open Edit and choose Magic Edit when available.
+Brush over the object, describe the replacement and generate a result.
+For example, ask for a blue shirt while keeping the surrounding scene consistent.
+If Magic Layers is unavailable, check your account's AI access and usage allowance.
+You can still crop the image and place your own text or graphics over it.
+Compare the edited page with the original, then choose Share and Download to export the finished design.
