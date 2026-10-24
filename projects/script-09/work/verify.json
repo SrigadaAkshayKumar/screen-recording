@@ -5,7 +5,7 @@
     {
       "name": "duration",
       "ok": true,
-      "detail": "91.667s vs voiceover 91.672s"
+      "detail": "98.824s vs voiceover 98.824s"
     },
     {
       "name": "streams",
@@ -20,13 +20,15 @@
     {
       "name": "frozen spans",
       "ok": true,
-      "detail": "0 freeze(s) over 3s, all planned holds/stills"
+      "detail": "3 freeze(s) over 3s, all planned holds/stills"
     },
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "34 boundaries clean"
+      "detail": "23 boundaries clean"
     }
   ],
-  "zoom_frames": []
+  "zoom_frames": [
+    "/home/runner/work/screen-recording/screen-recording/projects/script-09/output/checks/zoom_01_0025.400.jpg"
+  ]
 }
