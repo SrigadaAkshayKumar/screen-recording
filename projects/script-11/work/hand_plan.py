@@ -1,27 +1,38 @@
-"""Hand-built plan for script-11 (recording has baked-in recorder zoom: no zooms/ripples; 171 s of footage for
-96.27 s of voiceover; pieces follow the narration order, jumps are cross-faded)."""
+"""Hand-built plan for script-11 (portfolio website, 310 s recording, 94.23 s voiceover, no zooms: baked recorder zoom).
+Pieces come from freezedetect moving windows of the source; pieces follow the narration order, jumps cross-fade."""
 import json
 P = 'projects/script-11/work/'
-END = 96.27
+END = 94.23
 # (out_start, out_end, src_start, src_end)
 G = [
- (0, 5.66, 107.0, 112.66),        # L1 intro: custom font applied
- (5.66, 12.76, 7.9, 13.4),        # L2-3 download icon + download popup
- (12.76, 20.5, 19.2, 25.1),       # L4 zip extracted, folder in Explorer
- (20.5, 23.6, 25.1, 27.5),        # L5 Explorer closes, back in editor
- (23.6, 33.2, 35.4, 43.1),        # L6-7 text tab, font search, Brand click
- (33.2, 37.7, 43.1, 49.0),        # L7-8 Brand panel, brand kit picker
- (37.7, 41.03, 52.0, 57.0),       # L9 Fonts, Edit
- (41.03, 47.2, 62.8, 71.8),       # L9-10 Manage uploaded fonts, Choose files, file, Open, confirm
- (47.2, 49.92, 72.0, 77.0),       # L11 upload progress (wait, ~1.9x)
- (49.92, 51.8, 90.4, 92.4),       # L12 open design, select text box
- (51.8, 60.12, 96.3, 106.2),      # L13-14 font name, Uploaded fonts, select
- (60.12, 71.2, 106.2, 117.3),     # L15-17 check the letters
- (71.2, 78.44, 126.3, 134.4),     # L18-19 font list, regular / bold styles
- (78.44, 83.0, 144.6, 149.6),     # L20 font list scrolls
- (83.0, 86.94, 153.3, 156.3),     # L20 static font files
- (86.94, 92.52, 119.9, 124.6),    # L21 font search for the missing font
- (92.52, END, 163.8, 167.5),      # L22 brand kit fonts page, editor
+ (0, 4.7, 300.2, 304.9),        # L1 intro: finished site scrolling
+ (4.7, 8.0, 10.0, 14.8),        # L2 search popup, typing
+ (8.0, 10.6, 16.2, 19.8),       # L3 results, editor opens
+ (10.6, 12.8, 34.4, 38.4),      # L3-4 template applied
+ (12.8, 15.6, 40.2, 42.3),
+ (15.6, 17.7, 44.7, 46.3),      # L4 replace name
+ (17.7, 21.0, 46.3, 49.0),      # L5
+ (21.0, 23.6, 66.9, 69.5),      # L6 uploads panel
+ (23.6, 29.0, 69.5, 75.5),      # L7 images
+ (29.0, 34.3, 75.5, 83.0),      # L8 drag image
+ (34.3, 37.9, 88.3, 92.2),      # L9 add section
+ (37.9, 40.6, 92.2, 95.0),      # L10
+ (40.6, 42.8, 108.3, 110.8),    # L10 scroll
+ (42.8, 47.9, 144.0, 150.0),    # L11 contact button, link
+ (47.9, 50.9, 110.6, 116.4),    # L12 contact details
+ (50.9, 53.9, 154.0, 157.4),    # L13 publish website
+ (53.9, 55.5, 158.7, 160.3),    # L14 settings open
+ (55.5, 57.9, 165.0, 167.8),    # L14 settings zoomed
+ (57.9, 59.9, 196.2, 198.4),    # L14 toggles
+ (59.9, 65.9, 199.0, 207.0),    # L15 preview desktop/mobile
+ (65.9, 68.5, 215.8, 221.0),    # L16 publish panel
+ (68.5, 71.9, 233.3, 236.0),    # L16 address
+ (71.9, 74.6, 255.0, 257.7),    # L17 publishing
+ (74.6, 78.7, 257.7, 261.8),    # L18 live, new tab
+ (78.7, 83.9, 261.8, 267.8),    # L19 share link
+ (83.9, 86.5, 281.0, 284.8),    # L20 private window
+ (86.5, 89.0, 287.7, 290.2),    # L20 site loads
+ (89.0, END, 295.9, 301.1),     # L21 site scroll
 ]
 segs, prev = [], None
 for o0, o1, s0, s1 in G:

@@ -1,2059 +1,1888 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to upload a custom font into Canva and use it in your designs.",
+    "text": "This tutorial shows you how to build and publish a portfolio website in Canva.",
     "start": 0.0,
-    "end": 4.74,
+    "end": 4.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      17
+      13
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.24
+        "end": 0.22
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.24,
+        "start": 0.22,
         "end": 0.6
       },
       {
         "i": 2,
         "word": "shows",
         "start": 0.6,
-        "end": 1.04
+        "end": 1.0
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.04,
-        "end": 1.26
+        "start": 1.0,
+        "end": 1.18
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.26,
-        "end": 1.4
+        "start": 1.18,
+        "end": 1.3
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.4,
-        "end": 1.6
+        "start": 1.3,
+        "end": 1.48
       },
       {
         "i": 6,
-        "word": "upload",
-        "start": 1.6,
-        "end": 1.94
+        "word": "build",
+        "start": 1.48,
+        "end": 1.68
       },
       {
         "i": 7,
-        "word": "a",
-        "start": 1.94,
-        "end": 2.14
+        "word": "and",
+        "start": 1.68,
+        "end": 1.98
       },
       {
         "i": 8,
-        "word": "custom",
-        "start": 2.14,
-        "end": 2.44
+        "word": "publish",
+        "start": 1.98,
+        "end": 2.32
       },
       {
         "i": 9,
-        "word": "font",
-        "start": 2.44,
-        "end": 2.78
+        "word": "a",
+        "start": 2.32,
+        "end": 2.58
       },
       {
         "i": 10,
-        "word": "into",
-        "start": 2.78,
-        "end": 3.14
+        "word": "portfolio",
+        "start": 2.58,
+        "end": 3.06
       },
       {
         "i": 11,
-        "word": "Canva",
-        "start": 3.14,
-        "end": 3.54
+        "word": "website",
+        "start": 3.06,
+        "end": 3.62
       },
       {
         "i": 12,
-        "word": "and",
-        "start": 3.54,
-        "end": 3.78
-      },
-      {
-        "i": 13,
-        "word": "use",
-        "start": 3.78,
+        "word": "in",
+        "start": 3.62,
         "end": 3.98
       },
       {
-        "i": 14,
-        "word": "it",
+        "i": 13,
+        "word": "Canva.",
         "start": 3.98,
-        "end": 4.1
-      },
-      {
-        "i": 15,
-        "word": "in",
-        "start": 4.1,
-        "end": 4.22
-      },
-      {
-        "i": 16,
-        "word": "your",
-        "start": 4.22,
-        "end": 4.36
-      },
-      {
-        "i": 17,
-        "word": "designs.",
-        "start": 4.36,
-        "end": 4.74
+        "end": 4.38
       }
     ]
   },
   {
     "id": 2,
-    "text": "First, download the font file to your computer.",
-    "start": 5.66,
-    "end": 7.94,
+    "text": "From Canva's homepage, search for portfolio website.",
+    "start": 4.88,
+    "end": 7.74,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      18,
-      25
+      14,
+      20
     ],
     "words": [
       {
+        "i": 14,
+        "word": "From",
+        "start": 4.88,
+        "end": 5.1
+      },
+      {
+        "i": 15,
+        "word": "Canva's",
+        "start": 5.1,
+        "end": 5.58
+      },
+      {
+        "i": 16,
+        "word": "homepage,",
+        "start": 5.58,
+        "end": 5.92
+      },
+      {
+        "i": 17,
+        "word": "search",
+        "start": 6.26,
+        "end": 6.48
+      },
+      {
         "i": 18,
-        "word": "First,",
-        "start": 5.66,
-        "end": 5.88
+        "word": "for",
+        "start": 6.48,
+        "end": 6.76
       },
       {
         "i": 19,
-        "word": "download",
-        "start": 6.22,
-        "end": 6.58
+        "word": "portfolio",
+        "start": 6.76,
+        "end": 7.18
       },
       {
         "i": 20,
-        "word": "the",
-        "start": 6.58,
-        "end": 6.78
-      },
-      {
-        "i": 21,
-        "word": "font",
-        "start": 6.78,
-        "end": 6.98
-      },
-      {
-        "i": 22,
-        "word": "file",
-        "start": 6.98,
-        "end": 7.2
-      },
-      {
-        "i": 23,
-        "word": "to",
-        "start": 7.2,
-        "end": 7.38
-      },
-      {
-        "i": 24,
-        "word": "your",
-        "start": 7.38,
-        "end": 7.52
-      },
-      {
-        "i": 25,
-        "word": "computer.",
-        "start": 7.52,
-        "end": 7.94
+        "word": "website.",
+        "start": 7.18,
+        "end": 7.74
       }
     ]
   },
   {
     "id": 3,
-    "text": "Canva supports OTF, TTF and WOF files.",
-    "start": 8.76,
-    "end": 12.24,
+    "text": "Choose a website template and open it in the editor.",
+    "start": 8.36,
+    "end": 11.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      26,
-      32
+      21,
+      30
     ],
     "words": [
       {
+        "i": 21,
+        "word": "Choose",
+        "start": 8.36,
+        "end": 8.64
+      },
+      {
+        "i": 22,
+        "word": "a",
+        "start": 8.64,
+        "end": 8.82
+      },
+      {
+        "i": 23,
+        "word": "website",
+        "start": 8.82,
+        "end": 9.14
+      },
+      {
+        "i": 24,
+        "word": "template",
+        "start": 9.14,
+        "end": 9.54
+      },
+      {
+        "i": 25,
+        "word": "and",
+        "start": 9.54,
+        "end": 9.94
+      },
+      {
         "i": 26,
-        "word": "Canva",
-        "start": 8.76,
-        "end": 8.92
+        "word": "open",
+        "start": 9.94,
+        "end": 10.26
       },
       {
         "i": 27,
-        "word": "supports",
-        "start": 8.92,
-        "end": 9.26
+        "word": "it",
+        "start": 10.26,
+        "end": 10.46
       },
       {
         "i": 28,
-        "word": "OTF,",
-        "start": 9.26,
-        "end": 9.84
+        "word": "in",
+        "start": 10.46,
+        "end": 10.68
       },
       {
         "i": 29,
-        "word": "TTF",
-        "start": 10.38,
-        "end": 10.78
+        "word": "the",
+        "start": 10.68,
+        "end": 10.82
       },
       {
         "i": 30,
-        "word": "and",
-        "start": 10.78,
-        "end": 11.22
-      },
-      {
-        "i": 31,
-        "word": "WOF",
-        "start": 11.22,
-        "end": 11.78
-      },
-      {
-        "i": 32,
-        "word": "files.",
-        "start": 11.78,
-        "end": 12.24
+        "word": "editor.",
+        "start": 10.82,
+        "end": 11.16
       }
     ]
   },
   {
     "id": 4,
-    "text": "If the download is a zip archive, extract it so you can access the actual font files.",
-    "start": 12.76,
-    "end": 17.4,
+    "text": "Replace the sample introduction with your name, what you do, and the type of work you want people to hire you for.",
+    "start": 11.9,
+    "end": 17.44,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      33,
-      49
+      31,
+      52
     ],
     "words": [
       {
+        "i": 31,
+        "word": "Replace",
+        "start": 11.9,
+        "end": 12.1
+      },
+      {
+        "i": 32,
+        "word": "the",
+        "start": 12.1,
+        "end": 12.34
+      },
+      {
         "i": 33,
-        "word": "If",
-        "start": 12.76,
-        "end": 12.94
+        "word": "sample",
+        "start": 12.34,
+        "end": 12.6
       },
       {
         "i": 34,
-        "word": "the",
-        "start": 12.94,
-        "end": 13.06
+        "word": "introduction",
+        "start": 12.6,
+        "end": 13.12
       },
       {
         "i": 35,
-        "word": "download",
-        "start": 13.06,
-        "end": 13.36
+        "word": "with",
+        "start": 13.12,
+        "end": 13.38
       },
       {
         "i": 36,
-        "word": "is",
-        "start": 13.36,
-        "end": 13.52
+        "word": "your",
+        "start": 13.38,
+        "end": 13.54
       },
       {
         "i": 37,
-        "word": "a",
-        "start": 13.52,
-        "end": 13.68
+        "word": "name,",
+        "start": 13.54,
+        "end": 13.82
       },
       {
         "i": 38,
-        "word": "zip",
-        "start": 13.68,
-        "end": 13.78
+        "word": "what",
+        "start": 14.1,
+        "end": 14.3
       },
       {
         "i": 39,
-        "word": "archive,",
-        "start": 13.78,
-        "end": 14.24
+        "word": "you",
+        "start": 14.3,
+        "end": 14.48
       },
       {
         "i": 40,
-        "word": "extract",
-        "start": 14.64,
-        "end": 14.98
+        "word": "do,",
+        "start": 14.48,
+        "end": 14.72
       },
       {
         "i": 41,
-        "word": "it",
-        "start": 14.98,
-        "end": 15.26
+        "word": "and",
+        "start": 14.94,
+        "end": 15.18
       },
       {
         "i": 42,
-        "word": "so",
-        "start": 15.26,
-        "end": 15.4
+        "word": "the",
+        "start": 15.18,
+        "end": 15.28
       },
       {
         "i": 43,
-        "word": "you",
-        "start": 15.4,
-        "end": 15.52
+        "word": "type",
+        "start": 15.28,
+        "end": 15.46
       },
       {
         "i": 44,
-        "word": "can",
-        "start": 15.52,
-        "end": 15.64
+        "word": "of",
+        "start": 15.46,
+        "end": 15.62
       },
       {
         "i": 45,
-        "word": "access",
-        "start": 15.64,
-        "end": 16.04
+        "word": "work",
+        "start": 15.62,
+        "end": 15.82
       },
       {
         "i": 46,
-        "word": "the",
-        "start": 16.04,
-        "end": 16.24
+        "word": "you",
+        "start": 15.82,
+        "end": 16.0
       },
       {
         "i": 47,
-        "word": "actual",
-        "start": 16.24,
-        "end": 16.66
+        "word": "want",
+        "start": 16.0,
+        "end": 16.16
       },
       {
         "i": 48,
-        "word": "font",
-        "start": 16.66,
-        "end": 16.9
+        "word": "people",
+        "start": 16.16,
+        "end": 16.42
       },
       {
         "i": 49,
-        "word": "files.",
+        "word": "to",
+        "start": 16.42,
+        "end": 16.64
+      },
+      {
+        "i": 50,
+        "word": "hire",
+        "start": 16.64,
+        "end": 16.9
+      },
+      {
+        "i": 51,
+        "word": "you",
         "start": 16.9,
-        "end": 17.4
+        "end": 17.14
+      },
+      {
+        "i": 52,
+        "word": "for.",
+        "start": 17.14,
+        "end": 17.44
       }
     ]
   },
   {
     "id": 5,
-    "text": "Custom font uploads require an eligible Canva plan and permission to manage the brand kit's fonts.",
-    "start": 18.14,
-    "end": 23.1,
+    "text": "Keep the opening short so visitors can reach your projects quickly.",
+    "start": 17.98,
+    "end": 20.82,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      50,
-      65
+      53,
+      63
     ],
     "words": [
       {
-        "i": 50,
-        "word": "Custom",
-        "start": 18.14,
-        "end": 18.38
-      },
-      {
-        "i": 51,
-        "word": "font",
-        "start": 18.38,
-        "end": 18.6
-      },
-      {
-        "i": 52,
-        "word": "uploads",
-        "start": 18.6,
-        "end": 19.18
-      },
-      {
         "i": 53,
-        "word": "require",
-        "start": 19.18,
-        "end": 19.44
+        "word": "Keep",
+        "start": 17.98,
+        "end": 18.18
       },
       {
         "i": 54,
-        "word": "an",
-        "start": 19.44,
-        "end": 19.66
+        "word": "the",
+        "start": 18.18,
+        "end": 18.32
       },
       {
         "i": 55,
-        "word": "eligible",
-        "start": 19.66,
-        "end": 20.04
+        "word": "opening",
+        "start": 18.32,
+        "end": 18.56
       },
       {
         "i": 56,
-        "word": "Canva",
-        "start": 20.04,
-        "end": 20.48
+        "word": "short",
+        "start": 18.56,
+        "end": 18.9
       },
       {
         "i": 57,
-        "word": "plan",
-        "start": 20.48,
-        "end": 20.78
+        "word": "so",
+        "start": 18.9,
+        "end": 19.16
       },
       {
         "i": 58,
-        "word": "and",
-        "start": 20.78,
-        "end": 21.26
+        "word": "visitors",
+        "start": 19.16,
+        "end": 19.42
       },
       {
         "i": 59,
-        "word": "permission",
-        "start": 21.26,
-        "end": 21.56
+        "word": "can",
+        "start": 19.42,
+        "end": 19.68
       },
       {
         "i": 60,
-        "word": "to",
-        "start": 21.56,
-        "end": 21.84
+        "word": "reach",
+        "start": 19.68,
+        "end": 19.88
       },
       {
         "i": 61,
-        "word": "manage",
-        "start": 21.84,
-        "end": 22.1
+        "word": "your",
+        "start": 19.88,
+        "end": 20.06
       },
       {
         "i": 62,
-        "word": "the",
-        "start": 22.1,
-        "end": 22.32
+        "word": "projects",
+        "start": 20.06,
+        "end": 20.36
       },
       {
         "i": 63,
-        "word": "brand",
-        "start": 22.32,
-        "end": 22.52
-      },
-      {
-        "i": 64,
-        "word": "kit's",
-        "start": 22.52,
-        "end": 22.88
-      },
-      {
-        "i": 65,
-        "word": "fonts.",
-        "start": 22.88,
-        "end": 23.1
+        "word": "quickly.",
+        "start": 20.36,
+        "end": 20.82
       }
     ]
   },
   {
     "id": 6,
-    "text": "If you only want a font already included in Canva, select your text and search for it directly in the font menu.",
-    "start": 23.84,
-    "end": 29.6,
+    "text": "Upload a small selection of your best work.",
+    "start": 21.52,
+    "end": 23.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      66,
-      87
+      64,
+      71
     ],
     "words": [
       {
+        "i": 64,
+        "word": "Upload",
+        "start": 21.52,
+        "end": 21.72
+      },
+      {
+        "i": 65,
+        "word": "a",
+        "start": 21.72,
+        "end": 21.9
+      },
+      {
         "i": 66,
-        "word": "If",
-        "start": 23.84,
-        "end": 24.04
+        "word": "small",
+        "start": 21.9,
+        "end": 22.12
       },
       {
         "i": 67,
-        "word": "you",
-        "start": 24.04,
-        "end": 24.14
+        "word": "selection",
+        "start": 22.12,
+        "end": 22.46
       },
       {
         "i": 68,
-        "word": "only",
-        "start": 24.14,
-        "end": 24.42
+        "word": "of",
+        "start": 22.46,
+        "end": 22.66
       },
       {
         "i": 69,
-        "word": "want",
-        "start": 24.42,
-        "end": 24.62
+        "word": "your",
+        "start": 22.66,
+        "end": 22.8
       },
       {
         "i": 70,
-        "word": "a",
-        "start": 24.62,
-        "end": 24.76
+        "word": "best",
+        "start": 22.8,
+        "end": 23.0
       },
       {
         "i": 71,
-        "word": "font",
-        "start": 24.76,
-        "end": 24.98
-      },
-      {
-        "i": 72,
-        "word": "already",
-        "start": 24.98,
-        "end": 25.32
-      },
-      {
-        "i": 73,
-        "word": "included",
-        "start": 25.32,
-        "end": 25.74
-      },
-      {
-        "i": 74,
-        "word": "in",
-        "start": 25.74,
-        "end": 25.96
-      },
-      {
-        "i": 75,
-        "word": "Canva,",
-        "start": 25.96,
-        "end": 26.34
-      },
-      {
-        "i": 76,
-        "word": "select",
-        "start": 26.34,
-        "end": 26.9
-      },
-      {
-        "i": 77,
-        "word": "your",
-        "start": 26.9,
-        "end": 27.08
-      },
-      {
-        "i": 78,
-        "word": "text",
-        "start": 27.08,
-        "end": 27.36
-      },
-      {
-        "i": 79,
-        "word": "and",
-        "start": 27.36,
-        "end": 27.76
-      },
-      {
-        "i": 80,
-        "word": "search",
-        "start": 27.76,
-        "end": 28.02
-      },
-      {
-        "i": 81,
-        "word": "for",
-        "start": 28.02,
-        "end": 28.22
-      },
-      {
-        "i": 82,
-        "word": "it",
-        "start": 28.22,
-        "end": 28.34
-      },
-      {
-        "i": 83,
-        "word": "directly",
-        "start": 28.34,
-        "end": 28.58
-      },
-      {
-        "i": 84,
-        "word": "in",
-        "start": 28.58,
-        "end": 28.96
-      },
-      {
-        "i": 85,
-        "word": "the",
-        "start": 28.96,
-        "end": 29.1
-      },
-      {
-        "i": 86,
-        "word": "font",
-        "start": 29.1,
-        "end": 29.28
-      },
-      {
-        "i": 87,
-        "word": "menu.",
-        "start": 29.28,
-        "end": 29.6
+        "word": "work.",
+        "start": 23.0,
+        "end": 23.32
       }
     ]
   },
   {
     "id": 7,
-    "text": "To upload your own, return to Canva's homepage and select Brand.",
-    "start": 30.58,
-    "end": 33.74,
+    "text": "For each project, add a clear title, a short description, and the part you are responsible for.",
+    "start": 23.86,
+    "end": 28.82,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      88,
-      98
+      72,
+      88
     ],
     "words": [
       {
-        "i": 88,
-        "word": "To",
-        "start": 30.58,
-        "end": 30.66
+        "i": 72,
+        "word": "For",
+        "start": 23.86,
+        "end": 24.0
       },
       {
-        "i": 89,
-        "word": "upload",
-        "start": 30.66,
-        "end": 30.92
+        "i": 73,
+        "word": "each",
+        "start": 24.0,
+        "end": 24.14
       },
       {
-        "i": 90,
-        "word": "your",
-        "start": 30.92,
-        "end": 31.1
+        "i": 74,
+        "word": "project,",
+        "start": 24.14,
+        "end": 24.52
       },
       {
-        "i": 91,
-        "word": "own,",
-        "start": 31.1,
-        "end": 31.34
+        "i": 75,
+        "word": "add",
+        "start": 24.82,
+        "end": 25.02
       },
       {
-        "i": 92,
-        "word": "return",
-        "start": 31.48,
-        "end": 31.68
+        "i": 76,
+        "word": "a",
+        "start": 25.02,
+        "end": 25.12
       },
       {
-        "i": 93,
-        "word": "to",
-        "start": 31.68,
-        "end": 31.88
+        "i": 77,
+        "word": "clear",
+        "start": 25.12,
+        "end": 25.3
       },
       {
-        "i": 94,
-        "word": "Canva's",
-        "start": 31.88,
-        "end": 32.28
+        "i": 78,
+        "word": "title,",
+        "start": 25.3,
+        "end": 25.68
       },
       {
-        "i": 95,
-        "word": "homepage",
-        "start": 32.28,
-        "end": 32.64
+        "i": 79,
+        "word": "a",
+        "start": 26.0,
+        "end": 26.14
       },
       {
-        "i": 96,
+        "i": 80,
+        "word": "short",
+        "start": 26.14,
+        "end": 26.34
+      },
+      {
+        "i": 81,
+        "word": "description,",
+        "start": 26.34,
+        "end": 26.72
+      },
+      {
+        "i": 82,
         "word": "and",
-        "start": 32.64,
-        "end": 33.04
+        "start": 27.1,
+        "end": 27.36
       },
       {
-        "i": 97,
-        "word": "select",
-        "start": 33.04,
-        "end": 33.36
+        "i": 83,
+        "word": "the",
+        "start": 27.36,
+        "end": 27.46
       },
       {
-        "i": 98,
-        "word": "Brand.",
-        "start": 33.36,
-        "end": 33.74
+        "i": 84,
+        "word": "part",
+        "start": 27.46,
+        "end": 27.66
+      },
+      {
+        "i": 85,
+        "word": "you",
+        "start": 27.66,
+        "end": 27.8
+      },
+      {
+        "i": 86,
+        "word": "are",
+        "start": 27.8,
+        "end": 27.92
+      },
+      {
+        "i": 87,
+        "word": "responsible",
+        "start": 27.92,
+        "end": 28.28
+      },
+      {
+        "i": 88,
+        "word": "for.",
+        "start": 28.28,
+        "end": 28.82
       }
     ]
   },
   {
     "id": 8,
-    "text": "Choose the correct brand kit if your account has more than one.",
-    "start": 34.38,
-    "end": 37.24,
+    "text": "Show enough detail to explain the result without filling the page with unrelated examples.",
+    "start": 29.44,
+    "end": 33.8,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      99,
-      110
+      89,
+      102
     ],
     "words": [
       {
+        "i": 89,
+        "word": "Show",
+        "start": 29.44,
+        "end": 29.72
+      },
+      {
+        "i": 90,
+        "word": "enough",
+        "start": 29.72,
+        "end": 29.94
+      },
+      {
+        "i": 91,
+        "word": "detail",
+        "start": 29.94,
+        "end": 30.28
+      },
+      {
+        "i": 92,
+        "word": "to",
+        "start": 30.28,
+        "end": 30.5
+      },
+      {
+        "i": 93,
+        "word": "explain",
+        "start": 30.5,
+        "end": 30.92
+      },
+      {
+        "i": 94,
+        "word": "the",
+        "start": 30.92,
+        "end": 31.08
+      },
+      {
+        "i": 95,
+        "word": "result",
+        "start": 31.08,
+        "end": 31.36
+      },
+      {
+        "i": 96,
+        "word": "without",
+        "start": 31.36,
+        "end": 31.68
+      },
+      {
+        "i": 97,
+        "word": "filling",
+        "start": 31.68,
+        "end": 31.96
+      },
+      {
+        "i": 98,
+        "word": "the",
+        "start": 31.96,
+        "end": 32.16
+      },
+      {
         "i": 99,
-        "word": "Choose",
-        "start": 34.38,
-        "end": 34.66
+        "word": "page",
+        "start": 32.16,
+        "end": 32.4
       },
       {
         "i": 100,
-        "word": "the",
-        "start": 34.66,
-        "end": 34.88
+        "word": "with",
+        "start": 32.4,
+        "end": 32.64
       },
       {
         "i": 101,
-        "word": "correct",
-        "start": 34.88,
-        "end": 35.12
+        "word": "unrelated",
+        "start": 32.64,
+        "end": 33.1
       },
       {
         "i": 102,
-        "word": "brand",
-        "start": 35.12,
-        "end": 35.46
-      },
-      {
-        "i": 103,
-        "word": "kit",
-        "start": 35.46,
-        "end": 35.7
-      },
-      {
-        "i": 104,
-        "word": "if",
-        "start": 35.7,
-        "end": 35.96
-      },
-      {
-        "i": 105,
-        "word": "your",
-        "start": 35.96,
-        "end": 36.1
-      },
-      {
-        "i": 106,
-        "word": "account",
-        "start": 36.1,
-        "end": 36.38
-      },
-      {
-        "i": 107,
-        "word": "has",
-        "start": 36.38,
-        "end": 36.64
-      },
-      {
-        "i": 108,
-        "word": "more",
-        "start": 36.64,
-        "end": 36.84
-      },
-      {
-        "i": 109,
-        "word": "than",
-        "start": 36.84,
-        "end": 36.98
-      },
-      {
-        "i": 110,
-        "word": "one.",
-        "start": 36.98,
-        "end": 37.24
+        "word": "examples.",
+        "start": 33.1,
+        "end": 33.8
       }
     ]
   },
   {
     "id": 9,
-    "text": "Go to Fonts, open the Add control and choose Upload a font.",
-    "start": 37.88,
-    "end": 41.54,
+    "text": "Use Add section to place more content on the same page.",
+    "start": 34.6,
+    "end": 37.48,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      111,
-      122
+      103,
+      113
     ],
     "words": [
       {
+        "i": 103,
+        "word": "Use",
+        "start": 34.6,
+        "end": 34.74
+      },
+      {
+        "i": 104,
+        "word": "Add",
+        "start": 34.74,
+        "end": 35.02
+      },
+      {
+        "i": 105,
+        "word": "section",
+        "start": 35.02,
+        "end": 35.26
+      },
+      {
+        "i": 106,
+        "word": "to",
+        "start": 35.26,
+        "end": 35.64
+      },
+      {
+        "i": 107,
+        "word": "place",
+        "start": 35.64,
+        "end": 35.82
+      },
+      {
+        "i": 108,
+        "word": "more",
+        "start": 35.82,
+        "end": 36.12
+      },
+      {
+        "i": 109,
+        "word": "content",
+        "start": 36.12,
+        "end": 36.48
+      },
+      {
+        "i": 110,
+        "word": "on",
+        "start": 36.48,
+        "end": 36.72
+      },
+      {
         "i": 111,
-        "word": "Go",
-        "start": 37.88,
-        "end": 38.02
+        "word": "the",
+        "start": 36.72,
+        "end": 36.84
       },
       {
         "i": 112,
-        "word": "to",
-        "start": 38.02,
-        "end": 38.2
+        "word": "same",
+        "start": 36.84,
+        "end": 37.06
       },
       {
         "i": 113,
-        "word": "Fonts,",
-        "start": 38.2,
-        "end": 38.62
-      },
-      {
-        "i": 114,
-        "word": "open",
-        "start": 38.92,
-        "end": 39.18
-      },
-      {
-        "i": 115,
-        "word": "the",
-        "start": 39.18,
-        "end": 39.32
-      },
-      {
-        "i": 116,
-        "word": "Add",
-        "start": 39.32,
-        "end": 39.54
-      },
-      {
-        "i": 117,
-        "word": "control",
-        "start": 39.54,
-        "end": 39.88
-      },
-      {
-        "i": 118,
-        "word": "and",
-        "start": 39.88,
-        "end": 40.48
-      },
-      {
-        "i": 119,
-        "word": "choose",
-        "start": 40.48,
-        "end": 40.8
-      },
-      {
-        "i": 120,
-        "word": "Upload",
-        "start": 40.8,
-        "end": 41.14
-      },
-      {
-        "i": 121,
-        "word": "a",
-        "start": 41.14,
-        "end": 41.34
-      },
-      {
-        "i": 122,
-        "word": "font.",
-        "start": 41.34,
-        "end": 41.54
+        "word": "page.",
+        "start": 37.06,
+        "end": 37.48
       }
     ]
   },
   {
     "id": 10,
-    "text": "Select the font file, click Open and confirm that you have the rights needed to upload and use it.",
-    "start": 42.24,
-    "end": 47.5,
+    "text": "If you want separate work, about, or contact pages, use Add page instead.",
+    "start": 38.1,
+    "end": 42.52,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      123,
-      141
+      114,
+      126
     ],
     "words": [
       {
+        "i": 114,
+        "word": "If",
+        "start": 38.1,
+        "end": 38.22
+      },
+      {
+        "i": 115,
+        "word": "you",
+        "start": 38.22,
+        "end": 38.34
+      },
+      {
+        "i": 116,
+        "word": "want",
+        "start": 38.34,
+        "end": 38.48
+      },
+      {
+        "i": 117,
+        "word": "separate",
+        "start": 38.48,
+        "end": 38.82
+      },
+      {
+        "i": 118,
+        "word": "work,",
+        "start": 38.82,
+        "end": 39.18
+      },
+      {
+        "i": 119,
+        "word": "about,",
+        "start": 39.32,
+        "end": 39.56
+      },
+      {
+        "i": 120,
+        "word": "or",
+        "start": 39.82,
+        "end": 39.94
+      },
+      {
+        "i": 121,
+        "word": "contact",
+        "start": 39.94,
+        "end": 40.28
+      },
+      {
+        "i": 122,
+        "word": "pages,",
+        "start": 40.28,
+        "end": 40.78
+      },
+      {
         "i": 123,
-        "word": "Select",
-        "start": 42.24,
-        "end": 42.52
+        "word": "use",
+        "start": 41.3,
+        "end": 41.42
       },
       {
         "i": 124,
-        "word": "the",
-        "start": 42.52,
-        "end": 42.7
+        "word": "Add",
+        "start": 41.42,
+        "end": 41.74
       },
       {
         "i": 125,
-        "word": "font",
-        "start": 42.7,
-        "end": 42.86
+        "word": "page",
+        "start": 41.74,
+        "end": 41.98
       },
       {
         "i": 126,
-        "word": "file,",
-        "start": 42.86,
-        "end": 43.2
-      },
-      {
-        "i": 127,
-        "word": "click",
-        "start": 43.42,
-        "end": 43.64
-      },
-      {
-        "i": 128,
-        "word": "Open",
-        "start": 43.64,
-        "end": 43.98
-      },
-      {
-        "i": 129,
-        "word": "and",
-        "start": 43.98,
-        "end": 44.46
-      },
-      {
-        "i": 130,
-        "word": "confirm",
-        "start": 44.46,
-        "end": 44.84
-      },
-      {
-        "i": 131,
-        "word": "that",
-        "start": 44.84,
-        "end": 45.06
-      },
-      {
-        "i": 132,
-        "word": "you",
-        "start": 45.06,
-        "end": 45.18
-      },
-      {
-        "i": 133,
-        "word": "have",
-        "start": 45.18,
-        "end": 45.32
-      },
-      {
-        "i": 134,
-        "word": "the",
-        "start": 45.32,
-        "end": 45.46
-      },
-      {
-        "i": 135,
-        "word": "rights",
-        "start": 45.46,
-        "end": 45.68
-      },
-      {
-        "i": 136,
-        "word": "needed",
-        "start": 45.68,
-        "end": 45.98
-      },
-      {
-        "i": 137,
-        "word": "to",
-        "start": 45.98,
-        "end": 46.22
-      },
-      {
-        "i": 138,
-        "word": "upload",
-        "start": 46.22,
-        "end": 46.52
-      },
-      {
-        "i": 139,
-        "word": "and",
-        "start": 46.52,
-        "end": 46.88
-      },
-      {
-        "i": 140,
-        "word": "use",
-        "start": 46.88,
-        "end": 47.1
-      },
-      {
-        "i": 141,
-        "word": "it.",
-        "start": 47.1,
-        "end": 47.5
+        "word": "instead.",
+        "start": 41.98,
+        "end": 42.52
       }
     ]
   },
   {
     "id": 11,
-    "text": "Wait for the upload to finish.",
-    "start": 48.02,
-    "end": 49.28,
+    "text": "Add a contact button and use Link to connect it to your contact page or another destination.",
+    "start": 43.38,
+    "end": 47.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      142,
-      147
+      127,
+      143
     ],
     "words": [
       {
+        "i": 127,
+        "word": "Add",
+        "start": 43.38,
+        "end": 43.52
+      },
+      {
+        "i": 128,
+        "word": "a",
+        "start": 43.52,
+        "end": 43.64
+      },
+      {
+        "i": 129,
+        "word": "contact",
+        "start": 43.64,
+        "end": 43.92
+      },
+      {
+        "i": 130,
+        "word": "button",
+        "start": 43.92,
+        "end": 44.24
+      },
+      {
+        "i": 131,
+        "word": "and",
+        "start": 44.24,
+        "end": 44.66
+      },
+      {
+        "i": 132,
+        "word": "use",
+        "start": 44.66,
+        "end": 44.9
+      },
+      {
+        "i": 133,
+        "word": "Link",
+        "start": 44.9,
+        "end": 45.14
+      },
+      {
+        "i": 134,
+        "word": "to",
+        "start": 45.14,
+        "end": 45.36
+      },
+      {
+        "i": 135,
+        "word": "connect",
+        "start": 45.36,
+        "end": 45.58
+      },
+      {
+        "i": 136,
+        "word": "it",
+        "start": 45.58,
+        "end": 45.74
+      },
+      {
+        "i": 137,
+        "word": "to",
+        "start": 45.74,
+        "end": 45.84
+      },
+      {
+        "i": 138,
+        "word": "your",
+        "start": 45.84,
+        "end": 45.96
+      },
+      {
+        "i": 139,
+        "word": "contact",
+        "start": 45.96,
+        "end": 46.24
+      },
+      {
+        "i": 140,
+        "word": "page",
+        "start": 46.24,
+        "end": 46.64
+      },
+      {
+        "i": 141,
+        "word": "or",
+        "start": 46.64,
+        "end": 46.88
+      },
+      {
         "i": 142,
-        "word": "Wait",
-        "start": 48.02,
-        "end": 48.18
+        "word": "another",
+        "start": 46.88,
+        "end": 47.16
       },
       {
         "i": 143,
-        "word": "for",
-        "start": 48.18,
-        "end": 48.32
-      },
-      {
-        "i": 144,
-        "word": "the",
-        "start": 48.32,
-        "end": 48.42
-      },
-      {
-        "i": 145,
-        "word": "upload",
-        "start": 48.42,
-        "end": 48.76
-      },
-      {
-        "i": 146,
-        "word": "to",
-        "start": 48.76,
-        "end": 49.0
-      },
-      {
-        "i": 147,
-        "word": "finish.",
-        "start": 49.0,
-        "end": 49.28
+        "word": "destination.",
+        "start": 47.16,
+        "end": 47.64
       }
     ]
   },
   {
     "id": 12,
-    "text": "Open a design and select a text box.",
-    "start": 49.92,
-    "end": 51.78,
+    "text": "Keep your contact details easy to find.",
+    "start": 48.46,
+    "end": 50.52,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      148,
-      155
+      144,
+      150
     ],
     "words": [
       {
+        "i": 144,
+        "word": "Keep",
+        "start": 48.46,
+        "end": 48.58
+      },
+      {
+        "i": 145,
+        "word": "your",
+        "start": 48.58,
+        "end": 48.72
+      },
+      {
+        "i": 146,
+        "word": "contact",
+        "start": 48.72,
+        "end": 49.02
+      },
+      {
+        "i": 147,
+        "word": "details",
+        "start": 49.02,
+        "end": 49.52
+      },
+      {
         "i": 148,
-        "word": "Open",
-        "start": 49.92,
-        "end": 50.12
+        "word": "easy",
+        "start": 49.52,
+        "end": 49.92
       },
       {
         "i": 149,
-        "word": "a",
-        "start": 50.12,
-        "end": 50.26
+        "word": "to",
+        "start": 49.92,
+        "end": 50.18
       },
       {
         "i": 150,
-        "word": "design",
-        "start": 50.26,
-        "end": 50.56
-      },
-      {
-        "i": 151,
-        "word": "and",
-        "start": 50.56,
-        "end": 50.8
-      },
-      {
-        "i": 152,
-        "word": "select",
-        "start": 50.8,
-        "end": 51.06
-      },
-      {
-        "i": 153,
-        "word": "a",
-        "start": 51.06,
-        "end": 51.24
-      },
-      {
-        "i": 154,
-        "word": "text",
-        "start": 51.24,
-        "end": 51.46
-      },
-      {
-        "i": 155,
-        "word": "box.",
-        "start": 51.46,
-        "end": 51.78
+        "word": "find.",
+        "start": 50.18,
+        "end": 50.52
       }
     ]
   },
   {
     "id": 13,
-    "text": "Click the font name in the toolbar, then find the font under Uploaded fonts or search for its name.",
-    "start": 51.78,
-    "end": 57.5,
+    "text": "Open Publish website and review settings.",
+    "start": 51.34,
+    "end": 53.28,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      156,
-      174
+      151,
+      156
     ],
     "words": [
       {
+        "i": 151,
+        "word": "Open",
+        "start": 51.34,
+        "end": 51.5
+      },
+      {
+        "i": 152,
+        "word": "Publish",
+        "start": 51.5,
+        "end": 51.82
+      },
+      {
+        "i": 153,
+        "word": "website",
+        "start": 51.82,
+        "end": 52.2
+      },
+      {
+        "i": 154,
+        "word": "and",
+        "start": 52.2,
+        "end": 52.52
+      },
+      {
+        "i": 155,
+        "word": "review",
+        "start": 52.52,
+        "end": 52.8
+      },
+      {
         "i": 156,
-        "word": "Click",
-        "start": 51.78,
-        "end": 52.6
-      },
-      {
-        "i": 157,
-        "word": "the",
-        "start": 52.6,
-        "end": 52.78
-      },
-      {
-        "i": 158,
-        "word": "font",
-        "start": 52.78,
-        "end": 52.96
-      },
-      {
-        "i": 159,
-        "word": "name",
-        "start": 52.96,
-        "end": 53.16
-      },
-      {
-        "i": 160,
-        "word": "in",
-        "start": 53.16,
-        "end": 53.3
-      },
-      {
-        "i": 161,
-        "word": "the",
-        "start": 53.3,
-        "end": 53.42
-      },
-      {
-        "i": 162,
-        "word": "toolbar,",
-        "start": 53.42,
-        "end": 53.78
-      },
-      {
-        "i": 163,
-        "word": "then",
-        "start": 54.24,
-        "end": 54.34
-      },
-      {
-        "i": 164,
-        "word": "find",
-        "start": 54.34,
-        "end": 54.54
-      },
-      {
-        "i": 165,
-        "word": "the",
-        "start": 54.54,
-        "end": 54.7
-      },
-      {
-        "i": 166,
-        "word": "font",
-        "start": 54.7,
-        "end": 54.92
-      },
-      {
-        "i": 167,
-        "word": "under",
-        "start": 54.92,
-        "end": 55.2
-      },
-      {
-        "i": 168,
-        "word": "Uploaded",
-        "start": 55.2,
-        "end": 55.8
-      },
-      {
-        "i": 169,
-        "word": "fonts",
-        "start": 55.8,
-        "end": 55.96
-      },
-      {
-        "i": 170,
-        "word": "or",
-        "start": 55.96,
-        "end": 56.48
-      },
-      {
-        "i": 171,
-        "word": "search",
-        "start": 56.48,
-        "end": 56.8
-      },
-      {
-        "i": 172,
-        "word": "for",
-        "start": 56.8,
-        "end": 57.02
-      },
-      {
-        "i": 173,
-        "word": "its",
-        "start": 57.02,
-        "end": 57.16
-      },
-      {
-        "i": 174,
-        "word": "name.",
-        "start": 57.16,
-        "end": 57.5
+        "word": "settings.",
+        "start": 52.8,
+        "end": 53.28
       }
     ]
   },
   {
     "id": 14,
-    "text": "Select it to apply it to the text.",
-    "start": 58.16,
-    "end": 59.62,
+    "text": "Enable navigation menu when visitors need to move between pages and turn on Resize on mobile.",
+    "start": 54.24,
+    "end": 59.46,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      175,
-      182
+      157,
+      172
     ],
     "words": [
       {
-        "i": 175,
-        "word": "Select",
-        "start": 58.16,
-        "end": 58.4
+        "i": 157,
+        "word": "Enable",
+        "start": 54.24,
+        "end": 54.42
       },
       {
-        "i": 176,
-        "word": "it",
-        "start": 58.4,
-        "end": 58.6
+        "i": 158,
+        "word": "navigation",
+        "start": 54.42,
+        "end": 54.86
       },
       {
-        "i": 177,
+        "i": 159,
+        "word": "menu",
+        "start": 54.86,
+        "end": 55.26
+      },
+      {
+        "i": 160,
+        "word": "when",
+        "start": 55.26,
+        "end": 55.62
+      },
+      {
+        "i": 161,
+        "word": "visitors",
+        "start": 55.62,
+        "end": 55.86
+      },
+      {
+        "i": 162,
+        "word": "need",
+        "start": 55.86,
+        "end": 56.14
+      },
+      {
+        "i": 163,
         "word": "to",
-        "start": 58.6,
-        "end": 58.72
+        "start": 56.14,
+        "end": 56.3
       },
       {
-        "i": 178,
-        "word": "apply",
-        "start": 58.72,
-        "end": 58.94
+        "i": 164,
+        "word": "move",
+        "start": 56.3,
+        "end": 56.48
       },
       {
-        "i": 179,
-        "word": "it",
-        "start": 58.94,
+        "i": 165,
+        "word": "between",
+        "start": 56.48,
+        "end": 56.78
+      },
+      {
+        "i": 166,
+        "word": "pages",
+        "start": 56.78,
+        "end": 57.22
+      },
+      {
+        "i": 167,
+        "word": "and",
+        "start": 57.22,
+        "end": 57.84
+      },
+      {
+        "i": 168,
+        "word": "turn",
+        "start": 57.84,
+        "end": 58.08
+      },
+      {
+        "i": 169,
+        "word": "on",
+        "start": 58.08,
+        "end": 58.3
+      },
+      {
+        "i": 170,
+        "word": "Resize",
+        "start": 58.3,
+        "end": 58.74
+      },
+      {
+        "i": 171,
+        "word": "on",
+        "start": 58.74,
         "end": 59.08
       },
       {
-        "i": 180,
-        "word": "to",
+        "i": 172,
+        "word": "mobile.",
         "start": 59.08,
-        "end": 59.18
-      },
-      {
-        "i": 181,
-        "word": "the",
-        "start": 59.18,
-        "end": 59.28
-      },
-      {
-        "i": 182,
-        "word": "text.",
-        "start": 59.28,
-        "end": 59.62
+        "end": 59.46
       }
     ]
   },
   {
     "id": 15,
-    "text": "Check the letters, numbers and punctuation you will actually use.",
-    "start": 60.12,
-    "end": 63.76,
+    "text": "Preview the site on desktop and mobile, checking text size, image placement, and buttons.",
+    "start": 60.32,
+    "end": 65.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      183,
-      192
+      173,
+      186
     ],
     "words": [
       {
+        "i": 173,
+        "word": "Preview",
+        "start": 60.32,
+        "end": 60.4
+      },
+      {
+        "i": 174,
+        "word": "the",
+        "start": 60.4,
+        "end": 60.62
+      },
+      {
+        "i": 175,
+        "word": "site",
+        "start": 60.62,
+        "end": 60.82
+      },
+      {
+        "i": 176,
+        "word": "on",
+        "start": 60.82,
+        "end": 61.08
+      },
+      {
+        "i": 177,
+        "word": "desktop",
+        "start": 61.08,
+        "end": 61.36
+      },
+      {
+        "i": 178,
+        "word": "and",
+        "start": 61.36,
+        "end": 61.78
+      },
+      {
+        "i": 179,
+        "word": "mobile,",
+        "start": 61.78,
+        "end": 62.2
+      },
+      {
+        "i": 180,
+        "word": "checking",
+        "start": 62.64,
+        "end": 62.92
+      },
+      {
+        "i": 181,
+        "word": "text",
+        "start": 62.92,
+        "end": 63.14
+      },
+      {
+        "i": 182,
+        "word": "size,",
+        "start": 63.14,
+        "end": 63.56
+      },
+      {
         "i": 183,
-        "word": "Check",
-        "start": 60.12,
-        "end": 60.32
+        "word": "image",
+        "start": 63.9,
+        "end": 64.06
       },
       {
         "i": 184,
-        "word": "the",
-        "start": 60.32,
-        "end": 60.48
+        "word": "placement,",
+        "start": 64.06,
+        "end": 64.5
       },
       {
         "i": 185,
-        "word": "letters,",
-        "start": 60.48,
-        "end": 60.76
+        "word": "and",
+        "start": 64.86,
+        "end": 64.96
       },
       {
         "i": 186,
-        "word": "numbers",
-        "start": 61.34,
-        "end": 61.52
-      },
-      {
-        "i": 187,
-        "word": "and",
-        "start": 61.52,
-        "end": 61.98
-      },
-      {
-        "i": 188,
-        "word": "punctuation",
-        "start": 61.98,
-        "end": 62.64
-      },
-      {
-        "i": 189,
-        "word": "you",
-        "start": 62.64,
-        "end": 62.84
-      },
-      {
-        "i": 190,
-        "word": "will",
-        "start": 62.84,
-        "end": 62.94
-      },
-      {
-        "i": 191,
-        "word": "actually",
-        "start": 62.94,
-        "end": 63.32
-      },
-      {
-        "i": 192,
-        "word": "use.",
-        "start": 63.32,
-        "end": 63.76
+        "word": "buttons.",
+        "start": 64.96,
+        "end": 65.38
       }
     ]
   },
   {
     "id": 16,
-    "text": "A font may not include every language or special character your project needs.",
-    "start": 64.3,
-    "end": 67.5,
+    "text": "Choose a free Canva site address, customize the available address or sub-path, and publish.",
+    "start": 66.08,
+    "end": 71.22,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      193,
-      205
+      187,
+      201
     ],
     "words": [
       {
-        "i": 193,
-        "word": "A",
-        "start": 64.3,
-        "end": 64.44
+        "i": 187,
+        "word": "Choose",
+        "start": 66.08,
+        "end": 66.24
       },
       {
-        "i": 194,
-        "word": "font",
-        "start": 64.44,
-        "end": 64.62
+        "i": 188,
+        "word": "a",
+        "start": 66.24,
+        "end": 66.4
       },
       {
-        "i": 195,
-        "word": "may",
-        "start": 64.62,
-        "end": 64.78
-      },
-      {
-        "i": 196,
-        "word": "not",
-        "start": 64.78,
-        "end": 64.92
-      },
-      {
-        "i": 197,
-        "word": "include",
-        "start": 64.92,
-        "end": 65.2
-      },
-      {
-        "i": 198,
-        "word": "every",
-        "start": 65.2,
-        "end": 65.44
-      },
-      {
-        "i": 199,
-        "word": "language",
-        "start": 65.44,
-        "end": 65.68
-      },
-      {
-        "i": 200,
-        "word": "or",
-        "start": 65.68,
-        "end": 65.92
-      },
-      {
-        "i": 201,
-        "word": "special",
-        "start": 65.92,
-        "end": 66.22
-      },
-      {
-        "i": 202,
-        "word": "character",
-        "start": 66.22,
+        "i": 189,
+        "word": "free",
+        "start": 66.4,
         "end": 66.64
       },
       {
-        "i": 203,
-        "word": "your",
+        "i": 190,
+        "word": "Canva",
         "start": 66.64,
-        "end": 66.84
+        "end": 66.96
       },
       {
-        "i": 204,
-        "word": "project",
-        "start": 66.84,
-        "end": 67.1
+        "i": 191,
+        "word": "site",
+        "start": 66.96,
+        "end": 67.16
       },
       {
-        "i": 205,
-        "word": "needs.",
-        "start": 67.1,
-        "end": 67.5
+        "i": 192,
+        "word": "address,",
+        "start": 67.16,
+        "end": 67.58
+      },
+      {
+        "i": 193,
+        "word": "customize",
+        "start": 68.1,
+        "end": 68.36
+      },
+      {
+        "i": 194,
+        "word": "the",
+        "start": 68.36,
+        "end": 68.62
+      },
+      {
+        "i": 195,
+        "word": "available",
+        "start": 68.62,
+        "end": 68.94
+      },
+      {
+        "i": 196,
+        "word": "address",
+        "start": 68.94,
+        "end": 69.4
+      },
+      {
+        "i": 197,
+        "word": "or",
+        "start": 69.4,
+        "end": 69.8
+      },
+      {
+        "i": 198,
+        "word": "sub",
+        "start": 69.8,
+        "end": 70.04
+      },
+      {
+        "i": 199,
+        "word": "-path,",
+        "start": 70.04,
+        "end": 70.3
+      },
+      {
+        "i": 200,
+        "word": "and",
+        "start": 70.7,
+        "end": 70.92
+      },
+      {
+        "i": 201,
+        "word": "publish.",
+        "start": 70.92,
+        "end": 71.22
       }
     ]
   },
   {
     "id": 17,
     "text": "Here's the part many tutorials skip.",
-    "start": 68.5,
-    "end": 70.24,
+    "start": 72.32,
+    "end": 74.28,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      206,
-      211
+      202,
+      207
     ],
     "words": [
       {
-        "i": 206,
+        "i": 202,
         "word": "Here's",
-        "start": 68.5,
-        "end": 68.68
+        "start": 72.32,
+        "end": 72.58
+      },
+      {
+        "i": 203,
+        "word": "the",
+        "start": 72.58,
+        "end": 72.7
+      },
+      {
+        "i": 204,
+        "word": "part",
+        "start": 72.7,
+        "end": 72.88
+      },
+      {
+        "i": 205,
+        "word": "many",
+        "start": 72.88,
+        "end": 73.26
+      },
+      {
+        "i": 206,
+        "word": "tutorials",
+        "start": 73.26,
+        "end": 73.9
       },
       {
         "i": 207,
-        "word": "the",
-        "start": 68.68,
-        "end": 68.78
-      },
-      {
-        "i": 208,
-        "word": "part",
-        "start": 68.78,
-        "end": 68.98
-      },
-      {
-        "i": 209,
-        "word": "many",
-        "start": 68.98,
-        "end": 69.26
-      },
-      {
-        "i": 210,
-        "word": "tutorials",
-        "start": 69.26,
-        "end": 69.78
-      },
-      {
-        "i": 211,
         "word": "skip.",
-        "start": 69.78,
-        "end": 70.24
+        "start": 73.9,
+        "end": 74.28
       }
     ]
   },
   {
     "id": 18,
-    "text": "Regular, bold and italic can require separate font files.",
-    "start": 71.2,
-    "end": 74.34,
+    "text": "The Design's Editor link is different from the published website address.",
+    "start": 74.96,
+    "end": 78.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      212,
-      220
+      208,
+      218
     ],
     "words": [
       {
+        "i": 208,
+        "word": "The",
+        "start": 74.96,
+        "end": 75.08
+      },
+      {
+        "i": 209,
+        "word": "Design's",
+        "start": 75.08,
+        "end": 75.6
+      },
+      {
+        "i": 210,
+        "word": "Editor",
+        "start": 75.6,
+        "end": 75.84
+      },
+      {
+        "i": 211,
+        "word": "link",
+        "start": 75.84,
+        "end": 76.08
+      },
+      {
         "i": 212,
-        "word": "Regular,",
-        "start": 71.2,
-        "end": 71.2
+        "word": "is",
+        "start": 76.08,
+        "end": 76.34
       },
       {
         "i": 213,
-        "word": "bold",
-        "start": 71.72,
-        "end": 71.78
+        "word": "different",
+        "start": 76.34,
+        "end": 76.6
       },
       {
         "i": 214,
-        "word": "and",
-        "start": 71.78,
-        "end": 72.06
+        "word": "from",
+        "start": 76.6,
+        "end": 76.86
       },
       {
         "i": 215,
-        "word": "italic",
-        "start": 72.06,
-        "end": 72.56
+        "word": "the",
+        "start": 76.86,
+        "end": 77.02
       },
       {
         "i": 216,
-        "word": "can",
-        "start": 72.56,
-        "end": 72.74
+        "word": "published",
+        "start": 77.02,
+        "end": 77.32
       },
       {
         "i": 217,
-        "word": "require",
-        "start": 72.74,
-        "end": 73.14
+        "word": "website",
+        "start": 77.32,
+        "end": 77.74
       },
       {
         "i": 218,
-        "word": "separate",
-        "start": 73.14,
-        "end": 73.54
-      },
-      {
-        "i": 219,
-        "word": "font",
-        "start": 73.54,
-        "end": 73.84
-      },
-      {
-        "i": 220,
-        "word": "files.",
-        "start": 73.84,
-        "end": 74.34
+        "word": "address.",
+        "start": 77.74,
+        "end": 78.16
       }
     ]
   },
   {
     "id": 19,
-    "text": "Upload the matching styles if you want Canva to offer them correctly.",
-    "start": 75.06,
-    "end": 77.88,
+    "text": "Share the live website link so people can browse your portfolio without entering the editor.",
+    "start": 78.94,
+    "end": 83.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      221,
-      232
+      219,
+      233
     ],
     "words": [
       {
+        "i": 219,
+        "word": "Share",
+        "start": 78.94,
+        "end": 79.14
+      },
+      {
+        "i": 220,
+        "word": "the",
+        "start": 79.14,
+        "end": 79.32
+      },
+      {
         "i": 221,
-        "word": "Upload",
-        "start": 75.06,
-        "end": 75.3
+        "word": "live",
+        "start": 79.32,
+        "end": 79.52
       },
       {
         "i": 222,
-        "word": "the",
-        "start": 75.3,
-        "end": 75.48
+        "word": "website",
+        "start": 79.52,
+        "end": 79.9
       },
       {
         "i": 223,
-        "word": "matching",
-        "start": 75.48,
-        "end": 75.76
+        "word": "link",
+        "start": 79.9,
+        "end": 80.16
       },
       {
         "i": 224,
-        "word": "styles",
-        "start": 75.76,
-        "end": 76.12
+        "word": "so",
+        "start": 80.16,
+        "end": 80.36
       },
       {
         "i": 225,
-        "word": "if",
-        "start": 76.12,
-        "end": 76.36
+        "word": "people",
+        "start": 80.36,
+        "end": 80.56
       },
       {
         "i": 226,
-        "word": "you",
-        "start": 76.36,
-        "end": 76.48
+        "word": "can",
+        "start": 80.56,
+        "end": 80.82
       },
       {
         "i": 227,
-        "word": "want",
-        "start": 76.48,
-        "end": 76.66
+        "word": "browse",
+        "start": 80.82,
+        "end": 81.08
       },
       {
         "i": 228,
-        "word": "Canva",
-        "start": 76.66,
-        "end": 76.96
+        "word": "your",
+        "start": 81.08,
+        "end": 81.28
       },
       {
         "i": 229,
-        "word": "to",
-        "start": 76.96,
-        "end": 77.14
+        "word": "portfolio",
+        "start": 81.28,
+        "end": 81.84
       },
       {
         "i": 230,
-        "word": "offer",
-        "start": 77.14,
-        "end": 77.3
+        "word": "without",
+        "start": 81.84,
+        "end": 82.38
       },
       {
         "i": 231,
-        "word": "them",
-        "start": 77.3,
-        "end": 77.5
+        "word": "entering",
+        "start": 82.38,
+        "end": 82.82
       },
       {
         "i": 232,
-        "word": "correctly.",
-        "start": 77.5,
-        "end": 77.88
+        "word": "the",
+        "start": 82.82,
+        "end": 82.98
+      },
+      {
+        "i": 233,
+        "word": "editor.",
+        "start": 82.98,
+        "end": 83.3
       }
     ]
   },
   {
     "id": 20,
-    "text": "If the download contains a variable font, look for static font files, because Canva's font upload guidance does not support variable fonts.",
-    "start": 78.44,
-    "end": 86.36,
+    "text": "Open that address in a private browser window and test the projects and contact link.",
+    "start": 84.22,
+    "end": 88.72,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      233,
-      254
+      234,
+      248
     ],
     "words": [
       {
-        "i": 233,
-        "word": "If",
-        "start": 78.44,
-        "end": 78.72
-      },
-      {
         "i": 234,
-        "word": "the",
-        "start": 78.72,
-        "end": 78.86
+        "word": "Open",
+        "start": 84.22,
+        "end": 84.54
       },
       {
         "i": 235,
-        "word": "download",
-        "start": 78.86,
-        "end": 79.18
+        "word": "that",
+        "start": 84.54,
+        "end": 84.74
       },
       {
         "i": 236,
-        "word": "contains",
-        "start": 79.18,
-        "end": 79.62
+        "word": "address",
+        "start": 84.74,
+        "end": 85.04
       },
       {
         "i": 237,
-        "word": "a",
-        "start": 79.62,
-        "end": 79.84
+        "word": "in",
+        "start": 85.04,
+        "end": 85.32
       },
       {
         "i": 238,
-        "word": "variable",
-        "start": 79.84,
-        "end": 80.16
+        "word": "a",
+        "start": 85.32,
+        "end": 85.42
       },
       {
         "i": 239,
-        "word": "font,",
-        "start": 80.16,
-        "end": 80.54
+        "word": "private",
+        "start": 85.42,
+        "end": 85.74
       },
       {
         "i": 240,
-        "word": "look",
-        "start": 80.98,
-        "end": 81.04
+        "word": "browser",
+        "start": 85.74,
+        "end": 86.12
       },
       {
         "i": 241,
-        "word": "for",
-        "start": 81.04,
-        "end": 81.26
+        "word": "window",
+        "start": 86.12,
+        "end": 86.44
       },
       {
         "i": 242,
-        "word": "static",
-        "start": 81.26,
-        "end": 81.58
+        "word": "and",
+        "start": 86.44,
+        "end": 86.76
       },
       {
         "i": 243,
-        "word": "font",
-        "start": 81.58,
-        "end": 81.92
+        "word": "test",
+        "start": 86.76,
+        "end": 87.04
       },
       {
         "i": 244,
-        "word": "files,",
-        "start": 81.92,
-        "end": 82.34
+        "word": "the",
+        "start": 87.04,
+        "end": 87.26
       },
       {
         "i": 245,
-        "word": "because",
-        "start": 82.64,
-        "end": 82.76
+        "word": "projects",
+        "start": 87.26,
+        "end": 87.62
       },
       {
         "i": 246,
-        "word": "Canva's",
-        "start": 82.76,
-        "end": 83.28
+        "word": "and",
+        "start": 87.62,
+        "end": 88.1
       },
       {
         "i": 247,
-        "word": "font",
-        "start": 83.28,
-        "end": 83.52
+        "word": "contact",
+        "start": 88.1,
+        "end": 88.44
       },
       {
         "i": 248,
-        "word": "upload",
-        "start": 83.52,
-        "end": 84.0
-      },
-      {
-        "i": 249,
-        "word": "guidance",
-        "start": 84.0,
-        "end": 84.46
-      },
-      {
-        "i": 250,
-        "word": "does",
-        "start": 84.46,
-        "end": 84.96
-      },
-      {
-        "i": 251,
-        "word": "not",
-        "start": 84.96,
-        "end": 85.14
-      },
-      {
-        "i": 252,
-        "word": "support",
-        "start": 85.14,
-        "end": 85.5
-      },
-      {
-        "i": 253,
-        "word": "variable",
-        "start": 85.5,
-        "end": 86.0
-      },
-      {
-        "i": 254,
-        "word": "fonts.",
-        "start": 86.0,
-        "end": 86.36
+        "word": "link.",
+        "start": 88.44,
+        "end": 88.72
       }
     ]
   },
   {
     "id": 21,
-    "text": "If the font is missing, confirm that you uploaded it to the same brand kit you are using in the design.",
-    "start": 86.94,
-    "end": 91.7,
+    "text": "Your portfolio website is now ready to share with potential clients or employers.",
+    "start": 89.46,
+    "end": 93.6,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      255,
-      275
+      249,
+      261
     ],
     "words": [
       {
+        "i": 249,
+        "word": "Your",
+        "start": 89.46,
+        "end": 89.54
+      },
+      {
+        "i": 250,
+        "word": "portfolio",
+        "start": 89.54,
+        "end": 89.98
+      },
+      {
+        "i": 251,
+        "word": "website",
+        "start": 89.98,
+        "end": 90.4
+      },
+      {
+        "i": 252,
+        "word": "is",
+        "start": 90.4,
+        "end": 90.74
+      },
+      {
+        "i": 253,
+        "word": "now",
+        "start": 90.74,
+        "end": 91.0
+      },
+      {
+        "i": 254,
+        "word": "ready",
+        "start": 91.0,
+        "end": 91.16
+      },
+      {
         "i": 255,
-        "word": "If",
-        "start": 86.94,
-        "end": 87.04
+        "word": "to",
+        "start": 91.16,
+        "end": 91.4
       },
       {
         "i": 256,
-        "word": "the",
-        "start": 87.04,
-        "end": 87.18
+        "word": "share",
+        "start": 91.4,
+        "end": 91.68
       },
       {
         "i": 257,
-        "word": "font",
-        "start": 87.18,
-        "end": 87.34
+        "word": "with",
+        "start": 91.68,
+        "end": 91.88
       },
       {
         "i": 258,
-        "word": "is",
-        "start": 87.34,
-        "end": 87.5
+        "word": "potential",
+        "start": 91.88,
+        "end": 92.26
       },
       {
         "i": 259,
-        "word": "missing,",
-        "start": 87.5,
-        "end": 87.88
+        "word": "clients",
+        "start": 92.26,
+        "end": 92.76
       },
       {
         "i": 260,
-        "word": "confirm",
-        "start": 88.2,
-        "end": 88.38
+        "word": "or",
+        "start": 92.76,
+        "end": 93.18
       },
       {
         "i": 261,
-        "word": "that",
-        "start": 88.38,
-        "end": 88.64
-      },
-      {
-        "i": 262,
-        "word": "you",
-        "start": 88.64,
-        "end": 88.76
-      },
-      {
-        "i": 263,
-        "word": "uploaded",
-        "start": 88.76,
-        "end": 89.22
-      },
-      {
-        "i": 264,
-        "word": "it",
-        "start": 89.22,
-        "end": 89.44
-      },
-      {
-        "i": 265,
-        "word": "to",
-        "start": 89.44,
-        "end": 89.56
-      },
-      {
-        "i": 266,
-        "word": "the",
-        "start": 89.56,
-        "end": 89.7
-      },
-      {
-        "i": 267,
-        "word": "same",
-        "start": 89.7,
-        "end": 90.0
-      },
-      {
-        "i": 268,
-        "word": "brand",
-        "start": 90.0,
-        "end": 90.26
-      },
-      {
-        "i": 269,
-        "word": "kit",
-        "start": 90.26,
-        "end": 90.5
-      },
-      {
-        "i": 270,
-        "word": "you",
-        "start": 90.5,
-        "end": 90.72
-      },
-      {
-        "i": 271,
-        "word": "are",
-        "start": 90.72,
-        "end": 90.82
-      },
-      {
-        "i": 272,
-        "word": "using",
-        "start": 90.82,
-        "end": 91.08
-      },
-      {
-        "i": 273,
-        "word": "in",
-        "start": 91.08,
-        "end": 91.26
-      },
-      {
-        "i": 274,
-        "word": "the",
-        "start": 91.26,
-        "end": 91.36
-      },
-      {
-        "i": 275,
-        "word": "design.",
-        "start": 91.36,
-        "end": 91.7
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "text": "Your custom font is now available for future projects in that kit.",
-    "start": 92.52,
-    "end": 95.78,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      276,
-      287
-    ],
-    "words": [
-      {
-        "i": 276,
-        "word": "Your",
-        "start": 92.52,
-        "end": 92.64
-      },
-      {
-        "i": 277,
-        "word": "custom",
-        "start": 92.64,
-        "end": 92.94
-      },
-      {
-        "i": 278,
-        "word": "font",
-        "start": 92.94,
-        "end": 93.22
-      },
-      {
-        "i": 279,
-        "word": "is",
-        "start": 93.22,
-        "end": 93.46
-      },
-      {
-        "i": 280,
-        "word": "now",
-        "start": 93.46,
-        "end": 93.64
-      },
-      {
-        "i": 281,
-        "word": "available",
-        "start": 93.64,
-        "end": 93.94
-      },
-      {
-        "i": 282,
-        "word": "for",
-        "start": 93.94,
-        "end": 94.22
-      },
-      {
-        "i": 283,
-        "word": "future",
-        "start": 94.22,
-        "end": 94.48
-      },
-      {
-        "i": 284,
-        "word": "projects",
-        "start": 94.48,
-        "end": 94.9
-      },
-      {
-        "i": 285,
-        "word": "in",
-        "start": 94.9,
-        "end": 95.32
-      },
-      {
-        "i": 286,
-        "word": "that",
-        "start": 95.32,
-        "end": 95.52
-      },
-      {
-        "i": 287,
-        "word": "kit.",
-        "start": 95.52,
-        "end": 95.78
+        "word": "employers.",
+        "start": 93.18,
+        "end": 93.6
       }
     ]
   }
