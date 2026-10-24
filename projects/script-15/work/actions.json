@@ -3,7 +3,7 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 220.7
+  "duration": 270.0
  },
  "sync": {
   "source": "frames"
@@ -11,101 +11,13 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 8.4,
+   "t_click": 131.7,
    "x": 960,
    "y": 540,
    "kind": "click",
-   "target": "Templates tab",
-   "result": "landscape video search",
-   "t_result_visible": 8.700000000000001,
-   "confidence": "low"
-  },
-  {
-   "id": "A2",
-   "t_click": 23.0,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "Blank menu item",
-   "result": "blank page added",
-   "t_result_visible": 23.3,
-   "confidence": "low"
-  },
-  {
-   "id": "A3",
-   "t_click": 32.2,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "Background colour",
-   "result": "colour applied",
-   "t_result_visible": 32.5,
-   "confidence": "low"
-  },
-  {
-   "id": "A4",
-   "t_click": 46.0,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "Add a heading",
-   "result": "headline added",
-   "t_result_visible": 46.3,
-   "confidence": "low"
-  },
-  {
-   "id": "A5",
-   "t_click": 69.0,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "circle search",
-   "result": "circle results",
-   "t_result_visible": 69.3,
-   "confidence": "low"
-  },
-  {
-   "id": "A6",
-   "t_click": 121.9,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "Animate",
-   "result": "animation panel",
-   "t_result_visible": 122.2,
-   "confidence": "low"
-  },
-  {
-   "id": "A7",
-   "t_click": 161.0,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "Play button",
-   "result": "preview plays",
-   "t_result_visible": 161.3,
-   "confidence": "low"
-  },
-  {
-   "id": "A8",
-   "t_click": 190.9,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "Share",
-   "result": "share menu",
-   "t_result_visible": 191.20000000000002,
-   "confidence": "low"
-  },
-  {
-   "id": "A9",
-   "t_click": 195.5,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "MP4 download",
-   "result": "download starts",
-   "t_result_visible": 195.8,
+   "target": "Share / Download (placeholder)",
+   "result": "download panel opens",
+   "t_result_visible": 134.4,
    "confidence": "low"
   }
  ],
