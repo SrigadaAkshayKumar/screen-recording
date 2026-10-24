@@ -1,22 +1,22 @@
-This tutorial shows you how to create an invitation website in Canva with event details, a location link, and an RSVP button.
-From Canva's homepage, search for a wedding website or event website template.
-Choose a website design that matches your event, then open it in the editor.
-Replace the main title with the event name.
-Add the date, start time, venue, dress code, and any information guests need before attending.
-Delete template sections you will not use.
-Upload your own photo or replace the template's image.
-Keep the text easy to read against the background and use short sections so guests can find the details quickly.
-Add a button or a clear text link called View Location.
-Select it, open the link control, and paste the venue's map link.
-For RSVPs, prepare a response form in your preferred form service and copy its published response link.
-Add an RSVP button in Canva and attach that link.
-Include a deadline beside the button if you need responses by a particular date.
-Use Preview to check the desktop and mobile layouts.
-Make sure the buttons open the correct destinations and that none of the text overlaps.
-Click Publish Website, choose an available free Canva site address or another domain option supported by your account.
-Review the website settings, enable resize on mobile, and complete the publish steps.
+This tutorial shows you how to connect a domain you already own to a Canva website.
+First, make sure you are editing a website design and that your Canva plan supports connecting an existing domain.
+You also need access to the domain settings at the company where it is registered.
+Open Publish Website and choose Get a New Domain.
+Select Bring Your Own Domain, then Continue.
+Enter the domain without the www.prefix.
+You can also use a subdomain if the main address already hosts another website.
+Continue to the connection step.
+If Canva offers automatic connection for your provider, choose Login and Auto-Connect, then follow the provider's instructions.
+For manual connection, open your domain provider's DNS management page.
+Copy each record shown by Canva into the matching record type, name and value fields.
+Use the exact values from your own Canva connection panel.
+Change only the records needed for this connection.
+Keep unrelated records, such as those used by your email service, in place.
+Return to Canva and continue verification.
+DNS updates can take up to 72 hours to finish, so a pending status immediately after saving does not necessarily mean the setup failed.
 Here's the part many tutorials skip.
-Guests need the published website address.
-Open that address in a private browser window and test it before sending invitations.
-Confirm that your RSVP form also accepts responses from your guests.
-If you change the event details later, republish the website so visitors see the update at the same address.
+Connecting the domain and publishing the website are separate steps.
+After Canva verifies the domain, select it as the site's address and complete publishing.
+If verification fails, compare Canva's expected records with the current records at your provider
+and correct conflicting entries for the address you are connecting.
+Open the custom address in a private browser window and confirm that the correct website loads.

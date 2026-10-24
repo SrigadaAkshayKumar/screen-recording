@@ -1,8 +1,0 @@
-{"recording":{"width":1920,"height":1080,"fps":30,"duration":213.0},"sync":{"source":"frames"},
-"actions":[
-{"id":"A1","t_click":7.533,"x":960,"y":480,"kind":"type","text":"wedding website","target":"Canva search box","result":"suggestions dropdown","t_result_visible":8.8,"confidence":"low"},
-{"id":"A2","t_click":13.4,"x":960,"y":700,"kind":"click","target":"template thumbnail","result":"editor loads","t_result_visible":17.6,"confidence":"low"},
-{"id":"A3","t_click":24.0,"x":960,"y":500,"kind":"type","text":"RAM & SITA","target":"main title","result":"title replaced","t_result_visible":40.0,"confidence":"low"},
-{"id":"A4","t_click":85.0,"x":1000,"y":540,"kind":"click","target":"Link in context menu","result":"link dialog opens","t_result_visible":92.4,"confidence":"low"},
-{"id":"A5","t_click":157.6,"x":1450,"y":75,"kind":"click","target":"Publish website button","result":"publish panel opens","t_result_visible":158.4,"confidence":"low"}
-],"junk":[]}
