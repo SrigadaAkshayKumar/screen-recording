@@ -1,8 +1,9 @@
-# Sync notes
-Hand plan (work/hand_plan.py): 369.5 s recording, 119.35 s voiceover. One source piece per narration line at 0.76-1.1x, cross-faded joins, no holds, no zooms/ripples.
+# sync notes (script-07)
+Plan built by `work/hand_plan.py` (24 pieces, 23 cross-fades, no holds, no zooms/ripples, speeds 0.75-1.4x).
 ## Judgment calls
-- Order follows the audio; footage is picked by topic: search (22-32), template (36-45), cover edit (46-55), text customizing (143.7-149.3), page 4 duplicate (167-170.4), ChatGPT copy/paste (66-73.6), images (189.6-199.4), link text/dialog (209.9-216.4), page-2 contents (121.3-127.4) for "link contents entries", grid view (243.9-248.4, 252.4-256.7 at 0.75x), share/download/PDF (273-282.5), download (288-293), PDF opened (296-312), closing (311-317.5).
-- Cursor-only/static stretches (src 26-28.6, 31.6-36, 207.7-210, 220-225.6, 249-252, 256.7-261) were avoided after freezedetect on previews/finals found 2.2-3.8 s freezes.
-- No clicks are anchored to words (no click log; click times not verified frame by frame).
-## Uncertain
-- Narrated "select a clear cover image" and "duplicate that page" have only approximate footage; the narrated link URL entry (216-224) is not shown because that footage is static.
+- Pieces chosen from the moving windows of the source (freezedetect n=0.003 d=0.8): most of the recording is static (cursor only).
+- L1-L3 (browser): src 9.7-14.1 and 22.2-26.7 plus 308.4-312.0 (portfolio page opening, borrowed from the end) because 14.3-22.2 and 26.7-34.9 are static.
+- L6 uses 63.3-65.8 plus the Create static/dynamic panel from 230.3-234.0 (the same panel, later in the recording) because 65.8-83 only has hovering.
+- Not shown: the Google Lens upload of the exported PNG is only represented by 279.2-282.0; downloading (254.6-259.4) and "Update code" edit (184-194) stand in for L15/L16.
+- L14 "Here's the part many tutorials skip" has no matching footage; plays 128.7-130.6 (QR on canvas).
+- Order follows the audio; footage is reused/jumped with cross-fades.

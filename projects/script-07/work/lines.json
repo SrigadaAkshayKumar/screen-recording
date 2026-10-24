@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to build a short ebook in Canva and export it as a PDF your readers can download.",
+    "text": "This tutorial shows you how to add a scannable QR code to a Canva design.",
     "start": 0.0,
-    "end": 5.96,
+    "end": 4.04,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      21
+      14
     ],
     "words": [
       {
@@ -34,2149 +34,1855 @@
         "i": 3,
         "word": "you",
         "start": 1.06,
-        "end": 1.26
+        "end": 1.28
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.26,
-        "end": 1.4
+        "start": 1.28,
+        "end": 1.42
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.4,
+        "start": 1.42,
         "end": 1.58
       },
       {
         "i": 6,
-        "word": "build",
+        "word": "add",
         "start": 1.58,
-        "end": 1.72
+        "end": 1.78
       },
       {
         "i": 7,
         "word": "a",
-        "start": 1.72,
-        "end": 1.92
+        "start": 1.78,
+        "end": 1.9
       },
       {
         "i": 8,
-        "word": "short",
-        "start": 1.92,
-        "end": 2.16
+        "word": "scannable",
+        "start": 1.9,
+        "end": 2.38
       },
       {
         "i": 9,
-        "word": "ebook",
-        "start": 2.16,
-        "end": 2.46
+        "word": "QR",
+        "start": 2.38,
+        "end": 2.7
       },
       {
         "i": 10,
-        "word": "in",
-        "start": 2.46,
-        "end": 2.8
+        "word": "code",
+        "start": 2.7,
+        "end": 3.06
       },
       {
         "i": 11,
-        "word": "Canva",
-        "start": 2.8,
-        "end": 3.18
+        "word": "to",
+        "start": 3.06,
+        "end": 3.26
       },
       {
         "i": 12,
-        "word": "and",
-        "start": 3.18,
-        "end": 3.44
+        "word": "a",
+        "start": 3.26,
+        "end": 3.54
       },
       {
         "i": 13,
-        "word": "export",
-        "start": 3.44,
-        "end": 3.84
+        "word": "Canva",
+        "start": 3.54,
+        "end": 3.68
       },
       {
         "i": 14,
-        "word": "it",
-        "start": 3.84,
+        "word": "design.",
+        "start": 3.68,
         "end": 4.04
-      },
-      {
-        "i": 15,
-        "word": "as",
-        "start": 4.04,
-        "end": 4.2
-      },
-      {
-        "i": 16,
-        "word": "a",
-        "start": 4.2,
-        "end": 4.38
-      },
-      {
-        "i": 17,
-        "word": "PDF",
-        "start": 4.38,
-        "end": 4.66
-      },
-      {
-        "i": 18,
-        "word": "your",
-        "start": 4.66,
-        "end": 5.02
-      },
-      {
-        "i": 19,
-        "word": "readers",
-        "start": 5.02,
-        "end": 5.3
-      },
-      {
-        "i": 20,
-        "word": "can",
-        "start": 5.3,
-        "end": 5.5
-      },
-      {
-        "i": 21,
-        "word": "download.",
-        "start": 5.5,
-        "end": 5.96
       }
     ]
   },
   {
     "id": 2,
-    "text": "Prepare your text and chapter outline first, then search Canva for ebook templates, and choose a multi-page design with a page size that suits your readers.",
-    "start": 6.66,
-    "end": 15.46,
+    "text": "First, open the destination page in your browser and copy its full address.",
+    "start": 4.92,
+    "end": 9.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      22,
-      48
+      15,
+      27
     ],
     "words": [
       {
+        "i": 15,
+        "word": "First,",
+        "start": 4.92,
+        "end": 5.18
+      },
+      {
+        "i": 16,
+        "word": "open",
+        "start": 5.56,
+        "end": 5.86
+      },
+      {
+        "i": 17,
+        "word": "the",
+        "start": 5.86,
+        "end": 6.04
+      },
+      {
+        "i": 18,
+        "word": "destination",
+        "start": 6.04,
+        "end": 6.38
+      },
+      {
+        "i": 19,
+        "word": "page",
+        "start": 6.38,
+        "end": 6.8
+      },
+      {
+        "i": 20,
+        "word": "in",
+        "start": 6.8,
+        "end": 7.0
+      },
+      {
+        "i": 21,
+        "word": "your",
+        "start": 7.0,
+        "end": 7.12
+      },
+      {
         "i": 22,
-        "word": "Prepare",
-        "start": 6.66,
-        "end": 6.94
+        "word": "browser",
+        "start": 7.12,
+        "end": 7.48
       },
       {
         "i": 23,
-        "word": "your",
-        "start": 6.94,
-        "end": 7.14
+        "word": "and",
+        "start": 7.48,
+        "end": 7.92
       },
       {
         "i": 24,
-        "word": "text",
-        "start": 7.14,
-        "end": 7.42
+        "word": "copy",
+        "start": 7.92,
+        "end": 8.18
       },
       {
         "i": 25,
-        "word": "and",
-        "start": 7.42,
-        "end": 7.96
+        "word": "its",
+        "start": 8.18,
+        "end": 8.52
       },
       {
         "i": 26,
-        "word": "chapter",
-        "start": 7.96,
-        "end": 8.34
-      },
-      {
-        "i": 27,
-        "word": "outline",
-        "start": 8.34,
+        "word": "full",
+        "start": 8.52,
         "end": 8.78
       },
       {
-        "i": 28,
-        "word": "first,",
+        "i": 27,
+        "word": "address.",
         "start": 8.78,
-        "end": 9.3
-      },
-      {
-        "i": 29,
-        "word": "then",
-        "start": 9.82,
-        "end": 10.02
-      },
-      {
-        "i": 30,
-        "word": "search",
-        "start": 10.02,
-        "end": 10.32
-      },
-      {
-        "i": 31,
-        "word": "Canva",
-        "start": 10.32,
-        "end": 10.78
-      },
-      {
-        "i": 32,
-        "word": "for",
-        "start": 10.78,
-        "end": 10.96
-      },
-      {
-        "i": 33,
-        "word": "ebook",
-        "start": 10.96,
-        "end": 11.24
-      },
-      {
-        "i": 34,
-        "word": "templates,",
-        "start": 11.24,
-        "end": 11.72
-      },
-      {
-        "i": 35,
-        "word": "and",
-        "start": 12.12,
-        "end": 12.28
-      },
-      {
-        "i": 36,
-        "word": "choose",
-        "start": 12.28,
-        "end": 12.46
-      },
-      {
-        "i": 37,
-        "word": "a",
-        "start": 12.46,
-        "end": 12.64
-      },
-      {
-        "i": 38,
-        "word": "multi",
-        "start": 12.64,
-        "end": 12.88
-      },
-      {
-        "i": 39,
-        "word": "-page",
-        "start": 12.88,
-        "end": 13.14
-      },
-      {
-        "i": 40,
-        "word": "design",
-        "start": 13.14,
-        "end": 13.54
-      },
-      {
-        "i": 41,
-        "word": "with",
-        "start": 13.54,
-        "end": 13.76
-      },
-      {
-        "i": 42,
-        "word": "a",
-        "start": 13.76,
-        "end": 13.88
-      },
-      {
-        "i": 43,
-        "word": "page",
-        "start": 13.88,
-        "end": 14.14
-      },
-      {
-        "i": 44,
-        "word": "size",
-        "start": 14.14,
-        "end": 14.4
-      },
-      {
-        "i": 45,
-        "word": "that",
-        "start": 14.4,
-        "end": 14.62
-      },
-      {
-        "i": 46,
-        "word": "suits",
-        "start": 14.62,
-        "end": 14.88
-      },
-      {
-        "i": 47,
-        "word": "your",
-        "start": 14.88,
-        "end": 15.14
-      },
-      {
-        "i": 48,
-        "word": "readers.",
-        "start": 15.14,
-        "end": 15.46
+        "end": 9.14
       }
     ]
   },
   {
     "id": 3,
-    "text": "For this example, use a portrait layout with a cover, a contents page, three short chapters, and a final resources page.",
-    "start": 16.48,
-    "end": 24.0,
+    "text": "Use the page people should reach directly, such as a menu, booking page or portfolio.",
+    "start": 9.9,
+    "end": 14.6,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      49,
-      69
+      28,
+      42
     ],
     "words": [
       {
-        "i": 49,
-        "word": "For",
-        "start": 16.48,
-        "end": 16.7
+        "i": 28,
+        "word": "Use",
+        "start": 9.9,
+        "end": 10.08
       },
       {
-        "i": 50,
-        "word": "this",
-        "start": 16.7,
-        "end": 16.84
+        "i": 29,
+        "word": "the",
+        "start": 10.08,
+        "end": 10.24
       },
       {
-        "i": 51,
-        "word": "example,",
-        "start": 16.84,
-        "end": 17.22
+        "i": 30,
+        "word": "page",
+        "start": 10.24,
+        "end": 10.5
       },
       {
-        "i": 52,
-        "word": "use",
-        "start": 17.42,
-        "end": 17.58
+        "i": 31,
+        "word": "people",
+        "start": 10.5,
+        "end": 10.74
       },
       {
-        "i": 53,
+        "i": 32,
+        "word": "should",
+        "start": 10.74,
+        "end": 10.98
+      },
+      {
+        "i": 33,
+        "word": "reach",
+        "start": 10.98,
+        "end": 11.24
+      },
+      {
+        "i": 34,
+        "word": "directly,",
+        "start": 11.24,
+        "end": 11.72
+      },
+      {
+        "i": 35,
+        "word": "such",
+        "start": 12.02,
+        "end": 12.12
+      },
+      {
+        "i": 36,
+        "word": "as",
+        "start": 12.12,
+        "end": 12.3
+      },
+      {
+        "i": 37,
         "word": "a",
-        "start": 17.58,
-        "end": 17.76
+        "start": 12.3,
+        "end": 12.42
       },
       {
-        "i": 54,
-        "word": "portrait",
-        "start": 17.76,
-        "end": 18.12
+        "i": 38,
+        "word": "menu,",
+        "start": 12.42,
+        "end": 12.7
       },
       {
-        "i": 55,
-        "word": "layout",
-        "start": 18.12,
-        "end": 18.5
+        "i": 39,
+        "word": "booking",
+        "start": 13.16,
+        "end": 13.32
       },
       {
-        "i": 56,
-        "word": "with",
-        "start": 18.5,
-        "end": 18.8
+        "i": 40,
+        "word": "page",
+        "start": 13.32,
+        "end": 13.78
       },
       {
-        "i": 57,
-        "word": "a",
-        "start": 18.8,
-        "end": 19.0
+        "i": 41,
+        "word": "or",
+        "start": 13.78,
+        "end": 14.14
       },
       {
-        "i": 58,
-        "word": "cover,",
-        "start": 19.0,
-        "end": 19.16
-      },
-      {
-        "i": 59,
-        "word": "a",
-        "start": 19.68,
-        "end": 19.78
-      },
-      {
-        "i": 60,
-        "word": "contents",
-        "start": 19.78,
-        "end": 20.14
-      },
-      {
-        "i": 61,
-        "word": "page,",
-        "start": 20.14,
-        "end": 20.54
-      },
-      {
-        "i": 62,
-        "word": "three",
-        "start": 21.0,
-        "end": 21.22
-      },
-      {
-        "i": 63,
-        "word": "short",
-        "start": 21.22,
-        "end": 21.56
-      },
-      {
-        "i": 64,
-        "word": "chapters,",
-        "start": 21.56,
-        "end": 22.0
-      },
-      {
-        "i": 65,
-        "word": "and",
-        "start": 22.36,
-        "end": 22.58
-      },
-      {
-        "i": 66,
-        "word": "a",
-        "start": 22.58,
-        "end": 22.72
-      },
-      {
-        "i": 67,
-        "word": "final",
-        "start": 22.72,
-        "end": 23.02
-      },
-      {
-        "i": 68,
-        "word": "resources",
-        "start": 23.02,
-        "end": 23.48
-      },
-      {
-        "i": 69,
-        "word": "page.",
-        "start": 23.48,
-        "end": 24.0
+        "i": 42,
+        "word": "portfolio.",
+        "start": 14.14,
+        "end": 14.6
       }
     ]
   },
   {
     "id": 4,
-    "text": "Replace the cover title, subtitle, and author name.",
-    "start": 24.6,
-    "end": 27.98,
+    "text": "Open your Canva design.",
+    "start": 15.4,
+    "end": 16.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      70,
-      77
+      43,
+      46
     ],
     "words": [
       {
-        "i": 70,
-        "word": "Replace",
-        "start": 24.6,
-        "end": 24.94
+        "i": 43,
+        "word": "Open",
+        "start": 15.4,
+        "end": 15.62
       },
       {
-        "i": 71,
-        "word": "the",
-        "start": 24.94,
-        "end": 25.2
+        "i": 44,
+        "word": "your",
+        "start": 15.62,
+        "end": 15.82
       },
       {
-        "i": 72,
-        "word": "cover",
-        "start": 25.2,
-        "end": 25.44
+        "i": 45,
+        "word": "Canva",
+        "start": 15.82,
+        "end": 16.14
       },
       {
-        "i": 73,
-        "word": "title,",
-        "start": 25.44,
-        "end": 25.84
-      },
-      {
-        "i": 74,
-        "word": "subtitle,",
-        "start": 26.34,
-        "end": 26.7
-      },
-      {
-        "i": 75,
-        "word": "and",
-        "start": 27.24,
-        "end": 27.48
-      },
-      {
-        "i": 76,
-        "word": "author",
-        "start": 27.48,
-        "end": 27.68
-      },
-      {
-        "i": 77,
-        "word": "name.",
-        "start": 27.68,
-        "end": 27.98
+        "i": 46,
+        "word": "design.",
+        "start": 16.14,
+        "end": 16.54
       }
     ]
   },
   {
     "id": 5,
-    "text": "Select a clear cover image and keep the title readable when the cover appears small.",
-    "start": 27.98,
-    "end": 32.68,
+    "text": "Select elements and search for QR code.",
+    "start": 17.1,
+    "end": 19.28,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      78,
-      92
+      47,
+      53
     ],
     "words": [
       {
-        "i": 78,
+        "i": 47,
         "word": "Select",
-        "start": 27.98,
-        "end": 28.88
+        "start": 17.1,
+        "end": 17.38
       },
       {
-        "i": 79,
-        "word": "a",
-        "start": 28.88,
-        "end": 29.1
+        "i": 48,
+        "word": "elements",
+        "start": 17.38,
+        "end": 17.76
       },
       {
-        "i": 80,
-        "word": "clear",
-        "start": 29.1,
-        "end": 29.34
-      },
-      {
-        "i": 81,
-        "word": "cover",
-        "start": 29.34,
-        "end": 29.54
-      },
-      {
-        "i": 82,
-        "word": "image",
-        "start": 29.54,
-        "end": 29.86
-      },
-      {
-        "i": 83,
+        "i": 49,
         "word": "and",
-        "start": 29.86,
-        "end": 30.16
+        "start": 17.76,
+        "end": 18.12
       },
       {
-        "i": 84,
-        "word": "keep",
-        "start": 30.16,
-        "end": 30.36
+        "i": 50,
+        "word": "search",
+        "start": 18.12,
+        "end": 18.38
       },
       {
-        "i": 85,
-        "word": "the",
-        "start": 30.36,
-        "end": 30.54
+        "i": 51,
+        "word": "for",
+        "start": 18.38,
+        "end": 18.62
       },
       {
-        "i": 86,
-        "word": "title",
-        "start": 30.54,
-        "end": 30.84
+        "i": 52,
+        "word": "QR",
+        "start": 18.62,
+        "end": 18.92
       },
       {
-        "i": 87,
-        "word": "readable",
-        "start": 30.84,
-        "end": 31.14
-      },
-      {
-        "i": 88,
-        "word": "when",
-        "start": 31.14,
-        "end": 31.46
-      },
-      {
-        "i": 89,
-        "word": "the",
-        "start": 31.46,
-        "end": 31.62
-      },
-      {
-        "i": 90,
-        "word": "cover",
-        "start": 31.62,
-        "end": 31.84
-      },
-      {
-        "i": 91,
-        "word": "appears",
-        "start": 31.84,
-        "end": 32.24
-      },
-      {
-        "i": 92,
-        "word": "small.",
-        "start": 32.24,
-        "end": 32.68
+        "i": 53,
+        "word": "code.",
+        "start": 18.92,
+        "end": 19.28
       }
     ]
   },
   {
     "id": 6,
-    "text": "Choose one chapter layout and customize its heading, body text, and page number.",
-    "start": 33.44,
-    "end": 38.12,
+    "text": "In Canva's QR code options, choose Create Static for a fixed destination or Create Dynamic if you need to update the destination later.",
+    "start": 19.94,
+    "end": 27.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      93,
-      105
+      54,
+      76
     ],
     "words": [
       {
-        "i": 93,
-        "word": "Choose",
-        "start": 33.44,
-        "end": 33.6
+        "i": 54,
+        "word": "In",
+        "start": 19.94,
+        "end": 20.08
       },
       {
-        "i": 94,
-        "word": "one",
-        "start": 33.6,
-        "end": 33.9
+        "i": 55,
+        "word": "Canva's",
+        "start": 20.08,
+        "end": 20.46
       },
       {
-        "i": 95,
-        "word": "chapter",
-        "start": 33.9,
-        "end": 34.22
+        "i": 56,
+        "word": "QR",
+        "start": 20.46,
+        "end": 20.66
       },
       {
-        "i": 96,
-        "word": "layout",
-        "start": 34.22,
-        "end": 34.54
+        "i": 57,
+        "word": "code",
+        "start": 20.66,
+        "end": 20.94
       },
       {
-        "i": 97,
-        "word": "and",
-        "start": 34.54,
-        "end": 35.04
+        "i": 58,
+        "word": "options,",
+        "start": 20.94,
+        "end": 21.34
       },
       {
-        "i": 98,
-        "word": "customize",
-        "start": 35.04,
-        "end": 35.46
+        "i": 59,
+        "word": "choose",
+        "start": 21.74,
+        "end": 21.94
       },
       {
-        "i": 99,
-        "word": "its",
-        "start": 35.46,
-        "end": 35.74
+        "i": 60,
+        "word": "Create",
+        "start": 21.94,
+        "end": 22.28
       },
       {
-        "i": 100,
-        "word": "heading,",
-        "start": 35.74,
-        "end": 36.04
+        "i": 61,
+        "word": "Static",
+        "start": 22.28,
+        "end": 22.6
       },
       {
-        "i": 101,
-        "word": "body",
-        "start": 36.48,
-        "end": 36.64
+        "i": 62,
+        "word": "for",
+        "start": 22.6,
+        "end": 22.94
       },
       {
-        "i": 102,
-        "word": "text,",
-        "start": 36.64,
-        "end": 36.98
+        "i": 63,
+        "word": "a",
+        "start": 22.94,
+        "end": 23.06
       },
       {
-        "i": 103,
-        "word": "and",
-        "start": 37.38,
-        "end": 37.52
+        "i": 64,
+        "word": "fixed",
+        "start": 23.06,
+        "end": 23.24
       },
       {
-        "i": 104,
-        "word": "page",
-        "start": 37.52,
-        "end": 37.78
+        "i": 65,
+        "word": "destination",
+        "start": 23.24,
+        "end": 23.76
       },
       {
-        "i": 105,
-        "word": "number.",
-        "start": 37.78,
-        "end": 38.12
+        "i": 66,
+        "word": "or",
+        "start": 24.28,
+        "end": 24.58
+      },
+      {
+        "i": 67,
+        "word": "Create",
+        "start": 24.58,
+        "end": 24.9
+      },
+      {
+        "i": 68,
+        "word": "Dynamic",
+        "start": 24.9,
+        "end": 25.26
+      },
+      {
+        "i": 69,
+        "word": "if",
+        "start": 25.26,
+        "end": 25.76
+      },
+      {
+        "i": 70,
+        "word": "you",
+        "start": 25.76,
+        "end": 25.88
+      },
+      {
+        "i": 71,
+        "word": "need",
+        "start": 25.88,
+        "end": 26.0
+      },
+      {
+        "i": 72,
+        "word": "to",
+        "start": 26.0,
+        "end": 26.14
+      },
+      {
+        "i": 73,
+        "word": "update",
+        "start": 26.14,
+        "end": 26.38
+      },
+      {
+        "i": 74,
+        "word": "the",
+        "start": 26.38,
+        "end": 26.56
+      },
+      {
+        "i": 75,
+        "word": "destination",
+        "start": 26.56,
+        "end": 26.92
+      },
+      {
+        "i": 76,
+        "word": "later.",
+        "start": 26.92,
+        "end": 27.38
       }
     ]
   },
   {
     "id": 7,
-    "text": "Duplicate that page to create the remaining chapters.",
-    "start": 39.0,
-    "end": 41.48,
+    "text": "For this example, choose Create Static.",
+    "start": 27.92,
+    "end": 30.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      106,
-      113
+      77,
+      82
     ],
     "words": [
       {
-        "i": 106,
-        "word": "Duplicate",
-        "start": 39.0,
-        "end": 39.36
+        "i": 77,
+        "word": "For",
+        "start": 27.92,
+        "end": 28.18
       },
       {
-        "i": 107,
-        "word": "that",
-        "start": 39.36,
-        "end": 39.6
+        "i": 78,
+        "word": "this",
+        "start": 28.18,
+        "end": 28.34
       },
       {
-        "i": 108,
-        "word": "page",
-        "start": 39.6,
-        "end": 39.86
+        "i": 79,
+        "word": "example,",
+        "start": 28.34,
+        "end": 28.74
       },
       {
-        "i": 109,
-        "word": "to",
-        "start": 39.86,
-        "end": 40.12
+        "i": 80,
+        "word": "choose",
+        "start": 29.06,
+        "end": 29.36
       },
       {
-        "i": 110,
-        "word": "create",
-        "start": 40.12,
-        "end": 40.36
+        "i": 81,
+        "word": "Create",
+        "start": 29.36,
+        "end": 29.7
       },
       {
-        "i": 111,
-        "word": "the",
-        "start": 40.36,
-        "end": 40.6
-      },
-      {
-        "i": 112,
-        "word": "remaining",
-        "start": 40.6,
-        "end": 40.92
-      },
-      {
-        "i": 113,
-        "word": "chapters.",
-        "start": 40.92,
-        "end": 41.48
+        "i": 82,
+        "word": "Static.",
+        "start": 29.7,
+        "end": 30.1
       }
     ]
   },
   {
     "id": 8,
-    "text": "Paste your writing in manageable sections so each page stays readable.",
-    "start": 42.38,
-    "end": 46.38,
+    "text": "Paste your address into the URL field, adjust the foreground and background colours if needed and select Save to add the code.",
+    "start": 30.8,
+    "end": 37.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      114,
-      124
+      83,
+      104
     ],
     "words": [
       {
-        "i": 114,
+        "i": 83,
         "word": "Paste",
-        "start": 42.38,
-        "end": 42.48
+        "start": 30.8,
+        "end": 30.9
       },
       {
-        "i": 115,
+        "i": 84,
         "word": "your",
-        "start": 42.48,
-        "end": 42.68
+        "start": 30.9,
+        "end": 31.14
       },
       {
-        "i": 116,
-        "word": "writing",
-        "start": 42.68,
-        "end": 43.0
+        "i": 85,
+        "word": "address",
+        "start": 31.14,
+        "end": 31.4
       },
       {
-        "i": 117,
-        "word": "in",
-        "start": 43.0,
-        "end": 43.36
+        "i": 86,
+        "word": "into",
+        "start": 31.4,
+        "end": 31.66
       },
       {
-        "i": 118,
-        "word": "manageable",
-        "start": 43.36,
-        "end": 43.7
+        "i": 87,
+        "word": "the",
+        "start": 31.66,
+        "end": 31.8
       },
       {
-        "i": 119,
-        "word": "sections",
-        "start": 43.7,
-        "end": 44.22
+        "i": 88,
+        "word": "URL",
+        "start": 31.8,
+        "end": 32.08
       },
       {
-        "i": 120,
-        "word": "so",
-        "start": 44.22,
-        "end": 44.84
+        "i": 89,
+        "word": "field,",
+        "start": 32.08,
+        "end": 32.5
       },
       {
-        "i": 121,
-        "word": "each",
-        "start": 44.84,
-        "end": 45.02
+        "i": 90,
+        "word": "adjust",
+        "start": 32.72,
+        "end": 33.06
       },
       {
-        "i": 122,
-        "word": "page",
-        "start": 45.02,
-        "end": 45.38
+        "i": 91,
+        "word": "the",
+        "start": 33.06,
+        "end": 33.28
       },
       {
-        "i": 123,
-        "word": "stays",
-        "start": 45.38,
-        "end": 45.9
+        "i": 92,
+        "word": "foreground",
+        "start": 33.28,
+        "end": 33.62
       },
       {
-        "i": 124,
-        "word": "readable.",
-        "start": 45.9,
-        "end": 46.38
+        "i": 93,
+        "word": "and",
+        "start": 33.62,
+        "end": 33.82
+      },
+      {
+        "i": 94,
+        "word": "background",
+        "start": 33.82,
+        "end": 34.14
+      },
+      {
+        "i": 95,
+        "word": "colours",
+        "start": 34.14,
+        "end": 34.48
+      },
+      {
+        "i": 96,
+        "word": "if",
+        "start": 34.48,
+        "end": 34.68
+      },
+      {
+        "i": 97,
+        "word": "needed",
+        "start": 34.68,
+        "end": 34.96
+      },
+      {
+        "i": 98,
+        "word": "and",
+        "start": 34.96,
+        "end": 35.5
+      },
+      {
+        "i": 99,
+        "word": "select",
+        "start": 35.5,
+        "end": 35.82
+      },
+      {
+        "i": 100,
+        "word": "Save",
+        "start": 35.82,
+        "end": 36.22
+      },
+      {
+        "i": 101,
+        "word": "to",
+        "start": 36.22,
+        "end": 36.48
+      },
+      {
+        "i": 102,
+        "word": "add",
+        "start": 36.48,
+        "end": 36.66
+      },
+      {
+        "i": 103,
+        "word": "the",
+        "start": 36.66,
+        "end": 36.84
+      },
+      {
+        "i": 104,
+        "word": "code.",
+        "start": 36.84,
+        "end": 37.14
       }
     ]
   },
   {
     "id": 9,
-    "text": "Use a consistent body font and generous spacing.",
-    "start": 47.18,
-    "end": 49.96,
+    "text": "Place it where people can easily notice it.",
+    "start": 37.72,
+    "end": 39.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      125,
-      132
+      105,
+      112
     ],
     "words": [
       {
-        "i": 125,
-        "word": "Use",
-        "start": 47.18,
-        "end": 47.42
+        "i": 105,
+        "word": "Place",
+        "start": 37.72,
+        "end": 37.86
       },
       {
-        "i": 126,
-        "word": "a",
-        "start": 47.42,
-        "end": 47.54
+        "i": 106,
+        "word": "it",
+        "start": 37.86,
+        "end": 38.0
       },
       {
-        "i": 127,
-        "word": "consistent",
-        "start": 47.54,
-        "end": 48.06
+        "i": 107,
+        "word": "where",
+        "start": 38.0,
+        "end": 38.16
       },
       {
-        "i": 128,
-        "word": "body",
-        "start": 48.06,
-        "end": 48.4
+        "i": 108,
+        "word": "people",
+        "start": 38.16,
+        "end": 38.36
       },
       {
-        "i": 129,
-        "word": "font",
-        "start": 48.4,
-        "end": 48.7
+        "i": 109,
+        "word": "can",
+        "start": 38.36,
+        "end": 38.62
       },
       {
-        "i": 130,
-        "word": "and",
-        "start": 48.7,
-        "end": 49.02
+        "i": 110,
+        "word": "easily",
+        "start": 38.62,
+        "end": 39.0
       },
       {
-        "i": 131,
-        "word": "generous",
-        "start": 49.02,
-        "end": 49.38
+        "i": 111,
+        "word": "notice",
+        "start": 39.0,
+        "end": 39.32
       },
       {
-        "i": 132,
-        "word": "spacing.",
-        "start": 49.38,
-        "end": 49.96
+        "i": 112,
+        "word": "it.",
+        "start": 39.32,
+        "end": 39.84
       }
     ]
   },
   {
     "id": 10,
-    "text": "Add images only when they explain something or improve the reading experience.",
-    "start": 50.6,
-    "end": 54.66,
+    "text": "Use a dark code on a light background and leave a clear border around it.",
+    "start": 40.18,
+    "end": 43.9,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      133,
-      144
+      113,
+      127
     ],
     "words": [
       {
-        "i": 133,
-        "word": "Add",
-        "start": 50.6,
-        "end": 50.78
+        "i": 113,
+        "word": "Use",
+        "start": 40.18,
+        "end": 40.4
       },
       {
-        "i": 134,
-        "word": "images",
-        "start": 50.78,
-        "end": 51.02
+        "i": 114,
+        "word": "a",
+        "start": 40.4,
+        "end": 40.56
       },
       {
-        "i": 135,
-        "word": "only",
-        "start": 51.02,
-        "end": 51.42
+        "i": 115,
+        "word": "dark",
+        "start": 40.56,
+        "end": 40.8
       },
       {
-        "i": 136,
-        "word": "when",
-        "start": 51.42,
-        "end": 51.7
+        "i": 116,
+        "word": "code",
+        "start": 40.8,
+        "end": 41.12
       },
       {
-        "i": 137,
-        "word": "they",
-        "start": 51.7,
-        "end": 51.86
+        "i": 117,
+        "word": "on",
+        "start": 41.12,
+        "end": 41.3
       },
       {
-        "i": 138,
-        "word": "explain",
-        "start": 51.86,
-        "end": 52.28
+        "i": 118,
+        "word": "a",
+        "start": 41.3,
+        "end": 41.44
       },
       {
-        "i": 139,
-        "word": "something",
-        "start": 52.28,
-        "end": 52.7
+        "i": 119,
+        "word": "light",
+        "start": 41.44,
+        "end": 41.58
       },
       {
-        "i": 140,
-        "word": "or",
-        "start": 52.7,
-        "end": 53.1
+        "i": 120,
+        "word": "background",
+        "start": 41.58,
+        "end": 42.02
       },
       {
-        "i": 141,
-        "word": "improve",
-        "start": 53.1,
-        "end": 53.56
+        "i": 121,
+        "word": "and",
+        "start": 42.02,
+        "end": 42.3
       },
       {
-        "i": 142,
-        "word": "the",
-        "start": 53.56,
-        "end": 53.78
+        "i": 122,
+        "word": "leave",
+        "start": 42.3,
+        "end": 42.44
       },
       {
-        "i": 143,
-        "word": "reading",
-        "start": 53.78,
-        "end": 54.04
+        "i": 123,
+        "word": "a",
+        "start": 42.44,
+        "end": 42.56
       },
       {
-        "i": 144,
-        "word": "experience.",
-        "start": 54.04,
-        "end": 54.66
+        "i": 124,
+        "word": "clear",
+        "start": 42.56,
+        "end": 42.82
+      },
+      {
+        "i": 125,
+        "word": "border",
+        "start": 42.82,
+        "end": 43.1
+      },
+      {
+        "i": 126,
+        "word": "around",
+        "start": 43.1,
+        "end": 43.42
+      },
+      {
+        "i": 127,
+        "word": "it.",
+        "start": 43.42,
+        "end": 43.9
       }
     ]
   },
   {
     "id": 11,
-    "text": "Check that every image has enough detail for the size at which it appears.",
-    "start": 55.16,
-    "end": 58.8,
+    "text": "Add a short instruction nearby, such as scan to book.",
+    "start": 44.14,
+    "end": 46.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      145,
-      158
+      128,
+      137
     ],
     "words": [
       {
-        "i": 145,
-        "word": "Check",
-        "start": 55.16,
-        "end": 55.56
+        "i": 128,
+        "word": "Add",
+        "start": 44.14,
+        "end": 44.28
       },
       {
-        "i": 146,
-        "word": "that",
-        "start": 55.56,
-        "end": 55.76
+        "i": 129,
+        "word": "a",
+        "start": 44.28,
+        "end": 44.42
       },
       {
-        "i": 147,
-        "word": "every",
-        "start": 55.76,
-        "end": 56.12
+        "i": 130,
+        "word": "short",
+        "start": 44.42,
+        "end": 44.58
       },
       {
-        "i": 148,
-        "word": "image",
-        "start": 56.12,
-        "end": 56.44
+        "i": 131,
+        "word": "instruction",
+        "start": 44.58,
+        "end": 45.04
       },
       {
-        "i": 149,
-        "word": "has",
-        "start": 56.44,
-        "end": 56.64
+        "i": 132,
+        "word": "nearby,",
+        "start": 45.04,
+        "end": 45.46
       },
       {
-        "i": 150,
-        "word": "enough",
-        "start": 56.64,
-        "end": 56.92
+        "i": 133,
+        "word": "such",
+        "start": 45.76,
+        "end": 45.96
       },
       {
-        "i": 151,
-        "word": "detail",
-        "start": 56.92,
-        "end": 57.28
+        "i": 134,
+        "word": "as",
+        "start": 45.96,
+        "end": 46.22
       },
       {
-        "i": 152,
-        "word": "for",
-        "start": 57.28,
-        "end": 57.54
+        "i": 135,
+        "word": "scan",
+        "start": 46.22,
+        "end": 46.42
       },
       {
-        "i": 153,
-        "word": "the",
-        "start": 57.54,
-        "end": 57.68
+        "i": 136,
+        "word": "to",
+        "start": 46.42,
+        "end": 46.6
       },
       {
-        "i": 154,
-        "word": "size",
-        "start": 57.68,
-        "end": 57.92
-      },
-      {
-        "i": 155,
-        "word": "at",
-        "start": 57.92,
-        "end": 58.12
-      },
-      {
-        "i": 156,
-        "word": "which",
-        "start": 58.12,
-        "end": 58.26
-      },
-      {
-        "i": 157,
-        "word": "it",
-        "start": 58.26,
-        "end": 58.42
-      },
-      {
-        "i": 158,
-        "word": "appears.",
-        "start": 58.42,
-        "end": 58.8
+        "i": 137,
+        "word": "book.",
+        "start": 46.6,
+        "end": 46.78
       }
     ]
   },
   {
     "id": 12,
-    "text": "To add a clickable resource, select the relevant text, open the link control, and enter the web address.",
-    "start": 59.78,
-    "end": 65.56,
+    "text": "For print, keep the code at least two centimetres wide and increase it when people will scan from farther away.",
+    "start": 47.4,
+    "end": 52.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      159,
-      176
+      138,
+      157
     ],
     "words": [
       {
-        "i": 159,
-        "word": "To",
-        "start": 59.78,
-        "end": 59.88
+        "i": 138,
+        "word": "For",
+        "start": 47.4,
+        "end": 47.54
       },
       {
-        "i": 160,
-        "word": "add",
-        "start": 59.88,
-        "end": 60.02
+        "i": 139,
+        "word": "print,",
+        "start": 47.54,
+        "end": 47.76
       },
       {
-        "i": 161,
-        "word": "a",
-        "start": 60.02,
-        "end": 60.2
+        "i": 140,
+        "word": "keep",
+        "start": 48.08,
+        "end": 48.22
       },
       {
-        "i": 162,
-        "word": "clickable",
-        "start": 60.2,
-        "end": 60.5
-      },
-      {
-        "i": 163,
-        "word": "resource,",
-        "start": 60.5,
-        "end": 60.96
-      },
-      {
-        "i": 164,
-        "word": "select",
-        "start": 61.28,
-        "end": 61.52
-      },
-      {
-        "i": 165,
+        "i": 141,
         "word": "the",
-        "start": 61.52,
-        "end": 61.72
+        "start": 48.22,
+        "end": 48.38
       },
       {
-        "i": 166,
-        "word": "relevant",
-        "start": 61.72,
-        "end": 62.0
+        "i": 142,
+        "word": "code",
+        "start": 48.38,
+        "end": 48.56
       },
       {
-        "i": 167,
-        "word": "text,",
-        "start": 62.0,
-        "end": 62.46
+        "i": 143,
+        "word": "at",
+        "start": 48.56,
+        "end": 48.68
       },
       {
-        "i": 168,
-        "word": "open",
-        "start": 62.96,
-        "end": 63.2
+        "i": 144,
+        "word": "least",
+        "start": 48.68,
+        "end": 48.84
       },
       {
-        "i": 169,
-        "word": "the",
-        "start": 63.2,
-        "end": 63.36
+        "i": 145,
+        "word": "two",
+        "start": 48.84,
+        "end": 49.14
       },
       {
-        "i": 170,
-        "word": "link",
-        "start": 63.36,
-        "end": 63.52
+        "i": 146,
+        "word": "centimetres",
+        "start": 49.14,
+        "end": 49.68
       },
       {
-        "i": 171,
-        "word": "control,",
-        "start": 63.52,
-        "end": 63.9
+        "i": 147,
+        "word": "wide",
+        "start": 49.68,
+        "end": 50.0
       },
       {
-        "i": 172,
+        "i": 148,
         "word": "and",
-        "start": 64.34,
-        "end": 64.52
+        "start": 50.0,
+        "end": 50.22
       },
       {
-        "i": 173,
-        "word": "enter",
-        "start": 64.52,
-        "end": 64.88
+        "i": 149,
+        "word": "increase",
+        "start": 50.22,
+        "end": 50.54
       },
       {
-        "i": 174,
-        "word": "the",
-        "start": 64.88,
-        "end": 65.06
+        "i": 150,
+        "word": "it",
+        "start": 50.54,
+        "end": 50.72
       },
       {
-        "i": 175,
-        "word": "web",
-        "start": 65.06,
-        "end": 65.22
+        "i": 151,
+        "word": "when",
+        "start": 50.72,
+        "end": 50.88
       },
       {
-        "i": 176,
-        "word": "address.",
-        "start": 65.22,
-        "end": 65.56
+        "i": 152,
+        "word": "people",
+        "start": 50.88,
+        "end": 51.1
+      },
+      {
+        "i": 153,
+        "word": "will",
+        "start": 51.1,
+        "end": 51.28
+      },
+      {
+        "i": 154,
+        "word": "scan",
+        "start": 51.28,
+        "end": 51.6
+      },
+      {
+        "i": 155,
+        "word": "from",
+        "start": 51.6,
+        "end": 51.8
+      },
+      {
+        "i": 156,
+        "word": "farther",
+        "start": 51.8,
+        "end": 52.14
+      },
+      {
+        "i": 157,
+        "word": "away.",
+        "start": 52.14,
+        "end": 52.5
       }
     ]
   },
   {
     "id": 13,
-    "text": "You can also link contents entries to pages within the design when those page link options are available.",
-    "start": 66.22,
-    "end": 71.44,
+    "text": "Avoid stretching it into a rectangle.",
+    "start": 53.18,
+    "end": 54.58,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      177,
-      194
+      158,
+      163
     ],
     "words": [
       {
-        "i": 177,
-        "word": "You",
-        "start": 66.22,
-        "end": 66.34
+        "i": 158,
+        "word": "Avoid",
+        "start": 53.18,
+        "end": 53.42
       },
       {
-        "i": 178,
-        "word": "can",
-        "start": 66.34,
-        "end": 66.46
+        "i": 159,
+        "word": "stretching",
+        "start": 53.42,
+        "end": 53.74
       },
       {
-        "i": 179,
-        "word": "also",
-        "start": 66.46,
-        "end": 66.68
+        "i": 160,
+        "word": "it",
+        "start": 53.74,
+        "end": 53.94
       },
       {
-        "i": 180,
-        "word": "link",
-        "start": 66.68,
-        "end": 66.94
+        "i": 161,
+        "word": "into",
+        "start": 53.94,
+        "end": 54.12
       },
       {
-        "i": 181,
-        "word": "contents",
-        "start": 66.94,
-        "end": 67.34
+        "i": 162,
+        "word": "a",
+        "start": 54.12,
+        "end": 54.24
       },
       {
-        "i": 182,
-        "word": "entries",
-        "start": 67.34,
-        "end": 67.78
-      },
-      {
-        "i": 183,
-        "word": "to",
-        "start": 67.78,
-        "end": 68.08
-      },
-      {
-        "i": 184,
-        "word": "pages",
-        "start": 68.08,
-        "end": 68.36
-      },
-      {
-        "i": 185,
-        "word": "within",
-        "start": 68.36,
-        "end": 68.68
-      },
-      {
-        "i": 186,
-        "word": "the",
-        "start": 68.68,
-        "end": 68.84
-      },
-      {
-        "i": 187,
-        "word": "design",
-        "start": 68.84,
-        "end": 69.22
-      },
-      {
-        "i": 188,
-        "word": "when",
-        "start": 69.22,
-        "end": 69.74
-      },
-      {
-        "i": 189,
-        "word": "those",
-        "start": 69.74,
-        "end": 69.96
-      },
-      {
-        "i": 190,
-        "word": "page",
-        "start": 69.96,
-        "end": 70.22
-      },
-      {
-        "i": 191,
-        "word": "link",
-        "start": 70.22,
-        "end": 70.44
-      },
-      {
-        "i": 192,
-        "word": "options",
-        "start": 70.44,
-        "end": 70.82
-      },
-      {
-        "i": 193,
-        "word": "are",
-        "start": 70.82,
-        "end": 71.04
-      },
-      {
-        "i": 194,
-        "word": "available.",
-        "start": 71.04,
-        "end": 71.44
+        "i": 163,
+        "word": "rectangle.",
+        "start": 54.24,
+        "end": 54.58
       }
     ]
   },
   {
     "id": 14,
-    "text": "Open grid view, put the pages in order, and update the contents page.",
-    "start": 72.3,
-    "end": 76.16,
+    "text": "Here's the part many tutorials skip.",
+    "start": 55.3,
+    "end": 57.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      195,
-      207
+      164,
+      169
     ],
     "words": [
       {
-        "i": 195,
-        "word": "Open",
-        "start": 72.3,
-        "end": 72.62
+        "i": 164,
+        "word": "Here's",
+        "start": 55.3,
+        "end": 55.6
       },
       {
-        "i": 196,
-        "word": "grid",
-        "start": 72.62,
-        "end": 72.82
-      },
-      {
-        "i": 197,
-        "word": "view,",
-        "start": 72.82,
-        "end": 73.08
-      },
-      {
-        "i": 198,
-        "word": "put",
-        "start": 73.42,
-        "end": 73.6
-      },
-      {
-        "i": 199,
+        "i": 165,
         "word": "the",
-        "start": 73.6,
-        "end": 73.72
+        "start": 55.6,
+        "end": 55.72
       },
       {
-        "i": 200,
-        "word": "pages",
-        "start": 73.72,
-        "end": 73.98
+        "i": 166,
+        "word": "part",
+        "start": 55.72,
+        "end": 55.88
       },
       {
-        "i": 201,
-        "word": "in",
-        "start": 73.98,
-        "end": 74.18
+        "i": 167,
+        "word": "many",
+        "start": 55.88,
+        "end": 56.28
       },
       {
-        "i": 202,
-        "word": "order,",
-        "start": 74.18,
-        "end": 74.38
+        "i": 168,
+        "word": "tutorials",
+        "start": 56.28,
+        "end": 56.86
       },
       {
-        "i": 203,
-        "word": "and",
-        "start": 74.76,
-        "end": 74.92
-      },
-      {
-        "i": 204,
-        "word": "update",
-        "start": 74.92,
-        "end": 75.18
-      },
-      {
-        "i": 205,
-        "word": "the",
-        "start": 75.18,
-        "end": 75.36
-      },
-      {
-        "i": 206,
-        "word": "contents",
-        "start": 75.36,
-        "end": 75.7
-      },
-      {
-        "i": 207,
-        "word": "page.",
-        "start": 75.7,
-        "end": 76.16
+        "i": 169,
+        "word": "skip.",
+        "start": 56.86,
+        "end": 57.26
       }
     ]
   },
   {
     "id": 15,
-    "text": "Read through the ebook to catch missing text, repeated paragraphs, and leftover template content.",
-    "start": 76.76,
-    "end": 81.96,
+    "text": "The destination of a static QR code cannot be changed inside Canva after creation.",
+    "start": 57.8,
+    "end": 62.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      208,
-      221
+      170,
+      183
     ],
     "words": [
       {
-        "i": 208,
-        "word": "Read",
-        "start": 76.76,
-        "end": 76.98
+        "i": 170,
+        "word": "The",
+        "start": 57.8,
+        "end": 57.9
       },
       {
-        "i": 209,
-        "word": "through",
-        "start": 76.98,
-        "end": 77.18
+        "i": 171,
+        "word": "destination",
+        "start": 57.9,
+        "end": 58.32
       },
       {
-        "i": 210,
-        "word": "the",
-        "start": 77.18,
-        "end": 77.32
+        "i": 172,
+        "word": "of",
+        "start": 58.32,
+        "end": 58.66
       },
       {
-        "i": 211,
-        "word": "ebook",
-        "start": 77.32,
-        "end": 77.54
+        "i": 173,
+        "word": "a",
+        "start": 58.66,
+        "end": 58.74
       },
       {
-        "i": 212,
-        "word": "to",
-        "start": 77.54,
-        "end": 77.78
+        "i": 174,
+        "word": "static",
+        "start": 58.74,
+        "end": 59.1
       },
       {
-        "i": 213,
-        "word": "catch",
-        "start": 77.78,
-        "end": 78.02
+        "i": 175,
+        "word": "QR",
+        "start": 59.1,
+        "end": 59.46
       },
       {
-        "i": 214,
-        "word": "missing",
-        "start": 78.02,
-        "end": 78.32
+        "i": 176,
+        "word": "code",
+        "start": 59.46,
+        "end": 59.78
       },
       {
-        "i": 215,
-        "word": "text,",
-        "start": 78.32,
-        "end": 78.78
+        "i": 177,
+        "word": "cannot",
+        "start": 59.78,
+        "end": 60.02
       },
       {
-        "i": 216,
-        "word": "repeated",
-        "start": 79.22,
-        "end": 79.5
+        "i": 178,
+        "word": "be",
+        "start": 60.02,
+        "end": 60.28
       },
       {
-        "i": 217,
-        "word": "paragraphs,",
-        "start": 79.5,
-        "end": 80.06
+        "i": 179,
+        "word": "changed",
+        "start": 60.28,
+        "end": 60.64
       },
       {
-        "i": 218,
-        "word": "and",
-        "start": 80.48,
-        "end": 80.7
+        "i": 180,
+        "word": "inside",
+        "start": 60.64,
+        "end": 61.14
       },
       {
-        "i": 219,
-        "word": "leftover",
-        "start": 80.7,
-        "end": 81.0
+        "i": 181,
+        "word": "Canva",
+        "start": 61.14,
+        "end": 61.54
       },
       {
-        "i": 220,
-        "word": "template",
-        "start": 81.0,
-        "end": 81.48
+        "i": 182,
+        "word": "after",
+        "start": 61.54,
+        "end": 61.9
       },
       {
-        "i": 221,
-        "word": "content.",
-        "start": 81.48,
-        "end": 81.96
+        "i": 183,
+        "word": "creation.",
+        "start": 61.9,
+        "end": 62.36
       }
     ]
   },
   {
     "id": 16,
-    "text": "Choose Share, Download, and PDF Standard.",
-    "start": 82.46,
-    "end": 86.66,
+    "text": "If you generate it with the wrong address, create a replacement code before printing.",
+    "start": 63.06,
+    "end": 67.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      222,
-      227
+      184,
+      197
     ],
     "words": [
       {
-        "i": 222,
-        "word": "Choose",
-        "start": 82.46,
-        "end": 83.04
+        "i": 184,
+        "word": "If",
+        "start": 63.06,
+        "end": 63.22
       },
       {
-        "i": 223,
-        "word": "Share,",
-        "start": 83.04,
-        "end": 83.88
+        "i": 185,
+        "word": "you",
+        "start": 63.22,
+        "end": 63.36
       },
       {
-        "i": 224,
-        "word": "Download,",
-        "start": 84.44,
-        "end": 84.84
+        "i": 186,
+        "word": "generate",
+        "start": 63.36,
+        "end": 63.68
       },
       {
-        "i": 225,
-        "word": "and",
-        "start": 85.36,
-        "end": 85.6
+        "i": 187,
+        "word": "it",
+        "start": 63.68,
+        "end": 63.88
       },
       {
-        "i": 226,
-        "word": "PDF",
-        "start": 85.6,
-        "end": 85.94
+        "i": 188,
+        "word": "with",
+        "start": 63.88,
+        "end": 64.0
       },
       {
-        "i": 227,
-        "word": "Standard.",
-        "start": 85.94,
-        "end": 86.66
+        "i": 189,
+        "word": "the",
+        "start": 64.0,
+        "end": 64.14
+      },
+      {
+        "i": 190,
+        "word": "wrong",
+        "start": 64.14,
+        "end": 64.3
+      },
+      {
+        "i": 191,
+        "word": "address,",
+        "start": 64.3,
+        "end": 64.72
+      },
+      {
+        "i": 192,
+        "word": "create",
+        "start": 65.18,
+        "end": 65.34
+      },
+      {
+        "i": 193,
+        "word": "a",
+        "start": 65.34,
+        "end": 65.52
+      },
+      {
+        "i": 194,
+        "word": "replacement",
+        "start": 65.52,
+        "end": 65.86
+      },
+      {
+        "i": 195,
+        "word": "code",
+        "start": 65.86,
+        "end": 66.28
+      },
+      {
+        "i": 196,
+        "word": "before",
+        "start": 66.28,
+        "end": 66.64
+      },
+      {
+        "i": 197,
+        "word": "printing.",
+        "start": 66.64,
+        "end": 67.06
       }
     ]
   },
   {
     "id": 17,
-    "text": "Leave Flatten PDF disabled to preserve clickable links.",
-    "start": 87.36,
-    "end": 90.7,
+    "text": "Choose a dynamic code from the beginning when the link needs to change later.",
+    "start": 67.66,
+    "end": 71.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      228,
-      235
+      198,
+      211
     ],
     "words": [
       {
-        "i": 228,
-        "word": "Leave",
-        "start": 87.36,
-        "end": 87.7
+        "i": 198,
+        "word": "Choose",
+        "start": 67.66,
+        "end": 67.9
       },
       {
-        "i": 229,
-        "word": "Flatten",
-        "start": 87.7,
-        "end": 88.06
+        "i": 199,
+        "word": "a",
+        "start": 67.9,
+        "end": 68.06
       },
       {
-        "i": 230,
-        "word": "PDF",
-        "start": 88.06,
-        "end": 88.42
+        "i": 200,
+        "word": "dynamic",
+        "start": 68.06,
+        "end": 68.4
       },
       {
-        "i": 231,
-        "word": "disabled",
-        "start": 88.42,
-        "end": 89.08
+        "i": 201,
+        "word": "code",
+        "start": 68.4,
+        "end": 68.74
       },
       {
-        "i": 232,
+        "i": 202,
+        "word": "from",
+        "start": 68.74,
+        "end": 68.94
+      },
+      {
+        "i": 203,
+        "word": "the",
+        "start": 68.94,
+        "end": 69.06
+      },
+      {
+        "i": 204,
+        "word": "beginning",
+        "start": 69.06,
+        "end": 69.32
+      },
+      {
+        "i": 205,
+        "word": "when",
+        "start": 69.32,
+        "end": 69.64
+      },
+      {
+        "i": 206,
+        "word": "the",
+        "start": 69.64,
+        "end": 69.8
+      },
+      {
+        "i": 207,
+        "word": "link",
+        "start": 69.8,
+        "end": 69.94
+      },
+      {
+        "i": 208,
+        "word": "needs",
+        "start": 69.94,
+        "end": 70.22
+      },
+      {
+        "i": 209,
         "word": "to",
-        "start": 89.08,
-        "end": 89.58
+        "start": 70.22,
+        "end": 70.4
       },
       {
-        "i": 233,
-        "word": "preserve",
-        "start": 89.58,
-        "end": 89.94
+        "i": 210,
+        "word": "change",
+        "start": 70.4,
+        "end": 70.68
       },
       {
-        "i": 234,
-        "word": "clickable",
-        "start": 89.94,
-        "end": 90.38
-      },
-      {
-        "i": 235,
-        "word": "links.",
-        "start": 90.38,
-        "end": 90.7
+        "i": 211,
+        "word": "later.",
+        "start": 70.68,
+        "end": 71.1
       }
     ]
   },
   {
     "id": 18,
-    "text": "Download all pages, then open the PDF and test its links.",
-    "start": 91.66,
-    "end": 95.0,
+    "text": "Download the design in the format you need, then scan the exported code with your phone.",
+    "start": 71.78,
+    "end": 75.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      236,
-      246
+      212,
+      227
     ],
     "words": [
       {
-        "i": 236,
+        "i": 212,
         "word": "Download",
-        "start": 91.66,
-        "end": 91.92
+        "start": 71.78,
+        "end": 72.0
       },
       {
-        "i": 237,
-        "word": "all",
-        "start": 91.92,
-        "end": 92.14
-      },
-      {
-        "i": 238,
-        "word": "pages,",
-        "start": 92.14,
-        "end": 92.5
-      },
-      {
-        "i": 239,
-        "word": "then",
-        "start": 92.92,
-        "end": 93.06
-      },
-      {
-        "i": 240,
-        "word": "open",
-        "start": 93.06,
-        "end": 93.26
-      },
-      {
-        "i": 241,
+        "i": 213,
         "word": "the",
-        "start": 93.26,
-        "end": 93.4
+        "start": 72.0,
+        "end": 72.22
       },
       {
-        "i": 242,
-        "word": "PDF",
-        "start": 93.4,
-        "end": 93.76
+        "i": 214,
+        "word": "design",
+        "start": 72.22,
+        "end": 72.48
       },
       {
-        "i": 243,
-        "word": "and",
-        "start": 93.76,
-        "end": 94.3
+        "i": 215,
+        "word": "in",
+        "start": 72.48,
+        "end": 72.62
       },
       {
-        "i": 244,
-        "word": "test",
-        "start": 94.3,
-        "end": 94.52
+        "i": 216,
+        "word": "the",
+        "start": 72.62,
+        "end": 72.74
       },
       {
-        "i": 245,
-        "word": "its",
-        "start": 94.52,
-        "end": 94.76
+        "i": 217,
+        "word": "format",
+        "start": 72.74,
+        "end": 72.98
       },
       {
-        "i": 246,
-        "word": "links.",
-        "start": 94.76,
-        "end": 95.0
+        "i": 218,
+        "word": "you",
+        "start": 72.98,
+        "end": 73.2
+      },
+      {
+        "i": 219,
+        "word": "need,",
+        "start": 73.2,
+        "end": 73.5
+      },
+      {
+        "i": 220,
+        "word": "then",
+        "start": 73.76,
+        "end": 73.94
+      },
+      {
+        "i": 221,
+        "word": "scan",
+        "start": 73.94,
+        "end": 74.28
+      },
+      {
+        "i": 222,
+        "word": "the",
+        "start": 74.28,
+        "end": 74.46
+      },
+      {
+        "i": 223,
+        "word": "exported",
+        "start": 74.46,
+        "end": 74.88
+      },
+      {
+        "i": 224,
+        "word": "code",
+        "start": 74.88,
+        "end": 75.26
+      },
+      {
+        "i": 225,
+        "word": "with",
+        "start": 75.26,
+        "end": 75.48
+      },
+      {
+        "i": 226,
+        "word": "your",
+        "start": 75.48,
+        "end": 75.64
+      },
+      {
+        "i": 227,
+        "word": "phone.",
+        "start": 75.64,
+        "end": 75.94
       }
     ]
   },
   {
     "id": 19,
-    "text": "Here's the part many tutorials skip.",
-    "start": 96.58,
-    "end": 98.58,
+    "text": "For printed material, scan a physical proof as well.",
+    "start": 76.56,
+    "end": 79.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      247,
-      252
+      228,
+      236
     ],
     "words": [
       {
-        "i": 247,
-        "word": "Here's",
-        "start": 96.58,
-        "end": 96.94
+        "i": 228,
+        "word": "For",
+        "start": 76.56,
+        "end": 76.72
       },
       {
-        "i": 248,
-        "word": "the",
-        "start": 96.94,
-        "end": 97.06
+        "i": 229,
+        "word": "printed",
+        "start": 76.72,
+        "end": 76.94
       },
       {
-        "i": 249,
-        "word": "part",
-        "start": 97.06,
-        "end": 97.22
+        "i": 230,
+        "word": "material,",
+        "start": 76.94,
+        "end": 77.42
       },
       {
-        "i": 250,
-        "word": "many",
-        "start": 97.22,
-        "end": 97.58
+        "i": 231,
+        "word": "scan",
+        "start": 77.62,
+        "end": 77.94
       },
       {
-        "i": 251,
-        "word": "tutorials",
-        "start": 97.58,
-        "end": 98.2
+        "i": 232,
+        "word": "a",
+        "start": 77.94,
+        "end": 78.16
       },
       {
-        "i": 252,
-        "word": "skip.",
-        "start": 98.2,
-        "end": 98.58
+        "i": 233,
+        "word": "physical",
+        "start": 78.16,
+        "end": 78.5
+      },
+      {
+        "i": 234,
+        "word": "proof",
+        "start": 78.5,
+        "end": 78.84
+      },
+      {
+        "i": 235,
+        "word": "as",
+        "start": 78.84,
+        "end": 79.04
+      },
+      {
+        "i": 236,
+        "word": "well.",
+        "start": 79.04,
+        "end": 79.36
       }
     ]
   },
   {
     "id": 20,
-    "text": "This workflow creates a PDF with a fixed page layout.",
-    "start": 99.2,
-    "end": 102.56,
+    "text": "Confirm that the correct page opens and works for someone who is not signed into your account.",
+    "start": 79.36,
+    "end": 83.96,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      253,
-      262
+      237,
+      253
     ],
     "words": [
       {
-        "i": 253,
-        "word": "This",
-        "start": 99.2,
-        "end": 99.48
+        "i": 237,
+        "word": "Confirm",
+        "start": 79.36,
+        "end": 80.3
       },
       {
-        "i": 254,
-        "word": "workflow",
-        "start": 99.48,
-        "end": 99.88
+        "i": 238,
+        "word": "that",
+        "start": 80.3,
+        "end": 80.44
       },
       {
-        "i": 255,
-        "word": "creates",
-        "start": 99.88,
-        "end": 100.32
+        "i": 239,
+        "word": "the",
+        "start": 80.44,
+        "end": 80.58
       },
       {
-        "i": 256,
-        "word": "a",
-        "start": 100.32,
-        "end": 100.54
+        "i": 240,
+        "word": "correct",
+        "start": 80.58,
+        "end": 80.82
       },
       {
-        "i": 257,
-        "word": "PDF",
-        "start": 100.54,
-        "end": 100.9
-      },
-      {
-        "i": 258,
-        "word": "with",
-        "start": 100.9,
-        "end": 101.38
-      },
-      {
-        "i": 259,
-        "word": "a",
-        "start": 101.38,
-        "end": 101.52
-      },
-      {
-        "i": 260,
-        "word": "fixed",
-        "start": 101.52,
-        "end": 101.78
-      },
-      {
-        "i": 261,
+        "i": 241,
         "word": "page",
-        "start": 101.78,
-        "end": 102.12
+        "start": 80.82,
+        "end": 81.12
       },
       {
-        "i": 262,
-        "word": "layout.",
-        "start": 102.12,
-        "end": 102.56
+        "i": 242,
+        "word": "opens",
+        "start": 81.12,
+        "end": 81.46
+      },
+      {
+        "i": 243,
+        "word": "and",
+        "start": 81.46,
+        "end": 81.74
+      },
+      {
+        "i": 244,
+        "word": "works",
+        "start": 81.74,
+        "end": 81.94
+      },
+      {
+        "i": 245,
+        "word": "for",
+        "start": 81.94,
+        "end": 82.14
+      },
+      {
+        "i": 246,
+        "word": "someone",
+        "start": 82.14,
+        "end": 82.36
+      },
+      {
+        "i": 247,
+        "word": "who",
+        "start": 82.36,
+        "end": 82.5
+      },
+      {
+        "i": 248,
+        "word": "is",
+        "start": 82.5,
+        "end": 82.6
+      },
+      {
+        "i": 249,
+        "word": "not",
+        "start": 82.6,
+        "end": 82.84
+      },
+      {
+        "i": 250,
+        "word": "signed",
+        "start": 82.84,
+        "end": 83.22
+      },
+      {
+        "i": 251,
+        "word": "into",
+        "start": 83.22,
+        "end": 83.44
+      },
+      {
+        "i": 252,
+        "word": "your",
+        "start": 83.44,
+        "end": 83.62
+      },
+      {
+        "i": 253,
+        "word": "account.",
+        "start": 83.62,
+        "end": 83.96
       }
     ]
   },
   {
     "id": 21,
-    "text": "Text stays where you placed it.",
-    "start": 103.46,
-    "end": 105.04,
+    "text": "Your QR code is now ready to share.",
+    "start": 84.66,
+    "end": 86.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      263,
-      268
+      254,
+      261
     ],
     "words": [
       {
-        "i": 263,
-        "word": "Text",
-        "start": 103.46,
-        "end": 103.46
+        "i": 254,
+        "word": "Your",
+        "start": 84.66,
+        "end": 84.76
       },
       {
-        "i": 264,
-        "word": "stays",
-        "start": 103.46,
-        "end": 104.0
+        "i": 255,
+        "word": "QR",
+        "start": 84.76,
+        "end": 85.02
       },
       {
-        "i": 265,
-        "word": "where",
-        "start": 104.0,
-        "end": 104.26
+        "i": 256,
+        "word": "code",
+        "start": 85.02,
+        "end": 85.32
       },
       {
-        "i": 266,
-        "word": "you",
-        "start": 104.26,
-        "end": 104.42
+        "i": 257,
+        "word": "is",
+        "start": 85.32,
+        "end": 85.5
       },
       {
-        "i": 267,
-        "word": "placed",
-        "start": 104.42,
-        "end": 104.66
+        "i": 258,
+        "word": "now",
+        "start": 85.5,
+        "end": 85.66
       },
       {
-        "i": 268,
-        "word": "it.",
-        "start": 104.66,
-        "end": 105.04
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "text": "If your publishing platform requires a re-flowable ebook, prepare and validate a suitable file for that platform separately.",
-    "start": 105.48,
-    "end": 111.92,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      269,
-      287
-    ],
-    "words": [
-      {
-        "i": 269,
-        "word": "If",
-        "start": 105.48,
-        "end": 105.7
+        "i": 259,
+        "word": "ready",
+        "start": 85.66,
+        "end": 85.82
       },
       {
-        "i": 270,
-        "word": "your",
-        "start": 105.7,
-        "end": 105.84
+        "i": 260,
+        "word": "to",
+        "start": 85.82,
+        "end": 86.06
       },
       {
-        "i": 271,
-        "word": "publishing",
-        "start": 105.84,
-        "end": 106.16
-      },
-      {
-        "i": 272,
-        "word": "platform",
-        "start": 106.16,
-        "end": 106.6
-      },
-      {
-        "i": 273,
-        "word": "requires",
-        "start": 106.6,
-        "end": 107.02
-      },
-      {
-        "i": 274,
-        "word": "a",
-        "start": 107.02,
-        "end": 107.2
-      },
-      {
-        "i": 275,
-        "word": "re",
-        "start": 107.2,
-        "end": 107.4
-      },
-      {
-        "i": 276,
-        "word": "-flowable",
-        "start": 107.4,
-        "end": 107.9
-      },
-      {
-        "i": 277,
-        "word": "ebook,",
-        "start": 107.9,
-        "end": 108.24
-      },
-      {
-        "i": 278,
-        "word": "prepare",
-        "start": 108.24,
-        "end": 108.9
-      },
-      {
-        "i": 279,
-        "word": "and",
-        "start": 108.9,
-        "end": 109.22
-      },
-      {
-        "i": 280,
-        "word": "validate",
-        "start": 109.22,
-        "end": 109.58
-      },
-      {
-        "i": 281,
-        "word": "a",
-        "start": 109.58,
-        "end": 109.82
-      },
-      {
-        "i": 282,
-        "word": "suitable",
-        "start": 109.82,
-        "end": 110.14
-      },
-      {
-        "i": 283,
-        "word": "file",
-        "start": 110.14,
-        "end": 110.58
-      },
-      {
-        "i": 284,
-        "word": "for",
-        "start": 110.58,
-        "end": 110.8
-      },
-      {
-        "i": 285,
-        "word": "that",
-        "start": 110.8,
-        "end": 110.96
-      },
-      {
-        "i": 286,
-        "word": "platform",
-        "start": 110.96,
-        "end": 111.36
-      },
-      {
-        "i": 287,
-        "word": "separately.",
-        "start": 111.36,
-        "end": 111.92
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "text": "Keep the Canva project as your editable master, so future corrections can be exported as an updated PDF.",
-    "start": 112.86,
-    "end": 118.58,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      288,
-      305
-    ],
-    "words": [
-      {
-        "i": 288,
-        "word": "Keep",
-        "start": 112.86,
-        "end": 113.02
-      },
-      {
-        "i": 289,
-        "word": "the",
-        "start": 113.02,
-        "end": 113.22
-      },
-      {
-        "i": 290,
-        "word": "Canva",
-        "start": 113.22,
-        "end": 113.48
-      },
-      {
-        "i": 291,
-        "word": "project",
-        "start": 113.48,
-        "end": 113.8
-      },
-      {
-        "i": 292,
-        "word": "as",
-        "start": 113.8,
-        "end": 114.08
-      },
-      {
-        "i": 293,
-        "word": "your",
-        "start": 114.08,
-        "end": 114.24
-      },
-      {
-        "i": 294,
-        "word": "editable",
-        "start": 114.24,
-        "end": 114.72
-      },
-      {
-        "i": 295,
-        "word": "master,",
-        "start": 114.72,
-        "end": 115.08
-      },
-      {
-        "i": 296,
-        "word": "so",
-        "start": 115.4,
-        "end": 115.58
-      },
-      {
-        "i": 297,
-        "word": "future",
-        "start": 115.58,
-        "end": 115.96
-      },
-      {
-        "i": 298,
-        "word": "corrections",
-        "start": 115.96,
-        "end": 116.44
-      },
-      {
-        "i": 299,
-        "word": "can",
-        "start": 116.44,
-        "end": 116.68
-      },
-      {
-        "i": 300,
-        "word": "be",
-        "start": 116.68,
-        "end": 116.76
-      },
-      {
-        "i": 301,
-        "word": "exported",
-        "start": 116.76,
-        "end": 117.24
-      },
-      {
-        "i": 302,
-        "word": "as",
-        "start": 117.24,
-        "end": 117.62
-      },
-      {
-        "i": 303,
-        "word": "an",
-        "start": 117.62,
-        "end": 117.74
-      },
-      {
-        "i": 304,
-        "word": "updated",
-        "start": 117.74,
-        "end": 118.24
-      },
-      {
-        "i": 305,
-        "word": "PDF.",
-        "start": 118.24,
-        "end": 118.58
+        "i": 261,
+        "word": "share.",
+        "start": 86.06,
+        "end": 86.32
       }
     ]
   }
