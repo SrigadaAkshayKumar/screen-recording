@@ -1,7 +1,7 @@
 {
   "recording": {
     "file": "recording.mp4",
-    "duration": 314.1,
+    "duration": 255.333,
     "fps": 30.0,
     "fps_fraction": "30/1",
     "width": 1920,
@@ -9,14 +9,14 @@
     "codec": "h264",
     "vfr": false,
     "has_audio": false,
-    "frames": 9423
+    "frames": 7660
   },
   "voiceover": {
-    "file": "voiceover.wav",
-    "duration": 108.344,
-    "codec": "pcm_s16le",
+    "file": "voiceover.mp3",
+    "duration": 89.675,
+    "codec": "mp3",
     "sample_rate": 44100,
-    "channels": 2
+    "channels": 1
   },
   "clicks": null,
   "warnings": []

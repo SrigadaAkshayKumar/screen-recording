@@ -1,27 +1,28 @@
-"""Hand plan for script-20: 314 s zoom-baked recording, 108 s voiceover. Each group fills one
-narration interval with moving source pieces at a uniform speed."""
-import json, sys
-sys.path.insert(0, 'tools')
-from plan_builder import plan_hash
+"""Hand-built plan for script-20 (255 s recording with baked-in recorder zoom: no zooms/ripples; pieces are chosen from
+freezedetect (n=0.003, d=0.8) moving windows of the source, 0.75-1.2x)."""
+import json
 P = 'projects/script-20/work/'
-END = 108.344
+END = 89.675
 G = [
- (0, 16.5, [(152.5, 164.9)]),
- (16.5, 28.5, [(11.2, 21.2)]),
- (28.5, 33.2, [(22.4, 27.1)]),
- (33.2, 37.1, [(54.3, 58.2)]),
- (37.1, 40.08, [(65.0, 68.1)]),
- (40.08, 45.0, [(79.5, 84.4)]),
- (45.0, 50.26, [(85.3, 91.1)]),
- (50.26, 58.56, [(106.9, 111.3), (113.1, 115.4), (116.7, 118.0)]),
- (58.56, 65.56, [(178.8, 183.3), (184.7, 187.2)]),
- (65.56, 72.1, [(187.2, 190.5), (193.9, 197.3)]),
- (72.1, 82.14, [(200.9, 204.6), (205.5, 207.2), (170.1, 171.9), (172.9, 174.2)]),
- (82.14, 93.98, [(244.7, 249.1), (252.8, 255.4), (272.9, 277.5)]),
- (93.98, 97.16, [(261.0, 264.6)]),
- (97.16, 100.96, [(237.8, 242.8)]),
- (100.96, 103.64, [(286.5, 289.7)]),
- (103.64, END, [(299.5, 303.9), (307.8, 310.1)]),
+ (0, 8.98, [(7.6, 10.83), (12.2, 15.57), (16.37, 17.2)]),
+ (8.98, 13.16, [(18.0, 21.47), (22.7, 24.87)]),
+ (13.16, 15.7, [(26.23, 29.03)]),
+ (15.7, 19.24, [(43.17, 45.5), (48.23, 50.57)]),
+ (19.24, 22.92, [(61.8, 63.07), (64.17, 66.4)]),
+ (22.92, 29.26, [(70.0, 76.3)]),
+ (29.26, 34.02, [(91.47, 92.57), (93.7, 95.9), (97.43, 99.5)]),
+ (34.02, 38.1, [(146.0, 149.4), (150.3, 151.5)]),
+ (38.1, 41.72, [(107.5, 111.1)]),
+ (41.72, 44.64, [(66.4, 69.3)]),
+ (44.64, 49.86, [(139.0, 144.0)]),
+ (49.86, 53.74, [(112.83, 116.07), (120.73, 121.5)]),
+ (53.74, 55.8, [(126.83, 128.9)]),
+ (55.8, 65.32, [(167.53, 169.83), (174.73, 176.07), (178.57, 180.13), (181.2, 182.77), (185.03, 188.3)]),
+ (65.32, 70.56, [(191.1, 195.47), (198.3, 199.9)]),
+ (70.56, 76.58, [(215.8, 221.67)]),
+ (76.58, 80.14, [(223.8, 225.83), (227.33, 229.1)]),
+ (80.14, 84.76, [(233.03, 238.0)]),
+ (84.76, END, [(239.0, 241.07), (242.37, 244.93), (252.13, 253.3)]),
 ]
 segs, prev_end = [], None
 for o0, o1, pieces in G:
@@ -33,9 +34,10 @@ for o0, o1, pieces in G:
         if prev_end is not None and abs(a - prev_end) > 0.002:
             s["xfade"] = True
         segs.append(s); prev_end = b; t = end
-    print(f"{o0:7.2f}-{o1:7.2f} speed {sp:.2f}x")
-plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080},
-        "segments": segs, "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [],
+    print(f"{o0:6.2f}-{o1:6.2f} {sp:.2f}x {pieces}")
+plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
+        "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
-plan["generated_hash"] = plan_hash(plan)
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
+json.dump({"recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 255.333}, "sync": {"source": "frames"},
+           "actions": [], "junk": []}, open(P + 'actions.json', 'w'), indent=1)
