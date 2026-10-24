@@ -231,7 +231,7 @@ class FrameReader:
         self.close()
         w, h = self.size
         vf = f"setpts=PTS-STARTPTS,fps={self.fps.numerator}/{self.fps.denominator}," \
-             f"scale={w}:{h}:flags={self.scale_flags}"
+             f"scale={w}:{h}:flags={self.scale_flags}+accurate_rnd+full_chroma_int"
         cmd = [ffbin("ffmpeg"), "-v", "error", "-nostdin"]
         if start_index > 0:
             cmd += ["-ss", f"{max(0.0, (start_index - 0.5) / float(self.fps)):.6f}"]

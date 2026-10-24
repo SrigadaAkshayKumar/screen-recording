@@ -166,6 +166,10 @@ def main():
     ap.add_argument("--cursor-halo", action="store_true", help="soft yellow halo following the clicks")
     ap.add_argument("--no-xfade", action="store_true", help="hard cuts instead of 6-frame cross-fades")
     ap.add_argument("--check", action="store_true", help="validate plan.json and exit")
+    ap.add_argument("--deliver-height", type=int, default=1440,
+                    help="final file height: the edit is upscaled (lanczos + light sharpen) to this; YouTube "
+                         "streams 1440p uploads at a much higher bitrate than 1080p, so screen text stays "
+                         "crisp (default 1440; 0 = keep the recording size)")
     a = ap.parse_args()
     pr = Project(a.project)
     probe = pr.need("probe.json", "tools/probe.py")
@@ -215,14 +219,23 @@ def main():
 
     t_a = n0 / float(fps)
     dur = (n1 - n0) / float(fps)
+    # Delivery size: upscale the finished frames (never the source) for a sharper stream on YouTube.
+    DH = a.deliver_height if (a.deliver_height and not a.preview and a.deliver_height > RH) else RH
+    DW = even(RW * DH / RH)
+    SHARPEN = ",unsharp=5:5:0.45:5:5:0.0" if DH > RH else ""
     vlog = open(pr.w("render-ffmpeg.log"), "w", encoding="utf-8")
     enc_cmd = [ffbin("ffmpeg"), "-v", "error", "-y", "-nostdin",
                "-f", "rawvideo", "-pix_fmt", "bgr24", "-s", f"{RW}x{RH}",
                "-r", f"{fps.numerator}/{fps.denominator}", "-i", "-",
                "-ss", f"{t_a:.3f}", "-t", f"{dur:.3f}", "-i", str(pr.voiceover),
                "-map", "0:v:0", "-map", "1:a:0",
+               *(["-vf", f"scale=w={DW}:h={DH}:flags=lanczos+accurate_rnd+full_chroma_int:out_color_matrix=bt709"
+                         f"{SHARPEN},format=yuv420p"] if not a.preview else
+                 ["-vf", "scale=out_color_matrix=bt709,format=yuv420p"]),
+               "-colorspace", "bt709", "-color_primaries", "bt709", "-color_trc", "bt709", "-color_range", "tv",
                "-c:v", "libx264", "-preset", "ultrafast" if a.preview else "slow",
                "-crf", "23" if a.preview else "16", "-pix_fmt", "yuv420p",
+               *([] if a.preview else ["-profile:v", "high", "-x264-params", "aq-mode=3:deblock=-1,-1"]),
                "-c:a", "aac", "-b:a", "192k", "-shortest", "-movflags", "+faststart", str(out)]
     enc = subprocess.Popen(enc_cmd, stdin=subprocess.PIPE, stderr=vlog)
 
@@ -298,7 +311,7 @@ def main():
                       "xfade": bool(s.get("xfade")), "into": s["mode"]})
     write_json(pr.w("render.json"), {
         "output": str(out), "preview": a.preview, "range": [r3(t_a), r3(t_a + dur)],
-        "width": RW, "height": RH, "fps": float(fps), "frames": n1 - n0, "elapsed_s": el,
+        "width": RW, "height": RH, "delivered": [DW, DH], "fps": float(fps), "frames": n1 - n0, "elapsed_s": el,
         "zoom_peaks": [{"out_t": z["out_t"] + z["hold"] / 2, "x": z["x"], "y": z["y"], "scale": z["scale"]}
                        for z in plan.get("zooms") or []],
         "joins": joins,

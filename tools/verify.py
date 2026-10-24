@@ -105,6 +105,9 @@ def main():
     check("streams", len(vs) == 1 and len(au) == 1,
           f"{len(vs)} video, {len(au)} audio{f', {len(others)} other' if others else ''}")
     want = (rec["width"], rec["height"])
+    rj = pr.maybe("render.json") or {}
+    if not a.preview and rj.get("delivered") and not rj.get("preview"):
+        want = tuple(rj["delivered"])                    # render.py upscales the final file for delivery
     if a.preview:
         want = (even(rec["width"] * min(540, rec["height"]) / rec["height"]), min(540, rec["height"]))
     got = (int(vs[0]["width"]), int(vs[0]["height"])) if vs else (0, 0)
