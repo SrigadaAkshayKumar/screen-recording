@@ -1,1 +1,0 @@
-No actions.json was written: the recording has baked-in recorder zoom and no click log, so the plan is hand-built from contact sheets (see sync-notes.md). Not shown in the recording: template search typed text, cropping, the Download file-type choice (PNG shown at 226-229), YouTube upload "Save".
