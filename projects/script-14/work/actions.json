@@ -3,7 +3,7 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 314.3
+  "duration": 283.433
  },
  "sync": {
   "clicks_offset": 0,
@@ -12,35 +12,35 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 234.5,
-   "x": 1860,
-   "y": 167,
+   "t_click": 194.0,
+   "x": 1590,
+   "y": 100,
    "kind": "click",
    "target": "Share button",
-   "result": "Share design panel opens",
-   "t_result_visible": 244.0,
+   "result": "Share panel opens",
+   "t_result_visible": 196.0,
    "confidence": "low"
   },
   {
    "id": "A2",
-   "t_click": 258.9,
-   "x": 1657,
-   "y": 697,
+   "t_click": 211.0,
+   "x": 1540,
+   "y": 600,
    "kind": "click",
-   "target": "Create template link button",
-   "result": "template link created and copied",
-   "t_result_visible": 264.0,
+   "target": "Transparent background toggle",
+   "result": "toggle turns on",
+   "t_result_visible": 212.0,
    "confidence": "low"
   },
   {
    "id": "A3",
-   "t_click": 284.2,
-   "x": 1642,
-   "y": 760,
+   "t_click": 215.0,
+   "x": 1100,
+   "y": 880,
    "kind": "click",
-   "target": "Download button in the download panel",
-   "result": "PDF downloads, browser shows the file",
-   "t_result_visible": 290.0,
+   "target": "Download button",
+   "result": "download starts",
+   "t_result_visible": 220.7,
    "confidence": "low"
   }
  ],

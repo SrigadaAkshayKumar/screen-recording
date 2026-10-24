@@ -1,49 +1,49 @@
-"""Hand-built plan for script-14 (314 s recorder-zoomed recording, 99.985 s voiceover).
-Pieces are (src_a, src_b, out_a, out_b), budgeted per narration line. No zooms/ripples: the footage has baked-in zoom."""
-import json, sys
+"""Hand-built plan for script-14 (283 s recorder-zoomed recording, 90.558 s voiceover).
+Pieces are (src_a, src_b, speed) taken from the freezedetect moving windows of the source;
+out times are derived and the slack is spread over the pieces. No zooms/ripples (baked-in zoom)."""
+import json
 P = 'projects/script-14/work/'
-D = 99.985
-PIECES = [
- (0.0, 1.3, 0, 1.73),
- (5.5, 14.9, 1.73, 14.26),
- (14.9, 17.5, 14.26, 16.46),
- (17.5, 18.9, 16.46, 17.2),
- (19.9, 20.9, 17.2, 18.42),
- (20.9, 24.0, 18.42, 19.97),
- (24.0, 26.8, 19.97, 23.54),
- (26.8, 34.5, 23.54, 30.64),
- (89.1, 95.4, 30.64, 35.98),
- (175.0, 179.0, 35.98, 39.62),
- (123.2, 129.4, 39.62, 45.82),
- (233.0, 236.4, 45.82, 49.22),
- (245.2, 248.4, 49.22, 52.42),
- (283.2, 287.1, 52.42, 56.3),
- (289.0, 293.0, 56.3, 60.22),
- (293.0, 299.0, 60.22, 66.08),
- (299.0, 303.5, 66.08, 70.56),
- (303.5, 305.2, 70.56, 72.8),
- (256.9, 262.3, 72.8, 78.08),
- (262.3, 267.0, 78.08, 83.54),
- (267.0, 269.2, 83.54, 85.76),
- (271.8, 274.0, 85.76, 87.92),
- (279.1, 285.0, 87.92, 93.8),
- (199.0, 205.19, 93.8, D),
+D = 90.558
+PIECES = [  # src_a, src_b, speed
+ (9.2, 12.75, 0.76),     # homepage / create dialog      L1
+ (15.8, 19.9, 0.91),     # search T-shirt, new design    L2
+ (24.6, 32.1, 1.19),     # custom size, blank canvas
+ (45.5, 49.4, 0.87),     # template applied              L3
+ (64.9, 67.3, 1.3),
+ (77.7, 80.5, 0.95),     # text edit                     L4
+ (81.3, 86.0, 1.35),     # font size
+ (101.6, 117.0, 1.5),    # upload artwork, insert        L5
+ (129.6, 137.9, 1.5),    # arrange / centre              L6
+ (138.9, 141.4, 1.0),    # check small text              L7
+ (147.0, 160.5, 1.5),    # background colour test        L8-9
+ (234.4, 250.0, 1.5),    # T-shirt mockup                L10-12
+ (252.0, 257.0, 1.2),    # background colour removed     L13
+ (193.0, 201.0, 1.5),    # share + download panel        L14
+ (203.7, 206.9, 1.4),    # file type PNG
+ (210.9, 216.9, 1.5),    # transparent background, size  L15
+ (220.7, 223.1, 1.0),    # download completes            L16
+ (226.3, 232.0, 1.4),    # file picker                   L17
+ (262.6, 265.8, 1.0),    # shirt with artwork            L18
+ (267.0, 268.4, 1.0),    # end                           L19
 ]
-segs, prev = [], None
-for a, b, o0, o1 in PIECES:
-    s = {"src_start": a, "src_end": b, "out_start": o0, "out_end": o1, "mode": "speed"}
+tot = sum((b - a) / s for a, b, s in PIECES)
+k = tot / D  # >1 means too long: speed up everything slightly
+segs, prev, t = [], None, 0.0
+for i, (a, b, s) in enumerate(PIECES):
+    d = (b - a) / s / k
+    o1 = D if i == len(PIECES) - 1 else round(t + d, 3)
+    seg = {"src_start": a, "src_end": b, "out_start": round(t, 3), "out_end": o1, "mode": "speed"}
     if prev is not None and abs(a - prev) > 0.002:
-        s["xfade"] = True
-    segs.append(s); prev = b
-A = [  # id, t_click, x, y, target, result, t_result, confidence
- ("A1", 234.5, 1860, 167, "Share button", "Share design panel opens", 244.0, "low"),
- ("A2", 258.9, 1657, 697, "Create template link button", "template link created and copied", 264.0, "low"),
- ("A3", 284.2, 1642, 760, "Download button in the download panel", "PDF downloads, browser shows the file", 290.0, "low"),
-]
-actions = {"recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 314.3},
+        seg["xfade"] = True
+    segs.append(seg); prev = b; t = o1
+    print(i, a, b, round((b - a) / (o1 - seg["out_start"]), 2), seg["out_start"], o1)
+A = [("A1", 194.0, 1590, 100, "Share button", "Share panel opens", 196.0, "low"),
+     ("A2", 211.0, 1540, 600, "Transparent background toggle", "toggle turns on", 212.0, "low"),
+     ("A3", 215.0, 1100, 880, "Download button", "download starts", 220.7, "low")]
+actions = {"recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 283.433},
            "sync": {"clicks_offset": 0, "source": "frames"},
-           "actions": [{"id": i, "t_click": t, "x": x, "y": y, "kind": "click", "target": tg, "result": r,
-                        "t_result_visible": tr, "confidence": c} for i, t, x, y, tg, r, tr, c in A],
+           "actions": [{"id": i, "t_click": t_, "x": x, "y": y, "kind": "click", "target": tg, "result": r,
+                        "t_result_visible": tr, "confidence": c} for i, t_, x, y, tg, r, tr, c in A],
            "junk": []}
 plan = {"output": {"duration": D, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [], "ripples": [],
         "intro": None, "outro": None, "sync": [],
