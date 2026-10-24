@@ -1,30 +1,33 @@
-"""Hand-built plan for script-02 (315 s recording for a 105 s voiceover, recorder zoom baked in: no zooms/ripples).
-Each group fills one narration interval with source pieces chosen where the picture moves (see report).
-A piece is (src_a, src_b) or (src_a, src_b, speed); pieces without a speed share the rest of the interval."""
+"""Hand-built plan for script-02 (225 s recording, 86.7 s voiceover, recorder zoom baked in: no zooms/ripples).
+Each group fills one narration interval (ends at the next line's start) with source pieces chosen where the
+picture moves (freezedetect on the source). A piece is (src_a, src_b) or (src_a, src_b, speed); pieces without
+a speed share the rest of the interval."""
 import json
 P = 'projects/script-02/work/'
-END = 105.372
+END = 86.703
 G = [
- (18.84, [(4.5, 6.2, .75), (12.8, 14.6, .75), (6.2, 7.9, .75), (14.8, 16.6, .75), (7.9, 9.2, .75), (16.8, 18.6, .75),
-          (10.7, 12.8, .75), (18.2, 20.2)]),
- (21.56, [(22.6, 23.7), (28.5, 30.0)]),
- (25.52, [(33.5, 38.0)]),
- (29.38, [(45.0, 49.6)]),
- (35.66, [(50.0, 55.3), (64.7, 66.8)]),
- (40.86, [(118.0, 121.2), (95.5, 97.7)]),
- (43.2, [(134.8, 137.2)]),
- (46.88, [(147.5, 151.2)]),
- (49.9, [(157.4, 160.4)]),
- (54.8, [(172.0, 177.0)]),
- (58.72, [(177.0, 181.0)]),
- (69.94, [(188.7, 195.0), (198.2, 202.8)]),
- (76.8, [(211.7, 218.5)]),
- (82.06, [(218.5, 221.0), (228.8, 232.0)]),
- (87.94, [(237.5, 242.0), (248.5, 250.0)]),
- (91.86, [(250.0, 253.9)]),
- (98.2, [(254.0, 262.0)]),
- (101.46, [(279.5, 283.0)]),
- (END, [(299.0, 301.3), (305.0, 306.6)]),
+ (5.8,   [(2.2, 6.7)]),                          # L1 intro on the Canva home
+ (9.14,  [(12.6, 13.8), (22.03, 24.37)]),        # L2 editor opens, elements
+ (15.66, [(28.8, 33.27), (33.27, 35.3)]),        # L3 frames category
+ (18.76, [(30.8, 33.27)]),                  # L4 landscape frame in the panel (reuse)
+ (23.52, [(37.0, 40.9)]),   # L5 frame placed on the page
+ (26.5,  [(52.0, 54.0), (57.5, 59.0)]),          # L6 open uploads / upload dialog
+ (30.56, [(73.7, 77.8)]),                        # L7 drag onto the frame
+ (33.9,  [(77.8, 79.4), (79.4, 80.4)]),          # L8 result in the shape
+ (36.16, [(85.5, 87.8)]),                        # L9 double click -> crop
+ (40.98, [(86.8, 90.7)]),          # L10 reposition / handles
+ (44.66, [(92.8, 95.9)]),                        # L11 done
+ (48.42, [(117.6, 121.4)]),                      # L12 resize the frame
+ (52.22, [(118.8, 121.8)]), # L13 masked result keeps its shape
+ (58.08, [(138.7, 144.9)]),                      # L14-15 frames from the elements panel
+ (60.86, [(144.9, 147.5)]),                      # L16 add shape/frame
+ (65.06, [(147.5, 151.5)]),                      # L17 select both
+ (68.94, [(171.0, 175.0)]),                      # L18 ready-made frame
+ (72.34, [(175.0, 178.0)]),                      # L19 other shapes
+ (76.02, [(178.0, 181.6)]),                      # L20 drag replacement
+ (79.08, [(181.6, 184.7)]),                      # L21 image changed
+ (84.02, [(205.6, 208.6), (215.0, 217.0)]),      # L22 download PNG / MP4
+ (END,   [(217.0, 219.7)]),                      # L23 closing
 ]
 segs, prev_end, o0 = [], None, 0.0
 for o1, pieces in G:
