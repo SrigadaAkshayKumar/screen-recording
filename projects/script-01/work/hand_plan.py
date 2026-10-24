@@ -1,39 +1,34 @@
-"""Hand-built plan for script-01 (586 s recording, 122.7 s voiceover; baked-in recorder zoom: no zooms/ripples).
-One group per narration line: (out_start, out_end, [(src_a, src_b)...]). Pieces share the group's speed."""
+"""Hand-built plan for script-01 (441.6 s recording, 104.4 s voiceover; baked-in recorder zoom: no zooms/ripples).
+One group per narration line: pieces share the group's speed; cross-fade at every source jump."""
 import json
 P = 'projects/script-01/work/'
-END = 122.694
-B = [0, 7.86, 12.22, 15.8, 19.54, 27.24, 31.6, 37.12, 43.24, 47.56, 50.6, 54.58, 57.84, 65.14, 68.32, 70.62, 72.4,
-     78.02, 81.2, 86.12, 89.34, 95.12, 97.44, 100.88, 107.22, 111.0, 115.86, 118.38, END]
+END = 104.397
+B = [0, 6.0, 11.26, 16.62, 19.36, 25.38, 31.34, 34.48, 37.44, 42.04, 46.02, 51.14, 57.42, 61.96, 66.72, 69.56,
+     74.78, 77.6, 81.14, 86.38, 93.8, 96.14, 100.98, END]
 S = [
- [(0.0, 7.0)],                          # L1 intro: title deck, pages
- [(16.2, 21.9)],                        # L2 create blank presentation
- [(21.9, 24.7)],                        # L3 each page = one question
- [(30.5, 34.2)],                        # L4 plan note (deck, no matching footage)
- [(54.8, 61.1)],                        # L5 build first page
- [(61.1, 64.7)],                        # L6 label A B C
- [(74.4, 79.6)],                        # L7 page thumbnail, clock, timing
- [(79.8, 80.8), (83.2, 87.0)],          # L8 element timing (no footage: page timing popup)
- [(91.0, 94.3)],                        # L9 timing handles
- [(94.3, 96.6)],                        # L10 keep question visible
- [(96.6, 98.4), (104.4, 106.8)],        # L11 Apps, search Bulk Create
- [(119.3, 121.7), (123.2, 125.0)],      # L12 Bulk Create, Enter data manually
- [(125.0, 128.0), (189.0, 196.0)],      # L13 clear table, add columns
- [(224.0, 226.4), (254.0, 255.8)],      # L14 rows, Done
- [(255.8, 258.2)],                      # L15 Match and Fill Fields
- [(258.2, 260.2)],                      # L16 review connections
- [(265.6, 268.0), (272.4, 275.6)],                      # L17 correct a connection
- [(402.0, 405.2)],                      # L18 answer box uses Answer
- [(373.0, 378.0)],                      # L19 preview data
- [(473.5, 477.0)],                      # L20 More options
- [(477.0, 482.8)],                      # L21 output, create
- [(492.5, 495.0)],                      # L22 result opens
- [(495.0, 498.2)],                      # L23 preview does not play timing
- [(498.2, 504.5)],                      # L24 play generated design
- [(540.0, 543.8)],                      # L25 correct element timing
- [(556.0, 562.0)],                      # L26 Share, Download, MP4
- [(565.5, 568.0)],                      # L27 select pages, download
- [(569.0, 573.3)],                      # L28 watch exported file
+ [(7.2, 10.2), (430.9, 432.9)],        # L1 intro: home zoom, finished design
+ [(41.0, 44.2), (64.9, 66.8)],                     # L2 dimensions: custom size fields
+ [(72.9, 76.9), (79.4, 80.9)],         # L3 bleed/safe area: template browsing
+ [(20.6, 24.2)],                       # L4 homepage, Create, Custom size
+ [(44.2, 45.6), (49.6, 52.2), (55.2, 56.4)],                     # L5 units, dimensions
+ [(57.2, 59.5), (62.3, 65.0)],         # L6 24 by 14, create
+ [(87.4, 91.4)],                       # L7 background colour
+ [(101.7, 104.7)],                     # L8 extend background
+ [(105.0, 108.0), (110.7, 112.2)],     # L9 elements panel
+ [(110.7, 114.7)],                     # L10 simple shapes
+ [(124.8, 130.0)],                     # L11 rounded rectangles
+ [(179.2, 185.2)],                     # L12 numbers in zones
+ [(130.0, 134.0)],                     # L13 select / group
+ [(166.3, 170.3)],                     # L14 position, guides
+ [(216.3, 218.6)],                     # L15 aside
+ [(170.3, 174.6)],                     # L16 guides
+ [(194.6, 197.0)],                     # L17 supplier
+ [(225.0, 228.0)],                     # L18 measurements
+ [(344.0, 348.4)],                     # L19 share, download
+ [(351.4, 358.1)],                     # L20 PDF print
+ [(398.9, 400.9)],                     # L21 crop marks
+ [(415.6, 419.8)],                     # L22 check exported file
+ [(419.8, 423.3)],                     # L23 ready
 ]
 segs, prev = [], None
 for k, pieces in enumerate(S):
