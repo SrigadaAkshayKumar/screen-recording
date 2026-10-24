@@ -1,10 +1,14 @@
-# sync notes
-Hand plan (work/hand_plan.py): 20 narration intervals, each filled with source pieces at 0.77-1.47x. No zooms, no ripples (recorder zoom baked in; no click log). plan_builder was not used.
-
+# Sync notes (script-05)
+plan.json is built by work/hand_plan.py (not plan_builder): the recording is 259.6 s for a 90.1 s voiceover,
+has baked-in recorder zoom and no click log, so each narration line got source pieces chosen by hand.
+No zooms, no ripples, empty `sync` (clicks are not word-pinned; the footage follows each line's step).
 ## Judgment calls
-- Intro (L1): src 13.2-19.7, first design with the cursor moving to the page toolbar (the first 14 s of the recording are frozen).
-- Order follows the audio: L10 (position guides, src 118.8) is shown after L9 (colours, src 155); L11/L12 use the pages scroll / blank page at 194-201; grid view (208-215) for L13-14.
-- Cut (cross-faded): off-topic design/Drive 22-26 s, static dialog 53-59 s, recording's template/typing stretches, PNG download progress 241-245 s, all frozen stretches over 2.5 s, 265-277 s static PDF panel.
-- L6-L8 are one continuous 0.79x scroll through pages 1-5 (131.8-141.6).
-- L22 reuses grid footage 212.3-216.3 (also in L14) as the closing shot for "cover first, last page last"; xfade.
-- check.py --plan: no pace: warnings. Remaining warnings are about the coarse actions (A1, A2, A7 not tied to words; A3/A5/A9 results land slightly after their line; A8 result cut).
+- Follows the audio order; all pieces play at 0.91-1.44x, no holds. Source order is kept except where the narration needs
+  an earlier/later step (cross-faded jumps, 23 of them; unavoidable with 170 s of dead time to skip).
+- L2 packs Create / Uploads / Videos tab into 4.3 s at 1.43x (three pieces).
+- Idle/cursor-only spans (45-53, 59.5-65.7, 73.9-79.2, 134-141, 145.6-148.3, 190-198, 209.9-213.6) are skipped.
+- Player loading (240-246.5) and the download progress (229-237) are cut. Closing line plays the downloaded video.
+- L17-18 ("Here's the part. Many tutorials skip.") has no matching on-screen step; shows the audio track being added.
+- L19/L20 reuse the audio panel and the speed slider returning to 0.5 as visuals.
+## Uncertain
+- Piece boundaries chosen from sheet tiles, not single frames; see report "Check these".

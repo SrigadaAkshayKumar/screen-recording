@@ -1,32 +1,32 @@
-"""Hand-built plan for script-05: 305 s recording (baked-in recorder zoom, no click log) for a 96.4 s voiceover.
+"""Hand-built plan for script-05: 260 s recording (baked-in recorder zoom, no click log) for a 90.1 s voiceover.
 Each group fills one narration interval with source pieces; no zooms/ripples (recorder zoom is baked in)."""
 import json, sys
 sys.path.insert(0, 'tools')
 import check
 P = 'projects/script-05/work/'
 lines = json.load(open(P + 'lines.json'))
-END = 96.409
+END = 90.14
 G = [
- (0, 6.52, [(13.2, 19.7)]),
- (6.52, 10.66, [(27.3, 33.4)]),
- (10.66, 17.62, [(43.8, 52.4)]),
- (17.62, 20.28, [(60.3, 63.9)]),
- (20.28, 25.26, [(79.8, 86.5)]),
- (25.26, 37.6, [(131.8, 141.6)]),
- (37.6, 40.46, [(155.0, 159.2)]),
- (40.46, 46.16, [(118.8, 124.0)]),
- (46.16, 50.42, [(194.2, 198.6)]),
- (50.42, 53.66, [(198.8, 201.4)]),
- (53.66, 56.46, [(208.2, 210.8)]),
- (56.46, 62.44, [(210.8, 215.4)]),
- (62.44, 65.4, [(223.4, 227.4)]),
- (65.4, 68.46, [(234.2, 236.2), (238.4, 239.6)]),
- (68.46, 73.46, [(239.6, 241.8), (244.3, 245.6), (248.0, 250.8)]),
- (73.46, 75.88, [(250.8, 253.0)]),
- (75.88, 78.6, [(253.0, 255.7)]),
- (78.6, 85.32, [(258.8, 265.4)]),
- (85.32, 92.18, [(277.3, 284.2)]),
- (92.18, END, [(212.3, 216.3)]),
+ (0, 5.4, [(4.6, 10.0)]),
+ (5.4, 9.66, [(10.2, 13.4), (18.4, 20.2), (21.2, 22.3)]),
+ (9.66, 13.5, [(22.6, 26.4)]),
+ (13.5, 17.3, [(41.2, 45.0)]),
+ (17.3, 19.8, [(53.2, 56.8)]),
+ (19.8, 24.52, [(67.0, 71.7)]),
+ (24.52, 32.84, [(71.7, 73.9), (79.2, 85.5)]),
+ (32.84, 36.52, [(86.0, 89.7)]),
+ (36.52, 43.56, [(107.3, 113.7)]),
+ (43.56, 46.26, [(118.0, 121.0)]),
+ (46.26, 49.4, [(126.4, 130.0)]),
+ (49.4, 51.38, [(140.0, 142.0)]),
+ (51.38, 59.22, [(148.4, 156.3)]),
+ (59.22, 60.8, [(160.2, 162.0)]),
+ (60.8, 67.58, [(169.2, 174.4), (183.0, 184.6)]),
+ (67.58, 74.46, [(186.0, 189.0), (199.0, 203.0)]),
+ (74.46, 80.3, [(203.0, 208.5)]),
+ (80.3, 84.38, [(219.4, 221.9), (225.5, 227.5)]),
+ (84.38, 87.76, [(247.8, 251.2)]),
+ (87.76, END, [(251.2, 253.6)]),
 ]
 segs, prev_end = [], None
 for o0, o1, pieces in G:
@@ -47,6 +47,6 @@ for a in json.load(open(P + 'actions.json'))['actions']:
     o = check.src_to_out(segs, a['t_click'])
     if o is None: continue
     i, w, t = min(allw, key=lambda x: abs(x[2] - o))
-    if abs(t - o) > 0.15: continue  # hand plan: only record clicks that really land on a word
+    if abs(t - o) > 0.15: continue
     plan['sync'].append({"action": a['id'], "line": next(l['id'] for l in lines if l['word_range'][0] <= i <= l['word_range'][1]), "word": w.strip('.,'), "word_index": i, "word_t": t, "out_t": round(o, 3)})
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)

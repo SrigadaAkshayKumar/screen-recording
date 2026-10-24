@@ -3,7 +3,7 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 304.733
+  "duration": 259.567
  },
  "sync": {
   "source": "frames"
@@ -11,117 +11,216 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 29.0,
-   "x": 230,
-   "y": 175,
+   "t_click": 10.5,
+   "x": 761,
+   "y": 518,
    "kind": "click",
-   "target": "Create button",
-   "result": "Create a design dialog opens",
-   "t_result_visible": 29.8,
-   "confidence": "low"
+   "target": "Video icon on Canva home",
+   "result": "Create a design dialog (Videos) opens",
+   "t_result_visible": 12.0,
+   "confidence": "medium"
   },
   {
    "id": "A2",
-   "t_click": 32.0,
-   "x": 1000,
-   "y": 552,
-   "kind": "type",
-   "target": "search box",
-   "result": "template results appear",
-   "t_result_visible": 32.8,
-   "confidence": "low",
-   "text": ""
+   "t_click": 13.2,
+   "x": 1290,
+   "y": 410,
+   "kind": "click",
+   "target": "Instagram Reel design",
+   "result": "blank editor opens (loading)",
+   "t_result_visible": 16.0,
+   "confidence": "low"
   },
   {
    "id": "A3",
-   "t_click": 47.0,
-   "x": 1070,
-   "y": 560,
-   "kind": "type",
-   "target": "Custom size width/height",
-   "result": "1080 x 1350 entered",
-   "t_result_visible": 52.0,
-   "confidence": "low",
-   "text": ""
+   "t_click": 18.8,
+   "x": 109,
+   "y": 720,
+   "kind": "click",
+   "target": "Uploads tab in sidebar",
+   "result": "uploads panel opens",
+   "t_result_visible": 19.6,
+   "confidence": "medium"
   },
   {
    "id": "A4",
-   "t_click": 61.0,
-   "x": 590,
-   "y": 1000,
+   "t_click": 21.0,
+   "x": 150,
+   "y": 650,
    "kind": "click",
-   "target": "Add page button",
-   "result": "extra pages added",
-   "t_result_visible": 62.0,
+   "target": "Videos tab in uploads",
+   "result": "uploaded videos listed",
+   "t_result_visible": 21.8,
    "confidence": "low"
   },
   {
    "id": "A5",
-   "t_click": 84.0,
-   "x": 1100,
-   "y": 640,
-   "kind": "type",
-   "target": "cover heading",
-   "result": "heading replaced with the benefit text",
-   "t_result_visible": 86.4,
+   "t_click": 23.6,
+   "x": 300,
+   "y": 840,
+   "kind": "drag",
+   "target": "uploaded clip",
+   "result": "clip added to the timeline",
+   "t_result_visible": 25.0,
    "confidence": "low",
-   "text": ""
+   "x2": 300,
+   "y2": 1000,
+   "t_end": 24.8
   },
   {
    "id": "A6",
-   "t_click": 209.0,
-   "x": 1700,
-   "y": 1000,
+   "t_click": 42.0,
+   "x": 330,
+   "y": 960,
    "kind": "click",
-   "target": "Grid view icon",
-   "result": "pages shown side by side",
-   "t_result_visible": 210.0,
-   "confidence": "low"
+   "target": "video clip on the timeline",
+   "result": "clip selected, toolbar shows",
+   "t_result_visible": 42.5,
+   "confidence": "medium"
   },
   {
    "id": "A7",
-   "t_click": 222.5,
-   "x": 1840,
-   "y": 176,
+   "t_click": 43.1,
+   "x": 1010,
+   "y": 590,
    "kind": "click",
-   "target": "Share button",
-   "result": "Share panel opens",
-   "t_result_visible": 223.5,
-   "confidence": "low"
+   "target": "Edit button in toolbar",
+   "result": "Edit panel opens at the left",
+   "t_result_visible": 44.5,
+   "confidence": "medium"
   },
   {
    "id": "A8",
-   "t_click": 226.0,
-   "x": 1310,
-   "y": 690,
-   "kind": "click",
-   "target": "Download in Share panel",
-   "result": "Download panel opens",
-   "t_result_visible": 227.5,
-   "confidence": "low"
+   "t_click": 53.0,
+   "x": 200,
+   "y": 800,
+   "kind": "scroll",
+   "target": "Edit panel",
+   "result": "Video speed slider reached",
+   "t_result_visible": 56.7,
+   "confidence": "medium"
   },
   {
    "id": "A9",
-   "t_click": 238.5,
-   "x": 1665,
-   "y": 331,
+   "t_click": 69.0,
+   "x": 1230,
+   "y": 590,
    "kind": "click",
-   "target": "Download button",
-   "result": "PNG download starts",
-   "t_result_visible": 240.0,
-   "confidence": "low"
+   "target": "Speed button in toolbar",
+   "result": "Video speed popover opens",
+   "t_result_visible": 70.0,
+   "confidence": "medium"
   },
   {
    "id": "A10",
-   "t_click": 263.0,
-   "x": 1320,
-   "y": 625,
+   "t_click": 71.5,
+   "x": 1330,
+   "y": 610,
+   "kind": "drag",
+   "target": "speed slider",
+   "result": "speed set to 0.5, then 0.25 (timeline gets longer)",
+   "t_result_visible": 85.0,
+   "confidence": "medium",
+   "x2": 1290,
+   "y2": 610,
+   "t_end": 84.5
+  },
+  {
+   "id": "A11",
+   "t_click": 110.2,
+   "x": 1370,
+   "y": 260,
    "kind": "click",
-   "target": "PDF file type",
-   "result": "PDF option selected",
-   "t_result_visible": 264.0,
+   "target": "clip on the timeline (right-click)",
+   "result": "context menu with Split",
+   "t_result_visible": 110.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 118.8,
+   "x": 1360,
+   "y": 230,
+   "kind": "click",
+   "target": "playhead / clip at end of moment",
+   "result": "second split",
+   "t_result_visible": 121.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 126.9,
+   "x": 1200,
+   "y": 590,
+   "kind": "click",
+   "target": "Speed button (middle section)",
+   "result": "speed popover",
+   "t_result_visible": 129.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 170.1,
+   "x": 1250,
+   "y": 590,
+   "kind": "click",
+   "target": "Audio tools / volume",
+   "result": "volume slider",
+   "t_result_visible": 170.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 219.6,
+   "x": 1840,
+   "y": 60,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 221.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 226.5,
+   "x": 1520,
+   "y": 470,
+   "kind": "click",
+   "target": "Download button",
+   "result": "download starts (progress)",
+   "t_result_visible": 229.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 247.9,
+   "x": 1000,
+   "y": 520,
+   "kind": "click",
+   "target": "downloaded file",
+   "result": "player plays the MP4",
+   "t_result_visible": 248.4,
    "confidence": "low"
   }
  ],
- "junk": []
+ "junk": [
+  {
+   "start": 0,
+   "end": 4.5,
+   "reason": "idle home screen",
+   "ff": true
+  },
+  {
+   "start": 240.0,
+   "end": 246.5,
+   "reason": "player loading",
+   "ff": false
+  },
+  {
+   "start": 254.5,
+   "end": 259.567,
+   "reason": "desktop / recorder stop",
+   "ff": false
+  }
+ ]
 }
