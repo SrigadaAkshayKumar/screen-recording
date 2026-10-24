@@ -1,5 +1,5 @@
 # Analyze notes (script-06)
-- No actions.json was written: the recording has baked-in recorder zoom, no click log, and is 327 s for a 100 s voiceover, so the plan is a hand plan (work/hand_plan.py) built from the contact sheets and scenes.json stills. No click times/positions were extracted, so there are no ripples or zooms.
-- Recording order matches the narration order up to ~L9 (new design, colour, upload, text, font, position, File > Settings). L10-L13 (resolution) reuse the second Custom-size take (src 220-236, 3600x5400) and the hummingbird photo (src 200-204). L14-L16 Download/PDF Print/crop marks/colour profile come from src 183-187 and 241-259. L17-L19 are the opened PDF (src 283-299). L20-21 are the Resize panel (src 306-316).
-- Narration items with no footage: "line spacing" (L5) and "background extend through bleed" (L8): shown only as the File > Settings menu; "show print bleed" is not in the recording.
-- Uncertain: all piece boundaries come from sheet tiles, not single-frame checks.
+actions.json was NOT written: no click log, and the 396 s recording has baked-in recorder zoom, so the plan is hand-built
+(work/hand_plan.py) from freezedetect moving windows (work/freeze_src.txt). No zooms/ripples (recorder already zooms).
+Static/cursor-only source spans avoided: 20.8-35.6, 47.5-57.2, 97.9-103.2, 140-146.7, 244.9-257.3, 265-273.6, 299.7-307, 320-327.
+Off-topic source not used: desktop at the end (>388 s), idle live-site view 388-391.
