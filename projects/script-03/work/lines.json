@@ -1,1951 +1,1864 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to convert one image, or several images, into a PDF using Canva on your computer.",
+    "text": "This tutorial shows you how to turn one Canva design into nine connected Instagram posts.",
     "start": 0.0,
-    "end": 6.44,
+    "end": 4.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      19
+      14
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.22
+        "end": 0.24
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.22,
-        "end": 0.6
+        "start": 0.24,
+        "end": 0.58
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.6,
-        "end": 1.04
+        "start": 0.58,
+        "end": 0.96
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.04,
-        "end": 1.24
+        "start": 0.96,
+        "end": 1.14
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.24,
-        "end": 1.38
+        "start": 1.14,
+        "end": 1.24
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.38,
-        "end": 1.54
+        "start": 1.24,
+        "end": 1.38
       },
       {
         "i": 6,
-        "word": "convert",
-        "start": 1.54,
-        "end": 1.84
+        "word": "turn",
+        "start": 1.38,
+        "end": 1.58
       },
       {
         "i": 7,
         "word": "one",
-        "start": 1.84,
-        "end": 2.22
+        "start": 1.58,
+        "end": 1.88
       },
       {
         "i": 8,
-        "word": "image,",
-        "start": 2.22,
-        "end": 2.58
+        "word": "Canva",
+        "start": 1.88,
+        "end": 2.22
       },
       {
         "i": 9,
-        "word": "or",
-        "start": 2.72,
-        "end": 2.86
+        "word": "design",
+        "start": 2.22,
+        "end": 2.54
       },
       {
         "i": 10,
-        "word": "several",
-        "start": 2.86,
-        "end": 3.2
+        "word": "into",
+        "start": 2.54,
+        "end": 3.02
       },
       {
         "i": 11,
-        "word": "images,",
-        "start": 3.2,
-        "end": 3.64
+        "word": "nine",
+        "start": 3.02,
+        "end": 3.4
       },
       {
         "i": 12,
-        "word": "into",
-        "start": 3.84,
-        "end": 4.18
+        "word": "connected",
+        "start": 3.4,
+        "end": 3.92
       },
       {
         "i": 13,
-        "word": "a",
-        "start": 4.18,
-        "end": 4.42
+        "word": "Instagram",
+        "start": 3.92,
+        "end": 4.48
       },
       {
         "i": 14,
-        "word": "PDF",
-        "start": 4.42,
-        "end": 4.72
-      },
-      {
-        "i": 15,
-        "word": "using",
-        "start": 4.72,
-        "end": 5.22
-      },
-      {
-        "i": 16,
-        "word": "Canva",
-        "start": 5.22,
-        "end": 5.66
-      },
-      {
-        "i": 17,
-        "word": "on",
-        "start": 5.66,
-        "end": 5.86
-      },
-      {
-        "i": 18,
-        "word": "your",
-        "start": 5.86,
-        "end": 6.04
-      },
-      {
-        "i": 19,
-        "word": "computer.",
-        "start": 6.04,
-        "end": 6.44
+        "word": "posts.",
+        "start": 4.48,
+        "end": 4.94
       }
     ]
   },
   {
     "id": 2,
-    "text": "Start a design using the page size you need, choose A4 for a standard document, or use custom size if the PDF should match a particular image or print size.",
-    "start": 7.22,
-    "end": 16.62,
+    "text": "First, choose the shape of your individual posts.",
+    "start": 5.64,
+    "end": 8.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      20,
-      49
+      15,
+      22
     ],
     "words": [
       {
+        "i": 15,
+        "word": "First,",
+        "start": 5.64,
+        "end": 5.86
+      },
+      {
+        "i": 16,
+        "word": "choose",
+        "start": 6.12,
+        "end": 6.42
+      },
+      {
+        "i": 17,
+        "word": "the",
+        "start": 6.42,
+        "end": 6.66
+      },
+      {
+        "i": 18,
+        "word": "shape",
+        "start": 6.66,
+        "end": 6.84
+      },
+      {
+        "i": 19,
+        "word": "of",
+        "start": 6.84,
+        "end": 7.04
+      },
+      {
         "i": 20,
-        "word": "Start",
-        "start": 7.22,
-        "end": 7.48
+        "word": "your",
+        "start": 7.04,
+        "end": 7.2
       },
       {
         "i": 21,
-        "word": "a",
-        "start": 7.48,
-        "end": 7.62
+        "word": "individual",
+        "start": 7.2,
+        "end": 7.7
       },
       {
         "i": 22,
-        "word": "design",
-        "start": 7.62,
-        "end": 7.9
-      },
-      {
-        "i": 23,
-        "word": "using",
-        "start": 7.9,
-        "end": 8.16
-      },
-      {
-        "i": 24,
-        "word": "the",
-        "start": 8.16,
-        "end": 8.38
-      },
-      {
-        "i": 25,
-        "word": "page",
-        "start": 8.38,
-        "end": 8.64
-      },
-      {
-        "i": 26,
-        "word": "size",
-        "start": 8.64,
-        "end": 8.86
-      },
-      {
-        "i": 27,
-        "word": "you",
-        "start": 8.86,
-        "end": 9.08
-      },
-      {
-        "i": 28,
-        "word": "need,",
-        "start": 9.08,
-        "end": 9.42
-      },
-      {
-        "i": 29,
-        "word": "choose",
-        "start": 9.96,
-        "end": 10.2
-      },
-      {
-        "i": 30,
-        "word": "A4",
-        "start": 10.2,
-        "end": 10.78
-      },
-      {
-        "i": 31,
-        "word": "for",
-        "start": 10.78,
-        "end": 11.0
-      },
-      {
-        "i": 32,
-        "word": "a",
-        "start": 11.0,
-        "end": 11.14
-      },
-      {
-        "i": 33,
-        "word": "standard",
-        "start": 11.14,
-        "end": 11.38
-      },
-      {
-        "i": 34,
-        "word": "document,",
-        "start": 11.38,
-        "end": 11.9
-      },
-      {
-        "i": 35,
-        "word": "or",
-        "start": 12.28,
-        "end": 12.5
-      },
-      {
-        "i": 36,
-        "word": "use",
-        "start": 12.5,
-        "end": 12.74
-      },
-      {
-        "i": 37,
-        "word": "custom",
-        "start": 12.74,
-        "end": 13.06
-      },
-      {
-        "i": 38,
-        "word": "size",
-        "start": 13.06,
-        "end": 13.46
-      },
-      {
-        "i": 39,
-        "word": "if",
-        "start": 13.46,
-        "end": 13.72
-      },
-      {
-        "i": 40,
-        "word": "the",
-        "start": 13.72,
-        "end": 13.84
-      },
-      {
-        "i": 41,
-        "word": "PDF",
-        "start": 13.84,
-        "end": 14.14
-      },
-      {
-        "i": 42,
-        "word": "should",
-        "start": 14.14,
-        "end": 14.42
-      },
-      {
-        "i": 43,
-        "word": "match",
-        "start": 14.42,
-        "end": 14.64
-      },
-      {
-        "i": 44,
-        "word": "a",
-        "start": 14.64,
-        "end": 14.82
-      },
-      {
-        "i": 45,
-        "word": "particular",
-        "start": 14.82,
-        "end": 15.18
-      },
-      {
-        "i": 46,
-        "word": "image",
-        "start": 15.18,
-        "end": 15.58
-      },
-      {
-        "i": 47,
-        "word": "or",
-        "start": 15.58,
-        "end": 15.92
-      },
-      {
-        "i": 48,
-        "word": "print",
-        "start": 15.92,
-        "end": 16.16
-      },
-      {
-        "i": 49,
-        "word": "size.",
-        "start": 16.16,
-        "end": 16.62
+        "word": "posts.",
+        "start": 7.7,
+        "end": 8.2
       }
     ]
   },
   {
     "id": 3,
-    "text": "Open uploads, click upload files, and select your JPG or PNG images.",
-    "start": 17.2,
-    "end": 22.16,
+    "text": "For this example, each portrait tile will be 1080 by 1440 pixels.",
+    "start": 8.74,
+    "end": 13.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      50,
-      61
+      23,
+      34
     ],
     "words": [
       {
-        "i": 50,
-        "word": "Open",
-        "start": 17.2,
-        "end": 17.44
+        "i": 23,
+        "word": "For",
+        "start": 8.74,
+        "end": 8.86
       },
       {
-        "i": 51,
-        "word": "uploads,",
-        "start": 17.44,
-        "end": 18.08
+        "i": 24,
+        "word": "this",
+        "start": 8.86,
+        "end": 9.0
       },
       {
-        "i": 52,
-        "word": "click",
-        "start": 18.32,
-        "end": 18.56
+        "i": 25,
+        "word": "example,",
+        "start": 9.0,
+        "end": 9.4
       },
       {
-        "i": 53,
-        "word": "upload",
-        "start": 18.56,
-        "end": 18.92
+        "i": 26,
+        "word": "each",
+        "start": 9.58,
+        "end": 9.76
       },
       {
-        "i": 54,
-        "word": "files,",
-        "start": 18.92,
-        "end": 19.34
+        "i": 27,
+        "word": "portrait",
+        "start": 9.76,
+        "end": 10.14
       },
       {
-        "i": 55,
-        "word": "and",
-        "start": 19.68,
-        "end": 19.9
+        "i": 28,
+        "word": "tile",
+        "start": 10.14,
+        "end": 10.48
       },
       {
-        "i": 56,
-        "word": "select",
-        "start": 19.9,
-        "end": 20.14
+        "i": 29,
+        "word": "will",
+        "start": 10.48,
+        "end": 10.74
       },
       {
-        "i": 57,
-        "word": "your",
-        "start": 20.14,
-        "end": 20.38
+        "i": 30,
+        "word": "be",
+        "start": 10.74,
+        "end": 10.9
       },
       {
-        "i": 58,
-        "word": "JPG",
-        "start": 20.38,
-        "end": 20.82
+        "i": 31,
+        "word": "1080",
+        "start": 10.9,
+        "end": 11.2
       },
       {
-        "i": 59,
-        "word": "or",
-        "start": 20.82,
-        "end": 21.24
+        "i": 32,
+        "word": "by",
+        "start": 11.2,
+        "end": 12.0
       },
       {
-        "i": 60,
-        "word": "PNG",
-        "start": 21.24,
-        "end": 21.62
+        "i": 33,
+        "word": "1440",
+        "start": 12.0,
+        "end": 12.54
       },
       {
-        "i": 61,
-        "word": "images.",
-        "start": 21.62,
-        "end": 22.16
+        "i": 34,
+        "word": "pixels.",
+        "start": 12.54,
+        "end": 13.2
       }
     ]
   },
   {
     "id": 4,
-    "text": "Drag the first image onto the blank page.",
-    "start": 22.84,
-    "end": 24.76,
+    "text": "Create a master design measuring 3240 by 4320 pixels, which fits three tiles across and three down.",
+    "start": 14.3,
+    "end": 21.12,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      62,
-      69
+      35,
+      51
     ],
     "words": [
       {
-        "i": 62,
-        "word": "Drag",
-        "start": 22.84,
-        "end": 23.02
+        "i": 35,
+        "word": "Create",
+        "start": 14.3,
+        "end": 14.56
       },
       {
-        "i": 63,
-        "word": "the",
-        "start": 23.02,
-        "end": 23.16
+        "i": 36,
+        "word": "a",
+        "start": 14.56,
+        "end": 14.72
       },
       {
-        "i": 64,
-        "word": "first",
-        "start": 23.16,
-        "end": 23.36
+        "i": 37,
+        "word": "master",
+        "start": 14.72,
+        "end": 14.94
       },
       {
-        "i": 65,
-        "word": "image",
-        "start": 23.36,
-        "end": 23.68
+        "i": 38,
+        "word": "design",
+        "start": 14.94,
+        "end": 15.32
       },
       {
-        "i": 66,
-        "word": "onto",
-        "start": 23.68,
-        "end": 23.9
+        "i": 39,
+        "word": "measuring",
+        "start": 15.32,
+        "end": 15.68
       },
       {
-        "i": 67,
-        "word": "the",
-        "start": 23.9,
-        "end": 24.1
+        "i": 40,
+        "word": "3240",
+        "start": 15.68,
+        "end": 16.62
       },
       {
-        "i": 68,
-        "word": "blank",
-        "start": 24.1,
-        "end": 24.28
+        "i": 41,
+        "word": "by",
+        "start": 16.62,
+        "end": 16.94
       },
       {
-        "i": 69,
-        "word": "page.",
-        "start": 24.28,
-        "end": 24.76
+        "i": 42,
+        "word": "4320",
+        "start": 16.94,
+        "end": 17.84
+      },
+      {
+        "i": 43,
+        "word": "pixels,",
+        "start": 17.84,
+        "end": 18.22
+      },
+      {
+        "i": 44,
+        "word": "which",
+        "start": 18.74,
+        "end": 18.84
+      },
+      {
+        "i": 45,
+        "word": "fits",
+        "start": 18.84,
+        "end": 19.08
+      },
+      {
+        "i": 46,
+        "word": "three",
+        "start": 19.08,
+        "end": 19.4
+      },
+      {
+        "i": 47,
+        "word": "tiles",
+        "start": 19.4,
+        "end": 19.72
+      },
+      {
+        "i": 48,
+        "word": "across",
+        "start": 19.72,
+        "end": 20.02
+      },
+      {
+        "i": 49,
+        "word": "and",
+        "start": 20.02,
+        "end": 20.56
+      },
+      {
+        "i": 50,
+        "word": "three",
+        "start": 20.56,
+        "end": 20.8
+      },
+      {
+        "i": 51,
+        "word": "down.",
+        "start": 20.8,
+        "end": 21.12
       }
     ]
   },
   {
     "id": 5,
-    "text": "Resize it using a corner handle.",
-    "start": 25.36,
-    "end": 26.88,
+    "text": "Open file, rulers and guides, and add guides.",
+    "start": 21.78,
+    "end": 24.48,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      70,
-      75
+      52,
+      59
     ],
     "words": [
       {
-        "i": 70,
-        "word": "Resize",
-        "start": 25.36,
-        "end": 25.68
+        "i": 52,
+        "word": "Open",
+        "start": 21.78,
+        "end": 22.06
       },
       {
-        "i": 71,
-        "word": "it",
-        "start": 25.68,
-        "end": 25.88
+        "i": 53,
+        "word": "file,",
+        "start": 22.06,
+        "end": 22.36
       },
       {
-        "i": 72,
-        "word": "using",
-        "start": 25.88,
-        "end": 26.06
+        "i": 54,
+        "word": "rulers",
+        "start": 22.62,
+        "end": 22.78
       },
       {
-        "i": 73,
-        "word": "a",
-        "start": 26.06,
-        "end": 26.26
+        "i": 55,
+        "word": "and",
+        "start": 22.78,
+        "end": 23.02
       },
       {
-        "i": 74,
-        "word": "corner",
-        "start": 26.26,
-        "end": 26.46
+        "i": 56,
+        "word": "guides,",
+        "start": 23.02,
+        "end": 23.34
       },
       {
-        "i": 75,
-        "word": "handle.",
-        "start": 26.46,
-        "end": 26.88
+        "i": 57,
+        "word": "and",
+        "start": 23.66,
+        "end": 23.74
+      },
+      {
+        "i": 58,
+        "word": "add",
+        "start": 23.74,
+        "end": 24.02
+      },
+      {
+        "i": 59,
+        "word": "guides.",
+        "start": 24.02,
+        "end": 24.48
       }
     ]
   },
   {
     "id": 6,
-    "text": "Keep the whole image visible if you want to preserve its edges.",
-    "start": 26.88,
-    "end": 30.12,
+    "text": "Choose a 3x3 grid with no gaps.",
+    "start": 25.22,
+    "end": 27.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      76,
-      87
+      60,
+      66
     ],
     "words": [
       {
-        "i": 76,
-        "word": "Keep",
-        "start": 26.88,
-        "end": 27.54
+        "i": 60,
+        "word": "Choose",
+        "start": 25.22,
+        "end": 25.34
       },
       {
-        "i": 77,
-        "word": "the",
-        "start": 27.54,
-        "end": 27.7
+        "i": 61,
+        "word": "a",
+        "start": 25.34,
+        "end": 25.52
       },
       {
-        "i": 78,
-        "word": "whole",
-        "start": 27.7,
-        "end": 27.94
+        "i": 62,
+        "word": "3x3",
+        "start": 25.52,
+        "end": 26.16
       },
       {
-        "i": 79,
-        "word": "image",
-        "start": 27.94,
-        "end": 28.18
+        "i": 63,
+        "word": "grid",
+        "start": 26.16,
+        "end": 26.42
       },
       {
-        "i": 80,
-        "word": "visible",
-        "start": 28.18,
-        "end": 28.54
+        "i": 64,
+        "word": "with",
+        "start": 26.42,
+        "end": 26.72
       },
       {
-        "i": 81,
-        "word": "if",
-        "start": 28.54,
-        "end": 28.86
+        "i": 65,
+        "word": "no",
+        "start": 26.72,
+        "end": 26.92
       },
       {
-        "i": 82,
-        "word": "you",
-        "start": 28.86,
-        "end": 28.96
-      },
-      {
-        "i": 83,
-        "word": "want",
-        "start": 28.96,
-        "end": 29.08
-      },
-      {
-        "i": 84,
-        "word": "to",
-        "start": 29.08,
-        "end": 29.22
-      },
-      {
-        "i": 85,
-        "word": "preserve",
-        "start": 29.22,
-        "end": 29.5
-      },
-      {
-        "i": 86,
-        "word": "its",
-        "start": 29.5,
-        "end": 29.74
-      },
-      {
-        "i": 87,
-        "word": "edges.",
-        "start": 29.74,
-        "end": 30.12
+        "i": 66,
+        "word": "gaps.",
+        "start": 26.92,
+        "end": 27.26
       }
     ]
   },
   {
     "id": 7,
-    "text": "Setting a differently shaped image as a full page background can crop part of it, so check the result carefully.",
-    "start": 31.18,
-    "end": 36.12,
+    "text": "These guides show where your artwork will be divided.",
+    "start": 27.7,
+    "end": 30.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      88,
-      107
+      67,
+      75
     ],
     "words": [
       {
-        "i": 88,
-        "word": "Setting",
-        "start": 31.18,
-        "end": 31.26
+        "i": 67,
+        "word": "These",
+        "start": 27.7,
+        "end": 28.0
       },
       {
-        "i": 89,
-        "word": "a",
-        "start": 31.26,
-        "end": 31.44
+        "i": 68,
+        "word": "guides",
+        "start": 28.0,
+        "end": 28.28
       },
       {
-        "i": 90,
-        "word": "differently",
-        "start": 31.44,
-        "end": 31.74
+        "i": 69,
+        "word": "show",
+        "start": 28.28,
+        "end": 28.54
       },
       {
-        "i": 91,
-        "word": "shaped",
-        "start": 31.74,
-        "end": 32.0
+        "i": 70,
+        "word": "where",
+        "start": 28.54,
+        "end": 28.72
       },
       {
-        "i": 92,
-        "word": "image",
-        "start": 32.0,
-        "end": 32.34
+        "i": 71,
+        "word": "your",
+        "start": 28.72,
+        "end": 28.88
       },
       {
-        "i": 93,
-        "word": "as",
-        "start": 32.34,
-        "end": 32.52
+        "i": 72,
+        "word": "artwork",
+        "start": 28.88,
+        "end": 29.26
       },
       {
-        "i": 94,
-        "word": "a",
-        "start": 32.52,
-        "end": 32.64
+        "i": 73,
+        "word": "will",
+        "start": 29.26,
+        "end": 29.5
       },
       {
-        "i": 95,
-        "word": "full",
-        "start": 32.64,
-        "end": 32.82
+        "i": 74,
+        "word": "be",
+        "start": 29.5,
+        "end": 29.62
       },
       {
-        "i": 96,
-        "word": "page",
-        "start": 32.82,
-        "end": 33.06
-      },
-      {
-        "i": 97,
-        "word": "background",
-        "start": 33.06,
-        "end": 33.5
-      },
-      {
-        "i": 98,
-        "word": "can",
-        "start": 33.5,
-        "end": 33.76
-      },
-      {
-        "i": 99,
-        "word": "crop",
-        "start": 33.76,
-        "end": 34.02
-      },
-      {
-        "i": 100,
-        "word": "part",
-        "start": 34.02,
-        "end": 34.3
-      },
-      {
-        "i": 101,
-        "word": "of",
-        "start": 34.3,
-        "end": 34.44
-      },
-      {
-        "i": 102,
-        "word": "it,",
-        "start": 34.44,
-        "end": 34.68
-      },
-      {
-        "i": 103,
-        "word": "so",
-        "start": 34.84,
-        "end": 35.04
-      },
-      {
-        "i": 104,
-        "word": "check",
-        "start": 35.04,
-        "end": 35.28
-      },
-      {
-        "i": 105,
-        "word": "the",
-        "start": 35.28,
-        "end": 35.44
-      },
-      {
-        "i": 106,
-        "word": "result",
-        "start": 35.44,
-        "end": 35.7
-      },
-      {
-        "i": 107,
-        "word": "carefully.",
-        "start": 35.7,
-        "end": 36.12
+        "i": 75,
+        "word": "divided.",
+        "start": 29.62,
+        "end": 30.06
       }
     ]
   },
   {
     "id": 8,
-    "text": "For several images in one PDF, add a new page for each image.",
-    "start": 36.8,
-    "end": 40.04,
+    "text": "Add your background, photos and text across the master design.",
+    "start": 30.7,
+    "end": 34.08,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      108,
-      120
+      76,
+      85
     ],
     "words": [
       {
-        "i": 108,
-        "word": "For",
-        "start": 36.8,
-        "end": 36.92
+        "i": 76,
+        "word": "Add",
+        "start": 30.7,
+        "end": 30.8
       },
       {
-        "i": 109,
-        "word": "several",
-        "start": 36.92,
-        "end": 37.16
+        "i": 77,
+        "word": "your",
+        "start": 30.8,
+        "end": 30.96
       },
       {
-        "i": 110,
-        "word": "images",
-        "start": 37.16,
-        "end": 37.46
+        "i": 78,
+        "word": "background,",
+        "start": 30.96,
+        "end": 31.34
       },
       {
-        "i": 111,
-        "word": "in",
-        "start": 37.46,
-        "end": 37.72
+        "i": 79,
+        "word": "photos",
+        "start": 31.64,
+        "end": 31.84
       },
       {
-        "i": 112,
-        "word": "one",
-        "start": 37.72,
-        "end": 37.96
+        "i": 80,
+        "word": "and",
+        "start": 31.84,
+        "end": 32.24
       },
       {
-        "i": 113,
-        "word": "PDF,",
-        "start": 37.96,
-        "end": 38.22
+        "i": 81,
+        "word": "text",
+        "start": 32.24,
+        "end": 32.56
       },
       {
-        "i": 114,
-        "word": "add",
-        "start": 38.74,
-        "end": 38.8
+        "i": 82,
+        "word": "across",
+        "start": 32.56,
+        "end": 33.18
       },
       {
-        "i": 115,
-        "word": "a",
-        "start": 38.8,
-        "end": 38.94
+        "i": 83,
+        "word": "the",
+        "start": 33.18,
+        "end": 33.42
       },
       {
-        "i": 116,
-        "word": "new",
-        "start": 38.94,
-        "end": 39.1
+        "i": 84,
+        "word": "master",
+        "start": 33.42,
+        "end": 33.62
       },
       {
-        "i": 117,
-        "word": "page",
-        "start": 39.1,
-        "end": 39.32
-      },
-      {
-        "i": 118,
-        "word": "for",
-        "start": 39.32,
-        "end": 39.52
-      },
-      {
-        "i": 119,
-        "word": "each",
-        "start": 39.52,
-        "end": 39.68
-      },
-      {
-        "i": 120,
-        "word": "image.",
-        "start": 39.68,
-        "end": 40.04
+        "i": 85,
+        "word": "design.",
+        "start": 33.62,
+        "end": 34.08
       }
     ]
   },
   {
     "id": 9,
-    "text": "Place the next image on that page and repeat until every image has its own page.",
-    "start": 40.6,
-    "end": 44.56,
+    "text": "Keep important words and faces inside individual tiles so they remain understandable when someone opens just one post.",
+    "start": 34.78,
+    "end": 41.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      121,
-      136
+      86,
+      103
     ],
     "words": [
       {
-        "i": 121,
-        "word": "Place",
-        "start": 40.6,
-        "end": 40.76
+        "i": 86,
+        "word": "Keep",
+        "start": 34.78,
+        "end": 34.94
       },
       {
-        "i": 122,
-        "word": "the",
-        "start": 40.76,
-        "end": 40.92
+        "i": 87,
+        "word": "important",
+        "start": 34.94,
+        "end": 35.4
       },
       {
-        "i": 123,
-        "word": "next",
-        "start": 40.92,
-        "end": 41.1
+        "i": 88,
+        "word": "words",
+        "start": 35.4,
+        "end": 35.7
       },
       {
-        "i": 124,
-        "word": "image",
-        "start": 41.1,
-        "end": 41.34
-      },
-      {
-        "i": 125,
-        "word": "on",
-        "start": 41.34,
-        "end": 41.5
-      },
-      {
-        "i": 126,
-        "word": "that",
-        "start": 41.5,
-        "end": 41.66
-      },
-      {
-        "i": 127,
-        "word": "page",
-        "start": 41.66,
-        "end": 41.96
-      },
-      {
-        "i": 128,
+        "i": 89,
         "word": "and",
-        "start": 41.96,
-        "end": 42.2
+        "start": 35.7,
+        "end": 35.92
       },
       {
-        "i": 129,
-        "word": "repeat",
-        "start": 42.2,
-        "end": 42.52
+        "i": 90,
+        "word": "faces",
+        "start": 35.92,
+        "end": 36.24
       },
       {
-        "i": 130,
-        "word": "until",
-        "start": 42.52,
-        "end": 42.86
+        "i": 91,
+        "word": "inside",
+        "start": 36.24,
+        "end": 36.72
       },
       {
-        "i": 131,
-        "word": "every",
-        "start": 42.86,
-        "end": 43.22
+        "i": 92,
+        "word": "individual",
+        "start": 36.72,
+        "end": 37.24
       },
       {
-        "i": 132,
-        "word": "image",
-        "start": 43.22,
-        "end": 43.54
+        "i": 93,
+        "word": "tiles",
+        "start": 37.24,
+        "end": 37.66
       },
       {
-        "i": 133,
-        "word": "has",
-        "start": 43.54,
-        "end": 43.74
+        "i": 94,
+        "word": "so",
+        "start": 37.66,
+        "end": 38.26
       },
       {
-        "i": 134,
-        "word": "its",
-        "start": 43.74,
-        "end": 43.9
+        "i": 95,
+        "word": "they",
+        "start": 38.26,
+        "end": 38.4
       },
       {
-        "i": 135,
-        "word": "own",
-        "start": 43.9,
-        "end": 44.1
+        "i": 96,
+        "word": "remain",
+        "start": 38.4,
+        "end": 38.66
       },
       {
-        "i": 136,
-        "word": "page.",
-        "start": 44.1,
-        "end": 44.56
+        "i": 97,
+        "word": "understandable",
+        "start": 38.66,
+        "end": 39.34
+      },
+      {
+        "i": 98,
+        "word": "when",
+        "start": 39.34,
+        "end": 39.78
+      },
+      {
+        "i": 99,
+        "word": "someone",
+        "start": 39.78,
+        "end": 40.04
+      },
+      {
+        "i": 100,
+        "word": "opens",
+        "start": 40.04,
+        "end": 40.32
+      },
+      {
+        "i": 101,
+        "word": "just",
+        "start": 40.32,
+        "end": 40.6
+      },
+      {
+        "i": 102,
+        "word": "one",
+        "start": 40.6,
+        "end": 40.86
+      },
+      {
+        "i": 103,
+        "word": "post.",
+        "start": 40.86,
+        "end": 41.2
       }
     ]
   },
   {
     "id": 10,
-    "text": "Open grid view and drag the pages into the correct order.",
-    "start": 45.22,
-    "end": 48.04,
+    "text": "Download the finished master as a PNG.",
+    "start": 42.14,
+    "end": 44.0,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      137,
-      147
+      104,
+      110
     ],
     "words": [
       {
-        "i": 137,
-        "word": "Open",
-        "start": 45.22,
-        "end": 45.54
+        "i": 104,
+        "word": "Download",
+        "start": 42.14,
+        "end": 42.36
       },
       {
-        "i": 138,
-        "word": "grid",
-        "start": 45.54,
-        "end": 45.74
-      },
-      {
-        "i": 139,
-        "word": "view",
-        "start": 45.74,
-        "end": 46.0
-      },
-      {
-        "i": 140,
-        "word": "and",
-        "start": 46.0,
-        "end": 46.28
-      },
-      {
-        "i": 141,
-        "word": "drag",
-        "start": 46.28,
-        "end": 46.52
-      },
-      {
-        "i": 142,
+        "i": 105,
         "word": "the",
-        "start": 46.52,
-        "end": 46.68
+        "start": 42.36,
+        "end": 42.56
       },
       {
-        "i": 143,
-        "word": "pages",
-        "start": 46.68,
-        "end": 46.96
+        "i": 106,
+        "word": "finished",
+        "start": 42.56,
+        "end": 42.8
       },
       {
-        "i": 144,
-        "word": "into",
-        "start": 46.96,
-        "end": 47.18
+        "i": 107,
+        "word": "master",
+        "start": 42.8,
+        "end": 43.16
       },
       {
-        "i": 145,
-        "word": "the",
-        "start": 47.18,
-        "end": 47.36
+        "i": 108,
+        "word": "as",
+        "start": 43.16,
+        "end": 43.42
       },
       {
-        "i": 146,
-        "word": "correct",
-        "start": 47.36,
-        "end": 47.62
+        "i": 109,
+        "word": "a",
+        "start": 43.42,
+        "end": 43.6
       },
       {
-        "i": 147,
-        "word": "order.",
-        "start": 47.62,
-        "end": 48.04
+        "i": 110,
+        "word": "PNG.",
+        "start": 43.6,
+        "end": 44.0
       }
     ]
   },
   {
     "id": 11,
-    "text": "Delete any empty pages and check that each image is sharp enough to read at its intended size.",
-    "start": 48.72,
-    "end": 53.4,
+    "text": "Create another Canva design at the individual tile size, 1080 by 1440 pixels.",
+    "start": 44.64,
+    "end": 50.24,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      148,
-      165
+      111,
+      123
     ],
     "words": [
       {
-        "i": 148,
-        "word": "Delete",
-        "start": 48.72,
-        "end": 48.94
+        "i": 111,
+        "word": "Create",
+        "start": 44.64,
+        "end": 44.9
       },
       {
-        "i": 149,
-        "word": "any",
-        "start": 48.94,
-        "end": 49.24
+        "i": 112,
+        "word": "another",
+        "start": 44.9,
+        "end": 45.2
       },
       {
-        "i": 150,
-        "word": "empty",
-        "start": 49.24,
-        "end": 49.48
+        "i": 113,
+        "word": "Canva",
+        "start": 45.2,
+        "end": 45.6
       },
       {
-        "i": 151,
-        "word": "pages",
-        "start": 49.48,
-        "end": 49.88
+        "i": 114,
+        "word": "design",
+        "start": 45.6,
+        "end": 45.94
       },
       {
-        "i": 152,
-        "word": "and",
-        "start": 49.88,
-        "end": 50.16
-      },
-      {
-        "i": 153,
-        "word": "check",
-        "start": 50.16,
-        "end": 50.38
-      },
-      {
-        "i": 154,
-        "word": "that",
-        "start": 50.38,
-        "end": 50.56
-      },
-      {
-        "i": 155,
-        "word": "each",
-        "start": 50.56,
-        "end": 50.7
-      },
-      {
-        "i": 156,
-        "word": "image",
-        "start": 50.7,
-        "end": 50.96
-      },
-      {
-        "i": 157,
-        "word": "is",
-        "start": 50.96,
-        "end": 51.16
-      },
-      {
-        "i": 158,
-        "word": "sharp",
-        "start": 51.16,
-        "end": 51.38
-      },
-      {
-        "i": 159,
-        "word": "enough",
-        "start": 51.38,
-        "end": 51.62
-      },
-      {
-        "i": 160,
-        "word": "to",
-        "start": 51.62,
-        "end": 51.8
-      },
-      {
-        "i": 161,
-        "word": "read",
-        "start": 51.8,
-        "end": 52.0
-      },
-      {
-        "i": 162,
+        "i": 115,
         "word": "at",
-        "start": 52.0,
-        "end": 52.4
+        "start": 45.94,
+        "end": 46.14
       },
       {
-        "i": 163,
-        "word": "its",
-        "start": 52.4,
-        "end": 52.54
+        "i": 116,
+        "word": "the",
+        "start": 46.14,
+        "end": 46.26
       },
       {
-        "i": 164,
-        "word": "intended",
-        "start": 52.54,
-        "end": 52.92
+        "i": 117,
+        "word": "individual",
+        "start": 46.26,
+        "end": 46.68
       },
       {
-        "i": 165,
-        "word": "size.",
-        "start": 52.92,
-        "end": 53.4
+        "i": 118,
+        "word": "tile",
+        "start": 46.68,
+        "end": 47.04
+      },
+      {
+        "i": 119,
+        "word": "size,",
+        "start": 47.04,
+        "end": 47.48
+      },
+      {
+        "i": 120,
+        "word": "1080",
+        "start": 48.12,
+        "end": 48.42
+      },
+      {
+        "i": 121,
+        "word": "by",
+        "start": 48.42,
+        "end": 48.84
+      },
+      {
+        "i": 122,
+        "word": "1440",
+        "start": 48.84,
+        "end": 49.56
+      },
+      {
+        "i": 123,
+        "word": "pixels.",
+        "start": 49.56,
+        "end": 50.24
       }
     ]
   },
   {
     "id": 12,
-    "text": "Click share, then download.",
-    "start": 54.06,
-    "end": 55.62,
+    "text": "Open apps, search for image splitter, and select the app by Cootsoft.",
+    "start": 51.02,
+    "end": 55.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      166,
-      169
+      124,
+      135
     ],
     "words": [
       {
-        "i": 166,
-        "word": "Click",
-        "start": 54.06,
-        "end": 54.32
+        "i": 124,
+        "word": "Open",
+        "start": 51.02,
+        "end": 51.32
       },
       {
-        "i": 167,
-        "word": "share,",
-        "start": 54.32,
-        "end": 54.64
+        "i": 125,
+        "word": "apps,",
+        "start": 51.32,
+        "end": 51.54
       },
       {
-        "i": 168,
-        "word": "then",
-        "start": 54.96,
-        "end": 55.18
+        "i": 126,
+        "word": "search",
+        "start": 52.06,
+        "end": 52.28
       },
       {
-        "i": 169,
-        "word": "download.",
-        "start": 55.18,
-        "end": 55.62
+        "i": 127,
+        "word": "for",
+        "start": 52.28,
+        "end": 52.6
+      },
+      {
+        "i": 128,
+        "word": "image",
+        "start": 52.6,
+        "end": 52.84
+      },
+      {
+        "i": 129,
+        "word": "splitter,",
+        "start": 52.84,
+        "end": 53.28
+      },
+      {
+        "i": 130,
+        "word": "and",
+        "start": 53.6,
+        "end": 53.76
+      },
+      {
+        "i": 131,
+        "word": "select",
+        "start": 53.76,
+        "end": 54.0
+      },
+      {
+        "i": 132,
+        "word": "the",
+        "start": 54.0,
+        "end": 54.16
+      },
+      {
+        "i": 133,
+        "word": "app",
+        "start": 54.16,
+        "end": 54.34
+      },
+      {
+        "i": 134,
+        "word": "by",
+        "start": 54.34,
+        "end": 54.56
+      },
+      {
+        "i": 135,
+        "word": "Cootsoft.",
+        "start": 54.56,
+        "end": 55.02
       }
     ]
   },
   {
     "id": 13,
-    "text": "Open file type and choose PDF standard for a document you will view or send online.",
-    "start": 56.26,
-    "end": 60.8,
+    "text": "Load the exported master image and choose a split with three columns and three rows.",
+    "start": 55.86,
+    "end": 60.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      170,
-      185
+      136,
+      150
     ],
     "words": [
       {
-        "i": 170,
-        "word": "Open",
-        "start": 56.26,
-        "end": 56.62
+        "i": 136,
+        "word": "Load",
+        "start": 55.86,
+        "end": 56.22
       },
       {
-        "i": 171,
-        "word": "file",
-        "start": 56.62,
+        "i": 137,
+        "word": "the",
+        "start": 56.22,
+        "end": 56.4
+      },
+      {
+        "i": 138,
+        "word": "exported",
+        "start": 56.4,
         "end": 56.92
       },
       {
-        "i": 172,
-        "word": "type",
+        "i": 139,
+        "word": "master",
         "start": 56.92,
-        "end": 57.2
+        "end": 57.32
       },
       {
-        "i": 173,
+        "i": 140,
+        "word": "image",
+        "start": 57.32,
+        "end": 57.64
+      },
+      {
+        "i": 141,
         "word": "and",
-        "start": 57.2,
-        "end": 57.48
+        "start": 57.64,
+        "end": 57.9
       },
       {
-        "i": 174,
+        "i": 142,
         "word": "choose",
-        "start": 57.48,
-        "end": 57.78
+        "start": 57.9,
+        "end": 58.16
       },
       {
-        "i": 175,
-        "word": "PDF",
-        "start": 57.78,
-        "end": 58.22
+        "i": 143,
+        "word": "a",
+        "start": 58.16,
+        "end": 58.36
       },
       {
-        "i": 176,
-        "word": "standard",
-        "start": 58.22,
+        "i": 144,
+        "word": "split",
+        "start": 58.36,
         "end": 58.58
       },
       {
-        "i": 177,
-        "word": "for",
+        "i": 145,
+        "word": "with",
         "start": 58.58,
-        "end": 58.86
+        "end": 58.82
       },
       {
-        "i": 178,
-        "word": "a",
-        "start": 58.86,
-        "end": 58.98
+        "i": 146,
+        "word": "three",
+        "start": 58.82,
+        "end": 59.14
       },
       {
-        "i": 179,
-        "word": "document",
-        "start": 58.98,
-        "end": 59.26
+        "i": 147,
+        "word": "columns",
+        "start": 59.14,
+        "end": 59.48
       },
       {
-        "i": 180,
-        "word": "you",
-        "start": 59.26,
-        "end": 59.5
+        "i": 148,
+        "word": "and",
+        "start": 59.48,
+        "end": 59.96
       },
       {
-        "i": 181,
-        "word": "will",
-        "start": 59.5,
-        "end": 59.62
+        "i": 149,
+        "word": "three",
+        "start": 59.96,
+        "end": 60.24
       },
       {
-        "i": 182,
-        "word": "view",
-        "start": 59.62,
-        "end": 59.86
-      },
-      {
-        "i": 183,
-        "word": "or",
-        "start": 59.86,
-        "end": 60.16
-      },
-      {
-        "i": 184,
-        "word": "send",
-        "start": 60.16,
-        "end": 60.38
-      },
-      {
-        "i": 185,
-        "word": "online.",
-        "start": 60.38,
-        "end": 60.8
+        "i": 150,
+        "word": "rows.",
+        "start": 60.24,
+        "end": 60.7
       }
     ]
   },
   {
     "id": 14,
-    "text": "Choose PDF print when you need a print focused export.",
-    "start": 61.52,
-    "end": 63.94,
+    "text": "Add the resulting tiles to separate pages, checking that each page contains one full tile rather than the entire master image.",
+    "start": 61.26,
+    "end": 68.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      186,
-      195
+      151,
+      171
     ],
     "words": [
       {
-        "i": 186,
-        "word": "Choose",
-        "start": 61.52,
-        "end": 61.66
+        "i": 151,
+        "word": "Add",
+        "start": 61.26,
+        "end": 61.44
       },
       {
-        "i": 187,
-        "word": "PDF",
-        "start": 61.66,
-        "end": 62.02
+        "i": 152,
+        "word": "the",
+        "start": 61.44,
+        "end": 61.56
       },
       {
-        "i": 188,
-        "word": "print",
-        "start": 62.02,
-        "end": 62.3
+        "i": 153,
+        "word": "resulting",
+        "start": 61.56,
+        "end": 61.92
       },
       {
-        "i": 189,
-        "word": "when",
-        "start": 62.3,
-        "end": 62.52
+        "i": 154,
+        "word": "tiles",
+        "start": 61.92,
+        "end": 62.24
       },
       {
-        "i": 190,
-        "word": "you",
-        "start": 62.52,
-        "end": 62.62
+        "i": 155,
+        "word": "to",
+        "start": 62.24,
+        "end": 62.54
       },
       {
-        "i": 191,
-        "word": "need",
-        "start": 62.62,
-        "end": 62.76
+        "i": 156,
+        "word": "separate",
+        "start": 62.54,
+        "end": 62.8
       },
       {
-        "i": 192,
-        "word": "a",
-        "start": 62.76,
-        "end": 62.88
+        "i": 157,
+        "word": "pages,",
+        "start": 62.8,
+        "end": 63.3
       },
       {
-        "i": 193,
-        "word": "print",
-        "start": 62.88,
-        "end": 63.1
+        "i": 158,
+        "word": "checking",
+        "start": 63.7,
+        "end": 63.92
       },
       {
-        "i": 194,
-        "word": "focused",
-        "start": 63.1,
-        "end": 63.44
+        "i": 159,
+        "word": "that",
+        "start": 63.92,
+        "end": 64.14
       },
       {
-        "i": 195,
-        "word": "export.",
-        "start": 63.44,
-        "end": 63.94
+        "i": 160,
+        "word": "each",
+        "start": 64.14,
+        "end": 64.46
+      },
+      {
+        "i": 161,
+        "word": "page",
+        "start": 64.46,
+        "end": 64.84
+      },
+      {
+        "i": 162,
+        "word": "contains",
+        "start": 64.84,
+        "end": 65.2
+      },
+      {
+        "i": 163,
+        "word": "one",
+        "start": 65.2,
+        "end": 65.56
+      },
+      {
+        "i": 164,
+        "word": "full",
+        "start": 65.56,
+        "end": 65.9
+      },
+      {
+        "i": 165,
+        "word": "tile",
+        "start": 65.9,
+        "end": 66.24
+      },
+      {
+        "i": 166,
+        "word": "rather",
+        "start": 66.24,
+        "end": 66.56
+      },
+      {
+        "i": 167,
+        "word": "than",
+        "start": 66.56,
+        "end": 66.8
+      },
+      {
+        "i": 168,
+        "word": "the",
+        "start": 66.8,
+        "end": 66.9
+      },
+      {
+        "i": 169,
+        "word": "entire",
+        "start": 66.9,
+        "end": 67.38
+      },
+      {
+        "i": 170,
+        "word": "master",
+        "start": 67.38,
+        "end": 67.82
+      },
+      {
+        "i": 171,
+        "word": "image.",
+        "start": 67.82,
+        "end": 68.2
       }
     ]
   },
   {
     "id": 15,
-    "text": "Under select pages, include every page you want in the PDF.",
-    "start": 64.84,
-    "end": 67.68,
+    "text": "Download all nine pages as PNG files and keep their positions clearly labelled.",
+    "start": 68.82,
+    "end": 73.12,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      196,
-      206
+      172,
+      184
     ],
     "words": [
       {
-        "i": 196,
-        "word": "Under",
-        "start": 64.84,
-        "end": 64.98
+        "i": 172,
+        "word": "Download",
+        "start": 68.82,
+        "end": 69.1
       },
       {
-        "i": 197,
-        "word": "select",
-        "start": 64.98,
-        "end": 65.22
+        "i": 173,
+        "word": "all",
+        "start": 69.1,
+        "end": 69.48
       },
       {
-        "i": 198,
-        "word": "pages,",
-        "start": 65.22,
-        "end": 65.6
+        "i": 174,
+        "word": "nine",
+        "start": 69.48,
+        "end": 69.74
       },
       {
-        "i": 199,
-        "word": "include",
-        "start": 65.78,
-        "end": 66.0
+        "i": 175,
+        "word": "pages",
+        "start": 69.74,
+        "end": 70.14
       },
       {
-        "i": 200,
-        "word": "every",
-        "start": 66.0,
-        "end": 66.42
+        "i": 176,
+        "word": "as",
+        "start": 70.14,
+        "end": 70.38
       },
       {
-        "i": 201,
-        "word": "page",
-        "start": 66.42,
-        "end": 66.7
+        "i": 177,
+        "word": "PNG",
+        "start": 70.38,
+        "end": 70.82
       },
       {
-        "i": 202,
-        "word": "you",
-        "start": 66.7,
-        "end": 66.88
+        "i": 178,
+        "word": "files",
+        "start": 70.82,
+        "end": 71.22
       },
       {
-        "i": 203,
-        "word": "want",
-        "start": 66.88,
-        "end": 67.04
+        "i": 179,
+        "word": "and",
+        "start": 71.22,
+        "end": 71.54
       },
       {
-        "i": 204,
-        "word": "in",
-        "start": 67.04,
-        "end": 67.22
+        "i": 180,
+        "word": "keep",
+        "start": 71.54,
+        "end": 71.7
       },
       {
-        "i": 205,
-        "word": "the",
-        "start": 67.22,
-        "end": 67.34
+        "i": 181,
+        "word": "their",
+        "start": 71.7,
+        "end": 71.88
       },
       {
-        "i": 206,
-        "word": "PDF.",
-        "start": 67.34,
-        "end": 67.68
+        "i": 182,
+        "word": "positions",
+        "start": 71.88,
+        "end": 72.26
+      },
+      {
+        "i": 183,
+        "word": "clearly",
+        "start": 72.26,
+        "end": 72.74
+      },
+      {
+        "i": 184,
+        "word": "labelled.",
+        "start": 72.74,
+        "end": 73.12
       }
     ]
   },
   {
     "id": 16,
-    "text": "Click download, then open the saved file and check the page count and image orientation.",
-    "start": 68.34,
-    "end": 72.62,
+    "text": "Here's the part many tutorials skip.",
+    "start": 73.82,
+    "end": 75.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      207,
-      221
+      185,
+      190
     ],
     "words": [
       {
-        "i": 207,
-        "word": "Click",
-        "start": 68.34,
-        "end": 68.52
+        "i": 185,
+        "word": "Here's",
+        "start": 73.82,
+        "end": 74.0
       },
       {
-        "i": 208,
-        "word": "download,",
-        "start": 68.52,
-        "end": 68.92
-      },
-      {
-        "i": 209,
-        "word": "then",
-        "start": 69.3,
-        "end": 69.44
-      },
-      {
-        "i": 210,
-        "word": "open",
-        "start": 69.44,
-        "end": 69.66
-      },
-      {
-        "i": 211,
+        "i": 186,
         "word": "the",
-        "start": 69.66,
-        "end": 69.8
+        "start": 74.0,
+        "end": 74.12
       },
       {
-        "i": 212,
-        "word": "saved",
-        "start": 69.8,
-        "end": 70.04
+        "i": 187,
+        "word": "part",
+        "start": 74.12,
+        "end": 74.32
       },
       {
-        "i": 213,
-        "word": "file",
-        "start": 70.04,
-        "end": 70.36
+        "i": 188,
+        "word": "many",
+        "start": 74.32,
+        "end": 74.7
       },
       {
-        "i": 214,
-        "word": "and",
-        "start": 70.36,
-        "end": 70.62
+        "i": 189,
+        "word": "tutorials",
+        "start": 74.7,
+        "end": 75.28
       },
       {
-        "i": 215,
-        "word": "check",
-        "start": 70.62,
-        "end": 70.82
-      },
-      {
-        "i": 216,
-        "word": "the",
-        "start": 70.82,
-        "end": 70.96
-      },
-      {
-        "i": 217,
-        "word": "page",
-        "start": 70.96,
-        "end": 71.18
-      },
-      {
-        "i": 218,
-        "word": "count",
-        "start": 71.18,
-        "end": 71.48
-      },
-      {
-        "i": 219,
-        "word": "and",
-        "start": 71.48,
-        "end": 71.8
-      },
-      {
-        "i": 220,
-        "word": "image",
-        "start": 71.8,
-        "end": 72.12
-      },
-      {
-        "i": 221,
-        "word": "orientation.",
-        "start": 72.12,
-        "end": 72.62
+        "i": 190,
+        "word": "skip.",
+        "start": 75.28,
+        "end": 75.7
       }
     ]
   },
   {
     "id": 17,
-    "text": "Here's the part many tutorials skip.",
-    "start": 73.62,
-    "end": 75.42,
+    "text": "Your uploaded image dimensions and Instagram's profile previews may use different crops.",
+    "start": 76.26,
+    "end": 81.24,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      222,
-      227
+      191,
+      202
     ],
     "words": [
       {
-        "i": 222,
-        "word": "Here's",
-        "start": 73.62,
-        "end": 73.82
+        "i": 191,
+        "word": "Your",
+        "start": 76.26,
+        "end": 76.42
       },
       {
-        "i": 223,
-        "word": "the",
-        "start": 73.82,
-        "end": 73.94
+        "i": 192,
+        "word": "uploaded",
+        "start": 76.42,
+        "end": 76.92
       },
       {
-        "i": 224,
-        "word": "part",
-        "start": 73.94,
-        "end": 74.12
+        "i": 193,
+        "word": "image",
+        "start": 76.92,
+        "end": 77.3
       },
       {
-        "i": 225,
-        "word": "many",
-        "start": 74.12,
-        "end": 74.44
+        "i": 194,
+        "word": "dimensions",
+        "start": 77.3,
+        "end": 77.82
       },
       {
-        "i": 226,
-        "word": "tutorials",
-        "start": 74.44,
-        "end": 75.0
+        "i": 195,
+        "word": "and",
+        "start": 77.82,
+        "end": 78.2
       },
       {
-        "i": 227,
-        "word": "skip.",
-        "start": 75.0,
-        "end": 75.42
+        "i": 196,
+        "word": "Instagram's",
+        "start": 78.2,
+        "end": 78.88
+      },
+      {
+        "i": 197,
+        "word": "profile",
+        "start": 78.88,
+        "end": 79.24
+      },
+      {
+        "i": 198,
+        "word": "previews",
+        "start": 79.24,
+        "end": 79.76
+      },
+      {
+        "i": 199,
+        "word": "may",
+        "start": 79.76,
+        "end": 80.38
+      },
+      {
+        "i": 200,
+        "word": "use",
+        "start": 80.38,
+        "end": 80.62
+      },
+      {
+        "i": 201,
+        "word": "different",
+        "start": 80.62,
+        "end": 80.94
+      },
+      {
+        "i": 202,
+        "word": "crops.",
+        "start": 80.94,
+        "end": 81.24
       }
     ]
   },
   {
     "id": 18,
-    "text": "Placing a photo of text inside a PDF does not guarantee searchable or selectable text.",
-    "start": 76.0,
-    "end": 81.16,
+    "text": "Check the current profile preview before publishing the full grid.",
+    "start": 82.14,
+    "end": 85.42,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      228,
-      242
+      203,
+      212
     ],
     "words": [
       {
-        "i": 228,
-        "word": "Placing",
-        "start": 76.0,
-        "end": 76.24
+        "i": 203,
+        "word": "Check",
+        "start": 82.14,
+        "end": 82.66
       },
       {
-        "i": 229,
-        "word": "a",
-        "start": 76.24,
-        "end": 76.4
+        "i": 204,
+        "word": "the",
+        "start": 82.66,
+        "end": 82.88
       },
       {
-        "i": 230,
-        "word": "photo",
-        "start": 76.4,
-        "end": 76.58
+        "i": 205,
+        "word": "current",
+        "start": 82.88,
+        "end": 83.14
       },
       {
-        "i": 231,
-        "word": "of",
-        "start": 76.58,
-        "end": 76.8
+        "i": 206,
+        "word": "profile",
+        "start": 83.14,
+        "end": 83.52
       },
       {
-        "i": 232,
-        "word": "text",
-        "start": 76.8,
-        "end": 77.06
+        "i": 207,
+        "word": "preview",
+        "start": 83.52,
+        "end": 83.92
       },
       {
-        "i": 233,
-        "word": "inside",
-        "start": 77.06,
-        "end": 77.5
+        "i": 208,
+        "word": "before",
+        "start": 83.92,
+        "end": 84.3
       },
       {
-        "i": 234,
-        "word": "a",
-        "start": 77.5,
-        "end": 77.66
+        "i": 209,
+        "word": "publishing",
+        "start": 84.3,
+        "end": 84.72
       },
       {
-        "i": 235,
-        "word": "PDF",
-        "start": 77.66,
-        "end": 78.02
+        "i": 210,
+        "word": "the",
+        "start": 84.72,
+        "end": 84.94
       },
       {
-        "i": 236,
-        "word": "does",
-        "start": 78.02,
-        "end": 78.52
+        "i": 211,
+        "word": "full",
+        "start": 84.94,
+        "end": 85.16
       },
       {
-        "i": 237,
-        "word": "not",
-        "start": 78.52,
-        "end": 78.76
-      },
-      {
-        "i": 238,
-        "word": "guarantee",
-        "start": 78.76,
-        "end": 79.2
-      },
-      {
-        "i": 239,
-        "word": "searchable",
-        "start": 79.2,
-        "end": 79.82
-      },
-      {
-        "i": 240,
-        "word": "or",
-        "start": 79.82,
-        "end": 80.16
-      },
-      {
-        "i": 241,
-        "word": "selectable",
-        "start": 80.16,
-        "end": 80.72
-      },
-      {
-        "i": 242,
-        "word": "text.",
-        "start": 80.72,
-        "end": 81.16
+        "i": 212,
+        "word": "grid.",
+        "start": 85.16,
+        "end": 85.42
       }
     ]
   },
   {
     "id": 19,
-    "text": "If you need to copy the words from a scanned document, use an OCR tool to recognize them.",
-    "start": 81.78,
-    "end": 86.88,
+    "text": "A continuous design can lose alignment when tiles are cropped or posts are pinned or rearranged.",
+    "start": 85.94,
+    "end": 90.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      243,
-      260
+      213,
+      228
     ],
     "words": [
       {
-        "i": 243,
-        "word": "If",
-        "start": 81.78,
-        "end": 82.26
+        "i": 213,
+        "word": "A",
+        "start": 85.94,
+        "end": 86.04
       },
       {
-        "i": 244,
-        "word": "you",
-        "start": 82.26,
-        "end": 82.4
+        "i": 214,
+        "word": "continuous",
+        "start": 86.04,
+        "end": 86.4
       },
       {
-        "i": 245,
-        "word": "need",
-        "start": 82.4,
-        "end": 82.52
-      },
-      {
-        "i": 246,
-        "word": "to",
-        "start": 82.52,
-        "end": 82.68
-      },
-      {
-        "i": 247,
-        "word": "copy",
-        "start": 82.68,
-        "end": 82.86
-      },
-      {
-        "i": 248,
-        "word": "the",
-        "start": 82.86,
-        "end": 83.04
-      },
-      {
-        "i": 249,
-        "word": "words",
-        "start": 83.04,
-        "end": 83.22
-      },
-      {
-        "i": 250,
-        "word": "from",
-        "start": 83.22,
-        "end": 83.44
-      },
-      {
-        "i": 251,
-        "word": "a",
-        "start": 83.44,
-        "end": 83.56
-      },
-      {
-        "i": 252,
-        "word": "scanned",
-        "start": 83.56,
-        "end": 83.8
-      },
-      {
-        "i": 253,
-        "word": "document,",
-        "start": 83.8,
-        "end": 84.32
-      },
-      {
-        "i": 254,
-        "word": "use",
-        "start": 84.68,
-        "end": 84.92
-      },
-      {
-        "i": 255,
-        "word": "an",
-        "start": 84.92,
-        "end": 85.08
-      },
-      {
-        "i": 256,
-        "word": "OCR",
-        "start": 85.08,
-        "end": 85.48
-      },
-      {
-        "i": 257,
-        "word": "tool",
-        "start": 85.48,
-        "end": 85.84
-      },
-      {
-        "i": 258,
-        "word": "to",
-        "start": 85.84,
-        "end": 86.22
-      },
-      {
-        "i": 259,
-        "word": "recognize",
-        "start": 86.22,
-        "end": 86.5
-      },
-      {
-        "i": 260,
-        "word": "them.",
-        "start": 86.5,
+        "i": 215,
+        "word": "design",
+        "start": 86.4,
         "end": 86.88
+      },
+      {
+        "i": 216,
+        "word": "can",
+        "start": 86.88,
+        "end": 87.06
+      },
+      {
+        "i": 217,
+        "word": "lose",
+        "start": 87.06,
+        "end": 87.24
+      },
+      {
+        "i": 218,
+        "word": "alignment",
+        "start": 87.24,
+        "end": 87.6
+      },
+      {
+        "i": 219,
+        "word": "when",
+        "start": 87.6,
+        "end": 87.92
+      },
+      {
+        "i": 220,
+        "word": "tiles",
+        "start": 87.92,
+        "end": 88.28
+      },
+      {
+        "i": 221,
+        "word": "are",
+        "start": 88.28,
+        "end": 88.48
+      },
+      {
+        "i": 222,
+        "word": "cropped",
+        "start": 88.48,
+        "end": 88.76
+      },
+      {
+        "i": 223,
+        "word": "or",
+        "start": 88.76,
+        "end": 89.12
+      },
+      {
+        "i": 224,
+        "word": "posts",
+        "start": 89.12,
+        "end": 89.44
+      },
+      {
+        "i": 225,
+        "word": "are",
+        "start": 89.44,
+        "end": 89.66
+      },
+      {
+        "i": 226,
+        "word": "pinned",
+        "start": 89.66,
+        "end": 89.9
+      },
+      {
+        "i": 227,
+        "word": "or",
+        "start": 89.9,
+        "end": 90.26
+      },
+      {
+        "i": 228,
+        "word": "rearranged.",
+        "start": 90.26,
+        "end": 90.92
       }
     ]
   },
   {
     "id": 20,
-    "text": "Your images are now combined into one PDF with one image on each page.",
-    "start": 87.46,
-    "end": 90.7,
+    "text": "For a profile displaying the newest post first, publish from the bottom right tile back to the top left tile.",
+    "start": 91.44,
+    "end": 96.52,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      261,
-      274
+      229,
+      248
     ],
     "words": [
       {
-        "i": 261,
+        "i": 229,
+        "word": "For",
+        "start": 91.44,
+        "end": 91.6
+      },
+      {
+        "i": 230,
+        "word": "a",
+        "start": 91.6,
+        "end": 91.7
+      },
+      {
+        "i": 231,
+        "word": "profile",
+        "start": 91.7,
+        "end": 92.04
+      },
+      {
+        "i": 232,
+        "word": "displaying",
+        "start": 92.04,
+        "end": 92.38
+      },
+      {
+        "i": 233,
+        "word": "the",
+        "start": 92.38,
+        "end": 92.6
+      },
+      {
+        "i": 234,
+        "word": "newest",
+        "start": 92.6,
+        "end": 92.84
+      },
+      {
+        "i": 235,
+        "word": "post",
+        "start": 92.84,
+        "end": 93.12
+      },
+      {
+        "i": 236,
+        "word": "first,",
+        "start": 93.12,
+        "end": 93.54
+      },
+      {
+        "i": 237,
+        "word": "publish",
+        "start": 93.78,
+        "end": 93.94
+      },
+      {
+        "i": 238,
+        "word": "from",
+        "start": 93.94,
+        "end": 94.16
+      },
+      {
+        "i": 239,
+        "word": "the",
+        "start": 94.16,
+        "end": 94.3
+      },
+      {
+        "i": 240,
+        "word": "bottom",
+        "start": 94.3,
+        "end": 94.54
+      },
+      {
+        "i": 241,
+        "word": "right",
+        "start": 94.54,
+        "end": 94.76
+      },
+      {
+        "i": 242,
+        "word": "tile",
+        "start": 94.76,
+        "end": 95.08
+      },
+      {
+        "i": 243,
+        "word": "back",
+        "start": 95.08,
+        "end": 95.36
+      },
+      {
+        "i": 244,
+        "word": "to",
+        "start": 95.36,
+        "end": 95.52
+      },
+      {
+        "i": 245,
+        "word": "the",
+        "start": 95.52,
+        "end": 95.64
+      },
+      {
+        "i": 246,
+        "word": "top",
+        "start": 95.64,
+        "end": 95.86
+      },
+      {
+        "i": 247,
+        "word": "left",
+        "start": 95.86,
+        "end": 96.06
+      },
+      {
+        "i": 248,
+        "word": "tile.",
+        "start": 96.06,
+        "end": 96.52
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Your nine posts will then build the intended grid.",
+    "start": 97.14,
+    "end": 99.36,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      249,
+      257
+    ],
+    "words": [
+      {
+        "i": 249,
         "word": "Your",
-        "start": 87.46,
-        "end": 87.56
+        "start": 97.14,
+        "end": 97.3
       },
       {
-        "i": 262,
-        "word": "images",
-        "start": 87.56,
-        "end": 87.76
+        "i": 250,
+        "word": "nine",
+        "start": 97.3,
+        "end": 97.56
       },
       {
-        "i": 263,
-        "word": "are",
-        "start": 87.76,
-        "end": 88.0
+        "i": 251,
+        "word": "posts",
+        "start": 97.56,
+        "end": 97.9
       },
       {
-        "i": 264,
-        "word": "now",
-        "start": 88.0,
-        "end": 88.12
+        "i": 252,
+        "word": "will",
+        "start": 97.9,
+        "end": 98.12
       },
       {
-        "i": 265,
-        "word": "combined",
-        "start": 88.12,
-        "end": 88.42
+        "i": 253,
+        "word": "then",
+        "start": 98.12,
+        "end": 98.28
       },
       {
-        "i": 266,
-        "word": "into",
-        "start": 88.42,
-        "end": 88.68
+        "i": 254,
+        "word": "build",
+        "start": 98.28,
+        "end": 98.52
       },
       {
-        "i": 267,
-        "word": "one",
-        "start": 88.68,
-        "end": 88.92
+        "i": 255,
+        "word": "the",
+        "start": 98.52,
+        "end": 98.7
       },
       {
-        "i": 268,
-        "word": "PDF",
-        "start": 88.92,
-        "end": 89.26
+        "i": 256,
+        "word": "intended",
+        "start": 98.7,
+        "end": 99.04
       },
       {
-        "i": 269,
-        "word": "with",
-        "start": 89.26,
-        "end": 89.74
-      },
-      {
-        "i": 270,
-        "word": "one",
-        "start": 89.74,
-        "end": 89.94
-      },
-      {
-        "i": 271,
-        "word": "image",
-        "start": 89.94,
-        "end": 90.16
-      },
-      {
-        "i": 272,
-        "word": "on",
-        "start": 90.16,
-        "end": 90.3
-      },
-      {
-        "i": 273,
-        "word": "each",
-        "start": 90.3,
-        "end": 90.46
-      },
-      {
-        "i": 274,
-        "word": "page.",
-        "start": 90.46,
-        "end": 90.7
+        "i": 257,
+        "word": "grid.",
+        "start": 99.04,
+        "end": 99.36
       }
     ]
   }

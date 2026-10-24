@@ -1,32 +1,31 @@
-"""Hand-built plan for script-03: each group fills a narration interval with source pieces at one
-uniform speed. No zooms/ripples: the recording has baked-in recorder zoom (docs/lessons.md)."""
+"""Hand-built plan for script-03 (3x3 Instagram grid): each group fills a narration interval with
+source pieces at one uniform speed (0.75-1.5x). No zooms/ripples: the recording has baked-in
+recorder zoom (docs/lessons.md). Pieces avoid the static spans listed by freezedetect on the source."""
 import json
 P = 'projects/script-03/work/'
-END = 91.208
+END = 99.799
 # (out_start, out_end, [(src_start, src_end), ...])
 G = [
- (0, 7.22, [(0, 7.0)]),
- (7.22, 9.96, [(9.5, 12.3)]),
- (9.96, 12.74, [(12.4, 15.2)]),
- (12.74, 16.62, [(24.6, 28.3)]),
- (16.62, 22.16, [(31.5, 37.2)]),
- (22.16, 25.36, [(40.4, 43.8)]),
- (25.36, 26.88, [(44.2, 45.6)]),
- (26.88, 31.18, [(46.0, 50.0)]),
- (31.18, 36.8, [(56.4, 62.0)]),
- (36.8, 40.6, [(67.0, 70.6)]),
- (40.6, 45.22, [(72.8, 76.0), (80.4, 82.6)]),
- (45.22, 48.72, [(96.0, 101.0)]),
- (48.72, 54.06, [(101.2, 106.8)]),
- (54.06, 56.26, [(112.0, 114.2)]),
- (56.26, 61.52, [(117.6, 119.0), (122.4, 126.0)]),
- (61.52, 64.84, [(131.2, 134.6)]),
- (64.84, 68.34, [(142.0, 145.5)]),
- (68.34, 73.62, [(156.5, 164.3)]),
- (73.62, 76.0, [(164.3, 166.7)]),
- (76.0, 81.78, [(188.0, 195.5)]),
- (81.78, 87.46, [(223.0, 229.3)]),
- (87.46, END, [(238.8, 242.6)]),
+ (0, 8.47, [(2.0, 5.8), (14.03, 18.7)]),
+ (8.47, 13.75, [(18.7, 24.0)]),
+ (13.75, 21.45, [(24.0, 31.9)]),
+ (21.45, 24.85, [(44.0, 49.1)]),
+ (24.85, 27.48, [(56.7, 60.6)]),
+ (27.48, 30.38, [(60.6, 64.9)]),
+ (30.38, 34.43, [(128.3, 134.3)]),
+ (34.43, 41.67, [(134.3, 141.3)]),
+ (41.67, 44.32, [(149.0, 152.9)]),
+ (44.32, 50.63, [(161.0, 169.9)]),
+ (50.63, 55.44, [(175.3, 180.0), (198.0, 200.5)]),
+ (55.44, 61.0, [(216.6, 220.1), (221.0, 225.0)]),
+ (61.0, 68.5, [(236.5, 242.8), (271.0, 275.8)]),
+ (68.5, 73.47, [(291.6, 298.9)]),
+ (73.47, 76.0, [(315.4, 319.0)]),
+ (76.0, 81.7, [(326.7, 335.0)]),
+ (81.7, 85.7, [(353.1, 359.0)]),
+ (85.7, 91.2, [(286.0, 292.4)]),
+ (91.2, 96.8, [(246.8, 252.5)]),
+ (96.8, END, [(277.5, 281.5)]),
 ]
 segs, prev_end = [], None
 for o0, o1, pieces in G:
@@ -35,8 +34,8 @@ for o0, o1, pieces in G:
     t = o0
     for k, (a, b) in enumerate(pieces):
         d = (b - a) / tot * T
-        s = {"src_start": a, "src_end": b, "mode": "speed", "out_start": t,
-             "out_end": o1 if k == len(pieces) - 1 else t + d}
+        s = {"src_start": a, "src_end": b, "mode": "speed", "out_start": round(t, 3),
+             "out_end": o1 if k == len(pieces) - 1 else round(t + d, 3)}
         if prev_end is not None and abs(a - prev_end) > 0.002:
             s["xfade"] = True
         segs.append(s); prev_end = b; t = s["out_end"]
