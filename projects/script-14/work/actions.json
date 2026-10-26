@@ -3,7 +3,7 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 283.433
+  "duration": 286.233
  },
  "sync": {
   "clicks_offset": 0,
@@ -12,35 +12,13 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 194.0,
-   "x": 1590,
-   "y": 100,
+   "t_click": 259.0,
+   "x": 1440,
+   "y": 270,
    "kind": "click",
-   "target": "Share button",
-   "result": "Share panel opens",
-   "t_result_visible": 196.0,
-   "confidence": "low"
-  },
-  {
-   "id": "A2",
-   "t_click": 211.0,
-   "x": 1540,
-   "y": 600,
-   "kind": "click",
-   "target": "Transparent background toggle",
-   "result": "toggle turns on",
-   "t_result_visible": 212.0,
-   "confidence": "low"
-  },
-  {
-   "id": "A3",
-   "t_click": 215.0,
-   "x": 1100,
-   "y": 880,
-   "kind": "click",
-   "target": "Download button",
-   "result": "download starts",
-   "t_result_visible": 220.7,
+   "target": "Download button (PDF Standard)",
+   "result": "download starts, PDF Standard toast",
+   "t_result_visible": 261.0,
    "confidence": "low"
   }
  ],
