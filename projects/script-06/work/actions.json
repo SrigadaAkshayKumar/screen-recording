@@ -1,0 +1,25 @@
+{
+ "recording": {
+  "width": 3420,
+  "height": 1922,
+  "fps": 30,
+  "duration": 136.933
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 14.0,
+   "x": 1000,
+   "y": 600,
+   "kind": "click",
+   "target": "Create a design",
+   "result": "design opens",
+   "t_result_visible": 20.0,
+   "confidence": "low"
+  }
+ ],
+ "junk": []
+}

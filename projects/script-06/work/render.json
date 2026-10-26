@@ -3,241 +3,197 @@
   "preview": false,
   "range": [
     0.0,
-    87.433
+    90.133
   ],
-  "width": 1920,
-  "height": 1080,
+  "width": 3420,
+  "height": 1922,
+  "delivered": [
+    3420,
+    1922
+  ],
   "fps": 30.0,
-  "frames": 2623,
-  "elapsed_s": 91.205,
+  "frames": 2704,
+  "elapsed_s": 427.375,
   "zoom_peaks": [],
   "joins": [
     {
-      "out_t": 2.667,
+      "out_t": 1.95,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 6.257,
+      "out_t": 7.54,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 10.42,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 14.404,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 10.257,
+      "out_t": 15.22,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 17.879,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 12.052,
+      "out_t": 20.2,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 14.104,
+      "out_t": 24.14,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 25.98,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 31.185,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 16.976,
+      "out_t": 31.9,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 36.48,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 19.233,
+      "out_t": 40.82,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 43.598,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 21.182,
+      "out_t": 47.44,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 50.98,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 51.772,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 22.567,
+      "out_t": 55.98,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 24.208,
+      "out_t": 59.539,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 30.978,
+      "out_t": 60.32,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 63.429,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 34.671,
+      "out_t": 65.48,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 35.389,
+      "out_t": 68.08,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 71.52,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 72.691,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 38.671,
+      "out_t": 74.882,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 40.723,
+      "out_t": 76.64,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 81.86,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 82.533,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 41.544,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 43.801,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 46.16,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 46.981,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 48.52,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 49.341,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 50.264,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 51.905,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 53.033,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 54.777,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 56.623,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 59.905,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 61.033,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 61.956,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 63.597,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 64.623,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 66.572,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 68.726,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 72.932,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 75.086,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 77.445,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 81.548,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 84.574,
-      "cut": true,
-      "xfade": true,
+      "out_t": 85.2,
+      "cut": false,
+      "xfade": false,
       "into": "speed"
     }
   ]

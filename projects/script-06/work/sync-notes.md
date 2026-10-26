@@ -1,9 +1,6 @@
 # Sync notes (script-06)
-Hand plan, 40 pieces (cross-faded), 0.75-1.5x, no holds. check.py --plan: OK, no pace warnings.
+Hand plan from `work/hand_plan.py`: 20 per-line groups starting on each lines.json start, 0.77-1.14x, no holds, no zooms/ripples (baked recorder zoom).
 ## Judgment calls
-- Follows audio order; footage is reused out of source order (L3 names = 185-188 typing a label; L10 hide = 130-137; L11 add link = 199-214; L12 logo = 155-178).
-- Pieces start/end inside freezedetect moving windows. Preview freezedetect (d=1.2): three 1.3-1.8 s cursor/dropdown spans remain, none over 2.5 s.
-- First preview had 2.7 s and 2.6 s freezes (src 134.5-138.2 hide dropdown, 165.9-170.7 logo); re-picked.
-- L15-L17 (narration about concepts) show the finished navigation bar/preview footage; no matching action exists.
-- L12 "link back to home page" is not shown in the recording; logo upload + logo in menu shown instead.
-- L19 ends on the "website is now live" popup (384.7-387.6) rather than the live site (static).
+- Pieces come from freezedetect (n=0.003 d=0.8) moving windows of the source, extended <=0.5 s into stills, streamed in source order (footage order roughly matches narration topics: new design, template search, table rows, colours).
+- Opening: 1.5 s of the static finished planner then moving footage at 0.77x (the 0.77x is the lowest speed used).
+- Narration-vs-footage mapping is by order/time share, not click sync; steps like "group checkbox and line" have no dedicated footage and play whatever the stream shows.

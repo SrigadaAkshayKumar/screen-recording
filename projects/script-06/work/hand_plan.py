@@ -1,47 +1,72 @@
-"""Hand-budgeted plan for script-06 (396 s recording with baked-in recorder zoom, no click log, 87.446 s voiceover).
-Pieces are (out_dur, src_start, src_end), chosen from freezedetect moving windows of the source (see freeze_src.txt)."""
+"""Hand-built plan for script-06 (136.9 s recording 3420x1922, 90.14 s voiceover, baked recorder zoom: no zooms/ripples).
+Moving windows from freezedetect n=0.003 d=0.8 on the source, extended <=0.5 s into stills, streamed in source order
+per narration line (groups start on lines.json starts), ~0.8-1.2x, no holds."""
 import json
-D = 87.446
-pieces = [
- # L1 intro
- (2.6, 2.63, 5.0), (3.5, 8.8, 12.13),
- # L2 open design, L3 names
- (3.9, 14.57, 17.9), (1.75, 18.87, 20.23), (2.0, 185.6, 188.1),
- # L4 publish/settings, L5 nav menu on
- (2.8, 36.27, 39.53), (2.2, 44.5, 46.77),
- # L6 nav bar added
- (1.9, 58.9, 60.4), (1.35, 63.07, 64.13), (1.6, 67.4, 69.53),
- # L7 toolbar, L8 spacing
- (6.6, 71.27, 77.87), (3.6, 78.77, 82.0), (0.7, 86.6, 87.5),
- # L9 Edit/Items, L10 hide
- (3.2, 103.7, 106.67), (2.0, 130.03, 133.0), (0.8, 136.5, 137.7),
- # L11 add link
- (2.2, 199.77, 202.07), (2.3, 208.47, 211.57), (0.8, 213.0, 214.07),
- # L12 logo
- (1.5, 155.17, 157.13), (0.8, 158.87, 159.87), (0.9, 162.63, 163.73), (1.6, 172.4, 174.77), (1.1, 176.47, 178.0),
- # L13 page label
- (1.7, 274.33, 276.57), (1.8, 279.2, 281.6), (3.2, 282.7, 287.63),
- # L14 short label
- (1.1, 291.07, 292.33), (0.9, 295.03, 296.13), (1.6, 297.07, 299.0),
- # L15 skip
- (1.0, 307.47, 308.5), (1.9, 311.83, 313.87),
- # L16 row of words
- (2.1, 317.2, 319.93), (4.1, 327.43, 333.27),
- # L17 controls/preview
- (2.1, 336.3, 338.93), (2.3, 342.53, 345.33),
- # L18 mobile preview
- (4.0, 361.5, 367.5),
- # L19 publish + live
- (2.95, 375.03, 378.57), (2.8, 384.7, 387.6)]
-tot = sum(p[0] for p in pieces)
-segs, t = [], 0.0
-for i, (d, a, b) in enumerate(pieces):
-    d = d * D / tot
-    oe = D if i == len(pieces) - 1 else round(t + d, 3)
-    s = dict(src_start=a, src_end=b, out_start=round(t, 3), out_end=oe, mode="speed")
-    if i: s["xfade"] = True
-    segs.append(s); t = oe
-plan = dict(output=dict(duration=D, fps=30, width=1920, height=1080), segments=segs, zooms=[], ripples=[],
-            intro=None, outro=None, sync=[], style=dict(ripple_color="#2F80ED", ripple_alpha=0.6, cursor_halo=False))
-json.dump(plan, open('projects/script-06/work/plan.json', 'w'), indent=1)
-print("total pieces", tot)
+P = 'projects/script-06/work/'
+END = 90.14
+L = json.load(open(P + 'lines.json'))
+L = L['lines'] if isinstance(L, dict) else L
+starts = [l['start'] for l in L]
+B = [0.0] + [round(s, 2) for s in starts[1:]] + [END]
+FIXED = {0: [(0.0, 1.5), (8.0, 12.3)]}
+M = [(11.9, 19.13), (24.27, 26.97), (28.5, 29.97), (34.17, 40.2), (41.43, 44.9), (46.53, 47.8), (48.67, 51.27),
+     (57.17, 58.63), (59.5, 61.63), (62.57, 63.77), (67.07, 71.1), (72.37, 74.73), (76.97, 80.1), (83.77, 86.57),
+     (87.93, 91.1), (93.07, 94.27), (96.93, 101.0), (101.87, 103.63), (110.03, 111.37), (115.63, 118.83),
+     (120.07, 122.8), (124.77, 132.23)]
+EXT = 0.5
+S = []
+for a, b in M:
+    a -= EXT; b += EXT
+    if S and a - S[-1][1] < 0.3:
+        S[-1][1] = b
+    else:
+        S.append([a, b])
+S[0][0] = 12.3
+S = [tuple(x) for x in S]
+tot = sum(b - a for a, b in S)
+need = END - B[1]
+TARGET = tot / need
+print('available', round(tot, 1), 'need', round(need, 1), 'speed', round(TARGET, 2))
+queue = [list(w) for w in S]
+qi = 0
+def take(n):
+    global qi
+    out = []
+    while n > 0.45:
+        w = queue[qi % len(queue)]
+        a, b = w
+        use = min(n, b - a)
+        if (b - a) - use < 0.5:
+            use = b - a
+        out.append((round(a, 3), round(a + use, 3)))
+        n -= use
+        if use >= b - a - 1e-6:
+            qi += 1
+            queue[qi % len(queue)] = list(S[qi % len(S)])
+        else:
+            w[0] = a + use
+    return out
+G = []
+for i in range(len(B) - 1):
+    o0, o1 = B[i], B[i + 1]
+    pieces = FIXED.get(i) or take(TARGET * (o1 - o0))
+    G.append((o0, o1, pieces))
+segs, prev_end = [], None
+for o0, o1, pieces in G:
+    sp = sum(b - a for a, b in pieces) / (o1 - o0)
+    t = o0
+    for k, (a, b) in enumerate(pieces):
+        end = o1 if k == len(pieces) - 1 else t + (b - a) / sp
+        s = {"src_start": a, "src_end": b, "out_start": round(t, 3), "out_end": round(end, 3), "mode": "speed"}
+        if prev_end is not None and abs(a - prev_end) > 0.002:
+            s["xfade"] = True
+        segs.append(s); prev_end = b; t = end
+    print(f"{o0:6.2f}-{o1:6.2f} {sp:.2f}x {pieces}")
+plan = {"output": {"duration": END, "fps": 30, "width": 3420, "height": 1922}, "segments": segs, "zooms": [],
+        "ripples": [], "intro": None, "outro": None, "sync": [],
+        "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
+json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
+json.dump({"recording": {"width": 3420, "height": 1922, "fps": 30, "duration": 136.933}, "sync": {"source": "frames"},
+           "actions": [{"id": "A1", "t_click": 14.0, "x": 1000, "y": 600, "kind": "click", "target": "Create a design",
+                        "result": "design opens", "t_result_visible": 20.0, "confidence": "low"}],
+           "junk": []}, open(P + 'actions.json', 'w'), indent=1)
