@@ -1,27 +1,42 @@
-"""Hand-budgeted plan for script-10 (300 s recording, 89.1 s voiceover; pieces from freezedetect moving windows).
-Recorder zoom is baked into the footage -> no zooms/ripples."""
+"""Hand-budgeted plan for script-10 (205.7 s recording, 105.05 s voiceover, 3420x1922; pieces from freezedetect moving windows).
+Recorder zoom is baked into the footage -> no zooms/ripples. One group of pieces per narration interval."""
 import json, os
 here = os.path.dirname(os.path.abspath(__file__))
-DUR = 89.118
-# (src_a, src_b, speed)
-P = [
- (0.0, 2.97, .75), (10.93, 14.9, 1), (22.03, 25.6, 1), (28.3, 32.83, 1),
- (91.77, 93.77, 1), (73.4, 83.1, 1), (136.8, 145.0, 1), (110.4, 111.97, 1), (116.03, 117.3, 1),
- (128.6, 133.5, 1), (165.1, 168.8, 1), (169.8, 172.0, 1), (175.6, 177.6, 1),
- (178.7, 181.2, 1), (184.8, 193.5, 1), (199.2, 204.0, 1), (206.1, 210.6, 1.15),
- (221.0, 223.9, 1), (225.7, 227.6, 1), (228.9, 231.2, 1), (237.9, 240.5, 1), (241.7, 244.5, 1),
- (246.7, 248.7, 1), (251.5, 253.4, 1), (263.5, 265.8, 1),
+DUR = 105.047
+# (interval start in output, [source windows])
+G = [
+ (0.0,   [(194.57, 198.0), (12.27, 14.77)]),
+ (6.1,   [(15.2, 23.7)]),
+ (14.06, [(27.33, 29.2), (30.2, 31.23), (41.6, 44.43)]),
+ (19.9,  [(45.47, 47.5), (57.6, 61.2)]),
+ (25.74, [(63.67, 70.67)]),
+ (33.0,  [(126.83, 132.3)]),
+ (38.56, [(85.27, 95.5)]),
+ (47.94, [(166.83, 170.8), (171.6, 174.6)]),
+ (54.48, [(175.0, 182.5)]),
+ (61.76, [(152.9, 161.0)]),
+ (69.84, [(105.7, 110.2)]),
+ (74.32, [(110.4, 112.13), (113.07, 115.73), (119.17, 121.5)]),
+ (81.08, [(183.0, 190.4)]),
+ (87.38, [(148.03, 151.65)]),
+ (91.0,  [(136.63, 141.4)]),
+ (95.76, [(194.57, 201.97), (203.77, 205.67)]),
 ]
-segs, t = [], 0.0
-for i, (a, b, sp) in enumerate(P):
-    d = (b - a) / sp
-    if i == len(P) - 1:
-        d = DUR - t; b = a + d * sp
-    s = {"mode": "speed", "src_start": a, "src_end": round(b, 3), "out_start": round(t, 3), "out_end": round(t + d, 3)}
-    if i: s["xfade"] = True
-    segs.append(s); t += d
-print("total", t)
-plan = {"output": {"duration": DUR, "fps": 30.0, "width": 1920, "height": 1080}, "segments": segs,
+segs, first = [], True
+for gi, (t0, wins) in enumerate(G):
+    t1 = G[gi + 1][0] if gi + 1 < len(G) else DUR
+    tot = sum(b - a for a, b in wins)
+    sp = tot / (t1 - t0)
+    print(f"group {gi} {t0}-{t1} speed {sp:.2f}")
+    t = t0
+    for wi, (a, b) in enumerate(wins):
+        d = (b - a) / sp
+        e = t1 if wi == len(wins) - 1 else t + d
+        s = {"mode": "speed", "src_start": a, "src_end": b, "out_start": round(t, 3), "out_end": round(e, 3)}
+        if not first: s["xfade"] = True
+        first = False
+        segs.append(s); t = e
+plan = {"output": {"duration": DUR, "fps": 30.0, "width": 3420, "height": 1922}, "segments": segs,
         "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [], "style": {},
         "notes": ["hand-built by hand_plan.py; no zooms/ripples (recorder zoom is baked into the footage)"]}
 json.dump(plan, open(os.path.join(here, "plan.json"), "w"), indent=1)
