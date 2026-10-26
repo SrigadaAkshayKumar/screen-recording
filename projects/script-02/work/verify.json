@@ -5,7 +5,7 @@
     {
       "name": "duration",
       "ok": true,
-      "detail": "86.700s vs voiceover 86.703s"
+      "detail": "100.496s vs voiceover 100.496s"
     },
     {
       "name": "streams",
@@ -15,7 +15,7 @@
     {
       "name": "resolution",
       "ok": true,
-      "detail": "1920x1080 (expected 1920x1080)"
+      "detail": "3420x1922 (expected 3420x1922)"
     },
     {
       "name": "frozen spans",
@@ -25,7 +25,7 @@
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "28 boundaries clean"
+      "detail": "43 boundaries clean"
     }
   ],
   "zoom_frames": []

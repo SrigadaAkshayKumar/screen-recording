@@ -1,33 +1,34 @@
-"""Hand-built plan for script-02 (225 s recording, 86.7 s voiceover, recorder zoom baked in: no zooms/ripples).
-Each group fills one narration interval (ends at the next line's start) with source pieces chosen where the
-picture moves (freezedetect on the source). A piece is (src_a, src_b) or (src_a, src_b, speed); pieces without
-a speed share the rest of the interval."""
+"""Hand-built plan for script-02 (206 s Canva busy-book recording 3420x1922, 100.5 s voiceover, recorder zoom baked in: no zooms/ripples).
+Each group fills one narration interval (ends at the next line's start) with source pieces chosen where the picture
+moves (freezedetect n=0.003 d=0.8 on the source). A piece is (src_a, src_b) or (src_a, src_b, speed)."""
 import json
 P = 'projects/script-02/work/'
-END = 86.703
+END = 100.496
 G = [
- (5.8,   [(2.2, 6.7)]),                          # L1 intro on the Canva home
- (9.14,  [(12.6, 13.8), (22.03, 24.37)]),        # L2 editor opens, elements
- (15.66, [(28.8, 33.27), (33.27, 35.3)]),        # L3 frames category
- (18.76, [(30.8, 33.27)]),                  # L4 landscape frame in the panel (reuse)
- (23.52, [(37.0, 40.9)]),   # L5 frame placed on the page
- (26.5,  [(52.0, 54.0), (57.5, 59.0)]),          # L6 open uploads / upload dialog
- (30.56, [(73.7, 77.8)]),                        # L7 drag onto the frame
- (33.9,  [(77.8, 79.4), (79.4, 80.4)]),          # L8 result in the shape
- (36.16, [(85.5, 87.8)]),                        # L9 double click -> crop
- (40.98, [(86.8, 90.7)]),          # L10 reposition / handles
- (44.66, [(92.8, 95.9)]),                        # L11 done
- (48.42, [(117.6, 121.4)]),                      # L12 resize the frame
- (52.22, [(118.8, 121.8)]), # L13 masked result keeps its shape
- (58.08, [(138.7, 144.9)]),                      # L14-15 frames from the elements panel
- (60.86, [(144.9, 147.5)]),                      # L16 add shape/frame
- (65.06, [(147.5, 151.5)]),                      # L17 select both
- (68.94, [(171.0, 175.0)]),                      # L18 ready-made frame
- (72.34, [(175.0, 178.0)]),                      # L19 other shapes
- (76.02, [(178.0, 181.6)]),                      # L20 drag replacement
- (79.08, [(181.6, 184.7)]),                      # L21 image changed
- (84.02, [(205.6, 208.6), (215.0, 217.0)]),      # L22 download PNG / MP4
- (END,   [(217.0, 219.7)]),                      # L23 closing
+ (8.14,  [(7.0, 9.43), (11.13, 13.37), (14.87, 17.17)]),   # L1 intro: finished sheet
+ (13.24, [(21.6, 23.53), (26.17, 28.37)]),                 # L2 create a design, editor opens
+ (18.8,  [(30.03, 32.23), (37.73, 39.1), (41.37, 42.47), (44.03, 46.33)]),  # L3 blank page / templates
+ (22.12, [(48.6, 51.9)]),                                  # L4 title
+ (25.5,  [(98.0, 100.3), (101.43, 103.0)]),                # L5 elements panel
+ (31.3,  [(107.43, 109.73), (112.53, 114.87), (117.3, 118.57), (120.73, 122.03)]),  # L6 shapes
+ (35.8,  [(90.07, 93.0), (93.87, 94.9)]),                  # L7 instruction
+ (39.76, [(94.9, 96.83), (66.2, 68.2)]),                   # L8 same font
+ (41.46, [(141.03, 142.73)]),                              # L9 duplicate page
+ (46.68, [(144.5, 148.53), (149.4, 150.4)]),               # L10 delete text
+ (49.74, [(150.4, 152.4), (162.4, 164.5)]),                # L11 colors / spread
+ (51.7,  [(178.0, 180.0)]),                                # L12 piece sheet
+ (57.9,  [(132.93, 138.07), (130.37, 131.4)]),             # L13 back to activity page
+ (61.96, [(168.83, 172.9)]),                               # L14 more pages
+ (66.54, [(172.9, 177.5)]),                                # L15 duplicate layout
+ (69.06, [(180.0, 182.23)]),                               # L16 tutorials skip
+ (72.92, [(124.6, 128.6)]),                                # L17 same size
+ (77.64, [(152.4, 156.07), (159.0, 160.2)]),               # L18 duplicate targets
+ (80.24, [(164.5, 167.5)]),                                # L19 fit after printing
+ (84.32, [(185.1, 189.2)]),                                # L20 share download PDF print
+ (88.24, [(189.2, 190.33), (191.4, 193.9)]),               # L21 export
+ (91.92, [(198.23, 201.9)]),                               # L22 print one pair
+ (97.0,  [(201.9, 206.2)]),                                # L23 check and assemble
+ (END,   [(17.97, 20.3), (21.2, 21.6)]),                   # L24 closing
 ]
 segs, prev_end, o0 = [], None, 0.0
 for o1, pieces in G:
@@ -43,7 +44,7 @@ for o1, pieces in G:
         prev_end, t = p[1], end
     print(f"{o0:6.2f}-{o1:6.2f} {[(round((s['src_end']-s['src_start'])/(s['out_end']-s['out_start']),2)) for s in segs[-len(pieces):]]}")
     o0 = o1
-plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
+plan = {"output": {"duration": END, "fps": 30, "width": 3420, "height": 1922}, "segments": segs, "zooms": [],
         "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
