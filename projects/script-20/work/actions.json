@@ -3,11 +3,23 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 255.333
+  "duration": 46.433
  },
  "sync": {
   "source": "frames"
  },
- "actions": [],
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 4.0,
+   "x": 400,
+   "y": 300,
+   "kind": "click",
+   "target": "search box",
+   "result": "search suggestions",
+   "t_result_visible": 5.0,
+   "confidence": "low"
+  }
+ ],
  "junk": []
 }

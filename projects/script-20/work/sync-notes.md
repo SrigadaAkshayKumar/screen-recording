@@ -1,6 +1,6 @@
-# Sync notes (script-20)
-Hand plan: 19 groups, one per narration line (or small run), each starting on its line start in lines.json; pieces at 0.83-1.35x, no holds, no zooms/ripples (recorder zoom is baked in).
+# sync notes (script-20)
+No anchors/zooms/ripples (hand plan: tools/ hand_plan.py in work/). check.py --plan: OK, 1 warning (A1 not tied to a word, intentional).
 ## Judgment calls
-- L7 (background/detach) has no matching footage: borrowed playback footage src 70-76.3.
-- L6 and L11 use playback footage (61.8-66.4, 66.4-69.3); L14-L19 map to the "Welcome" text-overlay and flip-again footage by topic.
-- The recording shows the flip of the video only indirectly; the "immediately switches" line shows the timeline/playback.
+- Recording (46.4 s, ~27 s moving) is shorter than the voiceover (101.3 s): moving windows reused cross-faded, 0.74-1.28x, no holds.
+- Lines 1-7 mapped by topic (home/search, new A4 design, blank page, elements search, margin frame); lines 8-21 stream cyclically through the windows; the last two lines use the finished-margin-frame footage.
+- Steps with no footage (stickers, group, duplicate, align, Share/Download/PDF, printing) are covered by neighbouring footage.
