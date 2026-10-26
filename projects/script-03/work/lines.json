@@ -1,1864 +1,2062 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to turn one Canva design into nine connected Instagram posts.",
+    "text": "This tutorial shows you how to add a working RSVP form to a Canva invitation and collect replies through a shared Canva link.",
     "start": 0.0,
-    "end": 4.94,
+    "end": 7.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      14
+      22
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.24
+        "end": 0.22
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.24,
-        "end": 0.58
+        "start": 0.22,
+        "end": 0.62
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.58,
-        "end": 0.96
+        "start": 0.62,
+        "end": 1.02
       },
       {
         "i": 3,
         "word": "you",
-        "start": 0.96,
-        "end": 1.14
+        "start": 1.02,
+        "end": 1.22
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.14,
-        "end": 1.24
+        "start": 1.22,
+        "end": 1.36
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.24,
-        "end": 1.38
+        "start": 1.36,
+        "end": 1.48
       },
       {
         "i": 6,
-        "word": "turn",
-        "start": 1.38,
-        "end": 1.58
+        "word": "add",
+        "start": 1.48,
+        "end": 1.68
       },
       {
         "i": 7,
-        "word": "one",
-        "start": 1.58,
-        "end": 1.88
+        "word": "a",
+        "start": 1.68,
+        "end": 1.82
       },
       {
         "i": 8,
-        "word": "Canva",
-        "start": 1.88,
-        "end": 2.22
+        "word": "working",
+        "start": 1.82,
+        "end": 2.18
       },
       {
         "i": 9,
-        "word": "design",
-        "start": 2.22,
-        "end": 2.54
+        "word": "RSVP",
+        "start": 2.18,
+        "end": 3.06
       },
       {
         "i": 10,
-        "word": "into",
-        "start": 2.54,
-        "end": 3.02
+        "word": "form",
+        "start": 3.06,
+        "end": 3.58
       },
       {
         "i": 11,
-        "word": "nine",
-        "start": 3.02,
-        "end": 3.4
+        "word": "to",
+        "start": 3.58,
+        "end": 3.82
       },
       {
         "i": 12,
-        "word": "connected",
-        "start": 3.4,
-        "end": 3.92
+        "word": "a",
+        "start": 3.82,
+        "end": 4.14
       },
       {
         "i": 13,
-        "word": "Instagram",
-        "start": 3.92,
-        "end": 4.48
+        "word": "Canva",
+        "start": 4.14,
+        "end": 4.26
       },
       {
         "i": 14,
-        "word": "posts.",
-        "start": 4.48,
-        "end": 4.94
+        "word": "invitation",
+        "start": 4.26,
+        "end": 4.78
+      },
+      {
+        "i": 15,
+        "word": "and",
+        "start": 4.78,
+        "end": 5.34
+      },
+      {
+        "i": 16,
+        "word": "collect",
+        "start": 5.34,
+        "end": 5.56
+      },
+      {
+        "i": 17,
+        "word": "replies",
+        "start": 5.56,
+        "end": 5.96
+      },
+      {
+        "i": 18,
+        "word": "through",
+        "start": 5.96,
+        "end": 6.24
+      },
+      {
+        "i": 19,
+        "word": "a",
+        "start": 6.24,
+        "end": 6.42
+      },
+      {
+        "i": 20,
+        "word": "shared",
+        "start": 6.42,
+        "end": 6.68
+      },
+      {
+        "i": 21,
+        "word": "Canva",
+        "start": 6.68,
+        "end": 7.12
+      },
+      {
+        "i": 22,
+        "word": "link.",
+        "start": 7.12,
+        "end": 7.36
       }
     ]
   },
   {
     "id": 2,
-    "text": "First, choose the shape of your individual posts.",
-    "start": 5.64,
-    "end": 8.2,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      15,
-      22
-    ],
-    "words": [
-      {
-        "i": 15,
-        "word": "First,",
-        "start": 5.64,
-        "end": 5.86
-      },
-      {
-        "i": 16,
-        "word": "choose",
-        "start": 6.12,
-        "end": 6.42
-      },
-      {
-        "i": 17,
-        "word": "the",
-        "start": 6.42,
-        "end": 6.66
-      },
-      {
-        "i": 18,
-        "word": "shape",
-        "start": 6.66,
-        "end": 6.84
-      },
-      {
-        "i": 19,
-        "word": "of",
-        "start": 6.84,
-        "end": 7.04
-      },
-      {
-        "i": 20,
-        "word": "your",
-        "start": 7.04,
-        "end": 7.2
-      },
-      {
-        "i": 21,
-        "word": "individual",
-        "start": 7.2,
-        "end": 7.7
-      },
-      {
-        "i": 22,
-        "word": "posts.",
-        "start": 7.7,
-        "end": 8.2
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "text": "For this example, each portrait tile will be 1080 by 1440 pixels.",
-    "start": 8.74,
-    "end": 13.2,
+    "text": "Open your invitation design.",
+    "start": 7.92,
+    "end": 9.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       23,
-      34
+      26
     ],
     "words": [
       {
         "i": 23,
-        "word": "For",
-        "start": 8.74,
-        "end": 8.86
+        "word": "Open",
+        "start": 7.92,
+        "end": 8.08
       },
       {
         "i": 24,
-        "word": "this",
-        "start": 8.86,
-        "end": 9.0
+        "word": "your",
+        "start": 8.08,
+        "end": 8.26
       },
       {
         "i": 25,
-        "word": "example,",
-        "start": 9.0,
-        "end": 9.4
+        "word": "invitation",
+        "start": 8.26,
+        "end": 8.66
       },
       {
         "i": 26,
-        "word": "each",
-        "start": 9.58,
-        "end": 9.76
-      },
+        "word": "design.",
+        "start": 8.66,
+        "end": 9.14
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "In Elements, look under Browse categories for forms.",
+    "start": 10.1,
+    "end": 12.74,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      27,
+      34
+    ],
+    "words": [
       {
         "i": 27,
-        "word": "portrait",
-        "start": 9.76,
-        "end": 10.14
+        "word": "In",
+        "start": 10.1,
+        "end": 10.22
       },
       {
         "i": 28,
-        "word": "tile",
-        "start": 10.14,
-        "end": 10.48
+        "word": "Elements,",
+        "start": 10.22,
+        "end": 10.6
       },
       {
         "i": 29,
-        "word": "will",
-        "start": 10.48,
-        "end": 10.74
+        "word": "look",
+        "start": 10.84,
+        "end": 10.92
       },
       {
         "i": 30,
-        "word": "be",
-        "start": 10.74,
-        "end": 10.9
+        "word": "under",
+        "start": 10.92,
+        "end": 11.26
       },
       {
         "i": 31,
-        "word": "1080",
-        "start": 10.9,
-        "end": 11.2
+        "word": "Browse",
+        "start": 11.26,
+        "end": 11.58
       },
       {
         "i": 32,
-        "word": "by",
-        "start": 11.2,
-        "end": 12.0
+        "word": "categories",
+        "start": 11.58,
+        "end": 12.04
       },
       {
         "i": 33,
-        "word": "1440",
-        "start": 12.0,
-        "end": 12.54
+        "word": "for",
+        "start": 12.04,
+        "end": 12.34
       },
       {
         "i": 34,
-        "word": "pixels.",
-        "start": 12.54,
-        "end": 13.2
+        "word": "forms.",
+        "start": 12.34,
+        "end": 12.74
       }
     ]
   },
   {
     "id": 4,
-    "text": "Create a master design measuring 3240 by 4320 pixels, which fits three tiles across and three down.",
-    "start": 14.3,
-    "end": 21.12,
+    "text": "Choose a suitable form preset and add it to the page.",
+    "start": 13.38,
+    "end": 15.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       35,
-      51
+      45
     ],
     "words": [
       {
         "i": 35,
-        "word": "Create",
-        "start": 14.3,
-        "end": 14.56
+        "word": "Choose",
+        "start": 13.38,
+        "end": 13.52
       },
       {
         "i": 36,
         "word": "a",
-        "start": 14.56,
-        "end": 14.72
+        "start": 13.52,
+        "end": 13.74
       },
       {
         "i": 37,
-        "word": "master",
-        "start": 14.72,
-        "end": 14.94
+        "word": "suitable",
+        "start": 13.74,
+        "end": 13.92
       },
       {
         "i": 38,
-        "word": "design",
-        "start": 14.94,
-        "end": 15.32
+        "word": "form",
+        "start": 13.92,
+        "end": 14.4
       },
       {
         "i": 39,
-        "word": "measuring",
-        "start": 15.32,
-        "end": 15.68
+        "word": "preset",
+        "start": 14.4,
+        "end": 14.76
       },
       {
         "i": 40,
-        "word": "3240",
-        "start": 15.68,
-        "end": 16.62
+        "word": "and",
+        "start": 14.76,
+        "end": 15.16
       },
       {
         "i": 41,
-        "word": "by",
-        "start": 16.62,
-        "end": 16.94
+        "word": "add",
+        "start": 15.16,
+        "end": 15.38
       },
       {
         "i": 42,
-        "word": "4320",
-        "start": 16.94,
-        "end": 17.84
+        "word": "it",
+        "start": 15.38,
+        "end": 15.5
       },
       {
         "i": 43,
-        "word": "pixels,",
-        "start": 17.84,
-        "end": 18.22
+        "word": "to",
+        "start": 15.5,
+        "end": 15.6
       },
       {
         "i": 44,
-        "word": "which",
-        "start": 18.74,
-        "end": 18.84
+        "word": "the",
+        "start": 15.6,
+        "end": 15.72
       },
       {
         "i": 45,
-        "word": "fits",
-        "start": 18.84,
-        "end": 19.08
-      },
-      {
-        "i": 46,
-        "word": "three",
-        "start": 19.08,
-        "end": 19.4
-      },
-      {
-        "i": 47,
-        "word": "tiles",
-        "start": 19.4,
-        "end": 19.72
-      },
-      {
-        "i": 48,
-        "word": "across",
-        "start": 19.72,
-        "end": 20.02
-      },
-      {
-        "i": 49,
-        "word": "and",
-        "start": 20.02,
-        "end": 20.56
-      },
-      {
-        "i": 50,
-        "word": "three",
-        "start": 20.56,
-        "end": 20.8
-      },
-      {
-        "i": 51,
-        "word": "down.",
-        "start": 20.8,
-        "end": 21.12
+        "word": "page.",
+        "start": 15.72,
+        "end": 15.98
       }
     ]
   },
   {
     "id": 5,
-    "text": "Open file, rulers and guides, and add guides.",
-    "start": 21.78,
-    "end": 24.48,
+    "text": "If this category is not available in your account, use the linked form alternative shown at the end.",
+    "start": 16.68,
+    "end": 22.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      52,
-      59
+      46,
+      63
     ],
     "words": [
       {
+        "i": 46,
+        "word": "If",
+        "start": 16.68,
+        "end": 16.82
+      },
+      {
+        "i": 47,
+        "word": "this",
+        "start": 16.82,
+        "end": 17.0
+      },
+      {
+        "i": 48,
+        "word": "category",
+        "start": 17.0,
+        "end": 17.38
+      },
+      {
+        "i": 49,
+        "word": "is",
+        "start": 17.38,
+        "end": 17.62
+      },
+      {
+        "i": 50,
+        "word": "not",
+        "start": 17.62,
+        "end": 17.88
+      },
+      {
+        "i": 51,
+        "word": "available",
+        "start": 17.88,
+        "end": 18.2
+      },
+      {
         "i": 52,
-        "word": "Open",
-        "start": 21.78,
-        "end": 22.06
+        "word": "in",
+        "start": 18.2,
+        "end": 18.52
       },
       {
         "i": 53,
-        "word": "file,",
-        "start": 22.06,
-        "end": 22.36
+        "word": "your",
+        "start": 18.52,
+        "end": 18.66
       },
       {
         "i": 54,
-        "word": "rulers",
-        "start": 22.62,
-        "end": 22.78
+        "word": "account,",
+        "start": 18.66,
+        "end": 19.0
       },
       {
         "i": 55,
-        "word": "and",
-        "start": 22.78,
-        "end": 23.02
+        "word": "use",
+        "start": 19.48,
+        "end": 19.66
       },
       {
         "i": 56,
-        "word": "guides,",
-        "start": 23.02,
-        "end": 23.34
+        "word": "the",
+        "start": 19.66,
+        "end": 19.86
       },
       {
         "i": 57,
-        "word": "and",
-        "start": 23.66,
-        "end": 23.74
+        "word": "linked",
+        "start": 19.86,
+        "end": 20.0
       },
       {
         "i": 58,
-        "word": "add",
-        "start": 23.74,
-        "end": 24.02
+        "word": "form",
+        "start": 20.0,
+        "end": 20.36
       },
       {
         "i": 59,
-        "word": "guides.",
-        "start": 24.02,
-        "end": 24.48
+        "word": "alternative",
+        "start": 20.36,
+        "end": 20.9
+      },
+      {
+        "i": 60,
+        "word": "shown",
+        "start": 20.9,
+        "end": 21.4
+      },
+      {
+        "i": 61,
+        "word": "at",
+        "start": 21.4,
+        "end": 21.58
+      },
+      {
+        "i": 62,
+        "word": "the",
+        "start": 21.58,
+        "end": 21.68
+      },
+      {
+        "i": 63,
+        "word": "end.",
+        "start": 21.68,
+        "end": 22.02
       }
     ]
   },
   {
     "id": 6,
-    "text": "Choose a 3x3 grid with no gaps.",
-    "start": 25.22,
-    "end": 27.26,
+    "text": "Select the form and click Edit.",
+    "start": 22.66,
+    "end": 24.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      60,
-      66
+      64,
+      69
     ],
     "words": [
       {
-        "i": 60,
-        "word": "Choose",
-        "start": 25.22,
-        "end": 25.34
-      },
-      {
-        "i": 61,
-        "word": "a",
-        "start": 25.34,
-        "end": 25.52
-      },
-      {
-        "i": 62,
-        "word": "3x3",
-        "start": 25.52,
-        "end": 26.16
-      },
-      {
-        "i": 63,
-        "word": "grid",
-        "start": 26.16,
-        "end": 26.42
-      },
-      {
         "i": 64,
-        "word": "with",
-        "start": 26.42,
-        "end": 26.72
+        "word": "Select",
+        "start": 22.66,
+        "end": 22.86
       },
       {
         "i": 65,
-        "word": "no",
-        "start": 26.72,
-        "end": 26.92
+        "word": "the",
+        "start": 22.86,
+        "end": 23.06
       },
       {
         "i": 66,
-        "word": "gaps.",
-        "start": 26.92,
-        "end": 27.26
+        "word": "form",
+        "start": 23.06,
+        "end": 23.36
+      },
+      {
+        "i": 67,
+        "word": "and",
+        "start": 23.36,
+        "end": 23.66
+      },
+      {
+        "i": 68,
+        "word": "click",
+        "start": 23.66,
+        "end": 23.98
+      },
+      {
+        "i": 69,
+        "word": "Edit.",
+        "start": 23.98,
+        "end": 24.36
       }
     ]
   },
   {
     "id": 7,
-    "text": "These guides show where your artwork will be divided.",
-    "start": 27.7,
-    "end": 30.06,
+    "text": "In the Questions tab, change the first question to Will you attend?",
+    "start": 25.24,
+    "end": 29.12,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      67,
-      75
+      70,
+      81
     ],
     "words": [
       {
-        "i": 67,
-        "word": "These",
-        "start": 27.7,
-        "end": 28.0
-      },
-      {
-        "i": 68,
-        "word": "guides",
-        "start": 28.0,
-        "end": 28.28
-      },
-      {
-        "i": 69,
-        "word": "show",
-        "start": 28.28,
-        "end": 28.54
-      },
-      {
         "i": 70,
-        "word": "where",
-        "start": 28.54,
-        "end": 28.72
+        "word": "In",
+        "start": 25.24,
+        "end": 25.46
       },
       {
         "i": 71,
-        "word": "your",
-        "start": 28.72,
-        "end": 28.88
+        "word": "the",
+        "start": 25.46,
+        "end": 25.6
       },
       {
         "i": 72,
-        "word": "artwork",
-        "start": 28.88,
-        "end": 29.26
+        "word": "Questions",
+        "start": 25.6,
+        "end": 25.88
       },
       {
         "i": 73,
-        "word": "will",
-        "start": 29.26,
-        "end": 29.5
+        "word": "tab,",
+        "start": 25.88,
+        "end": 26.28
       },
       {
         "i": 74,
-        "word": "be",
-        "start": 29.5,
-        "end": 29.62
+        "word": "change",
+        "start": 26.56,
+        "end": 26.86
       },
       {
         "i": 75,
-        "word": "divided.",
-        "start": 29.62,
-        "end": 30.06
+        "word": "the",
+        "start": 26.86,
+        "end": 27.06
+      },
+      {
+        "i": 76,
+        "word": "first",
+        "start": 27.06,
+        "end": 27.28
+      },
+      {
+        "i": 77,
+        "word": "question",
+        "start": 27.28,
+        "end": 27.66
+      },
+      {
+        "i": 78,
+        "word": "to",
+        "start": 27.66,
+        "end": 28.32
+      },
+      {
+        "i": 79,
+        "word": "Will",
+        "start": 28.32,
+        "end": 28.58
+      },
+      {
+        "i": 80,
+        "word": "you",
+        "start": 28.58,
+        "end": 28.78
+      },
+      {
+        "i": 81,
+        "word": "attend?",
+        "start": 28.78,
+        "end": 29.12
       }
     ]
   },
   {
     "id": 8,
-    "text": "Add your background, photos and text across the master design.",
-    "start": 30.7,
-    "end": 34.08,
+    "text": "Add Yes and No as the answer choices and make the question required.",
+    "start": 29.72,
+    "end": 34.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      76,
-      85
+      82,
+      94
     ],
     "words": [
       {
-        "i": 76,
-        "word": "Add",
-        "start": 30.7,
-        "end": 30.8
-      },
-      {
-        "i": 77,
-        "word": "your",
-        "start": 30.8,
-        "end": 30.96
-      },
-      {
-        "i": 78,
-        "word": "background,",
-        "start": 30.96,
-        "end": 31.34
-      },
-      {
-        "i": 79,
-        "word": "photos",
-        "start": 31.64,
-        "end": 31.84
-      },
-      {
-        "i": 80,
-        "word": "and",
-        "start": 31.84,
-        "end": 32.24
-      },
-      {
-        "i": 81,
-        "word": "text",
-        "start": 32.24,
-        "end": 32.56
-      },
-      {
         "i": 82,
-        "word": "across",
-        "start": 32.56,
-        "end": 33.18
+        "word": "Add",
+        "start": 29.72,
+        "end": 30.02
       },
       {
         "i": 83,
-        "word": "the",
-        "start": 33.18,
-        "end": 33.42
+        "word": "Yes",
+        "start": 30.02,
+        "end": 30.28
       },
       {
         "i": 84,
-        "word": "master",
-        "start": 33.42,
-        "end": 33.62
+        "word": "and",
+        "start": 30.28,
+        "end": 30.74
       },
       {
         "i": 85,
-        "word": "design.",
-        "start": 33.62,
-        "end": 34.08
+        "word": "No",
+        "start": 30.74,
+        "end": 31.04
+      },
+      {
+        "i": 86,
+        "word": "as",
+        "start": 31.04,
+        "end": 31.46
+      },
+      {
+        "i": 87,
+        "word": "the",
+        "start": 31.46,
+        "end": 31.62
+      },
+      {
+        "i": 88,
+        "word": "answer",
+        "start": 31.62,
+        "end": 31.9
+      },
+      {
+        "i": 89,
+        "word": "choices",
+        "start": 31.9,
+        "end": 32.44
+      },
+      {
+        "i": 90,
+        "word": "and",
+        "start": 32.44,
+        "end": 32.9
+      },
+      {
+        "i": 91,
+        "word": "make",
+        "start": 32.9,
+        "end": 33.1
+      },
+      {
+        "i": 92,
+        "word": "the",
+        "start": 33.1,
+        "end": 33.32
+      },
+      {
+        "i": 93,
+        "word": "question",
+        "start": 33.32,
+        "end": 33.68
+      },
+      {
+        "i": 94,
+        "word": "required.",
+        "start": 33.68,
+        "end": 34.26
       }
     ]
   },
   {
     "id": 9,
-    "text": "Keep important words and faces inside individual tiles so they remain understandable when someone opens just one post.",
-    "start": 34.78,
-    "end": 41.2,
+    "text": "Add another question for the number of guests using the question types offered in your form.",
+    "start": 34.88,
+    "end": 38.76,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      86,
-      103
+      95,
+      110
     ],
     "words": [
       {
-        "i": 86,
-        "word": "Keep",
-        "start": 34.78,
-        "end": 34.94
-      },
-      {
-        "i": 87,
-        "word": "important",
-        "start": 34.94,
-        "end": 35.4
-      },
-      {
-        "i": 88,
-        "word": "words",
-        "start": 35.4,
-        "end": 35.7
-      },
-      {
-        "i": 89,
-        "word": "and",
-        "start": 35.7,
-        "end": 35.92
-      },
-      {
-        "i": 90,
-        "word": "faces",
-        "start": 35.92,
-        "end": 36.24
-      },
-      {
-        "i": 91,
-        "word": "inside",
-        "start": 36.24,
-        "end": 36.72
-      },
-      {
-        "i": 92,
-        "word": "individual",
-        "start": 36.72,
-        "end": 37.24
-      },
-      {
-        "i": 93,
-        "word": "tiles",
-        "start": 37.24,
-        "end": 37.66
-      },
-      {
-        "i": 94,
-        "word": "so",
-        "start": 37.66,
-        "end": 38.26
-      },
-      {
         "i": 95,
-        "word": "they",
-        "start": 38.26,
-        "end": 38.4
+        "word": "Add",
+        "start": 34.88,
+        "end": 34.98
       },
       {
         "i": 96,
-        "word": "remain",
-        "start": 38.4,
-        "end": 38.66
+        "word": "another",
+        "start": 34.98,
+        "end": 35.2
       },
       {
         "i": 97,
-        "word": "understandable",
-        "start": 38.66,
-        "end": 39.34
+        "word": "question",
+        "start": 35.2,
+        "end": 35.48
       },
       {
         "i": 98,
-        "word": "when",
-        "start": 39.34,
-        "end": 39.78
+        "word": "for",
+        "start": 35.48,
+        "end": 35.7
       },
       {
         "i": 99,
-        "word": "someone",
-        "start": 39.78,
-        "end": 40.04
+        "word": "the",
+        "start": 35.7,
+        "end": 35.82
       },
       {
         "i": 100,
-        "word": "opens",
-        "start": 40.04,
-        "end": 40.32
+        "word": "number",
+        "start": 35.82,
+        "end": 35.94
       },
       {
         "i": 101,
-        "word": "just",
-        "start": 40.32,
-        "end": 40.6
+        "word": "of",
+        "start": 35.94,
+        "end": 36.18
       },
       {
         "i": 102,
-        "word": "one",
-        "start": 40.6,
-        "end": 40.86
+        "word": "guests",
+        "start": 36.18,
+        "end": 36.46
       },
       {
         "i": 103,
-        "word": "post.",
-        "start": 40.86,
-        "end": 41.2
+        "word": "using",
+        "start": 36.46,
+        "end": 36.88
+      },
+      {
+        "i": 104,
+        "word": "the",
+        "start": 36.88,
+        "end": 37.08
+      },
+      {
+        "i": 105,
+        "word": "question",
+        "start": 37.08,
+        "end": 37.36
+      },
+      {
+        "i": 106,
+        "word": "types",
+        "start": 37.36,
+        "end": 37.7
+      },
+      {
+        "i": 107,
+        "word": "offered",
+        "start": 37.7,
+        "end": 38.04
+      },
+      {
+        "i": 108,
+        "word": "in",
+        "start": 38.04,
+        "end": 38.2
+      },
+      {
+        "i": 109,
+        "word": "your",
+        "start": 38.2,
+        "end": 38.38
+      },
+      {
+        "i": 110,
+        "word": "form.",
+        "start": 38.38,
+        "end": 38.76
       }
     ]
   },
   {
     "id": 10,
-    "text": "Download the finished master as a PNG.",
-    "start": 42.14,
-    "end": 44.0,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      104,
-      110
-    ],
-    "words": [
-      {
-        "i": 104,
-        "word": "Download",
-        "start": 42.14,
-        "end": 42.36
-      },
-      {
-        "i": 105,
-        "word": "the",
-        "start": 42.36,
-        "end": 42.56
-      },
-      {
-        "i": 106,
-        "word": "finished",
-        "start": 42.56,
-        "end": 42.8
-      },
-      {
-        "i": 107,
-        "word": "master",
-        "start": 42.8,
-        "end": 43.16
-      },
-      {
-        "i": 108,
-        "word": "as",
-        "start": 43.16,
-        "end": 43.42
-      },
-      {
-        "i": 109,
-        "word": "a",
-        "start": 43.42,
-        "end": 43.6
-      },
-      {
-        "i": 110,
-        "word": "PNG.",
-        "start": 43.6,
-        "end": 44.0
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "text": "Create another Canva design at the individual tile size, 1080 by 1440 pixels.",
-    "start": 44.64,
-    "end": 50.24,
+    "text": "Keep the form short so guests can reply quickly.",
+    "start": 39.36,
+    "end": 41.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       111,
-      123
+      119
     ],
     "words": [
       {
         "i": 111,
-        "word": "Create",
-        "start": 44.64,
-        "end": 44.9
+        "word": "Keep",
+        "start": 39.36,
+        "end": 39.54
       },
       {
         "i": 112,
-        "word": "another",
-        "start": 44.9,
-        "end": 45.2
+        "word": "the",
+        "start": 39.54,
+        "end": 39.72
       },
       {
         "i": 113,
-        "word": "Canva",
-        "start": 45.2,
-        "end": 45.6
+        "word": "form",
+        "start": 39.72,
+        "end": 39.94
       },
       {
         "i": 114,
-        "word": "design",
-        "start": 45.6,
-        "end": 45.94
+        "word": "short",
+        "start": 39.94,
+        "end": 40.3
       },
       {
         "i": 115,
-        "word": "at",
-        "start": 45.94,
-        "end": 46.14
+        "word": "so",
+        "start": 40.3,
+        "end": 40.6
       },
       {
         "i": 116,
-        "word": "the",
-        "start": 46.14,
-        "end": 46.26
+        "word": "guests",
+        "start": 40.6,
+        "end": 40.82
       },
       {
         "i": 117,
-        "word": "individual",
-        "start": 46.26,
-        "end": 46.68
+        "word": "can",
+        "start": 40.82,
+        "end": 41.08
       },
       {
         "i": 118,
-        "word": "tile",
-        "start": 46.68,
-        "end": 47.04
+        "word": "reply",
+        "start": 41.08,
+        "end": 41.42
       },
       {
         "i": 119,
-        "word": "size,",
-        "start": 47.04,
-        "end": 47.48
-      },
+        "word": "quickly.",
+        "start": 41.42,
+        "end": 41.84
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Open Settings and enable respondent name collection where it is available.",
+    "start": 42.62,
+    "end": 46.36,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      120,
+      130
+    ],
+    "words": [
       {
         "i": 120,
-        "word": "1080",
-        "start": 48.12,
-        "end": 48.42
+        "word": "Open",
+        "start": 42.62,
+        "end": 42.82
       },
       {
         "i": 121,
-        "word": "by",
-        "start": 48.42,
-        "end": 48.84
+        "word": "Settings",
+        "start": 42.82,
+        "end": 43.2
       },
       {
         "i": 122,
-        "word": "1440",
-        "start": 48.84,
-        "end": 49.56
+        "word": "and",
+        "start": 43.2,
+        "end": 43.66
       },
       {
         "i": 123,
-        "word": "pixels.",
-        "start": 49.56,
-        "end": 50.24
+        "word": "enable",
+        "start": 43.66,
+        "end": 43.96
+      },
+      {
+        "i": 124,
+        "word": "respondent",
+        "start": 43.96,
+        "end": 44.52
+      },
+      {
+        "i": 125,
+        "word": "name",
+        "start": 44.52,
+        "end": 44.86
+      },
+      {
+        "i": 126,
+        "word": "collection",
+        "start": 44.86,
+        "end": 45.38
+      },
+      {
+        "i": 127,
+        "word": "where",
+        "start": 45.38,
+        "end": 45.68
+      },
+      {
+        "i": 128,
+        "word": "it",
+        "start": 45.68,
+        "end": 45.82
+      },
+      {
+        "i": 129,
+        "word": "is",
+        "start": 45.82,
+        "end": 45.98
+      },
+      {
+        "i": 130,
+        "word": "available.",
+        "start": 45.98,
+        "end": 46.36
       }
     ]
   },
   {
     "id": 12,
-    "text": "Open apps, search for image splitter, and select the app by Cootsoft.",
-    "start": 51.02,
-    "end": 55.02,
+    "text": "For this example, use a shared invitation design rather than a website because Canva documents different name collection behavior for website forms.",
+    "start": 47.06,
+    "end": 55.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      124,
-      135
+      131,
+      152
     ],
     "words": [
       {
-        "i": 124,
-        "word": "Open",
-        "start": 51.02,
-        "end": 51.32
-      },
-      {
-        "i": 125,
-        "word": "apps,",
-        "start": 51.32,
-        "end": 51.54
-      },
-      {
-        "i": 126,
-        "word": "search",
-        "start": 52.06,
-        "end": 52.28
-      },
-      {
-        "i": 127,
-        "word": "for",
-        "start": 52.28,
-        "end": 52.6
-      },
-      {
-        "i": 128,
-        "word": "image",
-        "start": 52.6,
-        "end": 52.84
-      },
-      {
-        "i": 129,
-        "word": "splitter,",
-        "start": 52.84,
-        "end": 53.28
-      },
-      {
-        "i": 130,
-        "word": "and",
-        "start": 53.6,
-        "end": 53.76
-      },
-      {
         "i": 131,
-        "word": "select",
-        "start": 53.76,
-        "end": 54.0
+        "word": "For",
+        "start": 47.06,
+        "end": 47.2
       },
       {
         "i": 132,
-        "word": "the",
-        "start": 54.0,
-        "end": 54.16
+        "word": "this",
+        "start": 47.2,
+        "end": 47.34
       },
       {
         "i": 133,
-        "word": "app",
-        "start": 54.16,
-        "end": 54.34
+        "word": "example,",
+        "start": 47.34,
+        "end": 47.78
       },
       {
         "i": 134,
-        "word": "by",
-        "start": 54.34,
-        "end": 54.56
+        "word": "use",
+        "start": 47.94,
+        "end": 48.12
       },
       {
         "i": 135,
-        "word": "Cootsoft.",
-        "start": 54.56,
-        "end": 55.02
+        "word": "a",
+        "start": 48.12,
+        "end": 48.32
+      },
+      {
+        "i": 136,
+        "word": "shared",
+        "start": 48.32,
+        "end": 48.58
+      },
+      {
+        "i": 137,
+        "word": "invitation",
+        "start": 48.58,
+        "end": 49.18
+      },
+      {
+        "i": 138,
+        "word": "design",
+        "start": 49.18,
+        "end": 49.62
+      },
+      {
+        "i": 139,
+        "word": "rather",
+        "start": 49.62,
+        "end": 49.86
+      },
+      {
+        "i": 140,
+        "word": "than",
+        "start": 49.86,
+        "end": 50.12
+      },
+      {
+        "i": 141,
+        "word": "a",
+        "start": 50.12,
+        "end": 50.24
+      },
+      {
+        "i": 142,
+        "word": "website",
+        "start": 50.24,
+        "end": 50.62
+      },
+      {
+        "i": 143,
+        "word": "because",
+        "start": 50.62,
+        "end": 51.3
+      },
+      {
+        "i": 144,
+        "word": "Canva",
+        "start": 51.3,
+        "end": 51.64
+      },
+      {
+        "i": 145,
+        "word": "documents",
+        "start": 51.64,
+        "end": 52.1
+      },
+      {
+        "i": 146,
+        "word": "different",
+        "start": 52.1,
+        "end": 52.52
+      },
+      {
+        "i": 147,
+        "word": "name",
+        "start": 52.52,
+        "end": 52.86
+      },
+      {
+        "i": 148,
+        "word": "collection",
+        "start": 52.86,
+        "end": 53.3
+      },
+      {
+        "i": 149,
+        "word": "behavior",
+        "start": 53.3,
+        "end": 53.72
+      },
+      {
+        "i": 150,
+        "word": "for",
+        "start": 53.72,
+        "end": 54.22
+      },
+      {
+        "i": 151,
+        "word": "website",
+        "start": 54.22,
+        "end": 54.54
+      },
+      {
+        "i": 152,
+        "word": "forms.",
+        "start": 54.54,
+        "end": 55.1
       }
     ]
   },
   {
     "id": 13,
-    "text": "Load the exported master image and choose a split with three columns and three rows.",
-    "start": 55.86,
-    "end": 60.7,
+    "text": "Change the Submit button text to Send RSVP.",
+    "start": 55.7,
+    "end": 59.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      136,
-      150
+      153,
+      160
     ],
     "words": [
       {
-        "i": 136,
-        "word": "Load",
-        "start": 55.86,
-        "end": 56.22
+        "i": 153,
+        "word": "Change",
+        "start": 55.7,
+        "end": 56.26
       },
       {
-        "i": 137,
+        "i": 154,
         "word": "the",
-        "start": 56.22,
-        "end": 56.4
+        "start": 56.26,
+        "end": 56.46
       },
       {
-        "i": 138,
-        "word": "exported",
-        "start": 56.4,
-        "end": 56.92
+        "i": 155,
+        "word": "Submit",
+        "start": 56.46,
+        "end": 56.74
       },
       {
-        "i": 139,
-        "word": "master",
-        "start": 56.92,
-        "end": 57.32
+        "i": 156,
+        "word": "button",
+        "start": 56.74,
+        "end": 57.02
       },
       {
-        "i": 140,
-        "word": "image",
-        "start": 57.32,
-        "end": 57.64
+        "i": 157,
+        "word": "text",
+        "start": 57.02,
+        "end": 57.4
       },
       {
-        "i": 141,
-        "word": "and",
-        "start": 57.64,
-        "end": 57.9
+        "i": 158,
+        "word": "to",
+        "start": 57.4,
+        "end": 57.96
       },
       {
-        "i": 142,
-        "word": "choose",
-        "start": 57.9,
-        "end": 58.16
+        "i": 159,
+        "word": "Send",
+        "start": 57.96,
+        "end": 58.3
       },
       {
-        "i": 143,
-        "word": "a",
-        "start": 58.16,
-        "end": 58.36
-      },
-      {
-        "i": 144,
-        "word": "split",
-        "start": 58.36,
-        "end": 58.58
-      },
-      {
-        "i": 145,
-        "word": "with",
-        "start": 58.58,
-        "end": 58.82
-      },
-      {
-        "i": 146,
-        "word": "three",
-        "start": 58.82,
-        "end": 59.14
-      },
-      {
-        "i": 147,
-        "word": "columns",
-        "start": 59.14,
-        "end": 59.48
-      },
-      {
-        "i": 148,
-        "word": "and",
-        "start": 59.48,
-        "end": 59.96
-      },
-      {
-        "i": 149,
-        "word": "three",
-        "start": 59.96,
-        "end": 60.24
-      },
-      {
-        "i": 150,
-        "word": "rows.",
-        "start": 60.24,
-        "end": 60.7
+        "i": 160,
+        "word": "RSVP.",
+        "start": 58.3,
+        "end": 59.3
       }
     ]
   },
   {
     "id": 14,
-    "text": "Add the resulting tiles to separate pages, checking that each page contains one full tile rather than the entire master image.",
-    "start": 61.26,
-    "end": 68.2,
+    "text": "Add your reply deadline above the form and adjust the colours to match the invitation.",
+    "start": 60.6,
+    "end": 64.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      151,
-      171
+      161,
+      175
     ],
     "words": [
       {
-        "i": 151,
-        "word": "Add",
-        "start": 61.26,
-        "end": 61.44
-      },
-      {
-        "i": 152,
-        "word": "the",
-        "start": 61.44,
-        "end": 61.56
-      },
-      {
-        "i": 153,
-        "word": "resulting",
-        "start": 61.56,
-        "end": 61.92
-      },
-      {
-        "i": 154,
-        "word": "tiles",
-        "start": 61.92,
-        "end": 62.24
-      },
-      {
-        "i": 155,
-        "word": "to",
-        "start": 62.24,
-        "end": 62.54
-      },
-      {
-        "i": 156,
-        "word": "separate",
-        "start": 62.54,
-        "end": 62.8
-      },
-      {
-        "i": 157,
-        "word": "pages,",
-        "start": 62.8,
-        "end": 63.3
-      },
-      {
-        "i": 158,
-        "word": "checking",
-        "start": 63.7,
-        "end": 63.92
-      },
-      {
-        "i": 159,
-        "word": "that",
-        "start": 63.92,
-        "end": 64.14
-      },
-      {
-        "i": 160,
-        "word": "each",
-        "start": 64.14,
-        "end": 64.46
-      },
-      {
         "i": 161,
-        "word": "page",
-        "start": 64.46,
-        "end": 64.84
+        "word": "Add",
+        "start": 60.6,
+        "end": 60.74
       },
       {
         "i": 162,
-        "word": "contains",
-        "start": 64.84,
-        "end": 65.2
+        "word": "your",
+        "start": 60.74,
+        "end": 60.92
       },
       {
         "i": 163,
-        "word": "one",
-        "start": 65.2,
-        "end": 65.56
+        "word": "reply",
+        "start": 60.92,
+        "end": 61.22
       },
       {
         "i": 164,
-        "word": "full",
-        "start": 65.56,
-        "end": 65.9
+        "word": "deadline",
+        "start": 61.22,
+        "end": 61.6
       },
       {
         "i": 165,
-        "word": "tile",
-        "start": 65.9,
-        "end": 66.24
+        "word": "above",
+        "start": 61.6,
+        "end": 61.88
       },
       {
         "i": 166,
-        "word": "rather",
-        "start": 66.24,
-        "end": 66.56
+        "word": "the",
+        "start": 61.88,
+        "end": 62.08
       },
       {
         "i": 167,
-        "word": "than",
-        "start": 66.56,
-        "end": 66.8
+        "word": "form",
+        "start": 62.08,
+        "end": 62.3
       },
       {
         "i": 168,
-        "word": "the",
-        "start": 66.8,
-        "end": 66.9
+        "word": "and",
+        "start": 62.3,
+        "end": 62.52
       },
       {
         "i": 169,
-        "word": "entire",
-        "start": 66.9,
-        "end": 67.38
+        "word": "adjust",
+        "start": 62.52,
+        "end": 62.78
       },
       {
         "i": 170,
-        "word": "master",
-        "start": 67.38,
-        "end": 67.82
+        "word": "the",
+        "start": 62.78,
+        "end": 63.04
       },
       {
         "i": 171,
-        "word": "image.",
-        "start": 67.82,
-        "end": 68.2
+        "word": "colours",
+        "start": 63.04,
+        "end": 63.24
+      },
+      {
+        "i": 172,
+        "word": "to",
+        "start": 63.24,
+        "end": 63.48
+      },
+      {
+        "i": 173,
+        "word": "match",
+        "start": 63.48,
+        "end": 63.68
+      },
+      {
+        "i": 174,
+        "word": "the",
+        "start": 63.68,
+        "end": 63.86
+      },
+      {
+        "i": 175,
+        "word": "invitation.",
+        "start": 63.86,
+        "end": 64.34
       }
     ]
   },
   {
     "id": 15,
-    "text": "Download all nine pages as PNG files and keep their positions clearly labelled.",
-    "start": 68.82,
-    "end": 73.12,
+    "text": "Share a view-only Canva link.",
+    "start": 65.28,
+    "end": 66.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      172,
-      184
+      176,
+      181
     ],
     "words": [
       {
-        "i": 172,
-        "word": "Download",
-        "start": 68.82,
-        "end": 69.1
-      },
-      {
-        "i": 173,
-        "word": "all",
-        "start": 69.1,
-        "end": 69.48
-      },
-      {
-        "i": 174,
-        "word": "nine",
-        "start": 69.48,
-        "end": 69.74
-      },
-      {
-        "i": 175,
-        "word": "pages",
-        "start": 69.74,
-        "end": 70.14
-      },
-      {
         "i": 176,
-        "word": "as",
-        "start": 70.14,
-        "end": 70.38
+        "word": "Share",
+        "start": 65.28,
+        "end": 65.34
       },
       {
         "i": 177,
-        "word": "PNG",
-        "start": 70.38,
-        "end": 70.82
+        "word": "a",
+        "start": 65.34,
+        "end": 65.52
       },
       {
         "i": 178,
-        "word": "files",
-        "start": 70.82,
-        "end": 71.22
+        "word": "view",
+        "start": 65.52,
+        "end": 65.66
       },
       {
         "i": 179,
-        "word": "and",
-        "start": 71.22,
-        "end": 71.54
+        "word": "-only",
+        "start": 65.66,
+        "end": 65.96
       },
       {
         "i": 180,
-        "word": "keep",
-        "start": 71.54,
-        "end": 71.7
+        "word": "Canva",
+        "start": 65.96,
+        "end": 66.32
       },
       {
         "i": 181,
-        "word": "their",
-        "start": 71.7,
-        "end": 71.88
-      },
-      {
-        "i": 182,
-        "word": "positions",
-        "start": 71.88,
-        "end": 72.26
-      },
-      {
-        "i": 183,
-        "word": "clearly",
-        "start": 72.26,
-        "end": 72.74
-      },
-      {
-        "i": 184,
-        "word": "labelled.",
-        "start": 72.74,
-        "end": 73.12
+        "word": "link.",
+        "start": 66.32,
+        "end": 66.54
       }
     ]
   },
   {
     "id": 16,
-    "text": "Here's the part many tutorials skip.",
-    "start": 73.82,
-    "end": 75.7,
+    "text": "Open it in a separate browser window and submit a test response.",
+    "start": 66.96,
+    "end": 70.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      185,
-      190
+      182,
+      193
     ],
     "words": [
       {
+        "i": 182,
+        "word": "Open",
+        "start": 66.96,
+        "end": 67.18
+      },
+      {
+        "i": 183,
+        "word": "it",
+        "start": 67.18,
+        "end": 67.34
+      },
+      {
+        "i": 184,
+        "word": "in",
+        "start": 67.34,
+        "end": 67.54
+      },
+      {
         "i": 185,
-        "word": "Here's",
-        "start": 73.82,
-        "end": 74.0
+        "word": "a",
+        "start": 67.54,
+        "end": 67.66
       },
       {
         "i": 186,
-        "word": "the",
-        "start": 74.0,
-        "end": 74.12
+        "word": "separate",
+        "start": 67.66,
+        "end": 67.96
       },
       {
         "i": 187,
-        "word": "part",
-        "start": 74.12,
-        "end": 74.32
+        "word": "browser",
+        "start": 67.96,
+        "end": 68.28
       },
       {
         "i": 188,
-        "word": "many",
-        "start": 74.32,
-        "end": 74.7
+        "word": "window",
+        "start": 68.28,
+        "end": 68.68
       },
       {
         "i": 189,
-        "word": "tutorials",
-        "start": 74.7,
-        "end": 75.28
+        "word": "and",
+        "start": 68.68,
+        "end": 69.18
       },
       {
         "i": 190,
-        "word": "skip.",
-        "start": 75.28,
-        "end": 75.7
+        "word": "submit",
+        "start": 69.18,
+        "end": 69.48
+      },
+      {
+        "i": 191,
+        "word": "a",
+        "start": 69.48,
+        "end": 69.74
+      },
+      {
+        "i": 192,
+        "word": "test",
+        "start": 69.74,
+        "end": 69.94
+      },
+      {
+        "i": 193,
+        "word": "response.",
+        "start": 69.94,
+        "end": 70.38
       }
     ]
   },
   {
     "id": 17,
-    "text": "Your uploaded image dimensions and Instagram's profile previews may use different crops.",
-    "start": 76.26,
-    "end": 81.24,
+    "text": "Back in the editor, select the form and open responses.",
+    "start": 71.26,
+    "end": 74.24,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      191,
-      202
+      194,
+      203
     ],
     "words": [
       {
-        "i": 191,
-        "word": "Your",
-        "start": 76.26,
-        "end": 76.42
-      },
-      {
-        "i": 192,
-        "word": "uploaded",
-        "start": 76.42,
-        "end": 76.92
-      },
-      {
-        "i": 193,
-        "word": "image",
-        "start": 76.92,
-        "end": 77.3
-      },
-      {
         "i": 194,
-        "word": "dimensions",
-        "start": 77.3,
-        "end": 77.82
+        "word": "Back",
+        "start": 71.26,
+        "end": 71.38
       },
       {
         "i": 195,
-        "word": "and",
-        "start": 77.82,
-        "end": 78.2
+        "word": "in",
+        "start": 71.38,
+        "end": 71.5
       },
       {
         "i": 196,
-        "word": "Instagram's",
-        "start": 78.2,
-        "end": 78.88
+        "word": "the",
+        "start": 71.5,
+        "end": 71.62
       },
       {
         "i": 197,
-        "word": "profile",
-        "start": 78.88,
-        "end": 79.24
+        "word": "editor,",
+        "start": 71.62,
+        "end": 71.92
       },
       {
         "i": 198,
-        "word": "previews",
-        "start": 79.24,
-        "end": 79.76
+        "word": "select",
+        "start": 72.34,
+        "end": 72.52
       },
       {
         "i": 199,
-        "word": "may",
-        "start": 79.76,
-        "end": 80.38
+        "word": "the",
+        "start": 72.52,
+        "end": 72.74
       },
       {
         "i": 200,
-        "word": "use",
-        "start": 80.38,
-        "end": 80.62
+        "word": "form",
+        "start": 72.74,
+        "end": 73.0
       },
       {
         "i": 201,
-        "word": "different",
-        "start": 80.62,
-        "end": 80.94
+        "word": "and",
+        "start": 73.0,
+        "end": 73.32
       },
       {
         "i": 202,
-        "word": "crops.",
-        "start": 80.94,
-        "end": 81.24
+        "word": "open",
+        "start": 73.32,
+        "end": 73.72
+      },
+      {
+        "i": 203,
+        "word": "responses.",
+        "start": 73.72,
+        "end": 74.24
       }
     ]
   },
   {
     "id": 18,
-    "text": "Check the current profile preview before publishing the full grid.",
-    "start": 82.14,
-    "end": 85.42,
+    "text": "Confirm that you can identify the guest and read their attendance answer before sending the link out.",
+    "start": 75.14,
+    "end": 79.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      203,
-      212
+      204,
+      220
     ],
     "words": [
       {
-        "i": 203,
-        "word": "Check",
-        "start": 82.14,
-        "end": 82.66
-      },
-      {
         "i": 204,
-        "word": "the",
-        "start": 82.66,
-        "end": 82.88
+        "word": "Confirm",
+        "start": 75.14,
+        "end": 75.5
       },
       {
         "i": 205,
-        "word": "current",
-        "start": 82.88,
-        "end": 83.14
+        "word": "that",
+        "start": 75.5,
+        "end": 75.66
       },
       {
         "i": 206,
-        "word": "profile",
-        "start": 83.14,
-        "end": 83.52
+        "word": "you",
+        "start": 75.66,
+        "end": 75.8
       },
       {
         "i": 207,
-        "word": "preview",
-        "start": 83.52,
-        "end": 83.92
+        "word": "can",
+        "start": 75.8,
+        "end": 75.92
       },
       {
         "i": 208,
-        "word": "before",
-        "start": 83.92,
-        "end": 84.3
+        "word": "identify",
+        "start": 75.92,
+        "end": 76.3
       },
       {
         "i": 209,
-        "word": "publishing",
-        "start": 84.3,
-        "end": 84.72
+        "word": "the",
+        "start": 76.3,
+        "end": 76.52
       },
       {
         "i": 210,
-        "word": "the",
-        "start": 84.72,
-        "end": 84.94
+        "word": "guest",
+        "start": 76.52,
+        "end": 76.74
       },
       {
         "i": 211,
-        "word": "full",
-        "start": 84.94,
-        "end": 85.16
+        "word": "and",
+        "start": 76.74,
+        "end": 77.02
       },
       {
         "i": 212,
-        "word": "grid.",
-        "start": 85.16,
-        "end": 85.42
+        "word": "read",
+        "start": 77.02,
+        "end": 77.22
+      },
+      {
+        "i": 213,
+        "word": "their",
+        "start": 77.22,
+        "end": 77.44
+      },
+      {
+        "i": 214,
+        "word": "attendance",
+        "start": 77.44,
+        "end": 77.8
+      },
+      {
+        "i": 215,
+        "word": "answer",
+        "start": 77.8,
+        "end": 78.24
+      },
+      {
+        "i": 216,
+        "word": "before",
+        "start": 78.24,
+        "end": 78.7
+      },
+      {
+        "i": 217,
+        "word": "sending",
+        "start": 78.7,
+        "end": 79.02
+      },
+      {
+        "i": 218,
+        "word": "the",
+        "start": 79.02,
+        "end": 79.2
+      },
+      {
+        "i": 219,
+        "word": "link",
+        "start": 79.2,
+        "end": 79.36
+      },
+      {
+        "i": 220,
+        "word": "out.",
+        "start": 79.36,
+        "end": 79.7
       }
     ]
   },
   {
     "id": 19,
-    "text": "A continuous design can lose alignment when tiles are cropped or posts are pinned or rearranged.",
-    "start": 85.94,
-    "end": 90.92,
+    "text": "Here's the part many tutorials skip.",
+    "start": 80.86,
+    "end": 82.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      213,
-      228
+      221,
+      226
     ],
     "words": [
       {
-        "i": 213,
-        "word": "A",
-        "start": 85.94,
-        "end": 86.04
-      },
-      {
-        "i": 214,
-        "word": "continuous",
-        "start": 86.04,
-        "end": 86.4
-      },
-      {
-        "i": 215,
-        "word": "design",
-        "start": 86.4,
-        "end": 86.88
-      },
-      {
-        "i": 216,
-        "word": "can",
-        "start": 86.88,
-        "end": 87.06
-      },
-      {
-        "i": 217,
-        "word": "lose",
-        "start": 87.06,
-        "end": 87.24
-      },
-      {
-        "i": 218,
-        "word": "alignment",
-        "start": 87.24,
-        "end": 87.6
-      },
-      {
-        "i": 219,
-        "word": "when",
-        "start": 87.6,
-        "end": 87.92
-      },
-      {
-        "i": 220,
-        "word": "tiles",
-        "start": 87.92,
-        "end": 88.28
-      },
-      {
         "i": 221,
-        "word": "are",
-        "start": 88.28,
-        "end": 88.48
+        "word": "Here's",
+        "start": 80.86,
+        "end": 81.14
       },
       {
         "i": 222,
-        "word": "cropped",
-        "start": 88.48,
-        "end": 88.76
+        "word": "the",
+        "start": 81.14,
+        "end": 81.24
       },
       {
         "i": 223,
-        "word": "or",
-        "start": 88.76,
-        "end": 89.12
+        "word": "part",
+        "start": 81.24,
+        "end": 81.46
       },
       {
         "i": 224,
-        "word": "posts",
-        "start": 89.12,
-        "end": 89.44
+        "word": "many",
+        "start": 81.46,
+        "end": 81.78
       },
       {
         "i": 225,
-        "word": "are",
-        "start": 89.44,
-        "end": 89.66
+        "word": "tutorials",
+        "start": 81.78,
+        "end": 82.42
       },
       {
         "i": 226,
-        "word": "pinned",
-        "start": 89.66,
-        "end": 89.9
-      },
-      {
-        "i": 227,
-        "word": "or",
-        "start": 89.9,
-        "end": 90.26
-      },
-      {
-        "i": 228,
-        "word": "rearranged.",
-        "start": 90.26,
-        "end": 90.92
+        "word": "skip.",
+        "start": 82.42,
+        "end": 82.84
       }
     ]
   },
   {
     "id": 20,
-    "text": "For a profile displaying the newest post first, publish from the bottom right tile back to the top left tile.",
-    "start": 91.44,
-    "end": 96.52,
+    "text": "The form cannot collect replies from a downloaded PDF, PNG or video.",
+    "start": 82.84,
+    "end": 88.72,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      229,
-      248
+      227,
+      238
     ],
     "words": [
       {
+        "i": 227,
+        "word": "The",
+        "start": 82.84,
+        "end": 83.5
+      },
+      {
+        "i": 228,
+        "word": "form",
+        "start": 83.5,
+        "end": 83.78
+      },
+      {
         "i": 229,
-        "word": "For",
-        "start": 91.44,
-        "end": 91.6
+        "word": "cannot",
+        "start": 83.78,
+        "end": 84.06
       },
       {
         "i": 230,
-        "word": "a",
-        "start": 91.6,
-        "end": 91.7
+        "word": "collect",
+        "start": 84.06,
+        "end": 84.4
       },
       {
         "i": 231,
-        "word": "profile",
-        "start": 91.7,
-        "end": 92.04
+        "word": "replies",
+        "start": 84.4,
+        "end": 84.82
       },
       {
         "i": 232,
-        "word": "displaying",
-        "start": 92.04,
-        "end": 92.38
+        "word": "from",
+        "start": 84.82,
+        "end": 85.08
       },
       {
         "i": 233,
-        "word": "the",
-        "start": 92.38,
-        "end": 92.6
+        "word": "a",
+        "start": 85.08,
+        "end": 85.2
       },
       {
         "i": 234,
-        "word": "newest",
-        "start": 92.6,
-        "end": 92.84
+        "word": "downloaded",
+        "start": 85.2,
+        "end": 85.62
       },
       {
         "i": 235,
-        "word": "post",
-        "start": 92.84,
-        "end": 93.12
+        "word": "PDF,",
+        "start": 85.62,
+        "end": 86.28
       },
       {
         "i": 236,
-        "word": "first,",
-        "start": 93.12,
-        "end": 93.54
+        "word": "PNG",
+        "start": 86.94,
+        "end": 87.22
       },
       {
         "i": 237,
-        "word": "publish",
-        "start": 93.78,
-        "end": 93.94
+        "word": "or",
+        "start": 87.22,
+        "end": 88.28
       },
       {
         "i": 238,
-        "word": "from",
-        "start": 93.94,
-        "end": 94.16
-      },
-      {
-        "i": 239,
-        "word": "the",
-        "start": 94.16,
-        "end": 94.3
-      },
-      {
-        "i": 240,
-        "word": "bottom",
-        "start": 94.3,
-        "end": 94.54
-      },
-      {
-        "i": 241,
-        "word": "right",
-        "start": 94.54,
-        "end": 94.76
-      },
-      {
-        "i": 242,
-        "word": "tile",
-        "start": 94.76,
-        "end": 95.08
-      },
-      {
-        "i": 243,
-        "word": "back",
-        "start": 95.08,
-        "end": 95.36
-      },
-      {
-        "i": 244,
-        "word": "to",
-        "start": 95.36,
-        "end": 95.52
-      },
-      {
-        "i": 245,
-        "word": "the",
-        "start": 95.52,
-        "end": 95.64
-      },
-      {
-        "i": 246,
-        "word": "top",
-        "start": 95.64,
-        "end": 95.86
-      },
-      {
-        "i": 247,
-        "word": "left",
-        "start": 95.86,
-        "end": 96.06
-      },
-      {
-        "i": 248,
-        "word": "tile.",
-        "start": 96.06,
-        "end": 96.52
+        "word": "video.",
+        "start": 88.28,
+        "end": 88.72
       }
     ]
   },
   {
     "id": 21,
-    "text": "Your nine posts will then build the intended grid.",
-    "start": 97.14,
-    "end": 99.36,
+    "text": "Guests need to open the interactive Canva link.",
+    "start": 89.96,
+    "end": 92.04,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      249,
-      257
+      239,
+      246
     ],
     "words": [
       {
+        "i": 239,
+        "word": "Guests",
+        "start": 89.96,
+        "end": 89.96
+      },
+      {
+        "i": 240,
+        "word": "need",
+        "start": 89.96,
+        "end": 90.26
+      },
+      {
+        "i": 241,
+        "word": "to",
+        "start": 90.26,
+        "end": 90.44
+      },
+      {
+        "i": 242,
+        "word": "open",
+        "start": 90.44,
+        "end": 90.62
+      },
+      {
+        "i": 243,
+        "word": "the",
+        "start": 90.62,
+        "end": 90.8
+      },
+      {
+        "i": 244,
+        "word": "interactive",
+        "start": 90.8,
+        "end": 91.38
+      },
+      {
+        "i": 245,
+        "word": "Canva",
+        "start": 91.38,
+        "end": 91.84
+      },
+      {
+        "i": 246,
+        "word": "link.",
+        "start": 91.84,
+        "end": 92.04
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "If forms is unavailable, create your RSVP form in Google Forms, copy its responder link, select an RSVP button in Canva and add that link.",
+    "start": 92.56,
+    "end": 102.14,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      247,
+      271
+    ],
+    "words": [
+      {
+        "i": 247,
+        "word": "If",
+        "start": 92.56,
+        "end": 92.72
+      },
+      {
+        "i": 248,
+        "word": "forms",
+        "start": 92.72,
+        "end": 93.0
+      },
+      {
         "i": 249,
-        "word": "Your",
-        "start": 97.14,
-        "end": 97.3
+        "word": "is",
+        "start": 93.0,
+        "end": 93.22
       },
       {
         "i": 250,
-        "word": "nine",
-        "start": 97.3,
-        "end": 97.56
+        "word": "unavailable,",
+        "start": 93.22,
+        "end": 93.64
       },
       {
         "i": 251,
-        "word": "posts",
-        "start": 97.56,
-        "end": 97.9
+        "word": "create",
+        "start": 94.18,
+        "end": 94.4
       },
       {
         "i": 252,
-        "word": "will",
-        "start": 97.9,
-        "end": 98.12
+        "word": "your",
+        "start": 94.4,
+        "end": 94.72
       },
       {
         "i": 253,
-        "word": "then",
-        "start": 98.12,
-        "end": 98.28
+        "word": "RSVP",
+        "start": 94.72,
+        "end": 95.48
       },
       {
         "i": 254,
-        "word": "build",
-        "start": 98.28,
-        "end": 98.52
+        "word": "form",
+        "start": 95.48,
+        "end": 95.94
       },
       {
         "i": 255,
-        "word": "the",
-        "start": 98.52,
-        "end": 98.7
+        "word": "in",
+        "start": 95.94,
+        "end": 96.12
       },
       {
         "i": 256,
-        "word": "intended",
-        "start": 98.7,
-        "end": 99.04
+        "word": "Google",
+        "start": 96.12,
+        "end": 96.4
       },
       {
         "i": 257,
-        "word": "grid.",
-        "start": 99.04,
-        "end": 99.36
+        "word": "Forms,",
+        "start": 96.4,
+        "end": 96.82
+      },
+      {
+        "i": 258,
+        "word": "copy",
+        "start": 97.2,
+        "end": 97.4
+      },
+      {
+        "i": 259,
+        "word": "its",
+        "start": 97.4,
+        "end": 97.68
+      },
+      {
+        "i": 260,
+        "word": "responder",
+        "start": 97.68,
+        "end": 98.12
+      },
+      {
+        "i": 261,
+        "word": "link,",
+        "start": 98.12,
+        "end": 98.3
+      },
+      {
+        "i": 262,
+        "word": "select",
+        "start": 98.72,
+        "end": 99.0
+      },
+      {
+        "i": 263,
+        "word": "an",
+        "start": 99.0,
+        "end": 99.22
+      },
+      {
+        "i": 264,
+        "word": "RSVP",
+        "start": 99.22,
+        "end": 99.98
+      },
+      {
+        "i": 265,
+        "word": "button",
+        "start": 99.98,
+        "end": 100.4
+      },
+      {
+        "i": 266,
+        "word": "in",
+        "start": 100.4,
+        "end": 100.64
+      },
+      {
+        "i": 267,
+        "word": "Canva",
+        "start": 100.64,
+        "end": 101.06
+      },
+      {
+        "i": 268,
+        "word": "and",
+        "start": 101.06,
+        "end": 101.56
+      },
+      {
+        "i": 269,
+        "word": "add",
+        "start": 101.56,
+        "end": 101.7
+      },
+      {
+        "i": 270,
+        "word": "that",
+        "start": 101.7,
+        "end": 101.86
+      },
+      {
+        "i": 271,
+        "word": "link.",
+        "start": 101.86,
+        "end": 102.14
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Test the button in the shared design or an unflattened PDF before distributing it.",
+    "start": 103.06,
+    "end": 107.32,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      272,
+      285
+    ],
+    "words": [
+      {
+        "i": 272,
+        "word": "Test",
+        "start": 103.06,
+        "end": 103.22
+      },
+      {
+        "i": 273,
+        "word": "the",
+        "start": 103.22,
+        "end": 103.42
+      },
+      {
+        "i": 274,
+        "word": "button",
+        "start": 103.42,
+        "end": 103.62
+      },
+      {
+        "i": 275,
+        "word": "in",
+        "start": 103.62,
+        "end": 103.8
+      },
+      {
+        "i": 276,
+        "word": "the",
+        "start": 103.8,
+        "end": 103.92
+      },
+      {
+        "i": 277,
+        "word": "shared",
+        "start": 103.92,
+        "end": 104.14
+      },
+      {
+        "i": 278,
+        "word": "design",
+        "start": 104.14,
+        "end": 104.54
+      },
+      {
+        "i": 279,
+        "word": "or",
+        "start": 104.54,
+        "end": 104.92
+      },
+      {
+        "i": 280,
+        "word": "an",
+        "start": 104.92,
+        "end": 105.02
+      },
+      {
+        "i": 281,
+        "word": "unflattened",
+        "start": 105.02,
+        "end": 105.68
+      },
+      {
+        "i": 282,
+        "word": "PDF",
+        "start": 105.68,
+        "end": 106.1
+      },
+      {
+        "i": 283,
+        "word": "before",
+        "start": 106.1,
+        "end": 106.56
+      },
+      {
+        "i": 284,
+        "word": "distributing",
+        "start": 106.56,
+        "end": 107.0
+      },
+      {
+        "i": 285,
+        "word": "it.",
+        "start": 107.0,
+        "end": 107.32
       }
     ]
   }
