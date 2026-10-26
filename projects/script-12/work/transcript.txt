@@ -1,22 +1,24 @@
-This tutorial shows you how to connect a domain you already own to a Canva website.
-First, make sure you are editing a website design and that your Canva plan supports connecting an existing domain.
-You also need access to the domain settings at the company where it is registered.
-Open Publish Website and choose Get a New Domain.
-Select Bring Your Own Domain, then Continue.
-Enter the domain without the www.prefix.
-You can also use a subdomain if the main address already hosts another website.
-Continue to the connection step.
-If Canva offers automatic connection for your provider, choose Login and Auto-Connect, then follow the provider's instructions.
-For manual connection, open your domain provider's DNS management page.
-Copy each record shown by Canva into the matching record type, name and value fields.
-Use the exact values from your own Canva connection panel.
-Change only the records needed for this connection.
-Keep unrelated records, such as those used by your email service, in place.
-Return to Canva and continue verification.
-DNS updates can take up to 72 hours to finish, so a pending status immediately after saving does not necessarily mean the setup failed.
+This tutorial shows you how to add a live events calendar to a Canva website using a calendar embed link from Calgette.
+Open your website design in Canva and create a section for upcoming events.
+Leave a wide clear area where the calendar will appear.
+In another browser tab, sign in to Calgette and create a calendar.
+Add a sample event with its title, date, time and location.
+This external calendar will supply the live event information.
+Open Calgette's embeddable calendar area and select your calendar.
+Choose a view such as month or schedule and adjust the colour to suit your website.
+Click Get Embed Code, select the direct link tab and copy the link.
+Use this dedicated calendar link for the embed.
+Return to Canva, open Apps and search for embeds.
+Paste the calendar's direct link and click Add to Design.
+Resize the calendar to fit your events section.
+Give it enough height to display the event list or month grid without feeling cramped.
+Add a short heading above it so visitors understand what they are looking at.
 Here's the part many tutorials skip.
-Connecting the domain and publishing the website are separate steps.
-After Canva verifies the domain, select it as the site's address and complete publishing.
-If verification fails, compare Canva's expected records with the current records at your provider
-and correct conflicting entries for the address you are connecting.
-Open the custom address in a private browser window and confirm that the correct website loads.
+An embed link and HTML iframe code are different things.
+Canva's embeds workflow takes a supported URL.
+Pasting the iframe code itself will not create this calendar.
+Preview the website on desktop and mobile, then publish or republish it.
+Open the published address and click the sample event to check the details.
+Finally, update that event in Calgette and reload the website.
+Confirm that the change appears.
+You now have a live calendar rather than a static calendar image.
