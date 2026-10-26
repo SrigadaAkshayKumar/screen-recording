@@ -5,19 +5,25 @@
     0.0,
     101.067
   ],
-  "width": 1920,
-  "height": 1080,
+  "width": 3420,
+  "height": 1922,
   "delivered": [
-    2560,
-    1440
+    3420,
+    1922
   ],
   "fps": 30.0,
   "frames": 3032,
-  "elapsed_s": 299.813,
+  "elapsed_s": 290.282,
   "zoom_peaks": [],
   "joins": [
     {
-      "out_t": 2.4,
+      "out_t": 1.713,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
+      "out_t": 3.962,
       "cut": true,
       "xfade": true,
       "into": "speed"
@@ -29,9 +35,15 @@
       "into": "speed"
     },
     {
-      "out_t": 13.56,
-      "cut": false,
-      "xfade": false,
+      "out_t": 10.25,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
+      "out_t": 13.396,
+      "cut": true,
+      "xfade": true,
       "into": "speed"
     },
     {
@@ -41,31 +53,25 @@
       "into": "speed"
     },
     {
+      "out_t": 17.116,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
       "out_t": 20.02,
-      "cut": false,
-      "xfade": false,
-      "into": "speed"
-    },
-    {
-      "out_t": 21.142,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 25.041,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 25.735,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
       "out_t": 27.32,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 28.355,
       "cut": true,
       "xfade": true,
       "into": "speed"
@@ -83,7 +89,7 @@
       "into": "speed"
     },
     {
-      "out_t": 35.069,
+      "out_t": 35.316,
       "cut": true,
       "xfade": true,
       "into": "speed"
@@ -96,14 +102,26 @@
     },
     {
       "out_t": 38.7,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 42.382,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
+      "out_t": 42.963,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
       "out_t": 45.6,
-      "cut": false,
-      "xfade": false,
+      "cut": true,
+      "xfade": true,
       "into": "speed"
     },
     {
@@ -114,30 +132,18 @@
     },
     {
       "out_t": 51.84,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 53.486,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 54.823,
-      "cut": true,
-      "xfade": true,
+      "cut": false,
+      "xfade": false,
       "into": "speed"
     },
     {
       "out_t": 56.16,
-      "cut": true,
-      "xfade": true,
+      "cut": false,
+      "xfade": false,
       "into": "speed"
     },
     {
-      "out_t": 58.579,
+      "out_t": 59.031,
       "cut": true,
       "xfade": true,
       "into": "speed"
@@ -149,25 +155,19 @@
       "into": "speed"
     },
     {
-      "out_t": 62.069,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 62.698,
+      "out_t": 62.757,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
       "out_t": 63.64,
-      "cut": true,
-      "xfade": true,
+      "cut": false,
+      "xfade": false,
       "into": "speed"
     },
     {
-      "out_t": 64.78,
+      "out_t": 64.901,
       "cut": true,
       "xfade": true,
       "into": "speed"
@@ -185,25 +185,25 @@
       "into": "speed"
     },
     {
+      "out_t": 71.868,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
+      "out_t": 73.13,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
       "out_t": 74.14,
-      "cut": false,
-      "xfade": false,
+      "cut": true,
+      "xfade": true,
       "into": "speed"
     },
     {
       "out_t": 79.04,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 80.632,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 81.926,
       "cut": true,
       "xfade": true,
       "into": "speed"
@@ -215,43 +215,43 @@
       "into": "speed"
     },
     {
-      "out_t": 84.663,
+      "out_t": 85.388,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 85.917,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 87.074,
+      "out_t": 88.582,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
       "out_t": 90.16,
+      "cut": false,
+      "xfade": false,
+      "into": "speed"
+    },
+    {
+      "out_t": 92.501,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
       "out_t": 94.2,
-      "cut": false,
-      "xfade": false,
+      "cut": true,
+      "xfade": true,
       "into": "speed"
     },
     {
       "out_t": 95.72,
-      "cut": false,
-      "xfade": false,
+      "cut": true,
+      "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 97.732,
+      "out_t": 100.55,
       "cut": true,
       "xfade": true,
       "into": "speed"
