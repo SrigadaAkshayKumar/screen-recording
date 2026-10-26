@@ -148,6 +148,11 @@ def run_claude(name: str) -> None:
         "(it looks frozen just like a held frame), no choppy pieces; fix every 'pace:' warning from check.py --plan "
         "before rendering, or explain in the report why one cannot be fixed."
     )
+    fb = ROOT / "projects" / name / "work" / "client-feedback.md"
+    if fb.exists():                      # a re-edit requested by the client: their words come first
+        prompt += ("\n\nThis is a RE-EDIT requested by the client after reviewing the previous version. "
+                   "Their feedback (address every point; do not reuse the previous plan's choices "
+                   "where the feedback says they were wrong):\n\n" + fb.read_text(encoding="utf-8"))
     cmd = ["claude", "-p", prompt, "--dangerously-skip-permissions", "--output-format", "text"]
     if os.environ.get("CLAUDE_MODEL"):
         cmd += ["--model", os.environ["CLAUDE_MODEL"]]
