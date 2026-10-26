@@ -3,23 +3,11 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 270.0
+  "duration": 429.8
  },
  "sync": {
   "source": "frames"
  },
- "actions": [
-  {
-   "id": "A1",
-   "t_click": 131.7,
-   "x": 960,
-   "y": 540,
-   "kind": "click",
-   "target": "Share / Download (placeholder)",
-   "result": "download panel opens",
-   "t_result_visible": 134.4,
-   "confidence": "low"
-  }
- ],
+ "actions": [],
  "junk": []
 }
