@@ -1,1 +1,6 @@
-{"recording":{"width":1920,"height":1080,"fps":30,"duration":361.033},"sync":{"source":"frames"},"actions":[],"junk":[]}
+{"recording":{"width":1920,"height":1080,"fps":30,"duration":406.6},
+ "sync":{"source":"frames"},
+ "actions":[
+ {"id":"A1","t_click":29.0,"x":960,"y":275,"kind":"type","text":"business card","target":"Create a design search","result":"results filter","t_result_visible":32.0,"confidence":"low"},
+ {"id":"A2","t_click":327.6,"x":1700,"y":30,"kind":"click","target":"Share button","result":"share panel opens","t_result_visible":328.5,"confidence":"low"}],
+ "junk":[]}
