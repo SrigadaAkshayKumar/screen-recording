@@ -1,25 +1,21 @@
-This tutorial shows you how to add a scannable QR code to a Canva design.
-First, open the destination page in your browser and copy its full address.
-Use the page people should reach directly, such as a menu, booking page or portfolio.
-Open your Canva design.
-Select elements and search for QR code.
-In Canva's QR code options, choose Create Static for a fixed destination
-or Create Dynamic if you need to update the destination later.
-For this example, choose Create Static.
-Paste your address into the URL field, adjust the foreground and background colours if needed
-and select Save to add the code.
-Place it where people can easily notice it.
-Use a dark code on a light background and leave a clear border around it.
-Add a short instruction nearby, such as scan to book.
-For print, keep the code at least two centimetres wide
-and increase it when people will scan from farther away.
-Avoid stretching it into a rectangle.
+This tutorial shows you how to create a semi-donut chart in Canva using a full donut chart and a hidden filler segment.
+Start on a blank white page.
+Open Elements, go to Charts, and add a donut chart.
+Select it and click Edit to replace the sample data.
+For a 70% progress chart, enter three categories, complete with a value of 70, remaining with 30, and hidden with 100.
+Delete any unused sample rows.
+The hidden value equals the sum of the real values, so it occupies exactly half of the full circle.
+The other half contains your 70 to 30 split.
+Change complete to your main colour, remaining to light grey, and hidden to white, matching the page background.
+In the chart's customised panel, hide the legend and automatic data labels.
+To orient the chart without depending on chart-specific rotation controls, download just this chart page as a PNG.
+Upload that PNG into a second white page and rotate the image until the coloured half forms an arch across the top.
+Add a separate text box inside the arch and type 70%.
+Put a short title above it, an optional zero, and 100 labels at the endpoints.
 Here's the part many tutorials skip.
-The destination of a static QR code cannot be changed inside Canva after creation.
-If you generate it with the wrong address, create a replacement code before printing.
-Choose a dynamic code from the beginning when the link needs to change later.
-Download the design in the format you need,
-then scan the exported code with your phone.
-For printed material, scan a physical proof as well.
-Confirm that the correct page opens and works for someone who is not signed into your account.
-Your QR code is now ready to share.
+Canva calculates automatic percentages from the entire dataset, including the hidden 100.
+That would label 70 as 35%.
+Use your own text label to show the percentage of the visible half.
+Keep the original editable chart page.
+To change the result later, update complete and remaining so they still total 100, export that page again, and replace the picture.
+You now have a semi-donut graphic ready for a presentation, report, or infographic.

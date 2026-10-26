@@ -1,4 +1,37 @@
-{"recording":{"width":1920,"height":1080,"fps":30,"duration":316.833},
- "sync":{"clicks_offset":0,"source":"frames"},
- "actions":[],
- "junk":[]}
+{
+ "recording": {
+  "width": 3420,
+  "height": 1922,
+  "fps": 30,
+  "duration": 147.167
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 28.0,
+   "x": 90,
+   "y": 300,
+   "kind": "click",
+   "target": "Elements tab",
+   "result": "Elements panel opens",
+   "t_result_visible": 29.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 88.0,
+   "x": 3200,
+   "y": 600,
+   "kind": "click",
+   "target": "Share/Download",
+   "result": "download panel",
+   "t_result_visible": 90.2,
+   "confidence": "low"
+  }
+ ],
+ "junk": []
+}

@@ -1,1888 +1,1996 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to add a scannable QR code to a Canva design.",
+    "text": "This tutorial shows you how to create a semi-donut chart in Canva using a full donut chart and a hidden filler segment.",
     "start": 0.0,
-    "end": 4.04,
+    "end": 6.74,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      14
+      22
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.24
+        "end": 0.2
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.24,
-        "end": 0.62
+        "start": 0.2,
+        "end": 0.56
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.62,
-        "end": 1.06
+        "start": 0.56,
+        "end": 1.0
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.06,
-        "end": 1.28
+        "start": 1.0,
+        "end": 1.2
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.28,
-        "end": 1.42
+        "start": 1.2,
+        "end": 1.32
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.42,
-        "end": 1.58
+        "start": 1.32,
+        "end": 1.5
       },
       {
         "i": 6,
-        "word": "add",
-        "start": 1.58,
-        "end": 1.78
+        "word": "create",
+        "start": 1.5,
+        "end": 1.74
       },
       {
         "i": 7,
         "word": "a",
-        "start": 1.78,
-        "end": 1.9
+        "start": 1.74,
+        "end": 2.0
       },
       {
         "i": 8,
-        "word": "scannable",
-        "start": 1.9,
-        "end": 2.38
+        "word": "semi",
+        "start": 2.0,
+        "end": 2.3
       },
       {
         "i": 9,
-        "word": "QR",
-        "start": 2.38,
+        "word": "-donut",
+        "start": 2.3,
         "end": 2.7
       },
       {
         "i": 10,
-        "word": "code",
+        "word": "chart",
         "start": 2.7,
-        "end": 3.06
+        "end": 2.96
       },
       {
         "i": 11,
-        "word": "to",
-        "start": 3.06,
-        "end": 3.26
+        "word": "in",
+        "start": 2.96,
+        "end": 3.2
       },
       {
         "i": 12,
-        "word": "a",
-        "start": 3.26,
-        "end": 3.54
+        "word": "Canva",
+        "start": 3.2,
+        "end": 3.62
       },
       {
         "i": 13,
-        "word": "Canva",
-        "start": 3.54,
-        "end": 3.68
+        "word": "using",
+        "start": 3.62,
+        "end": 4.18
       },
       {
         "i": 14,
-        "word": "design.",
-        "start": 3.68,
-        "end": 4.04
+        "word": "a",
+        "start": 4.18,
+        "end": 4.38
+      },
+      {
+        "i": 15,
+        "word": "full",
+        "start": 4.38,
+        "end": 4.6
+      },
+      {
+        "i": 16,
+        "word": "donut",
+        "start": 4.6,
+        "end": 4.96
+      },
+      {
+        "i": 17,
+        "word": "chart",
+        "start": 4.96,
+        "end": 5.24
+      },
+      {
+        "i": 18,
+        "word": "and",
+        "start": 5.24,
+        "end": 5.72
+      },
+      {
+        "i": 19,
+        "word": "a",
+        "start": 5.72,
+        "end": 5.84
+      },
+      {
+        "i": 20,
+        "word": "hidden",
+        "start": 5.84,
+        "end": 6.04
+      },
+      {
+        "i": 21,
+        "word": "filler",
+        "start": 6.04,
+        "end": 6.32
+      },
+      {
+        "i": 22,
+        "word": "segment.",
+        "start": 6.32,
+        "end": 6.74
       }
     ]
   },
   {
     "id": 2,
-    "text": "First, open the destination page in your browser and copy its full address.",
-    "start": 4.92,
-    "end": 9.14,
+    "text": "Start on a blank white page.",
+    "start": 7.46,
+    "end": 8.86,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      15,
-      27
+      23,
+      28
     ],
     "words": [
       {
-        "i": 15,
-        "word": "First,",
-        "start": 4.92,
-        "end": 5.18
-      },
-      {
-        "i": 16,
-        "word": "open",
-        "start": 5.56,
-        "end": 5.86
-      },
-      {
-        "i": 17,
-        "word": "the",
-        "start": 5.86,
-        "end": 6.04
-      },
-      {
-        "i": 18,
-        "word": "destination",
-        "start": 6.04,
-        "end": 6.38
-      },
-      {
-        "i": 19,
-        "word": "page",
-        "start": 6.38,
-        "end": 6.8
-      },
-      {
-        "i": 20,
-        "word": "in",
-        "start": 6.8,
-        "end": 7.0
-      },
-      {
-        "i": 21,
-        "word": "your",
-        "start": 7.0,
-        "end": 7.12
-      },
-      {
-        "i": 22,
-        "word": "browser",
-        "start": 7.12,
-        "end": 7.48
-      },
-      {
         "i": 23,
-        "word": "and",
-        "start": 7.48,
-        "end": 7.92
+        "word": "Start",
+        "start": 7.46,
+        "end": 7.76
       },
       {
         "i": 24,
-        "word": "copy",
-        "start": 7.92,
-        "end": 8.18
+        "word": "on",
+        "start": 7.76,
+        "end": 7.92
       },
       {
         "i": 25,
-        "word": "its",
-        "start": 8.18,
-        "end": 8.52
+        "word": "a",
+        "start": 7.92,
+        "end": 8.06
       },
       {
         "i": 26,
-        "word": "full",
-        "start": 8.52,
-        "end": 8.78
+        "word": "blank",
+        "start": 8.06,
+        "end": 8.2
       },
       {
         "i": 27,
-        "word": "address.",
-        "start": 8.78,
-        "end": 9.14
+        "word": "white",
+        "start": 8.2,
+        "end": 8.44
+      },
+      {
+        "i": 28,
+        "word": "page.",
+        "start": 8.44,
+        "end": 8.86
       }
     ]
   },
   {
     "id": 3,
-    "text": "Use the page people should reach directly, such as a menu, booking page or portfolio.",
-    "start": 9.9,
-    "end": 14.6,
+    "text": "Open Elements, go to Charts, and add a donut chart.",
+    "start": 9.46,
+    "end": 12.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      28,
-      42
+      29,
+      38
     ],
     "words": [
       {
-        "i": 28,
-        "word": "Use",
-        "start": 9.9,
-        "end": 10.08
-      },
-      {
         "i": 29,
-        "word": "the",
-        "start": 10.08,
-        "end": 10.24
+        "word": "Open",
+        "start": 9.46,
+        "end": 9.68
       },
       {
         "i": 30,
-        "word": "page",
-        "start": 10.24,
-        "end": 10.5
+        "word": "Elements,",
+        "start": 9.68,
+        "end": 9.98
       },
       {
         "i": 31,
-        "word": "people",
-        "start": 10.5,
-        "end": 10.74
+        "word": "go",
+        "start": 10.54,
+        "end": 10.64
       },
       {
         "i": 32,
-        "word": "should",
-        "start": 10.74,
-        "end": 10.98
+        "word": "to",
+        "start": 10.64,
+        "end": 10.82
       },
       {
         "i": 33,
-        "word": "reach",
-        "start": 10.98,
-        "end": 11.24
+        "word": "Charts,",
+        "start": 10.82,
+        "end": 11.2
       },
       {
         "i": 34,
-        "word": "directly,",
-        "start": 11.24,
-        "end": 11.72
+        "word": "and",
+        "start": 11.6,
+        "end": 11.7
       },
       {
         "i": 35,
-        "word": "such",
-        "start": 12.02,
-        "end": 12.12
+        "word": "add",
+        "start": 11.7,
+        "end": 11.82
       },
       {
         "i": 36,
-        "word": "as",
-        "start": 12.12,
-        "end": 12.3
+        "word": "a",
+        "start": 11.82,
+        "end": 11.96
       },
       {
         "i": 37,
-        "word": "a",
-        "start": 12.3,
-        "end": 12.42
+        "word": "donut",
+        "start": 11.96,
+        "end": 12.28
       },
       {
         "i": 38,
-        "word": "menu,",
-        "start": 12.42,
-        "end": 12.7
-      },
-      {
-        "i": 39,
-        "word": "booking",
-        "start": 13.16,
-        "end": 13.32
-      },
-      {
-        "i": 40,
-        "word": "page",
-        "start": 13.32,
-        "end": 13.78
-      },
-      {
-        "i": 41,
-        "word": "or",
-        "start": 13.78,
-        "end": 14.14
-      },
-      {
-        "i": 42,
-        "word": "portfolio.",
-        "start": 14.14,
-        "end": 14.6
+        "word": "chart.",
+        "start": 12.28,
+        "end": 12.64
       }
     ]
   },
   {
     "id": 4,
-    "text": "Open your Canva design.",
-    "start": 15.4,
-    "end": 16.54,
+    "text": "Select it and click Edit to replace the sample data.",
+    "start": 13.24,
+    "end": 16.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      43,
-      46
+      39,
+      48
     ],
     "words": [
       {
+        "i": 39,
+        "word": "Select",
+        "start": 13.24,
+        "end": 13.5
+      },
+      {
+        "i": 40,
+        "word": "it",
+        "start": 13.5,
+        "end": 13.76
+      },
+      {
+        "i": 41,
+        "word": "and",
+        "start": 13.76,
+        "end": 14.12
+      },
+      {
+        "i": 42,
+        "word": "click",
+        "start": 14.12,
+        "end": 14.4
+      },
+      {
         "i": 43,
-        "word": "Open",
-        "start": 15.4,
-        "end": 15.62
+        "word": "Edit",
+        "start": 14.4,
+        "end": 14.72
       },
       {
         "i": 44,
-        "word": "your",
-        "start": 15.62,
-        "end": 15.82
+        "word": "to",
+        "start": 14.72,
+        "end": 15.18
       },
       {
         "i": 45,
-        "word": "Canva",
-        "start": 15.82,
-        "end": 16.14
+        "word": "replace",
+        "start": 15.18,
+        "end": 15.5
       },
       {
         "i": 46,
-        "word": "design.",
-        "start": 16.14,
-        "end": 16.54
+        "word": "the",
+        "start": 15.5,
+        "end": 15.72
+      },
+      {
+        "i": 47,
+        "word": "sample",
+        "start": 15.72,
+        "end": 16.0
+      },
+      {
+        "i": 48,
+        "word": "data.",
+        "start": 16.0,
+        "end": 16.38
       }
     ]
   },
   {
     "id": 5,
-    "text": "Select elements and search for QR code.",
-    "start": 17.1,
-    "end": 19.28,
+    "text": "For a 70% progress chart, enter three categories, complete with a value of 70, remaining with 30, and hidden with 100.",
+    "start": 17.02,
+    "end": 25.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      47,
-      53
+      49,
+      70
     ],
     "words": [
       {
-        "i": 47,
-        "word": "Select",
-        "start": 17.1,
-        "end": 17.38
-      },
-      {
-        "i": 48,
-        "word": "elements",
-        "start": 17.38,
-        "end": 17.76
-      },
-      {
         "i": 49,
-        "word": "and",
-        "start": 17.76,
-        "end": 18.12
+        "word": "For",
+        "start": 17.02,
+        "end": 17.16
       },
       {
         "i": 50,
-        "word": "search",
-        "start": 18.12,
-        "end": 18.38
+        "word": "a",
+        "start": 17.16,
+        "end": 17.3
       },
       {
         "i": 51,
-        "word": "for",
-        "start": 18.38,
-        "end": 18.62
+        "word": "70",
+        "start": 17.3,
+        "end": 17.6
       },
       {
         "i": 52,
-        "word": "QR",
-        "start": 18.62,
-        "end": 18.92
+        "word": "%",
+        "start": 17.6,
+        "end": 17.84
       },
       {
         "i": 53,
-        "word": "code.",
-        "start": 18.92,
-        "end": 19.28
+        "word": "progress",
+        "start": 17.84,
+        "end": 18.24
+      },
+      {
+        "i": 54,
+        "word": "chart,",
+        "start": 18.24,
+        "end": 18.66
+      },
+      {
+        "i": 55,
+        "word": "enter",
+        "start": 18.96,
+        "end": 19.1
+      },
+      {
+        "i": 56,
+        "word": "three",
+        "start": 19.1,
+        "end": 19.52
+      },
+      {
+        "i": 57,
+        "word": "categories,",
+        "start": 19.52,
+        "end": 20.02
+      },
+      {
+        "i": 58,
+        "word": "complete",
+        "start": 20.6,
+        "end": 20.9
+      },
+      {
+        "i": 59,
+        "word": "with",
+        "start": 20.9,
+        "end": 21.12
+      },
+      {
+        "i": 60,
+        "word": "a",
+        "start": 21.12,
+        "end": 21.2
+      },
+      {
+        "i": 61,
+        "word": "value",
+        "start": 21.2,
+        "end": 21.46
+      },
+      {
+        "i": 62,
+        "word": "of",
+        "start": 21.46,
+        "end": 21.64
+      },
+      {
+        "i": 63,
+        "word": "70,",
+        "start": 21.64,
+        "end": 21.96
+      },
+      {
+        "i": 64,
+        "word": "remaining",
+        "start": 22.54,
+        "end": 22.82
+      },
+      {
+        "i": 65,
+        "word": "with",
+        "start": 22.82,
+        "end": 23.06
+      },
+      {
+        "i": 66,
+        "word": "30,",
+        "start": 23.06,
+        "end": 23.46
+      },
+      {
+        "i": 67,
+        "word": "and",
+        "start": 23.72,
+        "end": 23.98
+      },
+      {
+        "i": 68,
+        "word": "hidden",
+        "start": 23.98,
+        "end": 24.16
+      },
+      {
+        "i": 69,
+        "word": "with",
+        "start": 24.16,
+        "end": 24.56
+      },
+      {
+        "i": 70,
+        "word": "100.",
+        "start": 24.56,
+        "end": 25.06
       }
     ]
   },
   {
     "id": 6,
-    "text": "In Canva's QR code options, choose Create Static for a fixed destination or Create Dynamic if you need to update the destination later.",
-    "start": 19.94,
-    "end": 27.38,
+    "text": "Delete any unused sample rows.",
+    "start": 25.82,
+    "end": 27.42,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      54,
-      76
+      71,
+      75
     ],
     "words": [
       {
-        "i": 54,
-        "word": "In",
-        "start": 19.94,
-        "end": 20.08
-      },
-      {
-        "i": 55,
-        "word": "Canva's",
-        "start": 20.08,
-        "end": 20.46
-      },
-      {
-        "i": 56,
-        "word": "QR",
-        "start": 20.46,
-        "end": 20.66
-      },
-      {
-        "i": 57,
-        "word": "code",
-        "start": 20.66,
-        "end": 20.94
-      },
-      {
-        "i": 58,
-        "word": "options,",
-        "start": 20.94,
-        "end": 21.34
-      },
-      {
-        "i": 59,
-        "word": "choose",
-        "start": 21.74,
-        "end": 21.94
-      },
-      {
-        "i": 60,
-        "word": "Create",
-        "start": 21.94,
-        "end": 22.28
-      },
-      {
-        "i": 61,
-        "word": "Static",
-        "start": 22.28,
-        "end": 22.6
-      },
-      {
-        "i": 62,
-        "word": "for",
-        "start": 22.6,
-        "end": 22.94
-      },
-      {
-        "i": 63,
-        "word": "a",
-        "start": 22.94,
-        "end": 23.06
-      },
-      {
-        "i": 64,
-        "word": "fixed",
-        "start": 23.06,
-        "end": 23.24
-      },
-      {
-        "i": 65,
-        "word": "destination",
-        "start": 23.24,
-        "end": 23.76
-      },
-      {
-        "i": 66,
-        "word": "or",
-        "start": 24.28,
-        "end": 24.58
-      },
-      {
-        "i": 67,
-        "word": "Create",
-        "start": 24.58,
-        "end": 24.9
-      },
-      {
-        "i": 68,
-        "word": "Dynamic",
-        "start": 24.9,
-        "end": 25.26
-      },
-      {
-        "i": 69,
-        "word": "if",
-        "start": 25.26,
-        "end": 25.76
-      },
-      {
-        "i": 70,
-        "word": "you",
-        "start": 25.76,
-        "end": 25.88
-      },
-      {
         "i": 71,
-        "word": "need",
-        "start": 25.88,
-        "end": 26.0
+        "word": "Delete",
+        "start": 25.82,
+        "end": 25.96
       },
       {
         "i": 72,
-        "word": "to",
-        "start": 26.0,
-        "end": 26.14
+        "word": "any",
+        "start": 25.96,
+        "end": 26.3
       },
       {
         "i": 73,
-        "word": "update",
-        "start": 26.14,
-        "end": 26.38
+        "word": "unused",
+        "start": 26.3,
+        "end": 26.74
       },
       {
         "i": 74,
-        "word": "the",
-        "start": 26.38,
-        "end": 26.56
+        "word": "sample",
+        "start": 26.74,
+        "end": 27.14
       },
       {
         "i": 75,
-        "word": "destination",
-        "start": 26.56,
-        "end": 26.92
-      },
-      {
-        "i": 76,
-        "word": "later.",
-        "start": 26.92,
-        "end": 27.38
+        "word": "rows.",
+        "start": 27.14,
+        "end": 27.42
       }
     ]
   },
   {
     "id": 7,
-    "text": "For this example, choose Create Static.",
-    "start": 27.92,
-    "end": 30.1,
+    "text": "The hidden value equals the sum of the real values, so it occupies exactly half of the full circle.",
+    "start": 27.93,
+    "end": 33.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      77,
-      82
+      76,
+      94
     ],
     "words": [
       {
+        "i": 76,
+        "word": "The",
+        "start": 27.93,
+        "end": 28.2
+      },
+      {
         "i": 77,
-        "word": "For",
-        "start": 27.92,
-        "end": 28.18
+        "word": "hidden",
+        "start": 28.2,
+        "end": 28.42
       },
       {
         "i": 78,
-        "word": "this",
-        "start": 28.18,
-        "end": 28.34
-      },
-      {
-        "i": 79,
-        "word": "example,",
-        "start": 28.34,
+        "word": "value",
+        "start": 28.42,
         "end": 28.74
       },
       {
+        "i": 79,
+        "word": "equals",
+        "start": 28.74,
+        "end": 29.12
+      },
+      {
         "i": 80,
-        "word": "choose",
-        "start": 29.06,
-        "end": 29.36
+        "word": "the",
+        "start": 29.12,
+        "end": 29.34
       },
       {
         "i": 81,
-        "word": "Create",
-        "start": 29.36,
-        "end": 29.7
+        "word": "sum",
+        "start": 29.34,
+        "end": 29.52
       },
       {
         "i": 82,
-        "word": "Static.",
-        "start": 29.7,
+        "word": "of",
+        "start": 29.52,
+        "end": 29.76
+      },
+      {
+        "i": 83,
+        "word": "the",
+        "start": 29.76,
+        "end": 29.86
+      },
+      {
+        "i": 84,
+        "word": "real",
+        "start": 29.86,
         "end": 30.1
+      },
+      {
+        "i": 85,
+        "word": "values,",
+        "start": 30.1,
+        "end": 30.56
+      },
+      {
+        "i": 86,
+        "word": "so",
+        "start": 30.66,
+        "end": 30.92
+      },
+      {
+        "i": 87,
+        "word": "it",
+        "start": 30.92,
+        "end": 31.04
+      },
+      {
+        "i": 88,
+        "word": "occupies",
+        "start": 31.04,
+        "end": 31.4
+      },
+      {
+        "i": 89,
+        "word": "exactly",
+        "start": 31.4,
+        "end": 31.9
+      },
+      {
+        "i": 90,
+        "word": "half",
+        "start": 31.9,
+        "end": 32.32
+      },
+      {
+        "i": 91,
+        "word": "of",
+        "start": 32.32,
+        "end": 32.64
+      },
+      {
+        "i": 92,
+        "word": "the",
+        "start": 32.64,
+        "end": 32.78
+      },
+      {
+        "i": 93,
+        "word": "full",
+        "start": 32.78,
+        "end": 33.02
+      },
+      {
+        "i": 94,
+        "word": "circle.",
+        "start": 33.02,
+        "end": 33.32
       }
     ]
   },
   {
     "id": 8,
-    "text": "Paste your address into the URL field, adjust the foreground and background colours if needed and select Save to add the code.",
-    "start": 30.8,
-    "end": 37.14,
+    "text": "The other half contains your 70 to 30 split.",
+    "start": 33.98,
+    "end": 36.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      83,
-      104
+      95,
+      103
     ],
     "words": [
       {
-        "i": 83,
-        "word": "Paste",
-        "start": 30.8,
-        "end": 30.9
-      },
-      {
-        "i": 84,
-        "word": "your",
-        "start": 30.9,
-        "end": 31.14
-      },
-      {
-        "i": 85,
-        "word": "address",
-        "start": 31.14,
-        "end": 31.4
-      },
-      {
-        "i": 86,
-        "word": "into",
-        "start": 31.4,
-        "end": 31.66
-      },
-      {
-        "i": 87,
-        "word": "the",
-        "start": 31.66,
-        "end": 31.8
-      },
-      {
-        "i": 88,
-        "word": "URL",
-        "start": 31.8,
-        "end": 32.08
-      },
-      {
-        "i": 89,
-        "word": "field,",
-        "start": 32.08,
-        "end": 32.5
-      },
-      {
-        "i": 90,
-        "word": "adjust",
-        "start": 32.72,
-        "end": 33.06
-      },
-      {
-        "i": 91,
-        "word": "the",
-        "start": 33.06,
-        "end": 33.28
-      },
-      {
-        "i": 92,
-        "word": "foreground",
-        "start": 33.28,
-        "end": 33.62
-      },
-      {
-        "i": 93,
-        "word": "and",
-        "start": 33.62,
-        "end": 33.82
-      },
-      {
-        "i": 94,
-        "word": "background",
-        "start": 33.82,
-        "end": 34.14
-      },
-      {
         "i": 95,
-        "word": "colours",
-        "start": 34.14,
-        "end": 34.48
+        "word": "The",
+        "start": 33.98,
+        "end": 34.12
       },
       {
         "i": 96,
-        "word": "if",
-        "start": 34.48,
-        "end": 34.68
+        "word": "other",
+        "start": 34.12,
+        "end": 34.24
       },
       {
         "i": 97,
-        "word": "needed",
-        "start": 34.68,
-        "end": 34.96
+        "word": "half",
+        "start": 34.24,
+        "end": 34.5
       },
       {
         "i": 98,
-        "word": "and",
-        "start": 34.96,
-        "end": 35.5
+        "word": "contains",
+        "start": 34.5,
+        "end": 34.84
       },
       {
         "i": 99,
-        "word": "select",
-        "start": 35.5,
-        "end": 35.82
+        "word": "your",
+        "start": 34.84,
+        "end": 35.12
       },
       {
         "i": 100,
-        "word": "Save",
-        "start": 35.82,
-        "end": 36.22
+        "word": "70",
+        "start": 35.12,
+        "end": 35.5
       },
       {
         "i": 101,
         "word": "to",
-        "start": 36.22,
-        "end": 36.48
+        "start": 35.5,
+        "end": 35.62
       },
       {
         "i": 102,
-        "word": "add",
-        "start": 36.48,
-        "end": 36.66
+        "word": "30",
+        "start": 35.62,
+        "end": 35.98
       },
       {
         "i": 103,
-        "word": "the",
-        "start": 36.66,
-        "end": 36.84
-      },
-      {
-        "i": 104,
-        "word": "code.",
-        "start": 36.84,
-        "end": 37.14
+        "word": "split.",
+        "start": 35.98,
+        "end": 36.3
       }
     ]
   },
   {
     "id": 9,
-    "text": "Place it where people can easily notice it.",
-    "start": 37.72,
-    "end": 39.84,
+    "text": "Change complete to your main colour, remaining to light grey, and hidden to white, matching the page background.",
+    "start": 37.1,
+    "end": 42.66,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      105,
-      112
+      104,
+      121
     ],
     "words": [
       {
+        "i": 104,
+        "word": "Change",
+        "start": 37.1,
+        "end": 37.28
+      },
+      {
         "i": 105,
-        "word": "Place",
-        "start": 37.72,
-        "end": 37.86
+        "word": "complete",
+        "start": 37.28,
+        "end": 37.64
       },
       {
         "i": 106,
-        "word": "it",
-        "start": 37.86,
-        "end": 38.0
+        "word": "to",
+        "start": 37.64,
+        "end": 37.88
       },
       {
         "i": 107,
-        "word": "where",
-        "start": 38.0,
-        "end": 38.16
+        "word": "your",
+        "start": 37.88,
+        "end": 38.0
       },
       {
         "i": 108,
-        "word": "people",
-        "start": 38.16,
-        "end": 38.36
+        "word": "main",
+        "start": 38.0,
+        "end": 38.22
       },
       {
         "i": 109,
-        "word": "can",
-        "start": 38.36,
-        "end": 38.62
+        "word": "colour,",
+        "start": 38.22,
+        "end": 38.44
       },
       {
         "i": 110,
-        "word": "easily",
-        "start": 38.62,
-        "end": 39.0
+        "word": "remaining",
+        "start": 38.98,
+        "end": 39.18
       },
       {
         "i": 111,
-        "word": "notice",
-        "start": 39.0,
-        "end": 39.32
+        "word": "to",
+        "start": 39.18,
+        "end": 39.42
       },
       {
         "i": 112,
-        "word": "it.",
-        "start": 39.32,
-        "end": 39.84
+        "word": "light",
+        "start": 39.42,
+        "end": 39.6
+      },
+      {
+        "i": 113,
+        "word": "grey,",
+        "start": 39.6,
+        "end": 39.86
+      },
+      {
+        "i": 114,
+        "word": "and",
+        "start": 40.3,
+        "end": 40.44
+      },
+      {
+        "i": 115,
+        "word": "hidden",
+        "start": 40.44,
+        "end": 40.62
+      },
+      {
+        "i": 116,
+        "word": "to",
+        "start": 40.62,
+        "end": 40.84
+      },
+      {
+        "i": 117,
+        "word": "white,",
+        "start": 40.84,
+        "end": 41.08
+      },
+      {
+        "i": 118,
+        "word": "matching",
+        "start": 41.54,
+        "end": 41.82
+      },
+      {
+        "i": 119,
+        "word": "the",
+        "start": 41.82,
+        "end": 42.02
+      },
+      {
+        "i": 120,
+        "word": "page",
+        "start": 42.02,
+        "end": 42.24
+      },
+      {
+        "i": 121,
+        "word": "background.",
+        "start": 42.24,
+        "end": 42.66
       }
     ]
   },
   {
     "id": 10,
-    "text": "Use a dark code on a light background and leave a clear border around it.",
-    "start": 40.18,
-    "end": 43.9,
+    "text": "In the chart's customised panel, hide the legend and automatic data labels.",
+    "start": 43.58,
+    "end": 47.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      113,
-      127
+      122,
+      133
     ],
     "words": [
       {
-        "i": 113,
-        "word": "Use",
-        "start": 40.18,
-        "end": 40.4
-      },
-      {
-        "i": 114,
-        "word": "a",
-        "start": 40.4,
-        "end": 40.56
-      },
-      {
-        "i": 115,
-        "word": "dark",
-        "start": 40.56,
-        "end": 40.8
-      },
-      {
-        "i": 116,
-        "word": "code",
-        "start": 40.8,
-        "end": 41.12
-      },
-      {
-        "i": 117,
-        "word": "on",
-        "start": 41.12,
-        "end": 41.3
-      },
-      {
-        "i": 118,
-        "word": "a",
-        "start": 41.3,
-        "end": 41.44
-      },
-      {
-        "i": 119,
-        "word": "light",
-        "start": 41.44,
-        "end": 41.58
-      },
-      {
-        "i": 120,
-        "word": "background",
-        "start": 41.58,
-        "end": 42.02
-      },
-      {
-        "i": 121,
-        "word": "and",
-        "start": 42.02,
-        "end": 42.3
-      },
-      {
         "i": 122,
-        "word": "leave",
-        "start": 42.3,
-        "end": 42.44
+        "word": "In",
+        "start": 43.58,
+        "end": 43.82
       },
       {
         "i": 123,
-        "word": "a",
-        "start": 42.44,
-        "end": 42.56
+        "word": "the",
+        "start": 43.82,
+        "end": 44.0
       },
       {
         "i": 124,
-        "word": "clear",
-        "start": 42.56,
-        "end": 42.82
+        "word": "chart's",
+        "start": 44.0,
+        "end": 44.34
       },
       {
         "i": 125,
-        "word": "border",
-        "start": 42.82,
-        "end": 43.1
+        "word": "customised",
+        "start": 44.34,
+        "end": 44.78
       },
       {
         "i": 126,
-        "word": "around",
-        "start": 43.1,
-        "end": 43.42
+        "word": "panel,",
+        "start": 44.78,
+        "end": 45.08
       },
       {
         "i": 127,
-        "word": "it.",
-        "start": 43.42,
-        "end": 43.9
+        "word": "hide",
+        "start": 45.38,
+        "end": 45.5
+      },
+      {
+        "i": 128,
+        "word": "the",
+        "start": 45.5,
+        "end": 45.7
+      },
+      {
+        "i": 129,
+        "word": "legend",
+        "start": 45.7,
+        "end": 45.94
+      },
+      {
+        "i": 130,
+        "word": "and",
+        "start": 45.94,
+        "end": 46.3
+      },
+      {
+        "i": 131,
+        "word": "automatic",
+        "start": 46.3,
+        "end": 46.78
+      },
+      {
+        "i": 132,
+        "word": "data",
+        "start": 46.78,
+        "end": 47.16
+      },
+      {
+        "i": 133,
+        "word": "labels.",
+        "start": 47.16,
+        "end": 47.54
       }
     ]
   },
   {
     "id": 11,
-    "text": "Add a short instruction nearby, such as scan to book.",
-    "start": 44.14,
-    "end": 46.78,
+    "text": "To orient the chart without depending on chart-specific rotation controls, download just this chart page as a PNG.",
+    "start": 48.2,
+    "end": 54.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      128,
-      137
+      134,
+      152
     ],
     "words": [
       {
-        "i": 128,
-        "word": "Add",
-        "start": 44.14,
-        "end": 44.28
-      },
-      {
-        "i": 129,
-        "word": "a",
-        "start": 44.28,
-        "end": 44.42
-      },
-      {
-        "i": 130,
-        "word": "short",
-        "start": 44.42,
-        "end": 44.58
-      },
-      {
-        "i": 131,
-        "word": "instruction",
-        "start": 44.58,
-        "end": 45.04
-      },
-      {
-        "i": 132,
-        "word": "nearby,",
-        "start": 45.04,
-        "end": 45.46
-      },
-      {
-        "i": 133,
-        "word": "such",
-        "start": 45.76,
-        "end": 45.96
-      },
-      {
         "i": 134,
-        "word": "as",
-        "start": 45.96,
-        "end": 46.22
+        "word": "To",
+        "start": 48.2,
+        "end": 48.36
       },
       {
         "i": 135,
-        "word": "scan",
-        "start": 46.22,
-        "end": 46.42
+        "word": "orient",
+        "start": 48.36,
+        "end": 48.7
       },
       {
         "i": 136,
-        "word": "to",
-        "start": 46.42,
-        "end": 46.6
+        "word": "the",
+        "start": 48.7,
+        "end": 48.9
       },
       {
         "i": 137,
-        "word": "book.",
-        "start": 46.6,
-        "end": 46.78
+        "word": "chart",
+        "start": 48.9,
+        "end": 49.14
+      },
+      {
+        "i": 138,
+        "word": "without",
+        "start": 49.14,
+        "end": 49.44
+      },
+      {
+        "i": 139,
+        "word": "depending",
+        "start": 49.44,
+        "end": 49.78
+      },
+      {
+        "i": 140,
+        "word": "on",
+        "start": 49.78,
+        "end": 50.06
+      },
+      {
+        "i": 141,
+        "word": "chart",
+        "start": 50.06,
+        "end": 50.28
+      },
+      {
+        "i": 142,
+        "word": "-specific",
+        "start": 50.28,
+        "end": 50.76
+      },
+      {
+        "i": 143,
+        "word": "rotation",
+        "start": 50.76,
+        "end": 51.24
+      },
+      {
+        "i": 144,
+        "word": "controls,",
+        "start": 51.24,
+        "end": 51.8
+      },
+      {
+        "i": 145,
+        "word": "download",
+        "start": 52.3,
+        "end": 52.56
+      },
+      {
+        "i": 146,
+        "word": "just",
+        "start": 52.56,
+        "end": 52.86
+      },
+      {
+        "i": 147,
+        "word": "this",
+        "start": 52.86,
+        "end": 53.12
+      },
+      {
+        "i": 148,
+        "word": "chart",
+        "start": 53.12,
+        "end": 53.36
+      },
+      {
+        "i": 149,
+        "word": "page",
+        "start": 53.36,
+        "end": 53.68
+      },
+      {
+        "i": 150,
+        "word": "as",
+        "start": 53.68,
+        "end": 53.9
+      },
+      {
+        "i": 151,
+        "word": "a",
+        "start": 53.9,
+        "end": 54.06
+      },
+      {
+        "i": 152,
+        "word": "PNG.",
+        "start": 54.06,
+        "end": 54.34
       }
     ]
   },
   {
     "id": 12,
-    "text": "For print, keep the code at least two centimetres wide and increase it when people will scan from farther away.",
-    "start": 47.4,
-    "end": 52.5,
+    "text": "Upload that PNG into a second white page and rotate the image until the coloured half forms an arch across the top.",
+    "start": 55.32,
+    "end": 61.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      138,
-      157
+      153,
+      174
     ],
     "words": [
       {
-        "i": 138,
-        "word": "For",
-        "start": 47.4,
-        "end": 47.54
-      },
-      {
-        "i": 139,
-        "word": "print,",
-        "start": 47.54,
-        "end": 47.76
-      },
-      {
-        "i": 140,
-        "word": "keep",
-        "start": 48.08,
-        "end": 48.22
-      },
-      {
-        "i": 141,
-        "word": "the",
-        "start": 48.22,
-        "end": 48.38
-      },
-      {
-        "i": 142,
-        "word": "code",
-        "start": 48.38,
-        "end": 48.56
-      },
-      {
-        "i": 143,
-        "word": "at",
-        "start": 48.56,
-        "end": 48.68
-      },
-      {
-        "i": 144,
-        "word": "least",
-        "start": 48.68,
-        "end": 48.84
-      },
-      {
-        "i": 145,
-        "word": "two",
-        "start": 48.84,
-        "end": 49.14
-      },
-      {
-        "i": 146,
-        "word": "centimetres",
-        "start": 49.14,
-        "end": 49.68
-      },
-      {
-        "i": 147,
-        "word": "wide",
-        "start": 49.68,
-        "end": 50.0
-      },
-      {
-        "i": 148,
-        "word": "and",
-        "start": 50.0,
-        "end": 50.22
-      },
-      {
-        "i": 149,
-        "word": "increase",
-        "start": 50.22,
-        "end": 50.54
-      },
-      {
-        "i": 150,
-        "word": "it",
-        "start": 50.54,
-        "end": 50.72
-      },
-      {
-        "i": 151,
-        "word": "when",
-        "start": 50.72,
-        "end": 50.88
-      },
-      {
-        "i": 152,
-        "word": "people",
-        "start": 50.88,
-        "end": 51.1
-      },
-      {
         "i": 153,
-        "word": "will",
-        "start": 51.1,
-        "end": 51.28
+        "word": "Upload",
+        "start": 55.32,
+        "end": 55.88
       },
       {
         "i": 154,
-        "word": "scan",
-        "start": 51.28,
-        "end": 51.6
+        "word": "that",
+        "start": 55.88,
+        "end": 56.14
       },
       {
         "i": 155,
-        "word": "from",
-        "start": 51.6,
-        "end": 51.8
+        "word": "PNG",
+        "start": 56.14,
+        "end": 56.44
       },
       {
         "i": 156,
-        "word": "farther",
-        "start": 51.8,
-        "end": 52.14
+        "word": "into",
+        "start": 56.44,
+        "end": 56.88
       },
       {
         "i": 157,
-        "word": "away.",
-        "start": 52.14,
-        "end": 52.5
+        "word": "a",
+        "start": 56.88,
+        "end": 57.04
+      },
+      {
+        "i": 158,
+        "word": "second",
+        "start": 57.04,
+        "end": 57.28
+      },
+      {
+        "i": 159,
+        "word": "white",
+        "start": 57.28,
+        "end": 57.5
+      },
+      {
+        "i": 160,
+        "word": "page",
+        "start": 57.5,
+        "end": 57.84
+      },
+      {
+        "i": 161,
+        "word": "and",
+        "start": 57.84,
+        "end": 58.12
+      },
+      {
+        "i": 162,
+        "word": "rotate",
+        "start": 58.12,
+        "end": 58.36
+      },
+      {
+        "i": 163,
+        "word": "the",
+        "start": 58.36,
+        "end": 58.62
+      },
+      {
+        "i": 164,
+        "word": "image",
+        "start": 58.62,
+        "end": 58.82
+      },
+      {
+        "i": 165,
+        "word": "until",
+        "start": 58.82,
+        "end": 59.06
+      },
+      {
+        "i": 166,
+        "word": "the",
+        "start": 59.06,
+        "end": 59.24
+      },
+      {
+        "i": 167,
+        "word": "coloured",
+        "start": 59.24,
+        "end": 59.46
+      },
+      {
+        "i": 168,
+        "word": "half",
+        "start": 59.46,
+        "end": 59.74
+      },
+      {
+        "i": 169,
+        "word": "forms",
+        "start": 59.74,
+        "end": 60.22
+      },
+      {
+        "i": 170,
+        "word": "an",
+        "start": 60.22,
+        "end": 60.42
+      },
+      {
+        "i": 171,
+        "word": "arch",
+        "start": 60.42,
+        "end": 60.76
+      },
+      {
+        "i": 172,
+        "word": "across",
+        "start": 60.76,
+        "end": 61.08
+      },
+      {
+        "i": 173,
+        "word": "the",
+        "start": 61.08,
+        "end": 61.28
+      },
+      {
+        "i": 174,
+        "word": "top.",
+        "start": 61.28,
+        "end": 61.54
       }
     ]
   },
   {
     "id": 13,
-    "text": "Avoid stretching it into a rectangle.",
-    "start": 53.18,
-    "end": 54.58,
+    "text": "Add a separate text box inside the arch and type 70%.",
+    "start": 62.16,
+    "end": 65.74,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      158,
-      163
+      175,
+      185
     ],
     "words": [
       {
-        "i": 158,
-        "word": "Avoid",
-        "start": 53.18,
-        "end": 53.42
+        "i": 175,
+        "word": "Add",
+        "start": 62.16,
+        "end": 62.44
       },
       {
-        "i": 159,
-        "word": "stretching",
-        "start": 53.42,
-        "end": 53.74
-      },
-      {
-        "i": 160,
-        "word": "it",
-        "start": 53.74,
-        "end": 53.94
-      },
-      {
-        "i": 161,
-        "word": "into",
-        "start": 53.94,
-        "end": 54.12
-      },
-      {
-        "i": 162,
+        "i": 176,
         "word": "a",
-        "start": 54.12,
-        "end": 54.24
+        "start": 62.44,
+        "end": 62.56
       },
       {
-        "i": 163,
-        "word": "rectangle.",
-        "start": 54.24,
-        "end": 54.58
+        "i": 177,
+        "word": "separate",
+        "start": 62.56,
+        "end": 62.82
+      },
+      {
+        "i": 178,
+        "word": "text",
+        "start": 62.82,
+        "end": 63.1
+      },
+      {
+        "i": 179,
+        "word": "box",
+        "start": 63.1,
+        "end": 63.3
+      },
+      {
+        "i": 180,
+        "word": "inside",
+        "start": 63.3,
+        "end": 63.7
+      },
+      {
+        "i": 181,
+        "word": "the",
+        "start": 63.7,
+        "end": 64.0
+      },
+      {
+        "i": 182,
+        "word": "arch",
+        "start": 64.0,
+        "end": 64.26
+      },
+      {
+        "i": 183,
+        "word": "and",
+        "start": 64.26,
+        "end": 64.48
+      },
+      {
+        "i": 184,
+        "word": "type",
+        "start": 64.48,
+        "end": 64.78
+      },
+      {
+        "i": 185,
+        "word": "70%.",
+        "start": 64.78,
+        "end": 65.74
       }
     ]
   },
   {
     "id": 14,
-    "text": "Here's the part many tutorials skip.",
-    "start": 55.3,
-    "end": 57.26,
+    "text": "Put a short title above it, an optional zero, and 100 labels at the endpoints.",
+    "start": 65.74,
+    "end": 71.04,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      164,
-      169
+      186,
+      200
     ],
     "words": [
       {
-        "i": 164,
-        "word": "Here's",
-        "start": 55.3,
-        "end": 55.6
+        "i": 186,
+        "word": "Put",
+        "start": 65.74,
+        "end": 66.32
       },
       {
-        "i": 165,
+        "i": 187,
+        "word": "a",
+        "start": 66.32,
+        "end": 66.44
+      },
+      {
+        "i": 188,
+        "word": "short",
+        "start": 66.44,
+        "end": 66.64
+      },
+      {
+        "i": 189,
+        "word": "title",
+        "start": 66.64,
+        "end": 66.94
+      },
+      {
+        "i": 190,
+        "word": "above",
+        "start": 66.94,
+        "end": 67.18
+      },
+      {
+        "i": 191,
+        "word": "it,",
+        "start": 67.18,
+        "end": 67.44
+      },
+      {
+        "i": 192,
+        "word": "an",
+        "start": 67.72,
+        "end": 67.88
+      },
+      {
+        "i": 193,
+        "word": "optional",
+        "start": 67.88,
+        "end": 68.28
+      },
+      {
+        "i": 194,
+        "word": "zero,",
+        "start": 68.28,
+        "end": 68.58
+      },
+      {
+        "i": 195,
+        "word": "and",
+        "start": 68.98,
+        "end": 69.22
+      },
+      {
+        "i": 196,
+        "word": "100",
+        "start": 69.22,
+        "end": 69.72
+      },
+      {
+        "i": 197,
+        "word": "labels",
+        "start": 69.72,
+        "end": 70.14
+      },
+      {
+        "i": 198,
+        "word": "at",
+        "start": 70.14,
+        "end": 70.5
+      },
+      {
+        "i": 199,
         "word": "the",
-        "start": 55.6,
-        "end": 55.72
+        "start": 70.5,
+        "end": 70.68
       },
       {
-        "i": 166,
-        "word": "part",
-        "start": 55.72,
-        "end": 55.88
-      },
-      {
-        "i": 167,
-        "word": "many",
-        "start": 55.88,
-        "end": 56.28
-      },
-      {
-        "i": 168,
-        "word": "tutorials",
-        "start": 56.28,
-        "end": 56.86
-      },
-      {
-        "i": 169,
-        "word": "skip.",
-        "start": 56.86,
-        "end": 57.26
+        "i": 200,
+        "word": "endpoints.",
+        "start": 70.68,
+        "end": 71.04
       }
     ]
   },
   {
     "id": 15,
-    "text": "The destination of a static QR code cannot be changed inside Canva after creation.",
-    "start": 57.8,
-    "end": 62.36,
+    "text": "Here's the part many tutorials skip.",
+    "start": 72.02,
+    "end": 73.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      170,
-      183
+      201,
+      206
     ],
     "words": [
       {
-        "i": 170,
-        "word": "The",
-        "start": 57.8,
-        "end": 57.9
+        "i": 201,
+        "word": "Here's",
+        "start": 72.02,
+        "end": 72.22
       },
       {
-        "i": 171,
-        "word": "destination",
-        "start": 57.9,
-        "end": 58.32
+        "i": 202,
+        "word": "the",
+        "start": 72.22,
+        "end": 72.38
       },
       {
-        "i": 172,
-        "word": "of",
-        "start": 58.32,
-        "end": 58.66
+        "i": 203,
+        "word": "part",
+        "start": 72.38,
+        "end": 72.56
       },
       {
-        "i": 173,
-        "word": "a",
-        "start": 58.66,
-        "end": 58.74
+        "i": 204,
+        "word": "many",
+        "start": 72.56,
+        "end": 72.96
       },
       {
-        "i": 174,
-        "word": "static",
-        "start": 58.74,
-        "end": 59.1
+        "i": 205,
+        "word": "tutorials",
+        "start": 72.96,
+        "end": 73.54
       },
       {
-        "i": 175,
-        "word": "QR",
-        "start": 59.1,
-        "end": 59.46
-      },
-      {
-        "i": 176,
-        "word": "code",
-        "start": 59.46,
-        "end": 59.78
-      },
-      {
-        "i": 177,
-        "word": "cannot",
-        "start": 59.78,
-        "end": 60.02
-      },
-      {
-        "i": 178,
-        "word": "be",
-        "start": 60.02,
-        "end": 60.28
-      },
-      {
-        "i": 179,
-        "word": "changed",
-        "start": 60.28,
-        "end": 60.64
-      },
-      {
-        "i": 180,
-        "word": "inside",
-        "start": 60.64,
-        "end": 61.14
-      },
-      {
-        "i": 181,
-        "word": "Canva",
-        "start": 61.14,
-        "end": 61.54
-      },
-      {
-        "i": 182,
-        "word": "after",
-        "start": 61.54,
-        "end": 61.9
-      },
-      {
-        "i": 183,
-        "word": "creation.",
-        "start": 61.9,
-        "end": 62.36
+        "i": 206,
+        "word": "skip.",
+        "start": 73.54,
+        "end": 73.98
       }
     ]
   },
   {
     "id": 16,
-    "text": "If you generate it with the wrong address, create a replacement code before printing.",
-    "start": 63.06,
-    "end": 67.06,
+    "text": "Canva calculates automatic percentages from the entire dataset, including the hidden 100.",
+    "start": 74.98,
+    "end": 80.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      184,
-      197
+      207,
+      218
     ],
     "words": [
       {
-        "i": 184,
-        "word": "If",
-        "start": 63.06,
-        "end": 63.22
+        "i": 207,
+        "word": "Canva",
+        "start": 74.98,
+        "end": 75.1
       },
       {
-        "i": 185,
-        "word": "you",
-        "start": 63.22,
-        "end": 63.36
+        "i": 208,
+        "word": "calculates",
+        "start": 75.1,
+        "end": 75.62
       },
       {
-        "i": 186,
-        "word": "generate",
-        "start": 63.36,
-        "end": 63.68
+        "i": 209,
+        "word": "automatic",
+        "start": 75.62,
+        "end": 76.24
       },
       {
-        "i": 187,
-        "word": "it",
-        "start": 63.68,
-        "end": 63.88
+        "i": 210,
+        "word": "percentages",
+        "start": 76.24,
+        "end": 76.7
       },
       {
-        "i": 188,
-        "word": "with",
-        "start": 63.88,
-        "end": 64.0
+        "i": 211,
+        "word": "from",
+        "start": 76.7,
+        "end": 77.1
       },
       {
-        "i": 189,
+        "i": 212,
         "word": "the",
-        "start": 64.0,
-        "end": 64.14
+        "start": 77.1,
+        "end": 77.24
       },
       {
-        "i": 190,
-        "word": "wrong",
-        "start": 64.14,
-        "end": 64.3
+        "i": 213,
+        "word": "entire",
+        "start": 77.24,
+        "end": 77.74
       },
       {
-        "i": 191,
-        "word": "address,",
-        "start": 64.3,
-        "end": 64.72
+        "i": 214,
+        "word": "dataset,",
+        "start": 77.74,
+        "end": 78.26
       },
       {
-        "i": 192,
-        "word": "create",
-        "start": 65.18,
-        "end": 65.34
+        "i": 215,
+        "word": "including",
+        "start": 78.7,
+        "end": 79.02
       },
       {
-        "i": 193,
-        "word": "a",
-        "start": 65.34,
-        "end": 65.52
+        "i": 216,
+        "word": "the",
+        "start": 79.02,
+        "end": 79.26
       },
       {
-        "i": 194,
-        "word": "replacement",
-        "start": 65.52,
-        "end": 65.86
+        "i": 217,
+        "word": "hidden",
+        "start": 79.26,
+        "end": 79.5
       },
       {
-        "i": 195,
-        "word": "code",
-        "start": 65.86,
-        "end": 66.28
-      },
-      {
-        "i": 196,
-        "word": "before",
-        "start": 66.28,
-        "end": 66.64
-      },
-      {
-        "i": 197,
-        "word": "printing.",
-        "start": 66.64,
-        "end": 67.06
+        "i": 218,
+        "word": "100.",
+        "start": 79.5,
+        "end": 80.26
       }
     ]
   },
   {
     "id": 17,
-    "text": "Choose a dynamic code from the beginning when the link needs to change later.",
-    "start": 67.66,
-    "end": 71.1,
+    "text": "That would label 70 as 35%.",
+    "start": 81.06,
+    "end": 84.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      198,
-      211
+      219,
+      224
     ],
     "words": [
       {
-        "i": 198,
-        "word": "Choose",
-        "start": 67.66,
-        "end": 67.9
+        "i": 219,
+        "word": "That",
+        "start": 81.06,
+        "end": 81.36
       },
       {
-        "i": 199,
-        "word": "a",
-        "start": 67.9,
-        "end": 68.06
+        "i": 220,
+        "word": "would",
+        "start": 81.36,
+        "end": 81.48
       },
       {
-        "i": 200,
-        "word": "dynamic",
-        "start": 68.06,
-        "end": 68.4
+        "i": 221,
+        "word": "label",
+        "start": 81.48,
+        "end": 81.7
       },
       {
-        "i": 201,
-        "word": "code",
-        "start": 68.4,
-        "end": 68.74
+        "i": 222,
+        "word": "70",
+        "start": 81.7,
+        "end": 82.2
       },
       {
-        "i": 202,
-        "word": "from",
-        "start": 68.74,
-        "end": 68.94
+        "i": 223,
+        "word": "as",
+        "start": 82.2,
+        "end": 82.64
       },
       {
-        "i": 203,
-        "word": "the",
-        "start": 68.94,
-        "end": 69.06
-      },
-      {
-        "i": 204,
-        "word": "beginning",
-        "start": 69.06,
-        "end": 69.32
-      },
-      {
-        "i": 205,
-        "word": "when",
-        "start": 69.32,
-        "end": 69.64
-      },
-      {
-        "i": 206,
-        "word": "the",
-        "start": 69.64,
-        "end": 69.8
-      },
-      {
-        "i": 207,
-        "word": "link",
-        "start": 69.8,
-        "end": 69.94
-      },
-      {
-        "i": 208,
-        "word": "needs",
-        "start": 69.94,
-        "end": 70.22
-      },
-      {
-        "i": 209,
-        "word": "to",
-        "start": 70.22,
-        "end": 70.4
-      },
-      {
-        "i": 210,
-        "word": "change",
-        "start": 70.4,
-        "end": 70.68
-      },
-      {
-        "i": 211,
-        "word": "later.",
-        "start": 70.68,
-        "end": 71.1
+        "i": 224,
+        "word": "35%.",
+        "start": 82.64,
+        "end": 84.2
       }
     ]
   },
   {
     "id": 18,
-    "text": "Download the design in the format you need, then scan the exported code with your phone.",
-    "start": 71.78,
-    "end": 75.94,
+    "text": "Use your own text label to show the percentage of the visible half.",
+    "start": 84.2,
+    "end": 87.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      212,
-      227
+      225,
+      237
     ],
     "words": [
       {
-        "i": 212,
-        "word": "Download",
-        "start": 71.78,
-        "end": 72.0
-      },
-      {
-        "i": 213,
-        "word": "the",
-        "start": 72.0,
-        "end": 72.22
-      },
-      {
-        "i": 214,
-        "word": "design",
-        "start": 72.22,
-        "end": 72.48
-      },
-      {
-        "i": 215,
-        "word": "in",
-        "start": 72.48,
-        "end": 72.62
-      },
-      {
-        "i": 216,
-        "word": "the",
-        "start": 72.62,
-        "end": 72.74
-      },
-      {
-        "i": 217,
-        "word": "format",
-        "start": 72.74,
-        "end": 72.98
-      },
-      {
-        "i": 218,
-        "word": "you",
-        "start": 72.98,
-        "end": 73.2
-      },
-      {
-        "i": 219,
-        "word": "need,",
-        "start": 73.2,
-        "end": 73.5
-      },
-      {
-        "i": 220,
-        "word": "then",
-        "start": 73.76,
-        "end": 73.94
-      },
-      {
-        "i": 221,
-        "word": "scan",
-        "start": 73.94,
-        "end": 74.28
-      },
-      {
-        "i": 222,
-        "word": "the",
-        "start": 74.28,
-        "end": 74.46
-      },
-      {
-        "i": 223,
-        "word": "exported",
-        "start": 74.46,
-        "end": 74.88
-      },
-      {
-        "i": 224,
-        "word": "code",
-        "start": 74.88,
-        "end": 75.26
-      },
-      {
         "i": 225,
-        "word": "with",
-        "start": 75.26,
-        "end": 75.48
+        "word": "Use",
+        "start": 84.2,
+        "end": 84.8
       },
       {
         "i": 226,
         "word": "your",
-        "start": 75.48,
-        "end": 75.64
+        "start": 84.8,
+        "end": 84.98
       },
       {
         "i": 227,
-        "word": "phone.",
-        "start": 75.64,
-        "end": 75.94
+        "word": "own",
+        "start": 84.98,
+        "end": 85.26
+      },
+      {
+        "i": 228,
+        "word": "text",
+        "start": 85.26,
+        "end": 85.54
+      },
+      {
+        "i": 229,
+        "word": "label",
+        "start": 85.54,
+        "end": 85.86
+      },
+      {
+        "i": 230,
+        "word": "to",
+        "start": 85.86,
+        "end": 86.24
+      },
+      {
+        "i": 231,
+        "word": "show",
+        "start": 86.24,
+        "end": 86.4
+      },
+      {
+        "i": 232,
+        "word": "the",
+        "start": 86.4,
+        "end": 86.54
+      },
+      {
+        "i": 233,
+        "word": "percentage",
+        "start": 86.54,
+        "end": 86.84
+      },
+      {
+        "i": 234,
+        "word": "of",
+        "start": 86.84,
+        "end": 87.16
+      },
+      {
+        "i": 235,
+        "word": "the",
+        "start": 87.16,
+        "end": 87.26
+      },
+      {
+        "i": 236,
+        "word": "visible",
+        "start": 87.26,
+        "end": 87.56
+      },
+      {
+        "i": 237,
+        "word": "half.",
+        "start": 87.56,
+        "end": 87.92
       }
     ]
   },
   {
     "id": 19,
-    "text": "For printed material, scan a physical proof as well.",
-    "start": 76.56,
-    "end": 79.36,
+    "text": "Keep the original editable chart page.",
+    "start": 88.46,
+    "end": 90.28,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      228,
-      236
+      238,
+      243
     ],
     "words": [
       {
-        "i": 228,
-        "word": "For",
-        "start": 76.56,
-        "end": 76.72
+        "i": 238,
+        "word": "Keep",
+        "start": 88.46,
+        "end": 88.64
       },
       {
-        "i": 229,
-        "word": "printed",
-        "start": 76.72,
-        "end": 76.94
+        "i": 239,
+        "word": "the",
+        "start": 88.64,
+        "end": 88.82
       },
       {
-        "i": 230,
-        "word": "material,",
-        "start": 76.94,
-        "end": 77.42
+        "i": 240,
+        "word": "original",
+        "start": 88.82,
+        "end": 89.2
       },
       {
-        "i": 231,
-        "word": "scan",
-        "start": 77.62,
-        "end": 77.94
+        "i": 241,
+        "word": "editable",
+        "start": 89.2,
+        "end": 89.7
       },
       {
-        "i": 232,
-        "word": "a",
-        "start": 77.94,
-        "end": 78.16
+        "i": 242,
+        "word": "chart",
+        "start": 89.7,
+        "end": 89.94
       },
       {
-        "i": 233,
-        "word": "physical",
-        "start": 78.16,
-        "end": 78.5
-      },
-      {
-        "i": 234,
-        "word": "proof",
-        "start": 78.5,
-        "end": 78.84
-      },
-      {
-        "i": 235,
-        "word": "as",
-        "start": 78.84,
-        "end": 79.04
-      },
-      {
-        "i": 236,
-        "word": "well.",
-        "start": 79.04,
-        "end": 79.36
+        "i": 243,
+        "word": "page.",
+        "start": 89.94,
+        "end": 90.28
       }
     ]
   },
   {
     "id": 20,
-    "text": "Confirm that the correct page opens and works for someone who is not signed into your account.",
-    "start": 79.36,
-    "end": 83.96,
+    "text": "To change the result later, update complete and remaining so they still total 100, export that page again, and replace the picture.",
+    "start": 90.78,
+    "end": 98.68,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      237,
-      253
+      244,
+      265
     ],
     "words": [
       {
-        "i": 237,
-        "word": "Confirm",
-        "start": 79.36,
-        "end": 80.3
-      },
-      {
-        "i": 238,
-        "word": "that",
-        "start": 80.3,
-        "end": 80.44
-      },
-      {
-        "i": 239,
-        "word": "the",
-        "start": 80.44,
-        "end": 80.58
-      },
-      {
-        "i": 240,
-        "word": "correct",
-        "start": 80.58,
-        "end": 80.82
-      },
-      {
-        "i": 241,
-        "word": "page",
-        "start": 80.82,
-        "end": 81.12
-      },
-      {
-        "i": 242,
-        "word": "opens",
-        "start": 81.12,
-        "end": 81.46
-      },
-      {
-        "i": 243,
-        "word": "and",
-        "start": 81.46,
-        "end": 81.74
-      },
-      {
         "i": 244,
-        "word": "works",
-        "start": 81.74,
-        "end": 81.94
+        "word": "To",
+        "start": 90.78,
+        "end": 90.88
       },
       {
         "i": 245,
-        "word": "for",
-        "start": 81.94,
-        "end": 82.14
+        "word": "change",
+        "start": 90.88,
+        "end": 91.16
       },
       {
         "i": 246,
-        "word": "someone",
-        "start": 82.14,
-        "end": 82.36
+        "word": "the",
+        "start": 91.16,
+        "end": 91.34
       },
       {
         "i": 247,
-        "word": "who",
-        "start": 82.36,
-        "end": 82.5
+        "word": "result",
+        "start": 91.34,
+        "end": 91.6
       },
       {
         "i": 248,
-        "word": "is",
-        "start": 82.5,
-        "end": 82.6
+        "word": "later,",
+        "start": 91.6,
+        "end": 92.0
       },
       {
         "i": 249,
-        "word": "not",
-        "start": 82.6,
-        "end": 82.84
+        "word": "update",
+        "start": 92.46,
+        "end": 92.76
       },
       {
         "i": 250,
-        "word": "signed",
-        "start": 82.84,
-        "end": 83.22
+        "word": "complete",
+        "start": 92.76,
+        "end": 93.26
       },
       {
         "i": 251,
-        "word": "into",
-        "start": 83.22,
-        "end": 83.44
+        "word": "and",
+        "start": 93.26,
+        "end": 93.56
       },
       {
         "i": 252,
-        "word": "your",
-        "start": 83.44,
-        "end": 83.62
+        "word": "remaining",
+        "start": 93.56,
+        "end": 93.88
       },
       {
         "i": 253,
-        "word": "account.",
-        "start": 83.62,
-        "end": 83.96
+        "word": "so",
+        "start": 93.88,
+        "end": 94.2
+      },
+      {
+        "i": 254,
+        "word": "they",
+        "start": 94.2,
+        "end": 94.34
+      },
+      {
+        "i": 255,
+        "word": "still",
+        "start": 94.34,
+        "end": 94.62
+      },
+      {
+        "i": 256,
+        "word": "total",
+        "start": 94.62,
+        "end": 95.06
+      },
+      {
+        "i": 257,
+        "word": "100,",
+        "start": 95.06,
+        "end": 95.58
+      },
+      {
+        "i": 258,
+        "word": "export",
+        "start": 96.06,
+        "end": 96.46
+      },
+      {
+        "i": 259,
+        "word": "that",
+        "start": 96.46,
+        "end": 96.7
+      },
+      {
+        "i": 260,
+        "word": "page",
+        "start": 96.7,
+        "end": 96.96
+      },
+      {
+        "i": 261,
+        "word": "again,",
+        "start": 96.96,
+        "end": 97.3
+      },
+      {
+        "i": 262,
+        "word": "and",
+        "start": 97.72,
+        "end": 97.84
+      },
+      {
+        "i": 263,
+        "word": "replace",
+        "start": 97.84,
+        "end": 98.14
+      },
+      {
+        "i": 264,
+        "word": "the",
+        "start": 98.14,
+        "end": 98.36
+      },
+      {
+        "i": 265,
+        "word": "picture.",
+        "start": 98.36,
+        "end": 98.68
       }
     ]
   },
   {
     "id": 21,
-    "text": "Your QR code is now ready to share.",
-    "start": 84.66,
-    "end": 86.32,
+    "text": "You now have a semi-donut graphic ready for a presentation, report, or infographic.",
+    "start": 99.92,
+    "end": 104.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      254,
-      261
+      266,
+      279
     ],
     "words": [
       {
-        "i": 254,
-        "word": "Your",
-        "start": 84.66,
-        "end": 84.76
+        "i": 266,
+        "word": "You",
+        "start": 99.92,
+        "end": 100.2
       },
       {
-        "i": 255,
-        "word": "QR",
-        "start": 84.76,
-        "end": 85.02
-      },
-      {
-        "i": 256,
-        "word": "code",
-        "start": 85.02,
-        "end": 85.32
-      },
-      {
-        "i": 257,
-        "word": "is",
-        "start": 85.32,
-        "end": 85.5
-      },
-      {
-        "i": 258,
+        "i": 267,
         "word": "now",
-        "start": 85.5,
-        "end": 85.66
+        "start": 100.2,
+        "end": 100.36
       },
       {
-        "i": 259,
+        "i": 268,
+        "word": "have",
+        "start": 100.36,
+        "end": 100.52
+      },
+      {
+        "i": 269,
+        "word": "a",
+        "start": 100.52,
+        "end": 100.66
+      },
+      {
+        "i": 270,
+        "word": "semi",
+        "start": 100.66,
+        "end": 100.92
+      },
+      {
+        "i": 271,
+        "word": "-donut",
+        "start": 100.92,
+        "end": 101.26
+      },
+      {
+        "i": 272,
+        "word": "graphic",
+        "start": 101.26,
+        "end": 101.6
+      },
+      {
+        "i": 273,
         "word": "ready",
-        "start": 85.66,
-        "end": 85.82
+        "start": 101.6,
+        "end": 101.84
       },
       {
-        "i": 260,
-        "word": "to",
-        "start": 85.82,
-        "end": 86.06
+        "i": 274,
+        "word": "for",
+        "start": 101.84,
+        "end": 102.02
       },
       {
-        "i": 261,
-        "word": "share.",
-        "start": 86.06,
-        "end": 86.32
+        "i": 275,
+        "word": "a",
+        "start": 102.02,
+        "end": 102.14
+      },
+      {
+        "i": 276,
+        "word": "presentation,",
+        "start": 102.14,
+        "end": 102.56
+      },
+      {
+        "i": 277,
+        "word": "report,",
+        "start": 103.02,
+        "end": 103.36
+      },
+      {
+        "i": 278,
+        "word": "or",
+        "start": 103.66,
+        "end": 103.78
+      },
+      {
+        "i": 279,
+        "word": "infographic.",
+        "start": 103.78,
+        "end": 104.2
       }
     ]
   }
