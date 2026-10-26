@@ -1,0 +1,286 @@
+{
+ "recording": {
+  "width": 3420,
+  "height": 1922,
+  "fps": 30,
+  "duration": 116.9
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 8.93,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Canva editor with the finished star/circle/plant design",
+   "result": "recorder zooms into the editor, then navigates to Canva home",
+   "t_result_visible": 11.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 14.0,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Create button on Canva home",
+   "result": "home page loads, Create a design dialog opens",
+   "t_result_visible": 16.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 19.3,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Document (A4) tile in Create a design",
+   "result": "new blank A4 design loads",
+   "t_result_visible": 24.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 28.2,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Elements tab",
+   "result": "Elements panel opens",
+   "t_result_visible": 29.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 30.5,
+   "x": 1710,
+   "y": 961,
+   "kind": "type",
+   "target": "search elements: sticker",
+   "result": "star/graphics results",
+   "t_result_visible": 33.0,
+   "confidence": "medium",
+   "text": "search elements: sticker"
+  },
+  {
+   "id": "A6",
+   "t_click": 34.0,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "star graphic in results",
+   "result": "star added to the page, big",
+   "t_result_visible": 34.8,
+   "confidence": "high"
+  },
+  {
+   "id": "A7",
+   "t_click": 35.8,
+   "x": 1710,
+   "y": 961,
+   "kind": "drag",
+   "target": "star corner handle",
+   "result": "star resized small, dragged to top-left",
+   "t_result_visible": 38.0,
+   "confidence": "high",
+   "x2": 1720,
+   "y2": 971,
+   "t_end": 38.0
+  },
+  {
+   "id": "A8",
+   "t_click": 42.0,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "circle graphic in results",
+   "result": "circle added, then resized and dragged down",
+   "t_result_visible": 45.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A9",
+   "t_click": 49.8,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "plant graphic",
+   "result": "plant added, resized, moved beside the circle",
+   "t_result_visible": 54.5,
+   "confidence": "high"
+  },
+  {
+   "id": "A10",
+   "t_click": 56.5,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Text tab",
+   "result": "text panel with Add a heading",
+   "t_result_visible": 58.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 59.0,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Add a heading",
+   "result": "text box on the page, typed 'star' on the star (62-69)",
+   "t_result_visible": 69.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 70.2,
+   "x": 1710,
+   "y": 961,
+   "kind": "type",
+   "target": "text on circle",
+   "result": "star text retyped to 'circle' and placed on the circle",
+   "t_result_visible": 74.0,
+   "confidence": "medium",
+   "text": "text on circle"
+  },
+  {
+   "id": "A13",
+   "t_click": 77.4,
+   "x": 1710,
+   "y": 961,
+   "kind": "drag",
+   "target": "drag-select circle + text",
+   "result": "circle and text selected",
+   "t_result_visible": 78.5,
+   "confidence": "medium",
+   "x2": 1720,
+   "y2": 971,
+   "t_end": 78.5
+  },
+  {
+   "id": "A14",
+   "t_click": 79.8,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Group button",
+   "result": "circle+text grouped (Ungroup shown)",
+   "t_result_visible": 80.5,
+   "confidence": "high"
+  },
+  {
+   "id": "A15",
+   "t_click": 82.4,
+   "x": 1710,
+   "y": 961,
+   "kind": "drag",
+   "target": "drag-select star + plant",
+   "result": "star text and plant multi-selected",
+   "t_result_visible": 84.5,
+   "confidence": "medium",
+   "x2": 1720,
+   "y2": 971,
+   "t_end": 84.5
+  },
+  {
+   "id": "A16",
+   "t_click": 88.0,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Group button",
+   "result": "star+text grouped (Ungroup shown)",
+   "t_result_visible": 89.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A17",
+   "t_click": 90.0,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "circle group",
+   "result": "circle selected, view zooms out to the whole page",
+   "t_result_visible": 93.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 94.5,
+   "x": 1710,
+   "y": 961,
+   "kind": "scroll",
+   "target": "zoom on star and plant",
+   "result": "zoom/check of the layout",
+   "t_result_visible": 96.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A19",
+   "t_click": 98.0,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Duplicate page button",
+   "result": "page 2 and page 3 created",
+   "t_result_visible": 100.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A20",
+   "t_click": 106.2,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share design panel opens",
+   "t_result_visible": 107.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A21",
+   "t_click": 108.8,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Download in Share panel",
+   "result": "download settings: PDF Standard, toggles",
+   "t_result_visible": 109.6,
+   "confidence": "high"
+  },
+  {
+   "id": "A22",
+   "t_click": 112.6,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Download button",
+   "result": "PDF downloading chip at the bottom",
+   "t_result_visible": 114.0,
+   "confidence": "high"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0.0,
+   "end": 8.93,
+   "reason": "static finished design, cursor only (only the last 2.4 s are used as the opening)",
+   "ff": true
+  },
+  {
+   "start": 102.1,
+   "end": 105.6,
+   "reason": "page bar idle",
+   "ff": true
+  },
+  {
+   "start": 114.37,
+   "end": 116.9,
+   "reason": "download finished, idle",
+   "ff": true
+  }
+ ]
+}
