@@ -1,1888 +1,1987 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to build and publish a portfolio website in Canva.",
+    "text": "This tutorial shows you how to design a small printable calendar in Canva for a desk insert, planner, or gift.",
     "start": 0.0,
-    "end": 4.38,
+    "end": 7.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      13
+      19
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.22
+        "end": 0.26
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.22,
-        "end": 0.6
+        "start": 0.26,
+        "end": 0.66
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.6,
-        "end": 1.0
+        "start": 0.66,
+        "end": 1.12
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.0,
-        "end": 1.18
+        "start": 1.12,
+        "end": 1.34
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.18,
-        "end": 1.3
+        "start": 1.34,
+        "end": 1.48
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.3,
-        "end": 1.48
+        "start": 1.48,
+        "end": 1.64
       },
       {
         "i": 6,
-        "word": "build",
-        "start": 1.48,
-        "end": 1.68
+        "word": "design",
+        "start": 1.64,
+        "end": 1.94
       },
       {
         "i": 7,
-        "word": "and",
-        "start": 1.68,
-        "end": 1.98
+        "word": "a",
+        "start": 1.94,
+        "end": 2.14
       },
       {
         "i": 8,
-        "word": "publish",
-        "start": 1.98,
-        "end": 2.32
+        "word": "small",
+        "start": 2.14,
+        "end": 2.48
       },
       {
         "i": 9,
-        "word": "a",
-        "start": 2.32,
-        "end": 2.58
+        "word": "printable",
+        "start": 2.48,
+        "end": 3.02
       },
       {
         "i": 10,
-        "word": "portfolio",
-        "start": 2.58,
-        "end": 3.06
+        "word": "calendar",
+        "start": 3.02,
+        "end": 3.34
       },
       {
         "i": 11,
-        "word": "website",
-        "start": 3.06,
-        "end": 3.62
+        "word": "in",
+        "start": 3.34,
+        "end": 3.7
       },
       {
         "i": 12,
-        "word": "in",
-        "start": 3.62,
-        "end": 3.98
+        "word": "Canva",
+        "start": 3.7,
+        "end": 4.16
       },
       {
         "i": 13,
-        "word": "Canva.",
-        "start": 3.98,
-        "end": 4.38
+        "word": "for",
+        "start": 4.16,
+        "end": 4.36
+      },
+      {
+        "i": 14,
+        "word": "a",
+        "start": 4.36,
+        "end": 4.54
+      },
+      {
+        "i": 15,
+        "word": "desk",
+        "start": 4.54,
+        "end": 4.76
+      },
+      {
+        "i": 16,
+        "word": "insert,",
+        "start": 4.76,
+        "end": 5.32
+      },
+      {
+        "i": 17,
+        "word": "planner,",
+        "start": 6.12,
+        "end": 6.12
+      },
+      {
+        "i": 18,
+        "word": "or",
+        "start": 6.46,
+        "end": 6.72
+      },
+      {
+        "i": 19,
+        "word": "gift.",
+        "start": 6.72,
+        "end": 7.02
       }
     ]
   },
   {
     "id": 2,
-    "text": "From Canva's homepage, search for portfolio website.",
-    "start": 4.88,
-    "end": 7.74,
+    "text": "Decide the finished size first.",
+    "start": 7.94,
+    "end": 9.46,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      14,
-      20
+      20,
+      24
     ],
     "words": [
       {
-        "i": 14,
-        "word": "From",
-        "start": 4.88,
-        "end": 5.1
-      },
-      {
-        "i": 15,
-        "word": "Canva's",
-        "start": 5.1,
-        "end": 5.58
-      },
-      {
-        "i": 16,
-        "word": "homepage,",
-        "start": 5.58,
-        "end": 5.92
-      },
-      {
-        "i": 17,
-        "word": "search",
-        "start": 6.26,
-        "end": 6.48
-      },
-      {
-        "i": 18,
-        "word": "for",
-        "start": 6.48,
-        "end": 6.76
-      },
-      {
-        "i": 19,
-        "word": "portfolio",
-        "start": 6.76,
-        "end": 7.18
-      },
-      {
         "i": 20,
-        "word": "website.",
-        "start": 7.18,
-        "end": 7.74
+        "word": "Decide",
+        "start": 7.94,
+        "end": 8.2
+      },
+      {
+        "i": 21,
+        "word": "the",
+        "start": 8.2,
+        "end": 8.36
+      },
+      {
+        "i": 22,
+        "word": "finished",
+        "start": 8.36,
+        "end": 8.6
+      },
+      {
+        "i": 23,
+        "word": "size",
+        "start": 8.6,
+        "end": 8.92
+      },
+      {
+        "i": 24,
+        "word": "first.",
+        "start": 8.92,
+        "end": 9.46
       }
     ]
   },
   {
     "id": 3,
-    "text": "Choose a website template and open it in the editor.",
-    "start": 8.36,
-    "end": 11.16,
+    "text": "For this example, use a portrait calendar that is 90mm wide and 120mm high.",
+    "start": 9.9,
+    "end": 16.0,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      21,
-      30
+      25,
+      38
     ],
     "words": [
       {
-        "i": 21,
-        "word": "Choose",
-        "start": 8.36,
-        "end": 8.64
-      },
-      {
-        "i": 22,
-        "word": "a",
-        "start": 8.64,
-        "end": 8.82
-      },
-      {
-        "i": 23,
-        "word": "website",
-        "start": 8.82,
-        "end": 9.14
-      },
-      {
-        "i": 24,
-        "word": "template",
-        "start": 9.14,
-        "end": 9.54
-      },
-      {
         "i": 25,
-        "word": "and",
-        "start": 9.54,
-        "end": 9.94
+        "word": "For",
+        "start": 9.9,
+        "end": 10.08
       },
       {
         "i": 26,
-        "word": "open",
-        "start": 9.94,
-        "end": 10.26
+        "word": "this",
+        "start": 10.08,
+        "end": 10.22
       },
       {
         "i": 27,
-        "word": "it",
-        "start": 10.26,
-        "end": 10.46
+        "word": "example,",
+        "start": 10.22,
+        "end": 10.66
       },
       {
         "i": 28,
-        "word": "in",
-        "start": 10.46,
-        "end": 10.68
+        "word": "use",
+        "start": 10.88,
+        "end": 10.98
       },
       {
         "i": 29,
-        "word": "the",
-        "start": 10.68,
-        "end": 10.82
+        "word": "a",
+        "start": 10.98,
+        "end": 11.16
       },
       {
         "i": 30,
-        "word": "editor.",
-        "start": 10.82,
-        "end": 11.16
+        "word": "portrait",
+        "start": 11.16,
+        "end": 11.46
+      },
+      {
+        "i": 31,
+        "word": "calendar",
+        "start": 11.46,
+        "end": 11.94
+      },
+      {
+        "i": 32,
+        "word": "that",
+        "start": 11.94,
+        "end": 12.2
+      },
+      {
+        "i": 33,
+        "word": "is",
+        "start": 12.2,
+        "end": 12.34
+      },
+      {
+        "i": 34,
+        "word": "90mm",
+        "start": 12.34,
+        "end": 13.1
+      },
+      {
+        "i": 35,
+        "word": "wide",
+        "start": 13.1,
+        "end": 13.64
+      },
+      {
+        "i": 36,
+        "word": "and",
+        "start": 13.64,
+        "end": 13.94
+      },
+      {
+        "i": 37,
+        "word": "120mm",
+        "start": 13.94,
+        "end": 15.32
+      },
+      {
+        "i": 38,
+        "word": "high.",
+        "start": 15.32,
+        "end": 16.0
       }
     ]
   },
   {
     "id": 4,
-    "text": "Replace the sample introduction with your name, what you do, and the type of work you want people to hire you for.",
-    "start": 11.9,
-    "end": 17.44,
+    "text": "Create a custom design using those dimensions.",
+    "start": 16.4,
+    "end": 18.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      31,
-      52
+      39,
+      45
     ],
     "words": [
       {
-        "i": 31,
-        "word": "Replace",
-        "start": 11.9,
-        "end": 12.1
-      },
-      {
-        "i": 32,
-        "word": "the",
-        "start": 12.1,
-        "end": 12.34
-      },
-      {
-        "i": 33,
-        "word": "sample",
-        "start": 12.34,
-        "end": 12.6
-      },
-      {
-        "i": 34,
-        "word": "introduction",
-        "start": 12.6,
-        "end": 13.12
-      },
-      {
-        "i": 35,
-        "word": "with",
-        "start": 13.12,
-        "end": 13.38
-      },
-      {
-        "i": 36,
-        "word": "your",
-        "start": 13.38,
-        "end": 13.54
-      },
-      {
-        "i": 37,
-        "word": "name,",
-        "start": 13.54,
-        "end": 13.82
-      },
-      {
-        "i": 38,
-        "word": "what",
-        "start": 14.1,
-        "end": 14.3
-      },
-      {
         "i": 39,
-        "word": "you",
-        "start": 14.3,
-        "end": 14.48
+        "word": "Create",
+        "start": 16.4,
+        "end": 16.76
       },
       {
         "i": 40,
-        "word": "do,",
-        "start": 14.48,
-        "end": 14.72
+        "word": "a",
+        "start": 16.76,
+        "end": 16.96
       },
       {
         "i": 41,
-        "word": "and",
-        "start": 14.94,
-        "end": 15.18
+        "word": "custom",
+        "start": 16.96,
+        "end": 17.18
       },
       {
         "i": 42,
-        "word": "the",
-        "start": 15.18,
-        "end": 15.28
+        "word": "design",
+        "start": 17.18,
+        "end": 17.58
       },
       {
         "i": 43,
-        "word": "type",
-        "start": 15.28,
-        "end": 15.46
+        "word": "using",
+        "start": 17.58,
+        "end": 17.88
       },
       {
         "i": 44,
-        "word": "of",
-        "start": 15.46,
-        "end": 15.62
+        "word": "those",
+        "start": 17.88,
+        "end": 18.16
       },
       {
         "i": 45,
-        "word": "work",
-        "start": 15.62,
-        "end": 15.82
-      },
-      {
-        "i": 46,
-        "word": "you",
-        "start": 15.82,
-        "end": 16.0
-      },
-      {
-        "i": 47,
-        "word": "want",
-        "start": 16.0,
-        "end": 16.16
-      },
-      {
-        "i": 48,
-        "word": "people",
-        "start": 16.16,
-        "end": 16.42
-      },
-      {
-        "i": 49,
-        "word": "to",
-        "start": 16.42,
-        "end": 16.64
-      },
-      {
-        "i": 50,
-        "word": "hire",
-        "start": 16.64,
-        "end": 16.9
-      },
-      {
-        "i": 51,
-        "word": "you",
-        "start": 16.9,
-        "end": 17.14
-      },
-      {
-        "i": 52,
-        "word": "for.",
-        "start": 17.14,
-        "end": 17.44
+        "word": "dimensions.",
+        "start": 18.16,
+        "end": 18.7
       }
     ]
   },
   {
     "id": 5,
-    "text": "Keep the opening short so visitors can reach your projects quickly.",
-    "start": 17.98,
-    "end": 20.82,
+    "text": "In another Canva tab, search the templates for monthly calendar.",
+    "start": 19.44,
+    "end": 22.66,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      53,
-      63
+      46,
+      55
     ],
     "words": [
       {
+        "i": 46,
+        "word": "In",
+        "start": 19.44,
+        "end": 19.6
+      },
+      {
+        "i": 47,
+        "word": "another",
+        "start": 19.6,
+        "end": 19.86
+      },
+      {
+        "i": 48,
+        "word": "Canva",
+        "start": 19.86,
+        "end": 20.26
+      },
+      {
+        "i": 49,
+        "word": "tab,",
+        "start": 20.26,
+        "end": 20.54
+      },
+      {
+        "i": 50,
+        "word": "search",
+        "start": 20.8,
+        "end": 21.08
+      },
+      {
+        "i": 51,
+        "word": "the",
+        "start": 21.08,
+        "end": 21.3
+      },
+      {
+        "i": 52,
+        "word": "templates",
+        "start": 21.3,
+        "end": 21.6
+      },
+      {
         "i": 53,
-        "word": "Keep",
-        "start": 17.98,
-        "end": 18.18
+        "word": "for",
+        "start": 21.6,
+        "end": 21.92
       },
       {
         "i": 54,
-        "word": "the",
-        "start": 18.18,
-        "end": 18.32
+        "word": "monthly",
+        "start": 21.92,
+        "end": 22.18
       },
       {
         "i": 55,
-        "word": "opening",
-        "start": 18.32,
-        "end": 18.56
-      },
-      {
-        "i": 56,
-        "word": "short",
-        "start": 18.56,
-        "end": 18.9
-      },
-      {
-        "i": 57,
-        "word": "so",
-        "start": 18.9,
-        "end": 19.16
-      },
-      {
-        "i": 58,
-        "word": "visitors",
-        "start": 19.16,
-        "end": 19.42
-      },
-      {
-        "i": 59,
-        "word": "can",
-        "start": 19.42,
-        "end": 19.68
-      },
-      {
-        "i": 60,
-        "word": "reach",
-        "start": 19.68,
-        "end": 19.88
-      },
-      {
-        "i": 61,
-        "word": "your",
-        "start": 19.88,
-        "end": 20.06
-      },
-      {
-        "i": 62,
-        "word": "projects",
-        "start": 20.06,
-        "end": 20.36
-      },
-      {
-        "i": 63,
-        "word": "quickly.",
-        "start": 20.36,
-        "end": 20.82
+        "word": "calendar.",
+        "start": 22.18,
+        "end": 22.66
       }
     ]
   },
   {
     "id": 6,
-    "text": "Upload a small selection of your best work.",
-    "start": 21.52,
-    "end": 23.32,
+    "text": "Choose a simple layout with a clear date grid.",
+    "start": 23.16,
+    "end": 25.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      64,
-      71
+      56,
+      64
     ],
     "words": [
       {
-        "i": 64,
-        "word": "Upload",
-        "start": 21.52,
-        "end": 21.72
+        "i": 56,
+        "word": "Choose",
+        "start": 23.16,
+        "end": 23.38
       },
       {
-        "i": 65,
+        "i": 57,
         "word": "a",
-        "start": 21.72,
-        "end": 21.9
+        "start": 23.38,
+        "end": 23.58
       },
       {
-        "i": 66,
-        "word": "small",
-        "start": 21.9,
-        "end": 22.12
+        "i": 58,
+        "word": "simple",
+        "start": 23.58,
+        "end": 23.86
       },
       {
-        "i": 67,
-        "word": "selection",
-        "start": 22.12,
-        "end": 22.46
+        "i": 59,
+        "word": "layout",
+        "start": 23.86,
+        "end": 24.12
       },
       {
-        "i": 68,
-        "word": "of",
-        "start": 22.46,
-        "end": 22.66
+        "i": 60,
+        "word": "with",
+        "start": 24.12,
+        "end": 24.4
       },
       {
-        "i": 69,
-        "word": "your",
-        "start": 22.66,
-        "end": 22.8
+        "i": 61,
+        "word": "a",
+        "start": 24.4,
+        "end": 24.52
       },
       {
-        "i": 70,
-        "word": "best",
-        "start": 22.8,
-        "end": 23.0
+        "i": 62,
+        "word": "clear",
+        "start": 24.52,
+        "end": 24.78
       },
       {
-        "i": 71,
-        "word": "work.",
-        "start": 23.0,
-        "end": 23.32
+        "i": 63,
+        "word": "date",
+        "start": 24.78,
+        "end": 25.0
+      },
+      {
+        "i": 64,
+        "word": "grid.",
+        "start": 25.0,
+        "end": 25.36
       }
     ]
   },
   {
     "id": 7,
-    "text": "For each project, add a clear title, a short description, and the part you are responsible for.",
-    "start": 23.86,
-    "end": 28.82,
+    "text": "Open it, select the calendar elements, copy them, and paste them into your custom size design.",
+    "start": 25.88,
+    "end": 31.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      72,
-      88
+      65,
+      80
     ],
     "words": [
       {
+        "i": 65,
+        "word": "Open",
+        "start": 25.88,
+        "end": 26.2
+      },
+      {
+        "i": 66,
+        "word": "it,",
+        "start": 26.2,
+        "end": 26.44
+      },
+      {
+        "i": 67,
+        "word": "select",
+        "start": 26.84,
+        "end": 27.06
+      },
+      {
+        "i": 68,
+        "word": "the",
+        "start": 27.06,
+        "end": 27.3
+      },
+      {
+        "i": 69,
+        "word": "calendar",
+        "start": 27.3,
+        "end": 27.5
+      },
+      {
+        "i": 70,
+        "word": "elements,",
+        "start": 27.5,
+        "end": 27.98
+      },
+      {
+        "i": 71,
+        "word": "copy",
+        "start": 28.46,
+        "end": 28.58
+      },
+      {
         "i": 72,
-        "word": "For",
-        "start": 23.86,
-        "end": 24.0
+        "word": "them,",
+        "start": 28.58,
+        "end": 28.86
       },
       {
         "i": 73,
-        "word": "each",
-        "start": 24.0,
-        "end": 24.14
+        "word": "and",
+        "start": 29.22,
+        "end": 29.38
       },
       {
         "i": 74,
-        "word": "project,",
-        "start": 24.14,
-        "end": 24.52
+        "word": "paste",
+        "start": 29.38,
+        "end": 29.62
       },
       {
         "i": 75,
-        "word": "add",
-        "start": 24.82,
-        "end": 25.02
+        "word": "them",
+        "start": 29.62,
+        "end": 29.86
       },
       {
         "i": 76,
-        "word": "a",
-        "start": 25.02,
-        "end": 25.12
+        "word": "into",
+        "start": 29.86,
+        "end": 30.02
       },
       {
         "i": 77,
-        "word": "clear",
-        "start": 25.12,
-        "end": 25.3
+        "word": "your",
+        "start": 30.02,
+        "end": 30.18
       },
       {
         "i": 78,
-        "word": "title,",
-        "start": 25.3,
-        "end": 25.68
+        "word": "custom",
+        "start": 30.18,
+        "end": 30.5
       },
       {
         "i": 79,
-        "word": "a",
-        "start": 26.0,
-        "end": 26.14
+        "word": "size",
+        "start": 30.5,
+        "end": 30.78
       },
       {
         "i": 80,
-        "word": "short",
-        "start": 26.14,
-        "end": 26.34
-      },
-      {
-        "i": 81,
-        "word": "description,",
-        "start": 26.34,
-        "end": 26.72
-      },
-      {
-        "i": 82,
-        "word": "and",
-        "start": 27.1,
-        "end": 27.36
-      },
-      {
-        "i": 83,
-        "word": "the",
-        "start": 27.36,
-        "end": 27.46
-      },
-      {
-        "i": 84,
-        "word": "part",
-        "start": 27.46,
-        "end": 27.66
-      },
-      {
-        "i": 85,
-        "word": "you",
-        "start": 27.66,
-        "end": 27.8
-      },
-      {
-        "i": 86,
-        "word": "are",
-        "start": 27.8,
-        "end": 27.92
-      },
-      {
-        "i": 87,
-        "word": "responsible",
-        "start": 27.92,
-        "end": 28.28
-      },
-      {
-        "i": 88,
-        "word": "for.",
-        "start": 28.28,
-        "end": 28.82
+        "word": "design.",
+        "start": 30.78,
+        "end": 31.34
       }
     ]
   },
   {
     "id": 8,
-    "text": "Show enough detail to explain the result without filling the page with unrelated examples.",
-    "start": 29.44,
-    "end": 33.8,
+    "text": "Group the date grid before resizing it with a corner handle.",
+    "start": 32.18,
+    "end": 35.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      89,
-      102
+      81,
+      91
     ],
     "words": [
       {
+        "i": 81,
+        "word": "Group",
+        "start": 32.18,
+        "end": 32.34
+      },
+      {
+        "i": 82,
+        "word": "the",
+        "start": 32.34,
+        "end": 32.56
+      },
+      {
+        "i": 83,
+        "word": "date",
+        "start": 32.56,
+        "end": 32.74
+      },
+      {
+        "i": 84,
+        "word": "grid",
+        "start": 32.74,
+        "end": 33.0
+      },
+      {
+        "i": 85,
+        "word": "before",
+        "start": 33.0,
+        "end": 33.36
+      },
+      {
+        "i": 86,
+        "word": "resizing",
+        "start": 33.36,
+        "end": 33.9
+      },
+      {
+        "i": 87,
+        "word": "it",
+        "start": 33.9,
+        "end": 34.12
+      },
+      {
+        "i": 88,
+        "word": "with",
+        "start": 34.12,
+        "end": 34.26
+      },
+      {
         "i": 89,
-        "word": "Show",
-        "start": 29.44,
-        "end": 29.72
+        "word": "a",
+        "start": 34.26,
+        "end": 34.38
       },
       {
         "i": 90,
-        "word": "enough",
-        "start": 29.72,
-        "end": 29.94
+        "word": "corner",
+        "start": 34.38,
+        "end": 34.62
       },
       {
         "i": 91,
-        "word": "detail",
-        "start": 29.94,
-        "end": 30.28
-      },
-      {
-        "i": 92,
-        "word": "to",
-        "start": 30.28,
-        "end": 30.5
-      },
-      {
-        "i": 93,
-        "word": "explain",
-        "start": 30.5,
-        "end": 30.92
-      },
-      {
-        "i": 94,
-        "word": "the",
-        "start": 30.92,
-        "end": 31.08
-      },
-      {
-        "i": 95,
-        "word": "result",
-        "start": 31.08,
-        "end": 31.36
-      },
-      {
-        "i": 96,
-        "word": "without",
-        "start": 31.36,
-        "end": 31.68
-      },
-      {
-        "i": 97,
-        "word": "filling",
-        "start": 31.68,
-        "end": 31.96
-      },
-      {
-        "i": 98,
-        "word": "the",
-        "start": 31.96,
-        "end": 32.16
-      },
-      {
-        "i": 99,
-        "word": "page",
-        "start": 32.16,
-        "end": 32.4
-      },
-      {
-        "i": 100,
-        "word": "with",
-        "start": 32.4,
-        "end": 32.64
-      },
-      {
-        "i": 101,
-        "word": "unrelated",
-        "start": 32.64,
-        "end": 33.1
-      },
-      {
-        "i": 102,
-        "word": "examples.",
-        "start": 33.1,
-        "end": 33.8
+        "word": "handle.",
+        "start": 34.62,
+        "end": 35.06
       }
     ]
   },
   {
     "id": 9,
-    "text": "Use Add section to place more content on the same page.",
-    "start": 34.6,
-    "end": 37.48,
+    "text": "Position it in the lower part of the page and leave room for a photo or illustration above.",
+    "start": 35.7,
+    "end": 39.6,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      103,
-      113
+      92,
+      109
     ],
     "words": [
       {
-        "i": 103,
-        "word": "Use",
-        "start": 34.6,
-        "end": 34.74
+        "i": 92,
+        "word": "Position",
+        "start": 35.7,
+        "end": 35.86
       },
       {
-        "i": 104,
-        "word": "Add",
-        "start": 34.74,
-        "end": 35.02
+        "i": 93,
+        "word": "it",
+        "start": 35.86,
+        "end": 36.06
       },
       {
-        "i": 105,
-        "word": "section",
-        "start": 35.02,
-        "end": 35.26
+        "i": 94,
+        "word": "in",
+        "start": 36.06,
+        "end": 36.2
       },
       {
-        "i": 106,
-        "word": "to",
-        "start": 35.26,
-        "end": 35.64
+        "i": 95,
+        "word": "the",
+        "start": 36.2,
+        "end": 36.32
       },
       {
-        "i": 107,
-        "word": "place",
-        "start": 35.64,
-        "end": 35.82
+        "i": 96,
+        "word": "lower",
+        "start": 36.32,
+        "end": 36.46
       },
       {
-        "i": 108,
-        "word": "more",
-        "start": 35.82,
-        "end": 36.12
-      },
-      {
-        "i": 109,
-        "word": "content",
-        "start": 36.12,
-        "end": 36.48
-      },
-      {
-        "i": 110,
-        "word": "on",
-        "start": 36.48,
+        "i": 97,
+        "word": "part",
+        "start": 36.46,
         "end": 36.72
       },
       {
-        "i": 111,
-        "word": "the",
+        "i": 98,
+        "word": "of",
         "start": 36.72,
         "end": 36.84
       },
       {
-        "i": 112,
-        "word": "same",
+        "i": 99,
+        "word": "the",
         "start": 36.84,
-        "end": 37.06
+        "end": 36.94
       },
       {
-        "i": 113,
-        "word": "page.",
-        "start": 37.06,
-        "end": 37.48
+        "i": 100,
+        "word": "page",
+        "start": 36.94,
+        "end": 37.2
+      },
+      {
+        "i": 101,
+        "word": "and",
+        "start": 37.2,
+        "end": 37.46
+      },
+      {
+        "i": 102,
+        "word": "leave",
+        "start": 37.46,
+        "end": 37.66
+      },
+      {
+        "i": 103,
+        "word": "room",
+        "start": 37.66,
+        "end": 37.88
+      },
+      {
+        "i": 104,
+        "word": "for",
+        "start": 37.88,
+        "end": 38.1
+      },
+      {
+        "i": 105,
+        "word": "a",
+        "start": 38.1,
+        "end": 38.22
+      },
+      {
+        "i": 106,
+        "word": "photo",
+        "start": 38.22,
+        "end": 38.46
+      },
+      {
+        "i": 107,
+        "word": "or",
+        "start": 38.46,
+        "end": 38.7
+      },
+      {
+        "i": 108,
+        "word": "illustration",
+        "start": 38.7,
+        "end": 39.18
+      },
+      {
+        "i": 109,
+        "word": "above.",
+        "start": 39.18,
+        "end": 39.6
       }
     ]
   },
   {
     "id": 10,
-    "text": "If you want separate work, about, or contact pages, use Add page instead.",
-    "start": 38.1,
-    "end": 42.52,
+    "text": "Change the month and year.",
+    "start": 40.36,
+    "end": 41.44,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      114,
-      126
+      110,
+      114
     ],
     "words": [
       {
+        "i": 110,
+        "word": "Change",
+        "start": 40.36,
+        "end": 40.58
+      },
+      {
+        "i": 111,
+        "word": "the",
+        "start": 40.58,
+        "end": 40.74
+      },
+      {
+        "i": 112,
+        "word": "month",
+        "start": 40.74,
+        "end": 40.9
+      },
+      {
+        "i": 113,
+        "word": "and",
+        "start": 40.9,
+        "end": 41.14
+      },
+      {
         "i": 114,
-        "word": "If",
-        "start": 38.1,
-        "end": 38.22
-      },
-      {
-        "i": 115,
-        "word": "you",
-        "start": 38.22,
-        "end": 38.34
-      },
-      {
-        "i": 116,
-        "word": "want",
-        "start": 38.34,
-        "end": 38.48
-      },
-      {
-        "i": 117,
-        "word": "separate",
-        "start": 38.48,
-        "end": 38.82
-      },
-      {
-        "i": 118,
-        "word": "work,",
-        "start": 38.82,
-        "end": 39.18
-      },
-      {
-        "i": 119,
-        "word": "about,",
-        "start": 39.32,
-        "end": 39.56
-      },
-      {
-        "i": 120,
-        "word": "or",
-        "start": 39.82,
-        "end": 39.94
-      },
-      {
-        "i": 121,
-        "word": "contact",
-        "start": 39.94,
-        "end": 40.28
-      },
-      {
-        "i": 122,
-        "word": "pages,",
-        "start": 40.28,
-        "end": 40.78
-      },
-      {
-        "i": 123,
-        "word": "use",
-        "start": 41.3,
-        "end": 41.42
-      },
-      {
-        "i": 124,
-        "word": "Add",
-        "start": 41.42,
-        "end": 41.74
-      },
-      {
-        "i": 125,
-        "word": "page",
-        "start": 41.74,
-        "end": 41.98
-      },
-      {
-        "i": 126,
-        "word": "instead.",
-        "start": 41.98,
-        "end": 42.52
+        "word": "year.",
+        "start": 41.14,
+        "end": 41.44
       }
     ]
   },
   {
     "id": 11,
-    "text": "Add a contact button and use Link to connect it to your contact page or another destination.",
-    "start": 43.38,
-    "end": 47.64,
+    "text": "Check the weekday headings.",
+    "start": 42.04,
+    "end": 43.18,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      127,
-      143
+      115,
+      118
     ],
     "words": [
       {
-        "i": 127,
-        "word": "Add",
-        "start": 43.38,
-        "end": 43.52
+        "i": 115,
+        "word": "Check",
+        "start": 42.04,
+        "end": 42.22
       },
       {
-        "i": 128,
-        "word": "a",
-        "start": 43.52,
-        "end": 43.64
+        "i": 116,
+        "word": "the",
+        "start": 42.22,
+        "end": 42.4
       },
       {
-        "i": 129,
-        "word": "contact",
-        "start": 43.64,
-        "end": 43.92
+        "i": 117,
+        "word": "weekday",
+        "start": 42.4,
+        "end": 42.68
       },
       {
-        "i": 130,
-        "word": "button",
-        "start": 43.92,
-        "end": 44.24
-      },
-      {
-        "i": 131,
-        "word": "and",
-        "start": 44.24,
-        "end": 44.66
-      },
-      {
-        "i": 132,
-        "word": "use",
-        "start": 44.66,
-        "end": 44.9
-      },
-      {
-        "i": 133,
-        "word": "Link",
-        "start": 44.9,
-        "end": 45.14
-      },
-      {
-        "i": 134,
-        "word": "to",
-        "start": 45.14,
-        "end": 45.36
-      },
-      {
-        "i": 135,
-        "word": "connect",
-        "start": 45.36,
-        "end": 45.58
-      },
-      {
-        "i": 136,
-        "word": "it",
-        "start": 45.58,
-        "end": 45.74
-      },
-      {
-        "i": 137,
-        "word": "to",
-        "start": 45.74,
-        "end": 45.84
-      },
-      {
-        "i": 138,
-        "word": "your",
-        "start": 45.84,
-        "end": 45.96
-      },
-      {
-        "i": 139,
-        "word": "contact",
-        "start": 45.96,
-        "end": 46.24
-      },
-      {
-        "i": 140,
-        "word": "page",
-        "start": 46.24,
-        "end": 46.64
-      },
-      {
-        "i": 141,
-        "word": "or",
-        "start": 46.64,
-        "end": 46.88
-      },
-      {
-        "i": 142,
-        "word": "another",
-        "start": 46.88,
-        "end": 47.16
-      },
-      {
-        "i": 143,
-        "word": "destination.",
-        "start": 47.16,
-        "end": 47.64
+        "i": 118,
+        "word": "headings.",
+        "start": 42.68,
+        "end": 43.18
       }
     ]
   },
   {
     "id": 12,
-    "text": "Keep your contact details easy to find.",
-    "start": 48.46,
-    "end": 50.52,
+    "text": "Place the first day under the correct weekday and confirm the final date of that month.",
+    "start": 43.86,
+    "end": 48.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      144,
-      150
+      119,
+      134
     ],
     "words": [
       {
-        "i": 144,
-        "word": "Keep",
-        "start": 48.46,
-        "end": 48.58
+        "i": 119,
+        "word": "Place",
+        "start": 43.86,
+        "end": 44.0
       },
       {
-        "i": 145,
-        "word": "your",
-        "start": 48.58,
-        "end": 48.72
+        "i": 120,
+        "word": "the",
+        "start": 44.0,
+        "end": 44.24
       },
       {
-        "i": 146,
-        "word": "contact",
-        "start": 48.72,
-        "end": 49.02
+        "i": 121,
+        "word": "first",
+        "start": 44.24,
+        "end": 44.44
       },
       {
-        "i": 147,
-        "word": "details",
-        "start": 49.02,
-        "end": 49.52
+        "i": 122,
+        "word": "day",
+        "start": 44.44,
+        "end": 44.74
       },
       {
-        "i": 148,
-        "word": "easy",
-        "start": 49.52,
-        "end": 49.92
+        "i": 123,
+        "word": "under",
+        "start": 44.74,
+        "end": 45.02
       },
       {
-        "i": 149,
-        "word": "to",
-        "start": 49.92,
-        "end": 50.18
+        "i": 124,
+        "word": "the",
+        "start": 45.02,
+        "end": 45.2
       },
       {
-        "i": 150,
-        "word": "find.",
-        "start": 50.18,
-        "end": 50.52
+        "i": 125,
+        "word": "correct",
+        "start": 45.2,
+        "end": 45.44
+      },
+      {
+        "i": 126,
+        "word": "weekday",
+        "start": 45.44,
+        "end": 45.92
+      },
+      {
+        "i": 127,
+        "word": "and",
+        "start": 45.92,
+        "end": 46.52
+      },
+      {
+        "i": 128,
+        "word": "confirm",
+        "start": 46.52,
+        "end": 46.88
+      },
+      {
+        "i": 129,
+        "word": "the",
+        "start": 46.88,
+        "end": 47.12
+      },
+      {
+        "i": 130,
+        "word": "final",
+        "start": 47.12,
+        "end": 47.42
+      },
+      {
+        "i": 131,
+        "word": "date",
+        "start": 47.42,
+        "end": 47.68
+      },
+      {
+        "i": 132,
+        "word": "of",
+        "start": 47.68,
+        "end": 47.86
+      },
+      {
+        "i": 133,
+        "word": "that",
+        "start": 47.86,
+        "end": 48.0
+      },
+      {
+        "i": 134,
+        "word": "month.",
+        "start": 48.0,
+        "end": 48.32
       }
     ]
   },
   {
     "id": 13,
-    "text": "Open Publish website and review settings.",
-    "start": 51.34,
-    "end": 53.28,
+    "text": "If your template uses separate text boxes for dates, update those boxes individually.",
+    "start": 48.86,
+    "end": 53.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      151,
-      156
+      135,
+      147
     ],
     "words": [
       {
-        "i": 151,
-        "word": "Open",
-        "start": 51.34,
-        "end": 51.5
+        "i": 135,
+        "word": "If",
+        "start": 48.86,
+        "end": 49.02
       },
       {
-        "i": 152,
-        "word": "Publish",
-        "start": 51.5,
-        "end": 51.82
+        "i": 136,
+        "word": "your",
+        "start": 49.02,
+        "end": 49.18
       },
       {
-        "i": 153,
-        "word": "website",
-        "start": 51.82,
-        "end": 52.2
+        "i": 137,
+        "word": "template",
+        "start": 49.18,
+        "end": 49.52
       },
       {
-        "i": 154,
-        "word": "and",
-        "start": 52.2,
-        "end": 52.52
+        "i": 138,
+        "word": "uses",
+        "start": 49.52,
+        "end": 49.9
       },
       {
-        "i": 155,
-        "word": "review",
-        "start": 52.52,
-        "end": 52.8
+        "i": 139,
+        "word": "separate",
+        "start": 49.9,
+        "end": 50.24
       },
       {
-        "i": 156,
-        "word": "settings.",
-        "start": 52.8,
-        "end": 53.28
+        "i": 140,
+        "word": "text",
+        "start": 50.24,
+        "end": 50.52
+      },
+      {
+        "i": 141,
+        "word": "boxes",
+        "start": 50.52,
+        "end": 50.76
+      },
+      {
+        "i": 142,
+        "word": "for",
+        "start": 50.76,
+        "end": 51.04
+      },
+      {
+        "i": 143,
+        "word": "dates,",
+        "start": 51.04,
+        "end": 51.28
+      },
+      {
+        "i": 144,
+        "word": "update",
+        "start": 51.76,
+        "end": 52.06
+      },
+      {
+        "i": 145,
+        "word": "those",
+        "start": 52.06,
+        "end": 52.34
+      },
+      {
+        "i": 146,
+        "word": "boxes",
+        "start": 52.34,
+        "end": 52.72
+      },
+      {
+        "i": 147,
+        "word": "individually.",
+        "start": 52.72,
+        "end": 53.3
       }
     ]
   },
   {
     "id": 14,
-    "text": "Enable navigation menu when visitors need to move between pages and turn on Resize on mobile.",
-    "start": 54.24,
-    "end": 59.46,
+    "text": "Add a small heading and your chosen photo.",
+    "start": 53.92,
+    "end": 56.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      157,
-      172
+      148,
+      155
     ],
     "words": [
       {
-        "i": 157,
-        "word": "Enable",
-        "start": 54.24,
-        "end": 54.42
+        "i": 148,
+        "word": "Add",
+        "start": 53.92,
+        "end": 54.2
       },
       {
-        "i": 158,
-        "word": "navigation",
-        "start": 54.42,
-        "end": 54.86
+        "i": 149,
+        "word": "a",
+        "start": 54.2,
+        "end": 54.32
       },
       {
-        "i": 159,
-        "word": "menu",
-        "start": 54.86,
-        "end": 55.26
+        "i": 150,
+        "word": "small",
+        "start": 54.32,
+        "end": 54.56
       },
       {
-        "i": 160,
-        "word": "when",
-        "start": 55.26,
-        "end": 55.62
+        "i": 151,
+        "word": "heading",
+        "start": 54.56,
+        "end": 54.8
       },
       {
-        "i": 161,
-        "word": "visitors",
-        "start": 55.62,
-        "end": 55.86
-      },
-      {
-        "i": 162,
-        "word": "need",
-        "start": 55.86,
-        "end": 56.14
-      },
-      {
-        "i": 163,
-        "word": "to",
-        "start": 56.14,
-        "end": 56.3
-      },
-      {
-        "i": 164,
-        "word": "move",
-        "start": 56.3,
-        "end": 56.48
-      },
-      {
-        "i": 165,
-        "word": "between",
-        "start": 56.48,
-        "end": 56.78
-      },
-      {
-        "i": 166,
-        "word": "pages",
-        "start": 56.78,
-        "end": 57.22
-      },
-      {
-        "i": 167,
+        "i": 152,
         "word": "and",
-        "start": 57.22,
-        "end": 57.84
+        "start": 54.8,
+        "end": 55.34
       },
       {
-        "i": 168,
-        "word": "turn",
-        "start": 57.84,
-        "end": 58.08
+        "i": 153,
+        "word": "your",
+        "start": 55.34,
+        "end": 55.5
       },
       {
-        "i": 169,
-        "word": "on",
-        "start": 58.08,
-        "end": 58.3
+        "i": 154,
+        "word": "chosen",
+        "start": 55.5,
+        "end": 55.78
       },
       {
-        "i": 170,
-        "word": "Resize",
-        "start": 58.3,
-        "end": 58.74
-      },
-      {
-        "i": 171,
-        "word": "on",
-        "start": 58.74,
-        "end": 59.08
-      },
-      {
-        "i": 172,
-        "word": "mobile.",
-        "start": 59.08,
-        "end": 59.46
+        "i": 155,
+        "word": "photo.",
+        "start": 55.78,
+        "end": 56.26
       }
     ]
   },
   {
     "id": 15,
-    "text": "Preview the site on desktop and mobile, checking text size, image placement, and buttons.",
-    "start": 60.32,
-    "end": 65.38,
+    "text": "Use a readable font for the numbers and keep decorations away from the date grid.",
+    "start": 57.2,
+    "end": 61.08,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      173,
-      186
+      156,
+      170
     ],
     "words": [
       {
-        "i": 173,
-        "word": "Preview",
-        "start": 60.32,
-        "end": 60.4
+        "i": 156,
+        "word": "Use",
+        "start": 57.2,
+        "end": 57.36
       },
       {
-        "i": 174,
+        "i": 157,
+        "word": "a",
+        "start": 57.36,
+        "end": 57.5
+      },
+      {
+        "i": 158,
+        "word": "readable",
+        "start": 57.5,
+        "end": 57.74
+      },
+      {
+        "i": 159,
+        "word": "font",
+        "start": 57.74,
+        "end": 58.14
+      },
+      {
+        "i": 160,
+        "word": "for",
+        "start": 58.14,
+        "end": 58.32
+      },
+      {
+        "i": 161,
         "word": "the",
-        "start": 60.4,
-        "end": 60.62
+        "start": 58.32,
+        "end": 58.44
       },
       {
-        "i": 175,
-        "word": "site",
-        "start": 60.62,
+        "i": 162,
+        "word": "numbers",
+        "start": 58.44,
+        "end": 58.68
+      },
+      {
+        "i": 163,
+        "word": "and",
+        "start": 58.68,
+        "end": 59.02
+      },
+      {
+        "i": 164,
+        "word": "keep",
+        "start": 59.02,
+        "end": 59.22
+      },
+      {
+        "i": 165,
+        "word": "decorations",
+        "start": 59.22,
+        "end": 59.78
+      },
+      {
+        "i": 166,
+        "word": "away",
+        "start": 59.78,
+        "end": 60.28
+      },
+      {
+        "i": 167,
+        "word": "from",
+        "start": 60.28,
+        "end": 60.52
+      },
+      {
+        "i": 168,
+        "word": "the",
+        "start": 60.52,
+        "end": 60.64
+      },
+      {
+        "i": 169,
+        "word": "date",
+        "start": 60.64,
         "end": 60.82
       },
       {
-        "i": 176,
-        "word": "on",
+        "i": 170,
+        "word": "grid.",
         "start": 60.82,
         "end": 61.08
-      },
-      {
-        "i": 177,
-        "word": "desktop",
-        "start": 61.08,
-        "end": 61.36
-      },
-      {
-        "i": 178,
-        "word": "and",
-        "start": 61.36,
-        "end": 61.78
-      },
-      {
-        "i": 179,
-        "word": "mobile,",
-        "start": 61.78,
-        "end": 62.2
-      },
-      {
-        "i": 180,
-        "word": "checking",
-        "start": 62.64,
-        "end": 62.92
-      },
-      {
-        "i": 181,
-        "word": "text",
-        "start": 62.92,
-        "end": 63.14
-      },
-      {
-        "i": 182,
-        "word": "size,",
-        "start": 63.14,
-        "end": 63.56
-      },
-      {
-        "i": 183,
-        "word": "image",
-        "start": 63.9,
-        "end": 64.06
-      },
-      {
-        "i": 184,
-        "word": "placement,",
-        "start": 64.06,
-        "end": 64.5
-      },
-      {
-        "i": 185,
-        "word": "and",
-        "start": 64.86,
-        "end": 64.96
-      },
-      {
-        "i": 186,
-        "word": "buttons.",
-        "start": 64.96,
-        "end": 65.38
       }
     ]
   },
   {
     "id": 16,
-    "text": "Choose a free Canva site address, customize the available address or sub-path, and publish.",
-    "start": 66.08,
-    "end": 71.22,
+    "text": "At this size, clear contrast matters more than detailed artwork.",
+    "start": 61.78,
+    "end": 64.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      187,
-      201
+      171,
+      180
     ],
     "words": [
       {
-        "i": 187,
-        "word": "Choose",
-        "start": 66.08,
-        "end": 66.24
+        "i": 171,
+        "word": "At",
+        "start": 61.78,
+        "end": 61.96
       },
       {
-        "i": 188,
-        "word": "a",
-        "start": 66.24,
-        "end": 66.4
+        "i": 172,
+        "word": "this",
+        "start": 61.96,
+        "end": 62.12
       },
       {
-        "i": 189,
-        "word": "free",
-        "start": 66.4,
-        "end": 66.64
+        "i": 173,
+        "word": "size,",
+        "start": 62.12,
+        "end": 62.46
       },
       {
-        "i": 190,
-        "word": "Canva",
-        "start": 66.64,
-        "end": 66.96
+        "i": 174,
+        "word": "clear",
+        "start": 62.72,
+        "end": 62.88
       },
       {
-        "i": 191,
-        "word": "site",
-        "start": 66.96,
-        "end": 67.16
+        "i": 175,
+        "word": "contrast",
+        "start": 62.88,
+        "end": 63.28
       },
       {
-        "i": 192,
-        "word": "address,",
-        "start": 67.16,
-        "end": 67.58
+        "i": 176,
+        "word": "matters",
+        "start": 63.28,
+        "end": 63.62
       },
       {
-        "i": 193,
-        "word": "customize",
-        "start": 68.1,
-        "end": 68.36
+        "i": 177,
+        "word": "more",
+        "start": 63.62,
+        "end": 63.88
       },
       {
-        "i": 194,
-        "word": "the",
-        "start": 68.36,
-        "end": 68.62
+        "i": 178,
+        "word": "than",
+        "start": 63.88,
+        "end": 64.06
       },
       {
-        "i": 195,
-        "word": "available",
-        "start": 68.62,
-        "end": 68.94
+        "i": 179,
+        "word": "detailed",
+        "start": 64.06,
+        "end": 64.42
       },
       {
-        "i": 196,
-        "word": "address",
-        "start": 68.94,
-        "end": 69.4
-      },
-      {
-        "i": 197,
-        "word": "or",
-        "start": 69.4,
-        "end": 69.8
-      },
-      {
-        "i": 198,
-        "word": "sub",
-        "start": 69.8,
-        "end": 70.04
-      },
-      {
-        "i": 199,
-        "word": "-path,",
-        "start": 70.04,
-        "end": 70.3
-      },
-      {
-        "i": 200,
-        "word": "and",
-        "start": 70.7,
-        "end": 70.92
-      },
-      {
-        "i": 201,
-        "word": "publish.",
-        "start": 70.92,
-        "end": 71.22
+        "i": 180,
+        "word": "artwork.",
+        "start": 64.42,
+        "end": 64.84
       }
     ]
   },
   {
     "id": 17,
     "text": "Here's the part many tutorials skip.",
-    "start": 72.32,
-    "end": 74.28,
+    "start": 65.96,
+    "end": 67.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      202,
-      207
+      181,
+      186
     ],
     "words": [
       {
-        "i": 202,
+        "i": 181,
         "word": "Here's",
-        "start": 72.32,
-        "end": 72.58
+        "start": 65.96,
+        "end": 66.16
       },
       {
-        "i": 203,
+        "i": 182,
         "word": "the",
-        "start": 72.58,
-        "end": 72.7
+        "start": 66.16,
+        "end": 66.28
       },
       {
-        "i": 204,
+        "i": 183,
         "word": "part",
-        "start": 72.7,
-        "end": 72.88
+        "start": 66.28,
+        "end": 66.48
       },
       {
-        "i": 205,
+        "i": 184,
         "word": "many",
-        "start": 72.88,
-        "end": 73.26
+        "start": 66.48,
+        "end": 66.8
       },
       {
-        "i": 206,
+        "i": 185,
         "word": "tutorials",
-        "start": 73.26,
-        "end": 73.9
+        "start": 66.8,
+        "end": 67.42
       },
       {
-        "i": 207,
+        "i": 186,
         "word": "skip.",
-        "start": 73.9,
-        "end": 74.28
+        "start": 67.42,
+        "end": 67.84
       }
     ]
   },
   {
     "id": 18,
-    "text": "The Design's Editor link is different from the published website address.",
-    "start": 74.96,
-    "end": 78.16,
+    "text": "Changing the month name on a calendar template does not necessarily rearrange the dates.",
+    "start": 68.36,
+    "end": 72.6,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      208,
-      218
+      187,
+      200
     ],
     "words": [
       {
-        "i": 208,
-        "word": "The",
-        "start": 74.96,
-        "end": 75.08
+        "i": 187,
+        "word": "Changing",
+        "start": 68.36,
+        "end": 68.64
       },
       {
-        "i": 209,
-        "word": "Design's",
-        "start": 75.08,
-        "end": 75.6
-      },
-      {
-        "i": 210,
-        "word": "Editor",
-        "start": 75.6,
-        "end": 75.84
-      },
-      {
-        "i": 211,
-        "word": "link",
-        "start": 75.84,
-        "end": 76.08
-      },
-      {
-        "i": 212,
-        "word": "is",
-        "start": 76.08,
-        "end": 76.34
-      },
-      {
-        "i": 213,
-        "word": "different",
-        "start": 76.34,
-        "end": 76.6
-      },
-      {
-        "i": 214,
-        "word": "from",
-        "start": 76.6,
-        "end": 76.86
-      },
-      {
-        "i": 215,
+        "i": 188,
         "word": "the",
-        "start": 76.86,
-        "end": 77.02
+        "start": 68.64,
+        "end": 68.82
       },
       {
-        "i": 216,
-        "word": "published",
-        "start": 77.02,
-        "end": 77.32
+        "i": 189,
+        "word": "month",
+        "start": 68.82,
+        "end": 69.0
       },
       {
-        "i": 217,
-        "word": "website",
-        "start": 77.32,
-        "end": 77.74
+        "i": 190,
+        "word": "name",
+        "start": 69.0,
+        "end": 69.26
       },
       {
-        "i": 218,
-        "word": "address.",
-        "start": 77.74,
-        "end": 78.16
+        "i": 191,
+        "word": "on",
+        "start": 69.26,
+        "end": 69.48
+      },
+      {
+        "i": 192,
+        "word": "a",
+        "start": 69.48,
+        "end": 69.64
+      },
+      {
+        "i": 193,
+        "word": "calendar",
+        "start": 69.64,
+        "end": 69.86
+      },
+      {
+        "i": 194,
+        "word": "template",
+        "start": 69.86,
+        "end": 70.3
+      },
+      {
+        "i": 195,
+        "word": "does",
+        "start": 70.3,
+        "end": 70.6
+      },
+      {
+        "i": 196,
+        "word": "not",
+        "start": 70.6,
+        "end": 70.8
+      },
+      {
+        "i": 197,
+        "word": "necessarily",
+        "start": 70.8,
+        "end": 71.42
+      },
+      {
+        "i": 198,
+        "word": "rearrange",
+        "start": 71.42,
+        "end": 72.1
+      },
+      {
+        "i": 199,
+        "word": "the",
+        "start": 72.1,
+        "end": 72.3
+      },
+      {
+        "i": 200,
+        "word": "dates.",
+        "start": 72.3,
+        "end": 72.6
       }
     ]
   },
   {
     "id": 19,
-    "text": "Share the live website link so people can browse your portfolio without entering the editor.",
-    "start": 78.94,
-    "end": 83.3,
+    "text": "Verify the entire grid against a reliable calendar for that month and year.",
+    "start": 73.56,
+    "end": 77.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      219,
-      233
+      201,
+      213
     ],
     "words": [
       {
-        "i": 219,
-        "word": "Share",
-        "start": 78.94,
-        "end": 79.14
+        "i": 201,
+        "word": "Verify",
+        "start": 73.56,
+        "end": 73.7
       },
       {
-        "i": 220,
+        "i": 202,
         "word": "the",
-        "start": 79.14,
-        "end": 79.32
+        "start": 73.7,
+        "end": 74.06
       },
       {
-        "i": 221,
-        "word": "live",
-        "start": 79.32,
-        "end": 79.52
+        "i": 203,
+        "word": "entire",
+        "start": 74.06,
+        "end": 74.46
       },
       {
-        "i": 222,
-        "word": "website",
-        "start": 79.52,
-        "end": 79.9
+        "i": 204,
+        "word": "grid",
+        "start": 74.46,
+        "end": 74.78
       },
       {
-        "i": 223,
-        "word": "link",
-        "start": 79.9,
-        "end": 80.16
+        "i": 205,
+        "word": "against",
+        "start": 74.78,
+        "end": 75.02
       },
       {
-        "i": 224,
-        "word": "so",
-        "start": 80.16,
-        "end": 80.36
+        "i": 206,
+        "word": "a",
+        "start": 75.02,
+        "end": 75.2
       },
       {
-        "i": 225,
-        "word": "people",
-        "start": 80.36,
-        "end": 80.56
+        "i": 207,
+        "word": "reliable",
+        "start": 75.2,
+        "end": 75.54
       },
       {
-        "i": 226,
-        "word": "can",
-        "start": 80.56,
-        "end": 80.82
+        "i": 208,
+        "word": "calendar",
+        "start": 75.54,
+        "end": 76.0
       },
       {
-        "i": 227,
-        "word": "browse",
-        "start": 80.82,
-        "end": 81.08
+        "i": 209,
+        "word": "for",
+        "start": 76.0,
+        "end": 76.22
       },
       {
-        "i": 228,
-        "word": "your",
-        "start": 81.08,
-        "end": 81.28
+        "i": 210,
+        "word": "that",
+        "start": 76.22,
+        "end": 76.36
       },
       {
-        "i": 229,
-        "word": "portfolio",
-        "start": 81.28,
-        "end": 81.84
+        "i": 211,
+        "word": "month",
+        "start": 76.36,
+        "end": 76.62
       },
       {
-        "i": 230,
-        "word": "without",
-        "start": 81.84,
-        "end": 82.38
+        "i": 212,
+        "word": "and",
+        "start": 76.62,
+        "end": 76.82
       },
       {
-        "i": 231,
-        "word": "entering",
-        "start": 82.38,
-        "end": 82.82
-      },
-      {
-        "i": 232,
-        "word": "the",
-        "start": 82.82,
-        "end": 82.98
-      },
-      {
-        "i": 233,
-        "word": "editor.",
-        "start": 82.98,
-        "end": 83.3
+        "i": 213,
+        "word": "year.",
+        "start": 76.82,
+        "end": 77.16
       }
     ]
   },
   {
     "id": 20,
-    "text": "Open that address in a private browser window and test the projects and contact link.",
-    "start": 84.22,
-    "end": 88.72,
+    "text": "Duplicate the finished page for additional months, then update every date grid and heading.",
+    "start": 77.96,
+    "end": 82.56,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      234,
-      248
+      214,
+      227
     ],
     "words": [
       {
-        "i": 234,
-        "word": "Open",
-        "start": 84.22,
-        "end": 84.54
+        "i": 214,
+        "word": "Duplicate",
+        "start": 77.96,
+        "end": 78.38
       },
       {
-        "i": 235,
-        "word": "that",
-        "start": 84.54,
-        "end": 84.74
-      },
-      {
-        "i": 236,
-        "word": "address",
-        "start": 84.74,
-        "end": 85.04
-      },
-      {
-        "i": 237,
-        "word": "in",
-        "start": 85.04,
-        "end": 85.32
-      },
-      {
-        "i": 238,
-        "word": "a",
-        "start": 85.32,
-        "end": 85.42
-      },
-      {
-        "i": 239,
-        "word": "private",
-        "start": 85.42,
-        "end": 85.74
-      },
-      {
-        "i": 240,
-        "word": "browser",
-        "start": 85.74,
-        "end": 86.12
-      },
-      {
-        "i": 241,
-        "word": "window",
-        "start": 86.12,
-        "end": 86.44
-      },
-      {
-        "i": 242,
-        "word": "and",
-        "start": 86.44,
-        "end": 86.76
-      },
-      {
-        "i": 243,
-        "word": "test",
-        "start": 86.76,
-        "end": 87.04
-      },
-      {
-        "i": 244,
+        "i": 215,
         "word": "the",
-        "start": 87.04,
-        "end": 87.26
+        "start": 78.38,
+        "end": 78.58
       },
       {
-        "i": 245,
-        "word": "projects",
-        "start": 87.26,
-        "end": 87.62
+        "i": 216,
+        "word": "finished",
+        "start": 78.58,
+        "end": 78.76
       },
       {
-        "i": 246,
+        "i": 217,
+        "word": "page",
+        "start": 78.76,
+        "end": 79.08
+      },
+      {
+        "i": 218,
+        "word": "for",
+        "start": 79.08,
+        "end": 79.32
+      },
+      {
+        "i": 219,
+        "word": "additional",
+        "start": 79.32,
+        "end": 79.66
+      },
+      {
+        "i": 220,
+        "word": "months,",
+        "start": 79.66,
+        "end": 80.02
+      },
+      {
+        "i": 221,
+        "word": "then",
+        "start": 80.32,
+        "end": 80.56
+      },
+      {
+        "i": 222,
+        "word": "update",
+        "start": 80.56,
+        "end": 80.98
+      },
+      {
+        "i": 223,
+        "word": "every",
+        "start": 80.98,
+        "end": 81.4
+      },
+      {
+        "i": 224,
+        "word": "date",
+        "start": 81.4,
+        "end": 81.62
+      },
+      {
+        "i": 225,
+        "word": "grid",
+        "start": 81.62,
+        "end": 81.92
+      },
+      {
+        "i": 226,
         "word": "and",
-        "start": 87.62,
-        "end": 88.1
+        "start": 81.92,
+        "end": 82.26
       },
       {
-        "i": 247,
-        "word": "contact",
-        "start": 88.1,
-        "end": 88.44
-      },
-      {
-        "i": 248,
-        "word": "link.",
-        "start": 88.44,
-        "end": 88.72
+        "i": 227,
+        "word": "heading.",
+        "start": 82.26,
+        "end": 82.56
       }
     ]
   },
   {
     "id": 21,
-    "text": "Your portfolio website is now ready to share with potential clients or employers.",
-    "start": 89.46,
-    "end": 93.6,
+    "text": "Download the pages as PDF print.",
+    "start": 83.42,
+    "end": 85.28,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      249,
+      228,
+      233
+    ],
+    "words": [
+      {
+        "i": 228,
+        "word": "Download",
+        "start": 83.42,
+        "end": 83.74
+      },
+      {
+        "i": 229,
+        "word": "the",
+        "start": 83.74,
+        "end": 83.98
+      },
+      {
+        "i": 230,
+        "word": "pages",
+        "start": 83.98,
+        "end": 84.2
+      },
+      {
+        "i": 231,
+        "word": "as",
+        "start": 84.2,
+        "end": 84.46
+      },
+      {
+        "i": 232,
+        "word": "PDF",
+        "start": 84.46,
+        "end": 84.84
+      },
+      {
+        "i": 233,
+        "word": "print.",
+        "start": 84.84,
+        "end": 85.28
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Print a sample at actual size and measure it.",
+    "start": 86.0,
+    "end": 88.24,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      234,
+      242
+    ],
+    "words": [
+      {
+        "i": 234,
+        "word": "Print",
+        "start": 86.0,
+        "end": 86.06
+      },
+      {
+        "i": 235,
+        "word": "a",
+        "start": 86.06,
+        "end": 86.26
+      },
+      {
+        "i": 236,
+        "word": "sample",
+        "start": 86.26,
+        "end": 86.5
+      },
+      {
+        "i": 237,
+        "word": "at",
+        "start": 86.5,
+        "end": 86.7
+      },
+      {
+        "i": 238,
+        "word": "actual",
+        "start": 86.7,
+        "end": 87.02
+      },
+      {
+        "i": 239,
+        "word": "size",
+        "start": 87.02,
+        "end": 87.4
+      },
+      {
+        "i": 240,
+        "word": "and",
+        "start": 87.4,
+        "end": 87.72
+      },
+      {
+        "i": 241,
+        "word": "measure",
+        "start": 87.72,
+        "end": 87.96
+      },
+      {
+        "i": 242,
+        "word": "it.",
+        "start": 87.96,
+        "end": 88.24
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "If you want several mini calendars on one sheet, arrange copies on an A4 or letter design before exporting.",
+    "start": 88.66,
+    "end": 95.0,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      243,
       261
     ],
     "words": [
       {
+        "i": 243,
+        "word": "If",
+        "start": 88.66,
+        "end": 88.74
+      },
+      {
+        "i": 244,
+        "word": "you",
+        "start": 88.74,
+        "end": 88.82
+      },
+      {
+        "i": 245,
+        "word": "want",
+        "start": 88.82,
+        "end": 88.96
+      },
+      {
+        "i": 246,
+        "word": "several",
+        "start": 88.96,
+        "end": 89.3
+      },
+      {
+        "i": 247,
+        "word": "mini",
+        "start": 89.3,
+        "end": 89.6
+      },
+      {
+        "i": 248,
+        "word": "calendars",
+        "start": 89.6,
+        "end": 89.94
+      },
+      {
         "i": 249,
-        "word": "Your",
-        "start": 89.46,
-        "end": 89.54
+        "word": "on",
+        "start": 89.94,
+        "end": 90.18
       },
       {
         "i": 250,
-        "word": "portfolio",
-        "start": 89.54,
-        "end": 89.98
+        "word": "one",
+        "start": 90.18,
+        "end": 90.36
       },
       {
         "i": 251,
-        "word": "website",
-        "start": 89.98,
-        "end": 90.4
+        "word": "sheet,",
+        "start": 90.36,
+        "end": 90.68
       },
       {
         "i": 252,
-        "word": "is",
-        "start": 90.4,
-        "end": 90.74
+        "word": "arrange",
+        "start": 91.0,
+        "end": 91.3
       },
       {
         "i": 253,
-        "word": "now",
-        "start": 90.74,
-        "end": 91.0
+        "word": "copies",
+        "start": 91.3,
+        "end": 91.66
       },
       {
         "i": 254,
-        "word": "ready",
-        "start": 91.0,
-        "end": 91.16
+        "word": "on",
+        "start": 91.66,
+        "end": 91.86
       },
       {
         "i": 255,
-        "word": "to",
-        "start": 91.16,
-        "end": 91.4
+        "word": "an",
+        "start": 91.86,
+        "end": 92.0
       },
       {
         "i": 256,
-        "word": "share",
-        "start": 91.4,
-        "end": 91.68
+        "word": "A4",
+        "start": 92.0,
+        "end": 92.54
       },
       {
         "i": 257,
-        "word": "with",
-        "start": 91.68,
-        "end": 91.88
+        "word": "or",
+        "start": 92.54,
+        "end": 93.16
       },
       {
         "i": 258,
-        "word": "potential",
-        "start": 91.88,
-        "end": 92.26
+        "word": "letter",
+        "start": 93.16,
+        "end": 93.54
       },
       {
         "i": 259,
-        "word": "clients",
-        "start": 92.26,
-        "end": 92.76
+        "word": "design",
+        "start": 93.54,
+        "end": 94.0
       },
       {
         "i": 260,
-        "word": "or",
-        "start": 92.76,
-        "end": 93.18
+        "word": "before",
+        "start": 94.0,
+        "end": 94.38
       },
       {
         "i": 261,
-        "word": "employers.",
-        "start": 93.18,
-        "end": 93.6
+        "word": "exporting.",
+        "start": 94.38,
+        "end": 95.0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Keep the original small format design for future changes.",
+    "start": 95.72,
+    "end": 98.54,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      262,
+      270
+    ],
+    "words": [
+      {
+        "i": 262,
+        "word": "Keep",
+        "start": 95.72,
+        "end": 95.86
+      },
+      {
+        "i": 263,
+        "word": "the",
+        "start": 95.86,
+        "end": 96.02
+      },
+      {
+        "i": 264,
+        "word": "original",
+        "start": 96.02,
+        "end": 96.28
+      },
+      {
+        "i": 265,
+        "word": "small",
+        "start": 96.28,
+        "end": 96.76
+      },
+      {
+        "i": 266,
+        "word": "format",
+        "start": 96.76,
+        "end": 97.16
+      },
+      {
+        "i": 267,
+        "word": "design",
+        "start": 97.16,
+        "end": 97.56
+      },
+      {
+        "i": 268,
+        "word": "for",
+        "start": 97.56,
+        "end": 97.82
+      },
+      {
+        "i": 269,
+        "word": "future",
+        "start": 97.82,
+        "end": 98.1
+      },
+      {
+        "i": 270,
+        "word": "changes.",
+        "start": 98.1,
+        "end": 98.54
       }
     ]
   }
