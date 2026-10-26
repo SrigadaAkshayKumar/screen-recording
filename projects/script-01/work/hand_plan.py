@@ -1,34 +1,33 @@
-"""Hand-built plan for script-01 (441.6 s recording, 104.4 s voiceover; baked-in recorder zoom: no zooms/ripples).
-One group per narration line: pieces share the group's speed; cross-fade at every source jump."""
+"""Hand-built plan for script-01 (144.8 s recording 3420x1922, 93.16 s voiceover; baked-in recorder zoom: no zooms/ripples).
+One group per narration line: pieces share the group's speed; cross-fade at every source jump.
+Pieces come from the moving windows of freezedetect n=0.003 d=0.8 on the source."""
 import json
 P = 'projects/script-01/work/'
-END = 104.397
-B = [0, 6.0, 11.26, 16.62, 19.36, 25.38, 31.34, 34.48, 37.44, 42.04, 46.02, 51.14, 57.42, 61.96, 66.72, 69.56,
-     74.78, 77.6, 81.14, 86.38, 93.8, 96.14, 100.98, END]
+END = 93.158
+B = [0, 7.9, 11.4, 15.3, 18.6, 20.8, 25.8, 31.6, 34.5, 39.5, 43.2, 48.0, 53.3, 57.2, 62.1, 64.5, 69.0, 74.3,
+     80.3, 83.3, 89.5, END]
 S = [
- [(7.2, 10.2), (430.9, 432.9)],        # L1 intro: home zoom, finished design
- [(41.0, 44.2), (64.9, 66.8)],                     # L2 dimensions: custom size fields
- [(72.9, 76.9), (79.4, 80.9)],         # L3 bleed/safe area: template browsing
- [(20.6, 24.2)],                       # L4 homepage, Create, Custom size
- [(44.2, 45.6), (49.6, 52.2), (55.2, 56.4)],                     # L5 units, dimensions
- [(57.2, 59.5), (62.3, 65.0)],         # L6 24 by 14, create
- [(87.4, 91.4)],                       # L7 background colour
- [(101.7, 104.7)],                     # L8 extend background
- [(105.0, 108.0), (110.7, 112.2)],     # L9 elements panel
- [(110.7, 114.7)],                     # L10 simple shapes
- [(124.8, 130.0)],                     # L11 rounded rectangles
- [(179.2, 185.2)],                     # L12 numbers in zones
- [(130.0, 134.0)],                     # L13 select / group
- [(166.3, 170.3)],                     # L14 position, guides
- [(216.3, 218.6)],                     # L15 aside
- [(170.3, 174.6)],                     # L16 guides
- [(194.6, 197.0)],                     # L17 supplier
- [(225.0, 228.0)],                     # L18 measurements
- [(344.0, 348.4)],                     # L19 share, download
- [(351.4, 358.1)],                     # L20 PDF print
- [(398.9, 400.9)],                     # L21 crop marks
- [(415.6, 419.8)],                     # L22 check exported file
- [(419.8, 423.3)],                     # L23 ready
+ [(2.23, 3.6), (4.7, 6.47), (133.3, 136.0), (136.0, 136.6)],  # L1 intro: home, create, finished table
+ [(9.53, 11.23), (12.63, 14.9)],        # L2 open design, elements
+ [(16.4, 18.7), (19.97, 21.0)],         # L3 tables category
+ [(21.0, 22.27), (23.57, 24.9)],        # L4 place table, first cell
+ [(24.9, 26.9)],                        # L5 continue filling
+ [(27.7, 30.8), (33.07, 34.4)],         # L6 three columns
+ [(68.57, 74.7)],                       # L7 add row
+ [(64.33, 66.83)],                      # L8 add column
+ [(78.57, 80.43), (82.27, 84.6)],       # L9 row/column menus
+ [(48.07, 49.37), (50.6, 52.37)],       # L10 drag divider
+ [(60.0, 62.77), (55.17, 56.57)],       # L11 table menu
+ [(85.87, 88.53), (90.07, 92.43)],      # L12 header fill colour
+ [(93.87, 96.13), (98.1, 100.0)],       # L13 bold, text colour
+ [(103.33, 106.5), (108.23, 110.0)],    # L14 border
+ [(110.0, 110.93), (112.1, 113.37)],    # L15 aside
+ [(136.6, 139.0), (142.4, 143.6)],      # L16 do not shrink
+ [(38.07, 40.5), (41.7, 42.7), (50.9, 52.37)],  # L17 widen column
+ [(28.5, 30.8), (34.4, 35.63), (82.27, 84.6)],  # L18 paste cells
+ [(139.0, 141.5)],                      # L19 check result
+ [(118.93, 121.23), (122.03, 124.9), (126.67, 129.1)],  # L20 share, download
+ [(114.3, 116.67), (143.6, 144.7)],     # L21 keep design
 ]
 segs, prev = [], None
 for k, pieces in enumerate(S):
@@ -42,7 +41,7 @@ for k, pieces in enumerate(S):
             s["xfade"] = True
         segs.append(s); prev = b; t = e
     print(f"L{k+1:2d} {o0:7.2f}-{o1:7.2f} {sp:.2f}x {pieces}")
-plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
+plan = {"output": {"duration": END, "fps": 30, "width": 3420, "height": 1922}, "segments": segs, "zooms": [],
         "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
