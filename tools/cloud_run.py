@@ -72,11 +72,17 @@ def kind_of(f: str) -> str | None:
             "script" if ext in (".md", ".txt") else "clicks" if ext == ".json" else None)
 
 
+def pkey(stem: str) -> str:
+    """Pairing key: lower case, numbers without leading zeros (script-1 == Script-01)."""
+    return re.sub(r"\d+", lambda m: str(int(m.group())), stem.lower())
+
+
 def cmd_list(a):
     natural = lambda s: [int(t) if t.isdigit() else t.lower() for t in re.split(r"(\d+)", s)]
     groups: dict[str, dict[str, list[str]]] = {}          # stem or folder -> kind -> Drive paths
     loose: dict[str, dict[str, list[str]]] = {}
     ignored: list[str] = []                               # files of no known kind (reported on error)
+    label_of: dict[str, str] = {}
     for f in rclone_lsf(f"{a.drive}/inbox", "-R", "--files-only"):
         k = kind_of(f)
         if not k:
@@ -85,11 +91,14 @@ def cmd_list(a):
         if "/" in f:                                      # inbox/<folder>/...: the folder is the project
             groups.setdefault(f.split("/")[0], {}).setdefault(k, []).append(f)
         else:                                             # loose files pair by name
-            # case-insensitive: Script-14.mp4 pairs with script-14.mp3
-            loose.setdefault(os.path.splitext(f)[0].lower(), {}).setdefault(k, []).append(f)
+            # case- and zero-insensitive: Script-14.mp4 / script-1.mp4 pair with script-14.mp3 / script-01.mp3
+            stem = os.path.splitext(f)[0]
+            loose.setdefault(pkey(stem), {}).setdefault(k, []).append(f)
+            if len(stem) > len(label_of.get(pkey(stem), "")):  # name the project after the padded form
+                label_of[pkey(stem)] = stem.lower()
     cands = []                                            # (label, files by kind)
-    for stem, d in loose.items():
-        cands.append((stem, d))
+    for key, d in loose.items():
+        cands.append((label_of[key], d))
     for folder, d in groups.items():
         if len(d.get("video", [])) <= 1 and len(d.get("audio", [])) <= 1:
             cands.append((folder, d))                     # one video + one audio: names don't matter
@@ -116,12 +125,13 @@ def cmd_list(a):
                       "script": first("script"), "clicks": first("clicks")})
     if a.want.strip().lower() != "all":
         want = [w.strip() for w in a.want.split(",") if w.strip()]
-        missing = [w for w in want if not any(w in (i["name"], i["stem"]) for i in items)]
+        hit = lambda w, i: pkey(w) in (pkey(i["name"]), pkey(i["stem"]))
+        missing = [w for w in want if not any(hit(w, i) for i in items)]
         if missing:
             raise SystemExit(f"error: no video+audio pair in {a.drive}/inbox for: {', '.join(missing)} "
                              f"(found: {', '.join(i['stem'] for i in items) or 'nothing'}"
                              f"{'; unrecognised files: ' + ', '.join(ignored) if ignored else ''})")
-        items = [i for i in items if i["name"] in want or i["stem"] in want]
+        items = [i for i in items if any(hit(w, i) for w in want)]
     print(json.dumps(items))
 
 
