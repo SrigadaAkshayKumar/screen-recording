@@ -1,34 +1,31 @@
-"""Hand-built plan for script-17 re-edit (92.648 s voiceover, 378.3 s recording, baked recorder zoom: no zooms/ripples).
-Each line's footage is the step the line describes (see work/actions.json, output/report.md).
+"""Hand-built plan for script-17 (83.267 s voiceover, 300.5 s recording, baked recorder zoom: no zooms/ripples).
+Each line's footage is the step that line describes (per-line map in output/report.md).
 Groups start exactly on each narration line's start (lines.json). Pieces: (src_a, src_b[, fixed_speed])."""
 import json
 P = 'projects/script-17/work/'
-DUR = 92.648
+DUR = 83.267
 raw = json.load(open(P + 'lines.json'))
 L = [r['start'] for r in (raw['lines'] if isinstance(raw, dict) else raw)]
 G = {
- 1: [(316.0, 322.8)],                      # slideshow playing in the editor (finished result)
- 2: [(13.9, 17.0)],                        # Video tile -> Create a design -> Landscape video -> blank design
- 3: [(31.5, 34.8), (46.3, 48.2)],          # type "wedding slideshow" in template search; click template
- 4: [(73.6, 75.6)],                        # Uploads tab opens
- 5: [(68.2, 73.4)],                        # timeline pages in order (years/labels)
- 6: [(79.6, 81.8)],                        # drag uploaded photo onto the page frame
- 7: [(81.6, 84.6)],                        # photo selected in the frame, crop toolbar
- 8: [(84.6, 86.2), (88.3, 92.7)],                        # swap in the whole portrait from Uploads
- 9: [(118.6, 121.6)],                      # type the couple's names on the title page
- 10: [(141.0, 144.5)],                     # date text selected, font toolbar (Lora)
- 11: [(165.4, 168.8)],                     # hover the timeline pages (durations)
- 12: [(169.6, 174.8)],                     # open a page's Timing slider and change seconds
- 13: [(203.4, 206.4)],                     # timeline between pages (no transition footage)
- 14: [(209.9, 211.9), (216.0, 218.0), (228.4, 229.8)],  # add audio track, trim, volume slider
- 15: [(238.9, 240.5)],                     # cursor to the end of the timeline
- 16: [(240.5, 244.6)],                     # add-page (+) menu, page time readouts
- 17: [(244.6, 249.6)],                     # total length readouts on the timeline
- 18: [(264.5, 266.2)],                     # press play
- 19: [(266.4, 270.1)],                     # slideshow playing: names, photos
- 20: [(279.3, 281.5)],                     # Share > Download > MP4 video
- 21: [(358.9, 363.0)],                     # download finished, open the exported mp4
- 22: [(366.2, 369.0)],                     # exported video playing
+ 1: [(24.2, 30.0)],                      # finished clip playing in the editor (intro/result)
+ 2: [(20.4, 23.8)],                        # Create a design menu -> blank design
+ 3: [(31.0, 37.8)],                        # Uploads: Videos tab, video added to the page
+ 4: [(49.5, 53.3), (56.0, 60.0)],          # select clip, Edit toolbar, Video Speed in the side panel
+ 5: [(121.4, 126.5)],                      # Edit toolbar opens the same controls
+ 6: [(126.7, 131.0)],                      # speed slider moved
+ 7: [(73.0, 79.0)],                        # slider across its range (readout changes)
+ 8: [(98.2, 99.4)],                        # press play to preview
+ 9: [(99.4, 104.8)],                       # clip playing
+ 10: [(113.5, 117.0)],                     # select the clip in the timeline
+ 11: [(117.0, 120.9)],                     # Split in the toolbar (playhead/split)
+ 12: [(155.5, 158.3), (167.4, 170.5)],     # select middle segment, speed panel
+ 13: [(186.0, 187.4)],                     # timeline afterwards
+ 14: [(189.1, 195.0)],                     # timeline pages / durations
+ 15: [(203.5, 206.0)],                     # timeline view
+ 16: [(227.0, 230.5)],                     # clip playing with its sound
+ 17: [(233.4, 235.4), (237.5, 242.3)],
+ 18: [(244.8, 248.8)],                     # playhead to start, press play
+ 19: [(273.5, 279.7)],                     # Share > Download > MP4 video
 }
 N = len(G)
 assert N == len(L), (N, len(L))
