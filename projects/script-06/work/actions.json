@@ -1,9 +1,9 @@
 {
  "recording": {
-  "width": 3420,
-  "height": 1922,
+  "width": 1920,
+  "height": 1080,
   "fps": 30,
-  "duration": 136.933
+  "duration": 403.7
  },
  "sync": {
   "source": "frames"
@@ -11,13 +11,178 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 14.0,
-   "x": 1000,
-   "y": 600,
+   "t_click": 1.5,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Create a design",
-   "result": "design opens",
-   "t_result_visible": 20.0,
+   "target": "Blank design with Add page",
+   "result": "design canvas",
+   "t_result_visible": 3.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 58.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Add a heading text",
+   "result": "heading added",
+   "t_result_visible": 63.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 84.7,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Elements panel",
+   "result": "categories listed",
+   "t_result_visible": 88,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 100.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Frames panel",
+   "result": "frames listed",
+   "t_result_visible": 105,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 165.6,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Connect data / Sheets",
+   "result": "data source panel",
+   "t_result_visible": 170,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 176.4,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Sheet columns (Add data)",
+   "result": "table editor",
+   "t_result_visible": 180,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 232.97,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Typing product rows / upload image cell",
+   "result": "rows filled",
+   "t_result_visible": 243,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 251.4,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Bulk create",
+   "result": "Match and fill fields panel",
+   "t_result_visible": 256,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 256.7,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Field connections",
+   "result": "Product Name / Product Image connected",
+   "t_result_visible": 262,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 275.2,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Advanced options",
+   "result": "output settings",
+   "t_result_visible": 279,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 289.5,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Generate / Create designs",
+   "result": "designs page opens",
+   "t_result_visible": 294,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 300.5,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Open resulting design",
+   "result": "design shown",
+   "t_result_visible": 305,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 309.3,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Crop of image in frame",
+   "result": "crop dialog",
+   "t_result_visible": 311,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 356.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Paste text into image cell",
+   "result": "text pasted",
+   "t_result_visible": 360,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 373.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Uploads picker in sheet cell",
+   "result": "uploads list",
+   "t_result_visible": 378,
+   "confidence": "low"
+  },
+  {
+   "id": "A16",
+   "t_click": 384.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Download panel",
+   "result": "download settings",
+   "t_result_visible": 388,
    "confidence": "low"
   }
  ],

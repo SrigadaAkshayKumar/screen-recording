@@ -1,72 +1,49 @@
-"""Hand-built plan for script-06 (136.9 s recording 3420x1922, 90.14 s voiceover, baked recorder zoom: no zooms/ripples).
-Moving windows from freezedetect n=0.003 d=0.8 on the source, extended <=0.5 s into stills, streamed in source order
-per narration line (groups start on lines.json starts), ~0.8-1.2x, no holds."""
+"""Hand-built plan for script-06 take 3 (403.7 s recording 1920x1080, 94.227 s voiceover, no zooms/ripples).
+Pieces per narration line chosen from freezedetect n=0.003 d=0.8 moving windows (no piece reaches into a still span),
+mapped by what each line says (see sync-notes.md). Groups start on lines.json starts; speed = piece total / group length."""
 import json
 P = 'projects/script-06/work/'
-END = 90.14
+END = 94.227
 L = json.load(open(P + 'lines.json'))
 L = L['lines'] if isinstance(L, dict) else L
-starts = [l['start'] for l in L]
-B = [0.0] + [round(s, 2) for s in starts[1:]] + [END]
-FIXED = {0: [(0.0, 1.5), (8.0, 12.3)]}
-M = [(11.9, 19.13), (24.27, 26.97), (28.5, 29.97), (34.17, 40.2), (41.43, 44.9), (46.53, 47.8), (48.67, 51.27),
-     (57.17, 58.63), (59.5, 61.63), (62.57, 63.77), (67.07, 71.1), (72.37, 74.73), (76.97, 80.1), (83.77, 86.57),
-     (87.93, 91.1), (93.07, 94.27), (96.93, 101.0), (101.87, 103.63), (110.03, 111.37), (115.63, 118.83),
-     (120.07, 122.8), (124.77, 132.23)]
-EXT = 0.5
-S = []
-for a, b in M:
-    a -= EXT; b += EXT
-    if S and a - S[-1][1] < 0.3:
-        S[-1][1] = b
-    else:
-        S.append([a, b])
-S[0][0] = 12.3
-S = [tuple(x) for x in S]
-tot = sum(b - a for a, b in S)
-need = END - B[1]
-TARGET = tot / need
-print('available', round(tot, 1), 'need', round(need, 1), 'speed', round(TARGET, 2))
-queue = [list(w) for w in S]
-qi = 0
-def take(n):
-    global qi
-    out = []
-    while n > 0.45:
-        w = queue[qi % len(queue)]
-        a, b = w
-        use = min(n, b - a)
-        if (b - a) - use < 0.5:
-            use = b - a
-        out.append((round(a, 3), round(a + use, 3)))
-        n -= use
-        if use >= b - a - 1e-6:
-            qi += 1
-            queue[qi % len(queue)] = list(S[qi % len(S)])
-        else:
-            w[0] = a + use
-    return out
-G = []
+B = [0.0] + [round(l['start'], 2) for l in L[1:]] + [END]
+PIECES = {
+ 0: [(1.47, 3.6), (17.63, 22.23)],
+ 1: [(300.53, 305.2)],
+ 2: [(54.5, 64.33)],
+ 3: [(84.67, 88.1)],
+ 4: [(92.77, 96.5)],
+ 5: [(165.63, 170.2)],
+ 6: [(174.5, 178.6), (232.97, 236.2)],
+ 7: [(244.43, 246.73), (251.43, 254.4)],
+ 8: [(254.4, 256.7)],
+ 9: [(256.7, 259.0)],
+ 10: [(259.0, 262.37), (263.17, 264.5)],
+ 11: [(275.2, 279.2)],
+ 12: [(289.5, 292.7)],
+ 13: [(300.53, 303.1)],
+ 14: [(303.5, 307.2), (309.3, 311.0)],
+ 15: [(338.6, 341.2)],
+ 16: [(356.0, 357.27), (360.0, 364.0)],
+ 17: [(373.8, 377.7)],
+ 18: [(109.57, 111.53), (113.4, 116.5)],
+ 19: [(384.0, 387.5)],
+ 20: [(293.13, 294.13), (295.33, 298.8)],
+}
+segs, prev_end = [], None
 for i in range(len(B) - 1):
     o0, o1 = B[i], B[i + 1]
-    pieces = FIXED.get(i) or take(TARGET * (o1 - o0))
-    G.append((o0, o1, pieces))
-segs, prev_end = [], None
-for o0, o1, pieces in G:
-    sp = sum(b - a for a, b in pieces) / (o1 - o0)
+    pcs = PIECES[i]
+    sp = sum(b - a for a, b in pcs) / (o1 - o0)
     t = o0
-    for k, (a, b) in enumerate(pieces):
-        end = o1 if k == len(pieces) - 1 else t + (b - a) / sp
+    for k, (a, b) in enumerate(pcs):
+        end = o1 if k == len(pcs) - 1 else round(t + (b - a) / sp, 3)
         s = {"src_start": a, "src_end": b, "out_start": round(t, 3), "out_end": round(end, 3), "mode": "speed"}
         if prev_end is not None and abs(a - prev_end) > 0.002:
             s["xfade"] = True
         segs.append(s); prev_end = b; t = end
-    print(f"{o0:6.2f}-{o1:6.2f} {sp:.2f}x {pieces}")
-plan = {"output": {"duration": END, "fps": 30, "width": 3420, "height": 1922}, "segments": segs, "zooms": [],
+    print(f"{o0:6.2f}-{o1:6.2f} {sp:.2f}x {pcs}")
+plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
         "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
-json.dump({"recording": {"width": 3420, "height": 1922, "fps": 30, "duration": 136.933}, "sync": {"source": "frames"},
-           "actions": [{"id": "A1", "t_click": 14.0, "x": 1000, "y": 600, "kind": "click", "target": "Create a design",
-                        "result": "design opens", "t_result_visible": 20.0, "confidence": "low"}],
-           "junk": []}, open(P + 'actions.json', 'w'), indent=1)
