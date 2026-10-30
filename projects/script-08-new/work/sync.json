@@ -1,0 +1,170 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "mobile"
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "templates"
+  },
+  {
+   "action": "A3",
+   "line": 2,
+   "word": "layout"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "Upload"
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "Trim"
+  },
+  {
+   "action": "A7",
+   "line": 5,
+   "word": "quickly",
+   "src_from": 52.0,
+   "prev_until": 45.5
+  },
+  {
+   "action": "A8",
+   "line": 7,
+   "word": "using"
+  },
+  {
+   "action": "A9",
+   "line": 8,
+   "word": "easy"
+  },
+  {
+   "action": "A10",
+   "line": 8,
+   "word": "subject"
+  },
+  {
+   "action": "A11",
+   "line": 9,
+   "word": "screen"
+  },
+  {
+   "action": "A12",
+   "line": 10,
+   "word": "captions",
+   "src_from": 107.5,
+   "prev_until": 76.5
+  },
+  {
+   "action": "A14",
+   "line": 11,
+   "word": "Generate",
+   "src_from": 142.0,
+   "prev_until": 113.2
+  },
+  {
+   "action": "A13",
+   "line": 11,
+   "word": "choose",
+   "src_from": 134.4,
+   "prev_until": 146.0
+  },
+  {
+   "action": "A15",
+   "line": 13,
+   "word": "Keep",
+   "src_from": 179.5,
+   "prev_until": 140.0
+  },
+  {
+   "action": "A16",
+   "line": 14,
+   "word": "Preview",
+   "src_from": 192.5,
+   "prev_until": 190.5
+  },
+  {
+   "action": "A17",
+   "line": 14,
+   "word": "muted",
+   "src_from": 203.0,
+   "prev_until": 195.5
+  },
+  {
+   "action": "A18",
+   "line": 15,
+   "word": "Download",
+   "src_from": 213.0,
+   "prev_until": 206.0
+  },
+  {
+   "action": "A19",
+   "line": 16,
+   "word": "file",
+   "src_from": 224.9,
+   "prev_until": 217.8
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19"
+ ],
+ "cuts": [
+  {
+   "src_start": 28.5,
+   "src_end": 33.5,
+   "reason": "template panel loading/browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 36.0,
+   "src_end": 41.6,
+   "reason": "still uploads panel",
+   "xfade": true
+  },
+  {
+   "src_start": 65.3,
+   "src_end": 67.5,
+   "reason": "idle heading edit",
+   "xfade": true
+  },
+  {
+   "src_start": 70.0,
+   "src_end": 72.5,
+   "reason": "colour panel not narrated",
+   "xfade": true
+  },
+  {
+   "src_start": 21.0,
+   "src_end": 23.0,
+   "reason": "typing dwell",
+   "ff": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 12.5,
+ "src_end": 229.5
+}

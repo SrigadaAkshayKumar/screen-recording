@@ -1,6 +1,5 @@
 # Analyze notes
-- No clicks.json: every time/position comes from contact sheets and frames, not a click log.
-- The recorder's auto-zoom is baked into most of the footage (zoomed tiles throughout). Cursor positions on zoomed frames are approximate (nominal unzoomed UI positions used), so most coordinates are medium/low confidence.
-- A5 (resize drag, 34.8-36.7), A14/A15 (second text box animation), A16-A18 (timeline drags) are low confidence in time and position.
-- Script says nothing was "on screen" (no notes). Not found in the recording: font/alignment changes (L5), appear-on-click / click order (L19). The footage never shows them.
-- Footage 160-245 s is playback and re-checking of the timeline with no distinct narrated steps; used for L14-L19.
+- Recording already has baked-in camera zoom/pan, so cursor coordinates are approximate (estimated from contact sheets, not cropped). Ripples are disabled in the plan; extra zooms skipped.
+- Medium/low: A13 (Original aspect click ~137.1), A19-A21 (Advanced/Print/Digital), A15 Share x/y.
+- Typing actions (width 35, height 45) not listed separately; they play inside the click intervals.
+- Recording 0-52 s is an earlier design with the resize panel (not the narrated flow); used as intro footage. 139.9-159.4 is unnarrated resizing; 200+ is post-download clutter. Both cut.

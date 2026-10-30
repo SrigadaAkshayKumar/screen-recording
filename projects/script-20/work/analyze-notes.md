@@ -1,8 +1,7 @@
-# Analyze notes (script-20)
-
-- No click log. Times come from contact/event sheets and single frames; coordinates are approximate.
-- The recorder auto-zooms (baked-in zoom) around 10-12, 24-27, 57-79, 87-100, 108-111, 132-136, 144-175, 216-260. Positions of actions in those spans are coordinates of the zoomed frame, so the plan uses no zooms and ripples only on A1-A3 (unzoomed).
-- Low confidence: A7 (trim drag; the clip length label changes 6.8s -> 4.2s around 147-153), A10 (zoom slider position), A12 and A13 (text move on canvas / overlay move on timeline; the movement is subtle), all coordinates marked medium.
-- The recording does not show "Open a video design" (it starts inside the editor) and shows no clip reorder drag (L9); no action exists for them.
-- The recording order differs from the narration (play at 66 s vs. narrated early; audio menu at 122 s; split/delete at 170 s; text overlay at 217-249 s). Sync reorders the footage.
-- 0-8 s idle, 30-34 s, 43-46 s, 82-86 s idle; 87-108 s uploading/adding clips; 112-122 s and 194-206 s idle: not narrated, skipped by jumps.
+# analyze notes (script-20 re-edit)
+Watched the recording on 5 coarse sheets, then 9 one-second sheets (9-117 s), then close sheets at the group, align and share/download steps.
+actions.json lists 22 real actions with times and results. x/y are NOT real cursor positions: the recorder zoom is baked in, so
+coordinates are placeholders (frame centre) and no zoom/ripple uses them. Confidence for times is medium/high.
+- 0-8.9 s is a static finished design (cursor only); only its last 2.4 s are used as the opening.
+- The recording does not follow the narration order everywhere (grouping 77-89 s comes after text editing, "duplicate" is a page duplicate at 98 s).
+- No footage exists for: pre-cut label paper (L12-L15), printing a test / fit-to-page / printing on adhesive / ink drying (L18, L20-L22). See report.

@@ -1,33 +1,33 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to rename a Canva design and an uploaded media file so they are easier to find.",
+    "text": "This tutorial shows you how to create a reusable email template in Canva and export it as HTML for an email platform.",
     "start": 0.0,
-    "end": 6.0,
+    "end": 7.12,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      20
+      21
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.24
+        "end": 0.22
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.24,
-        "end": 0.6
+        "start": 0.22,
+        "end": 0.58
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.6,
+        "start": 0.58,
         "end": 1.04
       },
       {
@@ -40,1579 +40,2056 @@
         "i": 4,
         "word": "how",
         "start": 1.24,
-        "end": 1.4
+        "end": 1.38
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.4,
-        "end": 1.58
+        "start": 1.38,
+        "end": 1.56
       },
       {
         "i": 6,
-        "word": "rename",
-        "start": 1.58,
-        "end": 1.88
+        "word": "create",
+        "start": 1.56,
+        "end": 1.82
       },
       {
         "i": 7,
         "word": "a",
-        "start": 1.88,
-        "end": 2.16
+        "start": 1.82,
+        "end": 2.06
       },
       {
         "i": 8,
-        "word": "Canva",
-        "start": 2.16,
-        "end": 2.4
+        "word": "reusable",
+        "start": 2.06,
+        "end": 2.44
       },
       {
         "i": 9,
-        "word": "design",
-        "start": 2.4,
-        "end": 2.74
+        "word": "email",
+        "start": 2.44,
+        "end": 2.9
       },
       {
         "i": 10,
-        "word": "and",
-        "start": 2.74,
-        "end": 3.16
+        "word": "template",
+        "start": 2.9,
+        "end": 3.4
       },
       {
         "i": 11,
-        "word": "an",
-        "start": 3.16,
-        "end": 3.32
+        "word": "in",
+        "start": 3.4,
+        "end": 3.72
       },
       {
         "i": 12,
-        "word": "uploaded",
-        "start": 3.32,
-        "end": 3.8
+        "word": "Canva",
+        "start": 3.72,
+        "end": 4.1
       },
       {
         "i": 13,
-        "word": "media",
-        "start": 3.8,
-        "end": 4.16
+        "word": "and",
+        "start": 4.1,
+        "end": 4.32
       },
       {
         "i": 14,
-        "word": "file",
-        "start": 4.16,
-        "end": 4.52
-      },
-      {
-        "i": 15,
-        "word": "so",
-        "start": 4.52,
+        "word": "export",
+        "start": 4.32,
         "end": 4.78
       },
       {
-        "i": 16,
-        "word": "they",
+        "i": 15,
+        "word": "it",
         "start": 4.78,
-        "end": 4.92
+        "end": 5.0
+      },
+      {
+        "i": 16,
+        "word": "as",
+        "start": 5.0,
+        "end": 5.18
       },
       {
         "i": 17,
-        "word": "are",
-        "start": 4.92,
-        "end": 5.04
+        "word": "HTML",
+        "start": 5.18,
+        "end": 5.76
       },
       {
         "i": 18,
-        "word": "easier",
-        "start": 5.04,
-        "end": 5.4
+        "word": "for",
+        "start": 5.76,
+        "end": 6.24
       },
       {
         "i": 19,
-        "word": "to",
-        "start": 5.4,
-        "end": 5.64
+        "word": "an",
+        "start": 6.24,
+        "end": 6.38
       },
       {
         "i": 20,
-        "word": "find.",
-        "start": 5.64,
-        "end": 6.0
+        "word": "email",
+        "start": 6.38,
+        "end": 6.64
+      },
+      {
+        "i": 21,
+        "word": "platform.",
+        "start": 6.64,
+        "end": 7.12
       }
     ]
   },
   {
     "id": 2,
-    "text": "To rename a design, open it in the editor.",
-    "start": 6.7,
-    "end": 8.96,
+    "text": "From the Canva homepage, click Create and search for email.",
+    "start": 7.9,
+    "end": 10.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      21,
-      29
+      22,
+      31
     ],
     "words": [
       {
-        "i": 21,
-        "word": "To",
-        "start": 6.7,
-        "end": 6.82
-      },
-      {
         "i": 22,
-        "word": "rename",
-        "start": 6.82,
-        "end": 7.08
+        "word": "From",
+        "start": 7.9,
+        "end": 8.1
       },
       {
         "i": 23,
-        "word": "a",
-        "start": 7.08,
-        "end": 7.24
+        "word": "the",
+        "start": 8.1,
+        "end": 8.24
       },
       {
         "i": 24,
-        "word": "design,",
-        "start": 7.24,
-        "end": 7.62
+        "word": "Canva",
+        "start": 8.24,
+        "end": 8.54
       },
       {
         "i": 25,
-        "word": "open",
-        "start": 7.9,
-        "end": 8.12
+        "word": "homepage,",
+        "start": 8.54,
+        "end": 8.94
       },
       {
         "i": 26,
-        "word": "it",
-        "start": 8.12,
-        "end": 8.3
+        "word": "click",
+        "start": 9.12,
+        "end": 9.34
       },
       {
         "i": 27,
-        "word": "in",
-        "start": 8.3,
-        "end": 8.52
+        "word": "Create",
+        "start": 9.34,
+        "end": 9.62
       },
       {
         "i": 28,
-        "word": "the",
-        "start": 8.52,
-        "end": 8.64
+        "word": "and",
+        "start": 9.62,
+        "end": 9.98
       },
       {
         "i": 29,
-        "word": "editor.",
-        "start": 8.64,
-        "end": 8.96
+        "word": "search",
+        "start": 9.98,
+        "end": 10.2
+      },
+      {
+        "i": 30,
+        "word": "for",
+        "start": 10.2,
+        "end": 10.46
+      },
+      {
+        "i": 31,
+        "word": "email.",
+        "start": 10.46,
+        "end": 10.78
       }
     ]
   },
   {
     "id": 3,
-    "text": "Click its current title in the top toolbar, type the new name and press Enter.",
-    "start": 9.5,
-    "end": 13.8,
+    "text": "Choose the email design type and start with a suitable layout.",
+    "start": 11.34,
+    "end": 14.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      30,
-      44
+      32,
+      42
     ],
     "words": [
       {
-        "i": 30,
-        "word": "Click",
-        "start": 9.5,
-        "end": 9.68
-      },
-      {
-        "i": 31,
-        "word": "its",
-        "start": 9.68,
-        "end": 9.86
-      },
-      {
         "i": 32,
-        "word": "current",
-        "start": 9.86,
-        "end": 10.08
+        "word": "Choose",
+        "start": 11.34,
+        "end": 11.5
       },
       {
         "i": 33,
-        "word": "title",
-        "start": 10.08,
-        "end": 10.42
+        "word": "the",
+        "start": 11.5,
+        "end": 11.68
       },
       {
         "i": 34,
-        "word": "in",
-        "start": 10.42,
-        "end": 10.62
+        "word": "email",
+        "start": 11.68,
+        "end": 11.96
       },
       {
         "i": 35,
-        "word": "the",
-        "start": 10.62,
-        "end": 10.76
+        "word": "design",
+        "start": 11.96,
+        "end": 12.26
       },
       {
         "i": 36,
-        "word": "top",
-        "start": 10.76,
-        "end": 10.94
+        "word": "type",
+        "start": 12.26,
+        "end": 12.6
       },
       {
         "i": 37,
-        "word": "toolbar,",
-        "start": 10.94,
-        "end": 11.44
+        "word": "and",
+        "start": 12.6,
+        "end": 12.86
       },
       {
         "i": 38,
-        "word": "type",
-        "start": 11.86,
-        "end": 12.12
+        "word": "start",
+        "start": 12.86,
+        "end": 13.1
       },
       {
         "i": 39,
-        "word": "the",
-        "start": 12.12,
-        "end": 12.34
+        "word": "with",
+        "start": 13.1,
+        "end": 13.24
       },
       {
         "i": 40,
-        "word": "new",
-        "start": 12.34,
-        "end": 12.5
+        "word": "a",
+        "start": 13.24,
+        "end": 13.38
       },
       {
         "i": 41,
-        "word": "name",
-        "start": 12.5,
-        "end": 12.74
+        "word": "suitable",
+        "start": 13.38,
+        "end": 13.62
       },
       {
         "i": 42,
-        "word": "and",
-        "start": 12.74,
-        "end": 13.02
-      },
-      {
-        "i": 43,
-        "word": "press",
-        "start": 13.02,
-        "end": 13.34
-      },
-      {
-        "i": 44,
-        "word": "Enter.",
-        "start": 13.34,
-        "end": 13.8
+        "word": "layout.",
+        "start": 13.62,
+        "end": 14.1
       }
     ]
   },
   {
     "id": 4,
-    "text": "Use a descriptive name such as Canva Upload Tutorial Thumbnail instead of leaving the design as untitled.",
-    "start": 14.34,
-    "end": 19.82,
+    "text": "Use this dedicated format so you can work with email content blocks and HTML export.",
+    "start": 14.82,
+    "end": 19.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      45,
-      61
+      43,
+      57
     ],
     "words": [
       {
-        "i": 45,
+        "i": 43,
         "word": "Use",
-        "start": 14.34,
-        "end": 14.58
+        "start": 14.82,
+        "end": 15.04
+      },
+      {
+        "i": 44,
+        "word": "this",
+        "start": 15.04,
+        "end": 15.24
+      },
+      {
+        "i": 45,
+        "word": "dedicated",
+        "start": 15.24,
+        "end": 15.6
       },
       {
         "i": 46,
-        "word": "a",
-        "start": 14.58,
-        "end": 14.7
+        "word": "format",
+        "start": 15.6,
+        "end": 16.04
       },
       {
         "i": 47,
-        "word": "descriptive",
-        "start": 14.7,
-        "end": 15.02
+        "word": "so",
+        "start": 16.04,
+        "end": 16.28
       },
       {
         "i": 48,
-        "word": "name",
-        "start": 15.02,
-        "end": 15.44
+        "word": "you",
+        "start": 16.28,
+        "end": 16.4
       },
       {
         "i": 49,
-        "word": "such",
-        "start": 15.44,
-        "end": 15.64
+        "word": "can",
+        "start": 16.4,
+        "end": 16.54
       },
       {
         "i": 50,
-        "word": "as",
-        "start": 15.64,
-        "end": 15.9
+        "word": "work",
+        "start": 16.54,
+        "end": 16.7
       },
       {
         "i": 51,
-        "word": "Canva",
-        "start": 15.9,
-        "end": 16.22
+        "word": "with",
+        "start": 16.7,
+        "end": 16.9
       },
       {
         "i": 52,
-        "word": "Upload",
-        "start": 16.22,
-        "end": 16.6
+        "word": "email",
+        "start": 16.9,
+        "end": 17.28
       },
       {
         "i": 53,
-        "word": "Tutorial",
-        "start": 16.6,
-        "end": 17.24
+        "word": "content",
+        "start": 17.28,
+        "end": 17.7
       },
       {
         "i": 54,
-        "word": "Thumbnail",
-        "start": 17.24,
-        "end": 17.74
+        "word": "blocks",
+        "start": 17.7,
+        "end": 18.02
       },
       {
         "i": 55,
-        "word": "instead",
-        "start": 17.74,
-        "end": 18.22
+        "word": "and",
+        "start": 18.02,
+        "end": 18.58
       },
       {
         "i": 56,
-        "word": "of",
-        "start": 18.22,
-        "end": 18.34
+        "word": "HTML",
+        "start": 18.58,
+        "end": 19.22
       },
       {
         "i": 57,
-        "word": "leaving",
-        "start": 18.34,
-        "end": 18.56
-      },
-      {
-        "i": 58,
-        "word": "the",
-        "start": 18.56,
-        "end": 18.78
-      },
-      {
-        "i": 59,
-        "word": "design",
-        "start": 18.78,
-        "end": 19.12
-      },
-      {
-        "i": 60,
-        "word": "as",
-        "start": 19.12,
-        "end": 19.28
-      },
-      {
-        "i": 61,
-        "word": "untitled.",
-        "start": 19.28,
-        "end": 19.82
+        "word": "export.",
+        "start": 19.22,
+        "end": 19.98
       }
     ]
   },
   {
     "id": 5,
-    "text": "You can also rename a design from the home page.",
-    "start": 20.56,
-    "end": 22.66,
+    "text": "Replace the header with your logo and business name.",
+    "start": 20.72,
+    "end": 23.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      62,
-      71
+      58,
+      66
     ],
     "words": [
       {
+        "i": 58,
+        "word": "Replace",
+        "start": 20.72,
+        "end": 21.0
+      },
+      {
+        "i": 59,
+        "word": "the",
+        "start": 21.0,
+        "end": 21.24
+      },
+      {
+        "i": 60,
+        "word": "header",
+        "start": 21.24,
+        "end": 21.38
+      },
+      {
+        "i": 61,
+        "word": "with",
+        "start": 21.38,
+        "end": 21.58
+      },
+      {
         "i": 62,
-        "word": "You",
-        "start": 20.56,
-        "end": 20.68
+        "word": "your",
+        "start": 21.58,
+        "end": 21.74
       },
       {
         "i": 63,
-        "word": "can",
-        "start": 20.68,
-        "end": 20.78
-      },
-      {
-        "i": 64,
-        "word": "also",
-        "start": 20.78,
-        "end": 20.96
-      },
-      {
-        "i": 65,
-        "word": "rename",
-        "start": 20.96,
-        "end": 21.34
-      },
-      {
-        "i": 66,
-        "word": "a",
-        "start": 21.34,
-        "end": 21.5
-      },
-      {
-        "i": 67,
-        "word": "design",
-        "start": 21.5,
-        "end": 21.78
-      },
-      {
-        "i": 68,
-        "word": "from",
-        "start": 21.78,
+        "word": "logo",
+        "start": 21.74,
         "end": 21.96
       },
       {
-        "i": 69,
-        "word": "the",
+        "i": 64,
+        "word": "and",
         "start": 21.96,
-        "end": 22.08
+        "end": 22.36
       },
       {
-        "i": 70,
-        "word": "home",
-        "start": 22.08,
-        "end": 22.24
+        "i": 65,
+        "word": "business",
+        "start": 22.36,
+        "end": 22.64
       },
       {
-        "i": 71,
-        "word": "page.",
-        "start": 22.24,
-        "end": 22.66
+        "i": 66,
+        "word": "name.",
+        "start": 22.64,
+        "end": 23.02
       }
     ]
   },
   {
     "id": 6,
-    "text": "Open Projects, find the design and click its title beside the pencil icon.",
-    "start": 23.22,
-    "end": 27.54,
+    "text": "Add a clear headline, a short introduction and an image that supports the message.",
+    "start": 23.48,
+    "end": 27.58,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      72,
-      84
+      67,
+      80
     ],
     "words": [
       {
+        "i": 67,
+        "word": "Add",
+        "start": 23.48,
+        "end": 23.66
+      },
+      {
+        "i": 68,
+        "word": "a",
+        "start": 23.66,
+        "end": 23.76
+      },
+      {
+        "i": 69,
+        "word": "clear",
+        "start": 23.76,
+        "end": 23.96
+      },
+      {
+        "i": 70,
+        "word": "headline,",
+        "start": 23.96,
+        "end": 24.36
+      },
+      {
+        "i": 71,
+        "word": "a",
+        "start": 24.56,
+        "end": 24.7
+      },
+      {
         "i": 72,
-        "word": "Open",
-        "start": 23.22,
-        "end": 23.5
+        "word": "short",
+        "start": 24.7,
+        "end": 24.88
       },
       {
         "i": 73,
-        "word": "Projects,",
-        "start": 23.5,
-        "end": 23.84
+        "word": "introduction",
+        "start": 24.88,
+        "end": 25.36
       },
       {
         "i": 74,
-        "word": "find",
-        "start": 24.38,
-        "end": 24.66
+        "word": "and",
+        "start": 25.36,
+        "end": 25.98
       },
       {
         "i": 75,
-        "word": "the",
-        "start": 24.66,
-        "end": 24.82
+        "word": "an",
+        "start": 25.98,
+        "end": 26.1
       },
       {
         "i": 76,
-        "word": "design",
-        "start": 24.82,
-        "end": 25.16
+        "word": "image",
+        "start": 26.1,
+        "end": 26.42
       },
       {
         "i": 77,
-        "word": "and",
-        "start": 25.16,
-        "end": 25.42
+        "word": "that",
+        "start": 26.42,
+        "end": 26.62
       },
       {
         "i": 78,
-        "word": "click",
-        "start": 25.42,
-        "end": 25.66
+        "word": "supports",
+        "start": 26.62,
+        "end": 26.94
       },
       {
         "i": 79,
-        "word": "its",
-        "start": 25.66,
-        "end": 25.86
+        "word": "the",
+        "start": 26.94,
+        "end": 27.18
       },
       {
         "i": 80,
-        "word": "title",
-        "start": 25.86,
-        "end": 26.16
-      },
-      {
-        "i": 81,
-        "word": "beside",
-        "start": 26.16,
-        "end": 26.48
-      },
-      {
-        "i": 82,
-        "word": "the",
-        "start": 26.48,
-        "end": 26.7
-      },
-      {
-        "i": 83,
-        "word": "pencil",
-        "start": 26.7,
-        "end": 27.02
-      },
-      {
-        "i": 84,
-        "word": "icon.",
-        "start": 27.02,
-        "end": 27.54
+        "word": "message.",
+        "start": 27.18,
+        "end": 27.58
       }
     ]
   },
   {
     "id": 7,
-    "text": "Enter the new name and press Enter.",
-    "start": 28.1,
-    "end": 29.92,
+    "text": "Build the body with text and image blocks.",
+    "start": 27.58,
+    "end": 30.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      85,
-      91
+      81,
+      88
     ],
     "words": [
       {
+        "i": 81,
+        "word": "Build",
+        "start": 27.58,
+        "end": 28.4
+      },
+      {
+        "i": 82,
+        "word": "the",
+        "start": 28.4,
+        "end": 28.54
+      },
+      {
+        "i": 83,
+        "word": "body",
+        "start": 28.54,
+        "end": 28.72
+      },
+      {
+        "i": 84,
+        "word": "with",
+        "start": 28.72,
+        "end": 28.98
+      },
+      {
         "i": 85,
-        "word": "Enter",
-        "start": 28.1,
-        "end": 28.38
+        "word": "text",
+        "start": 28.98,
+        "end": 29.3
       },
       {
         "i": 86,
-        "word": "the",
-        "start": 28.38,
-        "end": 28.56
+        "word": "and",
+        "start": 29.3,
+        "end": 29.7
       },
       {
         "i": 87,
-        "word": "new",
-        "start": 28.56,
-        "end": 28.76
+        "word": "image",
+        "start": 29.7,
+        "end": 30.0
       },
       {
         "i": 88,
-        "word": "name",
-        "start": 28.76,
-        "end": 28.96
-      },
-      {
-        "i": 89,
-        "word": "and",
-        "start": 28.96,
-        "end": 29.2
-      },
-      {
-        "i": 90,
-        "word": "press",
-        "start": 29.2,
-        "end": 29.46
-      },
-      {
-        "i": 91,
-        "word": "Enter.",
-        "start": 29.46,
-        "end": 29.92
+        "word": "blocks.",
+        "start": 30.0,
+        "end": 30.38
       }
     ]
   },
   {
     "id": 8,
-    "text": "For an uploaded image or video, open Projects and go to Uploads or the folder containing that file.",
-    "start": 30.78,
-    "end": 36.14,
+    "text": "Keep the structure simple using a single main column for this example.",
+    "start": 30.98,
+    "end": 34.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      92,
-      109
+      89,
+      100
     ],
     "words": [
       {
+        "i": 89,
+        "word": "Keep",
+        "start": 30.98,
+        "end": 31.08
+      },
+      {
+        "i": 90,
+        "word": "the",
+        "start": 31.08,
+        "end": 31.26
+      },
+      {
+        "i": 91,
+        "word": "structure",
+        "start": 31.26,
+        "end": 31.52
+      },
+      {
         "i": 92,
-        "word": "For",
-        "start": 30.78,
-        "end": 30.88
+        "word": "simple",
+        "start": 31.52,
+        "end": 31.96
       },
       {
         "i": 93,
-        "word": "an",
-        "start": 30.88,
-        "end": 30.98
+        "word": "using",
+        "start": 31.96,
+        "end": 32.34
       },
       {
         "i": 94,
-        "word": "uploaded",
-        "start": 30.98,
-        "end": 31.3
+        "word": "a",
+        "start": 32.34,
+        "end": 32.58
       },
       {
         "i": 95,
-        "word": "image",
-        "start": 31.3,
-        "end": 31.68
+        "word": "single",
+        "start": 32.58,
+        "end": 32.88
       },
       {
         "i": 96,
-        "word": "or",
-        "start": 31.68,
-        "end": 31.88
+        "word": "main",
+        "start": 32.88,
+        "end": 33.12
       },
       {
         "i": 97,
-        "word": "video,",
-        "start": 31.88,
-        "end": 32.16
+        "word": "column",
+        "start": 33.12,
+        "end": 33.48
       },
       {
         "i": 98,
-        "word": "open",
-        "start": 32.62,
-        "end": 32.86
+        "word": "for",
+        "start": 33.48,
+        "end": 33.72
       },
       {
         "i": 99,
-        "word": "Projects",
-        "start": 32.86,
-        "end": 33.2
+        "word": "this",
+        "start": 33.72,
+        "end": 33.86
       },
       {
         "i": 100,
-        "word": "and",
-        "start": 33.2,
-        "end": 33.76
-      },
-      {
-        "i": 101,
-        "word": "go",
-        "start": 33.76,
-        "end": 33.9
-      },
-      {
-        "i": 102,
-        "word": "to",
-        "start": 33.9,
-        "end": 34.06
-      },
-      {
-        "i": 103,
-        "word": "Uploads",
-        "start": 34.06,
-        "end": 34.58
-      },
-      {
-        "i": 104,
-        "word": "or",
-        "start": 34.58,
-        "end": 34.76
-      },
-      {
-        "i": 105,
-        "word": "the",
-        "start": 34.76,
-        "end": 34.86
-      },
-      {
-        "i": 106,
-        "word": "folder",
-        "start": 34.86,
-        "end": 35.12
-      },
-      {
-        "i": 107,
-        "word": "containing",
-        "start": 35.12,
-        "end": 35.54
-      },
-      {
-        "i": 108,
-        "word": "that",
-        "start": 35.54,
-        "end": 35.82
-      },
-      {
-        "i": 109,
-        "word": "file.",
-        "start": 35.82,
-        "end": 36.14
+        "word": "example.",
+        "start": 33.86,
+        "end": 34.34
       }
     ]
   },
   {
     "id": 9,
-    "text": "Open its preview and use the Rename action in the file controls.",
-    "start": 36.78,
-    "end": 39.92,
+    "text": "Add a button and set its link to the page you want readers to visit.",
+    "start": 34.88,
+    "end": 37.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      110,
-      121
+      101,
+      115
     ],
     "words": [
       {
+        "i": 101,
+        "word": "Add",
+        "start": 34.88,
+        "end": 35.18
+      },
+      {
+        "i": 102,
+        "word": "a",
+        "start": 35.18,
+        "end": 35.28
+      },
+      {
+        "i": 103,
+        "word": "button",
+        "start": 35.28,
+        "end": 35.44
+      },
+      {
+        "i": 104,
+        "word": "and",
+        "start": 35.44,
+        "end": 35.76
+      },
+      {
+        "i": 105,
+        "word": "set",
+        "start": 35.76,
+        "end": 35.94
+      },
+      {
+        "i": 106,
+        "word": "its",
+        "start": 35.94,
+        "end": 36.14
+      },
+      {
+        "i": 107,
+        "word": "link",
+        "start": 36.14,
+        "end": 36.32
+      },
+      {
+        "i": 108,
+        "word": "to",
+        "start": 36.32,
+        "end": 36.5
+      },
+      {
+        "i": 109,
+        "word": "the",
+        "start": 36.5,
+        "end": 36.62
+      },
+      {
         "i": 110,
-        "word": "Open",
-        "start": 36.78,
-        "end": 37.04
+        "word": "page",
+        "start": 36.62,
+        "end": 36.82
       },
       {
         "i": 111,
-        "word": "its",
-        "start": 37.04,
-        "end": 37.24
+        "word": "you",
+        "start": 36.82,
+        "end": 37.06
       },
       {
         "i": 112,
-        "word": "preview",
-        "start": 37.24,
-        "end": 37.54
+        "word": "want",
+        "start": 37.06,
+        "end": 37.2
       },
       {
         "i": 113,
-        "word": "and",
-        "start": 37.54,
-        "end": 37.9
+        "word": "readers",
+        "start": 37.2,
+        "end": 37.44
       },
       {
         "i": 114,
-        "word": "use",
-        "start": 37.9,
-        "end": 38.04
+        "word": "to",
+        "start": 37.44,
+        "end": 37.64
       },
       {
         "i": 115,
-        "word": "the",
-        "start": 38.04,
-        "end": 38.2
-      },
-      {
-        "i": 116,
-        "word": "Rename",
-        "start": 38.2,
-        "end": 38.54
-      },
-      {
-        "i": 117,
-        "word": "action",
-        "start": 38.54,
-        "end": 38.86
-      },
-      {
-        "i": 118,
-        "word": "in",
-        "start": 38.86,
-        "end": 39.18
-      },
-      {
-        "i": 119,
-        "word": "the",
-        "start": 39.18,
-        "end": 39.3
-      },
-      {
-        "i": 120,
-        "word": "file",
-        "start": 39.3,
-        "end": 39.52
-      },
-      {
-        "i": 121,
-        "word": "controls.",
-        "start": 39.52,
-        "end": 39.92
+        "word": "visit.",
+        "start": 37.64,
+        "end": 37.92
       }
     ]
   },
   {
     "id": 10,
-    "text": "Enter the new name and confirm the change.",
-    "start": 40.84,
-    "end": 42.72,
+    "text": "Update the footer with your contact details.",
+    "start": 38.6,
+    "end": 40.56,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      122,
-      129
+      116,
+      122
     ],
     "words": [
       {
+        "i": 116,
+        "word": "Update",
+        "start": 38.6,
+        "end": 38.9
+      },
+      {
+        "i": 117,
+        "word": "the",
+        "start": 38.9,
+        "end": 39.1
+      },
+      {
+        "i": 118,
+        "word": "footer",
+        "start": 39.1,
+        "end": 39.38
+      },
+      {
+        "i": 119,
+        "word": "with",
+        "start": 39.38,
+        "end": 39.5
+      },
+      {
+        "i": 120,
+        "word": "your",
+        "start": 39.5,
+        "end": 39.66
+      },
+      {
+        "i": 121,
+        "word": "contact",
+        "start": 39.66,
+        "end": 39.96
+      },
+      {
         "i": 122,
-        "word": "Enter",
-        "start": 40.84,
-        "end": 40.94
-      },
-      {
-        "i": 123,
-        "word": "the",
-        "start": 40.94,
-        "end": 41.12
-      },
-      {
-        "i": 124,
-        "word": "new",
-        "start": 41.12,
-        "end": 41.26
-      },
-      {
-        "i": 125,
-        "word": "name",
-        "start": 41.26,
-        "end": 41.46
-      },
-      {
-        "i": 126,
-        "word": "and",
-        "start": 41.46,
-        "end": 41.72
-      },
-      {
-        "i": 127,
-        "word": "confirm",
-        "start": 41.72,
-        "end": 42.12
-      },
-      {
-        "i": 128,
-        "word": "the",
-        "start": 42.12,
-        "end": 42.32
-      },
-      {
-        "i": 129,
-        "word": "change.",
-        "start": 42.32,
-        "end": 42.72
+        "word": "details.",
+        "start": 39.96,
+        "end": 40.56
       }
     ]
   },
   {
     "id": 11,
-    "text": "Here's the part Many Tutorials Skip.",
-    "start": 43.4,
-    "end": 45.28,
+    "text": "Leave clearly labeled spaces for anything you're sending platform adds, such as an unsubscribe link, and configure those details in that platform before sending.",
+    "start": 41.12,
+    "end": 49.58,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      130,
-      135
+      123,
+      146
     ],
     "words": [
       {
+        "i": 123,
+        "word": "Leave",
+        "start": 41.12,
+        "end": 41.32
+      },
+      {
+        "i": 124,
+        "word": "clearly",
+        "start": 41.32,
+        "end": 41.7
+      },
+      {
+        "i": 125,
+        "word": "labeled",
+        "start": 41.7,
+        "end": 41.96
+      },
+      {
+        "i": 126,
+        "word": "spaces",
+        "start": 41.96,
+        "end": 42.4
+      },
+      {
+        "i": 127,
+        "word": "for",
+        "start": 42.4,
+        "end": 42.7
+      },
+      {
+        "i": 128,
+        "word": "anything",
+        "start": 42.7,
+        "end": 43.08
+      },
+      {
+        "i": 129,
+        "word": "you're",
+        "start": 43.08,
+        "end": 43.36
+      },
+      {
         "i": 130,
-        "word": "Here's",
-        "start": 43.4,
-        "end": 43.58
+        "word": "sending",
+        "start": 43.36,
+        "end": 43.6
       },
       {
         "i": 131,
-        "word": "the",
-        "start": 43.58,
-        "end": 43.7
+        "word": "platform",
+        "start": 43.6,
+        "end": 44.06
       },
       {
         "i": 132,
-        "word": "part",
-        "start": 43.7,
-        "end": 43.9
+        "word": "adds,",
+        "start": 44.06,
+        "end": 44.48
       },
       {
         "i": 133,
-        "word": "Many",
-        "start": 43.9,
-        "end": 44.32
+        "word": "such",
+        "start": 44.86,
+        "end": 45.08
       },
       {
         "i": 134,
-        "word": "Tutorials",
-        "start": 44.32,
-        "end": 45.16
+        "word": "as",
+        "start": 45.08,
+        "end": 45.26
       },
       {
         "i": 135,
-        "word": "Skip.",
-        "start": 45.16,
-        "end": 45.28
+        "word": "an",
+        "start": 45.26,
+        "end": 45.38
+      },
+      {
+        "i": 136,
+        "word": "unsubscribe",
+        "start": 45.38,
+        "end": 46.12
+      },
+      {
+        "i": 137,
+        "word": "link,",
+        "start": 46.12,
+        "end": 46.38
+      },
+      {
+        "i": 138,
+        "word": "and",
+        "start": 46.74,
+        "end": 46.88
+      },
+      {
+        "i": 139,
+        "word": "configure",
+        "start": 46.88,
+        "end": 47.24
+      },
+      {
+        "i": 140,
+        "word": "those",
+        "start": 47.24,
+        "end": 47.52
+      },
+      {
+        "i": 141,
+        "word": "details",
+        "start": 47.52,
+        "end": 47.9
+      },
+      {
+        "i": 142,
+        "word": "in",
+        "start": 47.9,
+        "end": 48.24
+      },
+      {
+        "i": 143,
+        "word": "that",
+        "start": 48.24,
+        "end": 48.44
+      },
+      {
+        "i": 144,
+        "word": "platform",
+        "start": 48.44,
+        "end": 48.86
+      },
+      {
+        "i": 145,
+        "word": "before",
+        "start": 48.86,
+        "end": 49.2
+      },
+      {
+        "i": 146,
+        "word": "sending.",
+        "start": 49.2,
+        "end": 49.58
       }
     ]
   },
   {
     "id": 12,
-    "text": "A design title and the name of an uploaded asset are separate.",
-    "start": 45.86,
-    "end": 49.44,
+    "text": "Keep a master copy with placeholder headings and images.",
+    "start": 50.24,
+    "end": 52.68,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      136,
-      147
+      147,
+      155
     ],
     "words": [
       {
-        "i": 136,
-        "word": "A",
-        "start": 45.86,
-        "end": 46.0
-      },
-      {
-        "i": 137,
-        "word": "design",
-        "start": 46.0,
-        "end": 46.3
-      },
-      {
-        "i": 138,
-        "word": "title",
-        "start": 46.3,
-        "end": 46.68
-      },
-      {
-        "i": 139,
-        "word": "and",
-        "start": 46.68,
-        "end": 47.18
-      },
-      {
-        "i": 140,
-        "word": "the",
-        "start": 47.18,
-        "end": 47.32
-      },
-      {
-        "i": 141,
-        "word": "name",
-        "start": 47.32,
-        "end": 47.48
-      },
-      {
-        "i": 142,
-        "word": "of",
-        "start": 47.48,
-        "end": 47.64
-      },
-      {
-        "i": 143,
-        "word": "an",
-        "start": 47.64,
-        "end": 47.74
-      },
-      {
-        "i": 144,
-        "word": "uploaded",
-        "start": 47.74,
-        "end": 48.12
-      },
-      {
-        "i": 145,
-        "word": "asset",
-        "start": 48.12,
-        "end": 48.54
-      },
-      {
-        "i": 146,
-        "word": "are",
-        "start": 48.54,
-        "end": 49.04
-      },
-      {
         "i": 147,
-        "word": "separate.",
-        "start": 49.04,
-        "end": 49.44
+        "word": "Keep",
+        "start": 50.24,
+        "end": 50.46
+      },
+      {
+        "i": 148,
+        "word": "a",
+        "start": 50.46,
+        "end": 50.58
+      },
+      {
+        "i": 149,
+        "word": "master",
+        "start": 50.58,
+        "end": 50.76
+      },
+      {
+        "i": 150,
+        "word": "copy",
+        "start": 50.76,
+        "end": 51.08
+      },
+      {
+        "i": 151,
+        "word": "with",
+        "start": 51.08,
+        "end": 51.34
+      },
+      {
+        "i": 152,
+        "word": "placeholder",
+        "start": 51.34,
+        "end": 51.74
+      },
+      {
+        "i": 153,
+        "word": "headings",
+        "start": 51.74,
+        "end": 52.2
+      },
+      {
+        "i": 154,
+        "word": "and",
+        "start": 52.2,
+        "end": 52.34
+      },
+      {
+        "i": 155,
+        "word": "images.",
+        "start": 52.34,
+        "end": 52.68
       }
     ]
   },
   {
     "id": 13,
-    "text": "Renaming your thumbnail design does not rename the photo you uploaded into it, and changing the Canva name does not rename the source file on your computer.",
-    "start": 50.14,
-    "end": 57.7,
+    "text": "Duplicate it whenever you need a new campaign so the original template stays reusable.",
+    "start": 53.26,
+    "end": 57.46,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      148,
-      174
+      156,
+      169
     ],
     "words": [
       {
-        "i": 148,
-        "word": "Renaming",
-        "start": 50.14,
-        "end": 50.5
-      },
-      {
-        "i": 149,
-        "word": "your",
-        "start": 50.5,
-        "end": 50.74
-      },
-      {
-        "i": 150,
-        "word": "thumbnail",
-        "start": 50.74,
-        "end": 51.06
-      },
-      {
-        "i": 151,
-        "word": "design",
-        "start": 51.06,
-        "end": 51.46
-      },
-      {
-        "i": 152,
-        "word": "does",
-        "start": 51.46,
-        "end": 51.64
-      },
-      {
-        "i": 153,
-        "word": "not",
-        "start": 51.64,
-        "end": 51.82
-      },
-      {
-        "i": 154,
-        "word": "rename",
-        "start": 51.82,
-        "end": 52.18
-      },
-      {
-        "i": 155,
-        "word": "the",
-        "start": 52.18,
-        "end": 52.38
-      },
-      {
         "i": 156,
-        "word": "photo",
-        "start": 52.38,
-        "end": 52.64
+        "word": "Duplicate",
+        "start": 53.26,
+        "end": 53.8
       },
       {
         "i": 157,
-        "word": "you",
-        "start": 52.64,
-        "end": 52.82
+        "word": "it",
+        "start": 53.8,
+        "end": 53.96
       },
       {
         "i": 158,
-        "word": "uploaded",
-        "start": 52.82,
-        "end": 53.2
+        "word": "whenever",
+        "start": 53.96,
+        "end": 54.12
       },
       {
         "i": 159,
-        "word": "into",
-        "start": 53.2,
-        "end": 53.52
+        "word": "you",
+        "start": 54.12,
+        "end": 54.38
       },
       {
         "i": 160,
-        "word": "it,",
-        "start": 53.52,
-        "end": 53.82
+        "word": "need",
+        "start": 54.38,
+        "end": 54.52
       },
       {
         "i": 161,
-        "word": "and",
-        "start": 53.82,
-        "end": 54.26
+        "word": "a",
+        "start": 54.52,
+        "end": 54.66
       },
       {
         "i": 162,
-        "word": "changing",
-        "start": 54.26,
-        "end": 54.54
-      },
-      {
-        "i": 163,
-        "word": "the",
-        "start": 54.54,
+        "word": "new",
+        "start": 54.66,
         "end": 54.82
       },
       {
-        "i": 164,
-        "word": "Canva",
+        "i": 163,
+        "word": "campaign",
         "start": 54.82,
-        "end": 55.04
+        "end": 55.2
+      },
+      {
+        "i": 164,
+        "word": "so",
+        "start": 55.2,
+        "end": 55.48
       },
       {
         "i": 165,
-        "word": "name",
-        "start": 55.04,
-        "end": 55.28
+        "word": "the",
+        "start": 55.48,
+        "end": 55.62
       },
       {
         "i": 166,
-        "word": "does",
-        "start": 55.28,
-        "end": 55.68
+        "word": "original",
+        "start": 55.62,
+        "end": 55.96
       },
       {
         "i": 167,
-        "word": "not",
-        "start": 55.68,
-        "end": 55.86
+        "word": "template",
+        "start": 55.96,
+        "end": 56.42
       },
       {
         "i": 168,
-        "word": "rename",
-        "start": 55.86,
-        "end": 56.14
+        "word": "stays",
+        "start": 56.42,
+        "end": 56.86
       },
       {
         "i": 169,
-        "word": "the",
-        "start": 56.14,
-        "end": 56.32
-      },
-      {
-        "i": 170,
-        "word": "source",
-        "start": 56.32,
-        "end": 56.54
-      },
-      {
-        "i": 171,
-        "word": "file",
-        "start": 56.54,
-        "end": 56.84
-      },
-      {
-        "i": 172,
-        "word": "on",
-        "start": 56.84,
-        "end": 57.1
-      },
-      {
-        "i": 173,
-        "word": "your",
-        "start": 57.1,
-        "end": 57.24
-      },
-      {
-        "i": 174,
-        "word": "computer.",
-        "start": 57.24,
-        "end": 57.7
+        "word": "reusable.",
+        "start": 56.86,
+        "end": 57.46
       }
     ]
   },
   {
     "id": 14,
-    "text": "For repeat projects, include the topic and a clear version label such as Draft01 or Final.",
-    "start": 58.24,
-    "end": 63.64,
+    "text": "Use Preview to check the desktop and mobile layouts.",
+    "start": 58.18,
+    "end": 60.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      175,
-      190
+      170,
+      178
     ],
     "words": [
       {
-        "i": 175,
-        "word": "For",
-        "start": 58.24,
+        "i": 170,
+        "word": "Use",
+        "start": 58.18,
         "end": 58.38
       },
       {
-        "i": 176,
-        "word": "repeat",
+        "i": 171,
+        "word": "Preview",
         "start": 58.38,
-        "end": 58.64
+        "end": 58.68
+      },
+      {
+        "i": 172,
+        "word": "to",
+        "start": 58.68,
+        "end": 58.98
+      },
+      {
+        "i": 173,
+        "word": "check",
+        "start": 58.98,
+        "end": 59.16
+      },
+      {
+        "i": 174,
+        "word": "the",
+        "start": 59.16,
+        "end": 59.32
+      },
+      {
+        "i": 175,
+        "word": "desktop",
+        "start": 59.32,
+        "end": 59.7
+      },
+      {
+        "i": 176,
+        "word": "and",
+        "start": 59.7,
+        "end": 60.18
       },
       {
         "i": 177,
-        "word": "projects,",
-        "start": 58.64,
-        "end": 59.12
-      },
-      {
-        "i": 178,
-        "word": "include",
-        "start": 59.24,
-        "end": 59.52
-      },
-      {
-        "i": 179,
-        "word": "the",
-        "start": 59.52,
-        "end": 59.72
-      },
-      {
-        "i": 180,
-        "word": "topic",
-        "start": 59.72,
-        "end": 59.98
-      },
-      {
-        "i": 181,
-        "word": "and",
-        "start": 59.98,
-        "end": 60.38
-      },
-      {
-        "i": 182,
-        "word": "a",
-        "start": 60.38,
+        "word": "mobile",
+        "start": 60.18,
         "end": 60.5
       },
       {
-        "i": 183,
-        "word": "clear",
+        "i": 178,
+        "word": "layouts.",
         "start": 60.5,
-        "end": 60.78
-      },
-      {
-        "i": 184,
-        "word": "version",
-        "start": 60.78,
-        "end": 61.14
-      },
-      {
-        "i": 185,
-        "word": "label",
-        "start": 61.14,
-        "end": 61.48
-      },
-      {
-        "i": 186,
-        "word": "such",
-        "start": 61.48,
-        "end": 61.88
-      },
-      {
-        "i": 187,
-        "word": "as",
-        "start": 61.88,
-        "end": 62.38
-      },
-      {
-        "i": 188,
-        "word": "Draft01",
-        "start": 62.38,
-        "end": 62.64
-      },
-      {
-        "i": 189,
-        "word": "or",
-        "start": 62.64,
-        "end": 63.32
-      },
-      {
-        "i": 190,
-        "word": "Final.",
-        "start": 63.32,
-        "end": 63.64
+        "end": 60.94
       }
     ]
   },
   {
     "id": 15,
-    "text": "This makes the correct file easier to recognize when several designs look similar.",
-    "start": 64.42,
-    "end": 68.56,
+    "text": "Send a test email to your Canva login address and check the button.",
+    "start": 61.7,
+    "end": 64.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      191,
-      203
+      179,
+      191
     ],
     "words": [
       {
-        "i": 191,
-        "word": "This",
-        "start": 64.42,
-        "end": 64.6
+        "i": 179,
+        "word": "Send",
+        "start": 61.7,
+        "end": 61.82
       },
       {
-        "i": 192,
-        "word": "makes",
-        "start": 64.6,
-        "end": 64.78
+        "i": 180,
+        "word": "a",
+        "start": 61.82,
+        "end": 61.96
       },
       {
-        "i": 193,
-        "word": "the",
-        "start": 64.78,
-        "end": 64.96
+        "i": 181,
+        "word": "test",
+        "start": 61.96,
+        "end": 62.16
       },
       {
-        "i": 194,
-        "word": "correct",
-        "start": 64.96,
-        "end": 65.22
+        "i": 182,
+        "word": "email",
+        "start": 62.16,
+        "end": 62.42
       },
       {
-        "i": 195,
-        "word": "file",
-        "start": 65.22,
-        "end": 65.58
-      },
-      {
-        "i": 196,
-        "word": "easier",
-        "start": 65.58,
-        "end": 65.88
-      },
-      {
-        "i": 197,
+        "i": 183,
         "word": "to",
-        "start": 65.88,
-        "end": 66.14
+        "start": 62.42,
+        "end": 62.66
       },
       {
-        "i": 198,
-        "word": "recognize",
-        "start": 66.14,
-        "end": 66.54
+        "i": 184,
+        "word": "your",
+        "start": 62.66,
+        "end": 62.9
       },
       {
-        "i": 199,
-        "word": "when",
-        "start": 66.54,
-        "end": 67.04
+        "i": 185,
+        "word": "Canva",
+        "start": 62.9,
+        "end": 63.12
       },
       {
-        "i": 200,
-        "word": "several",
-        "start": 67.04,
-        "end": 67.44
+        "i": 186,
+        "word": "login",
+        "start": 63.12,
+        "end": 63.38
       },
       {
-        "i": 201,
-        "word": "designs",
-        "start": 67.44,
-        "end": 67.82
+        "i": 187,
+        "word": "address",
+        "start": 63.38,
+        "end": 63.76
       },
       {
-        "i": 202,
-        "word": "look",
-        "start": 67.82,
-        "end": 68.1
+        "i": 188,
+        "word": "and",
+        "start": 63.76,
+        "end": 64.16
       },
       {
-        "i": 203,
-        "word": "similar.",
-        "start": 68.1,
-        "end": 68.56
+        "i": 189,
+        "word": "check",
+        "start": 64.16,
+        "end": 64.34
+      },
+      {
+        "i": 190,
+        "word": "the",
+        "start": 64.34,
+        "end": 64.5
+      },
+      {
+        "i": 191,
+        "word": "button.",
+        "start": 64.5,
+        "end": 64.78
       }
     ]
   },
   {
     "id": 16,
-    "text": "Return to Projects and check that the new name is displayed.",
-    "start": 69.12,
-    "end": 71.78,
+    "text": "Image placement and text on your phone.",
+    "start": 65.32,
+    "end": 67.62,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      204,
-      214
+      192,
+      198
     ],
     "words": [
       {
-        "i": 204,
-        "word": "Return",
-        "start": 69.12,
-        "end": 69.38
+        "i": 192,
+        "word": "Image",
+        "start": 65.32,
+        "end": 65.54
       },
       {
-        "i": 205,
-        "word": "to",
-        "start": 69.38,
-        "end": 69.56
+        "i": 193,
+        "word": "placement",
+        "start": 65.54,
+        "end": 65.94
       },
       {
-        "i": 206,
-        "word": "Projects",
-        "start": 69.56,
-        "end": 69.82
-      },
-      {
-        "i": 207,
+        "i": 194,
         "word": "and",
-        "start": 69.82,
-        "end": 70.14
+        "start": 65.94,
+        "end": 66.56
       },
       {
-        "i": 208,
-        "word": "check",
-        "start": 70.14,
-        "end": 70.36
+        "i": 195,
+        "word": "text",
+        "start": 66.56,
+        "end": 66.8
       },
       {
-        "i": 209,
-        "word": "that",
-        "start": 70.36,
-        "end": 70.54
+        "i": 196,
+        "word": "on",
+        "start": 66.8,
+        "end": 67.16
       },
       {
-        "i": 210,
-        "word": "the",
-        "start": 70.54,
-        "end": 70.68
+        "i": 197,
+        "word": "your",
+        "start": 67.16,
+        "end": 67.32
       },
       {
-        "i": 211,
-        "word": "new",
-        "start": 70.68,
-        "end": 70.9
-      },
-      {
-        "i": 212,
-        "word": "name",
-        "start": 70.9,
-        "end": 71.12
-      },
-      {
-        "i": 213,
-        "word": "is",
-        "start": 71.12,
-        "end": 71.32
-      },
-      {
-        "i": 214,
-        "word": "displayed.",
-        "start": 71.32,
-        "end": 71.78
+        "i": 198,
+        "word": "phone.",
+        "start": 67.32,
+        "end": 67.62
       }
     ]
   },
   {
     "id": 17,
-    "text": "Your design or uploaded file now has a clearer name in Canva.",
-    "start": 72.38,
-    "end": 75.52,
+    "text": "Here's the part many tutorials skip.",
+    "start": 68.64,
+    "end": 70.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      215,
-      226
+      199,
+      204
     ],
     "words": [
       {
-        "i": 215,
-        "word": "Your",
-        "start": 72.38,
-        "end": 72.52
+        "i": 199,
+        "word": "Here's",
+        "start": 68.64,
+        "end": 68.82
       },
       {
-        "i": 216,
+        "i": 200,
+        "word": "the",
+        "start": 68.82,
+        "end": 68.92
+      },
+      {
+        "i": 201,
+        "word": "part",
+        "start": 68.92,
+        "end": 69.12
+      },
+      {
+        "i": 202,
+        "word": "many",
+        "start": 69.12,
+        "end": 69.5
+      },
+      {
+        "i": 203,
+        "word": "tutorials",
+        "start": 69.5,
+        "end": 70.06
+      },
+      {
+        "i": 204,
+        "word": "skip.",
+        "start": 70.06,
+        "end": 70.5
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Use Canva's email design type when you need an HTML email.",
+    "start": 71.12,
+    "end": 74.76,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      205,
+      215
+    ],
+    "words": [
+      {
+        "i": 205,
+        "word": "Use",
+        "start": 71.12,
+        "end": 71.34
+      },
+      {
+        "i": 206,
+        "word": "Canva's",
+        "start": 71.34,
+        "end": 71.86
+      },
+      {
+        "i": 207,
+        "word": "email",
+        "start": 71.86,
+        "end": 72.1
+      },
+      {
+        "i": 208,
         "word": "design",
-        "start": 72.52,
-        "end": 72.86
+        "start": 72.1,
+        "end": 72.44
+      },
+      {
+        "i": 209,
+        "word": "type",
+        "start": 72.44,
+        "end": 72.8
+      },
+      {
+        "i": 210,
+        "word": "when",
+        "start": 72.8,
+        "end": 73.04
+      },
+      {
+        "i": 211,
+        "word": "you",
+        "start": 73.04,
+        "end": 73.18
+      },
+      {
+        "i": 212,
+        "word": "need",
+        "start": 73.18,
+        "end": 73.36
+      },
+      {
+        "i": 213,
+        "word": "an",
+        "start": 73.36,
+        "end": 73.58
+      },
+      {
+        "i": 214,
+        "word": "HTML",
+        "start": 73.58,
+        "end": 74.12
+      },
+      {
+        "i": 215,
+        "word": "email.",
+        "start": 74.12,
+        "end": 74.76
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "A regular graphic exported as one long image does not give you the same editable email structure.",
+    "start": 75.42,
+    "end": 80.26,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      216,
+      232
+    ],
+    "words": [
+      {
+        "i": 216,
+        "word": "A",
+        "start": 75.42,
+        "end": 75.64
       },
       {
         "i": 217,
-        "word": "or",
-        "start": 72.86,
-        "end": 73.0
+        "word": "regular",
+        "start": 75.64,
+        "end": 75.9
       },
       {
         "i": 218,
-        "word": "uploaded",
-        "start": 73.0,
-        "end": 73.4
+        "word": "graphic",
+        "start": 75.9,
+        "end": 76.26
       },
       {
         "i": 219,
-        "word": "file",
-        "start": 73.4,
-        "end": 73.8
+        "word": "exported",
+        "start": 76.26,
+        "end": 76.84
       },
       {
         "i": 220,
-        "word": "now",
-        "start": 73.8,
-        "end": 74.02
+        "word": "as",
+        "start": 76.84,
+        "end": 77.08
       },
       {
         "i": 221,
-        "word": "has",
-        "start": 74.02,
-        "end": 74.2
+        "word": "one",
+        "start": 77.08,
+        "end": 77.3
       },
       {
         "i": 222,
-        "word": "a",
-        "start": 74.2,
-        "end": 74.34
+        "word": "long",
+        "start": 77.3,
+        "end": 77.52
       },
       {
         "i": 223,
-        "word": "clearer",
-        "start": 74.34,
-        "end": 74.62
+        "word": "image",
+        "start": 77.52,
+        "end": 77.8
       },
       {
         "i": 224,
-        "word": "name",
-        "start": 74.62,
-        "end": 74.92
+        "word": "does",
+        "start": 77.8,
+        "end": 78.0
       },
       {
         "i": 225,
-        "word": "in",
-        "start": 74.92,
-        "end": 75.12
+        "word": "not",
+        "start": 78.0,
+        "end": 78.18
       },
       {
         "i": 226,
-        "word": "Canva.",
-        "start": 75.12,
-        "end": 75.52
+        "word": "give",
+        "start": 78.18,
+        "end": 78.32
+      },
+      {
+        "i": 227,
+        "word": "you",
+        "start": 78.32,
+        "end": 78.46
+      },
+      {
+        "i": 228,
+        "word": "the",
+        "start": 78.46,
+        "end": 78.6
+      },
+      {
+        "i": 229,
+        "word": "same",
+        "start": 78.6,
+        "end": 78.88
+      },
+      {
+        "i": 230,
+        "word": "editable",
+        "start": 78.88,
+        "end": 79.46
+      },
+      {
+        "i": 231,
+        "word": "email",
+        "start": 79.46,
+        "end": 79.76
+      },
+      {
+        "i": 232,
+        "word": "structure.",
+        "start": 79.76,
+        "end": 80.26
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Open Share and choose Copy HTML if your email platform accepts pasted code.",
+    "start": 80.9,
+    "end": 85.94,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      233,
+      245
+    ],
+    "words": [
+      {
+        "i": 233,
+        "word": "Open",
+        "start": 80.9,
+        "end": 81.28
+      },
+      {
+        "i": 234,
+        "word": "Share",
+        "start": 81.28,
+        "end": 81.58
+      },
+      {
+        "i": 235,
+        "word": "and",
+        "start": 81.58,
+        "end": 81.9
+      },
+      {
+        "i": 236,
+        "word": "choose",
+        "start": 81.9,
+        "end": 82.28
+      },
+      {
+        "i": 237,
+        "word": "Copy",
+        "start": 82.28,
+        "end": 82.66
+      },
+      {
+        "i": 238,
+        "word": "HTML",
+        "start": 82.66,
+        "end": 83.18
+      },
+      {
+        "i": 239,
+        "word": "if",
+        "start": 83.18,
+        "end": 83.64
+      },
+      {
+        "i": 240,
+        "word": "your",
+        "start": 83.64,
+        "end": 83.82
+      },
+      {
+        "i": 241,
+        "word": "email",
+        "start": 83.82,
+        "end": 84.16
+      },
+      {
+        "i": 242,
+        "word": "platform",
+        "start": 84.16,
+        "end": 84.58
+      },
+      {
+        "i": 243,
+        "word": "accepts",
+        "start": 84.58,
+        "end": 85.0
+      },
+      {
+        "i": 244,
+        "word": "pasted",
+        "start": 85.0,
+        "end": 85.54
+      },
+      {
+        "i": 245,
+        "word": "code.",
+        "start": 85.54,
+        "end": 85.94
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Otherwise, choose Download and select HTML and images to export a zip package.",
+    "start": 86.42,
+    "end": 91.18,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      246,
+      258
+    ],
+    "words": [
+      {
+        "i": 246,
+        "word": "Otherwise,",
+        "start": 86.42,
+        "end": 86.76
+      },
+      {
+        "i": 247,
+        "word": "choose",
+        "start": 86.78,
+        "end": 87.16
+      },
+      {
+        "i": 248,
+        "word": "Download",
+        "start": 87.16,
+        "end": 87.56
+      },
+      {
+        "i": 249,
+        "word": "and",
+        "start": 87.56,
+        "end": 87.94
+      },
+      {
+        "i": 250,
+        "word": "select",
+        "start": 87.94,
+        "end": 88.2
+      },
+      {
+        "i": 251,
+        "word": "HTML",
+        "start": 88.2,
+        "end": 88.74
+      },
+      {
+        "i": 252,
+        "word": "and",
+        "start": 88.74,
+        "end": 89.14
+      },
+      {
+        "i": 253,
+        "word": "images",
+        "start": 89.14,
+        "end": 89.46
+      },
+      {
+        "i": 254,
+        "word": "to",
+        "start": 89.46,
+        "end": 90.0
+      },
+      {
+        "i": 255,
+        "word": "export",
+        "start": 90.0,
+        "end": 90.36
+      },
+      {
+        "i": 256,
+        "word": "a",
+        "start": 90.36,
+        "end": 90.56
+      },
+      {
+        "i": 257,
+        "word": "zip",
+        "start": 90.56,
+        "end": 90.7
+      },
+      {
+        "i": 258,
+        "word": "package.",
+        "start": 90.7,
+        "end": 91.18
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Import the result using your platform's HTML workflow.",
+    "start": 91.76,
+    "end": 94.5,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      259,
+      266
+    ],
+    "words": [
+      {
+        "i": 259,
+        "word": "Import",
+        "start": 91.76,
+        "end": 92.0
+      },
+      {
+        "i": 260,
+        "word": "the",
+        "start": 92.0,
+        "end": 92.16
+      },
+      {
+        "i": 261,
+        "word": "result",
+        "start": 92.16,
+        "end": 92.4
+      },
+      {
+        "i": 262,
+        "word": "using",
+        "start": 92.4,
+        "end": 92.66
+      },
+      {
+        "i": 263,
+        "word": "your",
+        "start": 92.66,
+        "end": 92.9
+      },
+      {
+        "i": 264,
+        "word": "platform's",
+        "start": 92.9,
+        "end": 93.42
+      },
+      {
+        "i": 265,
+        "word": "HTML",
+        "start": 93.42,
+        "end": 93.9
+      },
+      {
+        "i": 266,
+        "word": "workflow.",
+        "start": 93.9,
+        "end": 94.5
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Send another test from the actual sending platform because email clients can display layouts differently.",
+    "start": 95.58,
+    "end": 100.14,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      267,
+      281
+    ],
+    "words": [
+      {
+        "i": 267,
+        "word": "Send",
+        "start": 95.58,
+        "end": 95.68
+      },
+      {
+        "i": 268,
+        "word": "another",
+        "start": 95.68,
+        "end": 95.92
+      },
+      {
+        "i": 269,
+        "word": "test",
+        "start": 95.92,
+        "end": 96.22
+      },
+      {
+        "i": 270,
+        "word": "from",
+        "start": 96.22,
+        "end": 96.42
+      },
+      {
+        "i": 271,
+        "word": "the",
+        "start": 96.42,
+        "end": 96.56
+      },
+      {
+        "i": 272,
+        "word": "actual",
+        "start": 96.56,
+        "end": 96.94
+      },
+      {
+        "i": 273,
+        "word": "sending",
+        "start": 96.94,
+        "end": 97.2
+      },
+      {
+        "i": 274,
+        "word": "platform",
+        "start": 97.2,
+        "end": 97.72
+      },
+      {
+        "i": 275,
+        "word": "because",
+        "start": 97.72,
+        "end": 98.08
+      },
+      {
+        "i": 276,
+        "word": "email",
+        "start": 98.08,
+        "end": 98.4
+      },
+      {
+        "i": 277,
+        "word": "clients",
+        "start": 98.4,
+        "end": 98.72
+      },
+      {
+        "i": 278,
+        "word": "can",
+        "start": 98.72,
+        "end": 98.96
+      },
+      {
+        "i": 279,
+        "word": "display",
+        "start": 98.96,
+        "end": 99.3
+      },
+      {
+        "i": 280,
+        "word": "layouts",
+        "start": 99.3,
+        "end": 99.72
+      },
+      {
+        "i": 281,
+        "word": "differently.",
+        "start": 99.72,
+        "end": 100.14
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Your template is now ready to reuse.",
+    "start": 100.82,
+    "end": 102.3,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      282,
+      288
+    ],
+    "words": [
+      {
+        "i": 282,
+        "word": "Your",
+        "start": 100.82,
+        "end": 100.94
+      },
+      {
+        "i": 283,
+        "word": "template",
+        "start": 100.94,
+        "end": 101.2
+      },
+      {
+        "i": 284,
+        "word": "is",
+        "start": 101.2,
+        "end": 101.46
+      },
+      {
+        "i": 285,
+        "word": "now",
+        "start": 101.46,
+        "end": 101.62
+      },
+      {
+        "i": 286,
+        "word": "ready",
+        "start": 101.62,
+        "end": 101.78
+      },
+      {
+        "i": 287,
+        "word": "to",
+        "start": 101.78,
+        "end": 101.98
+      },
+      {
+        "i": 288,
+        "word": "reuse.",
+        "start": 101.98,
+        "end": 102.3
       }
     ]
   }

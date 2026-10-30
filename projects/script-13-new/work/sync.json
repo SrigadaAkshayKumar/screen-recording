@@ -1,0 +1,182 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "Uploads"
+  },
+  {
+   "action": "A2",
+   "line": 3,
+   "word": "file"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "should"
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "Audio",
+   "src_from": 49.0,
+   "prev_until": 25.5
+  },
+  {
+   "action": "A7",
+   "line": 5,
+   "word": "track,"
+  },
+  {
+   "action": "A8",
+   "line": 6,
+   "word": "layering",
+   "src_from": 73.2,
+   "prev_until": 57.8
+  },
+  {
+   "action": "A9",
+   "line": 7,
+   "word": "sound",
+   "src_from": 83.0,
+   "prev_until": 78.5
+  },
+  {
+   "action": "A10",
+   "line": 8,
+   "word": "moment"
+  },
+  {
+   "action": "A11",
+   "line": 8,
+   "word": "title",
+   "src_from": 123.0,
+   "prev_until": 88.6
+  },
+  {
+   "action": "A12",
+   "line": 9,
+   "word": "Listen",
+   "src_from": 144.8,
+   "prev_until": 127.5
+  },
+  {
+   "action": "A13",
+   "line": 10,
+   "word": "Select",
+   "src_from": 181.9,
+   "prev_until": 149.0
+  },
+  {
+   "action": "A14",
+   "line": 11,
+   "word": "loud"
+  },
+  {
+   "action": "A15",
+   "line": 13,
+   "word": "Trim"
+  },
+  {
+   "action": "A16",
+   "line": 14,
+   "word": "place"
+  },
+  {
+   "action": "A17",
+   "line": 16,
+   "word": "part"
+  },
+  {
+   "action": "A18",
+   "line": 17,
+   "word": "Preview"
+  },
+  {
+   "action": "A19",
+   "line": 17,
+   "word": "covering"
+  },
+  {
+   "action": "A20",
+   "line": 18,
+   "word": "MP4"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20"
+ ],
+ "cuts": [
+  {
+   "src_start": 51.8,
+   "src_end": 54.6,
+   "reason": "browsing audio list",
+   "xfade": true
+  },
+  {
+   "src_start": 15.4,
+   "src_end": 19.0,
+   "reason": "upload processing wait",
+   "xfade": true
+  },
+  {
+   "src_start": 198.5,
+   "src_end": 204.8,
+   "reason": "idle screen, cursor only",
+   "xfade": true
+  },
+  {
+   "src_start": 214.9,
+   "src_end": 219.0,
+   "reason": "idle still",
+   "xfade": true
+  },
+  {
+   "src_start": 226.77,
+   "src_end": 229.5,
+   "reason": "idle still",
+   "xfade": true
+  },
+  {
+   "src_start": 235.57,
+   "src_end": 239.7,
+   "reason": "idle still",
+   "xfade": true
+  },
+  {
+   "src_start": 246.1,
+   "src_end": 248.3,
+   "reason": "idle still",
+   "xfade": true
+  },
+  {
+   "src_start": 249.5,
+   "src_end": 251.5,
+   "reason": "share panel dwell",
+   "xfade": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 1.0
+}

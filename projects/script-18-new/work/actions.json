@@ -1,0 +1,14 @@
+{
+ "recording": {"width":1920,"height":1080,"fps":30,"duration":215.267},
+ "sync": {"source":"frames"},
+ "actions": [
+  {"id":"A1","t_click":20.1,"x":857,"y":224,"kind":"click","target":"Fade button in the toolbar","result":"Fade in / Fade out sliders panel opens","t_result_visible":20.6,"confidence":"medium"},
+  {"id":"A2","t_click":24.2,"x":1000,"y":260,"kind":"drag","x2":1050,"y2":260,"t_end":26.0,"target":"Fade in / Fade out sliders","result":"durations change","t_result_visible":26.4,"confidence":"low"},
+  {"id":"A3","t_click":114.13,"x":950,"y":225,"kind":"click","target":"Audio tools button","result":"Audio tools panel opens","t_result_visible":116.5,"confidence":"low"},
+  {"id":"A4","t_click":183.5,"x":1090,"y":235,"kind":"click","target":"Play button","result":"preview plays","t_result_visible":184.8,"confidence":"low"}
+ ],
+ "junk": [
+  {"start":132.5,"end":147.5,"reason":"opened BG remover / edit panels: off-topic"},
+  {"start":209.5,"end":215.267,"reason":"desktop after the export, recorder stop"}
+ ]
+}

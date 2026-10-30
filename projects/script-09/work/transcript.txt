@@ -1,21 +1,20 @@
-This tutorial shows you how to remove an animation from a Canva object or page.
-Open your design and select the object whose animation you want to remove.
-For example, click the photo rather than the page background.
-Click Animate in the toolbar.
-Open the relevant element or text tab and choose Remove Animation.
-The object stays in place, but its applied animation is cleared.
-Play the preview to check the result.
-If the object still appears to move, click an empty area of the page.
-Open Animate again and inspect the page tab.
-Remove the page animation too if you want that page to stay still.
-If movement happens only when you change pages, inspect the transition between them.
-Open that transition settings and remove it separately.
-For an object with a custom motion path, open its animation settings and use Delete Path when needed.
-Check any additional motion effects that remain enabled.
+This tutorial shows you how to add an adjustable border around a page in Canva without covering the content.
+Open your design and go to Elements.
+Under Shapes, add a basic rectangle.
+Resize the rectangle so it sits slightly inside all four page edges.
+Leave a clear margin between the border and the text, especially if you plan to print the design.
+With the rectangle selected, open its Fill Color control and choose the Transparent or No Color option.
+Then open Stroke Style in the toolbar, choose a solid line and adjust the line weight.
+Choose the border color using the Stroke Color control.
+Keep the line thin for a clean document or increase the weight for a stronger frame.
+Open Position and centre the rectangle horizontally and vertically.
+Check that the spacing around the page looks even.
+Lock the border when you are happy with it so it stays in place while you edit the content.
+For a decorative version, search Elements for Rectangle Border or Page Border and choose a graphic you can resize to fit.
+Some decorative graphics have fewer editing controls than a basic shape.
 Here's the part many tutorials skip.
-Remove Animation clears effects applied by Canva.
-It does not freeze movement that is already inside an uploaded video,
-animated gif or animated graphic.
-Replace that asset with a still image when you want it completely static.
-Preview from the beginning so you can check both the entrance and the page change.
-The selected animation is now removed and the rest of your design remains ready to edit.
+Lowering the transparency of the entire rectangle also fades its outline.
+Remove the Fill using the Fill control so the border remains fully visible.
+If you need the same border on several pages, duplicate the bordered page before adding the next page's content
+or copy the border to your existing pages.
+Download a preview and check that the complete outline is visible on every side.

@@ -1,0 +1,33 @@
+{
+ "anchors": [
+  {"action":"A1","line":2,"word":"upload"},
+  {"action":"A2","line":2,"word":"uploads"},
+  {"action":"A4","line":3,"word":"canvas"},
+  {"action":"A5","line":3,"word":"select","src_from":39.2,"prev_until":26.3},
+  {"action":"A6","line":4,"word":"Remover"},
+  {"action":"A8","line":5,"word":"Edit","src_from":69.0,"prev_until":47.4},
+  {"action":"A7","line":8,"word":"play","src_from":49.0,"prev_until":72.2},
+  {"action":"A9","line":9,"word":"colour","src_from":129.1,"prev_until":69.2},
+  {"action":"A12","line":10,"word":"position","src_from":151.5,"prev_until":133.7},
+  {"action":"A10","line":10,"word":"move","src_from":139.9,"prev_until":154.0},
+  {"action":"A11","line":11,"word":"position"},
+  {"action":"A13","line":12,"word":"tutorials","src_from":194.5,"prev_until":151.2},
+  {"action":"A14","line":15,"word":"footage","src_from":224.6,"prev_until":210.2},
+  {"action":"A15","line":16,"word":"Preview","src_from":236.4,"prev_until":229.5},
+  {"action":"A16","line":17,"word":"Export"},
+  {"action":"A17","line":17,"word":"save"},
+  {"action":"A18","line":17,"word":"background"}
+ ],
+ "zooms": [],
+ "no_ripple": ["A1","A2","A3","A4","A5","A6","A7","A8","A9","A10","A11","A12","A13","A14","A15","A16","A17","A18"],
+ "cuts": [
+  {"src_start":21.6,"src_end":23.0,"reason":"file dialog browsing","xfade":true},
+  {"src_start":54.6,"src_end":62.6,"reason":"processing finished, idle timeline","xfade":true},
+  {"src_start":143.2,"src_end":147.8,"reason":"extra track dragging","ff":true},
+  {"src_start":245.6,"src_end":253.2,"reason":"idle download panel","xfade":true}
+ ],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 17.3,
+ "src_end": 257.5
+}

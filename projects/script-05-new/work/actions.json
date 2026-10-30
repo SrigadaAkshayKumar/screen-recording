@@ -1,0 +1,213 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 206.0
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 4.85,
+   "x": 105,
+   "y": 705,
+   "kind": "click",
+   "target": "Uploads tab in the sidebar",
+   "result": "uploads panel opens",
+   "t_result_visible": 5.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 8.2,
+   "x": 300,
+   "y": 560,
+   "kind": "click",
+   "target": "video thumbnail",
+   "result": "clip added to the timeline",
+   "t_result_visible": 9.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 51.6,
+   "x": 1032,
+   "y": 302,
+   "kind": "drag",
+   "target": "Blur slider in CapCut",
+   "result": "video blurs",
+   "t_result_visible": 53.6,
+   "confidence": "low",
+   "t_end": 53.4,
+   "x2": 1445,
+   "y2": 322
+  },
+  {
+   "id": "A4",
+   "t_click": 67.4,
+   "x": 1205,
+   "y": 907,
+   "kind": "click",
+   "target": "Export button in CapCut",
+   "result": "export starts / file-exists prompt",
+   "t_result_visible": 68.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 85.0,
+   "x": 758,
+   "y": 547,
+   "kind": "click",
+   "target": "Open button in the file dialog",
+   "result": "blurred file uploads",
+   "t_result_visible": 86.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 88.4,
+   "x": 300,
+   "y": 640,
+   "kind": "click",
+   "target": "uploaded blurred video thumbnail",
+   "result": "blurred clip added to the canvas",
+   "t_result_visible": 89.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 91.2,
+   "x": 1450,
+   "y": 300,
+   "kind": "drag",
+   "target": "corner handle of the blurred clip",
+   "result": "clip enlarged over the canvas",
+   "t_result_visible": 93.5,
+   "confidence": "low",
+   "t_end": 93.4,
+   "x2": 1850,
+   "y2": 400
+  },
+  {
+   "id": "A8",
+   "t_click": 111.65,
+   "x": 300,
+   "y": 640,
+   "kind": "click",
+   "target": "sharp video thumbnail",
+   "result": "sharp clip placed over the blurred one",
+   "t_result_visible": 112.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 124.8,
+   "x": 1150,
+   "y": 520,
+   "kind": "drag",
+   "target": "corner handle of the sharp clip",
+   "result": "sharp clip resized to fit",
+   "t_result_visible": 129.4,
+   "confidence": "low",
+   "t_end": 129.2,
+   "x2": 1100,
+   "y2": 560
+  },
+  {
+   "id": "A10",
+   "t_click": 131.45,
+   "x": 1800,
+   "y": 100,
+   "kind": "click",
+   "target": "Position button",
+   "result": "position panel / centred",
+   "t_result_visible": 131.7,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 138.4,
+   "x": 1250,
+   "y": 720,
+   "kind": "drag",
+   "target": "start handle of the clip on the timeline",
+   "result": "timeline start aligned",
+   "t_result_visible": 138.9,
+   "confidence": "low",
+   "t_end": 138.9,
+   "x2": 1200,
+   "y2": 720
+  },
+  {
+   "id": "A12",
+   "t_click": 143.0,
+   "x": 1640,
+   "y": 100,
+   "kind": "click",
+   "target": "Speed control",
+   "result": "speed panel opens",
+   "t_result_visible": 143.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 151.4,
+   "x": 640,
+   "y": 100,
+   "kind": "click",
+   "target": "clip audio / volume control",
+   "result": "volume control shown",
+   "t_result_visible": 151.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 178.3,
+   "x": 1000,
+   "y": 700,
+   "kind": "click",
+   "target": "Play button",
+   "result": "playback starts",
+   "t_result_visible": 178.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 198.3,
+   "x": 1860,
+   "y": 40,
+   "kind": "click",
+   "target": "Share button",
+   "result": "share panel opens",
+   "t_result_visible": 199.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A16",
+   "t_click": 200.9,
+   "x": 1448,
+   "y": 610,
+   "kind": "click",
+   "target": "Download button",
+   "result": "download settings open",
+   "t_result_visible": 201.2,
+   "confidence": "low"
+  },
+  {
+   "id": "A17",
+   "t_click": 202.5,
+   "x": 1420,
+   "y": 95,
+   "kind": "click",
+   "target": "File type dropdown",
+   "result": "MP4 Video highlighted",
+   "t_result_visible": 202.9,
+   "confidence": "low"
+  }
+ ],
+ "junk": []
+}

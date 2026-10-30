@@ -1,0 +1,247 @@
+{
+ "recording": {
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "duration": 306.248
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 22.8,
+   "x": 620,
+   "y": 230,
+   "kind": "click",
+   "target": "Apps in the left sidebar",
+   "result": "Apps panel opens",
+   "t_result_visible": 24.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 26.3,
+   "x": 110,
+   "y": 125,
+   "kind": "type",
+   "target": "Apps search field",
+   "result": "BGBlur results appear",
+   "t_result_visible": 29.9,
+   "confidence": "medium",
+   "text": "BGBlur"
+  },
+  {
+   "id": "A3",
+   "t_click": 33.6,
+   "x": 520,
+   "y": 215,
+   "kind": "click",
+   "target": "Face Blur in Video app icon",
+   "result": "Face Blur panel opens",
+   "t_result_visible": 37.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 50.6,
+   "x": 250,
+   "y": 320,
+   "kind": "click",
+   "target": "Choose file button",
+   "result": "file picker opens",
+   "t_result_visible": 51.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 57.0,
+   "x": 230,
+   "y": 390,
+   "kind": "click",
+   "target": "Open button in file dialog",
+   "result": "video uploaded in the app",
+   "t_result_visible": 58.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 69.8,
+   "x": 150,
+   "y": 370,
+   "kind": "drag",
+   "target": "Intensity slider",
+   "result": "blur strength changes",
+   "t_result_visible": 70.5,
+   "confidence": "medium",
+   "x2": 50,
+   "y2": 370,
+   "t_end": 70.9
+  },
+  {
+   "id": "A7",
+   "t_click": 73.4,
+   "x": 140,
+   "y": 345,
+   "kind": "click",
+   "target": "Gaussian blur style",
+   "result": "style selected",
+   "t_result_visible": 74.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 79.0,
+   "x": 250,
+   "y": 410,
+   "kind": "click",
+   "target": "Process your video button",
+   "result": "processing starts",
+   "t_result_visible": 79.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 80.5,
+   "x": 250,
+   "y": 330,
+   "kind": "wait",
+   "target": "processing progress bar",
+   "result": "processed video shown with Add to design",
+   "t_result_visible": 114.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 124.6,
+   "x": 250,
+   "y": 300,
+   "kind": "click",
+   "target": "Add to design button",
+   "result": "processed video added to the design",
+   "t_result_visible": 137.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 163.3,
+   "x": 640,
+   "y": 375,
+   "kind": "click",
+   "target": "Play button",
+   "result": "clip plays in the editor",
+   "t_result_visible": 163.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 209.0,
+   "x": 20,
+   "y": 210,
+   "kind": "click",
+   "target": "Apps in the left sidebar",
+   "result": "Apps panel opens",
+   "t_result_visible": 210.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 214.5,
+   "x": 20,
+   "y": 180,
+   "kind": "click",
+   "target": "Elements in the left sidebar",
+   "result": "Elements panel opens",
+   "t_result_visible": 216.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 217.4,
+   "x": 100,
+   "y": 250,
+   "kind": "type",
+   "target": "Elements search field",
+   "result": "blur results shown",
+   "t_result_visible": 221.5,
+   "confidence": "medium",
+   "text": "blur"
+  },
+  {
+   "id": "A15",
+   "t_click": 222.4,
+   "x": 990,
+   "y": 260,
+   "kind": "click",
+   "target": "blur graphic",
+   "result": "graphic added over the clip",
+   "t_result_visible": 223.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 275.8,
+   "x": 20,
+   "y": 240,
+   "kind": "click",
+   "target": "Text in the left sidebar",
+   "result": "Text panel opens",
+   "t_result_visible": 277.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 277.6,
+   "x": 900,
+   "y": 400,
+   "kind": "click",
+   "target": "Add a heading",
+   "result": "heading added",
+   "t_result_visible": 278.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 283.0,
+   "x": 620,
+   "y": 500,
+   "kind": "type",
+   "target": "heading text",
+   "result": "Welcome typed",
+   "t_result_visible": 285.8,
+   "confidence": "medium",
+   "text": "Welcome"
+  },
+  {
+   "id": "A19",
+   "t_click": 295.2,
+   "x": 1170,
+   "y": 280,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share panel opens",
+   "t_result_visible": 296.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A20",
+   "t_click": 298.9,
+   "x": 660,
+   "y": 600,
+   "kind": "click",
+   "target": "MP4 Video file type",
+   "result": "MP4 selected",
+   "t_result_visible": 299.5,
+   "confidence": "medium"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0,
+   "end": 12.0,
+   "reason": "setup before the narrated start (uploads panel)"
+  }
+ ]
+}

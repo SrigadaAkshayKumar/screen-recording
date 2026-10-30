@@ -3,1446 +3,1584 @@
     "word": "This",
     "start": 0.0,
     "end": 0.22,
-    "prob": 0.941
+    "prob": 0.954
   },
   {
     "word": "tutorial",
     "start": 0.22,
     "end": 0.58,
-    "prob": 0.994
+    "prob": 0.991
   },
   {
     "word": "shows",
     "start": 0.58,
     "end": 1.02,
-    "prob": 0.989
+    "prob": 0.988
   },
   {
     "word": "you",
     "start": 1.02,
-    "end": 1.2,
-    "prob": 0.967
+    "end": 1.24,
+    "prob": 0.982
   },
   {
     "word": "how",
-    "start": 1.2,
-    "end": 1.34,
+    "start": 1.24,
+    "end": 1.36,
     "prob": 0.996
   },
   {
     "word": "to",
-    "start": 1.34,
+    "start": 1.36,
     "end": 1.52,
-    "prob": 0.999
+    "prob": 0.998
   },
   {
-    "word": "control",
+    "word": "add",
     "start": 1.52,
-    "end": 1.92,
-    "prob": 0.999
-  },
-  {
-    "word": "when",
-    "start": 1.92,
-    "end": 2.22,
-    "prob": 0.992
-  },
-  {
-    "word": "an",
-    "start": 2.22,
-    "end": 2.36,
-    "prob": 0.989
-  },
-  {
-    "word": "animation",
-    "start": 2.36,
-    "end": 2.76,
-    "prob": 0.994
-  },
-  {
-    "word": "begins",
-    "start": 2.76,
-    "end": 3.18,
-    "prob": 0.994
-  },
-  {
-    "word": "and",
-    "start": 3.18,
-    "end": 3.6,
-    "prob": 0.734
-  },
-  {
-    "word": "how",
-    "start": 3.6,
-    "end": 3.8,
-    "prob": 0.999
-  },
-  {
-    "word": "long",
-    "start": 3.8,
-    "end": 3.98,
-    "prob": 1.0
-  },
-  {
-    "word": "its",
-    "start": 3.98,
-    "end": 4.16,
-    "prob": 0.953
-  },
-  {
-    "word": "object",
-    "start": 4.16,
-    "end": 4.58,
-    "prob": 0.994
-  },
-  {
-    "word": "stays",
-    "start": 4.58,
-    "end": 4.94,
-    "prob": 0.996
-  },
-  {
-    "word": "visible",
-    "start": 4.94,
-    "end": 5.36,
-    "prob": 0.997
-  },
-  {
-    "word": "in",
-    "start": 5.36,
-    "end": 5.7,
-    "prob": 0.984
-  },
-  {
-    "word": "Canva.",
-    "start": 5.7,
-    "end": 6.14,
-    "prob": 0.983
-  },
-  {
-    "word": "Open",
-    "start": 6.84,
-    "end": 7.1,
+    "end": 1.7,
     "prob": 0.996
   },
   {
     "word": "a",
-    "start": 7.1,
-    "end": 7.26,
-    "prob": 0.998
-  },
-  {
-    "word": "video",
-    "start": 7.26,
-    "end": 7.46,
-    "prob": 0.941
-  },
-  {
-    "word": "design",
-    "start": 7.46,
-    "end": 7.84,
+    "start": 1.7,
+    "end": 1.86,
     "prob": 0.997
   },
   {
-    "word": "and",
-    "start": 7.84,
-    "end": 8.04,
-    "prob": 0.988
+    "word": "live",
+    "start": 1.86,
+    "end": 2.06,
+    "prob": 0.682
   },
   {
-    "word": "select",
-    "start": 8.04,
-    "end": 8.3,
-    "prob": 0.998
+    "word": "events",
+    "start": 2.06,
+    "end": 2.42,
+    "prob": 0.837
   },
   {
-    "word": "the",
-    "start": 8.3,
-    "end": 8.5,
-    "prob": 0.998
-  },
-  {
-    "word": "animated",
-    "start": 8.5,
-    "end": 8.9,
-    "prob": 0.995
-  },
-  {
-    "word": "text,",
-    "start": 8.9,
-    "end": 9.42,
-    "prob": 0.996
-  },
-  {
-    "word": "image",
-    "start": 9.94,
-    "end": 10.2,
-    "prob": 0.998
-  },
-  {
-    "word": "or",
-    "start": 10.2,
-    "end": 10.6,
-    "prob": 0.632
-  },
-  {
-    "word": "shape",
-    "start": 10.6,
-    "end": 10.88,
-    "prob": 0.998
-  },
-  {
-    "word": "you",
-    "start": 10.88,
-    "end": 11.3,
-    "prob": 0.995
-  },
-  {
-    "word": "want",
-    "start": 11.3,
-    "end": 11.46,
-    "prob": 0.999
+    "word": "calendar",
+    "start": 2.42,
+    "end": 2.78,
+    "prob": 0.993
   },
   {
     "word": "to",
-    "start": 11.46,
-    "end": 11.64,
+    "start": 2.78,
+    "end": 3.06,
+    "prob": 0.997
+  },
+  {
+    "word": "a",
+    "start": 3.06,
+    "end": 3.38,
+    "prob": 0.99
+  },
+  {
+    "word": "Canva",
+    "start": 3.38,
+    "end": 3.48,
+    "prob": 0.975
+  },
+  {
+    "word": "website",
+    "start": 3.48,
+    "end": 3.98,
+    "prob": 0.96
+  },
+  {
+    "word": "using",
+    "start": 3.98,
+    "end": 4.54,
+    "prob": 0.818
+  },
+  {
+    "word": "a",
+    "start": 4.54,
+    "end": 4.82,
+    "prob": 0.995
+  },
+  {
+    "word": "calendar",
+    "start": 4.82,
+    "end": 5.16,
+    "prob": 0.757
+  },
+  {
+    "word": "embed",
+    "start": 5.16,
+    "end": 5.58,
+    "prob": 0.986
+  },
+  {
+    "word": "link",
+    "start": 5.58,
+    "end": 5.88,
+    "prob": 0.999
+  },
+  {
+    "word": "from",
+    "start": 5.88,
+    "end": 6.2,
+    "prob": 0.997
+  },
+  {
+    "word": "Calgette.",
+    "start": 6.2,
+    "end": 7.12,
+    "prob": 0.655
+  },
+  {
+    "word": "Open",
+    "start": 7.46,
+    "end": 7.76,
+    "prob": 0.995
+  },
+  {
+    "word": "your",
+    "start": 7.76,
+    "end": 7.94,
+    "prob": 0.995
+  },
+  {
+    "word": "website",
+    "start": 7.94,
+    "end": 8.28,
+    "prob": 0.99
+  },
+  {
+    "word": "design",
+    "start": 8.28,
+    "end": 8.6,
+    "prob": 0.994
+  },
+  {
+    "word": "in",
+    "start": 8.6,
+    "end": 8.82,
+    "prob": 0.994
+  },
+  {
+    "word": "Canva",
+    "start": 8.82,
+    "end": 9.22,
     "prob": 0.998
   },
   {
-    "word": "adjust.",
-    "start": 11.64,
-    "end": 11.96,
+    "word": "and",
+    "start": 9.22,
+    "end": 9.46,
+    "prob": 0.945
+  },
+  {
+    "word": "create",
+    "start": 9.46,
+    "end": 9.8,
+    "prob": 0.997
+  },
+  {
+    "word": "a",
+    "start": 9.8,
+    "end": 10.02,
+    "prob": 0.998
+  },
+  {
+    "word": "section",
+    "start": 10.02,
+    "end": 10.28,
+    "prob": 0.998
+  },
+  {
+    "word": "for",
+    "start": 10.28,
+    "end": 10.62,
+    "prob": 0.998
+  },
+  {
+    "word": "upcoming",
+    "start": 10.62,
+    "end": 11.08,
+    "prob": 0.99
+  },
+  {
+    "word": "events.",
+    "start": 11.08,
+    "end": 11.64,
+    "prob": 0.996
+  },
+  {
+    "word": "Leave",
+    "start": 12.38,
+    "end": 12.52,
+    "prob": 0.994
+  },
+  {
+    "word": "a",
+    "start": 12.52,
+    "end": 12.7,
+    "prob": 0.999
+  },
+  {
+    "word": "wide",
+    "start": 12.7,
+    "end": 13.04,
+    "prob": 0.994
+  },
+  {
+    "word": "clear",
+    "start": 13.04,
+    "end": 13.4,
+    "prob": 0.665
+  },
+  {
+    "word": "area",
+    "start": 13.4,
+    "end": 13.86,
+    "prob": 0.993
+  },
+  {
+    "word": "where",
+    "start": 13.86,
+    "end": 14.08,
+    "prob": 0.994
+  },
+  {
+    "word": "the",
+    "start": 14.08,
+    "end": 14.24,
+    "prob": 0.999
+  },
+  {
+    "word": "calendar",
+    "start": 14.24,
+    "end": 14.54,
+    "prob": 0.992
+  },
+  {
+    "word": "will",
+    "start": 14.54,
+    "end": 14.78,
+    "prob": 0.998
+  },
+  {
+    "word": "appear.",
+    "start": 14.78,
+    "end": 15.16,
     "prob": 0.999
   },
   {
     "word": "In",
-    "start": 12.9,
-    "end": 13.04,
-    "prob": 0.993
-  },
-  {
-    "word": "the",
-    "start": 13.04,
-    "end": 13.14,
-    "prob": 0.998
-  },
-  {
-    "word": "video",
-    "start": 13.14,
-    "end": 13.38,
-    "prob": 0.672
-  },
-  {
-    "word": "timeline,",
-    "start": 13.38,
-    "end": 13.84,
-    "prob": 0.989
-  },
-  {
-    "word": "find",
-    "start": 14.06,
-    "end": 14.26,
-    "prob": 0.998
-  },
-  {
-    "word": "that",
-    "start": 14.26,
-    "end": 14.5,
-    "prob": 0.987
-  },
-  {
-    "word": "object's",
-    "start": 14.5,
-    "end": 15.04,
-    "prob": 0.974
-  },
-  {
-    "word": "layer.",
-    "start": 15.04,
-    "end": 15.26,
-    "prob": 0.995
-  },
-  {
-    "word": "Drag",
     "start": 15.84,
-    "end": 15.98,
-    "prob": 0.997
-  },
-  {
-    "word": "the",
-    "start": 15.98,
-    "end": 16.16,
-    "prob": 0.999
-  },
-  {
-    "word": "whole",
-    "start": 16.16,
-    "end": 16.38,
-    "prob": 0.995
-  },
-  {
-    "word": "layer",
-    "start": 16.38,
-    "end": 16.66,
-    "prob": 0.998
-  },
-  {
-    "word": "left",
-    "start": 16.66,
-    "end": 16.86,
-    "prob": 0.99
-  },
-  {
-    "word": "or",
-    "start": 16.86,
-    "end": 17.08,
-    "prob": 0.987
-  },
-  {
-    "word": "right",
-    "start": 17.08,
-    "end": 17.32,
-    "prob": 0.999
-  },
-  {
-    "word": "to",
-    "start": 17.32,
-    "end": 17.5,
+    "end": 16.08,
     "prob": 0.994
   },
   {
-    "word": "change",
-    "start": 17.5,
-    "end": 17.78,
-    "prob": 0.999
-  },
-  {
-    "word": "its",
-    "start": 17.78,
-    "end": 17.96,
-    "prob": 0.97
-  },
-  {
-    "word": "starting",
-    "start": 17.96,
-    "end": 18.42,
-    "prob": 0.991
-  },
-  {
-    "word": "time",
-    "start": 18.42,
-    "end": 18.8,
-    "prob": 0.998
-  },
-  {
-    "word": "without",
-    "start": 18.8,
-    "end": 19.3,
-    "prob": 0.856
-  },
-  {
-    "word": "changing",
-    "start": 19.3,
-    "end": 19.7,
-    "prob": 0.998
-  },
-  {
-    "word": "its",
-    "start": 19.7,
-    "end": 19.94,
-    "prob": 0.99
-  },
-  {
-    "word": "length.",
-    "start": 19.94,
-    "end": 20.26,
+    "word": "another",
+    "start": 16.08,
+    "end": 16.34,
     "prob": 0.995
   },
   {
-    "word": "For",
-    "start": 20.9,
-    "end": 21.04,
+    "word": "browser",
+    "start": 16.34,
+    "end": 16.66,
+    "prob": 0.957
+  },
+  {
+    "word": "tab,",
+    "start": 16.66,
+    "end": 17.06,
+    "prob": 0.997
+  },
+  {
+    "word": "sign",
+    "start": 17.32,
+    "end": 17.62,
+    "prob": 0.994
+  },
+  {
+    "word": "in",
+    "start": 17.62,
+    "end": 17.8,
+    "prob": 0.801
+  },
+  {
+    "word": "to",
+    "start": 17.8,
+    "end": 18.0,
     "prob": 0.998
   },
   {
-    "word": "example,",
-    "start": 21.04,
-    "end": 21.3,
-    "prob": 0.999
+    "word": "Calgette",
+    "start": 18.0,
+    "end": 18.6,
+    "prob": 0.969
   },
   {
-    "word": "move",
-    "start": 21.66,
-    "end": 21.78,
-    "prob": 0.998
+    "word": "and",
+    "start": 18.6,
+    "end": 18.82,
+    "prob": 0.985
+  },
+  {
+    "word": "create",
+    "start": 18.82,
+    "end": 19.18,
+    "prob": 0.994
   },
   {
     "word": "a",
-    "start": 21.78,
-    "end": 21.92,
+    "start": 19.18,
+    "end": 19.48,
     "prob": 0.998
   },
   {
-    "word": "heading",
-    "start": 21.92,
-    "end": 22.14,
-    "prob": 0.988
+    "word": "calendar.",
+    "start": 19.48,
+    "end": 19.84,
+    "prob": 0.989
   },
   {
-    "word": "so",
-    "start": 22.14,
-    "end": 22.44,
-    "prob": 0.984
-  },
-  {
-    "word": "it",
-    "start": 22.44,
-    "end": 22.54,
-    "prob": 0.988
-  },
-  {
-    "word": "begins",
-    "start": 22.54,
-    "end": 22.78,
-    "prob": 0.997
-  },
-  {
-    "word": "two",
-    "start": 22.78,
-    "end": 23.08,
-    "prob": 0.642
-  },
-  {
-    "word": "seconds",
-    "start": 23.08,
-    "end": 23.42,
-    "prob": 0.997
-  },
-  {
-    "word": "into",
-    "start": 23.42,
-    "end": 23.68,
-    "prob": 0.993
-  },
-  {
-    "word": "the",
-    "start": 23.68,
-    "end": 23.84,
-    "prob": 0.998
-  },
-  {
-    "word": "video.",
-    "start": 23.84,
-    "end": 24.18,
-    "prob": 0.999
-  },
-  {
-    "word": "Drag",
-    "start": 24.96,
-    "end": 25.18,
-    "prob": 0.998
-  },
-  {
-    "word": "the",
-    "start": 25.18,
-    "end": 25.36,
-    "prob": 0.999
-  },
-  {
-    "word": "right",
-    "start": 25.36,
-    "end": 25.58,
+    "word": "Add",
+    "start": 20.46,
+    "end": 20.66,
     "prob": 0.996
   },
   {
-    "word": "edge",
-    "start": 25.58,
-    "end": 25.9,
+    "word": "a",
+    "start": 20.66,
+    "end": 20.84,
     "prob": 0.999
   },
   {
-    "word": "of",
-    "start": 25.9,
-    "end": 26.02,
-    "prob": 0.994
+    "word": "sample",
+    "start": 20.84,
+    "end": 21.08,
+    "prob": 0.976
   },
   {
-    "word": "the",
-    "start": 26.02,
-    "end": 26.14,
+    "word": "event",
+    "start": 21.08,
+    "end": 21.38,
     "prob": 0.998
   },
   {
-    "word": "layer",
-    "start": 26.14,
-    "end": 26.34,
+    "word": "with",
+    "start": 21.38,
+    "end": 21.58,
+    "prob": 0.994
+  },
+  {
+    "word": "its",
+    "start": 21.58,
+    "end": 21.74,
+    "prob": 0.966
+  },
+  {
+    "word": "title,",
+    "start": 21.74,
+    "end": 22.14,
+    "prob": 0.984
+  },
+  {
+    "word": "date,",
+    "start": 22.54,
+    "end": 22.76,
+    "prob": 0.998
+  },
+  {
+    "word": "time",
+    "start": 23.2,
+    "end": 23.56,
     "prob": 0.999
   },
   {
-    "word": "to",
-    "start": 26.34,
-    "end": 26.54,
-    "prob": 0.999
+    "word": "and",
+    "start": 23.56,
+    "end": 24.02,
+    "prob": 0.596
   },
   {
-    "word": "change",
-    "start": 26.54,
-    "end": 26.84,
+    "word": "location.",
+    "start": 24.02,
+    "end": 24.54,
     "prob": 1.0
   },
   {
-    "word": "when",
-    "start": 26.84,
+    "word": "This",
+    "start": 25.24,
+    "end": 25.46,
+    "prob": 0.998
+  },
+  {
+    "word": "external",
+    "start": 25.46,
+    "end": 25.96,
+    "prob": 0.996
+  },
+  {
+    "word": "calendar",
+    "start": 25.96,
+    "end": 26.38,
+    "prob": 0.99
+  },
+  {
+    "word": "will",
+    "start": 26.38,
+    "end": 26.64,
+    "prob": 0.999
+  },
+  {
+    "word": "supply",
+    "start": 26.64,
     "end": 27.06,
     "prob": 0.997
   },
   {
     "word": "the",
     "start": 27.06,
-    "end": 27.18,
+    "end": 27.24,
     "prob": 0.997
   },
   {
-    "word": "object",
-    "start": 27.18,
-    "end": 27.56,
+    "word": "live",
+    "start": 27.24,
+    "end": 27.48,
+    "prob": 0.975
+  },
+  {
+    "word": "event",
+    "start": 27.48,
+    "end": 27.78,
+    "prob": 0.993
+  },
+  {
+    "word": "information.",
+    "start": 27.78,
+    "end": 28.36,
     "prob": 0.999
   },
   {
-    "word": "disappears.",
-    "start": 27.56,
-    "end": 28.08,
-    "prob": 0.998
+    "word": "Open",
+    "start": 29.1,
+    "end": 29.7,
+    "prob": 0.766
   },
   {
-    "word": "If",
-    "start": 28.72,
-    "end": 29.04,
-    "prob": 0.75
+    "word": "Calgette's",
+    "start": 29.7,
+    "end": 30.3,
+    "prob": 0.614
   },
   {
-    "word": "it",
-    "start": 29.04,
-    "end": 29.14,
-    "prob": 0.982
+    "word": "embeddable",
+    "start": 30.3,
+    "end": 30.78,
+    "prob": 0.883
   },
   {
-    "word": "starts",
-    "start": 29.14,
-    "end": 29.36,
-    "prob": 0.992
+    "word": "calendar",
+    "start": 30.78,
+    "end": 31.1,
+    "prob": 0.961
   },
   {
-    "word": "at",
-    "start": 29.36,
-    "end": 29.56,
-    "prob": 0.992
-  },
-  {
-    "word": "two",
-    "start": 29.56,
-    "end": 29.78,
-    "prob": 0.263
-  },
-  {
-    "word": "seconds",
-    "start": 29.78,
-    "end": 30.1,
+    "word": "area",
+    "start": 31.1,
+    "end": 31.58,
     "prob": 0.997
   },
   {
     "word": "and",
-    "start": 30.1,
-    "end": 30.34,
-    "prob": 0.914
+    "start": 31.58,
+    "end": 31.84,
+    "prob": 0.954
   },
   {
-    "word": "ends",
-    "start": 30.34,
-    "end": 30.5,
-    "prob": 0.996
+    "word": "select",
+    "start": 31.84,
+    "end": 32.18,
+    "prob": 0.995
   },
   {
-    "word": "at",
-    "start": 30.5,
-    "end": 30.7,
-    "prob": 0.991
+    "word": "your",
+    "start": 32.18,
+    "end": 32.48,
+    "prob": 0.997
   },
   {
-    "word": "six",
-    "start": 30.7,
-    "end": 30.86,
-    "prob": 0.874
+    "word": "calendar.",
+    "start": 32.48,
+    "end": 32.9,
+    "prob": 0.986
   },
   {
-    "word": "seconds,",
-    "start": 30.86,
-    "end": 31.32,
-    "prob": 0.999
-  },
-  {
-    "word": "the",
-    "start": 31.64,
-    "end": 31.8,
-    "prob": 0.993
-  },
-  {
-    "word": "object",
-    "start": 31.8,
-    "end": 32.14,
-    "prob": 0.994
-  },
-  {
-    "word": "has",
-    "start": 32.14,
-    "end": 32.36,
-    "prob": 0.999
+    "word": "Choose",
+    "start": 33.6,
+    "end": 33.74,
+    "prob": 0.988
   },
   {
     "word": "a",
-    "start": 32.36,
-    "end": 32.52,
-    "prob": 0.996
-  },
-  {
-    "word": "four",
-    "start": 32.52,
-    "end": 32.76,
-    "prob": 0.907
-  },
-  {
-    "word": "-second",
-    "start": 32.76,
-    "end": 33.1,
-    "prob": 0.713
-  },
-  {
-    "word": "visible",
-    "start": 33.1,
-    "end": 33.48,
-    "prob": 0.953
-  },
-  {
-    "word": "span.",
-    "start": 33.48,
+    "start": 33.74,
     "end": 33.94,
     "prob": 0.998
   },
   {
-    "word": "To",
-    "start": 34.64,
-    "end": 34.78,
-    "prob": 0.997
-  },
-  {
-    "word": "change",
-    "start": 34.78,
-    "end": 35.04,
-    "prob": 0.999
-  },
-  {
-    "word": "the",
-    "start": 35.04,
-    "end": 35.22,
-    "prob": 0.999
-  },
-  {
-    "word": "entrance",
-    "start": 35.22,
-    "end": 35.5,
-    "prob": 0.898
-  },
-  {
-    "word": "animation",
-    "start": 35.5,
-    "end": 35.88,
-    "prob": 0.998
-  },
-  {
-    "word": "itself,",
-    "start": 35.88,
-    "end": 36.38,
-    "prob": 0.997
-  },
-  {
-    "word": "select",
-    "start": 36.74,
-    "end": 37.04,
-    "prob": 0.994
-  },
-  {
-    "word": "the",
-    "start": 37.04,
-    "end": 37.24,
-    "prob": 0.999
-  },
-  {
-    "word": "object",
-    "start": 37.24,
-    "end": 37.66,
-    "prob": 0.998
-  },
-  {
-    "word": "and",
-    "start": 37.66,
-    "end": 38.08,
-    "prob": 0.874
-  },
-  {
-    "word": "open",
-    "start": 38.08,
-    "end": 38.52,
-    "prob": 0.952
-  },
-  {
-    "word": "animate.",
-    "start": 38.52,
-    "end": 38.98,
-    "prob": 0.289
-  },
-  {
-    "word": "For",
-    "start": 39.84,
-    "end": 39.98,
-    "prob": 0.996
-  },
-  {
-    "word": "supported",
-    "start": 39.98,
-    "end": 40.34,
-    "prob": 0.99
-  },
-  {
-    "word": "effects,",
-    "start": 40.34,
-    "end": 40.8,
-    "prob": 0.993
-  },
-  {
-    "word": "use",
-    "start": 41.12,
-    "end": 41.3,
-    "prob": 0.998
-  },
-  {
-    "word": "the",
-    "start": 41.3,
-    "end": 41.5,
-    "prob": 0.999
-  },
-  {
-    "word": "intro",
-    "start": 41.5,
-    "end": 41.84,
-    "prob": 0.836
-  },
-  {
-    "word": "or",
-    "start": 41.84,
-    "end": 42.26,
-    "prob": 0.985
-  },
-  {
-    "word": "outro",
-    "start": 42.26,
-    "end": 42.76,
-    "prob": 0.981
-  },
-  {
-    "word": "duration",
-    "start": 42.76,
-    "end": 43.14,
-    "prob": 0.969
-  },
-  {
-    "word": "controls.",
-    "start": 43.14,
-    "end": 43.72,
-    "prob": 0.999
-  },
-  {
-    "word": "Try",
-    "start": 44.36,
-    "end": 44.68,
-    "prob": 0.994
-  },
-  {
-    "word": "a",
-    "start": 44.68,
-    "end": 44.82,
-    "prob": 0.987
-  },
-  {
-    "word": "one",
-    "start": 44.82,
-    "end": 45.04,
-    "prob": 0.974
-  },
-  {
-    "word": "-second",
-    "start": 45.04,
-    "end": 45.32,
-    "prob": 0.849
-  },
-  {
-    "word": "intro",
-    "start": 45.32,
-    "end": 45.86,
-    "prob": 0.996
-  },
-  {
-    "word": "then",
-    "start": 45.86,
-    "end": 46.1,
-    "prob": 0.508
-  },
-  {
-    "word": "preview",
-    "start": 46.1,
-    "end": 46.5,
-    "prob": 0.997
-  },
-  {
-    "word": "the",
-    "start": 46.5,
-    "end": 46.74,
-    "prob": 0.998
-  },
-  {
-    "word": "movement",
-    "start": 46.74,
-    "end": 47.06,
-    "prob": 0.999
-  },
-  {
-    "word": "from",
-    "start": 47.06,
-    "end": 47.26,
-    "prob": 0.998
-  },
-  {
-    "word": "just",
-    "start": 47.26,
-    "end": 47.54,
-    "prob": 0.998
-  },
-  {
-    "word": "before",
-    "start": 47.54,
-    "end": 47.84,
-    "prob": 0.999
-  },
-  {
-    "word": "the",
-    "start": 47.84,
-    "end": 48.0,
-    "prob": 0.998
-  },
-  {
-    "word": "object's",
-    "start": 48.0,
-    "end": 48.54,
-    "prob": 0.924
-  },
-  {
-    "word": "starting",
-    "start": 48.54,
-    "end": 48.84,
-    "prob": 0.999
-  },
-  {
-    "word": "time.",
-    "start": 48.84,
-    "end": 49.22,
-    "prob": 0.999
-  },
-  {
-    "word": "If",
-    "start": 49.82,
-    "end": 50.04,
-    "prob": 0.997
-  },
-  {
-    "word": "the",
-    "start": 50.04,
-    "end": 50.2,
-    "prob": 0.999
-  },
-  {
-    "word": "selected",
-    "start": 50.2,
-    "end": 50.54,
-    "prob": 0.996
-  },
-  {
-    "word": "effect",
-    "start": 50.54,
-    "end": 50.88,
+    "word": "view",
+    "start": 33.94,
+    "end": 34.14,
     "prob": 0.991
   },
   {
-    "word": "only",
-    "start": 50.88,
-    "end": 51.26,
-    "prob": 0.999
+    "word": "such",
+    "start": 34.14,
+    "end": 34.36,
+    "prob": 0.761
   },
   {
-    "word": "provides",
-    "start": 51.26,
-    "end": 51.72,
-    "prob": 0.984
-  },
-  {
-    "word": "speed",
-    "start": 51.72,
-    "end": 52.06,
+    "word": "as",
+    "start": 34.36,
+    "end": 34.62,
     "prob": 0.992
   },
   {
-    "word": "presets,",
-    "start": 52.06,
-    "end": 52.54,
+    "word": "month",
+    "start": 34.62,
+    "end": 34.78,
+    "prob": 0.801
+  },
+  {
+    "word": "or",
+    "start": 34.78,
+    "end": 35.08,
+    "prob": 0.987
+  },
+  {
+    "word": "schedule",
+    "start": 35.08,
+    "end": 35.44,
     "prob": 0.996
   },
   {
-    "word": "use",
-    "start": 53.0,
-    "end": 53.3,
+    "word": "and",
+    "start": 35.44,
+    "end": 35.78,
+    "prob": 0.816
+  },
+  {
+    "word": "adjust",
+    "start": 35.78,
+    "end": 36.08,
+    "prob": 0.999
+  },
+  {
+    "word": "the",
+    "start": 36.08,
+    "end": 36.3,
+    "prob": 0.998
+  },
+  {
+    "word": "colour",
+    "start": 36.3,
+    "end": 36.5,
+    "prob": 0.786
+  },
+  {
+    "word": "to",
+    "start": 36.5,
+    "end": 36.8,
+    "prob": 0.997
+  },
+  {
+    "word": "suit",
+    "start": 36.8,
+    "end": 37.06,
+    "prob": 0.991
+  },
+  {
+    "word": "your",
+    "start": 37.06,
+    "end": 37.24,
+    "prob": 0.996
+  },
+  {
+    "word": "website.",
+    "start": 37.24,
+    "end": 37.6,
     "prob": 0.994
   },
   {
-    "word": "those",
-    "start": 53.3,
-    "end": 53.6,
-    "prob": 0.998
-  },
-  {
-    "word": "or",
-    "start": 53.6,
-    "end": 53.98,
-    "prob": 0.943
-  },
-  {
-    "word": "choose",
-    "start": 53.98,
-    "end": 54.26,
-    "prob": 0.996
-  },
-  {
-    "word": "an",
-    "start": 54.26,
-    "end": 54.42,
-    "prob": 0.997
-  },
-  {
-    "word": "effect",
-    "start": 54.42,
-    "end": 54.7,
-    "prob": 0.998
-  },
-  {
-    "word": "that",
-    "start": 54.7,
-    "end": 54.92,
-    "prob": 0.998
-  },
-  {
-    "word": "offers",
-    "start": 54.92,
-    "end": 55.12,
-    "prob": 0.998
-  },
-  {
-    "word": "the",
-    "start": 55.12,
-    "end": 55.34,
-    "prob": 0.999
-  },
-  {
-    "word": "duration",
-    "start": 55.34,
-    "end": 55.72,
-    "prob": 0.998
-  },
-  {
-    "word": "controls",
-    "start": 55.72,
-    "end": 56.2,
-    "prob": 0.997
-  },
-  {
-    "word": "you",
-    "start": 56.2,
-    "end": 56.4,
-    "prob": 0.998
-  },
-  {
-    "word": "need.",
-    "start": 56.4,
-    "end": 56.68,
-    "prob": 1.0
-  },
-  {
-    "word": "For",
-    "start": 57.2,
-    "end": 57.54,
-    "prob": 0.955
-  },
-  {
-    "word": "a",
-    "start": 57.54,
-    "end": 57.66,
-    "prob": 0.987
-  },
-  {
-    "word": "presentation",
-    "start": 57.66,
-    "end": 58.02,
-    "prob": 0.982
-  },
-  {
-    "word": "or",
-    "start": 58.02,
-    "end": 58.5,
-    "prob": 0.969
-  },
-  {
-    "word": "social",
-    "start": 58.5,
-    "end": 58.84,
-    "prob": 0.98
-  },
-  {
-    "word": "post,",
-    "start": 58.84,
-    "end": 59.18,
-    "prob": 0.987
-  },
-  {
-    "word": "right",
-    "start": 59.64,
-    "end": 59.78,
-    "prob": 0.993
-  },
-  {
-    "word": "-click",
-    "start": 59.78,
-    "end": 60.0,
-    "prob": 0.902
-  },
-  {
-    "word": "the",
-    "start": 60.0,
-    "end": 60.2,
-    "prob": 0.999
-  },
-  {
-    "word": "object",
-    "start": 60.2,
-    "end": 60.5,
-    "prob": 0.996
-  },
-  {
-    "word": "and",
-    "start": 60.5,
-    "end": 60.86,
-    "prob": 0.963
-  },
-  {
-    "word": "use",
-    "start": 60.86,
-    "end": 61.1,
-    "prob": 0.997
-  },
-  {
-    "word": "Show",
-    "start": 61.1,
-    "end": 61.4,
-    "prob": 0.565
-  },
-  {
-    "word": "Element",
-    "start": 61.4,
-    "end": 61.74,
-    "prob": 0.863
-  },
-  {
-    "word": "Timing",
-    "start": 61.74,
-    "end": 62.22,
-    "prob": 0.97
-  },
-  {
-    "word": "when",
-    "start": 62.22,
-    "end": 62.38,
-    "prob": 0.979
-  },
-  {
-    "word": "available.",
-    "start": 62.38,
-    "end": 62.72,
-    "prob": 1.0
-  },
-  {
-    "word": "For",
-    "start": 63.32,
-    "end": 63.56,
-    "prob": 0.998
-  },
-  {
-    "word": "video",
-    "start": 63.56,
-    "end": 63.8,
-    "prob": 0.965
-  },
-  {
-    "word": "designs,",
-    "start": 63.8,
-    "end": 64.22,
-    "prob": 0.997
-  },
-  {
-    "word": "use",
-    "start": 64.54,
-    "end": 64.76,
-    "prob": 0.998
-  },
-  {
-    "word": "the",
-    "start": 64.76,
-    "end": 64.94,
-    "prob": 0.998
-  },
-  {
-    "word": "video",
-    "start": 64.94,
-    "end": 65.2,
-    "prob": 0.551
-  },
-  {
-    "word": "timeline",
-    "start": 65.2,
-    "end": 65.64,
-    "prob": 0.959
-  },
-  {
-    "word": "instead.",
-    "start": 65.64,
-    "end": 66.12,
-    "prob": 0.993
-  },
-  {
-    "word": "Here's",
-    "start": 67.12,
-    "end": 67.34,
-    "prob": 0.978
-  },
-  {
-    "word": "the",
-    "start": 67.34,
-    "end": 67.46,
-    "prob": 0.997
-  },
-  {
-    "word": "part",
-    "start": 67.46,
-    "end": 67.64,
-    "prob": 1.0
-  },
-  {
-    "word": "many",
-    "start": 67.64,
-    "end": 67.98,
-    "prob": 0.972
-  },
-  {
-    "word": "tutorials",
-    "start": 67.98,
-    "end": 68.58,
-    "prob": 0.998
-  },
-  {
-    "word": "skip.",
-    "start": 68.58,
-    "end": 68.98,
-    "prob": 0.997
-  },
-  {
-    "word": "The",
-    "start": 69.52,
-    "end": 69.7,
-    "prob": 0.997
-  },
-  {
-    "word": "object's",
-    "start": 69.7,
-    "end": 70.12,
-    "prob": 0.985
-  },
-  {
-    "word": "visible",
-    "start": 70.12,
-    "end": 70.34,
-    "prob": 0.845
-  },
-  {
-    "word": "span,",
-    "start": 70.34,
-    "end": 70.74,
-    "prob": 0.997
-  },
-  {
-    "word": "the",
-    "start": 71.18,
-    "end": 71.26,
-    "prob": 0.995
-  },
-  {
-    "word": "animation's",
-    "start": 71.26,
-    "end": 71.88,
-    "prob": 0.975
-  },
-  {
-    "word": "intro",
-    "start": 71.88,
-    "end": 72.2,
-    "prob": 0.966
-  },
-  {
-    "word": "duration",
-    "start": 72.2,
-    "end": 72.58,
-    "prob": 0.983
-  },
-  {
-    "word": "and",
-    "start": 72.58,
-    "end": 73.04,
-    "prob": 0.654
-  },
-  {
-    "word": "the",
-    "start": 73.04,
-    "end": 73.16,
-    "prob": 0.992
-  },
-  {
-    "word": "total",
-    "start": 73.16,
-    "end": 73.48,
-    "prob": 0.992
-  },
-  {
-    "word": "page",
-    "start": 73.48,
-    "end": 73.8,
+    "word": "Click",
+    "start": 38.3,
+    "end": 38.48,
     "prob": 0.99
   },
   {
-    "word": "duration",
-    "start": 73.8,
-    "end": 74.3,
+    "word": "Get",
+    "start": 38.48,
+    "end": 38.88,
+    "prob": 0.411
+  },
+  {
+    "word": "Embed",
+    "start": 38.88,
+    "end": 39.28,
+    "prob": 0.83
+  },
+  {
+    "word": "Code,",
+    "start": 39.28,
+    "end": 39.52,
+    "prob": 0.955
+  },
+  {
+    "word": "select",
+    "start": 39.94,
+    "end": 40.16,
+    "prob": 0.986
+  },
+  {
+    "word": "the",
+    "start": 40.16,
+    "end": 40.36,
+    "prob": 0.998
+  },
+  {
+    "word": "direct",
+    "start": 40.36,
+    "end": 40.62,
+    "prob": 0.436
+  },
+  {
+    "word": "link",
+    "start": 40.62,
+    "end": 40.86,
+    "prob": 0.982
+  },
+  {
+    "word": "tab",
+    "start": 40.86,
+    "end": 41.16,
+    "prob": 0.998
+  },
+  {
+    "word": "and",
+    "start": 41.16,
+    "end": 41.68,
+    "prob": 0.742
+  },
+  {
+    "word": "copy",
+    "start": 41.68,
+    "end": 41.96,
+    "prob": 0.994
+  },
+  {
+    "word": "the",
+    "start": 41.96,
+    "end": 42.14,
+    "prob": 0.998
+  },
+  {
+    "word": "link.",
+    "start": 42.14,
+    "end": 42.36,
+    "prob": 1.0
+  },
+  {
+    "word": "Use",
+    "start": 42.92,
+    "end": 43.14,
+    "prob": 0.997
+  },
+  {
+    "word": "this",
+    "start": 43.14,
+    "end": 43.38,
+    "prob": 0.989
+  },
+  {
+    "word": "dedicated",
+    "start": 43.38,
+    "end": 43.78,
+    "prob": 0.996
+  },
+  {
+    "word": "calendar",
+    "start": 43.78,
+    "end": 44.28,
+    "prob": 0.988
+  },
+  {
+    "word": "link",
+    "start": 44.28,
+    "end": 44.54,
+    "prob": 0.997
+  },
+  {
+    "word": "for",
+    "start": 44.54,
+    "end": 44.74,
+    "prob": 0.997
+  },
+  {
+    "word": "the",
+    "start": 44.74,
+    "end": 44.84,
+    "prob": 0.997
+  },
+  {
+    "word": "embed.",
+    "start": 44.84,
+    "end": 45.16,
+    "prob": 0.925
+  },
+  {
+    "word": "Return",
+    "start": 45.88,
+    "end": 46.14,
+    "prob": 0.995
+  },
+  {
+    "word": "to",
+    "start": 46.14,
+    "end": 46.34,
+    "prob": 0.999
+  },
+  {
+    "word": "Canva,",
+    "start": 46.34,
+    "end": 46.7,
+    "prob": 0.983
+  },
+  {
+    "word": "open",
+    "start": 47.2,
+    "end": 47.46,
+    "prob": 0.872
+  },
+  {
+    "word": "Apps",
+    "start": 47.46,
+    "end": 47.78,
+    "prob": 0.632
+  },
+  {
+    "word": "and",
+    "start": 47.78,
+    "end": 48.2,
+    "prob": 0.915
+  },
+  {
+    "word": "search",
+    "start": 48.2,
+    "end": 48.48,
+    "prob": 0.997
+  },
+  {
+    "word": "for",
+    "start": 48.48,
+    "end": 48.78,
+    "prob": 0.999
+  },
+  {
+    "word": "embeds.",
+    "start": 48.78,
+    "end": 49.72,
+    "prob": 0.839
+  },
+  {
+    "word": "Paste",
+    "start": 50.1,
+    "end": 50.22,
+    "prob": 0.991
+  },
+  {
+    "word": "the",
+    "start": 50.22,
+    "end": 50.44,
+    "prob": 0.999
+  },
+  {
+    "word": "calendar's",
+    "start": 50.44,
+    "end": 50.88,
+    "prob": 0.874
+  },
+  {
+    "word": "direct",
+    "start": 50.88,
+    "end": 51.12,
+    "prob": 0.993
+  },
+  {
+    "word": "link",
+    "start": 51.12,
+    "end": 51.4,
+    "prob": 0.999
+  },
+  {
+    "word": "and",
+    "start": 51.4,
+    "end": 51.7,
+    "prob": 0.99
+  },
+  {
+    "word": "click",
+    "start": 51.7,
+    "end": 52.0,
+    "prob": 0.998
+  },
+  {
+    "word": "Add",
+    "start": 52.0,
+    "end": 52.42,
+    "prob": 0.882
+  },
+  {
+    "word": "to",
+    "start": 52.42,
+    "end": 52.6,
+    "prob": 0.936
+  },
+  {
+    "word": "Design.",
+    "start": 52.6,
+    "end": 52.98,
+    "prob": 0.633
+  },
+  {
+    "word": "Resize",
+    "start": 53.74,
+    "end": 54.1,
+    "prob": 0.93
+  },
+  {
+    "word": "the",
+    "start": 54.1,
+    "end": 54.3,
+    "prob": 0.999
+  },
+  {
+    "word": "calendar",
+    "start": 54.3,
+    "end": 54.54,
+    "prob": 0.988
+  },
+  {
+    "word": "to",
+    "start": 54.54,
+    "end": 54.84,
+    "prob": 0.999
+  },
+  {
+    "word": "fit",
+    "start": 54.84,
+    "end": 55.02,
+    "prob": 0.999
+  },
+  {
+    "word": "your",
+    "start": 55.02,
+    "end": 55.24,
+    "prob": 0.996
+  },
+  {
+    "word": "events",
+    "start": 55.24,
+    "end": 55.56,
+    "prob": 0.775
+  },
+  {
+    "word": "section.",
+    "start": 55.56,
+    "end": 56.02,
+    "prob": 0.997
+  },
+  {
+    "word": "Give",
+    "start": 56.02,
+    "end": 56.86,
+    "prob": 0.618
+  },
+  {
+    "word": "it",
+    "start": 56.86,
+    "end": 56.96,
+    "prob": 0.995
+  },
+  {
+    "word": "enough",
+    "start": 56.96,
+    "end": 57.18,
+    "prob": 0.997
+  },
+  {
+    "word": "height",
+    "start": 57.18,
+    "end": 57.48,
+    "prob": 0.996
+  },
+  {
+    "word": "to",
+    "start": 57.48,
+    "end": 57.66,
+    "prob": 0.996
+  },
+  {
+    "word": "display",
+    "start": 57.66,
+    "end": 57.98,
+    "prob": 0.998
+  },
+  {
+    "word": "the",
+    "start": 57.98,
+    "end": 58.18,
+    "prob": 0.996
+  },
+  {
+    "word": "event",
+    "start": 58.18,
+    "end": 58.44,
+    "prob": 0.907
+  },
+  {
+    "word": "list",
+    "start": 58.44,
+    "end": 58.68,
+    "prob": 0.969
+  },
+  {
+    "word": "or",
+    "start": 58.68,
+    "end": 59.04,
+    "prob": 0.933
+  },
+  {
+    "word": "month",
+    "start": 59.04,
+    "end": 59.32,
+    "prob": 0.965
+  },
+  {
+    "word": "grid",
+    "start": 59.32,
+    "end": 59.62,
+    "prob": 0.963
+  },
+  {
+    "word": "without",
+    "start": 59.62,
+    "end": 60.06,
+    "prob": 0.925
+  },
+  {
+    "word": "feeling",
+    "start": 60.06,
+    "end": 60.44,
+    "prob": 0.996
+  },
+  {
+    "word": "cramped.",
+    "start": 60.44,
+    "end": 60.82,
+    "prob": 0.986
+  },
+  {
+    "word": "Add",
+    "start": 61.68,
+    "end": 61.8,
+    "prob": 0.98
+  },
+  {
+    "word": "a",
+    "start": 61.8,
+    "end": 61.94,
+    "prob": 0.998
+  },
+  {
+    "word": "short",
+    "start": 61.94,
+    "end": 62.16,
+    "prob": 0.989
+  },
+  {
+    "word": "heading",
+    "start": 62.16,
+    "end": 62.42,
+    "prob": 0.998
+  },
+  {
+    "word": "above",
+    "start": 62.42,
+    "end": 62.64,
+    "prob": 0.999
+  },
+  {
+    "word": "it",
+    "start": 62.64,
+    "end": 62.86,
+    "prob": 0.995
+  },
+  {
+    "word": "so",
+    "start": 62.86,
+    "end": 63.04,
+    "prob": 0.924
+  },
+  {
+    "word": "visitors",
+    "start": 63.04,
+    "end": 63.32,
+    "prob": 0.985
+  },
+  {
+    "word": "understand",
+    "start": 63.32,
+    "end": 63.84,
+    "prob": 0.992
+  },
+  {
+    "word": "what",
+    "start": 63.84,
+    "end": 64.04,
+    "prob": 0.998
+  },
+  {
+    "word": "they",
+    "start": 64.04,
+    "end": 64.18,
     "prob": 0.999
   },
   {
     "word": "are",
-    "start": 74.3,
-    "end": 74.74,
-    "prob": 0.974
+    "start": 64.18,
+    "end": 64.3,
+    "prob": 0.967
   },
   {
-    "word": "separate",
-    "start": 74.74,
-    "end": 75.14,
+    "word": "looking",
+    "start": 64.3,
+    "end": 64.48,
+    "prob": 0.999
+  },
+  {
+    "word": "at.",
+    "start": 64.48,
+    "end": 64.82,
     "prob": 0.998
   },
   {
-    "word": "settings.",
-    "start": 75.14,
-    "end": 75.58,
+    "word": "Here's",
+    "start": 65.78,
+    "end": 65.96,
+    "prob": 0.981
+  },
+  {
+    "word": "the",
+    "start": 65.96,
+    "end": 66.06,
+    "prob": 0.996
+  },
+  {
+    "word": "part",
+    "start": 66.06,
+    "end": 66.28,
+    "prob": 0.999
+  },
+  {
+    "word": "many",
+    "start": 66.28,
+    "end": 66.56,
+    "prob": 0.975
+  },
+  {
+    "word": "tutorials",
+    "start": 66.56,
+    "end": 67.18,
     "prob": 0.998
   },
   {
-    "word": "Making",
-    "start": 76.56,
-    "end": 76.78,
+    "word": "skip.",
+    "start": 67.18,
+    "end": 67.6,
+    "prob": 0.995
+  },
+  {
+    "word": "An",
+    "start": 68.22,
+    "end": 68.3,
+    "prob": 0.987
+  },
+  {
+    "word": "embed",
+    "start": 68.3,
+    "end": 68.62,
+    "prob": 0.917
+  },
+  {
+    "word": "link",
+    "start": 68.62,
+    "end": 68.9,
+    "prob": 0.99
+  },
+  {
+    "word": "and",
+    "start": 68.9,
+    "end": 69.22,
+    "prob": 0.989
+  },
+  {
+    "word": "HTML",
+    "start": 69.22,
+    "end": 69.82,
+    "prob": 0.905
+  },
+  {
+    "word": "iframe",
+    "start": 69.82,
+    "end": 70.58,
+    "prob": 0.797
+  },
+  {
+    "word": "code",
+    "start": 70.58,
+    "end": 70.9,
+    "prob": 0.994
+  },
+  {
+    "word": "are",
+    "start": 70.9,
+    "end": 71.22,
+    "prob": 0.995
+  },
+  {
+    "word": "different",
+    "start": 71.22,
+    "end": 71.56,
+    "prob": 0.999
+  },
+  {
+    "word": "things.",
+    "start": 71.56,
+    "end": 72.06,
+    "prob": 0.999
+  },
+  {
+    "word": "Canva's",
+    "start": 72.98,
+    "end": 73.28,
+    "prob": 0.909
+  },
+  {
+    "word": "embeds",
+    "start": 73.28,
+    "end": 73.7,
+    "prob": 0.884
+  },
+  {
+    "word": "workflow",
+    "start": 73.7,
+    "end": 74.06,
+    "prob": 0.991
+  },
+  {
+    "word": "takes",
+    "start": 74.06,
+    "end": 74.46,
+    "prob": 0.991
+  },
+  {
+    "word": "a",
+    "start": 74.46,
+    "end": 74.64,
+    "prob": 0.997
+  },
+  {
+    "word": "supported",
+    "start": 74.64,
+    "end": 75.04,
+    "prob": 0.996
+  },
+  {
+    "word": "URL.",
+    "start": 75.04,
+    "end": 75.64,
+    "prob": 0.985
+  },
+  {
+    "word": "Pasting",
+    "start": 76.48,
+    "end": 76.68,
+    "prob": 0.756
+  },
+  {
+    "word": "the",
+    "start": 76.68,
+    "end": 76.9,
+    "prob": 0.998
+  },
+  {
+    "word": "iframe",
+    "start": 76.9,
+    "end": 77.42,
+    "prob": 0.989
+  },
+  {
+    "word": "code",
+    "start": 77.42,
+    "end": 77.74,
+    "prob": 0.997
+  },
+  {
+    "word": "itself",
+    "start": 77.74,
+    "end": 78.06,
+    "prob": 0.996
+  },
+  {
+    "word": "will",
+    "start": 78.06,
+    "end": 78.38,
+    "prob": 0.997
+  },
+  {
+    "word": "not",
+    "start": 78.38,
+    "end": 78.6,
+    "prob": 0.995
+  },
+  {
+    "word": "create",
+    "start": 78.6,
+    "end": 78.96,
+    "prob": 0.999
+  },
+  {
+    "word": "this",
+    "start": 78.96,
+    "end": 79.26,
+    "prob": 0.999
+  },
+  {
+    "word": "calendar.",
+    "start": 79.26,
+    "end": 79.72,
+    "prob": 0.988
+  },
+  {
+    "word": "Preview",
+    "start": 80.42,
+    "end": 80.66,
+    "prob": 0.968
+  },
+  {
+    "word": "the",
+    "start": 80.66,
+    "end": 80.88,
+    "prob": 0.999
+  },
+  {
+    "word": "website",
+    "start": 80.88,
+    "end": 81.16,
+    "prob": 0.982
+  },
+  {
+    "word": "on",
+    "start": 81.16,
+    "end": 81.4,
+    "prob": 0.998
+  },
+  {
+    "word": "desktop",
+    "start": 81.4,
+    "end": 81.74,
+    "prob": 0.981
+  },
+  {
+    "word": "and",
+    "start": 81.74,
+    "end": 82.1,
+    "prob": 0.994
+  },
+  {
+    "word": "mobile,",
+    "start": 82.1,
+    "end": 82.46,
+    "prob": 0.996
+  },
+  {
+    "word": "then",
+    "start": 82.8,
+    "end": 83.0,
+    "prob": 0.997
+  },
+  {
+    "word": "publish",
+    "start": 83.0,
+    "end": 83.38,
+    "prob": 0.996
+  },
+  {
+    "word": "or",
+    "start": 83.38,
+    "end": 83.74,
+    "prob": 0.988
+  },
+  {
+    "word": "republish",
+    "start": 83.74,
+    "end": 84.22,
+    "prob": 0.989
+  },
+  {
+    "word": "it.",
+    "start": 84.22,
+    "end": 84.46,
+    "prob": 0.997
+  },
+  {
+    "word": "Open",
+    "start": 84.46,
+    "end": 85.3,
+    "prob": 0.871
+  },
+  {
+    "word": "the",
+    "start": 85.3,
+    "end": 85.5,
+    "prob": 0.997
+  },
+  {
+    "word": "published",
+    "start": 85.5,
+    "end": 85.76,
+    "prob": 0.982
+  },
+  {
+    "word": "address",
+    "start": 85.76,
+    "end": 86.12,
+    "prob": 0.994
+  },
+  {
+    "word": "and",
+    "start": 86.12,
+    "end": 86.46,
+    "prob": 0.929
+  },
+  {
+    "word": "click",
+    "start": 86.46,
+    "end": 86.64,
+    "prob": 0.996
+  },
+  {
+    "word": "the",
+    "start": 86.64,
+    "end": 86.84,
+    "prob": 0.989
+  },
+  {
+    "word": "sample",
+    "start": 86.84,
+    "end": 87.1,
+    "prob": 0.919
+  },
+  {
+    "word": "event",
+    "start": 87.1,
+    "end": 87.44,
+    "prob": 0.995
+  },
+  {
+    "word": "to",
+    "start": 87.44,
+    "end": 87.82,
+    "prob": 0.989
+  },
+  {
+    "word": "check",
+    "start": 87.82,
+    "end": 88.02,
+    "prob": 0.998
+  },
+  {
+    "word": "the",
+    "start": 88.02,
+    "end": 88.2,
+    "prob": 0.992
+  },
+  {
+    "word": "details.",
+    "start": 88.2,
+    "end": 88.64,
+    "prob": 0.999
+  },
+  {
+    "word": "Finally,",
+    "start": 89.48,
+    "end": 89.68,
+    "prob": 0.997
+  },
+  {
+    "word": "update",
+    "start": 89.84,
+    "end": 90.14,
+    "prob": 0.998
+  },
+  {
+    "word": "that",
+    "start": 90.14,
+    "end": 90.36,
+    "prob": 0.983
+  },
+  {
+    "word": "event",
+    "start": 90.36,
+    "end": 90.62,
+    "prob": 0.996
+  },
+  {
+    "word": "in",
+    "start": 90.62,
+    "end": 90.9,
+    "prob": 0.997
+  },
+  {
+    "word": "Calgette",
+    "start": 90.9,
+    "end": 91.6,
+    "prob": 0.392
+  },
+  {
+    "word": "and",
+    "start": 91.6,
+    "end": 91.78,
+    "prob": 0.97
+  },
+  {
+    "word": "reload",
+    "start": 91.78,
+    "end": 92.1,
+    "prob": 0.998
+  },
+  {
+    "word": "the",
+    "start": 92.1,
+    "end": 92.3,
+    "prob": 0.999
+  },
+  {
+    "word": "website.",
+    "start": 92.3,
+    "end": 92.64,
+    "prob": 0.991
+  },
+  {
+    "word": "Confirm",
+    "start": 93.32,
+    "end": 93.74,
+    "prob": 0.994
+  },
+  {
+    "word": "that",
+    "start": 93.74,
+    "end": 93.86,
+    "prob": 0.982
+  },
+  {
+    "word": "the",
+    "start": 93.86,
+    "end": 93.98,
+    "prob": 0.996
+  },
+  {
+    "word": "change",
+    "start": 93.98,
+    "end": 94.32,
+    "prob": 0.998
+  },
+  {
+    "word": "appears.",
+    "start": 94.32,
+    "end": 94.8,
+    "prob": 0.993
+  },
+  {
+    "word": "You",
+    "start": 95.52,
+    "end": 95.64,
+    "prob": 0.993
+  },
+  {
+    "word": "now",
+    "start": 95.64,
+    "end": 95.8,
+    "prob": 0.995
+  },
+  {
+    "word": "have",
+    "start": 95.8,
+    "end": 95.96,
     "prob": 0.998
   },
   {
     "word": "a",
-    "start": 76.78,
-    "end": 76.96,
-    "prob": 0.997
-  },
-  {
-    "word": "page",
-    "start": 76.96,
-    "end": 77.18,
-    "prob": 0.999
-  },
-  {
-    "word": "longer",
-    "start": 77.18,
-    "end": 77.4,
-    "prob": 0.999
-  },
-  {
-    "word": "does",
-    "start": 77.4,
-    "end": 77.62,
+    "start": 95.96,
+    "end": 96.08,
     "prob": 0.998
   },
   {
-    "word": "not",
-    "start": 77.62,
-    "end": 77.84,
-    "prob": 0.997
+    "word": "live",
+    "start": 96.08,
+    "end": 96.34,
+    "prob": 0.934
   },
   {
-    "word": "automatically",
-    "start": 77.84,
-    "end": 78.36,
-    "prob": 1.0
+    "word": "calendar",
+    "start": 96.34,
+    "end": 96.78,
+    "prob": 0.978
   },
   {
-    "word": "delay",
-    "start": 78.36,
-    "end": 78.86,
+    "word": "rather",
+    "start": 96.78,
+    "end": 97.18,
+    "prob": 0.833
+  },
+  {
+    "word": "than",
+    "start": 97.18,
+    "end": 97.44,
+    "prob": 0.995
+  },
+  {
+    "word": "a",
+    "start": 97.44,
+    "end": 97.54,
+    "prob": 0.988
+  },
+  {
+    "word": "static",
+    "start": 97.54,
+    "end": 97.94,
     "prob": 0.999
   },
   {
-    "word": "an",
-    "start": 78.86,
-    "end": 79.16,
-    "prob": 0.996
-  },
-  {
-    "word": "object's",
-    "start": 79.16,
-    "end": 79.7,
-    "prob": 0.996
-  },
-  {
-    "word": "entrance.",
-    "start": 79.7,
-    "end": 80.1,
-    "prob": 0.994
-  },
-  {
-    "word": "Preview",
-    "start": 80.1,
-    "end": 81.02,
-    "prob": 0.503
-  },
-  {
-    "word": "the",
-    "start": 81.02,
-    "end": 81.26,
-    "prob": 0.996
-  },
-  {
-    "word": "full",
-    "start": 81.26,
-    "end": 81.48,
-    "prob": 0.994
-  },
-  {
-    "word": "sequence",
-    "start": 81.48,
-    "end": 81.86,
+    "word": "calendar",
+    "start": 97.94,
+    "end": 98.36,
     "prob": 0.991
   },
   {
-    "word": "and",
-    "start": 81.86,
-    "end": 82.14,
-    "prob": 0.923
-  },
-  {
-    "word": "leave",
-    "start": 82.14,
-    "end": 82.3,
+    "word": "image.",
+    "start": 98.36,
+    "end": 98.72,
     "prob": 0.998
-  },
-  {
-    "word": "enough",
-    "start": 82.3,
-    "end": 82.56,
-    "prob": 0.997
-  },
-  {
-    "word": "time",
-    "start": 82.56,
-    "end": 82.88,
-    "prob": 0.999
-  },
-  {
-    "word": "after",
-    "start": 82.88,
-    "end": 83.24,
-    "prob": 0.993
-  },
-  {
-    "word": "the",
-    "start": 83.24,
-    "end": 83.4,
-    "prob": 0.998
-  },
-  {
-    "word": "entrance",
-    "start": 83.4,
-    "end": 83.68,
-    "prob": 0.981
-  },
-  {
-    "word": "for",
-    "start": 83.68,
-    "end": 83.96,
-    "prob": 0.996
-  },
-  {
-    "word": "viewers",
-    "start": 83.96,
-    "end": 84.16,
-    "prob": 0.969
-  },
-  {
-    "word": "to",
-    "start": 84.16,
-    "end": 84.42,
-    "prob": 0.999
-  },
-  {
-    "word": "read",
-    "start": 84.42,
-    "end": 84.68,
-    "prob": 0.998
-  },
-  {
-    "word": "or",
-    "start": 84.68,
-    "end": 85.1,
-    "prob": 0.962
-  },
-  {
-    "word": "inspect",
-    "start": 85.1,
-    "end": 85.46,
-    "prob": 0.997
-  },
-  {
-    "word": "the",
-    "start": 85.46,
-    "end": 85.7,
-    "prob": 0.997
-  },
-  {
-    "word": "object.",
-    "start": 85.7,
-    "end": 85.98,
-    "prob": 0.995
   }
 ]

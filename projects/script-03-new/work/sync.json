@@ -1,0 +1,207 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 4,
+   "word": "Upload"
+  },
+  {
+   "action": "A2",
+   "line": 4,
+   "word": "clip"
+  },
+  {
+   "action": "A3",
+   "line": 4,
+   "word": "add"
+  },
+  {
+   "action": "A4",
+   "line": 5,
+   "word": "Effects,"
+  },
+  {
+   "action": "A5",
+   "line": 5,
+   "word": "Video"
+  },
+  {
+   "action": "A6",
+   "line": 6,
+   "word": "Apply"
+  },
+  {
+   "action": "A8",
+   "line": 6,
+   "word": "adjust",
+   "src_from": 113.3,
+   "prev_until": 106.0
+  },
+  {
+   "action": "A7",
+   "line": 7,
+   "word": "Extend",
+   "src_from": 110.6,
+   "prev_until": 118.5
+  },
+  {
+   "action": "A9",
+   "line": 8,
+   "word": "Play",
+   "src_from": 130.2,
+   "prev_until": 115.0
+  },
+  {
+   "action": "A10",
+   "line": 9,
+   "word": "Export",
+   "src_from": 148.4,
+   "prev_until": 136.0
+  },
+  {
+   "action": "A11",
+   "line": 10,
+   "word": "in"
+  },
+  {
+   "action": "A12",
+   "line": 11,
+   "word": "Return"
+  },
+  {
+   "action": "A14",
+   "line": 11,
+   "word": "upload"
+  },
+  {
+   "action": "A15",
+   "line": 12,
+   "word": "Add"
+  },
+  {
+   "action": "A16",
+   "line": 12,
+   "word": "adjust",
+   "src_from": 217.4,
+   "prev_until": 208.5
+  },
+  {
+   "action": "A17",
+   "line": 12,
+   "word": "duration",
+   "src_from": 240.0,
+   "prev_until": 220.0
+  },
+  {
+   "action": "A18",
+   "line": 13,
+   "word": "text,"
+  },
+  {
+   "action": "A20",
+   "line": 13,
+   "word": "logo"
+  },
+  {
+   "action": "A21",
+   "line": 14,
+   "word": "transparency",
+   "src_from": 283.4
+  },
+  {
+   "action": "A22",
+   "line": 16,
+   "word": "Preview",
+   "src_from": 205.5,
+   "prev_until": 287.4
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A20",
+  "A21",
+  "A22"
+ ],
+ "cuts": [
+  {
+   "src_start": 38.3,
+   "src_end": 41.5,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 46.4,
+   "src_end": 98.9,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 157.0,
+   "src_end": 170.4,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 172.8,
+   "src_end": 183.0,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 184.5,
+   "src_end": 192.0,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 193.6,
+   "src_end": 197.5,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 199.0,
+   "src_end": 205.5,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 241.0,
+   "src_end": 242.55,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 246.5,
+   "src_end": 257.9,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  },
+  {
+   "src_start": 263.0,
+   "src_end": 283.0,
+   "reason": "dead time / loading / dialog browsing",
+   "xfade": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true
+}

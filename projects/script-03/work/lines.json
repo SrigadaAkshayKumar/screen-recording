@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to animate a single Canva page while leaving the other pages as they are.",
+    "text": "This tutorial shows you how to add a working RSVP form to a Canva invitation and collect replies through a shared Canva link.",
     "start": 0.0,
-    "end": 5.46,
+    "end": 7.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      18
+      22
     ],
     "words": [
       {
@@ -22,1666 +22,2041 @@
         "i": 1,
         "word": "tutorial",
         "start": 0.22,
-        "end": 0.56
+        "end": 0.62
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.56,
-        "end": 0.96
+        "start": 0.62,
+        "end": 1.02
       },
       {
         "i": 3,
         "word": "you",
-        "start": 0.96,
-        "end": 1.14
+        "start": 1.02,
+        "end": 1.22
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.14,
-        "end": 1.28
+        "start": 1.22,
+        "end": 1.36
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.28,
-        "end": 1.46
+        "start": 1.36,
+        "end": 1.48
       },
       {
         "i": 6,
-        "word": "animate",
-        "start": 1.46,
-        "end": 1.76
+        "word": "add",
+        "start": 1.48,
+        "end": 1.68
       },
       {
         "i": 7,
         "word": "a",
-        "start": 1.76,
-        "end": 2.08
+        "start": 1.68,
+        "end": 1.82
       },
       {
         "i": 8,
-        "word": "single",
-        "start": 2.08,
-        "end": 2.42
+        "word": "working",
+        "start": 1.82,
+        "end": 2.18
       },
       {
         "i": 9,
-        "word": "Canva",
-        "start": 2.42,
-        "end": 2.84
+        "word": "RSVP",
+        "start": 2.18,
+        "end": 3.06
       },
       {
         "i": 10,
-        "word": "page",
-        "start": 2.84,
-        "end": 3.2
+        "word": "form",
+        "start": 3.06,
+        "end": 3.58
       },
       {
         "i": 11,
-        "word": "while",
-        "start": 3.2,
-        "end": 3.44
+        "word": "to",
+        "start": 3.58,
+        "end": 3.82
       },
       {
         "i": 12,
-        "word": "leaving",
-        "start": 3.44,
-        "end": 3.68
+        "word": "a",
+        "start": 3.82,
+        "end": 4.14
       },
       {
         "i": 13,
-        "word": "the",
-        "start": 3.68,
-        "end": 3.92
+        "word": "Canva",
+        "start": 4.14,
+        "end": 4.26
       },
       {
         "i": 14,
-        "word": "other",
-        "start": 3.92,
-        "end": 4.16
+        "word": "invitation",
+        "start": 4.26,
+        "end": 4.78
       },
       {
         "i": 15,
-        "word": "pages",
-        "start": 4.16,
-        "end": 4.5
+        "word": "and",
+        "start": 4.78,
+        "end": 5.34
       },
       {
         "i": 16,
-        "word": "as",
-        "start": 4.5,
-        "end": 4.88
+        "word": "collect",
+        "start": 5.34,
+        "end": 5.56
       },
       {
         "i": 17,
-        "word": "they",
-        "start": 4.88,
-        "end": 5.06
+        "word": "replies",
+        "start": 5.56,
+        "end": 5.96
       },
       {
         "i": 18,
-        "word": "are.",
-        "start": 5.06,
-        "end": 5.46
+        "word": "through",
+        "start": 5.96,
+        "end": 6.24
+      },
+      {
+        "i": 19,
+        "word": "a",
+        "start": 6.24,
+        "end": 6.42
+      },
+      {
+        "i": 20,
+        "word": "shared",
+        "start": 6.42,
+        "end": 6.68
+      },
+      {
+        "i": 21,
+        "word": "Canva",
+        "start": 6.68,
+        "end": 7.12
+      },
+      {
+        "i": 22,
+        "word": "link.",
+        "start": 7.12,
+        "end": 7.36
       }
     ]
   },
   {
     "id": 2,
-    "text": "Open your design and select the page you want to animate using its thumbnail.",
-    "start": 5.92,
-    "end": 9.56,
+    "text": "Open your invitation design.",
+    "start": 7.92,
+    "end": 9.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      19,
-      32
+      23,
+      26
     ],
     "words": [
       {
-        "i": 19,
-        "word": "Open",
-        "start": 5.92,
-        "end": 6.2
-      },
-      {
-        "i": 20,
-        "word": "your",
-        "start": 6.2,
-        "end": 6.38
-      },
-      {
-        "i": 21,
-        "word": "design",
-        "start": 6.38,
-        "end": 6.68
-      },
-      {
-        "i": 22,
-        "word": "and",
-        "start": 6.68,
-        "end": 6.92
-      },
-      {
         "i": 23,
-        "word": "select",
-        "start": 6.92,
-        "end": 7.14
+        "word": "Open",
+        "start": 7.92,
+        "end": 8.08
       },
       {
         "i": 24,
-        "word": "the",
-        "start": 7.14,
-        "end": 7.32
+        "word": "your",
+        "start": 8.08,
+        "end": 8.26
       },
       {
         "i": 25,
-        "word": "page",
-        "start": 7.32,
-        "end": 7.56
+        "word": "invitation",
+        "start": 8.26,
+        "end": 8.66
       },
       {
         "i": 26,
-        "word": "you",
-        "start": 7.56,
-        "end": 7.72
-      },
-      {
-        "i": 27,
-        "word": "want",
-        "start": 7.72,
-        "end": 7.84
-      },
-      {
-        "i": 28,
-        "word": "to",
-        "start": 7.84,
-        "end": 8.0
-      },
-      {
-        "i": 29,
-        "word": "animate",
-        "start": 8.0,
-        "end": 8.36
-      },
-      {
-        "i": 30,
-        "word": "using",
-        "start": 8.36,
-        "end": 8.88
-      },
-      {
-        "i": 31,
-        "word": "its",
-        "start": 8.88,
-        "end": 9.16
-      },
-      {
-        "i": 32,
-        "word": "thumbnail.",
-        "start": 9.16,
-        "end": 9.56
+        "word": "design.",
+        "start": 8.66,
+        "end": 9.14
       }
     ]
   },
   {
     "id": 3,
-    "text": "For this example, choose the second page.",
-    "start": 10.46,
-    "end": 12.56,
+    "text": "In Elements, look under Browse categories for forms.",
+    "start": 10.1,
+    "end": 12.74,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      33,
-      39
+      27,
+      34
     ],
     "words": [
       {
+        "i": 27,
+        "word": "In",
+        "start": 10.1,
+        "end": 10.22
+      },
+      {
+        "i": 28,
+        "word": "Elements,",
+        "start": 10.22,
+        "end": 10.6
+      },
+      {
+        "i": 29,
+        "word": "look",
+        "start": 10.84,
+        "end": 10.92
+      },
+      {
+        "i": 30,
+        "word": "under",
+        "start": 10.92,
+        "end": 11.26
+      },
+      {
+        "i": 31,
+        "word": "Browse",
+        "start": 11.26,
+        "end": 11.58
+      },
+      {
+        "i": 32,
+        "word": "categories",
+        "start": 11.58,
+        "end": 12.04
+      },
+      {
         "i": 33,
-        "word": "For",
-        "start": 10.46,
-        "end": 10.56
+        "word": "for",
+        "start": 12.04,
+        "end": 12.34
       },
       {
         "i": 34,
-        "word": "this",
-        "start": 10.56,
-        "end": 10.7
-      },
-      {
-        "i": 35,
-        "word": "example,",
-        "start": 10.7,
-        "end": 11.12
-      },
-      {
-        "i": 36,
-        "word": "choose",
-        "start": 11.36,
-        "end": 11.56
-      },
-      {
-        "i": 37,
-        "word": "the",
-        "start": 11.56,
-        "end": 11.84
-      },
-      {
-        "i": 38,
-        "word": "second",
-        "start": 11.84,
-        "end": 12.1
-      },
-      {
-        "i": 39,
-        "word": "page.",
-        "start": 12.1,
-        "end": 12.56
+        "word": "forms.",
+        "start": 12.34,
+        "end": 12.74
       }
     ]
   },
   {
     "id": 4,
-    "text": "Click an empty area of that page so you are not selecting a text box, photo or shape.",
-    "start": 13.16,
-    "end": 18.46,
+    "text": "Choose a suitable form preset and add it to the page.",
+    "start": 13.38,
+    "end": 15.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      40,
-      57
+      35,
+      45
     ],
     "words": [
       {
+        "i": 35,
+        "word": "Choose",
+        "start": 13.38,
+        "end": 13.52
+      },
+      {
+        "i": 36,
+        "word": "a",
+        "start": 13.52,
+        "end": 13.74
+      },
+      {
+        "i": 37,
+        "word": "suitable",
+        "start": 13.74,
+        "end": 13.92
+      },
+      {
+        "i": 38,
+        "word": "form",
+        "start": 13.92,
+        "end": 14.4
+      },
+      {
+        "i": 39,
+        "word": "preset",
+        "start": 14.4,
+        "end": 14.76
+      },
+      {
         "i": 40,
-        "word": "Click",
-        "start": 13.16,
-        "end": 13.3
+        "word": "and",
+        "start": 14.76,
+        "end": 15.16
       },
       {
         "i": 41,
-        "word": "an",
-        "start": 13.3,
-        "end": 13.46
+        "word": "add",
+        "start": 15.16,
+        "end": 15.38
       },
       {
         "i": 42,
-        "word": "empty",
-        "start": 13.46,
-        "end": 13.84
+        "word": "it",
+        "start": 15.38,
+        "end": 15.5
       },
       {
         "i": 43,
-        "word": "area",
-        "start": 13.84,
-        "end": 14.16
+        "word": "to",
+        "start": 15.5,
+        "end": 15.6
       },
       {
         "i": 44,
-        "word": "of",
-        "start": 14.16,
-        "end": 14.46
+        "word": "the",
+        "start": 15.6,
+        "end": 15.72
       },
       {
         "i": 45,
-        "word": "that",
-        "start": 14.46,
-        "end": 14.68
-      },
-      {
-        "i": 46,
-        "word": "page",
-        "start": 14.68,
-        "end": 15.04
-      },
-      {
-        "i": 47,
-        "word": "so",
-        "start": 15.04,
-        "end": 15.24
-      },
-      {
-        "i": 48,
-        "word": "you",
-        "start": 15.24,
-        "end": 15.4
-      },
-      {
-        "i": 49,
-        "word": "are",
-        "start": 15.4,
-        "end": 15.54
-      },
-      {
-        "i": 50,
-        "word": "not",
-        "start": 15.54,
-        "end": 15.7
-      },
-      {
-        "i": 51,
-        "word": "selecting",
-        "start": 15.7,
-        "end": 16.16
-      },
-      {
-        "i": 52,
-        "word": "a",
-        "start": 16.16,
-        "end": 16.3
-      },
-      {
-        "i": 53,
-        "word": "text",
-        "start": 16.3,
-        "end": 16.54
-      },
-      {
-        "i": 54,
-        "word": "box,",
-        "start": 16.54,
-        "end": 16.84
-      },
-      {
-        "i": 55,
-        "word": "photo",
-        "start": 17.28,
-        "end": 17.5
-      },
-      {
-        "i": 56,
-        "word": "or",
-        "start": 17.5,
-        "end": 18.14
-      },
-      {
-        "i": 57,
-        "word": "shape.",
-        "start": 18.14,
-        "end": 18.46
+        "word": "page.",
+        "start": 15.72,
+        "end": 15.98
       }
     ]
   },
   {
     "id": 5,
-    "text": "Then click animate in the toolbar and open the page tab.",
-    "start": 19.08,
-    "end": 22.12,
+    "text": "If this category is not available in your account, use the linked form alternative shown at the end.",
+    "start": 16.68,
+    "end": 22.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      58,
-      68
+      46,
+      63
     ],
     "words": [
       {
+        "i": 46,
+        "word": "If",
+        "start": 16.68,
+        "end": 16.82
+      },
+      {
+        "i": 47,
+        "word": "this",
+        "start": 16.82,
+        "end": 17.0
+      },
+      {
+        "i": 48,
+        "word": "category",
+        "start": 17.0,
+        "end": 17.38
+      },
+      {
+        "i": 49,
+        "word": "is",
+        "start": 17.38,
+        "end": 17.62
+      },
+      {
+        "i": 50,
+        "word": "not",
+        "start": 17.62,
+        "end": 17.88
+      },
+      {
+        "i": 51,
+        "word": "available",
+        "start": 17.88,
+        "end": 18.2
+      },
+      {
+        "i": 52,
+        "word": "in",
+        "start": 18.2,
+        "end": 18.52
+      },
+      {
+        "i": 53,
+        "word": "your",
+        "start": 18.52,
+        "end": 18.66
+      },
+      {
+        "i": 54,
+        "word": "account,",
+        "start": 18.66,
+        "end": 19.0
+      },
+      {
+        "i": 55,
+        "word": "use",
+        "start": 19.48,
+        "end": 19.66
+      },
+      {
+        "i": 56,
+        "word": "the",
+        "start": 19.66,
+        "end": 19.86
+      },
+      {
+        "i": 57,
+        "word": "linked",
+        "start": 19.86,
+        "end": 20.0
+      },
+      {
         "i": 58,
-        "word": "Then",
-        "start": 19.08,
-        "end": 19.28
+        "word": "form",
+        "start": 20.0,
+        "end": 20.36
       },
       {
         "i": 59,
-        "word": "click",
-        "start": 19.28,
-        "end": 19.54
+        "word": "alternative",
+        "start": 20.36,
+        "end": 20.9
       },
       {
         "i": 60,
-        "word": "animate",
-        "start": 19.54,
-        "end": 19.92
+        "word": "shown",
+        "start": 20.9,
+        "end": 21.4
       },
       {
         "i": 61,
-        "word": "in",
-        "start": 19.92,
-        "end": 20.18
+        "word": "at",
+        "start": 21.4,
+        "end": 21.58
       },
       {
         "i": 62,
         "word": "the",
-        "start": 20.18,
-        "end": 20.3
+        "start": 21.58,
+        "end": 21.68
       },
       {
         "i": 63,
-        "word": "toolbar",
-        "start": 20.3,
-        "end": 20.66
-      },
-      {
-        "i": 64,
-        "word": "and",
-        "start": 20.66,
-        "end": 21.12
-      },
-      {
-        "i": 65,
-        "word": "open",
-        "start": 21.12,
-        "end": 21.34
-      },
-      {
-        "i": 66,
-        "word": "the",
-        "start": 21.34,
-        "end": 21.48
-      },
-      {
-        "i": 67,
-        "word": "page",
-        "start": 21.48,
-        "end": 21.74
-      },
-      {
-        "i": 68,
-        "word": "tab.",
-        "start": 21.74,
-        "end": 22.12
+        "word": "end.",
+        "start": 21.68,
+        "end": 22.02
       }
     ]
   },
   {
     "id": 6,
-    "text": "Hover over the available page animations to preview them.",
-    "start": 22.82,
-    "end": 25.58,
+    "text": "Select the form and click Edit.",
+    "start": 22.66,
+    "end": 24.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      69,
-      77
+      64,
+      69
     ],
     "words": [
       {
-        "i": 69,
-        "word": "Hover",
-        "start": 22.82,
-        "end": 22.88
+        "i": 64,
+        "word": "Select",
+        "start": 22.66,
+        "end": 22.86
       },
       {
-        "i": 70,
-        "word": "over",
-        "start": 22.88,
-        "end": 23.2
-      },
-      {
-        "i": 71,
+        "i": 65,
         "word": "the",
-        "start": 23.2,
-        "end": 23.34
+        "start": 22.86,
+        "end": 23.06
       },
       {
-        "i": 72,
-        "word": "available",
-        "start": 23.34,
+        "i": 66,
+        "word": "form",
+        "start": 23.06,
+        "end": 23.36
+      },
+      {
+        "i": 67,
+        "word": "and",
+        "start": 23.36,
         "end": 23.66
       },
       {
-        "i": 73,
-        "word": "page",
+        "i": 68,
+        "word": "click",
         "start": 23.66,
-        "end": 24.04
+        "end": 23.98
       },
       {
-        "i": 74,
-        "word": "animations",
-        "start": 24.04,
-        "end": 24.42
-      },
-      {
-        "i": 75,
-        "word": "to",
-        "start": 24.42,
-        "end": 24.8
-      },
-      {
-        "i": 76,
-        "word": "preview",
-        "start": 24.8,
-        "end": 25.1
-      },
-      {
-        "i": 77,
-        "word": "them.",
-        "start": 25.1,
-        "end": 25.58
+        "i": 69,
+        "word": "Edit.",
+        "start": 23.98,
+        "end": 24.36
       }
     ]
   },
   {
     "id": 7,
-    "text": "Choose a simple effect, such as fade, or another page animation that suits your design.",
-    "start": 25.58,
-    "end": 30.74,
+    "text": "In the Questions tab, change the first question to Will you attend?",
+    "start": 25.24,
+    "end": 29.12,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      78,
-      92
+      70,
+      81
     ],
     "words": [
       {
+        "i": 70,
+        "word": "In",
+        "start": 25.24,
+        "end": 25.46
+      },
+      {
+        "i": 71,
+        "word": "the",
+        "start": 25.46,
+        "end": 25.6
+      },
+      {
+        "i": 72,
+        "word": "Questions",
+        "start": 25.6,
+        "end": 25.88
+      },
+      {
+        "i": 73,
+        "word": "tab,",
+        "start": 25.88,
+        "end": 26.28
+      },
+      {
+        "i": 74,
+        "word": "change",
+        "start": 26.56,
+        "end": 26.86
+      },
+      {
+        "i": 75,
+        "word": "the",
+        "start": 26.86,
+        "end": 27.06
+      },
+      {
+        "i": 76,
+        "word": "first",
+        "start": 27.06,
+        "end": 27.28
+      },
+      {
+        "i": 77,
+        "word": "question",
+        "start": 27.28,
+        "end": 27.66
+      },
+      {
         "i": 78,
-        "word": "Choose",
-        "start": 25.58,
-        "end": 26.16
+        "word": "to",
+        "start": 27.66,
+        "end": 28.32
       },
       {
         "i": 79,
-        "word": "a",
-        "start": 26.16,
-        "end": 26.34
+        "word": "Will",
+        "start": 28.32,
+        "end": 28.58
       },
       {
         "i": 80,
-        "word": "simple",
-        "start": 26.34,
-        "end": 26.6
+        "word": "you",
+        "start": 28.58,
+        "end": 28.78
       },
       {
         "i": 81,
-        "word": "effect,",
-        "start": 26.6,
-        "end": 27.02
-      },
-      {
-        "i": 82,
-        "word": "such",
-        "start": 27.3,
-        "end": 27.48
-      },
-      {
-        "i": 83,
-        "word": "as",
-        "start": 27.48,
-        "end": 27.7
-      },
-      {
-        "i": 84,
-        "word": "fade,",
-        "start": 27.7,
-        "end": 27.98
-      },
-      {
-        "i": 85,
-        "word": "or",
-        "start": 28.36,
-        "end": 28.5
-      },
-      {
-        "i": 86,
-        "word": "another",
-        "start": 28.5,
-        "end": 28.76
-      },
-      {
-        "i": 87,
-        "word": "page",
-        "start": 28.76,
-        "end": 29.04
-      },
-      {
-        "i": 88,
-        "word": "animation",
-        "start": 29.04,
-        "end": 29.44
-      },
-      {
-        "i": 89,
-        "word": "that",
-        "start": 29.44,
-        "end": 29.82
-      },
-      {
-        "i": 90,
-        "word": "suits",
-        "start": 29.82,
-        "end": 30.06
-      },
-      {
-        "i": 91,
-        "word": "your",
-        "start": 30.06,
-        "end": 30.3
-      },
-      {
-        "i": 92,
-        "word": "design.",
-        "start": 30.3,
-        "end": 30.74
+        "word": "attend?",
+        "start": 28.78,
+        "end": 29.12
       }
     ]
   },
   {
     "id": 8,
-    "text": "Adjust any direction, speed or duration settings offered for that effect.",
-    "start": 31.5,
-    "end": 35.88,
+    "text": "Add Yes and No as the answer choices and make the question required.",
+    "start": 29.72,
+    "end": 34.26,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      93,
-      103
+      82,
+      94
     ],
     "words": [
       {
-        "i": 93,
-        "word": "Adjust",
-        "start": 31.5,
-        "end": 31.7
+        "i": 82,
+        "word": "Add",
+        "start": 29.72,
+        "end": 30.02
       },
       {
-        "i": 94,
-        "word": "any",
-        "start": 31.7,
-        "end": 32.08
+        "i": 83,
+        "word": "Yes",
+        "start": 30.02,
+        "end": 30.28
       },
       {
-        "i": 95,
-        "word": "direction,",
-        "start": 32.08,
+        "i": 84,
+        "word": "and",
+        "start": 30.28,
+        "end": 30.74
+      },
+      {
+        "i": 85,
+        "word": "No",
+        "start": 30.74,
+        "end": 31.04
+      },
+      {
+        "i": 86,
+        "word": "as",
+        "start": 31.04,
+        "end": 31.46
+      },
+      {
+        "i": 87,
+        "word": "the",
+        "start": 31.46,
+        "end": 31.62
+      },
+      {
+        "i": 88,
+        "word": "answer",
+        "start": 31.62,
+        "end": 31.9
+      },
+      {
+        "i": 89,
+        "word": "choices",
+        "start": 31.9,
         "end": 32.44
       },
       {
-        "i": 96,
-        "word": "speed",
-        "start": 32.94,
-        "end": 33.34
+        "i": 90,
+        "word": "and",
+        "start": 32.44,
+        "end": 32.9
       },
       {
-        "i": 97,
-        "word": "or",
-        "start": 33.34,
-        "end": 33.92
+        "i": 91,
+        "word": "make",
+        "start": 32.9,
+        "end": 33.1
       },
       {
-        "i": 98,
-        "word": "duration",
-        "start": 33.92,
-        "end": 34.28
+        "i": 92,
+        "word": "the",
+        "start": 33.1,
+        "end": 33.32
       },
       {
-        "i": 99,
-        "word": "settings",
-        "start": 34.28,
-        "end": 34.78
+        "i": 93,
+        "word": "question",
+        "start": 33.32,
+        "end": 33.68
       },
       {
-        "i": 100,
-        "word": "offered",
-        "start": 34.78,
-        "end": 35.18
-      },
-      {
-        "i": 101,
-        "word": "for",
-        "start": 35.18,
-        "end": 35.36
-      },
-      {
-        "i": 102,
-        "word": "that",
-        "start": 35.36,
-        "end": 35.5
-      },
-      {
-        "i": 103,
-        "word": "effect.",
-        "start": 35.5,
-        "end": 35.88
+        "i": 94,
+        "word": "required.",
+        "start": 33.68,
+        "end": 34.26
       }
     ]
   },
   {
     "id": 9,
-    "text": "Keep apply to all pages off if that option appears, because this tutorial only changes the selected page.",
-    "start": 36.58,
-    "end": 42.46,
+    "text": "Add another question for the number of guests using the question types offered in your form.",
+    "start": 34.88,
+    "end": 38.76,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      104,
-      121
+      95,
+      110
     ],
     "words": [
       {
+        "i": 95,
+        "word": "Add",
+        "start": 34.88,
+        "end": 34.98
+      },
+      {
+        "i": 96,
+        "word": "another",
+        "start": 34.98,
+        "end": 35.2
+      },
+      {
+        "i": 97,
+        "word": "question",
+        "start": 35.2,
+        "end": 35.48
+      },
+      {
+        "i": 98,
+        "word": "for",
+        "start": 35.48,
+        "end": 35.7
+      },
+      {
+        "i": 99,
+        "word": "the",
+        "start": 35.7,
+        "end": 35.82
+      },
+      {
+        "i": 100,
+        "word": "number",
+        "start": 35.82,
+        "end": 35.94
+      },
+      {
+        "i": 101,
+        "word": "of",
+        "start": 35.94,
+        "end": 36.18
+      },
+      {
+        "i": 102,
+        "word": "guests",
+        "start": 36.18,
+        "end": 36.46
+      },
+      {
+        "i": 103,
+        "word": "using",
+        "start": 36.46,
+        "end": 36.88
+      },
+      {
         "i": 104,
-        "word": "Keep",
-        "start": 36.58,
-        "end": 36.76
+        "word": "the",
+        "start": 36.88,
+        "end": 37.08
       },
       {
         "i": 105,
-        "word": "apply",
-        "start": 36.76,
-        "end": 37.0
+        "word": "question",
+        "start": 37.08,
+        "end": 37.36
       },
       {
         "i": 106,
-        "word": "to",
-        "start": 37.0,
-        "end": 37.24
+        "word": "types",
+        "start": 37.36,
+        "end": 37.7
       },
       {
         "i": 107,
-        "word": "all",
-        "start": 37.24,
-        "end": 37.54
+        "word": "offered",
+        "start": 37.7,
+        "end": 38.04
       },
       {
         "i": 108,
-        "word": "pages",
-        "start": 37.54,
-        "end": 37.86
+        "word": "in",
+        "start": 38.04,
+        "end": 38.2
       },
       {
         "i": 109,
-        "word": "off",
-        "start": 37.86,
-        "end": 38.12
+        "word": "your",
+        "start": 38.2,
+        "end": 38.38
       },
       {
         "i": 110,
-        "word": "if",
-        "start": 38.12,
-        "end": 38.4
-      },
-      {
-        "i": 111,
-        "word": "that",
-        "start": 38.4,
-        "end": 38.56
-      },
-      {
-        "i": 112,
-        "word": "option",
-        "start": 38.56,
-        "end": 38.82
-      },
-      {
-        "i": 113,
-        "word": "appears,",
-        "start": 38.82,
-        "end": 39.26
-      },
-      {
-        "i": 114,
-        "word": "because",
-        "start": 39.46,
-        "end": 39.86
-      },
-      {
-        "i": 115,
-        "word": "this",
-        "start": 39.86,
-        "end": 40.08
-      },
-      {
-        "i": 116,
-        "word": "tutorial",
-        "start": 40.08,
-        "end": 40.5
-      },
-      {
-        "i": 117,
-        "word": "only",
-        "start": 40.5,
-        "end": 40.98
-      },
-      {
-        "i": 118,
-        "word": "changes",
-        "start": 40.98,
-        "end": 41.46
-      },
-      {
-        "i": 119,
-        "word": "the",
-        "start": 41.46,
-        "end": 41.68
-      },
-      {
-        "i": 120,
-        "word": "selected",
-        "start": 41.68,
-        "end": 41.98
-      },
-      {
-        "i": 121,
-        "word": "page.",
-        "start": 41.98,
-        "end": 42.46
+        "word": "form.",
+        "start": 38.38,
+        "end": 38.76
       }
     ]
   },
   {
     "id": 10,
-    "text": "Now preview the presentation from the first page, move to the second page to see the animation, then continue to the third page to check the result.",
-    "start": 43.1,
-    "end": 51.02,
+    "text": "Keep the form short so guests can reply quickly.",
+    "start": 39.36,
+    "end": 41.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      122,
-      148
+      111,
+      119
     ],
     "words": [
       {
-        "i": 122,
-        "word": "Now",
-        "start": 43.1,
-        "end": 43.4
+        "i": 111,
+        "word": "Keep",
+        "start": 39.36,
+        "end": 39.54
       },
       {
-        "i": 123,
-        "word": "preview",
-        "start": 43.4,
-        "end": 43.76
-      },
-      {
-        "i": 124,
+        "i": 112,
         "word": "the",
-        "start": 43.76,
-        "end": 44.0
+        "start": 39.54,
+        "end": 39.72
       },
       {
-        "i": 125,
-        "word": "presentation",
-        "start": 44.0,
-        "end": 44.46
+        "i": 113,
+        "word": "form",
+        "start": 39.72,
+        "end": 39.94
       },
       {
-        "i": 126,
-        "word": "from",
-        "start": 44.46,
-        "end": 44.82
+        "i": 114,
+        "word": "short",
+        "start": 39.94,
+        "end": 40.3
       },
       {
-        "i": 127,
-        "word": "the",
-        "start": 44.82,
-        "end": 45.0
+        "i": 115,
+        "word": "so",
+        "start": 40.3,
+        "end": 40.6
       },
       {
-        "i": 128,
-        "word": "first",
-        "start": 45.0,
-        "end": 45.24
+        "i": 116,
+        "word": "guests",
+        "start": 40.6,
+        "end": 40.82
       },
       {
-        "i": 129,
-        "word": "page,",
-        "start": 45.24,
-        "end": 45.74
+        "i": 117,
+        "word": "can",
+        "start": 40.82,
+        "end": 41.08
       },
       {
-        "i": 130,
-        "word": "move",
-        "start": 46.06,
-        "end": 46.34
+        "i": 118,
+        "word": "reply",
+        "start": 41.08,
+        "end": 41.42
       },
       {
-        "i": 131,
-        "word": "to",
-        "start": 46.34,
-        "end": 46.5
-      },
-      {
-        "i": 132,
-        "word": "the",
-        "start": 46.5,
-        "end": 46.6
-      },
-      {
-        "i": 133,
-        "word": "second",
-        "start": 46.6,
-        "end": 46.82
-      },
-      {
-        "i": 134,
-        "word": "page",
-        "start": 46.82,
-        "end": 47.2
-      },
-      {
-        "i": 135,
-        "word": "to",
-        "start": 47.2,
-        "end": 47.4
-      },
-      {
-        "i": 136,
-        "word": "see",
-        "start": 47.4,
-        "end": 47.56
-      },
-      {
-        "i": 137,
-        "word": "the",
-        "start": 47.56,
-        "end": 47.68
-      },
-      {
-        "i": 138,
-        "word": "animation,",
-        "start": 47.68,
-        "end": 48.2
-      },
-      {
-        "i": 139,
-        "word": "then",
-        "start": 48.5,
-        "end": 48.74
-      },
-      {
-        "i": 140,
-        "word": "continue",
-        "start": 48.74,
-        "end": 49.1
-      },
-      {
-        "i": 141,
-        "word": "to",
-        "start": 49.1,
-        "end": 49.34
-      },
-      {
-        "i": 142,
-        "word": "the",
-        "start": 49.34,
-        "end": 49.5
-      },
-      {
-        "i": 143,
-        "word": "third",
-        "start": 49.5,
-        "end": 49.74
-      },
-      {
-        "i": 144,
-        "word": "page",
-        "start": 49.74,
-        "end": 50.1
-      },
-      {
-        "i": 145,
-        "word": "to",
-        "start": 50.1,
-        "end": 50.32
-      },
-      {
-        "i": 146,
-        "word": "check",
-        "start": 50.32,
-        "end": 50.52
-      },
-      {
-        "i": 147,
-        "word": "the",
-        "start": 50.52,
-        "end": 50.7
-      },
-      {
-        "i": 148,
-        "word": "result.",
-        "start": 50.7,
-        "end": 51.02
+        "i": 119,
+        "word": "quickly.",
+        "start": 41.42,
+        "end": 41.84
       }
     ]
   },
   {
     "id": 11,
-    "text": "If you want only one photo or heading to move on that page, select that object and use its element or text animation settings instead of the page tab.",
-    "start": 51.92,
-    "end": 60.92,
+    "text": "Open Settings and enable respondent name collection where it is available.",
+    "start": 42.62,
+    "end": 46.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      149,
-      177
+      120,
+      130
     ],
     "words": [
       {
-        "i": 149,
-        "word": "If",
-        "start": 51.92,
-        "end": 52.24
+        "i": 120,
+        "word": "Open",
+        "start": 42.62,
+        "end": 42.82
       },
       {
-        "i": 150,
-        "word": "you",
-        "start": 52.24,
-        "end": 52.36
+        "i": 121,
+        "word": "Settings",
+        "start": 42.82,
+        "end": 43.2
       },
       {
-        "i": 151,
-        "word": "want",
-        "start": 52.36,
-        "end": 52.48
-      },
-      {
-        "i": 152,
-        "word": "only",
-        "start": 52.48,
-        "end": 52.8
-      },
-      {
-        "i": 153,
-        "word": "one",
-        "start": 52.8,
-        "end": 53.14
-      },
-      {
-        "i": 154,
-        "word": "photo",
-        "start": 53.14,
-        "end": 53.5
-      },
-      {
-        "i": 155,
-        "word": "or",
-        "start": 53.5,
-        "end": 53.84
-      },
-      {
-        "i": 156,
-        "word": "heading",
-        "start": 53.84,
-        "end": 54.08
-      },
-      {
-        "i": 157,
-        "word": "to",
-        "start": 54.08,
-        "end": 54.34
-      },
-      {
-        "i": 158,
-        "word": "move",
-        "start": 54.34,
-        "end": 54.5
-      },
-      {
-        "i": 159,
-        "word": "on",
-        "start": 54.5,
-        "end": 54.66
-      },
-      {
-        "i": 160,
-        "word": "that",
-        "start": 54.66,
-        "end": 54.82
-      },
-      {
-        "i": 161,
-        "word": "page,",
-        "start": 54.82,
-        "end": 55.2
-      },
-      {
-        "i": 162,
-        "word": "select",
-        "start": 55.56,
-        "end": 55.86
-      },
-      {
-        "i": 163,
-        "word": "that",
-        "start": 55.86,
-        "end": 56.1
-      },
-      {
-        "i": 164,
-        "word": "object",
-        "start": 56.1,
-        "end": 56.44
-      },
-      {
-        "i": 165,
+        "i": 122,
         "word": "and",
-        "start": 56.44,
-        "end": 56.92
+        "start": 43.2,
+        "end": 43.66
       },
       {
-        "i": 166,
-        "word": "use",
-        "start": 56.92,
-        "end": 57.14
+        "i": 123,
+        "word": "enable",
+        "start": 43.66,
+        "end": 43.96
       },
       {
-        "i": 167,
-        "word": "its",
-        "start": 57.14,
-        "end": 57.34
+        "i": 124,
+        "word": "respondent",
+        "start": 43.96,
+        "end": 44.52
       },
       {
-        "i": 168,
-        "word": "element",
-        "start": 57.34,
-        "end": 57.66
+        "i": 125,
+        "word": "name",
+        "start": 44.52,
+        "end": 44.86
       },
       {
-        "i": 169,
-        "word": "or",
-        "start": 57.66,
-        "end": 58.08
+        "i": 126,
+        "word": "collection",
+        "start": 44.86,
+        "end": 45.38
       },
       {
-        "i": 170,
-        "word": "text",
-        "start": 58.08,
-        "end": 58.4
+        "i": 127,
+        "word": "where",
+        "start": 45.38,
+        "end": 45.68
       },
       {
-        "i": 171,
-        "word": "animation",
-        "start": 58.4,
-        "end": 58.98
+        "i": 128,
+        "word": "it",
+        "start": 45.68,
+        "end": 45.82
       },
       {
-        "i": 172,
-        "word": "settings",
-        "start": 58.98,
-        "end": 59.58
+        "i": 129,
+        "word": "is",
+        "start": 45.82,
+        "end": 45.98
       },
       {
-        "i": 173,
-        "word": "instead",
-        "start": 59.58,
-        "end": 60.1
-      },
-      {
-        "i": 174,
-        "word": "of",
-        "start": 60.1,
-        "end": 60.26
-      },
-      {
-        "i": 175,
-        "word": "the",
-        "start": 60.26,
-        "end": 60.34
-      },
-      {
-        "i": 176,
-        "word": "page",
-        "start": 60.34,
-        "end": 60.6
-      },
-      {
-        "i": 177,
-        "word": "tab.",
-        "start": 60.6,
-        "end": 60.92
+        "i": 130,
+        "word": "available.",
+        "start": 45.98,
+        "end": 46.36
       }
     ]
   },
   {
     "id": 12,
-    "text": "Here's the part many tutorials skip.",
-    "start": 61.62,
-    "end": 63.4,
+    "text": "For this example, use a shared invitation design rather than a website because Canva documents different name collection behavior for website forms.",
+    "start": 47.06,
+    "end": 55.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      178,
-      183
+      131,
+      152
     ],
     "words": [
       {
-        "i": 178,
-        "word": "Here's",
-        "start": 61.62,
-        "end": 61.8
+        "i": 131,
+        "word": "For",
+        "start": 47.06,
+        "end": 47.2
       },
       {
-        "i": 179,
-        "word": "the",
-        "start": 61.8,
-        "end": 61.92
+        "i": 132,
+        "word": "this",
+        "start": 47.2,
+        "end": 47.34
       },
       {
-        "i": 180,
-        "word": "part",
-        "start": 61.92,
-        "end": 62.14
+        "i": 133,
+        "word": "example,",
+        "start": 47.34,
+        "end": 47.78
       },
       {
-        "i": 181,
-        "word": "many",
-        "start": 62.14,
-        "end": 62.42
+        "i": 134,
+        "word": "use",
+        "start": 47.94,
+        "end": 48.12
       },
       {
-        "i": 182,
-        "word": "tutorials",
-        "start": 62.42,
-        "end": 63.02
+        "i": 135,
+        "word": "a",
+        "start": 48.12,
+        "end": 48.32
       },
       {
-        "i": 183,
-        "word": "skip.",
-        "start": 63.02,
-        "end": 63.4
+        "i": 136,
+        "word": "shared",
+        "start": 48.32,
+        "end": 48.58
+      },
+      {
+        "i": 137,
+        "word": "invitation",
+        "start": 48.58,
+        "end": 49.18
+      },
+      {
+        "i": 138,
+        "word": "design",
+        "start": 49.18,
+        "end": 49.62
+      },
+      {
+        "i": 139,
+        "word": "rather",
+        "start": 49.62,
+        "end": 49.86
+      },
+      {
+        "i": 140,
+        "word": "than",
+        "start": 49.86,
+        "end": 50.12
+      },
+      {
+        "i": 141,
+        "word": "a",
+        "start": 50.12,
+        "end": 50.24
+      },
+      {
+        "i": 142,
+        "word": "website",
+        "start": 50.24,
+        "end": 50.62
+      },
+      {
+        "i": 143,
+        "word": "because",
+        "start": 50.62,
+        "end": 51.3
+      },
+      {
+        "i": 144,
+        "word": "Canva",
+        "start": 51.3,
+        "end": 51.64
+      },
+      {
+        "i": 145,
+        "word": "documents",
+        "start": 51.64,
+        "end": 52.1
+      },
+      {
+        "i": 146,
+        "word": "different",
+        "start": 52.1,
+        "end": 52.52
+      },
+      {
+        "i": 147,
+        "word": "name",
+        "start": 52.52,
+        "end": 52.86
+      },
+      {
+        "i": 148,
+        "word": "collection",
+        "start": 52.86,
+        "end": 53.3
+      },
+      {
+        "i": 149,
+        "word": "behavior",
+        "start": 53.3,
+        "end": 53.72
+      },
+      {
+        "i": 150,
+        "word": "for",
+        "start": 53.72,
+        "end": 54.22
+      },
+      {
+        "i": 151,
+        "word": "website",
+        "start": 54.22,
+        "end": 54.54
+      },
+      {
+        "i": 152,
+        "word": "forms.",
+        "start": 54.54,
+        "end": 55.1
       }
     ]
   },
   {
     "id": 13,
-    "text": "A page animation and a transition between pages are separate effects.",
-    "start": 64.02,
-    "end": 67.7,
+    "text": "Change the Submit button text to Send RSVP.",
+    "start": 55.7,
+    "end": 59.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      184,
-      194
+      153,
+      160
     ],
     "words": [
       {
-        "i": 184,
-        "word": "A",
-        "start": 64.02,
-        "end": 64.12
+        "i": 153,
+        "word": "Change",
+        "start": 55.7,
+        "end": 56.26
       },
       {
-        "i": 185,
-        "word": "page",
-        "start": 64.12,
-        "end": 64.36
+        "i": 154,
+        "word": "the",
+        "start": 56.26,
+        "end": 56.46
       },
       {
-        "i": 186,
-        "word": "animation",
-        "start": 64.36,
-        "end": 64.68
+        "i": 155,
+        "word": "Submit",
+        "start": 56.46,
+        "end": 56.74
       },
       {
-        "i": 187,
-        "word": "and",
-        "start": 64.68,
-        "end": 65.12
+        "i": 156,
+        "word": "button",
+        "start": 56.74,
+        "end": 57.02
       },
       {
-        "i": 188,
-        "word": "a",
-        "start": 65.12,
-        "end": 65.26
+        "i": 157,
+        "word": "text",
+        "start": 57.02,
+        "end": 57.4
       },
       {
-        "i": 189,
-        "word": "transition",
-        "start": 65.26,
-        "end": 65.64
+        "i": 158,
+        "word": "to",
+        "start": 57.4,
+        "end": 57.96
       },
       {
-        "i": 190,
-        "word": "between",
-        "start": 65.64,
-        "end": 66.08
+        "i": 159,
+        "word": "Send",
+        "start": 57.96,
+        "end": 58.3
       },
       {
-        "i": 191,
-        "word": "pages",
-        "start": 66.08,
-        "end": 66.5
-      },
-      {
-        "i": 192,
-        "word": "are",
-        "start": 66.5,
-        "end": 66.88
-      },
-      {
-        "i": 193,
-        "word": "separate",
-        "start": 66.88,
-        "end": 67.28
-      },
-      {
-        "i": 194,
-        "word": "effects.",
-        "start": 67.28,
-        "end": 67.7
+        "i": 160,
+        "word": "RSVP.",
+        "start": 58.3,
+        "end": 59.3
       }
     ]
   },
   {
     "id": 14,
-    "text": "If the change between slides still moves unexpectedly, inspect the transition between those two pages as well.",
-    "start": 68.52,
-    "end": 74.68,
+    "text": "Add your reply deadline above the form and adjust the colours to match the invitation.",
+    "start": 60.6,
+    "end": 64.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      195,
-      211
+      161,
+      175
     ],
     "words": [
       {
-        "i": 195,
-        "word": "If",
-        "start": 68.52,
-        "end": 68.68
+        "i": 161,
+        "word": "Add",
+        "start": 60.6,
+        "end": 60.74
       },
       {
-        "i": 196,
+        "i": 162,
+        "word": "your",
+        "start": 60.74,
+        "end": 60.92
+      },
+      {
+        "i": 163,
+        "word": "reply",
+        "start": 60.92,
+        "end": 61.22
+      },
+      {
+        "i": 164,
+        "word": "deadline",
+        "start": 61.22,
+        "end": 61.6
+      },
+      {
+        "i": 165,
+        "word": "above",
+        "start": 61.6,
+        "end": 61.88
+      },
+      {
+        "i": 166,
         "word": "the",
-        "start": 68.68,
-        "end": 68.84
+        "start": 61.88,
+        "end": 62.08
       },
       {
-        "i": 197,
-        "word": "change",
-        "start": 68.84,
-        "end": 69.08
+        "i": 167,
+        "word": "form",
+        "start": 62.08,
+        "end": 62.3
       },
       {
-        "i": 198,
-        "word": "between",
-        "start": 69.08,
-        "end": 69.42
+        "i": 168,
+        "word": "and",
+        "start": 62.3,
+        "end": 62.52
       },
       {
-        "i": 199,
-        "word": "slides",
-        "start": 69.42,
-        "end": 69.84
+        "i": 169,
+        "word": "adjust",
+        "start": 62.52,
+        "end": 62.78
       },
       {
-        "i": 200,
-        "word": "still",
-        "start": 69.84,
-        "end": 70.22
-      },
-      {
-        "i": 201,
-        "word": "moves",
-        "start": 70.22,
-        "end": 70.54
-      },
-      {
-        "i": 202,
-        "word": "unexpectedly,",
-        "start": 70.54,
-        "end": 71.24
-      },
-      {
-        "i": 203,
-        "word": "inspect",
-        "start": 71.88,
-        "end": 72.22
-      },
-      {
-        "i": 204,
+        "i": 170,
         "word": "the",
-        "start": 72.22,
-        "end": 72.5
+        "start": 62.78,
+        "end": 63.04
       },
       {
-        "i": 205,
-        "word": "transition",
-        "start": 72.5,
-        "end": 72.98
+        "i": 171,
+        "word": "colours",
+        "start": 63.04,
+        "end": 63.24
       },
       {
-        "i": 206,
-        "word": "between",
-        "start": 72.98,
-        "end": 73.32
+        "i": 172,
+        "word": "to",
+        "start": 63.24,
+        "end": 63.48
       },
       {
-        "i": 207,
-        "word": "those",
-        "start": 73.32,
-        "end": 73.6
+        "i": 173,
+        "word": "match",
+        "start": 63.48,
+        "end": 63.68
       },
       {
-        "i": 208,
-        "word": "two",
-        "start": 73.6,
-        "end": 73.86
+        "i": 174,
+        "word": "the",
+        "start": 63.68,
+        "end": 63.86
       },
       {
-        "i": 209,
-        "word": "pages",
-        "start": 73.86,
-        "end": 74.18
-      },
-      {
-        "i": 210,
-        "word": "as",
-        "start": 74.18,
-        "end": 74.4
-      },
-      {
-        "i": 211,
-        "word": "well.",
-        "start": 74.4,
-        "end": 74.68
+        "i": 175,
+        "word": "invitation.",
+        "start": 63.86,
+        "end": 64.34
       }
     ]
   },
   {
     "id": 15,
-    "text": "Use present to play the design inside Canva, or download it as mp4 video to retain the animation in a video file.",
-    "start": 75.28,
-    "end": 82.56,
+    "text": "Share a view-only Canva link.",
+    "start": 65.28,
+    "end": 66.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      212,
-      233
+      176,
+      181
     ],
     "words": [
       {
-        "i": 212,
-        "word": "Use",
-        "start": 75.28,
-        "end": 75.56
+        "i": 176,
+        "word": "Share",
+        "start": 65.28,
+        "end": 65.34
       },
       {
-        "i": 213,
-        "word": "present",
-        "start": 75.56,
-        "end": 75.96
-      },
-      {
-        "i": 214,
-        "word": "to",
-        "start": 75.96,
-        "end": 76.22
-      },
-      {
-        "i": 215,
-        "word": "play",
-        "start": 76.22,
-        "end": 76.42
-      },
-      {
-        "i": 216,
-        "word": "the",
-        "start": 76.42,
-        "end": 76.56
-      },
-      {
-        "i": 217,
-        "word": "design",
-        "start": 76.56,
-        "end": 76.9
-      },
-      {
-        "i": 218,
-        "word": "inside",
-        "start": 76.9,
-        "end": 77.42
-      },
-      {
-        "i": 219,
-        "word": "Canva,",
-        "start": 77.42,
-        "end": 77.86
-      },
-      {
-        "i": 220,
-        "word": "or",
-        "start": 77.86,
-        "end": 78.36
-      },
-      {
-        "i": 221,
-        "word": "download",
-        "start": 78.36,
-        "end": 78.78
-      },
-      {
-        "i": 222,
-        "word": "it",
-        "start": 78.78,
-        "end": 78.98
-      },
-      {
-        "i": 223,
-        "word": "as",
-        "start": 78.98,
-        "end": 79.18
-      },
-      {
-        "i": 224,
-        "word": "mp4",
-        "start": 79.18,
-        "end": 79.84
-      },
-      {
-        "i": 225,
-        "word": "video",
-        "start": 79.84,
-        "end": 80.16
-      },
-      {
-        "i": 226,
-        "word": "to",
-        "start": 80.16,
-        "end": 80.62
-      },
-      {
-        "i": 227,
-        "word": "retain",
-        "start": 80.62,
-        "end": 80.92
-      },
-      {
-        "i": 228,
-        "word": "the",
-        "start": 80.92,
-        "end": 81.08
-      },
-      {
-        "i": 229,
-        "word": "animation",
-        "start": 81.08,
-        "end": 81.52
-      },
-      {
-        "i": 230,
-        "word": "in",
-        "start": 81.52,
-        "end": 81.84
-      },
-      {
-        "i": 231,
+        "i": 177,
         "word": "a",
-        "start": 81.84,
-        "end": 81.96
+        "start": 65.34,
+        "end": 65.52
       },
       {
-        "i": 232,
-        "word": "video",
-        "start": 81.96,
-        "end": 82.16
+        "i": 178,
+        "word": "view",
+        "start": 65.52,
+        "end": 65.66
       },
       {
-        "i": 233,
-        "word": "file.",
-        "start": 82.16,
-        "end": 82.56
+        "i": 179,
+        "word": "-only",
+        "start": 65.66,
+        "end": 65.96
+      },
+      {
+        "i": 180,
+        "word": "Canva",
+        "start": 65.96,
+        "end": 66.32
+      },
+      {
+        "i": 181,
+        "word": "link.",
+        "start": 66.32,
+        "end": 66.54
       }
     ]
   },
   {
     "id": 16,
-    "text": "You have now animated one selected page.",
-    "start": 83.1,
-    "end": 85.24,
+    "text": "Open it in a separate browser window and submit a test response.",
+    "start": 66.96,
+    "end": 70.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      234,
-      240
+      182,
+      193
     ],
     "words": [
       {
+        "i": 182,
+        "word": "Open",
+        "start": 66.96,
+        "end": 67.18
+      },
+      {
+        "i": 183,
+        "word": "it",
+        "start": 67.18,
+        "end": 67.34
+      },
+      {
+        "i": 184,
+        "word": "in",
+        "start": 67.34,
+        "end": 67.54
+      },
+      {
+        "i": 185,
+        "word": "a",
+        "start": 67.54,
+        "end": 67.66
+      },
+      {
+        "i": 186,
+        "word": "separate",
+        "start": 67.66,
+        "end": 67.96
+      },
+      {
+        "i": 187,
+        "word": "browser",
+        "start": 67.96,
+        "end": 68.28
+      },
+      {
+        "i": 188,
+        "word": "window",
+        "start": 68.28,
+        "end": 68.68
+      },
+      {
+        "i": 189,
+        "word": "and",
+        "start": 68.68,
+        "end": 69.18
+      },
+      {
+        "i": 190,
+        "word": "submit",
+        "start": 69.18,
+        "end": 69.48
+      },
+      {
+        "i": 191,
+        "word": "a",
+        "start": 69.48,
+        "end": 69.74
+      },
+      {
+        "i": 192,
+        "word": "test",
+        "start": 69.74,
+        "end": 69.94
+      },
+      {
+        "i": 193,
+        "word": "response.",
+        "start": 69.94,
+        "end": 70.38
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Back in the editor, select the form and open responses.",
+    "start": 71.26,
+    "end": 74.24,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      194,
+      203
+    ],
+    "words": [
+      {
+        "i": 194,
+        "word": "Back",
+        "start": 71.26,
+        "end": 71.38
+      },
+      {
+        "i": 195,
+        "word": "in",
+        "start": 71.38,
+        "end": 71.5
+      },
+      {
+        "i": 196,
+        "word": "the",
+        "start": 71.5,
+        "end": 71.62
+      },
+      {
+        "i": 197,
+        "word": "editor,",
+        "start": 71.62,
+        "end": 71.92
+      },
+      {
+        "i": 198,
+        "word": "select",
+        "start": 72.34,
+        "end": 72.52
+      },
+      {
+        "i": 199,
+        "word": "the",
+        "start": 72.52,
+        "end": 72.74
+      },
+      {
+        "i": 200,
+        "word": "form",
+        "start": 72.74,
+        "end": 73.0
+      },
+      {
+        "i": 201,
+        "word": "and",
+        "start": 73.0,
+        "end": 73.32
+      },
+      {
+        "i": 202,
+        "word": "open",
+        "start": 73.32,
+        "end": 73.72
+      },
+      {
+        "i": 203,
+        "word": "responses.",
+        "start": 73.72,
+        "end": 74.24
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Confirm that you can identify the guest and read their attendance answer before sending the link out.",
+    "start": 75.14,
+    "end": 79.7,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      204,
+      220
+    ],
+    "words": [
+      {
+        "i": 204,
+        "word": "Confirm",
+        "start": 75.14,
+        "end": 75.5
+      },
+      {
+        "i": 205,
+        "word": "that",
+        "start": 75.5,
+        "end": 75.66
+      },
+      {
+        "i": 206,
+        "word": "you",
+        "start": 75.66,
+        "end": 75.8
+      },
+      {
+        "i": 207,
+        "word": "can",
+        "start": 75.8,
+        "end": 75.92
+      },
+      {
+        "i": 208,
+        "word": "identify",
+        "start": 75.92,
+        "end": 76.3
+      },
+      {
+        "i": 209,
+        "word": "the",
+        "start": 76.3,
+        "end": 76.52
+      },
+      {
+        "i": 210,
+        "word": "guest",
+        "start": 76.52,
+        "end": 76.74
+      },
+      {
+        "i": 211,
+        "word": "and",
+        "start": 76.74,
+        "end": 77.02
+      },
+      {
+        "i": 212,
+        "word": "read",
+        "start": 77.02,
+        "end": 77.22
+      },
+      {
+        "i": 213,
+        "word": "their",
+        "start": 77.22,
+        "end": 77.44
+      },
+      {
+        "i": 214,
+        "word": "attendance",
+        "start": 77.44,
+        "end": 77.8
+      },
+      {
+        "i": 215,
+        "word": "answer",
+        "start": 77.8,
+        "end": 78.24
+      },
+      {
+        "i": 216,
+        "word": "before",
+        "start": 78.24,
+        "end": 78.7
+      },
+      {
+        "i": 217,
+        "word": "sending",
+        "start": 78.7,
+        "end": 79.02
+      },
+      {
+        "i": 218,
+        "word": "the",
+        "start": 79.02,
+        "end": 79.2
+      },
+      {
+        "i": 219,
+        "word": "link",
+        "start": 79.2,
+        "end": 79.36
+      },
+      {
+        "i": 220,
+        "word": "out.",
+        "start": 79.36,
+        "end": 79.7
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Here's the part many tutorials skip.",
+    "start": 80.86,
+    "end": 82.84,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      221,
+      226
+    ],
+    "words": [
+      {
+        "i": 221,
+        "word": "Here's",
+        "start": 80.86,
+        "end": 81.14
+      },
+      {
+        "i": 222,
+        "word": "the",
+        "start": 81.14,
+        "end": 81.24
+      },
+      {
+        "i": 223,
+        "word": "part",
+        "start": 81.24,
+        "end": 81.46
+      },
+      {
+        "i": 224,
+        "word": "many",
+        "start": 81.46,
+        "end": 81.78
+      },
+      {
+        "i": 225,
+        "word": "tutorials",
+        "start": 81.78,
+        "end": 82.42
+      },
+      {
+        "i": 226,
+        "word": "skip.",
+        "start": 82.42,
+        "end": 82.84
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "The form cannot collect replies from a downloaded PDF, PNG or video.",
+    "start": 82.84,
+    "end": 88.72,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      227,
+      238
+    ],
+    "words": [
+      {
+        "i": 227,
+        "word": "The",
+        "start": 82.84,
+        "end": 83.5
+      },
+      {
+        "i": 228,
+        "word": "form",
+        "start": 83.5,
+        "end": 83.78
+      },
+      {
+        "i": 229,
+        "word": "cannot",
+        "start": 83.78,
+        "end": 84.06
+      },
+      {
+        "i": 230,
+        "word": "collect",
+        "start": 84.06,
+        "end": 84.4
+      },
+      {
+        "i": 231,
+        "word": "replies",
+        "start": 84.4,
+        "end": 84.82
+      },
+      {
+        "i": 232,
+        "word": "from",
+        "start": 84.82,
+        "end": 85.08
+      },
+      {
+        "i": 233,
+        "word": "a",
+        "start": 85.08,
+        "end": 85.2
+      },
+      {
         "i": 234,
-        "word": "You",
-        "start": 83.1,
-        "end": 83.34
+        "word": "downloaded",
+        "start": 85.2,
+        "end": 85.62
       },
       {
         "i": 235,
-        "word": "have",
-        "start": 83.34,
-        "end": 83.44
+        "word": "PDF,",
+        "start": 85.62,
+        "end": 86.28
       },
       {
         "i": 236,
-        "word": "now",
-        "start": 83.44,
-        "end": 83.6
+        "word": "PNG",
+        "start": 86.94,
+        "end": 87.22
       },
       {
         "i": 237,
-        "word": "animated",
-        "start": 83.6,
-        "end": 84.08
+        "word": "or",
+        "start": 87.22,
+        "end": 88.28
       },
       {
         "i": 238,
-        "word": "one",
-        "start": 84.08,
-        "end": 84.46
-      },
+        "word": "video.",
+        "start": 88.28,
+        "end": 88.72
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Guests need to open the interactive Canva link.",
+    "start": 89.96,
+    "end": 92.04,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      239,
+      246
+    ],
+    "words": [
       {
         "i": 239,
-        "word": "selected",
-        "start": 84.46,
-        "end": 84.88
+        "word": "Guests",
+        "start": 89.96,
+        "end": 89.96
       },
       {
         "i": 240,
-        "word": "page.",
-        "start": 84.88,
-        "end": 85.24
+        "word": "need",
+        "start": 89.96,
+        "end": 90.26
+      },
+      {
+        "i": 241,
+        "word": "to",
+        "start": 90.26,
+        "end": 90.44
+      },
+      {
+        "i": 242,
+        "word": "open",
+        "start": 90.44,
+        "end": 90.62
+      },
+      {
+        "i": 243,
+        "word": "the",
+        "start": 90.62,
+        "end": 90.8
+      },
+      {
+        "i": 244,
+        "word": "interactive",
+        "start": 90.8,
+        "end": 91.38
+      },
+      {
+        "i": 245,
+        "word": "Canva",
+        "start": 91.38,
+        "end": 91.84
+      },
+      {
+        "i": 246,
+        "word": "link.",
+        "start": 91.84,
+        "end": 92.04
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "If forms is unavailable, create your RSVP form in Google Forms, copy its responder link, select an RSVP button in Canva and add that link.",
+    "start": 92.56,
+    "end": 102.14,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      247,
+      271
+    ],
+    "words": [
+      {
+        "i": 247,
+        "word": "If",
+        "start": 92.56,
+        "end": 92.72
+      },
+      {
+        "i": 248,
+        "word": "forms",
+        "start": 92.72,
+        "end": 93.0
+      },
+      {
+        "i": 249,
+        "word": "is",
+        "start": 93.0,
+        "end": 93.22
+      },
+      {
+        "i": 250,
+        "word": "unavailable,",
+        "start": 93.22,
+        "end": 93.64
+      },
+      {
+        "i": 251,
+        "word": "create",
+        "start": 94.18,
+        "end": 94.4
+      },
+      {
+        "i": 252,
+        "word": "your",
+        "start": 94.4,
+        "end": 94.72
+      },
+      {
+        "i": 253,
+        "word": "RSVP",
+        "start": 94.72,
+        "end": 95.48
+      },
+      {
+        "i": 254,
+        "word": "form",
+        "start": 95.48,
+        "end": 95.94
+      },
+      {
+        "i": 255,
+        "word": "in",
+        "start": 95.94,
+        "end": 96.12
+      },
+      {
+        "i": 256,
+        "word": "Google",
+        "start": 96.12,
+        "end": 96.4
+      },
+      {
+        "i": 257,
+        "word": "Forms,",
+        "start": 96.4,
+        "end": 96.82
+      },
+      {
+        "i": 258,
+        "word": "copy",
+        "start": 97.2,
+        "end": 97.4
+      },
+      {
+        "i": 259,
+        "word": "its",
+        "start": 97.4,
+        "end": 97.68
+      },
+      {
+        "i": 260,
+        "word": "responder",
+        "start": 97.68,
+        "end": 98.12
+      },
+      {
+        "i": 261,
+        "word": "link,",
+        "start": 98.12,
+        "end": 98.3
+      },
+      {
+        "i": 262,
+        "word": "select",
+        "start": 98.72,
+        "end": 99.0
+      },
+      {
+        "i": 263,
+        "word": "an",
+        "start": 99.0,
+        "end": 99.22
+      },
+      {
+        "i": 264,
+        "word": "RSVP",
+        "start": 99.22,
+        "end": 99.98
+      },
+      {
+        "i": 265,
+        "word": "button",
+        "start": 99.98,
+        "end": 100.4
+      },
+      {
+        "i": 266,
+        "word": "in",
+        "start": 100.4,
+        "end": 100.64
+      },
+      {
+        "i": 267,
+        "word": "Canva",
+        "start": 100.64,
+        "end": 101.06
+      },
+      {
+        "i": 268,
+        "word": "and",
+        "start": 101.06,
+        "end": 101.56
+      },
+      {
+        "i": 269,
+        "word": "add",
+        "start": 101.56,
+        "end": 101.7
+      },
+      {
+        "i": 270,
+        "word": "that",
+        "start": 101.7,
+        "end": 101.86
+      },
+      {
+        "i": 271,
+        "word": "link.",
+        "start": 101.86,
+        "end": 102.14
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Test the button in the shared design or an unflattened PDF before distributing it.",
+    "start": 103.06,
+    "end": 107.32,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      272,
+      285
+    ],
+    "words": [
+      {
+        "i": 272,
+        "word": "Test",
+        "start": 103.06,
+        "end": 103.22
+      },
+      {
+        "i": 273,
+        "word": "the",
+        "start": 103.22,
+        "end": 103.42
+      },
+      {
+        "i": 274,
+        "word": "button",
+        "start": 103.42,
+        "end": 103.62
+      },
+      {
+        "i": 275,
+        "word": "in",
+        "start": 103.62,
+        "end": 103.8
+      },
+      {
+        "i": 276,
+        "word": "the",
+        "start": 103.8,
+        "end": 103.92
+      },
+      {
+        "i": 277,
+        "word": "shared",
+        "start": 103.92,
+        "end": 104.14
+      },
+      {
+        "i": 278,
+        "word": "design",
+        "start": 104.14,
+        "end": 104.54
+      },
+      {
+        "i": 279,
+        "word": "or",
+        "start": 104.54,
+        "end": 104.92
+      },
+      {
+        "i": 280,
+        "word": "an",
+        "start": 104.92,
+        "end": 105.02
+      },
+      {
+        "i": 281,
+        "word": "unflattened",
+        "start": 105.02,
+        "end": 105.68
+      },
+      {
+        "i": 282,
+        "word": "PDF",
+        "start": 105.68,
+        "end": 106.1
+      },
+      {
+        "i": 283,
+        "word": "before",
+        "start": 106.1,
+        "end": 106.56
+      },
+      {
+        "i": 284,
+        "word": "distributing",
+        "start": 106.56,
+        "end": 107.0
+      },
+      {
+        "i": 285,
+        "word": "it.",
+        "start": 107.0,
+        "end": 107.32
       }
     ]
   }

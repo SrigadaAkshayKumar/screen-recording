@@ -1,17 +1,24 @@
-This tutorial shows you how to control when an animation begins and how long its object stays visible in Canva.
-Open a video design and select the animated text, image or shape you want to adjust.
-In the video timeline, find that object's layer.
-Drag the whole layer left or right to change its starting time without changing its length.
-For example, move a heading so it begins two seconds into the video.
-Drag the right edge of the layer to change when the object disappears.
-If it starts at two seconds and ends at six seconds, the object has a four-second visible span.
-To change the entrance animation itself, select the object and open animate.
-For supported effects, use the intro or outro duration controls.
-Try a one-second intro then preview the movement from just before the object's starting time.
-If the selected effect only provides speed presets, use those or choose an effect that offers the duration controls you need.
-For a presentation or social post, right-click the object and use Show Element Timing when available.
-For video designs, use the video timeline instead.
+This tutorial shows you how to add a live events calendar to a Canva website using a calendar embed link from Calgette.
+Open your website design in Canva and create a section for upcoming events.
+Leave a wide clear area where the calendar will appear.
+In another browser tab, sign in to Calgette and create a calendar.
+Add a sample event with its title, date, time and location.
+This external calendar will supply the live event information.
+Open Calgette's embeddable calendar area and select your calendar.
+Choose a view such as month or schedule and adjust the colour to suit your website.
+Click Get Embed Code, select the direct link tab and copy the link.
+Use this dedicated calendar link for the embed.
+Return to Canva, open Apps and search for embeds.
+Paste the calendar's direct link and click Add to Design.
+Resize the calendar to fit your events section.
+Give it enough height to display the event list or month grid without feeling cramped.
+Add a short heading above it so visitors understand what they are looking at.
 Here's the part many tutorials skip.
-The object's visible span, the animation's intro duration and the total page duration are separate settings.
-Making a page longer does not automatically delay an object's entrance.
-Preview the full sequence and leave enough time after the entrance for viewers to read or inspect the object.
+An embed link and HTML iframe code are different things.
+Canva's embeds workflow takes a supported URL.
+Pasting the iframe code itself will not create this calendar.
+Preview the website on desktop and mobile, then publish or republish it.
+Open the published address and click the sample event to check the details.
+Finally, update that event in Calgette and reload the website.
+Confirm that the change appears.
+You now have a live calendar rather than a static calendar image.

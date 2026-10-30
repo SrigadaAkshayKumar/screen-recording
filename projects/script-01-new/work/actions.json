@@ -1,0 +1,23 @@
+{
+  "recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 194.6},
+  "sync": {"clicks_offset": 0, "source": "frames"},
+  "actions": [
+    {"id": "A1", "t_click": 18.6, "x": 54, "y": 528, "kind": "click", "target": "Uploads in the left sidebar", "result": "Uploads panel opens with the image library", "t_result_visible": 18.9, "confidence": "medium"},
+    {"id": "A2", "t_click": 32.0, "x": 384, "y": 402, "kind": "click", "target": "Upload files button", "result": "Windows file picker opens", "t_result_visible": 32.4, "confidence": "medium"},
+    {"id": "A3", "t_click": 34.3, "x": 1344, "y": 60, "kind": "click", "target": "file picker close button", "result": "picker closes, the logo is already in the library", "t_result_visible": 34.6, "confidence": "low"},
+    {"id": "A4", "t_click": 41.3, "x": 235, "y": 660, "kind": "click", "target": "uploaded logo thumbnail", "result": "logo is added to the canvas as its own element", "t_result_visible": 42.0, "confidence": "medium"},
+    {"id": "A5", "t_click": 45.6, "x": 1042, "y": 422, "kind": "drag", "x2": 1181, "y2": 566, "t_end": 47.0, "target": "corner handle of the logo", "result": "logo is resized", "t_result_visible": 47.1, "confidence": "medium"},
+    {"id": "A6", "t_click": 78.4, "x": 54, "y": 528, "kind": "click", "target": "Uploads in the left sidebar (again)", "result": "Uploads panel reopens", "t_result_visible": 79.5, "confidence": "low"},
+    {"id": "A7", "t_click": 82.3, "x": 240, "y": 430, "kind": "click", "target": "chart image in the library", "result": "chart is added as footage under the logo", "t_result_visible": 83.8, "confidence": "low"},
+    {"id": "A8", "t_click": 89.5, "x": 984, "y": 528, "kind": "drag", "x2": 1000, "y2": 470, "t_end": 90.4, "target": "logo", "result": "logo sits in the top-right corner of the video", "t_result_visible": 91.0, "confidence": "medium"},
+    {"id": "A9", "t_click": 99.4, "x": 1224, "y": 432, "kind": "click", "target": "logo (select it)", "result": "its layer appears in the timeline", "t_result_visible": 99.8, "confidence": "low"},
+    {"id": "A10", "t_click": 100.4, "x": 330, "y": 640, "kind": "drag", "x2": 420, "y2": 640, "t_end": 102.0, "target": "logo layer edge in the timeline", "result": "duration tooltip changes", "t_result_visible": 102.2, "confidence": "low"},
+    {"id": "A11", "t_click": 107.8, "x": 330, "y": 640, "kind": "drag", "x2": 420, "y2": 640, "t_end": 109.4, "target": "logo layer edge in the timeline", "result": "layer trimmed", "t_result_visible": 109.6, "confidence": "low"},
+    {"id": "A12", "t_click": 164.4, "x": 994, "y": 696, "kind": "click", "target": "Play button under the canvas", "result": "preview plays, time counter runs", "t_result_visible": 165.0, "confidence": "medium"},
+    {"id": "A13", "t_click": 178.8, "x": 1790, "y": 216, "kind": "click", "target": "Share button", "result": "share menu opens", "t_result_visible": 180.0, "confidence": "medium"},
+    {"id": "A14", "t_click": 180.2, "x": 1224, "y": 696, "kind": "click", "target": "Download in the share menu", "result": "download settings panel", "t_result_visible": 181.0, "confidence": "medium"},
+    {"id": "A15", "t_click": 182.6, "x": 1392, "y": 461, "kind": "click", "target": "file type dropdown", "result": "file type list opens", "t_result_visible": 183.0, "confidence": "medium"},
+    {"id": "A16", "t_click": 183.6, "x": 1296, "y": 965, "kind": "click", "target": "MP4 Video option", "result": "MP4 Video selected, list closes", "t_result_visible": 184.0, "confidence": "medium"}
+  ],
+  "junk": []
+}

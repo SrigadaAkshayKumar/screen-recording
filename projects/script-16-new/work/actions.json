@@ -1,0 +1,12 @@
+{"recording":{"width":1920,"height":1080,"fps":30,"duration":181.633},
+ "sync":{"source":"frames"},
+ "actions":[
+ {"id":"A1","t_click":24.5,"x":960,"y":780,"kind":"click","target":"audio bar on the timeline","result":"audio selected","t_result_visible":25.0,"confidence":"low"},
+ {"id":"A2","t_click":28.5,"x":960,"y":780,"kind":"drag","x2":1200,"y2":780,"t_end":33.0,"target":"audio bar body","result":"audio moved along timeline","t_result_visible":33.5,"confidence":"low"},
+ {"id":"A3","t_click":78.0,"x":1050,"y":330,"kind":"click","target":"Play button","result":"playback starts","t_result_visible":78.2,"confidence":"medium"},
+ {"id":"A4","t_click":87.0,"x":960,"y":780,"kind":"click","target":"audio clip","result":"clip selected (copy not visible)","t_result_visible":87.3,"confidence":"low"},
+ {"id":"A5","t_click":100.5,"x":960,"y":780,"kind":"click","target":"destination design with pasted audio","result":"audio on timeline","t_result_visible":102.0,"confidence":"low"},
+ {"id":"A6","t_click":120.9,"x":960,"y":240,"kind":"click","target":"Audio tab in Uploads","result":"voice-over.mp3 listed","t_result_visible":122.0,"confidence":"medium"},
+ {"id":"A7","t_click":147.0,"x":960,"y":300,"kind":"drag","x2":1000,"y2":300,"t_end":148.0,"target":"volume slider","result":"volume changed","t_result_visible":148.0,"confidence":"low"},
+ {"id":"A8","t_click":170.5,"x":1200,"y":150,"kind":"click","target":"trash icon","result":"clip removal","t_result_visible":171.0,"confidence":"low"}],
+ "junk":[]}

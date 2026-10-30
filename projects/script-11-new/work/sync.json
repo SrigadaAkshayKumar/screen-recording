@@ -1,0 +1,214 @@
+{
+ "src_start": 7.8,
+ "src_end": 241.5,
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 3,
+   "word": "Elements"
+  },
+  {
+   "action": "A2",
+   "line": 3,
+   "word": "category"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "Search"
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "such"
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "three"
+  },
+  {
+   "action": "A7",
+   "line": 10,
+   "word": "playhead"
+  },
+  {
+   "action": "A8",
+   "line": 10,
+   "word": "click"
+  },
+  {
+   "action": "A9",
+   "line": 11,
+   "word": "Adjust"
+  },
+  {
+   "action": "A10",
+   "line": 12,
+   "word": "your"
+  },
+  {
+   "action": "A11",
+   "line": 12,
+   "word": "speech"
+  },
+  {
+   "action": "A12",
+   "line": 13,
+   "word": "uploads"
+  },
+  {
+   "action": "A13",
+   "line": 14,
+   "word": "license"
+  },
+  {
+   "action": "A14",
+   "line": 14,
+   "word": "attribution"
+  },
+  {
+   "action": "A15",
+   "line": 15,
+   "word": "part"
+  },
+  {
+   "action": "A16",
+   "line": 16,
+   "word": "guidance"
+  },
+  {
+   "action": "A19",
+   "line": 17,
+   "word": "Preview"
+  },
+  {
+   "action": "A20",
+   "line": 17,
+   "word": "download"
+  },
+  {
+   "action": "A21",
+   "line": 17,
+   "word": "video"
+  },
+  {
+   "action": "A22",
+   "line": 17,
+   "word": "intended"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20",
+  "A21",
+  "A22"
+ ],
+ "cuts": [
+  {
+   "src_start": 20.2,
+   "src_end": 28.8,
+   "reason": "idle cursor on Audio panel",
+   "ff": true
+  },
+  {
+   "src_start": 32.2,
+   "src_end": 33.9,
+   "reason": "suggestion dropdown idle",
+   "ff": true
+  },
+  {
+   "src_start": 40.0,
+   "src_end": 57.0,
+   "reason": "cursor browsing results",
+   "ff": true
+  },
+  {
+   "src_start": 72.0,
+   "src_end": 92.0,
+   "reason": "popover static, cursor only"
+  },
+  {
+   "src_start": 99.8,
+   "src_end": 116.0,
+   "reason": "timeline adjustments before the trim"
+  },
+  {
+   "src_start": 118.6,
+   "src_end": 123.3,
+   "reason": "middle of the trim drag"
+  },
+  {
+   "src_start": 125.0,
+   "src_end": 126.0,
+   "reason": "idle between trim and volume",
+   "ff": true
+  },
+  {
+   "src_start": 133.5,
+   "src_end": 157.0,
+   "reason": "off-topic: video added to design"
+  },
+  {
+   "src_start": 163.0,
+   "src_end": 187.5,
+   "reason": "retake: Audio panel re-opened"
+  },
+  {
+   "src_start": 192.17,
+   "src_end": 203.87,
+   "reason": "popover static"
+  },
+  {
+   "src_start": 211.0,
+   "src_end": 214.0,
+   "reason": "licensing dialog static"
+  },
+  {
+   "src_start": 216.0,
+   "src_end": 220.0,
+   "reason": "cursor travel and zoom animation"
+  },
+  {
+   "src_start": 222.8,
+   "src_end": 225.2,
+   "reason": "playback idle"
+  },
+  {
+   "src_start": 227.4,
+   "src_end": 227.9,
+   "reason": "menu opening"
+  },
+  {
+   "src_start": 229.2,
+   "src_end": 229.9,
+   "reason": "panel idle"
+  },
+  {
+   "src_start": 233.0,
+   "src_end": 237.0,
+   "reason": "cursor idle"
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true
+}

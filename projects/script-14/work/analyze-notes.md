@@ -1,7 +1,5 @@
-# Analyze notes
-- Recorder has baked-in auto-zoom (camera moves on most clicks). No clicks.json. Positions are rough; ripples only on A4 (unzoomed). Everything else `no_ripple`; no plan zooms.
-- Low confidence: A3 (placing arrow), A5 Animate click time (87.0, panel already open at 87.4), A11 slider, A12 Delete path click time (226.2; panel changes 227.8), A15 play click, positions of A2/A5/A8-A12/A15-A18.
-- Narrated "enable the option that orients the element to the path": never enabled in the recording (toggle stays off; cursor only passes near it ~207.9). No action.
-- Recording order differs from narration: panel closed (A14 Done, really the X at 264.5) is narrated before Delete path (A12, 226).
-- 105-127 is a retake of the path drag after the panel reopened; 259-286 stroke colour/transparency/etc. is not narrated; skipped. Recording ends with download click at ~310.3, desktop afterwards.
-- Opening 0-40 s is idle/selecting text; trimmed. Scenes 128-150 etc. are dead time and are cut.
+# analyze notes (script-14, 286.2 s cafe-menu take, baked-in recorder zoom, no click log)
+- No per-click analysis: the recorder zooms on its own, so ripples/zooms would land wrong. actions.json holds a single low-confidence action (A1, PDF download click ~259 s, position approximate) and is not used by the plan.
+- Source moving windows were found with `freezedetect=n=0.003:d=0.8` on the recording; the plan uses only those.
+- The recording does not match the script order exactly: it starts with ~7 s of static home screen and has no clear "group and duplicate item row" step; items are edited as text, then photos resized.
+- The "PDF print" download is shown only as the PNG/file-type panel (241-248 s) and the PDF panel/toast (259-262 s).

@@ -1,0 +1,143 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "select"
+  },
+  {
+   "action": "A2",
+   "line": 3,
+   "word": "playhead",
+   "src_from": 17.8,
+   "prev_until": 9.6
+  },
+  {
+   "action": "A3",
+   "line": 4,
+   "word": "split",
+   "src_from": 41.9,
+   "prev_until": 24.2
+  },
+  {
+   "action": "A8",
+   "line": 4,
+   "word": "split",
+   "occurrence": 2,
+   "src_from": 143.0,
+   "prev_until": 44.6
+  },
+  {
+   "action": "A4",
+   "line": 5,
+   "word": "divided",
+   "src_from": 43.8,
+   "prev_until": 146.2
+  },
+  {
+   "action": "A6",
+   "line": 6,
+   "word": "playhead",
+   "src_from": 131.0,
+   "prev_until": 46.8
+  },
+  {
+   "action": "A7",
+   "line": 6,
+   "word": "split"
+  },
+  {
+   "action": "A9",
+   "line": 7,
+   "word": "Select",
+   "src_from": 147.3,
+   "prev_until": 137.4
+  },
+  {
+   "action": "A10",
+   "line": 7,
+   "word": "delete"
+  },
+  {
+   "action": "A11",
+   "line": 8,
+   "word": "into",
+   "src_from": 154.6,
+   "prev_until": 152.8
+  },
+  {
+   "action": "A5",
+   "line": 9,
+   "word": "listen",
+   "src_from": 100.3,
+   "prev_until": 158.3
+  },
+  {
+   "action": "A12",
+   "line": 10,
+   "word": "place",
+   "src_from": 159.0,
+   "prev_until": 105.9
+  },
+  {
+   "action": "A13",
+   "line": 12,
+   "word": "captions",
+   "src_from": 175.0,
+   "prev_until": 170.0
+  },
+  {
+   "action": "A14",
+   "line": 13,
+   "word": "select",
+   "src_from": 191.6,
+   "prev_until": 182.0
+  },
+  {
+   "action": "A15",
+   "line": 13,
+   "word": "audio"
+  },
+  {
+   "action": "A16",
+   "line": 13,
+   "word": "extract"
+  },
+  {
+   "action": "A17",
+   "line": 14,
+   "word": "export",
+   "src_from": 222.0,
+   "prev_until": 201.5
+  },
+  {
+   "action": "A18",
+   "line": 14,
+   "word": "video"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18"
+ ],
+ "cuts": [],
+ "ff_max": 2.0,
+ "use_junk": true
+}

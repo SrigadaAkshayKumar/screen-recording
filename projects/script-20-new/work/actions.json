@@ -1,0 +1,11 @@
+{"recording":{"width":1920,"height":1080,"fps":30,"duration":210.433},"sync":{"source":"frames"},
+"actions":[
+{"id":"A1","t_click":24.1,"x":200,"y":560,"kind":"click","target":"source clip in the Uploads > Videos panel","result":"clip added to the timeline","t_result_visible":24.2,"confidence":"low"},
+{"id":"A2","t_click":39.6,"x":980,"y":950,"kind":"click","target":"video clip in the timeline (right-click)","result":"context menu opens","t_result_visible":39.7,"confidence":"medium"},
+{"id":"A3","t_click":41.3,"x":1360,"y":590,"kind":"click","target":"Extract audio in the context menu","result":"audio track appears under the video","t_result_visible":42.0,"confidence":"medium"},
+{"id":"A4","t_click":49.7,"x":960,"y":100,"kind":"click","target":"Audio tools in the toolbar","result":"Extract audio panel opens","t_result_visible":50.5,"confidence":"medium"},
+{"id":"A5","t_click":99.7,"x":960,"y":790,"kind":"click","target":"Play button","result":"preview plays","t_result_visible":99.9,"confidence":"medium"},
+{"id":"A6","t_click":110.4,"x":720,"y":480,"kind":"click","target":"Volume mute icon","result":"source clip muted (slider at 0)","t_result_visible":111.0,"confidence":"low"},
+{"id":"A7","t_click":145.3,"x":1814,"y":178,"kind":"click","target":"Share button","result":"Share panel opens","t_result_visible":146.8,"confidence":"medium"},
+{"id":"A8","t_click":157.0,"x":1500,"y":700,"kind":"click","target":"Download button","result":"download starts","t_result_visible":158.2,"confidence":"medium"}
+],"junk":[{"start":0.0,"end":10.0,"reason":"static opening","ff":true},{"start":206.8,"end":210.433,"reason":"desktop after recording","ff":false}]}

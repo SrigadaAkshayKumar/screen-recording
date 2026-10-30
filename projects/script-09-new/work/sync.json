@@ -1,0 +1,249 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "template"
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "design"
+  },
+  {
+   "action": "A3",
+   "line": 4,
+   "word": "uploads"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "library"
+  },
+  {
+   "action": "A5",
+   "line": 5,
+   "word": "slow"
+  },
+  {
+   "action": "A6",
+   "line": 6,
+   "word": "length"
+  },
+  {
+   "action": "A7",
+   "line": 7,
+   "word": "text",
+   "occurrence": 1
+  },
+  {
+   "action": "A8",
+   "line": 7,
+   "word": "text",
+   "occurrence": 2
+  },
+  {
+   "action": "A9",
+   "line": 7,
+   "word": "quote"
+  },
+  {
+   "action": "A11",
+   "line": 9,
+   "word": "Add"
+  },
+  {
+   "action": "A12",
+   "line": 9,
+   "word": "crediting"
+  },
+  {
+   "action": "A15",
+   "line": 10,
+   "word": "shape"
+  },
+  {
+   "action": "A17",
+   "line": 10,
+   "word": "reduce"
+  },
+  {
+   "action": "A18",
+   "line": 10,
+   "word": "opacity"
+  },
+  {
+   "action": "A20",
+   "line": 11,
+   "word": "add",
+   "src_from": 214.4,
+   "prev_until": 179.7
+  },
+  {
+   "action": "A21",
+   "line": 11,
+   "word": "enter"
+  },
+  {
+   "action": "A19",
+   "line": 12,
+   "word": "Set",
+   "src_from": 189.9,
+   "prev_until": 218.4
+  },
+  {
+   "action": "A22",
+   "line": 14,
+   "word": "becomes",
+   "src_from": 224.9,
+   "prev_until": 202.8
+  },
+  {
+   "action": "A23",
+   "line": 16,
+   "word": "phone"
+  },
+  {
+   "action": "A24",
+   "line": 16,
+   "word": "MP4"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20",
+  "A21",
+  "A22",
+  "A23",
+  "A24"
+ ],
+ "cuts": [
+  {
+   "src_start": 2.3,
+   "src_end": 7.7,
+   "reason": "idle editor before the home screen",
+   "xfade": true
+  },
+  {
+   "src_start": 14.9,
+   "src_end": 17.0,
+   "reason": "design loading screen",
+   "xfade": true
+  },
+  {
+   "src_start": 32.0,
+   "src_end": 34.0,
+   "reason": "uploads panel idle",
+   "xfade": true
+  },
+  {
+   "src_start": 40.0,
+   "src_end": 61.0,
+   "reason": "playhead scrubbing/preview of the clip",
+   "xfade": true
+  },
+  {
+   "src_start": 66.0,
+   "src_end": 72.2,
+   "reason": "idle, screen frozen",
+   "xfade": true
+  },
+  {
+   "src_start": 75.8,
+   "src_end": 77.5,
+   "reason": "wait before typing",
+   "xfade": true
+  },
+  {
+   "src_start": 78.4,
+   "src_end": 97.8,
+   "reason": "middle of typing the quote",
+   "xfade": true
+  },
+  {
+   "src_start": 100.8,
+   "src_end": 107.5,
+   "reason": "reopening the Text panel",
+   "xfade": true
+  },
+  {
+   "src_start": 109.0,
+   "src_end": 110.5,
+   "reason": "wait before typing the name",
+   "xfade": true
+  },
+  {
+   "src_start": 112.2,
+   "src_end": 114.3,
+   "reason": "typing the name",
+   "xfade": true
+  },
+  {
+   "src_start": 117.3,
+   "src_end": 129.2,
+   "reason": "idle after moving the author",
+   "xfade": true
+  },
+  {
+   "src_start": 133.0,
+   "src_end": 171.6,
+   "reason": "shape layering and colour",
+   "xfade": true
+  },
+  {
+   "src_start": 173.8,
+   "src_end": 178.8,
+   "reason": "slider drag (middle)",
+   "xfade": true
+  },
+  {
+   "src_start": 179.7,
+   "src_end": 189.4,
+   "reason": "idle after slider",
+   "xfade": true
+  },
+  {
+   "src_start": 203.0,
+   "src_end": 214.3,
+   "reason": "idle scrubbing",
+   "xfade": true
+  },
+  {
+   "src_start": 219.0,
+   "src_end": 224.8,
+   "reason": "idle after animation panel",
+   "xfade": true
+  },
+  {
+   "src_start": 27.93,
+   "src_end": 30.83,
+   "reason": "cursor-only still before Uploads click",
+   "xfade": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_end": 237.0,
+ "style": {
+  "cursor_halo": false
+ }
+}

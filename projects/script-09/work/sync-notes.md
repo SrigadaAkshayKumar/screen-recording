@@ -1,33 +1,27 @@
-# Sync notes
-
-| line | word | out time | action | src time | speed (approach) |
-|---|---|---|---|---|---|
-| 2 | select | 5.920 | A2 photo (hummingbird) | 21.500 | 1.01x |
-| 3 | photo | 9.960 | A3 photo, not the page background | 28.200 | 1.66x |
-| 4 | Animate | 12.800 | A4 Animate button in toolbar | 36.400 | 2.89x |
-| 5 | Remove | 17.500 | A5 Remove animation button | 52.600 | 3.45x |
-| 7 | Play | 23.100 | A6 Play button | 64.500 | 2.12x |
-| 8 | empty | 27.720 | A7 empty area of the page | 88.000 | 1.96x |
-| 9 | Animate | 29.720 | A9 Animate button in toolbar | 142.350 | 2.17x |
-| 10 | Remove | 33.100 | A10 Remove animation button | 144.900 | 0.75x |
-| 14 | motion | 52.120 | A8 Effects tab on text | 121.700 | 1.17x |
-| 19 | Preview | 72.200 | A11 Play button | 172.450 | 0.88x |
-
-## Builder decisions
-
-- A4->A5: fast-forwarded src 38.00-51.50 instead of cutting it (junk: cursor browsing the Animate panel)
-- A6->A7: cut src 66.00-80.43 - too long to fast-forward at <= 2.00x (junk: preview playing / timeline scrubbing / idle)
-- A9: after A7 (until src 90.00) jumps ahead to src 139.50 - narration order
-- A7->A9: cut src 89.50-120.00 - too long to fast-forward at <= 2.00x (junk: repeated preview plays and idle)
-- A8: after A10 (until src 166.00) jumps back to src 120.50 - narration order
-- A10->A8: fast-forwarded src 149.00-165.00 instead of cutting it (junk: hovering over the photo, idle)
-- A11: after A8 (until src 135.00) jumps ahead to src 168.00 - narration order
+# Sync notes (script-09)
+Hand plan, one group per narration line at 0.85-1.08x, no holds, cuts, zooms or ripples (baked zoom). Source windows chosen by what they show:
+| line | out | source | shows |
+|---|---|---|---|
+| 1 | 0-6.2 | 9.1-15.0 | page with border frame, zoomed |
+| 2 | 6.2-8.9 | 20.9-23.7 | click Elements, panel opens |
+| 3 | 8.9-11.6 | 86.5-89.2 | search "re", Rectangle, shape added |
+| 4 | 11.6-16.2 | 97.0-102.0 | resize rectangle by its corner |
+| 5 | 16.2-21.3 | 103.0-108.2 | rectangle at page edges, margin |
+| 6 | 21.3-27.3 | 116.5-121.0, 123.5-125.0 | fill colour panel, transparent |
+| 7 | 27.3-32.6 | 130.7-135.2 | stroke style, solid, weight (0.86x) |
+| 8 | 32.6-35.3 | 144.0-146.7 | stroke colour tooltip |
+| 9 | 35.3-39.9 | 136.0-138.0, 141.2-143.8 | weight slider (slightly out of recording order) |
+| 10 | 39.9-43.9 | 179.5-183.6 | Position panel |
+| 11 | 43.9-46.9 | 216.5-219.5 | finished red border, even spacing |
+| 12 | 46.9-51.7 | 269.3-273.4 | lock icon / second page (0.85x) |
+| 13 | 51.7-58.8 | 22-23.6, 27-29, 33-36.2 | Elements search / graphics (no footage of typing the query) |
+| 14 | 58.8-62.8 | 71.3-75.3 | graphics panel (nearest footage) |
+| 15 | 62.8-65.3 | 213.0-215.6 | border being restyled |
+| 16 | 65.3-69.9 | 246.8-251.4 | transparency slider fades the outline |
+| 17 | 69.9-73.8 | 254.2-258.0 | fill colour panel |
+| 18 | 73.8-81.7 | 270.7-274.3, 278.5-282.8 | extra pages / add page |
+| 19 | 81.7-86.0 | 288.0-292.2 | Share > Download panel |
 
 ## Judgment calls
-- Recorder auto-zoom is baked in: no plan zooms; ripples only on A2 and A11 (unzoomed clicks). All other clicks `no_ripple`.
-- A1 (home -> design reopen, 15.5-20 s) is not anchored: it plays under "Open your design" (src_start 15.5; 0-15.4 idle cut).
-- Anchors: A2 "select", A3 "photo", A4 "Animate", A5 "Remove", A6 "Play", A7 "empty" (page click), A9 "Animate" again, A10 "Remove", A8 (Effects tab) on "motion" in L14, A11 "Preview" in L19.
-- Order conflict: A9/A10 (src 142-145) are narrated before A8 (src 121.7); cross-faded jump back to 120.5, then forward to 168 for A11.
-- Cuts (too long to fast-forward): src 37-51.5 (Animate panel browsing), 66-80.4 (preview/idle), 89.5-120 (repeated previews). Fast-forwarded: 149-165 (hover idle), tail 172-188 (scrubbing).
-- Narrated but missing in footage: page-tab Animate/Remove (L9-10: A9/A10 re-use the object's panel), transition settings (L11-12), Delete Path (L13; the Create-an-Animation panel at 143-148 plays over it), text-tab Animate/Remove (84-88 s) not shown (no room under L5 order). Lines L15-18 play over the Effects panel / hover footage.
-- A1 position, A7 position, A10 time are low confidence.
+- Audio order followed; source jumps cross-faded. Windows trimmed where freezedetect found >2.5 s of static (originally line 12, 9, 13). No pace warnings. Longest static in preview 2.37 s (out 37.5, line 9), others <=2.03 s.
+- Lines 13/14 (decorative graphic, graphics have fewer controls) and 15/16-17 use the nearest step; the recording does not show them literally.

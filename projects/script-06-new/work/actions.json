@@ -1,0 +1,230 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 261.433
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 19.5,
+   "x": 89,
+   "y": 678,
+   "kind": "click",
+   "target": "Uploads tab in the left sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 20.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 21.1,
+   "x": 200,
+   "y": 300,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "file picker dialog opens",
+   "t_result_visible": 21.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 23.1,
+   "x": 1000,
+   "y": 600,
+   "kind": "click",
+   "target": "Open in the file dialog",
+   "result": "dialog closes, clip appears in Uploads",
+   "t_result_visible": 23.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 24.55,
+   "x": 500,
+   "y": 350,
+   "kind": "click",
+   "target": "uploaded clip thumbnail",
+   "result": "clip is added to the canvas",
+   "t_result_visible": 24.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 40.6,
+   "x": 408,
+   "y": 787,
+   "kind": "click",
+   "target": "video clip in the timeline",
+   "result": "video selected, toolbar shows BG Remover",
+   "t_result_visible": 41.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 42.9,
+   "x": 737,
+   "y": 230,
+   "kind": "click",
+   "target": "BG Remover in the toolbar",
+   "result": "canvas greys out while Canva processes",
+   "t_result_visible": 43.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 64.5,
+   "x": 1003,
+   "y": 712,
+   "kind": "click",
+   "target": "Play button",
+   "result": "processed clip plays on a white background",
+   "t_result_visible": 65.2,
+   "confidence": "high"
+  },
+  {
+   "id": "A8",
+   "t_click": 70.6,
+   "x": 408,
+   "y": 230,
+   "kind": "click",
+   "target": "Edit in the toolbar",
+   "result": "Background panel opens with BG Remover tool",
+   "t_result_visible": 71.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A9",
+   "t_click": 131.0,
+   "x": 1182,
+   "y": 230,
+   "kind": "click",
+   "target": "colour swatch in the toolbar",
+   "result": "colour panel opens, blue picked next",
+   "t_result_visible": 131.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 140.9,
+   "x": 900,
+   "y": 800,
+   "kind": "drag",
+   "target": "blue background clip in timeline",
+   "result": "video layer ends up above the background",
+   "t_result_visible": 142.0,
+   "confidence": "low",
+   "x2": 900,
+   "y2": 760,
+   "t_end": 142.0
+  },
+  {
+   "id": "A11",
+   "t_click": 148.8,
+   "x": 1280,
+   "y": 790,
+   "kind": "drag",
+   "target": "end handle of the clip",
+   "result": "clip resized to match",
+   "t_result_visible": 150.5,
+   "confidence": "low",
+   "x2": 1500,
+   "y2": 790,
+   "t_end": 150.4
+  },
+  {
+   "id": "A12",
+   "t_click": 152.4,
+   "x": 1480,
+   "y": 230,
+   "kind": "click",
+   "target": "Position in the toolbar",
+   "result": "Position panel / colour panel shows",
+   "t_result_visible": 153.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 195.6,
+   "x": 926,
+   "y": 816,
+   "kind": "click",
+   "target": "timeline zoom control",
+   "result": "timeline zooms out to show 10 minutes",
+   "t_result_visible": 197.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 225.2,
+   "x": 1003,
+   "y": 712,
+   "kind": "click",
+   "target": "Play button",
+   "result": "preview plays with gradient background",
+   "t_result_visible": 226.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 237.0,
+   "x": 1003,
+   "y": 712,
+   "kind": "click",
+   "target": "Play button",
+   "result": "preview plays again",
+   "t_result_visible": 237.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 241.9,
+   "x": 1822,
+   "y": 162,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share menu opens",
+   "t_result_visible": 242.5,
+   "confidence": "high"
+  },
+  {
+   "id": "A17",
+   "t_click": 244.5,
+   "x": 1500,
+   "y": 331,
+   "kind": "click",
+   "target": "File type dropdown (MP4 Video)",
+   "result": "dropdown lists formats, MP4 stays selected",
+   "t_result_visible": 245.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 254.45,
+   "x": 1598,
+   "y": 547,
+   "kind": "click",
+   "target": "Download button",
+   "result": "export starts, panel closes",
+   "t_result_visible": 254.7,
+   "confidence": "medium"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0,
+   "end": 15.5,
+   "reason": "idle editor before the first action"
+  },
+  {
+   "start": 257.6,
+   "end": 261.43,
+   "reason": "desktop and recorder stop"
+  }
+ ]
+}

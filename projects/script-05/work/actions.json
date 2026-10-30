@@ -1,9 +1,9 @@
 {
  "recording": {
-  "width": 1920,
-  "height": 1080,
+  "width": 3420,
+  "height": 1922,
   "fps": 30,
-  "duration": 361.567
+  "duration": 82.567
  },
  "sync": {
   "clicks_offset": 0,
@@ -12,435 +12,157 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 26.8,
-   "x": 990,
-   "y": 470,
-   "kind": "type",
-   "target": "Canvas (press L)",
-   "result": "a line appears on the page",
-   "t_result_visible": 27.0,
-   "confidence": "medium",
-   "text": "L"
-  },
-  {
-   "id": "A2",
-   "t_click": 40.8,
-   "x": 830,
-   "y": 245,
+   "t_click": 14.1,
+   "x": 1700,
+   "y": 640,
    "kind": "click",
-   "target": "line weight button in toolbar",
-   "result": "stroke weight popup opens",
-   "t_result_visible": 41.0,
+   "target": "Canva search box",
+   "result": "search field focused and typing starts",
+   "t_result_visible": 14.5,
    "confidence": "low"
   },
   {
+   "id": "A2",
+   "t_click": 15.5,
+   "x": 1700,
+   "y": 640,
+   "kind": "type",
+   "target": "search term 'poster'",
+   "result": "results list for poster",
+   "t_result_visible": 18.4,
+   "confidence": "low",
+   "text": "search term 'poster'"
+  },
+  {
    "id": "A3",
-   "t_click": 42.3,
-   "x": 800,
-   "y": 340,
+   "t_click": 19.8,
+   "x": 1700,
+   "y": 900,
    "kind": "click",
-   "target": "stroke weight slider",
-   "result": "line gets thicker",
-   "t_result_visible": 43.0,
+   "target": "poster size / template result",
+   "result": "poster templates listing",
+   "t_result_visible": 21.8,
    "confidence": "low"
   },
   {
    "id": "A4",
-   "t_click": 44.4,
-   "x": 792,
-   "y": 245,
+   "t_click": 32.3,
+   "x": 1000,
+   "y": 1000,
    "kind": "click",
-   "target": "colour button in toolbar",
-   "result": "colour panel opens",
-   "t_result_visible": 45.0,
+   "target": "Red and White Ancient Rome Poster template",
+   "result": "template preview opens",
+   "t_result_visible": 34.8,
    "confidence": "low"
   },
   {
    "id": "A5",
-   "t_click": 46.2,
-   "x": 270,
-   "y": 440,
+   "t_click": 38.0,
+   "x": 2300,
+   "y": 1500,
    "kind": "click",
-   "target": "dark blue swatch",
-   "result": "line turns dark blue",
-   "t_result_visible": 46.5,
+   "target": "Customize this template button",
+   "result": "editor opens with the template",
+   "t_result_visible": 41.0,
    "confidence": "low"
   },
   {
    "id": "A6",
-   "t_click": 64.8,
-   "x": 935,
-   "y": 461,
-   "kind": "drag",
-   "target": "line endpoint",
-   "result": "line is lengthened",
-   "t_result_visible": 68.0,
-   "confidence": "low",
-   "x2": 1094,
-   "y2": 346,
-   "t_end": 68.0
+   "t_click": 44.5,
+   "x": 1700,
+   "y": 1000,
+   "kind": "click",
+   "target": "headline text box",
+   "result": "headline selected",
+   "t_result_visible": 45.8,
+   "confidence": "low"
   },
   {
    "id": "A7",
-   "t_click": 73.2,
-   "x": 105,
-   "y": 509,
-   "kind": "click",
-   "target": "Text tab in sidebar",
-   "result": "text panel opens",
-   "t_result_visible": 74.0,
-   "confidence": "medium"
+   "t_click": 48.1,
+   "x": 1700,
+   "y": 1000,
+   "kind": "type",
+   "target": "new headline text",
+   "result": "headline replaced",
+   "t_result_visible": 54.0,
+   "confidence": "low",
+   "text": "new headline text"
   },
   {
    "id": "A8",
-   "t_click": 75.3,
-   "x": 278,
-   "y": 624,
+   "t_click": 51.4,
+   "x": 1700,
+   "y": 330,
    "kind": "click",
-   "target": "Add a heading",
-   "result": "heading box added to page",
-   "t_result_visible": 76.0,
-   "confidence": "medium"
+   "target": "text toolbar / font controls",
+   "result": "toolbar option applied",
+   "t_result_visible": 54.0,
+   "confidence": "low"
   },
   {
    "id": "A9",
-   "t_click": 78.0,
-   "x": 1210,
-   "y": 540,
+   "t_click": 60.7,
+   "x": 1700,
+   "y": 1000,
    "kind": "type",
-   "target": "heading text",
-   "result": "\"Welcome\" typed into heading",
-   "t_result_visible": 80.0,
-   "confidence": "medium",
-   "text": "Welcome"
+   "target": "CITY CONCERT headline",
+   "result": "headline reads CITY CONCERT",
+   "t_result_visible": 63.4,
+   "confidence": "low",
+   "text": "CITY CONCERT headline"
   },
   {
    "id": "A10",
-   "t_click": 98.5,
-   "x": 1200,
-   "y": 520,
-   "kind": "drag",
-   "target": "line",
-   "result": "line moved underneath the heading",
-   "t_result_visible": 104.0,
-   "confidence": "low",
-   "x2": 1200,
-   "y2": 545,
-   "t_end": 104.0
+   "t_click": 66.0,
+   "x": 1700,
+   "y": 1100,
+   "kind": "click",
+   "target": "poster photo (delete)",
+   "result": "photo removed from page",
+   "t_result_visible": 68.1,
+   "confidence": "low"
   },
   {
    "id": "A11",
-   "t_click": 125.6,
-   "x": 1205,
-   "y": 545,
+   "t_click": 69.5,
+   "x": 100,
+   "y": 500,
    "kind": "click",
-   "target": "the line under the heading",
-   "result": "line selected (line toolbar shown)",
-   "t_result_visible": 126.0,
+   "target": "Text tab in side panel",
+   "result": "text panel opens",
+   "t_result_visible": 71.8,
    "confidence": "low"
   },
   {
    "id": "A12",
-   "t_click": 126.6,
-   "x": 1133,
-   "y": 245,
+   "t_click": 74.1,
+   "x": 300,
+   "y": 500,
    "kind": "click",
-   "target": "Animate button",
-   "result": "animation panel opens",
-   "t_result_visible": 127.5,
-   "confidence": "medium"
+   "target": "Add a subheading",
+   "result": "subheading added to page",
+   "t_result_visible": 76.0,
+   "confidence": "low"
   },
   {
    "id": "A13",
-   "t_click": 141.0,
-   "x": 456,
-   "y": 542,
+   "t_click": 78.7,
+   "x": 1700,
+   "y": 900,
    "kind": "click",
-   "target": "Fade effect tile",
-   "result": "Fade highlighted",
-   "t_result_visible": 142.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A14",
-   "t_click": 150.6,
-   "x": 350,
-   "y": 630,
-   "kind": "click",
-   "target": "Wipe effect tile",
-   "result": "Wipe selected, settings appear",
-   "t_result_visible": 152.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A15",
-   "t_click": 159.4,
-   "x": 278,
-   "y": 730,
-   "kind": "click",
-   "target": "left-to-right direction arrow",
-   "result": "direction set to right",
-   "t_result_visible": 160.0,
+   "target": "Add photo / undo",
+   "result": "photo reappears",
+   "t_result_visible": 79.6,
    "confidence": "low"
-  },
-  {
-   "id": "A16",
-   "t_click": 174.3,
-   "x": 100,
-   "y": 452,
-   "kind": "click",
-   "target": "Elements tab in sidebar",
-   "result": "Elements panel opens",
-   "t_result_visible": 174.8,
-   "confidence": "medium"
-  },
-  {
-   "id": "A17",
-   "t_click": 179.8,
-   "x": 326,
-   "y": 806,
-   "kind": "click",
-   "target": "Shapes category",
-   "result": "Shapes panel opens",
-   "t_result_visible": 180.5,
-   "confidence": "low"
-  },
-  {
-   "id": "A18",
-   "t_click": 181.2,
-   "x": 470,
-   "y": 374,
-   "kind": "click",
-   "target": "Rectangle shape",
-   "result": "a rectangle is added to the page",
-   "t_result_visible": 182.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A19",
-   "t_click": 195.2,
-   "x": 1176,
-   "y": 385,
-   "kind": "drag",
-   "target": "rectangle bottom handle",
-   "result": "rectangle made narrow like an underline",
-   "t_result_visible": 197.0,
-   "confidence": "low",
-   "x2": 1176,
-   "y2": 372,
-   "t_end": 197.0
-  },
-  {
-   "id": "A20",
-   "t_click": 219.6,
-   "x": 1133,
-   "y": 245,
-   "kind": "click",
-   "target": "Animate button (rectangle)",
-   "result": "animation panel opens with Wipe",
-   "t_result_visible": 220.4,
-   "confidence": "low"
-  },
-  {
-   "id": "A21",
-   "t_click": 231.2,
-   "x": 197,
-   "y": 620,
-   "kind": "click",
-   "target": "Slow speed button",
-   "result": "speed set to Slow",
-   "t_result_visible": 231.8,
-   "confidence": "low"
-  },
-  {
-   "id": "A22",
-   "t_click": 243.2,
-   "x": 1203,
-   "y": 700,
-   "kind": "click",
-   "target": "Play preview button",
-   "result": "preview starts playing",
-   "t_result_visible": 244.0,
-   "confidence": "low"
-  },
-  {
-   "id": "A23",
-   "t_click": 244.0,
-   "x": 1203,
-   "y": 700,
-   "kind": "wait",
-   "target": "preview playing",
-   "result": "preview finishes",
-   "t_result_visible": 272.4,
-   "confidence": "medium"
-  },
-  {
-   "id": "A24",
-   "t_click": 273.4,
-   "x": 1133,
-   "y": 245,
-   "kind": "click",
-   "target": "Animate button (heading)",
-   "result": "animation panel opens",
-   "t_result_visible": 277.0,
-   "confidence": "low"
-  },
-  {
-   "id": "A25",
-   "t_click": 295.4,
-   "x": 1130,
-   "y": 245,
-   "kind": "click",
-   "target": "font dropdown",
-   "result": "font list opens",
-   "t_result_visible": 296.0,
-   "confidence": "low"
-  },
-  {
-   "id": "A26",
-   "t_click": 299.2,
-   "x": 300,
-   "y": 700,
-   "kind": "click",
-   "target": "Brittany font",
-   "result": "heading in handwriting font",
-   "t_result_visible": 300.2,
-   "confidence": "low"
-  },
-  {
-   "id": "A27",
-   "t_click": 343.5,
-   "x": 1814,
-   "y": 178,
-   "kind": "click",
-   "target": "Share button",
-   "result": "share panel opens",
-   "t_result_visible": 345.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A28",
-   "t_click": 345.3,
-   "x": 1690,
-   "y": 780,
-   "kind": "click",
-   "target": "Download option in share panel",
-   "result": "download settings open",
-   "t_result_visible": 346.0,
-   "confidence": "low"
-  },
-  {
-   "id": "A29",
-   "t_click": 347.9,
-   "x": 1598,
-   "y": 326,
-   "kind": "click",
-   "target": "File type dropdown",
-   "result": "file type list opens",
-   "t_result_visible": 349.0,
-   "confidence": "medium"
-  },
-  {
-   "id": "A30",
-   "t_click": 351.7,
-   "x": 1430,
-   "y": 734,
-   "kind": "click",
-   "target": "GIF option",
-   "result": "GIF selected",
-   "t_result_visible": 352.5,
-   "confidence": "medium"
   }
  ],
  "junk": [
   {
-   "start": 5.0,
-   "end": 26.0,
-   "reason": "opening Canva home and a new design (navigation)",
+   "start": 0,
+   "end": 9.2,
+   "reason": "idle editor with a different poster before the narrated homepage step (used only as 2.4 s opening)",
    "ff": true
-  },
-  {
-   "start": 27.5,
-   "end": 40.0,
-   "reason": "line selected, cursor idle",
-   "ff": true
-  },
-  {
-   "start": 47.5,
-   "end": 63.5,
-   "reason": "cursor hovering on line, no changes",
-   "ff": true
-  },
-  {
-   "start": 80.5,
-   "end": 98.0,
-   "reason": "repositioning the line under the heading",
-   "ff": true
-  },
-  {
-   "start": 105.0,
-   "end": 125.3,
-   "reason": "idle after placing line",
-   "ff": true
-  },
-  {
-   "start": 132.0,
-   "end": 140.0,
-   "reason": "scrolling/hovering the effects panel",
-   "ff": true
-  },
-  {
-   "start": 143.0,
-   "end": 150.0,
-   "reason": "hovering effects",
-   "ff": true
-  },
-  {
-   "start": 160.5,
-   "end": 174.0,
-   "reason": "settings idle",
-   "ff": true
-  },
-  {
-   "start": 183.0,
-   "end": 193.0,
-   "reason": "rectangle added, repositioning",
-   "ff": true
-  },
-  {
-   "start": 199.8,
-   "end": 219.0,
-   "reason": "rectangle finishing/colour touch-ups",
-   "ff": true
-  },
-  {
-   "start": 221.0,
-   "end": 231.0,
-   "reason": "panel idle",
-   "ff": true
-  },
-  {
-   "start": 278.0,
-   "end": 295.0,
-   "reason": "trying typewriter animation on the heading",
-   "ff": true
-  },
-  {
-   "start": 301.0,
-   "end": 322.0,
-   "reason": "handwriting font applied, idle",
-   "ff": true
-  },
-  {
-   "start": 331.0,
-   "end": 341.0,
-   "reason": "animation panel adjustments",
-   "ff": true
-  },
-  {
-   "start": 354.0,
-   "end": 361.567,
-   "reason": "recorder stop / end screen (off-topic)"
   }
  ]
 }

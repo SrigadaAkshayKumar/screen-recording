@@ -1,1777 +1,1936 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to animate an existing logo in Canva for a short intro or social media video.",
+    "text": "This tutorial shows you how to create a batch of image designs with different photos and text using canvas sheets and bulk create.",
     "start": 0.0,
-    "end": 6.38,
+    "end": 7.36,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      19
+      22
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.22
+        "end": 0.24
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.22,
-        "end": 0.56
+        "start": 0.24,
+        "end": 0.64
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.56,
-        "end": 1.04
+        "start": 0.64,
+        "end": 1.1
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.04,
-        "end": 1.26
+        "start": 1.1,
+        "end": 1.28
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.26,
-        "end": 1.4
+        "start": 1.28,
+        "end": 1.42
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.4,
-        "end": 1.6
+        "start": 1.42,
+        "end": 1.58
       },
       {
         "i": 6,
-        "word": "animate",
-        "start": 1.6,
-        "end": 1.96
+        "word": "create",
+        "start": 1.58,
+        "end": 1.82
       },
       {
         "i": 7,
-        "word": "an",
-        "start": 1.96,
-        "end": 2.28
+        "word": "a",
+        "start": 1.82,
+        "end": 2.0
       },
       {
         "i": 8,
-        "word": "existing",
-        "start": 2.28,
-        "end": 2.72
+        "word": "batch",
+        "start": 2.0,
+        "end": 2.2
       },
       {
         "i": 9,
-        "word": "logo",
-        "start": 2.72,
-        "end": 3.1
+        "word": "of",
+        "start": 2.2,
+        "end": 2.42
       },
       {
         "i": 10,
-        "word": "in",
-        "start": 3.1,
-        "end": 3.42
+        "word": "image",
+        "start": 2.42,
+        "end": 2.68
       },
       {
         "i": 11,
-        "word": "Canva",
-        "start": 3.42,
-        "end": 3.84
+        "word": "designs",
+        "start": 2.68,
+        "end": 3.14
       },
       {
         "i": 12,
-        "word": "for",
-        "start": 3.84,
-        "end": 4.04
+        "word": "with",
+        "start": 3.14,
+        "end": 3.46
       },
       {
         "i": 13,
-        "word": "a",
-        "start": 4.04,
-        "end": 4.22
+        "word": "different",
+        "start": 3.46,
+        "end": 3.78
       },
       {
         "i": 14,
-        "word": "short",
-        "start": 4.22,
-        "end": 4.4
+        "word": "photos",
+        "start": 3.78,
+        "end": 4.18
       },
       {
         "i": 15,
-        "word": "intro",
-        "start": 4.4,
-        "end": 4.88
+        "word": "and",
+        "start": 4.18,
+        "end": 4.82
       },
       {
         "i": 16,
-        "word": "or",
-        "start": 4.88,
-        "end": 5.3
+        "word": "text",
+        "start": 4.82,
+        "end": 5.14
       },
       {
         "i": 17,
-        "word": "social",
-        "start": 5.3,
-        "end": 5.64
+        "word": "using",
+        "start": 5.14,
+        "end": 5.62
       },
       {
         "i": 18,
-        "word": "media",
-        "start": 5.64,
-        "end": 5.94
+        "word": "canvas",
+        "start": 5.62,
+        "end": 5.96
       },
       {
         "i": 19,
-        "word": "video.",
-        "start": 5.94,
-        "end": 6.38
+        "word": "sheets",
+        "start": 5.96,
+        "end": 6.32
+      },
+      {
+        "i": 20,
+        "word": "and",
+        "start": 6.32,
+        "end": 6.84
+      },
+      {
+        "i": 21,
+        "word": "bulk",
+        "start": 6.84,
+        "end": 7.02
+      },
+      {
+        "i": 22,
+        "word": "create.",
+        "start": 7.02,
+        "end": 7.36
       }
     ]
   },
   {
     "id": 2,
-    "text": "Create a video design in Canva.",
-    "start": 6.94,
-    "end": 8.76,
+    "text": "This workflow creates variations of a template using existing images.",
+    "start": 8.02,
+    "end": 11.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      20,
-      25
+      23,
+      32
     ],
     "words": [
       {
-        "i": 20,
-        "word": "Create",
-        "start": 6.94,
-        "end": 7.3
-      },
-      {
-        "i": 21,
-        "word": "a",
-        "start": 7.3,
-        "end": 7.52
-      },
-      {
-        "i": 22,
-        "word": "video",
-        "start": 7.52,
-        "end": 7.76
-      },
-      {
         "i": 23,
-        "word": "design",
-        "start": 7.76,
-        "end": 8.12
+        "word": "This",
+        "start": 8.02,
+        "end": 8.26
       },
       {
         "i": 24,
-        "word": "in",
-        "start": 8.12,
-        "end": 8.32
+        "word": "workflow",
+        "start": 8.26,
+        "end": 8.64
       },
       {
         "i": 25,
-        "word": "Canva.",
-        "start": 8.32,
-        "end": 8.76
+        "word": "creates",
+        "start": 8.64,
+        "end": 9.08
+      },
+      {
+        "i": 26,
+        "word": "variations",
+        "start": 9.08,
+        "end": 9.64
+      },
+      {
+        "i": 27,
+        "word": "of",
+        "start": 9.64,
+        "end": 9.84
+      },
+      {
+        "i": 28,
+        "word": "a",
+        "start": 9.84,
+        "end": 9.92
+      },
+      {
+        "i": 29,
+        "word": "template",
+        "start": 9.92,
+        "end": 10.28
+      },
+      {
+        "i": 30,
+        "word": "using",
+        "start": 10.28,
+        "end": 10.88
+      },
+      {
+        "i": 31,
+        "word": "existing",
+        "start": 10.88,
+        "end": 11.4
+      },
+      {
+        "i": 32,
+        "word": "images.",
+        "start": 11.4,
+        "end": 11.92
       }
     ]
   },
   {
     "id": 3,
-    "text": "Open uploads, click upload files and choose your logo.",
-    "start": 9.22,
-    "end": 12.74,
+    "text": "Start on desktop with a Canva plan that includes bulk create, build one sample design containing an image frame, a heading and any fixed branding.",
+    "start": 12.54,
+    "end": 20.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      26,
-      34
+      33,
+      57
     ],
     "words": [
       {
-        "i": 26,
-        "word": "Open",
-        "start": 9.22,
-        "end": 9.56
-      },
-      {
-        "i": 27,
-        "word": "uploads,",
-        "start": 9.56,
-        "end": 10.18
-      },
-      {
-        "i": 28,
-        "word": "click",
-        "start": 10.38,
-        "end": 10.58
-      },
-      {
-        "i": 29,
-        "word": "upload",
-        "start": 10.58,
-        "end": 10.98
-      },
-      {
-        "i": 30,
-        "word": "files",
-        "start": 10.98,
-        "end": 11.4
-      },
-      {
-        "i": 31,
-        "word": "and",
-        "start": 11.4,
-        "end": 11.96
-      },
-      {
-        "i": 32,
-        "word": "choose",
-        "start": 11.96,
-        "end": 12.2
-      },
-      {
         "i": 33,
-        "word": "your",
-        "start": 12.2,
-        "end": 12.42
+        "word": "Start",
+        "start": 12.54,
+        "end": 12.86
       },
       {
         "i": 34,
-        "word": "logo.",
-        "start": 12.42,
-        "end": 12.74
+        "word": "on",
+        "start": 12.86,
+        "end": 13.06
+      },
+      {
+        "i": 35,
+        "word": "desktop",
+        "start": 13.06,
+        "end": 13.46
+      },
+      {
+        "i": 36,
+        "word": "with",
+        "start": 13.46,
+        "end": 13.88
+      },
+      {
+        "i": 37,
+        "word": "a",
+        "start": 13.88,
+        "end": 14.02
+      },
+      {
+        "i": 38,
+        "word": "Canva",
+        "start": 14.02,
+        "end": 14.34
+      },
+      {
+        "i": 39,
+        "word": "plan",
+        "start": 14.34,
+        "end": 14.58
+      },
+      {
+        "i": 40,
+        "word": "that",
+        "start": 14.58,
+        "end": 14.76
+      },
+      {
+        "i": 41,
+        "word": "includes",
+        "start": 14.76,
+        "end": 15.12
+      },
+      {
+        "i": 42,
+        "word": "bulk",
+        "start": 15.12,
+        "end": 15.48
+      },
+      {
+        "i": 43,
+        "word": "create,",
+        "start": 15.48,
+        "end": 15.88
+      },
+      {
+        "i": 44,
+        "word": "build",
+        "start": 16.34,
+        "end": 16.54
+      },
+      {
+        "i": 45,
+        "word": "one",
+        "start": 16.54,
+        "end": 16.84
+      },
+      {
+        "i": 46,
+        "word": "sample",
+        "start": 16.84,
+        "end": 17.24
+      },
+      {
+        "i": 47,
+        "word": "design",
+        "start": 17.24,
+        "end": 17.6
+      },
+      {
+        "i": 48,
+        "word": "containing",
+        "start": 17.6,
+        "end": 18.0
+      },
+      {
+        "i": 49,
+        "word": "an",
+        "start": 18.0,
+        "end": 18.22
+      },
+      {
+        "i": 50,
+        "word": "image",
+        "start": 18.22,
+        "end": 18.5
+      },
+      {
+        "i": 51,
+        "word": "frame,",
+        "start": 18.5,
+        "end": 18.84
+      },
+      {
+        "i": 52,
+        "word": "a",
+        "start": 19.0,
+        "end": 19.08
+      },
+      {
+        "i": 53,
+        "word": "heading",
+        "start": 19.08,
+        "end": 19.34
+      },
+      {
+        "i": 54,
+        "word": "and",
+        "start": 19.34,
+        "end": 19.86
+      },
+      {
+        "i": 55,
+        "word": "any",
+        "start": 19.86,
+        "end": 20.06
+      },
+      {
+        "i": 56,
+        "word": "fixed",
+        "start": 20.06,
+        "end": 20.36
+      },
+      {
+        "i": 57,
+        "word": "branding.",
+        "start": 20.36,
+        "end": 20.78
       }
     ]
   },
   {
     "id": 4,
-    "text": "A PNG with a transparent background works well when you want the logo to sit cleanly over a coloured background.",
-    "start": 13.8,
-    "end": 19.52,
+    "text": "Use elements then frames to add the photo placeholder.",
+    "start": 21.34,
+    "end": 24.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      35,
-      54
+      58,
+      66
     ],
     "words": [
       {
-        "i": 35,
-        "word": "A",
-        "start": 13.8,
-        "end": 13.94
+        "i": 58,
+        "word": "Use",
+        "start": 21.34,
+        "end": 21.6
       },
       {
-        "i": 36,
-        "word": "PNG",
-        "start": 13.94,
-        "end": 14.24
+        "i": 59,
+        "word": "elements",
+        "start": 21.6,
+        "end": 22.0
       },
       {
-        "i": 37,
-        "word": "with",
-        "start": 14.24,
-        "end": 14.62
+        "i": 60,
+        "word": "then",
+        "start": 22.0,
+        "end": 22.32
       },
       {
-        "i": 38,
-        "word": "a",
-        "start": 14.62,
-        "end": 14.74
+        "i": 61,
+        "word": "frames",
+        "start": 22.32,
+        "end": 22.68
       },
       {
-        "i": 39,
-        "word": "transparent",
-        "start": 14.74,
-        "end": 15.22
-      },
-      {
-        "i": 40,
-        "word": "background",
-        "start": 15.22,
-        "end": 15.76
-      },
-      {
-        "i": 41,
-        "word": "works",
-        "start": 15.76,
-        "end": 16.1
-      },
-      {
-        "i": 42,
-        "word": "well",
-        "start": 16.1,
-        "end": 16.42
-      },
-      {
-        "i": 43,
-        "word": "when",
-        "start": 16.42,
-        "end": 16.62
-      },
-      {
-        "i": 44,
-        "word": "you",
-        "start": 16.62,
-        "end": 16.72
-      },
-      {
-        "i": 45,
-        "word": "want",
-        "start": 16.72,
-        "end": 16.86
-      },
-      {
-        "i": 46,
-        "word": "the",
-        "start": 16.86,
-        "end": 17.0
-      },
-      {
-        "i": 47,
-        "word": "logo",
-        "start": 17.0,
-        "end": 17.26
-      },
-      {
-        "i": 48,
+        "i": 62,
         "word": "to",
-        "start": 17.26,
-        "end": 17.48
+        "start": 22.68,
+        "end": 22.96
       },
       {
-        "i": 49,
-        "word": "sit",
-        "start": 17.48,
-        "end": 17.68
+        "i": 63,
+        "word": "add",
+        "start": 22.96,
+        "end": 23.14
       },
       {
-        "i": 50,
-        "word": "cleanly",
-        "start": 17.68,
-        "end": 18.26
+        "i": 64,
+        "word": "the",
+        "start": 23.14,
+        "end": 23.32
       },
       {
-        "i": 51,
-        "word": "over",
-        "start": 18.26,
-        "end": 18.54
+        "i": 65,
+        "word": "photo",
+        "start": 23.32,
+        "end": 23.64
       },
       {
-        "i": 52,
-        "word": "a",
-        "start": 18.54,
-        "end": 18.76
-      },
-      {
-        "i": 53,
-        "word": "coloured",
-        "start": 18.76,
-        "end": 18.92
-      },
-      {
-        "i": 54,
-        "word": "background.",
-        "start": 18.92,
-        "end": 19.52
+        "i": 66,
+        "word": "placeholder.",
+        "start": 23.64,
+        "end": 24.06
       }
     ]
   },
   {
     "id": 5,
-    "text": "Add the logo to the canvas, resize it and centre it.",
-    "start": 20.16,
-    "end": 23.6,
+    "text": "A regular decorative rectangle is not the same as an image frame.",
+    "start": 24.76,
+    "end": 27.86,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      55,
-      65
+      67,
+      78
     ],
     "words": [
       {
-        "i": 55,
-        "word": "Add",
-        "start": 20.16,
-        "end": 20.36
+        "i": 67,
+        "word": "A",
+        "start": 24.76,
+        "end": 24.92
       },
       {
-        "i": 56,
+        "i": 68,
+        "word": "regular",
+        "start": 24.92,
+        "end": 25.24
+      },
+      {
+        "i": 69,
+        "word": "decorative",
+        "start": 25.24,
+        "end": 25.64
+      },
+      {
+        "i": 70,
+        "word": "rectangle",
+        "start": 25.64,
+        "end": 26.08
+      },
+      {
+        "i": 71,
+        "word": "is",
+        "start": 26.08,
+        "end": 26.44
+      },
+      {
+        "i": 72,
+        "word": "not",
+        "start": 26.44,
+        "end": 26.7
+      },
+      {
+        "i": 73,
         "word": "the",
-        "start": 20.36,
-        "end": 20.48
+        "start": 26.7,
+        "end": 26.86
       },
       {
-        "i": 57,
-        "word": "logo",
-        "start": 20.48,
-        "end": 20.68
+        "i": 74,
+        "word": "same",
+        "start": 26.86,
+        "end": 27.08
       },
       {
-        "i": 58,
-        "word": "to",
-        "start": 20.68,
-        "end": 20.86
+        "i": 75,
+        "word": "as",
+        "start": 27.08,
+        "end": 27.24
       },
       {
-        "i": 59,
-        "word": "the",
-        "start": 20.86,
-        "end": 20.96
+        "i": 76,
+        "word": "an",
+        "start": 27.24,
+        "end": 27.34
       },
       {
-        "i": 60,
-        "word": "canvas,",
-        "start": 20.96,
-        "end": 21.3
+        "i": 77,
+        "word": "image",
+        "start": 27.34,
+        "end": 27.54
       },
       {
-        "i": 61,
-        "word": "resize",
-        "start": 21.74,
-        "end": 22.06
-      },
-      {
-        "i": 62,
-        "word": "it",
-        "start": 22.06,
-        "end": 22.42
-      },
-      {
-        "i": 63,
-        "word": "and",
-        "start": 22.42,
-        "end": 22.76
-      },
-      {
-        "i": 64,
-        "word": "centre",
-        "start": 22.76,
-        "end": 23.04
-      },
-      {
-        "i": 65,
-        "word": "it.",
-        "start": 23.04,
-        "end": 23.6
+        "i": 78,
+        "word": "frame.",
+        "start": 27.54,
+        "end": 27.86
       }
     ]
   },
   {
     "id": 6,
-    "text": "Choose a background colour that makes the logo easy to read.",
-    "start": 24.04,
-    "end": 26.82,
+    "text": "Next, open a Canva sheet and create columns for the information that should change.",
+    "start": 28.42,
+    "end": 32.52,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      66,
-      76
+      79,
+      92
     ],
     "words": [
       {
-        "i": 66,
-        "word": "Choose",
-        "start": 24.04,
-        "end": 24.22
+        "i": 79,
+        "word": "Next,",
+        "start": 28.42,
+        "end": 28.76
       },
       {
-        "i": 67,
+        "i": 80,
+        "word": "open",
+        "start": 28.94,
+        "end": 29.2
+      },
+      {
+        "i": 81,
         "word": "a",
-        "start": 24.22,
-        "end": 24.38
+        "start": 29.2,
+        "end": 29.5
       },
       {
-        "i": 68,
-        "word": "background",
-        "start": 24.38,
-        "end": 24.74
+        "i": 82,
+        "word": "Canva",
+        "start": 29.5,
+        "end": 29.7
       },
       {
-        "i": 69,
-        "word": "colour",
-        "start": 24.74,
-        "end": 25.04
+        "i": 83,
+        "word": "sheet",
+        "start": 29.7,
+        "end": 29.92
       },
       {
-        "i": 70,
-        "word": "that",
-        "start": 25.04,
-        "end": 25.24
+        "i": 84,
+        "word": "and",
+        "start": 29.92,
+        "end": 30.18
       },
       {
-        "i": 71,
-        "word": "makes",
-        "start": 25.24,
-        "end": 25.42
+        "i": 85,
+        "word": "create",
+        "start": 30.18,
+        "end": 30.44
       },
       {
-        "i": 72,
+        "i": 86,
+        "word": "columns",
+        "start": 30.44,
+        "end": 30.72
+      },
+      {
+        "i": 87,
+        "word": "for",
+        "start": 30.72,
+        "end": 31.0
+      },
+      {
+        "i": 88,
         "word": "the",
-        "start": 25.42,
-        "end": 25.64
+        "start": 31.0,
+        "end": 31.1
       },
       {
-        "i": 73,
-        "word": "logo",
-        "start": 25.64,
-        "end": 25.9
+        "i": 89,
+        "word": "information",
+        "start": 31.1,
+        "end": 31.56
       },
       {
-        "i": 74,
-        "word": "easy",
-        "start": 25.9,
-        "end": 26.22
+        "i": 90,
+        "word": "that",
+        "start": 31.56,
+        "end": 31.88
       },
       {
-        "i": 75,
-        "word": "to",
-        "start": 26.22,
-        "end": 26.52
+        "i": 91,
+        "word": "should",
+        "start": 31.88,
+        "end": 32.06
       },
       {
-        "i": 76,
-        "word": "read.",
-        "start": 26.52,
-        "end": 26.82
+        "i": 92,
+        "word": "change.",
+        "start": 32.06,
+        "end": 32.52
       }
     ]
   },
   {
     "id": 7,
-    "text": "Select the logo and click animate.",
-    "start": 26.82,
-    "end": 29.48,
+    "text": "For example, use product name and product photo, put one product in each row and insert its image directly into the photo cell.",
+    "start": 33.04,
+    "end": 39.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      77,
-      82
+      93,
+      115
     ],
     "words": [
       {
-        "i": 77,
-        "word": "Select",
-        "start": 26.82,
-        "end": 27.72
+        "i": 93,
+        "word": "For",
+        "start": 33.04,
+        "end": 33.16
       },
       {
-        "i": 78,
-        "word": "the",
-        "start": 27.72,
-        "end": 27.92
+        "i": 94,
+        "word": "example,",
+        "start": 33.16,
+        "end": 33.4
       },
       {
-        "i": 79,
-        "word": "logo",
-        "start": 27.92,
-        "end": 28.12
+        "i": 95,
+        "word": "use",
+        "start": 33.66,
+        "end": 33.86
       },
       {
-        "i": 80,
+        "i": 96,
+        "word": "product",
+        "start": 33.86,
+        "end": 34.18
+      },
+      {
+        "i": 97,
+        "word": "name",
+        "start": 34.18,
+        "end": 34.42
+      },
+      {
+        "i": 98,
         "word": "and",
-        "start": 28.12,
-        "end": 28.7
+        "start": 34.42,
+        "end": 34.76
       },
       {
-        "i": 81,
-        "word": "click",
-        "start": 28.7,
-        "end": 29.02
+        "i": 99,
+        "word": "product",
+        "start": 34.76,
+        "end": 35.04
       },
       {
-        "i": 82,
-        "word": "animate.",
-        "start": 29.02,
-        "end": 29.48
+        "i": 100,
+        "word": "photo,",
+        "start": 35.04,
+        "end": 35.44
+      },
+      {
+        "i": 101,
+        "word": "put",
+        "start": 35.86,
+        "end": 36.12
+      },
+      {
+        "i": 102,
+        "word": "one",
+        "start": 36.12,
+        "end": 36.38
+      },
+      {
+        "i": 103,
+        "word": "product",
+        "start": 36.38,
+        "end": 36.64
+      },
+      {
+        "i": 104,
+        "word": "in",
+        "start": 36.64,
+        "end": 36.9
+      },
+      {
+        "i": 105,
+        "word": "each",
+        "start": 36.9,
+        "end": 37.16
+      },
+      {
+        "i": 106,
+        "word": "row",
+        "start": 37.16,
+        "end": 37.46
+      },
+      {
+        "i": 107,
+        "word": "and",
+        "start": 37.46,
+        "end": 37.7
+      },
+      {
+        "i": 108,
+        "word": "insert",
+        "start": 37.7,
+        "end": 38.02
+      },
+      {
+        "i": 109,
+        "word": "its",
+        "start": 38.02,
+        "end": 38.22
+      },
+      {
+        "i": 110,
+        "word": "image",
+        "start": 38.22,
+        "end": 38.44
+      },
+      {
+        "i": 111,
+        "word": "directly",
+        "start": 38.44,
+        "end": 38.8
+      },
+      {
+        "i": 112,
+        "word": "into",
+        "start": 38.8,
+        "end": 39.24
+      },
+      {
+        "i": 113,
+        "word": "the",
+        "start": 39.24,
+        "end": 39.4
+      },
+      {
+        "i": 114,
+        "word": "photo",
+        "start": 39.4,
+        "end": 39.56
+      },
+      {
+        "i": 115,
+        "word": "cell.",
+        "start": 39.56,
+        "end": 39.94
       }
     ]
   },
   {
     "id": 8,
-    "text": "Choose a suitable entrance such as fade for a restrained reveal or pop for a more energetic introduction.",
-    "start": 30.26,
-    "end": 35.86,
+    "text": "Select the filled data range, choose actions, then bulk create and continue.",
+    "start": 40.56,
+    "end": 44.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      83,
-      100
+      116,
+      127
     ],
     "words": [
       {
-        "i": 83,
-        "word": "Choose",
-        "start": 30.26,
-        "end": 30.46
+        "i": 116,
+        "word": "Select",
+        "start": 40.56,
+        "end": 40.8
       },
       {
-        "i": 84,
-        "word": "a",
-        "start": 30.46,
-        "end": 30.64
+        "i": 117,
+        "word": "the",
+        "start": 40.8,
+        "end": 40.98
       },
       {
-        "i": 85,
-        "word": "suitable",
-        "start": 30.64,
-        "end": 30.96
+        "i": 118,
+        "word": "filled",
+        "start": 40.98,
+        "end": 41.18
       },
       {
-        "i": 86,
-        "word": "entrance",
-        "start": 30.96,
-        "end": 31.44
+        "i": 119,
+        "word": "data",
+        "start": 41.18,
+        "end": 41.42
       },
       {
-        "i": 87,
-        "word": "such",
-        "start": 31.44,
-        "end": 31.72
+        "i": 120,
+        "word": "range,",
+        "start": 41.42,
+        "end": 41.84
       },
       {
-        "i": 88,
-        "word": "as",
-        "start": 31.72,
-        "end": 31.94
+        "i": 121,
+        "word": "choose",
+        "start": 42.02,
+        "end": 42.36
       },
       {
-        "i": 89,
-        "word": "fade",
-        "start": 31.94,
-        "end": 32.16
+        "i": 122,
+        "word": "actions,",
+        "start": 42.36,
+        "end": 42.84
       },
       {
-        "i": 90,
-        "word": "for",
-        "start": 32.16,
-        "end": 32.44
+        "i": 123,
+        "word": "then",
+        "start": 43.28,
+        "end": 43.44
       },
       {
-        "i": 91,
-        "word": "a",
-        "start": 32.44,
-        "end": 32.54
+        "i": 124,
+        "word": "bulk",
+        "start": 43.44,
+        "end": 43.68
       },
       {
-        "i": 92,
-        "word": "restrained",
-        "start": 32.54,
-        "end": 32.9
+        "i": 125,
+        "word": "create",
+        "start": 43.68,
+        "end": 44.04
       },
       {
-        "i": 93,
-        "word": "reveal",
-        "start": 32.9,
-        "end": 33.26
+        "i": 126,
+        "word": "and",
+        "start": 44.04,
+        "end": 44.54
       },
       {
-        "i": 94,
-        "word": "or",
-        "start": 33.26,
-        "end": 33.86
-      },
-      {
-        "i": 95,
-        "word": "pop",
-        "start": 33.86,
-        "end": 34.08
-      },
-      {
-        "i": 96,
-        "word": "for",
-        "start": 34.08,
-        "end": 34.36
-      },
-      {
-        "i": 97,
-        "word": "a",
-        "start": 34.36,
-        "end": 34.46
-      },
-      {
-        "i": 98,
-        "word": "more",
-        "start": 34.46,
-        "end": 34.6
-      },
-      {
-        "i": 99,
-        "word": "energetic",
-        "start": 34.6,
-        "end": 35.06
-      },
-      {
-        "i": 100,
-        "word": "introduction.",
-        "start": 35.06,
-        "end": 35.86
+        "i": 127,
+        "word": "continue.",
+        "start": 44.54,
+        "end": 44.98
       }
     ]
   },
   {
     "id": 9,
-    "text": "Preview the available options before selecting one.",
-    "start": 36.72,
-    "end": 38.92,
+    "text": "Choose the sample design you prepared.",
+    "start": 45.74,
+    "end": 47.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      101,
-      107
+      128,
+      133
     ],
     "words": [
       {
-        "i": 101,
-        "word": "Preview",
-        "start": 36.72,
-        "end": 36.78
+        "i": 128,
+        "word": "Choose",
+        "start": 45.74,
+        "end": 45.98
       },
       {
-        "i": 102,
+        "i": 129,
         "word": "the",
-        "start": 36.78,
-        "end": 37.04
+        "start": 45.98,
+        "end": 46.16
       },
       {
-        "i": 103,
-        "word": "available",
-        "start": 37.04,
-        "end": 37.34
+        "i": 130,
+        "word": "sample",
+        "start": 46.16,
+        "end": 46.4
       },
       {
-        "i": 104,
-        "word": "options",
-        "start": 37.34,
-        "end": 37.74
+        "i": 131,
+        "word": "design",
+        "start": 46.4,
+        "end": 46.72
       },
       {
-        "i": 105,
-        "word": "before",
-        "start": 37.74,
-        "end": 38.12
+        "i": 132,
+        "word": "you",
+        "start": 46.72,
+        "end": 46.92
       },
       {
-        "i": 106,
-        "word": "selecting",
-        "start": 38.12,
-        "end": 38.52
-      },
-      {
-        "i": 107,
-        "word": "one.",
-        "start": 38.52,
-        "end": 38.92
+        "i": 133,
+        "word": "prepared.",
+        "start": 46.92,
+        "end": 47.3
       }
     ]
   },
   {
     "id": 10,
-    "text": "Adjust any speed or duration settings the effect provides.",
-    "start": 39.34,
-    "end": 42.32,
+    "text": "Review Canva's proposed field connections.",
+    "start": 48.0,
+    "end": 49.66,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      108,
-      116
+      134,
+      138
     ],
     "words": [
       {
-        "i": 108,
-        "word": "Adjust",
-        "start": 39.34,
-        "end": 39.58
+        "i": 134,
+        "word": "Review",
+        "start": 48.0,
+        "end": 48.02
       },
       {
-        "i": 109,
-        "word": "any",
-        "start": 39.58,
-        "end": 39.96
+        "i": 135,
+        "word": "Canva's",
+        "start": 48.02,
+        "end": 48.52
       },
       {
-        "i": 110,
-        "word": "speed",
-        "start": 39.96,
-        "end": 40.3
+        "i": 136,
+        "word": "proposed",
+        "start": 48.52,
+        "end": 48.86
       },
       {
-        "i": 111,
-        "word": "or",
-        "start": 40.3,
-        "end": 40.46
+        "i": 137,
+        "word": "field",
+        "start": 48.86,
+        "end": 49.2
       },
       {
-        "i": 112,
-        "word": "duration",
-        "start": 40.46,
-        "end": 40.78
-      },
-      {
-        "i": 113,
-        "word": "settings",
-        "start": 40.78,
-        "end": 41.26
-      },
-      {
-        "i": 114,
-        "word": "the",
-        "start": 41.26,
-        "end": 41.5
-      },
-      {
-        "i": 115,
-        "word": "effect",
-        "start": 41.5,
-        "end": 41.76
-      },
-      {
-        "i": 116,
-        "word": "provides.",
-        "start": 41.76,
-        "end": 42.32
+        "i": 138,
+        "word": "connections.",
+        "start": 49.2,
+        "end": 49.66
       }
     ]
   },
   {
     "id": 11,
-    "text": "Give the logo enough time to remain visible after its entrance so viewers can recognise it.",
-    "start": 42.88,
-    "end": 47.34,
+    "text": "Make sure the name column is assigned to the heading and the photo column is assigned to the frame.",
+    "start": 50.32,
+    "end": 54.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      117,
-      132
+      139,
+      157
     ],
     "words": [
       {
-        "i": 117,
-        "word": "Give",
-        "start": 42.88,
-        "end": 43.12
+        "i": 139,
+        "word": "Make",
+        "start": 50.32,
+        "end": 50.48
       },
       {
-        "i": 118,
+        "i": 140,
+        "word": "sure",
+        "start": 50.48,
+        "end": 50.66
+      },
+      {
+        "i": 141,
         "word": "the",
-        "start": 43.12,
-        "end": 43.28
+        "start": 50.66,
+        "end": 50.82
       },
       {
-        "i": 119,
-        "word": "logo",
-        "start": 43.28,
-        "end": 43.5
+        "i": 142,
+        "word": "name",
+        "start": 50.82,
+        "end": 51.0
       },
       {
-        "i": 120,
-        "word": "enough",
-        "start": 43.5,
-        "end": 43.74
+        "i": 143,
+        "word": "column",
+        "start": 51.0,
+        "end": 51.28
       },
       {
-        "i": 121,
-        "word": "time",
-        "start": 43.74,
-        "end": 44.02
+        "i": 144,
+        "word": "is",
+        "start": 51.28,
+        "end": 51.48
       },
       {
-        "i": 122,
+        "i": 145,
+        "word": "assigned",
+        "start": 51.48,
+        "end": 51.8
+      },
+      {
+        "i": 146,
         "word": "to",
-        "start": 44.02,
-        "end": 44.2
+        "start": 51.8,
+        "end": 51.96
       },
       {
-        "i": 123,
-        "word": "remain",
-        "start": 44.2,
-        "end": 44.42
+        "i": 147,
+        "word": "the",
+        "start": 51.96,
+        "end": 52.06
       },
       {
-        "i": 124,
-        "word": "visible",
-        "start": 44.42,
-        "end": 44.86
+        "i": 148,
+        "word": "heading",
+        "start": 52.06,
+        "end": 52.28
       },
       {
-        "i": 125,
-        "word": "after",
-        "start": 44.86,
-        "end": 45.18
+        "i": 149,
+        "word": "and",
+        "start": 52.28,
+        "end": 52.76
       },
       {
-        "i": 126,
-        "word": "its",
-        "start": 45.18,
-        "end": 45.4
+        "i": 150,
+        "word": "the",
+        "start": 52.76,
+        "end": 52.86
       },
       {
-        "i": 127,
-        "word": "entrance",
-        "start": 45.4,
-        "end": 45.78
+        "i": 151,
+        "word": "photo",
+        "start": 52.86,
+        "end": 53.14
       },
       {
-        "i": 128,
-        "word": "so",
-        "start": 45.78,
-        "end": 46.02
+        "i": 152,
+        "word": "column",
+        "start": 53.14,
+        "end": 53.48
       },
       {
-        "i": 129,
-        "word": "viewers",
-        "start": 46.02,
-        "end": 46.32
+        "i": 153,
+        "word": "is",
+        "start": 53.48,
+        "end": 53.72
       },
       {
-        "i": 130,
-        "word": "can",
-        "start": 46.32,
-        "end": 46.56
+        "i": 154,
+        "word": "assigned",
+        "start": 53.72,
+        "end": 54.04
       },
       {
-        "i": 131,
-        "word": "recognise",
-        "start": 46.56,
-        "end": 46.94
+        "i": 155,
+        "word": "to",
+        "start": 54.04,
+        "end": 54.22
       },
       {
-        "i": 132,
-        "word": "it.",
-        "start": 46.94,
-        "end": 47.34
+        "i": 156,
+        "word": "the",
+        "start": 54.22,
+        "end": 54.34
+      },
+      {
+        "i": 157,
+        "word": "frame.",
+        "start": 54.34,
+        "end": 54.64
       }
     ]
   },
   {
     "id": 12,
-    "text": "If you built the logo from editable text and shapes inside Canva, group the parts to animate them together.",
-    "start": 48.08,
-    "end": 53.68,
+    "text": "Correct any connection that points to the wrong element.",
+    "start": 54.64,
+    "end": 57.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      133,
-      151
+      158,
+      166
     ],
     "words": [
       {
-        "i": 133,
-        "word": "If",
-        "start": 48.08,
-        "end": 48.3
+        "i": 158,
+        "word": "Correct",
+        "start": 54.64,
+        "end": 55.32
       },
       {
-        "i": 134,
-        "word": "you",
-        "start": 48.3,
-        "end": 48.42
+        "i": 159,
+        "word": "any",
+        "start": 55.32,
+        "end": 55.72
       },
       {
-        "i": 135,
-        "word": "built",
-        "start": 48.42,
-        "end": 48.62
+        "i": 160,
+        "word": "connection",
+        "start": 55.72,
+        "end": 56.16
       },
       {
-        "i": 136,
-        "word": "the",
-        "start": 48.62,
-        "end": 48.76
+        "i": 161,
+        "word": "that",
+        "start": 56.16,
+        "end": 56.36
       },
       {
-        "i": 137,
-        "word": "logo",
-        "start": 48.76,
-        "end": 49.02
+        "i": 162,
+        "word": "points",
+        "start": 56.36,
+        "end": 56.58
       },
       {
-        "i": 138,
-        "word": "from",
-        "start": 49.02,
-        "end": 49.22
-      },
-      {
-        "i": 139,
-        "word": "editable",
-        "start": 49.22,
-        "end": 49.72
-      },
-      {
-        "i": 140,
-        "word": "text",
-        "start": 49.72,
-        "end": 49.98
-      },
-      {
-        "i": 141,
-        "word": "and",
-        "start": 49.98,
-        "end": 50.24
-      },
-      {
-        "i": 142,
-        "word": "shapes",
-        "start": 50.24,
-        "end": 50.52
-      },
-      {
-        "i": 143,
-        "word": "inside",
-        "start": 50.52,
-        "end": 51.08
-      },
-      {
-        "i": 144,
-        "word": "Canva,",
-        "start": 51.08,
-        "end": 51.52
-      },
-      {
-        "i": 145,
-        "word": "group",
-        "start": 51.86,
-        "end": 52.04
-      },
-      {
-        "i": 146,
-        "word": "the",
-        "start": 52.04,
-        "end": 52.24
-      },
-      {
-        "i": 147,
-        "word": "parts",
-        "start": 52.24,
-        "end": 52.46
-      },
-      {
-        "i": 148,
+        "i": 163,
         "word": "to",
-        "start": 52.46,
-        "end": 52.68
+        "start": 56.58,
+        "end": 56.8
       },
       {
-        "i": 149,
-        "word": "animate",
-        "start": 52.68,
-        "end": 52.96
+        "i": 164,
+        "word": "the",
+        "start": 56.8,
+        "end": 56.92
       },
       {
-        "i": 150,
-        "word": "them",
-        "start": 52.96,
-        "end": 53.26
+        "i": 165,
+        "word": "wrong",
+        "start": 56.92,
+        "end": 57.08
       },
       {
-        "i": 151,
-        "word": "together.",
-        "start": 53.26,
-        "end": 53.68
+        "i": 166,
+        "word": "element.",
+        "start": 57.08,
+        "end": 57.54
       }
     ]
   },
   {
     "id": 13,
-    "text": "Keep the parts separate when you want the symbol to appear first and the brand name to follow.",
-    "start": 53.68,
-    "end": 58.92,
+    "text": "Generate the batch and open the resulting designs.",
+    "start": 58.64,
+    "end": 60.96,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      152,
-      169
+      167,
+      174
     ],
     "words": [
       {
-        "i": 152,
-        "word": "Keep",
-        "start": 53.68,
-        "end": 54.54
-      },
-      {
-        "i": 153,
-        "word": "the",
-        "start": 54.54,
-        "end": 54.72
-      },
-      {
-        "i": 154,
-        "word": "parts",
-        "start": 54.72,
-        "end": 54.94
-      },
-      {
-        "i": 155,
-        "word": "separate",
-        "start": 54.94,
-        "end": 55.34
-      },
-      {
-        "i": 156,
-        "word": "when",
-        "start": 55.34,
-        "end": 55.64
-      },
-      {
-        "i": 157,
-        "word": "you",
-        "start": 55.64,
-        "end": 55.76
-      },
-      {
-        "i": 158,
-        "word": "want",
-        "start": 55.76,
-        "end": 55.88
-      },
-      {
-        "i": 159,
-        "word": "the",
-        "start": 55.88,
-        "end": 56.04
-      },
-      {
-        "i": 160,
-        "word": "symbol",
-        "start": 56.04,
-        "end": 56.28
-      },
-      {
-        "i": 161,
-        "word": "to",
-        "start": 56.28,
-        "end": 56.5
-      },
-      {
-        "i": 162,
-        "word": "appear",
-        "start": 56.5,
-        "end": 56.76
-      },
-      {
-        "i": 163,
-        "word": "first",
-        "start": 56.76,
-        "end": 57.14
-      },
-      {
-        "i": 164,
-        "word": "and",
-        "start": 57.14,
-        "end": 57.72
-      },
-      {
-        "i": 165,
-        "word": "the",
-        "start": 57.72,
-        "end": 57.86
-      },
-      {
-        "i": 166,
-        "word": "brand",
-        "start": 57.86,
-        "end": 58.1
-      },
-      {
         "i": 167,
-        "word": "name",
-        "start": 58.1,
-        "end": 58.34
+        "word": "Generate",
+        "start": 58.64,
+        "end": 58.92
       },
       {
         "i": 168,
-        "word": "to",
-        "start": 58.34,
-        "end": 58.58
+        "word": "the",
+        "start": 58.92,
+        "end": 59.06
       },
       {
         "i": 169,
-        "word": "follow.",
-        "start": 58.58,
-        "end": 58.92
+        "word": "batch",
+        "start": 59.06,
+        "end": 59.3
+      },
+      {
+        "i": 170,
+        "word": "and",
+        "start": 59.3,
+        "end": 59.6
+      },
+      {
+        "i": 171,
+        "word": "open",
+        "start": 59.6,
+        "end": 59.9
+      },
+      {
+        "i": 172,
+        "word": "the",
+        "start": 59.9,
+        "end": 60.06
+      },
+      {
+        "i": 173,
+        "word": "resulting",
+        "start": 60.06,
+        "end": 60.38
+      },
+      {
+        "i": 174,
+        "word": "designs.",
+        "start": 60.38,
+        "end": 60.96
       }
     ]
   },
   {
     "id": 14,
-    "text": "Use the video timeline to set the logo's visible duration.",
-    "start": 59.52,
-    "end": 62.68,
+    "text": "Check the photos as well as the text.",
+    "start": 61.8,
+    "end": 63.6,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      170,
-      179
+      175,
+      182
     ],
     "words": [
       {
-        "i": 170,
-        "word": "Use",
-        "start": 59.52,
-        "end": 59.74
-      },
-      {
-        "i": 171,
-        "word": "the",
-        "start": 59.74,
-        "end": 59.96
-      },
-      {
-        "i": 172,
-        "word": "video",
-        "start": 59.96,
-        "end": 60.22
-      },
-      {
-        "i": 173,
-        "word": "timeline",
-        "start": 60.22,
-        "end": 60.64
-      },
-      {
-        "i": 174,
-        "word": "to",
-        "start": 60.64,
-        "end": 60.96
-      },
-      {
         "i": 175,
-        "word": "set",
-        "start": 60.96,
-        "end": 61.14
+        "word": "Check",
+        "start": 61.8,
+        "end": 61.94
       },
       {
         "i": 176,
         "word": "the",
-        "start": 61.14,
-        "end": 61.32
-      },
-      {
-        "i": 177,
-        "word": "logo's",
-        "start": 61.32,
-        "end": 61.78
-      },
-      {
-        "i": 178,
-        "word": "visible",
-        "start": 61.78,
+        "start": 61.94,
         "end": 62.08
       },
       {
-        "i": 179,
-        "word": "duration.",
+        "i": 177,
+        "word": "photos",
         "start": 62.08,
-        "end": 62.68
+        "end": 62.48
+      },
+      {
+        "i": 178,
+        "word": "as",
+        "start": 62.48,
+        "end": 62.82
+      },
+      {
+        "i": 179,
+        "word": "well",
+        "start": 62.82,
+        "end": 63.0
+      },
+      {
+        "i": 180,
+        "word": "as",
+        "start": 63.0,
+        "end": 63.14
+      },
+      {
+        "i": 181,
+        "word": "the",
+        "start": 63.14,
+        "end": 63.28
+      },
+      {
+        "i": 182,
+        "word": "text.",
+        "start": 63.28,
+        "end": 63.6
       }
     ]
   },
   {
     "id": 15,
-    "text": "Add a tagline as a separate text box if you want an additional message underneath it.",
-    "start": 63.4,
-    "end": 67.68,
+    "text": "Double-click an image inside its frame to adjust the crop when the subject is cut off.",
+    "start": 64.42,
+    "end": 68.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      180,
-      195
+      183,
+      199
     ],
     "words": [
       {
-        "i": 180,
-        "word": "Add",
-        "start": 63.4,
-        "end": 63.48
-      },
-      {
-        "i": 181,
-        "word": "a",
-        "start": 63.48,
-        "end": 63.62
-      },
-      {
-        "i": 182,
-        "word": "tagline",
-        "start": 63.62,
-        "end": 64.02
-      },
-      {
         "i": 183,
-        "word": "as",
-        "start": 64.02,
-        "end": 64.2
+        "word": "Double",
+        "start": 64.42,
+        "end": 64.52
       },
       {
         "i": 184,
-        "word": "a",
-        "start": 64.2,
-        "end": 64.38
+        "word": "-click",
+        "start": 64.52,
+        "end": 64.7
       },
       {
         "i": 185,
-        "word": "separate",
-        "start": 64.38,
-        "end": 64.64
+        "word": "an",
+        "start": 64.7,
+        "end": 64.86
       },
       {
         "i": 186,
-        "word": "text",
-        "start": 64.64,
-        "end": 64.96
+        "word": "image",
+        "start": 64.86,
+        "end": 65.1
       },
       {
         "i": 187,
-        "word": "box",
-        "start": 64.96,
-        "end": 65.18
+        "word": "inside",
+        "start": 65.1,
+        "end": 65.52
       },
       {
         "i": 188,
-        "word": "if",
-        "start": 65.18,
-        "end": 65.66
+        "word": "its",
+        "start": 65.52,
+        "end": 65.74
       },
       {
         "i": 189,
-        "word": "you",
-        "start": 65.66,
-        "end": 65.78
-      },
-      {
-        "i": 190,
-        "word": "want",
-        "start": 65.78,
-        "end": 65.9
-      },
-      {
-        "i": 191,
-        "word": "an",
-        "start": 65.9,
+        "word": "frame",
+        "start": 65.74,
         "end": 66.04
       },
       {
-        "i": 192,
-        "word": "additional",
+        "i": 190,
+        "word": "to",
         "start": 66.04,
-        "end": 66.38
+        "end": 66.3
+      },
+      {
+        "i": 191,
+        "word": "adjust",
+        "start": 66.3,
+        "end": 66.58
+      },
+      {
+        "i": 192,
+        "word": "the",
+        "start": 66.58,
+        "end": 66.76
       },
       {
         "i": 193,
-        "word": "message",
-        "start": 66.38,
-        "end": 66.78
+        "word": "crop",
+        "start": 66.76,
+        "end": 66.96
       },
       {
         "i": 194,
-        "word": "underneath",
-        "start": 66.78,
-        "end": 67.12
+        "word": "when",
+        "start": 66.96,
+        "end": 67.26
       },
       {
         "i": 195,
-        "word": "it.",
-        "start": 67.12,
-        "end": 67.68
+        "word": "the",
+        "start": 67.26,
+        "end": 67.4
+      },
+      {
+        "i": 196,
+        "word": "subject",
+        "start": 67.4,
+        "end": 67.66
+      },
+      {
+        "i": 197,
+        "word": "is",
+        "start": 67.66,
+        "end": 67.94
+      },
+      {
+        "i": 198,
+        "word": "cut",
+        "start": 67.94,
+        "end": 68.14
+      },
+      {
+        "i": 199,
+        "word": "off.",
+        "start": 68.14,
+        "end": 68.5
       }
     ]
   },
   {
     "id": 16,
     "text": "Here's the part many tutorials skip.",
-    "start": 68.42,
-    "end": 70.5,
+    "start": 69.52,
+    "end": 71.52,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      196,
-      201
+      200,
+      205
     ],
     "words": [
       {
-        "i": 196,
-        "word": "Here's",
-        "start": 68.42,
-        "end": 68.74
-      },
-      {
-        "i": 197,
-        "word": "the",
-        "start": 68.74,
-        "end": 68.86
-      },
-      {
-        "i": 198,
-        "word": "part",
-        "start": 68.86,
-        "end": 69.06
-      },
-      {
-        "i": 199,
-        "word": "many",
-        "start": 69.06,
-        "end": 69.48
-      },
-      {
         "i": 200,
-        "word": "tutorials",
-        "start": 69.48,
-        "end": 70.1
+        "word": "Here's",
+        "start": 69.52,
+        "end": 69.76
       },
       {
         "i": 201,
+        "word": "the",
+        "start": 69.76,
+        "end": 69.86
+      },
+      {
+        "i": 202,
+        "word": "part",
+        "start": 69.86,
+        "end": 70.08
+      },
+      {
+        "i": 203,
+        "word": "many",
+        "start": 70.08,
+        "end": 70.44
+      },
+      {
+        "i": 204,
+        "word": "tutorials",
+        "start": 70.44,
+        "end": 71.06
+      },
+      {
+        "i": 205,
         "word": "skip.",
-        "start": 70.1,
-        "end": 70.5
+        "start": 71.06,
+        "end": 71.52
       }
     ]
   },
   {
     "id": 17,
-    "text": "An uploaded PNG is one image.",
-    "start": 70.96,
-    "end": 73.18,
+    "text": "A pasted image URL is not a substitute for an image inserted into a sheet cell.",
+    "start": 72.08,
+    "end": 76.6,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      202,
-      207
+      206,
+      221
     ],
     "words": [
       {
-        "i": 202,
-        "word": "An",
-        "start": 70.96,
-        "end": 71.16
-      },
-      {
-        "i": 203,
-        "word": "uploaded",
-        "start": 71.16,
-        "end": 71.56
-      },
-      {
-        "i": 204,
-        "word": "PNG",
-        "start": 71.56,
-        "end": 72.06
-      },
-      {
-        "i": 205,
-        "word": "is",
-        "start": 72.06,
-        "end": 72.56
-      },
-      {
         "i": 206,
-        "word": "one",
-        "start": 72.56,
-        "end": 72.82
+        "word": "A",
+        "start": 72.08,
+        "end": 72.22
       },
       {
         "i": 207,
-        "word": "image.",
-        "start": 72.82,
-        "end": 73.18
+        "word": "pasted",
+        "start": 72.22,
+        "end": 72.66
+      },
+      {
+        "i": 208,
+        "word": "image",
+        "start": 72.66,
+        "end": 73.0
+      },
+      {
+        "i": 209,
+        "word": "URL",
+        "start": 73.0,
+        "end": 73.48
+      },
+      {
+        "i": 210,
+        "word": "is",
+        "start": 73.48,
+        "end": 73.82
+      },
+      {
+        "i": 211,
+        "word": "not",
+        "start": 73.82,
+        "end": 74.04
+      },
+      {
+        "i": 212,
+        "word": "a",
+        "start": 74.04,
+        "end": 74.22
+      },
+      {
+        "i": 213,
+        "word": "substitute",
+        "start": 74.22,
+        "end": 74.56
+      },
+      {
+        "i": 214,
+        "word": "for",
+        "start": 74.56,
+        "end": 74.88
+      },
+      {
+        "i": 215,
+        "word": "an",
+        "start": 74.88,
+        "end": 74.98
+      },
+      {
+        "i": 216,
+        "word": "image",
+        "start": 74.98,
+        "end": 75.2
+      },
+      {
+        "i": 217,
+        "word": "inserted",
+        "start": 75.2,
+        "end": 75.6
+      },
+      {
+        "i": 218,
+        "word": "into",
+        "start": 75.6,
+        "end": 75.92
+      },
+      {
+        "i": 219,
+        "word": "a",
+        "start": 75.92,
+        "end": 76.08
+      },
+      {
+        "i": 220,
+        "word": "sheet",
+        "start": 76.08,
+        "end": 76.28
+      },
+      {
+        "i": 221,
+        "word": "cell.",
+        "start": 76.28,
+        "end": 76.6
       }
     ]
   },
   {
     "id": 18,
-    "text": "Canva cannot independently animate the letters or symbol inside that flattened file.",
-    "start": 73.92,
-    "end": 77.96,
+    "text": "Use actual images from your uploads or Canva library.",
+    "start": 77.28,
+    "end": 80.42,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      208,
-      219
+      222,
+      230
     ],
     "words": [
       {
-        "i": 208,
-        "word": "Canva",
-        "start": 73.92,
-        "end": 74.04
+        "i": 222,
+        "word": "Use",
+        "start": 77.28,
+        "end": 77.5
       },
       {
-        "i": 209,
-        "word": "cannot",
-        "start": 74.04,
-        "end": 74.32
+        "i": 223,
+        "word": "actual",
+        "start": 77.5,
+        "end": 77.98
       },
       {
-        "i": 210,
-        "word": "independently",
-        "start": 74.32,
-        "end": 74.92
+        "i": 224,
+        "word": "images",
+        "start": 77.98,
+        "end": 78.38
       },
       {
-        "i": 211,
-        "word": "animate",
-        "start": 74.92,
-        "end": 75.46
+        "i": 225,
+        "word": "from",
+        "start": 78.38,
+        "end": 78.64
       },
       {
-        "i": 212,
-        "word": "the",
-        "start": 75.46,
-        "end": 75.66
+        "i": 226,
+        "word": "your",
+        "start": 78.64,
+        "end": 78.82
       },
       {
-        "i": 213,
-        "word": "letters",
-        "start": 75.66,
-        "end": 75.94
+        "i": 227,
+        "word": "uploads",
+        "start": 78.82,
+        "end": 79.56
       },
       {
-        "i": 214,
+        "i": 228,
         "word": "or",
-        "start": 75.94,
-        "end": 76.18
+        "start": 79.56,
+        "end": 79.7
       },
       {
-        "i": 215,
-        "word": "symbol",
-        "start": 76.18,
-        "end": 76.48
+        "i": 229,
+        "word": "Canva",
+        "start": 79.7,
+        "end": 80.08
       },
       {
-        "i": 216,
-        "word": "inside",
-        "start": 76.48,
-        "end": 77.02
-      },
-      {
-        "i": 217,
-        "word": "that",
-        "start": 77.02,
-        "end": 77.26
-      },
-      {
-        "i": 218,
-        "word": "flattened",
-        "start": 77.26,
-        "end": 77.54
-      },
-      {
-        "i": 219,
-        "word": "file.",
-        "start": 77.54,
-        "end": 77.96
+        "i": 230,
+        "word": "library.",
+        "start": 80.08,
+        "end": 80.42
       }
     ]
   },
   {
     "id": 19,
-    "text": "Use separate assets or editable Canva objects for separate movements.",
-    "start": 78.56,
-    "end": 82.52,
+    "text": "Also, different photo shapes can produce very different crops inside the same frame.",
+    "start": 81.14,
+    "end": 85.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      220,
-      229
+      231,
+      243
     ],
     "words": [
       {
-        "i": 220,
-        "word": "Use",
-        "start": 78.56,
-        "end": 78.86
+        "i": 231,
+        "word": "Also,",
+        "start": 81.14,
+        "end": 81.48
       },
       {
-        "i": 221,
-        "word": "separate",
-        "start": 78.86,
-        "end": 79.24
+        "i": 232,
+        "word": "different",
+        "start": 81.7,
+        "end": 81.94
       },
       {
-        "i": 222,
-        "word": "assets",
-        "start": 79.24,
-        "end": 79.64
+        "i": 233,
+        "word": "photo",
+        "start": 81.94,
+        "end": 82.22
       },
       {
-        "i": 223,
-        "word": "or",
-        "start": 79.64,
-        "end": 80.0
+        "i": 234,
+        "word": "shapes",
+        "start": 82.22,
+        "end": 82.56
       },
       {
-        "i": 224,
-        "word": "editable",
-        "start": 80.0,
-        "end": 80.5
+        "i": 235,
+        "word": "can",
+        "start": 82.56,
+        "end": 82.8
       },
       {
-        "i": 225,
-        "word": "Canva",
-        "start": 80.5,
-        "end": 80.84
+        "i": 236,
+        "word": "produce",
+        "start": 82.8,
+        "end": 83.06
       },
       {
-        "i": 226,
-        "word": "objects",
-        "start": 80.84,
-        "end": 81.2
+        "i": 237,
+        "word": "very",
+        "start": 83.06,
+        "end": 83.38
       },
       {
-        "i": 227,
-        "word": "for",
-        "start": 81.2,
-        "end": 81.74
+        "i": 238,
+        "word": "different",
+        "start": 83.38,
+        "end": 83.72
       },
       {
-        "i": 228,
-        "word": "separate",
-        "start": 81.74,
-        "end": 82.06
+        "i": 239,
+        "word": "crops",
+        "start": 83.72,
+        "end": 84.0
       },
       {
-        "i": 229,
-        "word": "movements.",
-        "start": 82.06,
-        "end": 82.52
+        "i": 240,
+        "word": "inside",
+        "start": 84.0,
+        "end": 84.5
+      },
+      {
+        "i": 241,
+        "word": "the",
+        "start": 84.5,
+        "end": 84.7
+      },
+      {
+        "i": 242,
+        "word": "same",
+        "start": 84.7,
+        "end": 84.92
+      },
+      {
+        "i": 243,
+        "word": "frame.",
+        "start": 84.92,
+        "end": 85.3
       }
     ]
   },
   {
     "id": 20,
-    "text": "Download as MP4 video and check the finished intro before adding it to your main video.",
-    "start": 82.52,
-    "end": 88.04,
+    "text": "Download the finished designs as PNG or JPG files.",
+    "start": 86.24,
+    "end": 89.08,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      230,
-      245
+      244,
+      252
     ],
     "words": [
       {
-        "i": 230,
-        "word": "Download",
-        "start": 82.52,
-        "end": 83.56
-      },
-      {
-        "i": 231,
-        "word": "as",
-        "start": 83.56,
-        "end": 83.76
-      },
-      {
-        "i": 232,
-        "word": "MP4",
-        "start": 83.76,
-        "end": 84.5
-      },
-      {
-        "i": 233,
-        "word": "video",
-        "start": 84.5,
-        "end": 84.82
-      },
-      {
-        "i": 234,
-        "word": "and",
-        "start": 84.82,
-        "end": 85.34
-      },
-      {
-        "i": 235,
-        "word": "check",
-        "start": 85.34,
-        "end": 85.54
-      },
-      {
-        "i": 236,
-        "word": "the",
-        "start": 85.54,
-        "end": 85.74
-      },
-      {
-        "i": 237,
-        "word": "finished",
-        "start": 85.74,
-        "end": 86.02
-      },
-      {
-        "i": 238,
-        "word": "intro",
-        "start": 86.02,
-        "end": 86.42
-      },
-      {
-        "i": 239,
-        "word": "before",
-        "start": 86.42,
-        "end": 86.76
-      },
-      {
-        "i": 240,
-        "word": "adding",
-        "start": 86.76,
-        "end": 87.06
-      },
-      {
-        "i": 241,
-        "word": "it",
-        "start": 87.06,
-        "end": 87.24
-      },
-      {
-        "i": 242,
-        "word": "to",
-        "start": 87.24,
-        "end": 87.36
-      },
-      {
-        "i": 243,
-        "word": "your",
-        "start": 87.36,
-        "end": 87.48
-      },
-      {
         "i": 244,
-        "word": "main",
-        "start": 87.48,
-        "end": 87.68
+        "word": "Download",
+        "start": 86.24,
+        "end": 86.24
       },
       {
         "i": 245,
-        "word": "video.",
-        "start": 87.68,
-        "end": 88.04
+        "word": "the",
+        "start": 86.24,
+        "end": 86.44
+      },
+      {
+        "i": 246,
+        "word": "finished",
+        "start": 86.44,
+        "end": 86.64
+      },
+      {
+        "i": 247,
+        "word": "designs",
+        "start": 86.64,
+        "end": 87.06
+      },
+      {
+        "i": 248,
+        "word": "as",
+        "start": 87.06,
+        "end": 87.3
+      },
+      {
+        "i": 249,
+        "word": "PNG",
+        "start": 87.3,
+        "end": 87.66
+      },
+      {
+        "i": 250,
+        "word": "or",
+        "start": 87.66,
+        "end": 88.16
+      },
+      {
+        "i": 251,
+        "word": "JPG",
+        "start": 88.16,
+        "end": 88.68
+      },
+      {
+        "i": 252,
+        "word": "files.",
+        "start": 88.68,
+        "end": 89.08
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "You now have a batch of matching graphics with a different image and message in each version.",
+    "start": 89.72,
+    "end": 93.64,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      253,
+      269
+    ],
+    "words": [
+      {
+        "i": 253,
+        "word": "You",
+        "start": 89.72,
+        "end": 89.84
+      },
+      {
+        "i": 254,
+        "word": "now",
+        "start": 89.84,
+        "end": 89.98
+      },
+      {
+        "i": 255,
+        "word": "have",
+        "start": 89.98,
+        "end": 90.12
+      },
+      {
+        "i": 256,
+        "word": "a",
+        "start": 90.12,
+        "end": 90.24
+      },
+      {
+        "i": 257,
+        "word": "batch",
+        "start": 90.24,
+        "end": 90.4
+      },
+      {
+        "i": 258,
+        "word": "of",
+        "start": 90.4,
+        "end": 90.58
+      },
+      {
+        "i": 259,
+        "word": "matching",
+        "start": 90.58,
+        "end": 90.9
+      },
+      {
+        "i": 260,
+        "word": "graphics",
+        "start": 90.9,
+        "end": 91.26
+      },
+      {
+        "i": 261,
+        "word": "with",
+        "start": 91.26,
+        "end": 91.52
+      },
+      {
+        "i": 262,
+        "word": "a",
+        "start": 91.52,
+        "end": 91.62
+      },
+      {
+        "i": 263,
+        "word": "different",
+        "start": 91.62,
+        "end": 91.88
+      },
+      {
+        "i": 264,
+        "word": "image",
+        "start": 91.88,
+        "end": 92.2
+      },
+      {
+        "i": 265,
+        "word": "and",
+        "start": 92.2,
+        "end": 92.46
+      },
+      {
+        "i": 266,
+        "word": "message",
+        "start": 92.46,
+        "end": 92.78
+      },
+      {
+        "i": 267,
+        "word": "in",
+        "start": 92.78,
+        "end": 93.08
+      },
+      {
+        "i": 268,
+        "word": "each",
+        "start": 93.08,
+        "end": 93.32
+      },
+      {
+        "i": 269,
+        "word": "version.",
+        "start": 93.32,
+        "end": 93.64
       }
     ]
   }

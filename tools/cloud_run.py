@@ -76,14 +76,17 @@ def cmd_list(a):
     natural = lambda s: [int(t) if t.isdigit() else t.lower() for t in re.split(r"(\d+)", s)]
     groups: dict[str, dict[str, list[str]]] = {}          # stem or folder -> kind -> Drive paths
     loose: dict[str, dict[str, list[str]]] = {}
+    ignored: list[str] = []                               # files of no known kind (reported on error)
     for f in rclone_lsf(f"{a.drive}/inbox", "-R", "--files-only"):
         k = kind_of(f)
         if not k:
+            ignored.append(f)
             continue
         if "/" in f:                                      # inbox/<folder>/...: the folder is the project
             groups.setdefault(f.split("/")[0], {}).setdefault(k, []).append(f)
         else:                                             # loose files pair by name
-            loose.setdefault(os.path.splitext(f)[0], {}).setdefault(k, []).append(f)
+            # case-insensitive: Script-14.mp4 pairs with script-14.mp3
+            loose.setdefault(os.path.splitext(f)[0].lower(), {}).setdefault(k, []).append(f)
     cands = []                                            # (label, files by kind)
     for stem, d in loose.items():
         cands.append((stem, d))
@@ -94,7 +97,7 @@ def cmd_list(a):
             sub: dict[str, dict[str, list[str]]] = {}
             for k, fs in d.items():
                 for f in fs:
-                    sub.setdefault(os.path.splitext(f.split("/")[-1])[0], {}).setdefault(k, []).append(f)
+                    sub.setdefault(os.path.splitext(f.split("/")[-1])[0].lower(), {}).setdefault(k, []).append(f)
             for stem, sd in sub.items():
                 cands.append((f"{folder}/{stem}", sd))
 
@@ -116,7 +119,8 @@ def cmd_list(a):
         missing = [w for w in want if not any(w in (i["name"], i["stem"]) for i in items)]
         if missing:
             raise SystemExit(f"error: no video+audio pair in {a.drive}/inbox for: {', '.join(missing)} "
-                             f"(found: {', '.join(i['stem'] for i in items) or 'nothing'})")
+                             f"(found: {', '.join(i['stem'] for i in items) or 'nothing'}"
+                             f"{'; unrecognised files: ' + ', '.join(ignored) if ignored else ''})")
         items = [i for i in items if i["name"] in want or i["stem"] in want]
     print(json.dumps(items))
 
@@ -143,9 +147,15 @@ def run_claude(name: str) -> None:
         "the skill says. Keep the client's preferences from docs/lessons.md: follow the audio order, "
         "and fast-forward in-scene dead time instead of cutting it. These are tutorials: screen movement "
         "must be smooth and easy to follow - actions at 0.75-1.5x, dead time at most 2x (waits 3x, longer waits cut), "
-        "no held frame over 1.5 s, no choppy pieces; fix every 'pace:' warning from check.py --plan "
+        "no held frame over 1.5 s, no stretch of real footage where the screen does not move for over 2.5 s "
+        "(it looks frozen just like a held frame), no choppy pieces; fix every 'pace:' warning from check.py --plan "
         "before rendering, or explain in the report why one cannot be fixed."
     )
+    fb = ROOT / "projects" / name / "work" / "client-feedback.md"
+    if fb.exists():                      # a re-edit requested by the client: their words come first
+        prompt += ("\n\nThis is a RE-EDIT requested by the client after reviewing the previous version. "
+                   "Their feedback (address every point; do not reuse the previous plan's choices "
+                   "where the feedback says they were wrong):\n\n" + fb.read_text(encoding="utf-8"))
     cmd = ["claude", "-p", prompt, "--dangerously-skip-permissions", "--output-format", "text"]
     if os.environ.get("CLAUDE_MODEL"):
         cmd += ["--model", os.environ["CLAUDE_MODEL"]]

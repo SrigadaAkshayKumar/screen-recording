@@ -1,9 +1,9 @@
 {
  "recording": {
-  "width": 1920,
-  "height": 1080,
+  "width": 3420,
+  "height": 1922,
   "fps": 30,
-  "duration": 210.867
+  "duration": 144.767
  },
  "sync": {
   "clicks_offset": 0,
@@ -12,301 +12,70 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 10.9,
-   "x": 60,
-   "y": 130,
+   "t_click": 16.4,
+   "x": 1710,
+   "y": 961,
    "kind": "click",
-   "target": "Create button (sidebar)",
-   "result": "Create a design menu opens",
-   "t_result_visible": 12.2,
+   "target": "Tables category",
+   "result": "table thumbnails list",
+   "t_result_visible": 16.9,
    "confidence": "low"
   },
   {
    "id": "A2",
-   "t_click": 12.8,
-   "x": 940,
-   "y": 670,
+   "t_click": 21.0,
+   "x": 1710,
+   "y": 961,
    "kind": "click",
-   "target": "Instagram Reel (vertical) format card",
-   "result": "new vertical design opens in the editor",
-   "t_result_visible": 14.7,
+   "target": "Table on page",
+   "result": "table placed",
+   "t_result_visible": 21.5,
    "confidence": "low"
   },
   {
    "id": "A3",
-   "t_click": 27.2,
-   "x": 88,
-   "y": 672,
+   "t_click": 60.0,
+   "x": 1710,
+   "y": 961,
    "kind": "click",
-   "target": "Uploads tab in the sidebar",
-   "result": "Uploads panel opens with the image library",
-   "t_result_visible": 30.5,
-   "confidence": "medium"
+   "target": "Three-dot menu",
+   "result": "menu opens",
+   "t_result_visible": 60.5,
+   "confidence": "low"
   },
   {
    "id": "A4",
-   "t_click": 31.6,
-   "x": 286,
-   "y": 822,
+   "t_click": 86.0,
+   "x": 1710,
+   "y": 961,
    "kind": "click",
-   "target": "uploaded photo thumbnail",
-   "result": "photo placed on the canvas and timeline",
-   "t_result_visible": 31.9,
-   "confidence": "medium"
+   "target": "Colour tile",
+   "result": "colour panel",
+   "t_result_visible": 86.5,
+   "confidence": "low"
   },
   {
    "id": "A5",
-   "t_click": 40.8,
-   "x": 1337,
-   "y": 260,
-   "kind": "drag",
-   "target": "photo corner handle",
-   "result": "photo resized (w 1080)",
-   "t_result_visible": 42.6,
-   "confidence": "low",
-   "x2": 1340,
-   "y2": 250,
-   "t_end": 42.4
+   "t_click": 119.5,
+   "x": 1710,
+   "y": 961,
+   "kind": "click",
+   "target": "Share button",
+   "result": "share panel",
+   "t_result_visible": 120.0,
+   "confidence": "low"
   },
   {
    "id": "A6",
-   "t_click": 73.5,
-   "x": 1452,
-   "y": 228,
+   "t_click": 126.7,
+   "x": 1710,
+   "y": 961,
    "kind": "click",
-   "target": "Animate button in the toolbar",
-   "result": "Animate panel opens",
-   "t_result_visible": 74.8,
-   "confidence": "medium"
-  },
-  {
-   "id": "A7",
-   "t_click": 98.0,
-   "x": 335,
-   "y": 664,
-   "kind": "click",
-   "target": "Pan effect",
-   "result": "pan effect previews on the photo",
-   "t_result_visible": 98.4,
-   "confidence": "medium"
-  },
-  {
-   "id": "A8",
-   "t_click": 105.0,
-   "x": 461,
-   "y": 664,
-   "kind": "click",
-   "target": "Fade effect",
-   "result": "fade effect selected and previewed",
-   "t_result_visible": 106.2,
-   "confidence": "medium"
-  },
-  {
-   "id": "A9",
-   "t_click": 114.1,
-   "x": 398,
-   "y": 771,
-   "kind": "click",
-   "target": "Fast speed button",
-   "result": "speed set to Fast",
-   "t_result_visible": 114.5,
-   "confidence": "medium"
-  },
-  {
-   "id": "A10",
-   "t_click": 128.3,
-   "x": 1220,
-   "y": 712,
-   "kind": "click",
-   "target": "Play button under the canvas",
-   "result": "preview plays",
-   "t_result_visible": 128.8,
-   "confidence": "medium"
-  },
-  {
-   "id": "A11",
-   "t_click": 139.8,
-   "x": 770,
-   "y": 860,
-   "kind": "drag",
-   "target": "end handle of the photo clip in the timeline",
-   "result": "clip length changes",
-   "t_result_visible": 145.0,
-   "confidence": "medium",
-   "x2": 810,
-   "y2": 860,
-   "t_end": 144.5
-  },
-  {
-   "id": "A12",
-   "t_click": 164.8,
-   "x": 1824,
-   "y": 161,
-   "kind": "click",
-   "target": "Share button",
-   "result": "Share panel opens",
-   "t_result_visible": 165.4,
-   "confidence": "high"
-  },
-  {
-   "id": "A13",
-   "t_click": 166.6,
-   "x": 1450,
-   "y": 740,
-   "kind": "click",
-   "target": "Download option in the Share panel",
-   "result": "Download dialog opens",
-   "t_result_visible": 167.2,
+   "target": "Download",
+   "result": "PDF downloads",
+   "t_result_visible": 127.2,
    "confidence": "low"
-  },
-  {
-   "id": "A14",
-   "t_click": 177.9,
-   "x": 1350,
-   "y": 560,
-   "kind": "click",
-   "target": "MP4 Video in the file type list",
-   "result": "MP4 Video selected",
-   "t_result_visible": 178.4,
-   "confidence": "low"
-  },
-  {
-   "id": "A15",
-   "t_click": 179.5,
-   "x": 1400,
-   "y": 560,
-   "kind": "click",
-   "target": "GIF in the file type list",
-   "result": "GIF selected",
-   "t_result_visible": 180.4,
-   "confidence": "low"
-  },
-  {
-   "id": "A16",
-   "t_click": 189.8,
-   "x": 1350,
-   "y": 560,
-   "kind": "click",
-   "target": "MP4 Video in the file type list (second time)",
-   "result": "MP4 Video selected again",
-   "t_result_visible": 190.2,
-   "confidence": "low"
-  },
-  {
-   "id": "A17",
-   "t_click": 190.9,
-   "x": 1484,
-   "y": 771,
-   "kind": "click",
-   "target": "Download button in the dialog",
-   "result": "download starts",
-   "t_result_visible": 191.4,
-   "confidence": "low"
-  },
-  {
-   "id": "A18",
-   "t_click": 191.5,
-   "x": 1650,
-   "y": 880,
-   "kind": "wait",
-   "target": "download progress toast",
-   "result": "Download complete toast",
-   "t_result_visible": 195.5,
-   "confidence": "medium"
-  },
-  {
-   "id": "A19",
-   "t_click": 197.4,
-   "x": 1586,
-   "y": 873,
-   "kind": "click",
-   "target": "downloaded-file toast",
-   "result": "video opens in the media player, then plays",
-   "t_result_visible": 200.95,
-   "confidence": "medium"
   }
  ],
- "junk": [
-  {
-   "start": 16.6,
-   "end": 26.9,
-   "reason": "cursor idles/hovers in the empty editor",
-   "ff": true
-  },
-  {
-   "start": 33.0,
-   "end": 40.3,
-   "reason": "hovering thumbnails/photo before resize",
-   "ff": true
-  },
-  {
-   "start": 43.0,
-   "end": 55.9,
-   "reason": "timeline retake with duplicate+delete mistake (clean take at 139.8)"
-  },
-  {
-   "start": 56.2,
-   "end": 72.8,
-   "reason": "idle editor, cursor wandering",
-   "ff": true
-  },
-  {
-   "start": 75.2,
-   "end": 80.5,
-   "reason": "idle Animate panel",
-   "ff": true
-  },
-  {
-   "start": 83.0,
-   "end": 97.0,
-   "reason": "hovering/scrolling effects list",
-   "ff": true
-  },
-  {
-   "start": 99.0,
-   "end": 104.4,
-   "reason": "hovering Pan",
-   "ff": true
-  },
-  {
-   "start": 106.8,
-   "end": 113.5,
-   "reason": "scrolling to speed options",
-   "ff": true
-  },
-  {
-   "start": 115.0,
-   "end": 127.5,
-   "reason": "idle / scrolling",
-   "ff": true
-  },
-  {
-   "start": 148.0,
-   "end": 164.3,
-   "reason": "idle editor",
-   "ff": true
-  },
-  {
-   "start": 168.0,
-   "end": 177.0,
-   "reason": "browsing file types",
-   "ff": true
-  },
-  {
-   "start": 181.0,
-   "end": 188.8,
-   "reason": "idle GIF panel",
-   "ff": true
-  },
-  {
-   "start": 197.9,
-   "end": 200.9,
-   "reason": "media player loading screen"
-  },
-  {
-   "start": 205.0,
-   "end": 210.867,
-   "reason": "player closed, desktop (off-topic)"
-  }
- ]
+ "junk": []
 }

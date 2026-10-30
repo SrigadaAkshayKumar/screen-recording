@@ -1,7 +1,4 @@
-# Analyze notes
-- Footage has baked-in recorder auto-zoom (zoom changes at 28.2, 35.4, 52.7, 64.3, 88, 105, 112, 118, 121.8, 140...). Plan uses no zooms; ripples only on unzoomed clicks (A2, A11).
-- Low confidence: A1 (home-page thumbnail position, recorder zoomed), A7 (page click position), A10 (time, panel state).
-- Medium: all click times read from frames (no clicks.json), +-0.2 s; positions on zoomed frames reconstructed from the unzoomed toolbar layout.
-- Narration steps with no matching footage: page-tab Animate/Remove for the page (L9-L10) — A9/A10 show the Animate panel again on the photo; transition steps (L11-L12) and Delete Path (L13) are not in the recording; the recording scrolls the Animate panel at 143-148 (Create an Animation / Image to Video) as the closest footage.
-- Text-tab flow (Animate -> Remove animation on "Welcome" text, 84-88 s) exists but narration order leaves no room; not anchored.
-- Recording has a Home -> design reopen at 15.5-20 (A1).
+# Analyze notes (script-09)
+- Recording is a 298.7 s take with a baked recorder zoom (no click log). actions.json is a coarse list built from 3 s contact sheets plus 1 s sheets of key steps; click times are approximate (+-1 s) and x/y are placeholders (960,540), confidence low. The plan is a hand plan (work/hand_plan.py) that does not use clicks, so no ripples/zooms.
+- Static spans in the source (avoided or kept under 2.5 s): 0-8.6, 15-18, 79.8-84.3, 110.8-115, 128.6-130.7, 151.9-165.4, 175-179, 202-207, 223-229, 243.8-246.4, 263-270, 274-278.
+- Script steps with no matching footage: typing "Rectangle Border / Page Border" in search (the search box shows an older "border design" query at 22-28 s); "Lock" at ~270 s is only seen as the cursor on the lock icon.

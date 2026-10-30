@@ -524,7 +524,7 @@ def main():
     for n in notes:
         print(f"note: {n}")
     print(f"{len(segs)} segments, {len(zooms)} zooms, {len(ripples)} ripples -> {pr.w('plan.json')}")
-    ok = report("plan.json", *validate_plan(plan, probe, actions, lines))
+    ok = report("plan.json", *validate_plan(plan, probe, actions, lines, pr.maybe("scenes.json")))
     sys.exit(0 if ok else 1)
 
 

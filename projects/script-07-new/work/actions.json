@@ -1,0 +1,208 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 254.033
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 17.5,
+   "x": 60,
+   "y": 150,
+   "kind": "click",
+   "target": "Create button (left sidebar of Canva home)",
+   "result": "Create a design dialog opens",
+   "t_result_visible": 18.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 24.7,
+   "x": 540,
+   "y": 560,
+   "kind": "click",
+   "target": "Instagram Reel / portrait video tile",
+   "result": "blank 1080x1920 portrait video design opens",
+   "t_result_visible": 25.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 38.8,
+   "x": 40,
+   "y": 700,
+   "kind": "click",
+   "target": "Uploads tab in left sidebar",
+   "result": "Uploads panel opens",
+   "t_result_visible": 39.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 41.2,
+   "x": 900,
+   "y": 500,
+   "kind": "click",
+   "target": "Upload files button",
+   "result": "file picker opens",
+   "t_result_visible": 41.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 50.6,
+   "x": 400,
+   "y": 700,
+   "kind": "drag",
+   "target": "first uploaded clip dragged to the timeline",
+   "result": "clip appears on canvas and timeline",
+   "t_result_visible": 52.0,
+   "confidence": "low",
+   "x2": 300,
+   "y2": 900,
+   "t_end": 51.4
+  },
+  {
+   "id": "A6",
+   "t_click": 58.4,
+   "x": 300,
+   "y": 700,
+   "kind": "drag",
+   "target": "second clip dragged to end of timeline",
+   "result": "second clip added after the first",
+   "t_result_visible": 61.0,
+   "confidence": "low",
+   "x2": 1300,
+   "y2": 900,
+   "t_end": 59.7
+  },
+  {
+   "id": "A7",
+   "t_click": 86.6,
+   "x": 300,
+   "y": 350,
+   "kind": "click",
+   "target": "landscape clip (man) in Uploads",
+   "result": "landscape clip added to the design, fills the canvas",
+   "t_result_visible": 87.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 116.7,
+   "x": 1100,
+   "y": 500,
+   "kind": "click",
+   "target": "double-click on the video",
+   "result": "Crop dialog opens showing the full landscape picture",
+   "t_result_visible": 117.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 137.9,
+   "x": 40,
+   "y": 330,
+   "kind": "click",
+   "target": "Text tab in left sidebar",
+   "result": "Text panel opens",
+   "t_result_visible": 138.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 139.1,
+   "x": 300,
+   "y": 300,
+   "kind": "click",
+   "target": "Add a heading",
+   "result": "heading text box added on the canvas",
+   "t_result_visible": 140.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 205.8,
+   "x": 1100,
+   "y": 640,
+   "kind": "click",
+   "target": "Play button",
+   "result": "design plays",
+   "t_result_visible": 206.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 216.9,
+   "x": 1100,
+   "y": 500,
+   "kind": "click",
+   "target": "double-click on the video again",
+   "result": "Crop dialog opens",
+   "t_result_visible": 217.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 228.0,
+   "x": 1840,
+   "y": 60,
+   "kind": "click",
+   "target": "Share button (top right)",
+   "result": "Share design panel opens",
+   "t_result_visible": 228.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 230.8,
+   "x": 1050,
+   "y": 800,
+   "kind": "click",
+   "target": "Download option in Share panel",
+   "result": "Download panel opens",
+   "t_result_visible": 232.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 232.9,
+   "x": 1500,
+   "y": 250,
+   "kind": "click",
+   "target": "File type dropdown (MP4 Video)",
+   "result": "file types listed, MP4 Video ticked",
+   "t_result_visible": 233.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 237.8,
+   "x": 1550,
+   "y": 520,
+   "kind": "click",
+   "target": "1080p quality option",
+   "result": "1080p selected",
+   "t_result_visible": 238.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 245.9,
+   "x": 1540,
+   "y": 740,
+   "kind": "click",
+   "target": "Download button",
+   "result": "download starts; finished toast appears",
+   "t_result_visible": 248.0,
+   "confidence": "medium"
+  }
+ ],
+ "junk": []
+}

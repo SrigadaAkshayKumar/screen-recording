@@ -1,0 +1,143 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "Search"
+  },
+  {
+   "action": "A2",
+   "line": 2,
+   "word": "choose",
+   "prev_until": 12.5,
+   "src_from": 18.4
+  },
+  {
+   "action": "A3",
+   "line": 4,
+   "word": "Upload",
+   "prev_until": 26.5,
+   "src_from": 33.9
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "order",
+   "prev_until": 35.8,
+   "src_from": 38.4
+  },
+  {
+   "action": "A6",
+   "line": 5,
+   "word": "Trim",
+   "prev_until": 40.4,
+   "src_from": 55.9
+  },
+  {
+   "action": "A8",
+   "line": 6,
+   "word": "Replace",
+   "prev_until": 59.0,
+   "src_from": 91.5
+  },
+  {
+   "action": "A9",
+   "line": 6,
+   "word": "opening",
+   "prev_until": 98.5,
+   "src_from": 107.3
+  },
+  {
+   "action": "A10",
+   "line": 8,
+   "word": "timeline",
+   "prev_until": 115.6,
+   "src_from": 171.6
+  },
+  {
+   "action": "A11",
+   "line": 9,
+   "word": "captions",
+   "prev_until": 174.8
+  },
+  {
+   "action": "A13",
+   "line": 10,
+   "word": "Preview",
+   "prev_until": 189.3,
+   "src_from": 216.0
+  },
+  {
+   "action": "A14",
+   "line": 11,
+   "word": "include",
+   "prev_until": 218.0,
+   "src_from": 219.6
+  },
+  {
+   "action": "A15",
+   "line": 11,
+   "word": "audio"
+  },
+  {
+   "action": "A16",
+   "line": 12,
+   "word": "narration"
+  },
+  {
+   "action": "A18",
+   "line": 15,
+   "word": "edit,",
+   "prev_until": 245.8,
+   "src_from": 308.7
+  },
+  {
+   "action": "A19",
+   "line": 15,
+   "word": "download",
+   "prev_until": 309.3,
+   "src_from": 313.6
+  },
+  {
+   "action": "A21",
+   "line": 16,
+   "word": "TikTok",
+   "prev_until": 317.2,
+   "src_from": 325.0
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A20",
+  "A21"
+ ],
+ "cuts": [
+  {
+   "src_start": 180.5,
+   "src_end": 188.7,
+   "reason": "captions progress bar; keep start and end",
+   "xfade": true
+  }
+ ],
+ "src_start": 6.4,
+ "ff_max": 2.0,
+ "use_junk": true
+}

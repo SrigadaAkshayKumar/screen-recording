@@ -1,0 +1,247 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 238.833
+ },
+ "sync": {
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 17.7,
+   "x": 89,
+   "y": 666,
+   "kind": "click",
+   "target": "Create design dialog (Create button)",
+   "result": "Create a design dialog opens",
+   "t_result_visible": 17.93,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 20.0,
+   "x": 840,
+   "y": 226,
+   "kind": "type",
+   "target": "search field",
+   "result": "youtube shorts typed, results shown",
+   "t_result_visible": 23.33,
+   "confidence": "medium",
+   "text": "youtube shorts"
+  },
+  {
+   "id": "A3",
+   "t_click": 24.3,
+   "x": 654,
+   "y": 384,
+   "kind": "click",
+   "target": "YouTube Shorts tile",
+   "result": "blank Shorts design opens",
+   "t_result_visible": 27.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 34.5,
+   "x": 89,
+   "y": 666,
+   "kind": "click",
+   "target": "Uploads tab",
+   "result": "Uploads panel opens",
+   "t_result_visible": 35.7,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 42.0,
+   "x": 254,
+   "y": 439,
+   "kind": "click",
+   "target": "Videos tab",
+   "result": "video thumbnails listed",
+   "t_result_visible": 42.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 44.1,
+   "x": 330,
+   "y": 700,
+   "kind": "click",
+   "target": "footage video thumbnail",
+   "result": "video added to timeline/canvas",
+   "t_result_visible": 44.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 54.0,
+   "x": 1128,
+   "y": 830,
+   "kind": "drag",
+   "target": "trim handle of clip",
+   "result": "clip trimmed to 29.8 s",
+   "t_result_visible": 57.8,
+   "confidence": "medium",
+   "x2": 1008,
+   "y2": 840,
+   "t_end": 57.5
+  },
+  {
+   "id": "A8",
+   "t_click": 61.6,
+   "x": 89,
+   "y": 495,
+   "kind": "click",
+   "target": "Text tab",
+   "result": "Text panel opens",
+   "t_result_visible": 62.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 64.3,
+   "x": 243,
+   "y": 622,
+   "kind": "click",
+   "target": "Add a heading",
+   "result": "heading text box added",
+   "t_result_visible": 64.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 68.4,
+   "x": 960,
+   "y": 400,
+   "kind": "type",
+   "target": "heading text",
+   "result": "Welcome typed",
+   "t_result_visible": 69.0,
+   "confidence": "medium",
+   "text": "Welcome"
+  },
+  {
+   "id": "A11",
+   "t_click": 73.5,
+   "x": 960,
+   "y": 400,
+   "kind": "click",
+   "target": "font size / text box",
+   "result": "text enlarged",
+   "t_result_visible": 75.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 110.6,
+   "x": 1040,
+   "y": 590,
+   "kind": "click",
+   "target": "Captions in toolbar",
+   "result": "Captions panel opens",
+   "t_result_visible": 112.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 135.4,
+   "x": 1000,
+   "y": 500,
+   "kind": "click",
+   "target": "caption style",
+   "result": "style selected",
+   "t_result_visible": 135.8,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 144.5,
+   "x": 1000,
+   "y": 1000,
+   "kind": "click",
+   "target": "Generate captions button",
+   "result": "captions being created",
+   "t_result_visible": 145.3,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 186.5,
+   "x": 960,
+   "y": 400,
+   "kind": "drag",
+   "target": "caption",
+   "result": "caption moved away from the bottom edge",
+   "t_result_visible": 190.5,
+   "confidence": "low",
+   "x2": 840,
+   "y2": 410,
+   "t_end": 190.2
+  },
+  {
+   "id": "A16",
+   "t_click": 194.0,
+   "x": 960,
+   "y": 720,
+   "kind": "click",
+   "target": "play/preview button",
+   "result": "preview plays with captions",
+   "t_result_visible": 195.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 204.3,
+   "x": 1000,
+   "y": 590,
+   "kind": "click",
+   "target": "audio / mute",
+   "result": "volume panel with mute",
+   "t_result_visible": 205.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A18",
+   "t_click": 215.0,
+   "x": 1500,
+   "y": 135,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share menu opens",
+   "t_result_visible": 216.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A19",
+   "t_click": 225.4,
+   "x": 1000,
+   "y": 600,
+   "kind": "click",
+   "target": "Download button",
+   "result": "download starts",
+   "t_result_visible": 227.8,
+   "confidence": "medium"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0,
+   "end": 12.5,
+   "reason": "tail of an earlier design (off-topic)"
+  },
+  {
+   "start": 78.0,
+   "end": 104.5,
+   "reason": "idle hovering / rehearsal preview, not narrated here"
+  },
+  {
+   "start": 229.5,
+   "end": 238.83,
+   "reason": "download progress (loading screen)"
+  }
+ ]
+}

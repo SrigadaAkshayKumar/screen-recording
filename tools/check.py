@@ -14,6 +14,8 @@ from common import Project, parser
 SPEED_MIN, SPEED_MAX, WAIT_MAX = 0.75, 4.0, 8.0
 # Tutorial pacing (client rule, docs/lessons.md 2026-10-12): hard limits above, comfortable ones here.
 PACE_MAX, PACE_WAIT_MAX, PACE_MIN_SEG, PACE_MAX_HOLD, PACE_MAX_END_HOLD = 2.0, 3.0, 0.5, 1.5, 3.0
+# Real footage of a motionless screen (scenes.json stills) reads as frozen too (client, 2026-10-13).
+PACE_MAX_STILL = 2.5
 ZOOM_MIN, ZOOM_MAX = 1.4, 2.2
 CLICK_TOL = 0.15
 EPS = 0.002
@@ -135,7 +137,8 @@ def validate_actions(doc: dict, probe: dict, clicks_rec: dict | None = None):
     return err, wrn
 
 
-def validate_plan(plan: dict, probe: dict, actions: dict | None = None, lines: list | None = None):
+def validate_plan(plan: dict, probe: dict, actions: dict | None = None, lines: list | None = None,
+                  scenes: dict | None = None):
     err, wrn = [], []
     rec, vo = probe["recording"], probe["voiceover"]
     o = plan.get("output") or {}
@@ -207,6 +210,8 @@ def validate_plan(plan: dict, probe: dict, actions: dict | None = None, lines: l
                 wrn.append(f"{tag}: xfade on a continuous join has no effect")
         prev = s
 
+    wrn += still_warnings(segs, (scenes or {}).get("stills") or [], D)
+
     W, H = rec["width"], rec["height"]
     zs = sorted(plan.get("zooms") or [], key=lambda z: z.get("out_t", 0))
     for i, z in enumerate(zs):
@@ -260,6 +265,38 @@ def validate_plan(plan: dict, probe: dict, actions: dict | None = None, lines: l
     return err, wrn
 
 
+def still_spans(segs: list[dict], stills: list[dict]) -> list[tuple[float, float]]:
+    """Output spans where the screen does not move: holds, and footage inside a detected still."""
+    spans = []
+    for s in segs:
+        if s.get("mode") == "hold":
+            spans.append((s["out_start"], s["out_end"]))
+            continue
+        k = (s["out_end"] - s["out_start"]) / max(s["src_end"] - s["src_start"], 1e-6)
+        for x in stills:
+            a, b = max(x["start"], s["src_start"]), min(x["end"], s["src_end"])
+            if b > a:
+                spans.append((s["out_start"] + (a - s["src_start"]) * k, s["out_start"] + (b - s["src_start"]) * k))
+    merged = []
+    for a, b in sorted(spans):
+        if merged and a - merged[-1][1] < 0.05:
+            merged[-1] = (merged[-1][0], max(b, merged[-1][1]))
+        else:
+            merged.append((a, b))
+    return merged
+
+
+def still_warnings(segs: list[dict], stills: list[dict], D: float) -> list[str]:
+    out = []
+    for a, b in still_spans(segs, stills):
+        cap = PACE_MAX_END_HOLD if b >= D - 0.05 else PACE_MAX_STILL
+        if b - a > cap + EPS:
+            out.append(f"out {a:.2f}-{b:.2f}: pace: the screen does not move for {b - a:.1f}s (max {cap:g}s), "
+                       "it looks frozen - cut most of the still, show moving footage of the same step, "
+                       "or fast-forward it (<= 2x) so something visibly changes")
+    return out
+
+
 def report(name: str, err: list[str], wrn: list[str]) -> bool:
     for m in wrn:
         print(f"  warning: {m}")
@@ -286,7 +323,8 @@ def main():
     if a.plan or both:
         plan = pr.need("plan.json", "the screencast-sync skill")
         actions = actions or pr.maybe("actions.json")
-        ok &= report("plan.json", *validate_plan(plan, probe, actions, pr.maybe("lines.json")))
+        ok &= report("plan.json", *validate_plan(plan, probe, actions, pr.maybe("lines.json"),
+                                                     pr.maybe("scenes.json")))
     sys.exit(0 if ok else 1)
 
 
