@@ -1,37 +1,280 @@
 {
  "recording": {
-  "width": 3420,
-  "height": 1922,
+  "width": 1920,
+  "height": 1080,
   "fps": 30,
-  "duration": 147.167
+  "duration": 230.367
  },
  "sync": {
-  "clicks_offset": 0,
   "source": "frames"
  },
  "actions": [
   {
    "id": "A1",
-   "t_click": 28.0,
-   "x": 90,
-   "y": 300,
+   "t_click": 56.6,
+   "x": 330,
+   "y": 780,
    "kind": "click",
-   "target": "Elements tab",
-   "result": "Elements panel opens",
-   "t_result_visible": 29.9,
-   "confidence": "low"
+   "target": "Custom size in the Create a design menu",
+   "result": "Custom size form opens",
+   "t_result_visible": 57.2,
+   "confidence": "medium"
   },
   {
    "id": "A2",
-   "t_click": 88.0,
-   "x": 3200,
-   "y": 600,
+   "t_click": 64.6,
+   "x": 780,
+   "y": 560,
    "kind": "click",
-   "target": "Share/Download",
-   "result": "download panel",
-   "t_result_visible": 90.2,
+   "target": "Units dropdown",
+   "result": "units list opens",
+   "t_result_visible": 64.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 65.4,
+   "x": 700,
+   "y": 700,
+   "kind": "click",
+   "target": "mm option",
+   "result": "units set to mm",
+   "t_result_visible": 65.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 76.9,
+   "x": 330,
+   "y": 560,
+   "kind": "click",
+   "target": "Width field",
+   "result": "cursor in width field",
+   "t_result_visible": 77.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 79.9,
+   "x": 1000,
+   "y": 560,
+   "kind": "click",
+   "target": "Height field",
+   "result": "cursor in height field",
+   "t_result_visible": 80.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 81.9,
+   "x": 1520,
+   "y": 590,
+   "kind": "click",
+   "target": "Create new design button",
+   "result": "new blank design opens",
+   "t_result_visible": 86.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 91.4,
+   "x": 60,
+   "y": 300,
+   "kind": "click",
+   "target": "Uploads tab",
+   "result": "Uploads panel with the portrait shown",
+   "t_result_visible": 93.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 94.8,
+   "x": 330,
+   "y": 830,
+   "kind": "click",
+   "target": "portrait thumbnail",
+   "result": "photo added to page",
+   "t_result_visible": 95.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 103.0,
+   "x": 1450,
+   "y": 800,
+   "kind": "drag",
+   "target": "photo corner handle",
+   "result": "photo enlarged to fill the page",
+   "t_result_visible": 104.2,
+   "confidence": "medium",
+   "x2": 1550,
+   "y2": 900,
+   "t_end": 104.1
+  },
+  {
+   "id": "A10",
+   "t_click": 113.7,
+   "x": 420,
+   "y": 350,
+   "kind": "click",
+   "target": "photo (double click)",
+   "result": "crop panel opens",
+   "t_result_visible": 113.9,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 116.8,
+   "x": 600,
+   "y": 380,
+   "kind": "drag",
+   "target": "photo crop frame",
+   "result": "crop area adjusted to centre face",
+   "t_result_visible": 118.0,
+   "confidence": "medium",
+   "x2": 640,
+   "y2": 380,
+   "t_end": 117.9
+  },
+  {
+   "id": "A12",
+   "t_click": 118.2,
+   "x": 800,
+   "y": 820,
+   "kind": "click",
+   "target": "Done button",
+   "result": "crop applied",
+   "t_result_visible": 118.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 137.1,
+   "x": 500,
+   "y": 640,
+   "kind": "click",
+   "target": "Original aspect ratio",
+   "result": "aspect ratio changed",
+   "t_result_visible": 137.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 138.1,
+   "x": 800,
+   "y": 820,
+   "kind": "click",
+   "target": "Done button",
+   "result": "crop applied",
+   "t_result_visible": 138.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 159.9,
+   "x": 1805,
+   "y": 90,
+   "kind": "click",
+   "target": "Share button",
+   "result": "share panel opens",
+   "t_result_visible": 160.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 161.3,
+   "x": 1300,
+   "y": 530,
+   "kind": "click",
+   "target": "Download in share panel",
+   "result": "Download panel opens",
+   "t_result_visible": 162.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 165.3,
+   "x": 1450,
+   "y": 640,
+   "kind": "click",
+   "target": "File type dropdown",
+   "result": "file type list opens",
+   "t_result_visible": 165.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 167.3,
+   "x": 1100,
+   "y": 720,
+   "kind": "click",
+   "target": "PDF option",
+   "result": "PDF selected",
+   "t_result_visible": 167.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A19",
+   "t_click": 168.4,
+   "x": 1500,
+   "y": 1000,
+   "kind": "click",
+   "target": "Advanced settings",
+   "result": "advanced options expanded",
+   "t_result_visible": 170.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A20",
+   "t_click": 169.1,
+   "x": 1450,
+   "y": 1010,
+   "kind": "click",
+   "target": "Print preset",
+   "result": "Print preset chosen",
+   "t_result_visible": 169.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A21",
+   "t_click": 186.0,
+   "x": 930,
+   "y": 810,
+   "kind": "click",
+   "target": "Digital preset",
+   "result": "Digital preset chosen",
+   "t_result_visible": 186.5,
    "confidence": "low"
   }
  ],
- "junk": []
+ "junk": [
+  {
+   "start": 45.4,
+   "end": 52.7,
+   "reason": "zoom transition to another view; off-topic"
+  },
+  {
+   "start": 67.5,
+   "end": 71.8,
+   "reason": "idle",
+   "ff": true
+  },
+  {
+   "start": 97.0,
+   "end": 100.133,
+   "reason": "idle",
+   "ff": true
+  },
+  {
+   "start": 189.3,
+   "end": 193.2,
+   "reason": "idle",
+   "ff": true
+  },
+  {
+   "start": 200.3,
+   "end": 230.36,
+   "reason": "after final download: share/WPS/viewer/desktop"
+  }
+ ]
 }

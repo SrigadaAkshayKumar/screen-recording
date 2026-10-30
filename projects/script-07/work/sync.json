@@ -1,0 +1,188 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 6,
+   "word": "custom"
+  },
+  {
+   "action": "A3",
+   "line": 7,
+   "word": "millimetres"
+  },
+  {
+   "action": "A6",
+   "line": 8,
+   "word": "create"
+  },
+  {
+   "action": "A7",
+   "line": 9,
+   "word": "uploads",
+   "lead": 0.1
+  },
+  {
+   "action": "A9",
+   "line": 11,
+   "word": "enlarge"
+  },
+  {
+   "action": "A10",
+   "line": 12,
+   "word": "click"
+  },
+  {
+   "action": "A11",
+   "line": 13,
+   "word": "centred"
+  },
+  {
+   "action": "A13",
+   "line": 15,
+   "word": "original"
+  },
+  {
+   "action": "A14",
+   "line": 15,
+   "word": "instead"
+  },
+  {
+   "action": "A15",
+   "line": 18,
+   "word": "replacement"
+  },
+  {
+   "action": "A16",
+   "line": 18,
+   "word": "retouching"
+  },
+  {
+   "action": "A18",
+   "line": 19,
+   "word": "marks"
+  },
+  {
+   "action": "A20",
+   "line": 20,
+   "word": "Print"
+  },
+  {
+   "action": "A21",
+   "line": 22,
+   "word": "digital"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A1",
+  "A2",
+  "A3",
+  "A4",
+  "A5",
+  "A6",
+  "A7",
+  "A8",
+  "A9",
+  "A10",
+  "A11",
+  "A12",
+  "A13",
+  "A14",
+  "A15",
+  "A16",
+  "A17",
+  "A18",
+  "A19",
+  "A20",
+  "A21"
+ ],
+ "cuts": [
+  {
+   "src_start": 18.3,
+   "src_end": 20.1,
+   "reason": "idle on photo",
+   "xfade": true
+  },
+  {
+   "src_start": 28.0,
+   "src_end": 42.0,
+   "reason": "idle in editor (earlier take)",
+   "xfade": true
+  },
+  {
+   "src_start": 57.6,
+   "src_end": 63.4,
+   "reason": "dialog idle after opening Custom size",
+   "xfade": true
+  },
+  {
+   "src_start": 66.7,
+   "src_end": 78.033,
+   "reason": "idle before typing width",
+   "xfade": true
+  },
+  {
+   "src_start": 83.0,
+   "src_end": 86.0,
+   "reason": "new design loading",
+   "xfade": true
+  },
+  {
+   "src_start": 87.0,
+   "src_end": 90.3,
+   "reason": "template panel loading",
+   "xfade": true
+  },
+  {
+   "src_start": 98.3,
+   "src_end": 99.4,
+   "reason": "idle",
+   "xfade": true
+  },
+  {
+   "src_start": 105.8,
+   "src_end": 112.5,
+   "reason": "idle on page after enlarge",
+   "xfade": true
+  },
+  {
+   "src_start": 120.433,
+   "src_end": 124.267,
+   "reason": "idle in crop",
+   "xfade": true
+  },
+  {
+   "src_start": 140.8,
+   "src_end": 143.0,
+   "reason": "idle while resizing",
+   "xfade": true
+  },
+  {
+   "src_start": 155.2,
+   "src_end": 157.0,
+   "reason": "idle",
+   "xfade": true
+  },
+  {
+   "src_start": 162.5,
+   "src_end": 164.8,
+   "reason": "panel loading",
+   "xfade": true
+  },
+  {
+   "src_start": 166.0,
+   "src_end": 166.5,
+   "reason": "dropdown hover",
+   "xfade": true
+  },
+  {
+   "src_start": 174.2,
+   "src_end": 181.0,
+   "reason": "idle on download panel",
+   "xfade": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 10.6
+}
