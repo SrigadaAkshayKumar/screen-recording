@@ -1,0 +1,103 @@
+{
+ "anchors": [
+  {
+   "action": "A1",
+   "line": 2,
+   "word": "into"
+  },
+  {
+   "action": "A2",
+   "line": 4,
+   "word": "Share,"
+  },
+  {
+   "action": "A4",
+   "line": 4,
+   "word": "other"
+  },
+  {
+   "action": "A5",
+   "line": 4,
+   "word": "Can"
+  },
+  {
+   "action": "A7",
+   "line": 5,
+   "word": "account."
+  },
+  {
+   "action": "A8",
+   "line": 8,
+   "word": "Open"
+  },
+  {
+   "action": "A9",
+   "line": 8,
+   "word": "notifications."
+  },
+  {
+   "action": "A11",
+   "line": 12,
+   "word": "Open"
+  },
+  {
+   "action": "A12",
+   "line": 12,
+   "word": "images,"
+  },
+  {
+   "action": "A13",
+   "line": 19,
+   "word": "separate"
+  }
+ ],
+ "zooms": [],
+ "no_ripple": [
+  "A3",
+  "A5",
+  "A8",
+  "A10",
+  "A13"
+ ],
+ "cuts": [
+  {
+   "src_start": 14.6,
+   "src_end": 21.0,
+   "reason": "cursor idles in editor before Share",
+   "ff": true
+  },
+  {
+   "src_start": 23.6,
+   "src_end": 26.2,
+   "reason": "panel idle / click into field; narration too short",
+   "xfade": true
+  },
+  {
+   "src_start": 31.5,
+   "src_end": 35.0,
+   "reason": "unnarrated message typing",
+   "xfade": true
+  },
+  {
+   "src_start": 41.0,
+   "src_end": 47.0,
+   "reason": "idle after toast 'Design shared'",
+   "xfade": true
+  },
+  {
+   "src_start": 65.5,
+   "src_end": 86.0,
+   "reason": "blank loading page (design opening)",
+   "xfade": true
+  },
+  {
+   "src_start": 123.0,
+   "src_end": 134.0,
+   "reason": "tab switching/blurred transitions, off-topic",
+   "xfade": true
+  }
+ ],
+ "ff_max": 2.0,
+ "use_junk": true,
+ "src_start": 4.3
+}

@@ -1,9 +1,27 @@
-# sync notes (script-14)
-Hand plan: `work/hand_plan.py` -> plan.json (21 groups, one per narration line, each starting exactly on its lines.json start; speeds 0.82-1.08x; no holds, no zooms, no ripples, no sync anchors).
+# Sync notes
+
+| line | word | out time | action | src time | speed (approach) |
+|---|---|---|---|---|---|
+| 2 | into | 6.460 | A1 Hello design thumbnail on Home | 9.650 | 0.83x |
+| 4 | Share, | 15.500 | A2 Share button | 21.700 | 1.33x |
+| 4 | other | 17.480 | A4 Add people field | 27.200 | 1.46x |
+| 4 | Can | 19.880 | A5 email suggestion / permission Edit | 29.500 | 0.96x |
+| 5 | account. | 22.480 | A7 Share button in panel | 35.800 | 1.08x |
+| 8 | Open | 32.040 | A8 Notifications bell | 55.900 | 1.47x |
+| 8 | notifications. | 34.820 | A9 notification 'shared Hello with you' | 58.650 | 0.99x |
+| 12 | Open | 49.800 | A11 Text tab | 91.800 | 0.84x |
+| 12 | images, | 52.120 | A12 Uploads tab | 94.700 | 1.25x |
+| 19 | separate | 83.380 | A13 collaborator avatars | 178.300 | 1.51x |
+
+## Builder decisions
+
+- A1->A2: fast-forwarded src 14.60-21.00 instead of cutting it (cursor idles in editor before Share)
+
 ## Judgment calls
-- L1: recording opens on 7 s of a static home screen, so the intro uses the create-design dialog/templates page (7.2-17.7 s) instead.
-- L4 logo/name: name edit (45.6-47.5) + upload panel (96-97.9). L5 brand colours: background colour panel (113-120). L6/L7 headings: text colour of headings, font-size change on the title (69.8-75.8).
-- L8-L12 items/prices/row duplication: price/description editing windows and text-colour work (150-155.7, 169-206); there is no real group+duplicate footage, so topic-matched footage is used.
-- L13-14 photos: resizing the dessert photo (208-219.8). L16-17: zoom-out/page overview (229.5-239.8). L18: gradient/colour checks (121-137) as generic "check" footage.
-- L19 download: file type panel (241.8-248). L20 print sample: PDF toast (259.6-262) + opened PDF (269-270.8). L21: PDF viewer (274.8-278.1).
-- Pieces under 2.5 s of static source are avoided; no 'pace:' warnings from check.py --plan.
+- Recording (191 s) is a retake-heavy demo that never shows team/Projects navigation, Can Edit selection, File > Make a Copy, rename. Those narrated steps (L3 partly, L10-11) have no footage; the plan plays the nearest real footage instead.
+- Anchors: A1 on "into" (L2) so the intro isn't a long frozen hold (the home screen is static for 9 s); A2 "Share,", A4 "other" (typing; narration too fast for earlier word), A5 "Can", A7 "account." (the narration is shorter than the share steps, so message typing and panel idle are cut), A8/A9 on "Open"/"notifications.", A11 "Open"/A12 "images," (Text tab then Uploads tab, recording order), A13 on "separate" (avatars popup, used to give the closing narration moving footage).
+- Cuts (cross-faded): 23.6-26.2 and 31.5-35.0 (share panel idle, unnarrated message typing), 41-47 (idle after toast), 65.5-86 (blank page while design loads), 123-134 (tab switching). ff: 14.6-21.0 idle editor.
+- 98-150 s: unnarrated "Hi!" sticker editing is kept as moving footage under L13-L18 (no other motion exists); idle 151.9-177.3 and recorder stop are junk.
+- No zooms: the recorder already auto-zooms; ripples only; A3, A5, A8, A10, A13 no ripple (uncertain/zoomed positions).
+- A3 (click field) and A6 (message typing) are not anchored: cut away.
+- A1/A7/A9/A13 results land slightly after their line ends; acceptable.

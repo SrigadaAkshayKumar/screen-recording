@@ -1,5 +1,7 @@
-# analyze notes (script-14, 286.2 s cafe-menu take, baked-in recorder zoom, no click log)
-- No per-click analysis: the recorder zooms on its own, so ripples/zooms would land wrong. actions.json holds a single low-confidence action (A1, PDF download click ~259 s, position approximate) and is not used by the plan.
-- Source moving windows were found with `freezedetect=n=0.003:d=0.8` on the recording; the plan uses only those.
-- The recording does not match the script order exactly: it starts with ~7 s of static home screen and has no clear "group and duplicate item row" step; items are edited as text, then photos resized.
-- The "PDF print" download is shown only as the PNG/file-type panel (241-248 s) and the PDF panel/toast (259-262 s).
+# Analyze notes
+- No click log; all click times/positions are read by eye from contact sheets (confidence medium/low).
+- The recorder bakes in auto-zoom (frames at 12-24 s, 52-58 s, 92-94 s are pre-zoomed), so recording-pixel positions there are unreliable: no plan zooms, ripples only where the view is unzoomed.
+- A5/A8/A13 low confidence on position.
+- Narrated steps with no matching footage: "open team/workspace, go to Projects" (L3), "set permission to Can Edit" (only default shown), Confirm profile/workspace (L9), **File > Make a Copy and rename (L10-11)**, pages/fonts/audio check. The recording never shows Make a Copy.
+- 98-150 s: the recorder adds a "Hi!" sticker to the design (unnarrated); kept only as moving filler for the explanatory narration.
+- 59-91 s: blank page while the design loads (wait). 151.9-177.3: idle (junk).

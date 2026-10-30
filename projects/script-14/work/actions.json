@@ -3,24 +3,168 @@
   "width": 1920,
   "height": 1080,
   "fps": 30,
-  "duration": 286.233
+  "duration": 191.3
  },
  "sync": {
-  "clicks_offset": 0,
   "source": "frames"
  },
  "actions": [
   {
    "id": "A1",
-   "t_click": 259.0,
-   "x": 1440,
-   "y": 270,
+   "t_click": 9.65,
+   "x": 310,
+   "y": 880,
    "kind": "click",
-   "target": "Download button (PDF Standard)",
-   "result": "download starts, PDF Standard toast",
-   "t_result_visible": 261.0,
+   "target": "Hello design thumbnail on Home",
+   "result": "editor opens with the design",
+   "t_result_visible": 13.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 21.7,
+   "x": 1798,
+   "y": 236,
+   "kind": "click",
+   "target": "Share button",
+   "result": "Share design panel opens",
+   "t_result_visible": 23.2,
+   "confidence": "high"
+  },
+  {
+   "id": "A3",
+   "t_click": 24.0,
+   "x": 1563,
+   "y": 387,
+   "kind": "click",
+   "target": "Add people field",
+   "result": "field focused, collaborators list shown",
+   "t_result_visible": 25.8,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 27.2,
+   "x": 1563,
+   "y": 387,
+   "kind": "type",
+   "target": "Add people field",
+   "result": "email typed, suggestion shown",
+   "t_result_visible": 29.4,
+   "confidence": "medium",
+   "text": "venkatasarma...@gmail.com"
+  },
+  {
+   "id": "A5",
+   "t_click": 29.5,
+   "x": 1590,
+   "y": 425,
+   "kind": "click",
+   "target": "email suggestion / permission Edit",
+   "result": "email chip added, permission Edit, message box shown",
+   "t_result_visible": 30.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 33.0,
+   "x": 1528,
+   "y": 463,
+   "kind": "type",
+   "target": "message box",
+   "result": "'take access' typed",
+   "t_result_visible": 34.5,
+   "confidence": "medium",
+   "text": "take access"
+  },
+  {
+   "id": "A7",
+   "t_click": 35.8,
+   "x": 1602,
+   "y": 600,
+   "kind": "click",
+   "target": "Share button in panel",
+   "result": "design shared; collaborator listed as Can edit",
+   "t_result_visible": 38.4,
+   "confidence": "high"
+  },
+  {
+   "id": "A8",
+   "t_click": 55.9,
+   "x": 40,
+   "y": 905,
+   "kind": "click",
+   "target": "Notifications bell",
+   "result": "Notifications panel opens",
+   "t_result_visible": 57.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 58.65,
+   "x": 380,
+   "y": 330,
+   "kind": "click",
+   "target": "notification 'shared Hello with you'",
+   "result": "design starts opening in the editor",
+   "t_result_visible": 62.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 59.0,
+   "x": 960,
+   "y": 600,
+   "kind": "wait",
+   "target": "design loading (blank page)",
+   "result": "editor loaded",
+   "t_result_visible": 91.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A11",
+   "t_click": 91.8,
+   "x": 108,
+   "y": 512,
+   "kind": "click",
+   "target": "Text tab",
+   "result": "text/fonts panel opens",
+   "t_result_visible": 93.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 94.7,
+   "x": 108,
+   "y": 790,
+   "kind": "click",
+   "target": "Uploads tab",
+   "result": "uploaded images shown",
+   "t_result_visible": 98.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 178.3,
+   "x": 1075,
+   "y": 300,
+   "kind": "click",
+   "target": "collaborator avatars",
+   "result": "people with access popup",
+   "t_result_visible": 180.6,
    "confidence": "low"
   }
  ],
- "junk": []
+ "junk": [
+  {
+   "start": 151.9,
+   "end": 177.3,
+   "reason": "idle screen, nothing happens"
+  },
+  {
+   "start": 190.2,
+   "end": 191.3,
+   "reason": "recorder stop"
+  }
+ ]
 }
