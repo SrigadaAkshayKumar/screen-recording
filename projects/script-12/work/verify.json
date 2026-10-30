@@ -5,7 +5,7 @@
     {
       "name": "duration",
       "ok": true,
-      "detail": "99.195s vs voiceover 99.196s"
+      "detail": "90.650s vs voiceover 90.651s"
     },
     {
       "name": "streams",
@@ -25,8 +25,10 @@
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "37 boundaries clean"
+      "detail": "28 boundaries clean"
     }
   ],
-  "zoom_frames": []
+  "zoom_frames": [
+    "/home/runner/work/screen-recording/screen-recording/projects/script-12/output/checks/zoom_01_0045.000.jpg"
+  ]
 }
