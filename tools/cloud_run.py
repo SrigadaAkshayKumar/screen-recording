@@ -76,9 +76,11 @@ def cmd_list(a):
     natural = lambda s: [int(t) if t.isdigit() else t.lower() for t in re.split(r"(\d+)", s)]
     groups: dict[str, dict[str, list[str]]] = {}          # stem or folder -> kind -> Drive paths
     loose: dict[str, dict[str, list[str]]] = {}
+    ignored: list[str] = []                               # files of no known kind (reported on error)
     for f in rclone_lsf(f"{a.drive}/inbox", "-R", "--files-only"):
         k = kind_of(f)
         if not k:
+            ignored.append(f)
             continue
         if "/" in f:                                      # inbox/<folder>/...: the folder is the project
             groups.setdefault(f.split("/")[0], {}).setdefault(k, []).append(f)
@@ -117,7 +119,8 @@ def cmd_list(a):
         missing = [w for w in want if not any(w in (i["name"], i["stem"]) for i in items)]
         if missing:
             raise SystemExit(f"error: no video+audio pair in {a.drive}/inbox for: {', '.join(missing)} "
-                             f"(found: {', '.join(i['stem'] for i in items) or 'nothing'})")
+                             f"(found: {', '.join(i['stem'] for i in items) or 'nothing'}"
+                             f"{'; unrecognised files: ' + ', '.join(ignored) if ignored else ''})")
         items = [i for i in items if i["name"] in want or i["stem"] in want]
     print(json.dumps(items))
 
