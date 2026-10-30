@@ -1,0 +1,246 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 377.667
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 2.1,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "intro: finished design plays",
+   "result": "intro: finished design plays",
+   "t_result_visible": 3.1,
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "t_click": 14.5,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "Create a design page",
+   "result": "Create a design page",
+   "t_result_visible": 15.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A3",
+   "t_click": 33.0,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "elements search",
+   "result": "elements search",
+   "t_result_visible": 34.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 37.4,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "search results",
+   "result": "search results",
+   "t_result_visible": 38.4,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 42.0,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "results browsing",
+   "result": "results browsing",
+   "t_result_visible": 43.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 62.87,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "character placed left",
+   "result": "character placed left",
+   "t_result_visible": 63.87,
+   "confidence": "medium"
+  },
+  {
+   "id": "A7",
+   "t_click": 73.27,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "table search",
+   "result": "table search",
+   "t_result_visible": 74.27,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 315.2,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "animate > create animation",
+   "result": "animate > create animation",
+   "t_result_visible": 316.2,
+   "confidence": "medium"
+  },
+  {
+   "id": "A9",
+   "t_click": 324.77,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "drag along path",
+   "result": "drag along path",
+   "t_result_visible": 325.77,
+   "confidence": "medium"
+  },
+  {
+   "id": "A10",
+   "t_click": 105.0,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "animate panel settings",
+   "result": "animate panel settings",
+   "t_result_visible": 106.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A11",
+   "t_click": 133.0,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "text bubble search",
+   "result": "text bubble search",
+   "t_result_visible": 134.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A12",
+   "t_click": 216.33,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "timeline edit",
+   "result": "timeline edit",
+   "t_result_visible": 217.33,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 261.07,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "extend clip",
+   "result": "extend clip",
+   "t_result_visible": 262.07,
+   "confidence": "medium"
+  },
+  {
+   "id": "A14",
+   "t_click": 228.77,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "add scene",
+   "result": "add scene",
+   "t_result_visible": 229.77,
+   "confidence": "medium"
+  },
+  {
+   "id": "A15",
+   "t_click": 235.0,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "pose search",
+   "result": "pose search",
+   "t_result_visible": 236.0,
+   "confidence": "medium"
+  },
+  {
+   "id": "A16",
+   "t_click": 244.73,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "select pose",
+   "result": "select pose",
+   "t_result_visible": 245.73,
+   "confidence": "medium"
+  },
+  {
+   "id": "A17",
+   "t_click": 329.67,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "path playback",
+   "result": "path playback",
+   "t_result_visible": 330.67,
+   "confidence": "medium"
+  },
+  {
+   "id": "A18",
+   "t_click": 41.5,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "animated graphics list",
+   "result": "animated graphics list",
+   "t_result_visible": 42.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A19",
+   "t_click": 272.97,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "static poses text",
+   "result": "static poses text",
+   "t_result_visible": 273.97,
+   "confidence": "medium"
+  },
+  {
+   "id": "A20",
+   "t_click": 291.77,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "preview",
+   "result": "preview",
+   "t_result_visible": 292.77,
+   "confidence": "medium"
+  },
+  {
+   "id": "A21",
+   "t_click": 367.9,
+   "x": 960,
+   "y": 540,
+   "kind": "wait",
+   "target": "download dialog",
+   "result": "download dialog",
+   "t_result_visible": 368.9,
+   "confidence": "medium"
+  }
+ ],
+ "junk": []
+}
