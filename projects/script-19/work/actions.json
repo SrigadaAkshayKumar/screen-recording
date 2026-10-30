@@ -1,0 +1,181 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 383.367
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 12.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Canva home search area zoom",
+   "result": "recorder zoom on home page",
+   "t_result_visible": 13.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 18.0,
+   "x": 960,
+   "y": 540,
+   "kind": "scroll",
+   "target": "Word manuscript",
+   "result": "manuscript scrolls in Word",
+   "t_result_visible": 21.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 44.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "file explorer",
+   "result": "Downloads folder with .docx shown",
+   "t_result_visible": 49.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 95.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "upload toast",
+   "result": "1 item uploaded, Open",
+   "t_result_visible": 97.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 100.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Open button on toast",
+   "result": "imported document opens in Canva editor",
+   "t_result_visible": 103.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 111.0,
+   "x": 960,
+   "y": 540,
+   "kind": "type",
+   "target": "document title",
+   "result": "title retyped 'Nature Lessons'",
+   "t_result_visible": 136.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 172.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Create a design",
+   "result": "new design from projects/uploads",
+   "t_result_visible": 176.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 184.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Uploads > Designs tab",
+   "result": "imported doc listed",
+   "t_result_visible": 189.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 232.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "text selection in imported doc",
+   "result": "body text selected to copy",
+   "t_result_visible": 236.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 252.0,
+   "x": 960,
+   "y": 540,
+   "kind": "scroll",
+   "target": "design pages",
+   "result": "image/page scroll",
+   "t_result_visible": 253.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 268.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Upload files",
+   "result": "uploads page",
+   "t_result_visible": 276.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 320.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Share > Download",
+   "result": "download panel opens",
+   "t_result_visible": 336.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 340.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "file type PDF",
+   "result": "PDF Standard selected",
+   "t_result_visible": 360.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 366.7,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Download",
+   "result": "PDF downloaded, opens in browser",
+   "t_result_visible": 369.0,
+   "confidence": "low"
+  }
+ ],
+ "junk": [
+  {
+   "start": 51.1,
+   "end": 94.9,
+   "reason": "upload wait, cursor/toast only",
+   "ff": true
+  },
+  {
+   "start": 115.9,
+   "end": 120.9,
+   "reason": "black box capture glitch"
+  }
+ ]
+}
