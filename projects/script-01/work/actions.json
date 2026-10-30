@@ -1,9 +1,9 @@
 {
  "recording": {
-  "width": 3420,
-  "height": 1922,
+  "width": 1920,
+  "height": 1080,
   "fps": 30,
-  "duration": 144.767
+  "duration": 234.667
  },
  "sync": {
   "clicks_offset": 0,
@@ -12,70 +12,113 @@
  "actions": [
   {
    "id": "A1",
-   "t_click": 16.4,
-   "x": 1710,
-   "y": 961,
+   "t_click": 13.9,
+   "x": 960,
+   "y": 540,
    "kind": "click",
-   "target": "Tables category",
-   "result": "table thumbnails list",
-   "t_result_visible": 16.9,
+   "target": "Create / landscape video design",
+   "result": "blank video design opens",
+   "t_result_visible": 16.8,
    "confidence": "low"
   },
   {
    "id": "A2",
-   "t_click": 21.0,
-   "x": 1710,
-   "y": 961,
+   "t_click": 26.0,
+   "x": 60,
+   "y": 300,
    "kind": "click",
-   "target": "Table on page",
-   "result": "table placed",
-   "t_result_visible": 21.5,
+   "target": "Elements tab",
+   "result": "elements panel opens",
+   "t_result_visible": 28.8,
    "confidence": "low"
   },
   {
    "id": "A3",
-   "t_click": 60.0,
-   "x": 1710,
-   "y": 961,
+   "t_click": 112.0,
+   "x": 1100,
+   "y": 420,
    "kind": "click",
-   "target": "Three-dot menu",
-   "result": "menu opens",
-   "t_result_visible": 60.5,
+   "target": "Animate in toolbar",
+   "result": "Create an animation panel",
+   "t_result_visible": 112.8,
    "confidence": "low"
   },
   {
    "id": "A4",
-   "t_click": 86.0,
-   "x": 1710,
-   "y": 961,
-   "kind": "click",
-   "target": "Colour tile",
-   "result": "colour panel",
-   "t_result_visible": 86.5,
+   "t_click": 115.0,
+   "x": 1000,
+   "y": 420,
+   "kind": "drag",
+   "x2": 1500,
+   "y2": 520,
+   "t_end": 123.0,
+   "target": "character route",
+   "result": "path drawn toward the house",
+   "t_result_visible": 124.0,
    "confidence": "low"
   },
   {
    "id": "A5",
-   "t_click": 119.5,
-   "x": 1710,
-   "y": 961,
+   "t_click": 127.0,
+   "x": 1000,
+   "y": 1000,
    "kind": "click",
-   "target": "Share button",
-   "result": "share panel",
-   "t_result_visible": 120.0,
+   "target": "Done",
+   "result": "animation applied",
+   "t_result_visible": 128.0,
    "confidence": "low"
   },
   {
    "id": "A6",
-   "t_click": 126.7,
-   "x": 1710,
-   "y": 961,
+   "t_click": 135.0,
+   "x": 200,
+   "y": 600,
    "kind": "click",
-   "target": "Download",
-   "result": "PDF downloads",
-   "t_result_visible": 127.2,
+   "target": "Add a text box",
+   "result": "text box added",
+   "t_result_visible": 139.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 196.8,
+   "x": 1000,
+   "y": 1000,
+   "kind": "click",
+   "target": "plus button on timeline",
+   "result": "add-page menu",
+   "t_result_visible": 199.2,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 216.0,
+   "x": 1800,
+   "y": 80,
+   "kind": "click",
+   "target": "Share",
+   "result": "share menu",
+   "t_result_visible": 217.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 222.5,
+   "x": 1200,
+   "y": 500,
+   "kind": "click",
+   "target": "file type MP4 video",
+   "result": "download panel",
+   "t_result_visible": 225.6,
    "confidence": "low"
   }
  ],
- "junk": []
+ "junk": [
+  {
+   "start": 0,
+   "end": 9.6,
+   "reason": "static Canva home, narrator not yet acting",
+   "ff": false
+  }
+ ]
 }
