@@ -1,0 +1,147 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 298.733
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 22.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Elements sidebar button",
+   "result": "Elements panel opens",
+   "t_result_visible": 22.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 88.6,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Rectangle quick-add",
+   "result": "grey shape added",
+   "t_result_visible": 89.1,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 98.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "rectangle corner handle",
+   "result": "rectangle resized to page",
+   "t_result_visible": 99.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 120.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Fill colour -> transparent",
+   "result": "outline only",
+   "t_result_visible": 120.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 132.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Stroke style / weight",
+   "result": "solid line, weight slider",
+   "t_result_visible": 132.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 146.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Stroke colour",
+   "result": "colour panel, red chosen",
+   "t_result_visible": 146.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 180.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Position",
+   "result": "Position panel",
+   "t_result_visible": 180.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 248.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Transparency slider",
+   "result": "outline fades",
+   "t_result_visible": 248.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 257.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Fill control",
+   "result": "fill colour panel",
+   "t_result_visible": 257.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 270.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Lock icon",
+   "result": "border locked",
+   "t_result_visible": 270.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 282.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Add page",
+   "result": "second page",
+   "t_result_visible": 282.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 289.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Share > Download",
+   "result": "download panel",
+   "t_result_visible": 289.5,
+   "confidence": "low"
+  }
+ ],
+ "junk": []
+}

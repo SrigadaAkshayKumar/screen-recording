@@ -1,31 +1,33 @@
-"""Hand-built plan for script-09 (192.8 s take, 97.71 s voiceover, 3420x1922, baked recorder zoom: no zooms/ripples).
-Pieces come from the moving windows of the source (freezedetect n=0.003 d=0.8); one group per narration line."""
+"""Hand-built plan for script-09 (298.7 s take, 85.96 s voiceover, 1920x1080, baked recorder zoom: no zooms/ripples).
+One group per narration line, pieces chosen by what each source range shows (see output/report.md)."""
 import json
 P = 'projects/script-09/work/'
-END = 97.71
-G = [
- (0, 7.8, [(0.5, 2.0), (134.3, 136.07), (139.77, 143.0)]),
- (7.8, 10.36, [(9.07, 10.2), (12.07, 12.9)]),
- (10.36, 15.92, [(22.17, 24.63), (30.33, 32.53)]),
- (15.92, 18.16, [(34.3, 36.6)]),
- (18.16, 24.42, [(41.47, 46.93), (47.73, 48.4)]),
- (24.42, 28.96, [(48.4, 52.97)]),
- (28.96, 32.08, [(36.6, 39.8)]),
- (32.08, 39.9, [(56.6, 62.43), (63.57, 64.93)]),
- (39.9, 45.68, [(143.0, 148.47)]),
- (45.68, 50.46, [(126.13, 131.27)]),
- (50.46, 55.48, [(67.9, 71.1), (87.77, 89.6)]),
- (55.48, 59.76, [(102.2, 106.5)]),
- (59.76, 64.86, [(106.5, 109.87), (81.67, 83.4)]),
- (64.86, 67.28, [(85.3, 85.9), (89.6, 91.67)]),
- (67.28, 75.32, [(153.33, 160.4)]),
- (75.32, 81.1, [(161.3, 166.47), (168.43, 169.1)]),
- (81.1, 87.18, [(169.1, 170.77), (123.6, 125.0), (83.4, 84.27), (132.7, 134.3)]),
- (87.18, 93.56, [(174.13, 178.43), (182.2, 184.17)]),
- (93.56, END, [(179.5, 180.5), (185.77, 186.83), (189.97, 190.57), (191.47, 192.8)]),
+END = 85.96
+STARTS = [0,6.18,8.94,11.58,16.22,21.34,27.3,32.56,35.28,39.9,43.94,46.86,51.7,58.78,62.8,65.34,69.88,73.8,81.74,END]
+PIECES = [
+ [(9.1, 15.0)],                      # 1 intro: page + border frame
+ [(20.9, 23.7)],                     # 2 click Elements, panel opens
+ [(86.5, 89.2)],                     # 3 search rectangle, add it
+ [(97.0, 102.0)],                    # 4 resize by corner
+ [(103.0, 108.2)],                   # 5 fit inside page edges
+ [(116.5, 121.0), (123.5, 125.0)],   # 6 fill colour -> transparent
+ [(130.7, 135.2)],                   # 7 stroke style, solid, weight
+ [(144.0, 146.7)],                   # 8 stroke colour
+ [(136.0, 138.0), (141.2, 143.8)],                   # 9 thin line / weight
+ [(179.5, 183.6)],                   # 10 Position panel
+ [(216.5, 219.5)],                   # 11 even spacing, finished border
+ [(269.3, 273.4)],                   # 12 lock
+ [(22.0, 23.6), (27.0, 29.0), (33.0, 36.2)],                     # 13 search Elements for border graphics
+ [(71.3, 75.3)],                     # 14 graphics panel
+ [(213.0, 215.6)],                   # 15 "part tutorials skip"
+ [(246.8, 251.4)],                   # 16 transparency fades outline
+ [(254.2, 258.0)],                   # 17 remove fill
+ [(270.7, 274.3), (278.5, 282.8)],   # 18 duplicate / next page
+ [(288.0, 292.2)],                   # 19 download
 ]
 segs, prev_end = [], None
-for o0, o1, pieces in G:
+for i, pieces in enumerate(PIECES):
+    o0, o1 = STARTS[i], STARTS[i + 1]
     sp = sum(b - a for a, b in pieces) / (o1 - o0)
     t = o0
     for k, (a, b) in enumerate(pieces):
@@ -34,8 +36,8 @@ for o0, o1, pieces in G:
         if prev_end is not None and abs(a - prev_end) > 0.002:
             s["xfade"] = True
         segs.append(s); prev_end = b; t = end
-    print(f"{o0:6.2f}-{o1:6.2f} {sp:.2f}x {pieces}")
-plan = {"output": {"duration": END, "fps": 30, "width": 3420, "height": 1922}, "segments": segs, "zooms": [],
+    print(f"line {i+1:2d} {o0:6.2f}-{o1:6.2f} {sp:.2f}x {pieces}")
+plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
         "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
