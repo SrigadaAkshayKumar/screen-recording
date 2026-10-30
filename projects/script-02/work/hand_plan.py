@@ -1,34 +1,31 @@
-"""Hand-built plan for script-02 (206 s Canva busy-book recording 3420x1922, 100.5 s voiceover, recorder zoom baked in: no zooms/ripples).
+"""Hand-built plan for script-02 (266 s Canva Bulk Create quotes take, 1920x1080, 101.425 s voiceover, recorder zoom baked in: no zooms/ripples).
 Each group fills one narration interval (ends at the next line's start) with source pieces chosen where the picture
 moves (freezedetect n=0.003 d=0.8 on the source). A piece is (src_a, src_b) or (src_a, src_b, speed)."""
 import json
 P = 'projects/script-02/work/'
-END = 100.496
+END = 101.425
 G = [
- (8.14,  [(7.0, 9.43), (11.13, 13.37), (14.87, 17.17)]),   # L1 intro: finished sheet
- (13.24, [(21.6, 23.53), (26.17, 28.37)]),                 # L2 create a design, editor opens
- (18.8,  [(30.03, 32.23), (37.73, 39.1), (41.37, 42.47), (44.03, 46.33)]),  # L3 blank page / templates
- (22.12, [(48.6, 51.9)]),                                  # L4 title
- (25.5,  [(98.0, 100.3), (101.43, 103.0)]),                # L5 elements panel
- (31.3,  [(107.43, 109.73), (112.53, 114.87), (117.3, 118.57), (120.73, 122.03)]),  # L6 shapes
- (35.8,  [(90.07, 93.0), (93.87, 94.9)]),                  # L7 instruction
- (39.76, [(94.9, 96.83), (66.2, 68.2)]),                   # L8 same font
- (41.46, [(141.03, 142.73)]),                              # L9 duplicate page
- (46.68, [(144.5, 148.53), (149.4, 150.4)]),               # L10 delete text
- (49.74, [(150.4, 152.4), (162.4, 164.5)]),                # L11 colors / spread
- (51.7,  [(178.0, 180.0)]),                                # L12 piece sheet
- (57.9,  [(132.93, 138.07), (130.37, 131.4)]),             # L13 back to activity page
- (61.96, [(168.83, 172.9)]),                               # L14 more pages
- (66.54, [(172.9, 177.5)]),                                # L15 duplicate layout
- (69.06, [(180.0, 182.23)]),                               # L16 tutorials skip
- (72.92, [(124.6, 128.6)]),                                # L17 same size
- (77.64, [(152.4, 156.07), (159.0, 160.2)]),               # L18 duplicate targets
- (80.24, [(164.5, 167.5)]),                                # L19 fit after printing
- (84.32, [(185.1, 189.2)]),                                # L20 share download PDF print
- (88.24, [(189.2, 190.33), (191.4, 193.9)]),               # L21 export
- (91.92, [(198.23, 201.9)]),                               # L22 print one pair
- (97.0,  [(201.9, 206.2)]),                                # L23 check and assemble
- (END,   [(17.97, 20.3), (21.2, 21.6)]),                   # L24 closing
+ (6.76,  [(168.9, 169.87), (169.87, 171.4), (184.0, 186.47), (187.47, 189.0)]),  # L1 intro: preview of the finished quote pages
+ (10.38, [(8.0, 11.0)]),                                   # L2 Canva home
+ (15.52, [(13.3, 14.5), (19.97, 23.5)]),                   # L3 editor (plan line: no footage)
+ (17.76, [(11.0, 13.3)]),                                  # L4 create Instagram post (dialog)
+ (23.46, [(23.5, 26.5), (32.93, 36.0)]),                   # L5 background + text box
+ (26.42, [(36.0, 38.9)]),                                  # L6 space for the longest quote
+ (31.58, [(72.53, 78.43)]),                                # L7 apps / Bulk Create
+ (36.16, [(80.17, 82.43), (85.27, 87.5)]),                 # L8 enter data manually
+ (40.38, [(88.73, 89.97), (91.0, 92.27), (95.4, 98.27)]),  # L9 columns Quote/Author
+ (45.24, [(109.77, 112.77), (127.7, 129.5)]),              # L10 paste rows
+ (47.2,  [(141.53, 143.5)]),                               # L11 field matching
+ (52.02, [(143.5, 144.93), (146.63, 149.0)]),              # L12 check columns fill boxes
+ (60.1,  [(149.0, 150.4), (151.43, 152.57), (153.37, 157.43), (159.37, 160.8)]),  # L13 Match Data
+ (62.78, [(165.0, 167.27)]),                               # L14 preview
+ (70.46, [(215.5, 217.0), (225.3, 227.8), (230.27, 232.8)]),  # L15 create batch and open
+ (77.46, [(172.67, 175.83), (177.73, 181.6)]),             # L16 longer quote may not fit
+ (81.34, [(181.6, 184.0), (189.0, 190.73)]),               # L17 check longest quote
+ (87.26, [(232.8, 233.8), (236.3, 240.73)]),               # L18 review pages
+ (90.8,  [(242.43, 245.5)]),                               # L19 download PNG
+ (96.42, [(245.5, 247.1), (248.1, 250.03), (252.27, 253.5)]),  # L20 zip
+ (END,   [(253.5, 255.33), (262.4, 264.1), (265.0, 265.97)]),  # L21 closing
 ]
 segs, prev_end, o0 = [], None, 0.0
 for o1, pieces in G:
@@ -44,7 +41,7 @@ for o1, pieces in G:
         prev_end, t = p[1], end
     print(f"{o0:6.2f}-{o1:6.2f} {[(round((s['src_end']-s['src_start'])/(s['out_end']-s['out_start']),2)) for s in segs[-len(pieces):]]}")
     o0 = o1
-plan = {"output": {"duration": END, "fps": 30, "width": 3420, "height": 1922}, "segments": segs, "zooms": [],
+plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
         "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)

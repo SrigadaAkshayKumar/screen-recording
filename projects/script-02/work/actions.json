@@ -1,0 +1,180 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 265.967
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 9.5,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Create a design dialog",
+   "result": "Instagram post dialog opens",
+   "t_result_visible": 10.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 25.2,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "background colour swatch",
+   "result": "page turns cyan",
+   "t_result_visible": 25.7,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 33,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Add a text box",
+   "result": "large quote text box",
+   "t_result_visible": 33.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 52,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "second text box",
+   "result": "small author text box",
+   "t_result_visible": 52.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 75.6,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Apps > Bulk create",
+   "result": "Bulk create panel",
+   "t_result_visible": 76.1,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 84,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Enter data manually",
+   "result": "data table",
+   "t_result_visible": 84.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 95.4,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "column header",
+   "result": "Quote column",
+   "t_result_visible": 95.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 110,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "paste quote row",
+   "result": "row filled",
+   "t_result_visible": 110.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 142.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Match and fill fields",
+   "result": "panel shows Quote/Author",
+   "t_result_visible": 143.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 148.4,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Match data on text box",
+   "result": "column chooser",
+   "t_result_visible": 148.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 165.2,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Preview",
+   "result": "design 1/2, 2/2",
+   "t_result_visible": 165.7,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 218.4,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Create 1 design",
+   "result": "batch created",
+   "t_result_visible": 218.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 226.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "View design",
+   "result": "pages open",
+   "t_result_visible": 227.3,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 243.6,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Download",
+   "result": "PNG export dialog",
+   "t_result_visible": 244.1,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 254.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Download",
+   "result": "png files saved",
+   "t_result_visible": 255.3,
+   "confidence": "low"
+  }
+ ],
+ "junk": []
+}
