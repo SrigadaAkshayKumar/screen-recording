@@ -1,34 +1,32 @@
-"""Hand-built plan for script-11 (printable calendar in Canva, 464 s recording, 99.056 s voiceover, no zooms: baked recorder zoom).
+"""Hand-built plan for script-11 (Canva website sections, 198.8 s recording, 103.05 s voiceover, no zooms: baked recorder zoom).
 One group of source pieces per narration line (start = line start); pieces come from freezedetect moving windows."""
 import json
 P = 'projects/script-11/work/'
-END = 99.056
-# (line out_start, [(src_start, src_end), ...])
+END = 103.05
 L = [
- (0.0,   [(299.8, 307.74)]),                         # L1 intro: finished calendar with photo
- (7.94,  [(9.73, 11.93)]),                           # L2 size dialog
- (9.9,   [(13.83, 16.4), (18.23, 21.3)]),            # L3 90x120 mm
- (16.4,  [(23.83, 25.1), (30.83, 33.13)]),           # L4 create custom
- (19.44, [(61.63, 63.8), (75.0, 77.3)]),             # L5 search templates
- (23.16, [(92.1, 94.8)]),                            # L6 simple layout
- (25.88, [(101.37, 102.63), (103.63, 105.0), (106.0, 108.83), (114.17, 116.5)]),  # L7 copy/paste
- (32.18, [(117.0, 121.33)]),                         # L8 group/resize
- (35.7,  [(125.0, 128.03), (129.47, 130.97)]),       # L9 position
- (40.36, [(131.9, 133.6)]),                          # L10 month/year
- (42.04, [(134.0, 136.0)]),                          # L11 weekday headings
- (43.86, [(138.8, 141.57), (147.77, 149.33)]),       # L12 first day
- (48.86, [(150.23, 153.03), (154.4, 157.0)]),        # L13 text boxes
- (53.92, [(163.13, 165.0), (296.0, 297.4)]),         # L14 heading + photo
- (57.2,  [(171.7, 174.5), (318.67, 321.5)]),         # L15 font
- (61.78, [(346.0, 350.2)]),                          # L16 contrast
- (65.96, [(187.3, 189.7)]),                          # L17
- (68.36, [(220.0, 225.2)]),                          # L18 month name
- (73.56, [(263.97, 266.7), (268.5, 269.9)]),         # L19 verify grid
- (77.96, [(391.5, 396.96)]),                         # L20 duplicate
- (83.42, [(414.5, 417.1)]),                          # L21 download PDF
- (86.0,  [(419.87, 422.5)]),                         # L22 print
- (88.66, [(432.37, 434.7), (437.87, 440.27), (449.67, 452.13)]),  # L23
- (95.72, [(453.5, 456.84)]),                         # L24
+ (0.0,   [(178.63, 185.2)]),                         # L1 intro: finished live site
+ (6.58,  [(6.0, 11.2)]),                             # L2 search 'website', results
+ (11.82, [(11.2, 14.27), (19.9, 21.9)]),             # L3 website template opens
+ (16.76, [(22.0, 27.17), (31.5, 32.7)]),             # L4 top section / heading
+ (23.42, [(44.0, 47.4)]),                            # L5 replace image
+ (26.8,  [(71.0, 74.3)]),                            # L6 bottom: Add section
+ (30.1,  [(63.53, 66.53), (68.67, 69.57), (74.3, 75.4)]),  # L7 second section
+ (34.88, [(75.4, 78.4)]),                            # L8 more sections
+ (37.8,  [(58.57, 59.83), (107.5, 110.0)]),          # L9 fonts / button styles
+ (41.28, [(139.0, 142.8), (143.67, 146.0)]),         # L10 structure
+ (47.4,  [(113.37, 115.0), (117.43, 119.37), (120.83, 122.37)]),  # L11 link control
+ (51.82, [(123.4, 128.3)]),                          # L12 test links
+ (56.38, [(131.8, 135.7)]),                          # L13 open Preview
+ (60.24, [(146.0, 152.03)]),                         # L14 check order / mobile
+ (65.84, [(153.63, 155.13), (156.77, 158.0)]),       # L15
+ (68.46, [(93.17, 93.97), (94.97, 99.47)]),          # L16 add section vs page
+ (73.26, [(71.5, 74.5)]),                            # L17 sections
+ (76.3,  [(88.0, 90.3)]),                            # L18 another page
+ (78.62, [(186.0, 186.8), (187.6, 191.33)]),         # L19 single page, scrolling
+ (84.42, [(158.0, 162.07), (168.23, 169.1)]),        # L20 Publish dropdown
+ (88.86, [(171.0, 173.5), (174.5, 175.6)]),  # L21 settings
+ (93.16, [(171.5, 173.5), (178.63, 180.5)]),         # L22 domain
+ (97.6,  [(192.23, 197.7)]),                         # L23 live site
 ]
 segs, prev = [], None
 for i, (o0, pieces) in enumerate(L):

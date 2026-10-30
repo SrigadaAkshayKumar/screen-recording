@@ -1,0 +1,237 @@
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 198.8
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 6.1,
+   "x": 960,
+   "y": 540,
+   "kind": "type",
+   "target": "Canva search box (typing 'website')",
+   "result": "search suggestions open",
+   "t_result_visible": 6.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 15.7,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "website template result",
+   "result": "template opens (loading 16-20 s)",
+   "t_result_visible": 21.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 27.3,
+   "x": 960,
+   "y": 540,
+   "kind": "type",
+   "target": "heading text in template",
+   "result": "name replaced with 'John wick'",
+   "t_result_visible": 31.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A4",
+   "t_click": 40.7,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Uploads panel",
+   "result": "uploaded photos listed",
+   "t_result_visible": 42.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A5",
+   "t_click": 46.2,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "photo placeholder",
+   "result": "placeholder replaced by new portrait",
+   "t_result_visible": 48.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "t_click": 57.0,
+   "x": 960,
+   "y": 540,
+   "kind": "type",
+   "target": "subtitle text",
+   "result": "subtitle edited to 'Video editor'",
+   "t_result_visible": 60.9,
+   "confidence": "low"
+  },
+  {
+   "id": "A7",
+   "t_click": 66.4,
+   "x": 960,
+   "y": 540,
+   "kind": "scroll",
+   "target": "design page",
+   "result": "scrolls down through sections",
+   "t_result_visible": 69.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A8",
+   "t_click": 72.5,
+   "x": 960,
+   "y": 540,
+   "kind": "scroll",
+   "target": "bottom of design",
+   "result": "'+ Add section' visible under last section",
+   "t_result_visible": 74.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A9",
+   "t_click": 80.0,
+   "x": 960,
+   "y": 540,
+   "kind": "type",
+   "target": "Elements search 'contact'",
+   "result": "contact graphics results",
+   "t_result_visible": 85.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A10",
+   "t_click": 88.2,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "green phone icon",
+   "result": "icon added to the design",
+   "t_result_visible": 92.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A11",
+   "t_click": 107.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Contact button text",
+   "result": "red CONTACT button styled",
+   "t_result_visible": 110.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A12",
+   "t_click": 115.5,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "right-click menu > Link",
+   "result": "link field opens",
+   "t_result_visible": 119.7,
+   "confidence": "low"
+  },
+  {
+   "id": "A13",
+   "t_click": 126.0,
+   "x": 960,
+   "y": 540,
+   "kind": "type",
+   "target": "link field",
+   "result": "URL pasted, Done clicked",
+   "t_result_visible": 129.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A14",
+   "t_click": 136.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Preview button",
+   "result": "preview panel opens (desktop/mobile)",
+   "t_result_visible": 138.6,
+   "confidence": "low"
+  },
+  {
+   "id": "A15",
+   "t_click": 144.0,
+   "x": 960,
+   "y": 540,
+   "kind": "scroll",
+   "target": "mobile preview",
+   "result": "scrolls through all sections",
+   "t_result_visible": 150.0,
+   "confidence": "low"
+  },
+  {
+   "id": "A16",
+   "t_click": 159.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Publish button",
+   "result": "publish panel opens",
+   "t_result_visible": 160.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A17",
+   "t_click": 170.1,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Settings in publish panel",
+   "result": "website settings shown",
+   "t_result_visible": 171.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A18",
+   "t_click": 174.5,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "View website",
+   "result": "live website opens in new tab",
+   "t_result_visible": 176.4,
+   "confidence": "low"
+  },
+  {
+   "id": "A19",
+   "t_click": 178.6,
+   "x": 960,
+   "y": 540,
+   "kind": "scroll",
+   "target": "live website",
+   "result": "scrolls top to bottom",
+   "t_result_visible": 191.0,
+   "confidence": "low"
+  }
+ ],
+ "junk": [
+  {
+   "start": 0,
+   "end": 5.9,
+   "reason": "static opening",
+   "ff": true
+  },
+  {
+   "start": 162.07,
+   "end": 168.23,
+   "reason": "publishing wait, cursor only",
+   "ff": true
+  }
+ ]
+}
