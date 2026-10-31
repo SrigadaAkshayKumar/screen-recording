@@ -1,42 +1,50 @@
-"""Hand-budgeted plan for script-10 (205.7 s recording, 105.05 s voiceover, 3420x1922; pieces from freezedetect moving windows).
-Recorder zoom is baked into the footage -> no zooms/ripples. One group of pieces per narration interval."""
-import json, os
-here = os.path.dirname(os.path.abspath(__file__))
-DUR = 105.047
-# (interval start in output, [source windows])
+"""Hand-built plan for script-10 (261.667 s recording, 89.118 s voiceover, no clicks log, no zooms/ripples).
+Pieces come from freezedetect (n=0.003, d=0.8) moving windows; one group per narration line, starting on the line's start.
+A piece may carry a 3rd value: a fixed output duration (used for the short static opening shots, played at 1x)."""
+import json
+P = 'projects/script-10/work/'
+END = 95.016
 G = [
- (0.0,   [(194.57, 198.0), (12.27, 14.77)]),
- (6.1,   [(15.2, 23.7)]),
- (14.06, [(27.33, 29.2), (30.2, 31.23), (41.6, 44.43)]),
- (19.9,  [(45.47, 47.5), (57.6, 61.2)]),
- (25.74, [(63.67, 70.67)]),
- (33.0,  [(126.83, 132.3)]),
- (38.56, [(85.27, 95.5)]),
- (47.94, [(166.83, 170.8), (171.6, 174.6)]),
- (54.48, [(175.0, 182.5)]),
- (61.76, [(152.9, 161.0)]),
- (69.84, [(105.7, 110.2)]),
- (74.32, [(110.4, 112.13), (113.07, 115.73), (119.17, 121.5)]),
- (81.08, [(183.0, 190.4)]),
- (87.38, [(148.03, 151.65)]),
- (91.0,  [(136.63, 141.4)]),
- (95.76, [(194.57, 201.97), (203.77, 205.67)]),
+ (0, 5.96, [(5.0, 7.4, 2.4), (12.7, 16.0)]),
+ (5.96, 9.54, [(16.0, 19.0)]),
+ (9.54, 15.82, [(23.5, 27.97), (36.1, 37.9)]),
+ (15.82, 17.96, [(39.3, 40.9)]),
+ (17.96, 24.44, [(40.9, 42.4), (43.57, 45.1), (46.03, 47.9)]),
+ (24.44, 31.06, [(57.2, 63.7)]),
+ (31.06, 33.14, [(13.0, 15.1)]),
+ (33.14, 37.3, [(87.1, 91.77)]),
+ (37.3, 39.3, [(100.93, 103.27)]),
+ (39.3, 45.66, [(105.4, 106.37), (109.83, 111.07), (131.5, 133.07), (134.23, 135.5)]),
+ (45.66, 48.62, [(112.4, 115.4)]),
+ (48.62, 52.2, [(115.4, 119.27)]),
+ (52.2, 57.38, [(123.33, 126.8), (136.2, 138.37)]),
+ (57.38, 59.52, [(168.43, 170.6)]),
+ (59.52, 65.44, [(172.13, 178.05)]),
+ (65.44, 69.96, [(181.87, 186.4)]),
+ (69.96, 74.38, [(194.0, 198.4)]),
+ (74.38, 85.68, [(198.4, 209.2)]),
+ (85.68, 88.9, [(189.6, 192.57)]),
+ (88.9, 91.82, [(243.2, 246.1)]),
+ (91.82, END, [(224.0, 227.2)]),
 ]
-segs, first = [], True
-for gi, (t0, wins) in enumerate(G):
-    t1 = G[gi + 1][0] if gi + 1 < len(G) else DUR
-    tot = sum(b - a for a, b in wins)
-    sp = tot / (t1 - t0)
-    print(f"group {gi} {t0}-{t1} speed {sp:.2f}")
-    t = t0
-    for wi, (a, b) in enumerate(wins):
-        d = (b - a) / sp
-        e = t1 if wi == len(wins) - 1 else t + d
-        s = {"mode": "speed", "src_start": a, "src_end": b, "out_start": round(t, 3), "out_end": round(e, 3)}
-        if not first: s["xfade"] = True
-        first = False
-        segs.append(s); t = e
-plan = {"output": {"duration": DUR, "fps": 30.0, "width": 3420, "height": 1922}, "segments": segs,
-        "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [], "style": {},
-        "notes": ["hand-built by hand_plan.py; no zooms/ripples (recorder zoom is baked into the footage)"]}
-json.dump(plan, open(os.path.join(here, "plan.json"), "w"), indent=1)
+segs, prev_end = [], None
+for o0, o1, pieces in G:
+    fixed = sum(p[2] for p in pieces if len(p) > 2)
+    free = [p for p in pieces if len(p) == 2]
+    sp = sum(b - a for a, b in free) / (o1 - o0 - fixed)
+    t = o0
+    for k, p in enumerate(pieces):
+        a, b = p[0], p[1]
+        dur = p[2] if len(p) > 2 else (b - a) / sp
+        end = o1 if k == len(pieces) - 1 else t + dur
+        s = {"src_start": a, "src_end": b, "out_start": t, "out_end": end, "mode": "speed"}
+        if prev_end is not None and abs(a - prev_end) > 0.002:
+            s["xfade"] = True
+        segs.append(s); prev_end = b; t = end
+    print(f"{o0:6.2f}-{o1:6.2f} {sp:.2f}x {pieces}")
+plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
+        "ripples": [], "intro": None, "outro": None, "sync": [],
+        "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
+json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
+json.dump({"recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 261.667}, "sync": {"source": "frames"},
+           "actions": [], "junk": []}, open(P + 'actions.json', 'w'), indent=1)
