@@ -1,23 +1,23 @@
-This tutorial shows you how to build a Canva website with several sections that visitors scroll through on one page.
-From Canva's homepage, choose a website template or create a blank website design.
-Starting with the website format gives you the correct web layout and publishing tools.
-Build the top section with a clear heading, a short introduction and one main action, such as a contact button.
-Replace the template images and colours with your own content.
-At the bottom of the design, click Add section.
-Use this second section for an introduction, services or a featured project.
-Continue adding sections for the remaining information.
-Keep the spacing, fonts and button styles consistent.
-A simple structure could be introduction, about, services, examples and contact.
-Select your button or text and use the link control to add its destination.
-Test each link rather than leaving the template's original links in place.
-Open Preview and inspect the desktop and mobile layouts.
-Check the order of the content, the text size and whether images or buttons overlap.
+This tutorial shows you how to export a custom icon from Canva as an SVG that stays sharp when resized.
+Open the icon design.
+For a clean example, use an icon you created from simple shapes or an original vector file you uploaded.
+Keep only the artwork you want in the export.
+Remove extra text, photographs and background objects, then centre the icon on a page with suitable padding.
+Click Share and choose Download.
+Open File Type and select SVG.
+SVG downloading requires an eligible plan, so check the upgrade indicator if the option is locked.
+Enable transparent background if offered, select the icons page and click Download.
+Open the saved SVG in a browser and zoom in.
+Its vector shapes should remain sharp.
+You can also open it in a vector editor to inspect the paths and check whether the result suits your project.
 Here's the part many tutorials skip.
-Add section and Add page do different jobs in the current website editor.
-Sections build the scrollable content within one page.
-Adding another page creates another website page.
-For this tutorial, keep your content inside a single page with multiple sections.
-Before publishing, open the dropdown beside Publish and choose Settings.
-Review the website address, mobile options and page information.
-Choose an available Canva domain or another domain option your account supports.
-Click Publish, open the live website and scroll from top to bottom to check the finished result.
+Saving a blurry PNG inside an SVG file does not automatically trace it into clean vector paths.
+Start with vector artwork when you need an icon that can scale substantially.
+If your design contains several icons on one page,
+move each icon into its own small design or page before exporting.
+Otherwise the SVG can include the whole surrounding layout.
+Canva may also restrict downloading an unmodified premium stock element by itself.
+Use your own original artwork for this workflow,
+rather than treating SVG export as a way to extract stock assets.
+Finally, test the icon on both light and dark backgrounds
+to make sure its colours and transparent areas look correct.
