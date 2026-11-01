@@ -1,40 +1,37 @@
-"""Hand-built plan for script-04 (new 161 s take, 86.61 s voiceover, 1920x1080). One group per narration
-line (starting on its lines.json start), pieces from non-still footage (scenes.json stills avoided or
-fast-forwarded <=1.6x), 0.8-1.3x. Piece = (src_a, src_b) or (src_a, src_b, out_len). No holds/zooms."""
+"""Hand-built plan for script-04 (187 s white-edges take, 94.087 s voiceover, 1920x1080). One group per narration
+line (starting on its lines.json start); pieces come from non-static footage (freezedetect n=0.002 d=0.8 gaps).
+Piece = (src_a, src_b). No holds/zooms."""
 import json
 P = 'projects/script-04/work/'
-END = 86.61
-G = [
- (0, 5.98, [(144.0, 150.0)]),                                   # 1 intro: finished MP4 playing (borrowed)
- (5.98, 8.88, [(14.0, 17.0)]),                                  # 2 click Preview, spinner
- (8.88, 15.34, [(17.0, 23.5)]),                                 # 3 preview playing
- (15.34, 19.34, [(35.5, 40.0)]),                                # 4 Share -> panel
- (19.34, 22.9, [(43.5, 47.5)]),                                 # 5 File type menu
- (22.9, 26.78, [(47.5, 51.5)]),                                 # 6 (no pages menu in take) MP4 selected
- (26.78, 31.74, [(52.97, 57.4), (59.6, 60.6)]),                 # 7 borrowed: panel settings
- (31.74, 39.06, [(60.9, 64.8, 2.4), (64.8, 69.45, 4.92)]),      # 8 borrowed: panel
- (39.06, 42.62, [(54.0, 57.4)]),                                # 9 quality
- (42.62, 49.38, [(55.0, 57.4), (59.6, 60.9), (64.8, 69.4)]),    # 10 notice in panel
- (49.38, 52.48, [(69.0, 72.2)]),                                # 11 click Download
- (52.48, 55.24, [(72.2, 75.0)]),                                # 12 downloading toast
- (55.24, 57.42, [(75.0, 77.2)]),                                # 13
- (57.42, 59.98, [(77.2, 80.0)]),                                # 14
- (59.98, 63.74, [(116.0, 119.8)]),                              # 15 share link panel
- (63.74, 70.62, [(119.8, 127.0)]),                              # 16 copy link
- (70.62, 75.88, [(138.9, 144.0)]),                              # 17 explorer -> VLC
- (75.88, 82.2, [(111.0, 117.0)]),                               # 18 share button (borrowed)
- (82.2, END, [(152.0, 156.5)]),                                 # 19 playable result
+END = 94.087
+S = [0, 8.68, 12.32, 17.52, 23.1, 26.6, 31.16, 35.16, 42.92, 48.48, 52.02, 55.44, 63.06, 65.54, 69.06, 75.62, 80.9, 87.28, END]
+W = [
+ [(10.8, 16.4), (21.0, 24.0)],      # 1 intro: open home -> design
+ [(24.0, 26.0), (26.9, 28.6)],      # 2 open design, zoom
+ [(30.0, 32.4), (33.2, 36.0)],      # 3 select background
+ [(64.0, 69.6)],                    # 4 right-click menu
+ [(53.0, 56.5)],                    # 5 enlarge
+ [(168.4, 173.0)],                  # 6 rectangle check
+ [(177.0, 181.0)],                  # 7 download panel
+ [(92.8, 100.6)],                   # 8 test image downloaded
+ [(181.5, 187.0)],                  # 9 print: download panel
+ [(125.2, 128.7)],                  # 10 share/download
+ [(130.0, 133.2)],                  # 11 PDF type
+ [(134.0, 136.6), (141.8, 144.8), (145.7, 147.0)],  # 12 PDF download
+ [(154.6, 157.2)],                  # 13
+ [(158.5, 162.0)],                  # 14
+ [(162.0, 164.6), (118.7, 122.7)],  # 15
+ [(72.8, 78.0)],                    # 16
+ [(36.0, 40.8), (44.9, 46.5)],      # 17
+ [(173.0, 176.9), (46.5, 47.1), (51.1, 53.0)],      # 18
 ]
 segs, prev_end = [], None
-for o0, o1, pieces in G:
-    tot = sum(p[2] if len(p) > 2 else 0 for p in pieces)
-    free = [p for p in pieces if len(p) == 2]
-    sp = sum(b - a for a, b in free) / ((o1 - o0) - tot)
+for i, pieces in enumerate(W):
+    o0, o1 = S[i], S[i + 1]
+    sp = sum(b - a for a, b in pieces) / (o1 - o0)
     t = o0
-    for k, p in enumerate(pieces):
-        a, b = p[:2]
-        ln = p[2] if len(p) > 2 else (b - a) / sp
-        end = o1 if k == len(pieces) - 1 else t + ln
+    for k, (a, b) in enumerate(pieces):
+        end = o1 if k == len(pieces) - 1 else t + (b - a) / sp
         s = {"src_start": a, "src_end": b, "out_start": round(t, 3), "out_end": round(end, 3), "mode": "speed"}
         if prev_end is not None and abs(a - prev_end) > 0.002:
             s["xfade"] = True
