@@ -1,30 +1,30 @@
-"""Hand-built plan for script-08 (Canva stickman take, 377.7 s, 1920x1080, baked recorder zoom): no zooms/ripples.
-One group per narration line; pieces from freezedetect moving windows (n=0.003,d=0.8). (a,b) scaled; (a,b,dur) fixed duration."""
+"""Hand-built plan for script-08 (Canva internal-links take, 210.7 s, 1920x1080, baked recorder zoom): no zooms/ripples.
+One group per narration line, starting on its lines.json start; pieces from freezedetect moving windows (n=0.002,d=0.8).
+(a,b) scaled; (a,b,dur) fixed output duration."""
 import json
 P = 'projects/script-08/work/'
-END = 90.929
+END = 100.032
 G = [
- (0, 7.5, [(2.1, 5.07), (10.17, 12.93)]),                       # L1 intro: finished design
- (7.5, 10.7, [(14.5, 17.03), (17.93, 19.17)]),                  # L2 create video design
- (10.7, 15.4, [(33.0, 37.4)]),                                  # L3 elements search
- (15.4, 19.5, [(37.4, 41.5)]),                                  # L4 results, choose graphic
- (19.5, 25.4, [(42.0, 45.77), (47.77, 50.5)]),                  # L5 consistent character (borrowed browsing)
- (25.4, 27.8, [(62.87, 65.27)]),                                # L6 place left
- (27.8, 33.2, [(73.27, 78.67)]),                                # L7 ground + object (table search)
- (33.2, 37.5, [(315.2, 319.5)]),                                # L8 animate > create animation
- (37.5, 41.4, [(324.77, 328.33)]),                              # L9 drag
- (41.4, 47.6, [(105.0, 108.23), (109.03, 112.03)]),             # L10 movement settings
- (47.6, 50.35, [(133.0, 135.75)]),                              # L11 text bubble
- (50.35, 54.3, [(216.33, 217.43), (218.23, 218.77), (220.23, 221.63), (224.43, 225.17)]),  # L12 timeline
- (54.3, 56.26, [(261.07, 263.0)]),                              # L13 leave time
- (56.26, 59.5, [(228.77, 230.17), (230.17, 232.0)]),            # L14 add scene
- (59.5, 64.3, [(235.0, 239.8)]),                                # L15 matching pose
- (64.3, 67.1, [(244.73, 247.5)]),                               # L16 part tutorials skip
- (67.1, 72.7, [(329.67, 332.43), (333.3, 335.87), (339.27, 340.9)]),  # L17 static slides
- (72.7, 76.0, [(41.5, 44.8)]),                                  # L18 animated graphic (borrowed)
- (76.0, 81.5, [(272.97, 275.27), (276.5, 278.27), (280.4, 281.7)]),  # L19 static poses
- (81.5, 88.2, [(291.77, 294.07), (354.43, 356.07), (357.23, 360.5)]),  # L20 preview/audio
- (88.2, END, [(367.9, 370.6)]),                                 # L21 download
+ (0, 8.34, [(6.0, 7.9, 2.4), (14.03, 16.77), (17.57, 20.8)]),   # L1 intro (static home, loading, design)
+ (8.34, 10.42, [(20.8, 22.9)]),                                 # L2 destination (design view)
+ (10.42, 13.96, [(22.9, 26.4)]),                                # L3 anchor link (same page)
+ (13.96, 16.5, [(26.4, 28.4)]),                                 # L4 page link
+ (16.5, 24.44, [(28.4, 33.13), (33.13, 34.77, 1.9)]),           # L5 help docs (design browsing)
+ (24.44, 27.16, [(34.77, 36.37), (38.1, 39.2)]),                # L6 select contact button
+ (27.16, 32.42, [(39.2, 46.2)]),                                # L7 toolbar more > Link
+ (32.42, 36.66, [(47.5, 49.5), (53.5, 56.0)]),                  # L8 pages list, Done
+ (36.66, 39.38, [(101.73, 104.03)]),                            # L9 Preview
+ (39.38, 44.02, [(112.73, 117.67)]),                            # L10 click contact in preview -> page opens
+ (44.02, 51.24, [(117.67, 123.5)]),                              # L11 contact details on page
+ (51.24, 57.66, [(104.4, 110.23)]),                             # L12 show navigation toggle
+ (57.66, 62.52, [(123.5, 128.47)]),            # L13 published/older site test
+ (62.52, 69.94, [(135.63, 142.0)]),                              # L14 older designs (re-select contact, link menu)
+ (69.94, 72.52, [(158.7, 161.2)]),                              # L15 part tutorials skip
+ (72.52, 78.32, [(142.0, 148.4)]),                              # L16 typing in link box
+ (78.32, 81.48, [(163.47, 166.4)]),                             # L17 target identifier
+ (81.48, 92.92, [(166.4, 176.4), (177.4, 178.6)]),              # L18 page navigation / mobile preview
+ (92.92, 97.26, [(188.9, 190.53), (192.77, 195.5)]),            # L19 publish
+ (97.26, END, [(201.07, 203.9)]),                               # L20 landing on published site
 ]
 segs, prev_end = [], None
 for o0, o1, pieces in G:
