@@ -1,0 +1,10 @@
+{"recording":{"width":3420,"height":1922,"fps":30,"duration":133.6},
+ "sync":{"clicks_offset":0,"source":"frames"},
+ "actions":[
+ {"id":"A1","t_click":7.7,"x":900,"y":400,"kind":"click","target":"Home / Create a design","result":"Canva home opens","t_result_visible":9.5,"confidence":"low"},
+ {"id":"A2","t_click":44.0,"x":1500,"y":500,"kind":"click","target":"font menu in toolbar","result":"font panel opens","t_result_visible":44.6,"confidence":"low"},
+ {"id":"A3","t_click":66.0,"x":1000,"y":700,"kind":"click","target":"League Spartan font","result":"heading font replaced, Change all offered","t_result_visible":68.0,"confidence":"low"},
+ {"id":"A4","t_click":70.8,"x":1000,"y":1700,"kind":"click","target":"Change all","result":"font changed across design","t_result_visible":71.5,"confidence":"low"},
+ {"id":"A5","t_click":110.0,"x":1000,"y":900,"kind":"click","target":"Styles font set","result":"font set applied to all pages","t_result_visible":114.0,"confidence":"low"},
+ {"id":"A6","t_click":124.4,"x":2900,"y":200,"kind":"click","target":"Share / Download","result":"download dialog, PDF downloaded","t_result_visible":131.0,"confidence":"low"}],
+ "junk":[]}

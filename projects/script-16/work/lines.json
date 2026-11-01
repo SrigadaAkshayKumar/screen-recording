@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to duplicate a complete video page in an older Canva project and how to repeat a scene in the current timeline editor.",
+    "text": "This tutorial shows you how to update typography across a multi-page Canva design without changing every text box individually.",
     "start": 0.0,
-    "end": 7.72,
+    "end": 7.18,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      26
+      19
     ],
     "words": [
       {
@@ -22,1704 +22,1689 @@
         "i": 1,
         "word": "tutorial",
         "start": 0.22,
-        "end": 0.58
+        "end": 0.64
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.58,
-        "end": 1.0
+        "start": 0.64,
+        "end": 1.08
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.0,
-        "end": 1.2
+        "start": 1.08,
+        "end": 1.3
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.2,
-        "end": 1.34
+        "start": 1.3,
+        "end": 1.44
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.34,
-        "end": 1.56
+        "start": 1.44,
+        "end": 1.66
       },
       {
         "i": 6,
-        "word": "duplicate",
-        "start": 1.56,
-        "end": 1.86
+        "word": "update",
+        "start": 1.66,
+        "end": 2.04
       },
       {
         "i": 7,
-        "word": "a",
-        "start": 1.86,
-        "end": 2.24
+        "word": "typography",
+        "start": 2.04,
+        "end": 2.72
       },
       {
         "i": 8,
-        "word": "complete",
-        "start": 2.24,
-        "end": 2.6
+        "word": "across",
+        "start": 2.72,
+        "end": 3.16
       },
       {
         "i": 9,
-        "word": "video",
-        "start": 2.6,
-        "end": 2.96
+        "word": "a",
+        "start": 3.16,
+        "end": 3.4
       },
       {
         "i": 10,
-        "word": "page",
-        "start": 2.96,
-        "end": 3.34
+        "word": "multi",
+        "start": 3.4,
+        "end": 3.64
       },
       {
         "i": 11,
-        "word": "in",
-        "start": 3.34,
-        "end": 3.56
+        "word": "-page",
+        "start": 3.64,
+        "end": 4.0
       },
       {
         "i": 12,
-        "word": "an",
-        "start": 3.56,
-        "end": 3.68
+        "word": "Canva",
+        "start": 4.0,
+        "end": 4.38
       },
       {
         "i": 13,
-        "word": "older",
-        "start": 3.68,
-        "end": 4.02
+        "word": "design",
+        "start": 4.38,
+        "end": 4.76
       },
       {
         "i": 14,
-        "word": "Canva",
-        "start": 4.02,
-        "end": 4.34
+        "word": "without",
+        "start": 4.76,
+        "end": 5.1
       },
       {
         "i": 15,
-        "word": "project",
-        "start": 4.34,
-        "end": 4.7
+        "word": "changing",
+        "start": 5.1,
+        "end": 5.56
       },
       {
         "i": 16,
-        "word": "and",
-        "start": 4.7,
-        "end": 5.24
+        "word": "every",
+        "start": 5.56,
+        "end": 6.04
       },
       {
         "i": 17,
-        "word": "how",
-        "start": 5.24,
-        "end": 5.4
+        "word": "text",
+        "start": 6.04,
+        "end": 6.34
       },
       {
         "i": 18,
-        "word": "to",
-        "start": 5.4,
-        "end": 5.54
+        "word": "box",
+        "start": 6.34,
+        "end": 6.6
       },
       {
         "i": 19,
-        "word": "repeat",
-        "start": 5.54,
-        "end": 5.8
-      },
-      {
-        "i": 20,
-        "word": "a",
-        "start": 5.8,
-        "end": 5.96
-      },
-      {
-        "i": 21,
-        "word": "scene",
-        "start": 5.96,
-        "end": 6.18
-      },
-      {
-        "i": 22,
-        "word": "in",
-        "start": 6.18,
-        "end": 6.4
-      },
-      {
-        "i": 23,
-        "word": "the",
-        "start": 6.4,
-        "end": 6.52
-      },
-      {
-        "i": 24,
-        "word": "current",
-        "start": 6.52,
-        "end": 6.84
-      },
-      {
-        "i": 25,
-        "word": "timeline",
-        "start": 6.84,
-        "end": 7.3
-      },
-      {
-        "i": 26,
-        "word": "editor.",
-        "start": 7.3,
-        "end": 7.72
+        "word": "individually.",
+        "start": 6.6,
+        "end": 7.18
       }
     ]
   },
   {
     "id": 2,
-    "text": "Open your video and look at the bottom of the editor.",
-    "start": 8.36,
-    "end": 10.5,
+    "text": "First, make a copy of the design if you want to compare the new typography with the original.",
+    "start": 8.12,
+    "end": 12.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      27,
+      20,
       37
     ],
     "words": [
       {
+        "i": 20,
+        "word": "First,",
+        "start": 8.12,
+        "end": 8.3
+      },
+      {
+        "i": 21,
+        "word": "make",
+        "start": 8.62,
+        "end": 8.74
+      },
+      {
+        "i": 22,
+        "word": "a",
+        "start": 8.74,
+        "end": 8.96
+      },
+      {
+        "i": 23,
+        "word": "copy",
+        "start": 8.96,
+        "end": 9.1
+      },
+      {
+        "i": 24,
+        "word": "of",
+        "start": 9.1,
+        "end": 9.3
+      },
+      {
+        "i": 25,
+        "word": "the",
+        "start": 9.3,
+        "end": 9.42
+      },
+      {
+        "i": 26,
+        "word": "design",
+        "start": 9.42,
+        "end": 9.78
+      },
+      {
         "i": 27,
-        "word": "Open",
-        "start": 8.36,
-        "end": 8.56
+        "word": "if",
+        "start": 9.78,
+        "end": 9.96
       },
       {
         "i": 28,
-        "word": "your",
-        "start": 8.56,
-        "end": 8.72
+        "word": "you",
+        "start": 9.96,
+        "end": 10.06
       },
       {
         "i": 29,
-        "word": "video",
-        "start": 8.72,
-        "end": 8.94
+        "word": "want",
+        "start": 10.06,
+        "end": 10.18
       },
       {
         "i": 30,
-        "word": "and",
-        "start": 8.94,
-        "end": 9.26
+        "word": "to",
+        "start": 10.18,
+        "end": 10.32
       },
       {
         "i": 31,
-        "word": "look",
-        "start": 9.26,
-        "end": 9.4
+        "word": "compare",
+        "start": 10.32,
+        "end": 10.6
       },
       {
         "i": 32,
-        "word": "at",
-        "start": 9.4,
-        "end": 9.52
+        "word": "the",
+        "start": 10.6,
+        "end": 10.78
       },
       {
         "i": 33,
-        "word": "the",
-        "start": 9.52,
-        "end": 9.66
+        "word": "new",
+        "start": 10.78,
+        "end": 11.02
       },
       {
         "i": 34,
-        "word": "bottom",
-        "start": 9.66,
-        "end": 9.88
+        "word": "typography",
+        "start": 11.02,
+        "end": 11.66
       },
       {
         "i": 35,
-        "word": "of",
-        "start": 9.88,
-        "end": 10.08
+        "word": "with",
+        "start": 11.66,
+        "end": 12.1
       },
       {
         "i": 36,
         "word": "the",
-        "start": 10.08,
-        "end": 10.18
+        "start": 12.1,
+        "end": 12.22
       },
       {
         "i": 37,
-        "word": "editor.",
-        "start": 10.18,
-        "end": 10.5
+        "word": "original.",
+        "start": 12.22,
+        "end": 12.54
       }
     ]
   },
   {
     "id": 3,
-    "text": "The exact method depends on whether the project uses page thumbnails or the newer multitrack timeline.",
-    "start": 11.04,
-    "end": 16.12,
+    "text": "Select one heading and open the font menu.",
+    "start": 13.24,
+    "end": 15.58,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       38,
-      53
+      45
     ],
     "words": [
       {
         "i": 38,
-        "word": "The",
-        "start": 11.04,
-        "end": 11.16
+        "word": "Select",
+        "start": 13.24,
+        "end": 13.48
       },
       {
         "i": 39,
-        "word": "exact",
-        "start": 11.16,
-        "end": 11.5
+        "word": "one",
+        "start": 13.48,
+        "end": 13.82
       },
       {
         "i": 40,
-        "word": "method",
-        "start": 11.5,
-        "end": 11.9
+        "word": "heading",
+        "start": 13.82,
+        "end": 14.04
       },
       {
         "i": 41,
-        "word": "depends",
-        "start": 11.9,
-        "end": 12.24
+        "word": "and",
+        "start": 14.04,
+        "end": 14.46
       },
       {
         "i": 42,
-        "word": "on",
-        "start": 12.24,
-        "end": 12.46
+        "word": "open",
+        "start": 14.46,
+        "end": 14.86
       },
       {
         "i": 43,
-        "word": "whether",
-        "start": 12.46,
-        "end": 12.58
+        "word": "the",
+        "start": 14.86,
+        "end": 15.04
       },
       {
         "i": 44,
-        "word": "the",
-        "start": 12.58,
-        "end": 12.8
+        "word": "font",
+        "start": 15.04,
+        "end": 15.22
       },
       {
         "i": 45,
-        "word": "project",
-        "start": 12.8,
-        "end": 13.04
-      },
-      {
-        "i": 46,
-        "word": "uses",
-        "start": 13.04,
-        "end": 13.42
-      },
-      {
-        "i": 47,
-        "word": "page",
-        "start": 13.42,
-        "end": 13.74
-      },
-      {
-        "i": 48,
-        "word": "thumbnails",
-        "start": 13.74,
-        "end": 14.22
-      },
-      {
-        "i": 49,
-        "word": "or",
-        "start": 14.22,
-        "end": 14.64
-      },
-      {
-        "i": 50,
-        "word": "the",
-        "start": 14.64,
-        "end": 14.78
-      },
-      {
-        "i": 51,
-        "word": "newer",
-        "start": 14.78,
-        "end": 15.12
-      },
-      {
-        "i": 52,
-        "word": "multitrack",
-        "start": 15.12,
-        "end": 15.66
-      },
-      {
-        "i": 53,
-        "word": "timeline.",
-        "start": 15.66,
-        "end": 16.12
+        "word": "menu.",
+        "start": 15.22,
+        "end": 15.58
       }
     ]
   },
   {
     "id": 4,
-    "text": "In a page-based project, select the page thumbnail you want to duplicate.",
-    "start": 16.82,
-    "end": 20.3,
+    "text": "Choose the replacement font.",
+    "start": 16.0,
+    "end": 17.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      54,
-      66
+      46,
+      49
     ],
     "words": [
       {
-        "i": 54,
-        "word": "In",
-        "start": 16.82,
-        "end": 17.02
+        "i": 46,
+        "word": "Choose",
+        "start": 16.0,
+        "end": 16.24
       },
       {
-        "i": 55,
-        "word": "a",
-        "start": 17.02,
-        "end": 17.12
-      },
-      {
-        "i": 56,
-        "word": "page",
-        "start": 17.12,
-        "end": 17.36
-      },
-      {
-        "i": 57,
-        "word": "-based",
-        "start": 17.36,
-        "end": 17.54
-      },
-      {
-        "i": 58,
-        "word": "project,",
-        "start": 17.54,
-        "end": 18.02
-      },
-      {
-        "i": 59,
-        "word": "select",
-        "start": 18.18,
-        "end": 18.4
-      },
-      {
-        "i": 60,
+        "i": 47,
         "word": "the",
-        "start": 18.4,
-        "end": 18.62
+        "start": 16.24,
+        "end": 16.46
       },
       {
-        "i": 61,
-        "word": "page",
-        "start": 18.62,
-        "end": 18.9
+        "i": 48,
+        "word": "replacement",
+        "start": 16.46,
+        "end": 16.86
       },
       {
-        "i": 62,
-        "word": "thumbnail",
-        "start": 18.9,
-        "end": 19.28
-      },
-      {
-        "i": 63,
-        "word": "you",
-        "start": 19.28,
-        "end": 19.52
-      },
-      {
-        "i": 64,
-        "word": "want",
-        "start": 19.52,
-        "end": 19.68
-      },
-      {
-        "i": 65,
-        "word": "to",
-        "start": 19.68,
-        "end": 19.86
-      },
-      {
-        "i": 66,
-        "word": "duplicate.",
-        "start": 19.86,
-        "end": 20.3
+        "i": 49,
+        "word": "font.",
+        "start": 16.86,
+        "end": 17.34
       }
     ]
   },
   {
     "id": 5,
-    "text": "Open its three-dot menu and choose Duplicate Page.",
-    "start": 20.94,
-    "end": 24.08,
+    "text": "If Canva displays a change all option for that font replacement, use it to update the matching font throughout the design.",
+    "start": 17.96,
+    "end": 24.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      67,
-      75
+      50,
+      70
     ],
     "words": [
       {
+        "i": 50,
+        "word": "If",
+        "start": 17.96,
+        "end": 18.16
+      },
+      {
+        "i": 51,
+        "word": "Canva",
+        "start": 18.16,
+        "end": 18.54
+      },
+      {
+        "i": 52,
+        "word": "displays",
+        "start": 18.54,
+        "end": 18.86
+      },
+      {
+        "i": 53,
+        "word": "a",
+        "start": 18.86,
+        "end": 19.08
+      },
+      {
+        "i": 54,
+        "word": "change",
+        "start": 19.08,
+        "end": 19.36
+      },
+      {
+        "i": 55,
+        "word": "all",
+        "start": 19.36,
+        "end": 19.68
+      },
+      {
+        "i": 56,
+        "word": "option",
+        "start": 19.68,
+        "end": 20.02
+      },
+      {
+        "i": 57,
+        "word": "for",
+        "start": 20.02,
+        "end": 20.24
+      },
+      {
+        "i": 58,
+        "word": "that",
+        "start": 20.24,
+        "end": 20.36
+      },
+      {
+        "i": 59,
+        "word": "font",
+        "start": 20.36,
+        "end": 20.62
+      },
+      {
+        "i": 60,
+        "word": "replacement,",
+        "start": 20.62,
+        "end": 21.12
+      },
+      {
+        "i": 61,
+        "word": "use",
+        "start": 21.54,
+        "end": 21.72
+      },
+      {
+        "i": 62,
+        "word": "it",
+        "start": 21.72,
+        "end": 21.88
+      },
+      {
+        "i": 63,
+        "word": "to",
+        "start": 21.88,
+        "end": 22.04
+      },
+      {
+        "i": 64,
+        "word": "update",
+        "start": 22.04,
+        "end": 22.4
+      },
+      {
+        "i": 65,
+        "word": "the",
+        "start": 22.4,
+        "end": 22.56
+      },
+      {
+        "i": 66,
+        "word": "matching",
+        "start": 22.56,
+        "end": 22.86
+      },
+      {
         "i": 67,
-        "word": "Open",
-        "start": 20.94,
-        "end": 21.24
+        "word": "font",
+        "start": 22.86,
+        "end": 23.22
       },
       {
         "i": 68,
-        "word": "its",
-        "start": 21.24,
-        "end": 21.42
+        "word": "throughout",
+        "start": 23.22,
+        "end": 23.46
       },
       {
         "i": 69,
-        "word": "three",
-        "start": 21.42,
-        "end": 21.74
+        "word": "the",
+        "start": 23.46,
+        "end": 23.7
       },
       {
         "i": 70,
-        "word": "-dot",
-        "start": 21.74,
-        "end": 21.92
-      },
-      {
-        "i": 71,
-        "word": "menu",
-        "start": 21.92,
-        "end": 22.28
-      },
-      {
-        "i": 72,
-        "word": "and",
-        "start": 22.28,
-        "end": 22.6
-      },
-      {
-        "i": 73,
-        "word": "choose",
-        "start": 22.6,
-        "end": 23.02
-      },
-      {
-        "i": 74,
-        "word": "Duplicate",
-        "start": 23.02,
-        "end": 23.78
-      },
-      {
-        "i": 75,
-        "word": "Page.",
-        "start": 23.78,
-        "end": 24.08
+        "word": "design.",
+        "start": 23.7,
+        "end": 24.1
       }
     ]
   },
   {
     "id": 6,
-    "text": "Some layouts also show a duplicate icon above the page.",
-    "start": 24.68,
-    "end": 27.92,
+    "text": "Repeat the process for a separate body font when necessary.",
+    "start": 24.78,
+    "end": 27.46,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      76,
-      85
+      71,
+      80
     ],
     "words": [
       {
-        "i": 76,
-        "word": "Some",
-        "start": 24.68,
-        "end": 25.0
+        "i": 71,
+        "word": "Repeat",
+        "start": 24.78,
+        "end": 25.02
       },
       {
-        "i": 77,
-        "word": "layouts",
-        "start": 25.0,
-        "end": 25.28
+        "i": 72,
+        "word": "the",
+        "start": 25.02,
+        "end": 25.2
       },
       {
-        "i": 78,
-        "word": "also",
-        "start": 25.28,
+        "i": 73,
+        "word": "process",
+        "start": 25.2,
+        "end": 25.48
+      },
+      {
+        "i": 74,
+        "word": "for",
+        "start": 25.48,
         "end": 25.72
       },
       {
-        "i": 79,
-        "word": "show",
+        "i": 75,
+        "word": "a",
         "start": 25.72,
-        "end": 25.98
+        "end": 25.92
+      },
+      {
+        "i": 76,
+        "word": "separate",
+        "start": 25.92,
+        "end": 26.2
+      },
+      {
+        "i": 77,
+        "word": "body",
+        "start": 26.2,
+        "end": 26.48
+      },
+      {
+        "i": 78,
+        "word": "font",
+        "start": 26.48,
+        "end": 26.8
+      },
+      {
+        "i": 79,
+        "word": "when",
+        "start": 26.8,
+        "end": 26.96
       },
       {
         "i": 80,
-        "word": "a",
-        "start": 25.98,
-        "end": 26.12
-      },
-      {
-        "i": 81,
-        "word": "duplicate",
-        "start": 26.12,
-        "end": 26.46
-      },
-      {
-        "i": 82,
-        "word": "icon",
-        "start": 26.46,
-        "end": 26.94
-      },
-      {
-        "i": 83,
-        "word": "above",
-        "start": 26.94,
-        "end": 27.36
-      },
-      {
-        "i": 84,
-        "word": "the",
-        "start": 27.36,
-        "end": 27.56
-      },
-      {
-        "i": 85,
-        "word": "page.",
-        "start": 27.56,
-        "end": 27.92
+        "word": "necessary.",
+        "start": 26.96,
+        "end": 27.46
       }
     ]
   },
   {
     "id": 7,
-    "text": "The new page contains the original page's visual layout.",
-    "start": 27.92,
-    "end": 31.2,
+    "text": "Replacing one typeface should not be assumed to replace every different font used in the file.",
+    "start": 28.02,
+    "end": 32.72,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      86,
-      94
+      81,
+      96
     ],
     "words": [
       {
+        "i": 81,
+        "word": "Replacing",
+        "start": 28.02,
+        "end": 28.54
+      },
+      {
+        "i": 82,
+        "word": "one",
+        "start": 28.54,
+        "end": 28.9
+      },
+      {
+        "i": 83,
+        "word": "typeface",
+        "start": 28.9,
+        "end": 29.48
+      },
+      {
+        "i": 84,
+        "word": "should",
+        "start": 29.48,
+        "end": 29.68
+      },
+      {
+        "i": 85,
+        "word": "not",
+        "start": 29.68,
+        "end": 29.86
+      },
+      {
         "i": 86,
-        "word": "The",
-        "start": 27.92,
-        "end": 28.62
+        "word": "be",
+        "start": 29.86,
+        "end": 30.0
       },
       {
         "i": 87,
-        "word": "new",
-        "start": 28.62,
-        "end": 28.8
+        "word": "assumed",
+        "start": 30.0,
+        "end": 30.3
       },
       {
         "i": 88,
-        "word": "page",
-        "start": 28.8,
-        "end": 29.0
+        "word": "to",
+        "start": 30.3,
+        "end": 30.48
       },
       {
         "i": 89,
-        "word": "contains",
-        "start": 29.0,
-        "end": 29.38
+        "word": "replace",
+        "start": 30.48,
+        "end": 30.78
       },
       {
         "i": 90,
-        "word": "the",
-        "start": 29.38,
-        "end": 29.64
+        "word": "every",
+        "start": 30.78,
+        "end": 31.22
       },
       {
         "i": 91,
-        "word": "original",
-        "start": 29.64,
-        "end": 29.94
+        "word": "different",
+        "start": 31.22,
+        "end": 31.58
       },
       {
         "i": 92,
-        "word": "page's",
-        "start": 29.94,
-        "end": 30.44
+        "word": "font",
+        "start": 31.58,
+        "end": 31.86
       },
       {
         "i": 93,
-        "word": "visual",
-        "start": 30.44,
-        "end": 30.76
+        "word": "used",
+        "start": 31.86,
+        "end": 32.14
       },
       {
         "i": 94,
-        "word": "layout.",
-        "start": 30.76,
-        "end": 31.2
+        "word": "in",
+        "start": 32.14,
+        "end": 32.3
+      },
+      {
+        "i": 95,
+        "word": "the",
+        "start": 32.3,
+        "end": 32.4
+      },
+      {
+        "i": 96,
+        "word": "file.",
+        "start": 32.4,
+        "end": 32.72
       }
     ]
   },
   {
     "id": 8,
-    "text": "Drag its thumbnail to the required position, then change the text or replace the footage to create the next scene.",
-    "start": 31.9,
-    "end": 37.56,
+    "text": "For a coordinated font combination across pages, click the page background or thumbnail, select edit, and open styles.",
+    "start": 33.44,
+    "end": 40.18,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      95,
+      97,
       114
     ],
     "words": [
       {
-        "i": 95,
-        "word": "Drag",
-        "start": 31.9,
-        "end": 31.96
-      },
-      {
-        "i": 96,
-        "word": "its",
-        "start": 31.96,
-        "end": 32.2
-      },
-      {
         "i": 97,
-        "word": "thumbnail",
-        "start": 32.2,
-        "end": 32.5
+        "word": "For",
+        "start": 33.44,
+        "end": 33.52
       },
       {
         "i": 98,
-        "word": "to",
-        "start": 32.5,
-        "end": 32.78
+        "word": "a",
+        "start": 33.52,
+        "end": 33.62
       },
       {
         "i": 99,
-        "word": "the",
-        "start": 32.78,
-        "end": 32.9
+        "word": "coordinated",
+        "start": 33.62,
+        "end": 34.06
       },
       {
         "i": 100,
-        "word": "required",
-        "start": 32.9,
-        "end": 33.24
+        "word": "font",
+        "start": 34.06,
+        "end": 34.42
       },
       {
         "i": 101,
-        "word": "position,",
-        "start": 33.24,
-        "end": 33.74
+        "word": "combination",
+        "start": 34.42,
+        "end": 34.94
       },
       {
         "i": 102,
-        "word": "then",
-        "start": 34.04,
-        "end": 34.32
+        "word": "across",
+        "start": 34.94,
+        "end": 35.42
       },
       {
         "i": 103,
-        "word": "change",
-        "start": 34.32,
-        "end": 34.6
-      },
-      {
-        "i": 104,
-        "word": "the",
-        "start": 34.6,
-        "end": 34.76
-      },
-      {
-        "i": 105,
-        "word": "text",
-        "start": 34.76,
-        "end": 35.08
-      },
-      {
-        "i": 106,
-        "word": "or",
-        "start": 35.08,
-        "end": 35.52
-      },
-      {
-        "i": 107,
-        "word": "replace",
-        "start": 35.52,
+        "word": "pages,",
+        "start": 35.42,
         "end": 35.86
       },
       {
-        "i": 108,
+        "i": 104,
+        "word": "click",
+        "start": 36.3,
+        "end": 36.48
+      },
+      {
+        "i": 105,
         "word": "the",
-        "start": 35.86,
-        "end": 36.06
+        "start": 36.48,
+        "end": 36.64
+      },
+      {
+        "i": 106,
+        "word": "page",
+        "start": 36.64,
+        "end": 36.84
+      },
+      {
+        "i": 107,
+        "word": "background",
+        "start": 36.84,
+        "end": 37.22
+      },
+      {
+        "i": 108,
+        "word": "or",
+        "start": 37.22,
+        "end": 37.58
       },
       {
         "i": 109,
-        "word": "footage",
-        "start": 36.06,
-        "end": 36.32
+        "word": "thumbnail,",
+        "start": 37.58,
+        "end": 37.98
       },
       {
         "i": 110,
-        "word": "to",
-        "start": 36.32,
-        "end": 36.58
+        "word": "select",
+        "start": 38.4,
+        "end": 38.66
       },
       {
         "i": 111,
-        "word": "create",
-        "start": 36.58,
-        "end": 36.8
+        "word": "edit,",
+        "start": 38.66,
+        "end": 38.98
       },
       {
         "i": 112,
-        "word": "the",
-        "start": 36.8,
-        "end": 37.06
+        "word": "and",
+        "start": 39.44,
+        "end": 39.58
       },
       {
         "i": 113,
-        "word": "next",
-        "start": 37.06,
-        "end": 37.26
+        "word": "open",
+        "start": 39.58,
+        "end": 39.84
       },
       {
         "i": 114,
-        "word": "scene.",
-        "start": 37.26,
-        "end": 37.56
+        "word": "styles.",
+        "start": 39.84,
+        "end": 40.18
       }
     ]
   },
   {
     "id": 9,
-    "text": "If your project uses the current multitrack editor, work with the timeline elements instead.",
-    "start": 38.36,
-    "end": 42.78,
+    "text": "Choose a font set, then select apply to all pages.",
+    "start": 41.04,
+    "end": 43.96,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       115,
-      128
+      124
     ],
     "words": [
       {
         "i": 115,
-        "word": "If",
-        "start": 38.36,
-        "end": 38.5
-      },
-      {
-        "i": 116,
-        "word": "your",
-        "start": 38.5,
-        "end": 38.64
-      },
-      {
-        "i": 117,
-        "word": "project",
-        "start": 38.64,
-        "end": 38.94
-      },
-      {
-        "i": 118,
-        "word": "uses",
-        "start": 38.94,
-        "end": 39.26
-      },
-      {
-        "i": 119,
-        "word": "the",
-        "start": 39.26,
-        "end": 39.5
-      },
-      {
-        "i": 120,
-        "word": "current",
-        "start": 39.5,
-        "end": 39.78
-      },
-      {
-        "i": 121,
-        "word": "multitrack",
-        "start": 39.78,
-        "end": 40.34
-      },
-      {
-        "i": 122,
-        "word": "editor,",
-        "start": 40.34,
-        "end": 40.7
-      },
-      {
-        "i": 123,
-        "word": "work",
+        "word": "Choose",
         "start": 41.04,
         "end": 41.24
       },
       {
-        "i": 124,
-        "word": "with",
+        "i": 116,
+        "word": "a",
         "start": 41.24,
-        "end": 41.4
+        "end": 41.38
       },
       {
-        "i": 125,
-        "word": "the",
-        "start": 41.4,
-        "end": 41.6
+        "i": 117,
+        "word": "font",
+        "start": 41.38,
+        "end": 41.54
       },
       {
-        "i": 126,
-        "word": "timeline",
-        "start": 41.6,
-        "end": 41.84
+        "i": 118,
+        "word": "set,",
+        "start": 41.54,
+        "end": 41.82
       },
       {
-        "i": 127,
-        "word": "elements",
-        "start": 41.84,
-        "end": 42.3
+        "i": 119,
+        "word": "then",
+        "start": 42.1,
+        "end": 42.28
       },
       {
-        "i": 128,
-        "word": "instead.",
-        "start": 42.3,
-        "end": 42.78
+        "i": 120,
+        "word": "select",
+        "start": 42.28,
+        "end": 42.62
+      },
+      {
+        "i": 121,
+        "word": "apply",
+        "start": 42.62,
+        "end": 43.0
+      },
+      {
+        "i": 122,
+        "word": "to",
+        "start": 43.0,
+        "end": 43.28
+      },
+      {
+        "i": 123,
+        "word": "all",
+        "start": 43.28,
+        "end": 43.56
+      },
+      {
+        "i": 124,
+        "word": "pages.",
+        "start": 43.56,
+        "end": 43.96
       }
     ]
   },
   {
     "id": 10,
-    "text": "Select the clip you want to repeat.",
-    "start": 43.34,
-    "end": 44.86,
+    "text": "If your account has brand kit text styles, you can also apply those through the edit panel.",
+    "start": 44.6,
+    "end": 48.86,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      129,
-      135
+      125,
+      141
     ],
     "words": [
       {
+        "i": 125,
+        "word": "If",
+        "start": 44.6,
+        "end": 44.8
+      },
+      {
+        "i": 126,
+        "word": "your",
+        "start": 44.8,
+        "end": 44.94
+      },
+      {
+        "i": 127,
+        "word": "account",
+        "start": 44.94,
+        "end": 45.18
+      },
+      {
+        "i": 128,
+        "word": "has",
+        "start": 45.18,
+        "end": 45.44
+      },
+      {
         "i": 129,
-        "word": "Select",
-        "start": 43.34,
-        "end": 43.64
+        "word": "brand",
+        "start": 45.44,
+        "end": 45.7
       },
       {
         "i": 130,
-        "word": "the",
-        "start": 43.64,
-        "end": 43.88
+        "word": "kit",
+        "start": 45.7,
+        "end": 45.88
       },
       {
         "i": 131,
-        "word": "clip",
-        "start": 43.88,
-        "end": 44.04
+        "word": "text",
+        "start": 45.88,
+        "end": 46.18
       },
       {
         "i": 132,
-        "word": "you",
-        "start": 44.04,
-        "end": 44.26
+        "word": "styles,",
+        "start": 46.18,
+        "end": 46.56
       },
       {
         "i": 133,
-        "word": "want",
-        "start": 44.26,
-        "end": 44.38
+        "word": "you",
+        "start": 46.88,
+        "end": 46.96
       },
       {
         "i": 134,
-        "word": "to",
-        "start": 44.38,
-        "end": 44.54
+        "word": "can",
+        "start": 46.96,
+        "end": 47.1
       },
       {
         "i": 135,
-        "word": "repeat.",
-        "start": 44.54,
-        "end": 44.86
+        "word": "also",
+        "start": 47.1,
+        "end": 47.36
+      },
+      {
+        "i": 136,
+        "word": "apply",
+        "start": 47.36,
+        "end": 47.72
+      },
+      {
+        "i": 137,
+        "word": "those",
+        "start": 47.72,
+        "end": 47.92
+      },
+      {
+        "i": 138,
+        "word": "through",
+        "start": 47.92,
+        "end": 48.16
+      },
+      {
+        "i": 139,
+        "word": "the",
+        "start": 48.16,
+        "end": 48.32
+      },
+      {
+        "i": 140,
+        "word": "edit",
+        "start": 48.32,
+        "end": 48.52
+      },
+      {
+        "i": 141,
+        "word": "panel.",
+        "start": 48.52,
+        "end": 48.86
       }
     ]
   },
   {
     "id": 11,
-    "text": "To copy a complete scene, also select the text and graphics that belong to that section.",
-    "start": 45.38,
-    "end": 49.62,
+    "text": "Use apply to all pages to update existing text across the design using the configured heading and body styles.",
+    "start": 49.56,
+    "end": 55.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      136,
-      151
+      142,
+      160
     ],
     "words": [
       {
-        "i": 136,
-        "word": "To",
-        "start": 45.38,
-        "end": 45.52
-      },
-      {
-        "i": 137,
-        "word": "copy",
-        "start": 45.52,
-        "end": 45.76
-      },
-      {
-        "i": 138,
-        "word": "a",
-        "start": 45.76,
-        "end": 45.9
-      },
-      {
-        "i": 139,
-        "word": "complete",
-        "start": 45.9,
-        "end": 46.22
-      },
-      {
-        "i": 140,
-        "word": "scene,",
-        "start": 46.22,
-        "end": 46.62
-      },
-      {
-        "i": 141,
-        "word": "also",
-        "start": 46.82,
-        "end": 47.0
-      },
-      {
         "i": 142,
-        "word": "select",
-        "start": 47.0,
-        "end": 47.34
+        "word": "Use",
+        "start": 49.56,
+        "end": 49.8
       },
       {
         "i": 143,
-        "word": "the",
-        "start": 47.34,
-        "end": 47.54
+        "word": "apply",
+        "start": 49.8,
+        "end": 50.06
       },
       {
         "i": 144,
-        "word": "text",
-        "start": 47.54,
-        "end": 47.8
+        "word": "to",
+        "start": 50.06,
+        "end": 50.24
       },
       {
         "i": 145,
-        "word": "and",
-        "start": 47.8,
-        "end": 48.08
+        "word": "all",
+        "start": 50.24,
+        "end": 50.54
       },
       {
         "i": 146,
-        "word": "graphics",
-        "start": 48.08,
-        "end": 48.38
+        "word": "pages",
+        "start": 50.54,
+        "end": 50.94
       },
       {
         "i": 147,
-        "word": "that",
-        "start": 48.38,
-        "end": 48.66
+        "word": "to",
+        "start": 50.94,
+        "end": 51.36
       },
       {
         "i": 148,
-        "word": "belong",
-        "start": 48.66,
-        "end": 48.88
+        "word": "update",
+        "start": 51.36,
+        "end": 51.7
       },
       {
         "i": 149,
-        "word": "to",
-        "start": 48.88,
-        "end": 49.08
+        "word": "existing",
+        "start": 51.7,
+        "end": 52.14
       },
       {
         "i": 150,
-        "word": "that",
-        "start": 49.08,
-        "end": 49.22
+        "word": "text",
+        "start": 52.14,
+        "end": 52.66
       },
       {
         "i": 151,
-        "word": "section.",
-        "start": 49.22,
-        "end": 49.62
+        "word": "across",
+        "start": 52.66,
+        "end": 53.16
+      },
+      {
+        "i": 152,
+        "word": "the",
+        "start": 53.16,
+        "end": 53.36
+      },
+      {
+        "i": 153,
+        "word": "design",
+        "start": 53.36,
+        "end": 53.7
+      },
+      {
+        "i": 154,
+        "word": "using",
+        "start": 53.7,
+        "end": 54.0
+      },
+      {
+        "i": 155,
+        "word": "the",
+        "start": 54.0,
+        "end": 54.22
+      },
+      {
+        "i": 156,
+        "word": "configured",
+        "start": 54.22,
+        "end": 54.56
+      },
+      {
+        "i": 157,
+        "word": "heading",
+        "start": 54.56,
+        "end": 54.88
+      },
+      {
+        "i": 158,
+        "word": "and",
+        "start": 54.88,
+        "end": 55.4
+      },
+      {
+        "i": 159,
+        "word": "body",
+        "start": 55.4,
+        "end": 55.6
+      },
+      {
+        "i": 160,
+        "word": "styles.",
+        "start": 55.6,
+        "end": 55.98
       }
     ]
   },
   {
     "id": 12,
-    "text": "Open more and choose Duplicate or press Ctrl and D on Windows or Command and D on a Mac.",
-    "start": 50.36,
-    "end": 57.12,
+    "text": "Here's the part many tutorials skip.",
+    "start": 56.76,
+    "end": 59.0,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      152,
-      170
+      161,
+      166
     ],
     "words": [
       {
-        "i": 152,
-        "word": "Open",
-        "start": 50.36,
-        "end": 50.64
-      },
-      {
-        "i": 153,
-        "word": "more",
-        "start": 50.64,
-        "end": 50.88
-      },
-      {
-        "i": 154,
-        "word": "and",
-        "start": 50.88,
-        "end": 51.14
-      },
-      {
-        "i": 155,
-        "word": "choose",
-        "start": 51.14,
-        "end": 51.44
-      },
-      {
-        "i": 156,
-        "word": "Duplicate",
-        "start": 51.44,
-        "end": 52.0
-      },
-      {
-        "i": 157,
-        "word": "or",
-        "start": 52.0,
-        "end": 52.36
-      },
-      {
-        "i": 158,
-        "word": "press",
-        "start": 52.36,
-        "end": 52.7
-      },
-      {
-        "i": 159,
-        "word": "Ctrl",
-        "start": 52.7,
-        "end": 53.04
-      },
-      {
-        "i": 160,
-        "word": "and",
-        "start": 53.04,
-        "end": 53.46
-      },
-      {
         "i": 161,
-        "word": "D",
-        "start": 53.46,
-        "end": 53.66
+        "word": "Here's",
+        "start": 56.76,
+        "end": 57.32
       },
       {
         "i": 162,
-        "word": "on",
-        "start": 53.66,
-        "end": 53.88
+        "word": "the",
+        "start": 57.32,
+        "end": 57.44
       },
       {
         "i": 163,
-        "word": "Windows",
-        "start": 53.88,
-        "end": 54.28
+        "word": "part",
+        "start": 57.44,
+        "end": 57.64
       },
       {
         "i": 164,
-        "word": "or",
-        "start": 54.28,
-        "end": 54.94
+        "word": "many",
+        "start": 57.64,
+        "end": 58.0
       },
       {
         "i": 165,
-        "word": "Command",
-        "start": 54.94,
-        "end": 55.76
+        "word": "tutorials",
+        "start": 58.0,
+        "end": 58.58
       },
       {
         "i": 166,
-        "word": "and",
-        "start": 55.76,
-        "end": 56.0
-      },
-      {
-        "i": 167,
-        "word": "D",
-        "start": 56.0,
-        "end": 56.3
-      },
-      {
-        "i": 168,
-        "word": "on",
-        "start": 56.3,
-        "end": 56.82
-      },
-      {
-        "i": 169,
-        "word": "a",
-        "start": 56.82,
-        "end": 56.94
-      },
-      {
-        "i": 170,
-        "word": "Mac.",
-        "start": 56.94,
-        "end": 57.12
+        "word": "skip.",
+        "start": 58.58,
+        "end": 59.0
       }
     ]
   },
   {
     "id": 13,
-    "text": "Place the copied elements after the original section and check that the overlays line up with the new clip.",
-    "start": 57.92,
-    "end": 62.82,
+    "text": "Changing a font changes the width and height of the letters.",
+    "start": 59.52,
+    "end": 62.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      171,
-      189
+      167,
+      177
     ],
     "words": [
       {
+        "i": 167,
+        "word": "Changing",
+        "start": 59.52,
+        "end": 59.78
+      },
+      {
+        "i": 168,
+        "word": "a",
+        "start": 59.78,
+        "end": 59.98
+      },
+      {
+        "i": 169,
+        "word": "font",
+        "start": 59.98,
+        "end": 60.22
+      },
+      {
+        "i": 170,
+        "word": "changes",
+        "start": 60.22,
+        "end": 60.6
+      },
+      {
         "i": 171,
-        "word": "Place",
-        "start": 57.92,
-        "end": 58.2
+        "word": "the",
+        "start": 60.6,
+        "end": 60.88
       },
       {
         "i": 172,
-        "word": "the",
-        "start": 58.2,
-        "end": 58.38
+        "word": "width",
+        "start": 60.88,
+        "end": 61.08
       },
       {
         "i": 173,
-        "word": "copied",
-        "start": 58.38,
-        "end": 58.62
+        "word": "and",
+        "start": 61.08,
+        "end": 61.32
       },
       {
         "i": 174,
-        "word": "elements",
-        "start": 58.62,
-        "end": 59.04
+        "word": "height",
+        "start": 61.32,
+        "end": 61.56
       },
       {
         "i": 175,
-        "word": "after",
-        "start": 59.04,
-        "end": 59.46
+        "word": "of",
+        "start": 61.56,
+        "end": 61.74
       },
       {
         "i": 176,
         "word": "the",
-        "start": 59.46,
-        "end": 59.64
+        "start": 61.74,
+        "end": 61.86
       },
       {
         "i": 177,
-        "word": "original",
-        "start": 59.64,
-        "end": 59.92
-      },
-      {
-        "i": 178,
-        "word": "section",
-        "start": 59.92,
-        "end": 60.3
-      },
-      {
-        "i": 179,
-        "word": "and",
-        "start": 60.3,
-        "end": 60.68
-      },
-      {
-        "i": 180,
-        "word": "check",
-        "start": 60.68,
-        "end": 60.92
-      },
-      {
-        "i": 181,
-        "word": "that",
-        "start": 60.92,
-        "end": 61.1
-      },
-      {
-        "i": 182,
-        "word": "the",
-        "start": 61.1,
-        "end": 61.24
-      },
-      {
-        "i": 183,
-        "word": "overlays",
-        "start": 61.24,
-        "end": 61.74
-      },
-      {
-        "i": 184,
-        "word": "line",
-        "start": 61.74,
-        "end": 61.96
-      },
-      {
-        "i": 185,
-        "word": "up",
-        "start": 61.96,
-        "end": 62.14
-      },
-      {
-        "i": 186,
-        "word": "with",
-        "start": 62.14,
-        "end": 62.3
-      },
-      {
-        "i": 187,
-        "word": "the",
-        "start": 62.3,
-        "end": 62.42
-      },
-      {
-        "i": 188,
-        "word": "new",
-        "start": 62.42,
-        "end": 62.58
-      },
-      {
-        "i": 189,
-        "word": "clip.",
-        "start": 62.58,
-        "end": 62.82
+        "word": "letters.",
+        "start": 61.86,
+        "end": 62.16
       }
     ]
   },
   {
     "id": 14,
-    "text": "Here's the part.",
-    "start": 63.58,
-    "end": 64.26,
+    "text": "Even when the font size stays the same, a heading can wrap onto another line or extend beyond its text box.",
+    "start": 62.96,
+    "end": 68.4,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      190,
-      192
+      178,
+      198
     ],
     "words": [
       {
+        "i": 178,
+        "word": "Even",
+        "start": 62.96,
+        "end": 63.2
+      },
+      {
+        "i": 179,
+        "word": "when",
+        "start": 63.2,
+        "end": 63.36
+      },
+      {
+        "i": 180,
+        "word": "the",
+        "start": 63.36,
+        "end": 63.5
+      },
+      {
+        "i": 181,
+        "word": "font",
+        "start": 63.5,
+        "end": 63.74
+      },
+      {
+        "i": 182,
+        "word": "size",
+        "start": 63.74,
+        "end": 64.04
+      },
+      {
+        "i": 183,
+        "word": "stays",
+        "start": 64.04,
+        "end": 64.36
+      },
+      {
+        "i": 184,
+        "word": "the",
+        "start": 64.36,
+        "end": 64.56
+      },
+      {
+        "i": 185,
+        "word": "same,",
+        "start": 64.56,
+        "end": 64.86
+      },
+      {
+        "i": 186,
+        "word": "a",
+        "start": 65.1,
+        "end": 65.1
+      },
+      {
+        "i": 187,
+        "word": "heading",
+        "start": 65.1,
+        "end": 65.3
+      },
+      {
+        "i": 188,
+        "word": "can",
+        "start": 65.3,
+        "end": 65.58
+      },
+      {
+        "i": 189,
+        "word": "wrap",
+        "start": 65.58,
+        "end": 65.8
+      },
+      {
         "i": 190,
-        "word": "Here's",
-        "start": 63.58,
-        "end": 63.9
+        "word": "onto",
+        "start": 65.8,
+        "end": 65.98
       },
       {
         "i": 191,
-        "word": "the",
-        "start": 63.9,
-        "end": 64.02
+        "word": "another",
+        "start": 65.98,
+        "end": 66.32
       },
       {
         "i": 192,
-        "word": "part.",
-        "start": 64.02,
-        "end": 64.26
+        "word": "line",
+        "start": 66.32,
+        "end": 66.66
+      },
+      {
+        "i": 193,
+        "word": "or",
+        "start": 66.66,
+        "end": 66.88
+      },
+      {
+        "i": 194,
+        "word": "extend",
+        "start": 66.88,
+        "end": 67.24
+      },
+      {
+        "i": 195,
+        "word": "beyond",
+        "start": 67.24,
+        "end": 67.58
+      },
+      {
+        "i": 196,
+        "word": "its",
+        "start": 67.58,
+        "end": 67.84
+      },
+      {
+        "i": 197,
+        "word": "text",
+        "start": 67.84,
+        "end": 68.12
+      },
+      {
+        "i": 198,
+        "word": "box.",
+        "start": 68.12,
+        "end": 68.4
       }
     ]
   },
   {
     "id": 15,
-    "text": "Many tutorials skip.",
-    "start": 65.02,
-    "end": 66.3,
+    "text": "Inspect the longest headings, narrow text boxes, and slides with dense paragraphs.",
+    "start": 69.28,
+    "end": 74.08,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      193,
-      195
+      199,
+      210
     ],
     "words": [
       {
-        "i": 193,
-        "word": "Many",
-        "start": 65.02,
-        "end": 65.3
+        "i": 199,
+        "word": "Inspect",
+        "start": 69.28,
+        "end": 69.56
       },
       {
-        "i": 194,
-        "word": "tutorials",
-        "start": 65.3,
-        "end": 65.88
+        "i": 200,
+        "word": "the",
+        "start": 69.56,
+        "end": 69.8
       },
       {
-        "i": 195,
-        "word": "skip.",
-        "start": 65.88,
-        "end": 66.3
+        "i": 201,
+        "word": "longest",
+        "start": 69.8,
+        "end": 70.06
+      },
+      {
+        "i": 202,
+        "word": "headings,",
+        "start": 70.06,
+        "end": 70.6
+      },
+      {
+        "i": 203,
+        "word": "narrow",
+        "start": 71.12,
+        "end": 71.28
+      },
+      {
+        "i": 204,
+        "word": "text",
+        "start": 71.28,
+        "end": 71.7
+      },
+      {
+        "i": 205,
+        "word": "boxes,",
+        "start": 71.7,
+        "end": 72.06
+      },
+      {
+        "i": 206,
+        "word": "and",
+        "start": 72.5,
+        "end": 72.66
+      },
+      {
+        "i": 207,
+        "word": "slides",
+        "start": 72.66,
+        "end": 73.04
+      },
+      {
+        "i": 208,
+        "word": "with",
+        "start": 73.04,
+        "end": 73.28
+      },
+      {
+        "i": 209,
+        "word": "dense",
+        "start": 73.28,
+        "end": 73.56
+      },
+      {
+        "i": 210,
+        "word": "paragraphs.",
+        "start": 73.56,
+        "end": 74.08
       }
     ]
   },
   {
     "id": 16,
-    "text": "Duplicating only the background clip in the new timeline does not include every text box, graphic or separate audio track above it.",
-    "start": 66.96,
-    "end": 74.0,
+    "text": "Adjust the box width, font size, or spacing where necessary while keeping the hierarchy consistent.",
+    "start": 74.94,
+    "end": 80.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      196,
-      217
+      211,
+      225
     ],
     "words": [
       {
-        "i": 196,
-        "word": "Duplicating",
-        "start": 66.96,
-        "end": 67.34
-      },
-      {
-        "i": 197,
-        "word": "only",
-        "start": 67.34,
-        "end": 67.82
-      },
-      {
-        "i": 198,
-        "word": "the",
-        "start": 67.82,
-        "end": 68.04
-      },
-      {
-        "i": 199,
-        "word": "background",
-        "start": 68.04,
-        "end": 68.4
-      },
-      {
-        "i": 200,
-        "word": "clip",
-        "start": 68.4,
-        "end": 68.7
-      },
-      {
-        "i": 201,
-        "word": "in",
-        "start": 68.7,
-        "end": 68.88
-      },
-      {
-        "i": 202,
-        "word": "the",
-        "start": 68.88,
-        "end": 68.98
-      },
-      {
-        "i": 203,
-        "word": "new",
-        "start": 68.98,
-        "end": 69.18
-      },
-      {
-        "i": 204,
-        "word": "timeline",
-        "start": 69.18,
-        "end": 69.62
-      },
-      {
-        "i": 205,
-        "word": "does",
-        "start": 69.62,
-        "end": 69.88
-      },
-      {
-        "i": 206,
-        "word": "not",
-        "start": 69.88,
-        "end": 70.08
-      },
-      {
-        "i": 207,
-        "word": "include",
-        "start": 70.08,
-        "end": 70.38
-      },
-      {
-        "i": 208,
-        "word": "every",
-        "start": 70.38,
-        "end": 70.64
-      },
-      {
-        "i": 209,
-        "word": "text",
-        "start": 70.64,
-        "end": 70.94
-      },
-      {
-        "i": 210,
-        "word": "box,",
-        "start": 70.94,
-        "end": 71.18
-      },
-      {
         "i": 211,
-        "word": "graphic",
-        "start": 71.48,
-        "end": 71.8
+        "word": "Adjust",
+        "start": 74.94,
+        "end": 75.2
       },
       {
         "i": 212,
-        "word": "or",
-        "start": 71.8,
-        "end": 72.36
+        "word": "the",
+        "start": 75.2,
+        "end": 75.42
       },
       {
         "i": 213,
-        "word": "separate",
-        "start": 72.36,
-        "end": 72.7
+        "word": "box",
+        "start": 75.42,
+        "end": 75.64
       },
       {
         "i": 214,
-        "word": "audio",
-        "start": 72.7,
-        "end": 73.1
+        "word": "width,",
+        "start": 75.64,
+        "end": 76.0
       },
       {
         "i": 215,
-        "word": "track",
-        "start": 73.1,
-        "end": 73.38
+        "word": "font",
+        "start": 76.54,
+        "end": 76.68
       },
       {
         "i": 216,
-        "word": "above",
-        "start": 73.38,
-        "end": 73.62
+        "word": "size,",
+        "start": 76.68,
+        "end": 76.98
       },
       {
         "i": 217,
-        "word": "it.",
-        "start": 73.62,
-        "end": 74.0
+        "word": "or",
+        "start": 77.24,
+        "end": 77.42
+      },
+      {
+        "i": 218,
+        "word": "spacing",
+        "start": 77.42,
+        "end": 77.8
+      },
+      {
+        "i": 219,
+        "word": "where",
+        "start": 77.8,
+        "end": 78.1
+      },
+      {
+        "i": 220,
+        "word": "necessary",
+        "start": 78.1,
+        "end": 78.58
+      },
+      {
+        "i": 221,
+        "word": "while",
+        "start": 78.58,
+        "end": 79.14
+      },
+      {
+        "i": 222,
+        "word": "keeping",
+        "start": 79.14,
+        "end": 79.4
+      },
+      {
+        "i": 223,
+        "word": "the",
+        "start": 79.4,
+        "end": 79.62
+      },
+      {
+        "i": 224,
+        "word": "hierarchy",
+        "start": 79.62,
+        "end": 80.06
+      },
+      {
+        "i": 225,
+        "word": "consistent.",
+        "start": 80.06,
+        "end": 80.7
       }
     ]
   },
   {
     "id": 17,
-    "text": "Select the elements you need, then check their copied timing individually.",
-    "start": 74.46,
-    "end": 77.86,
+    "text": "Text that is baked into an uploaded image will not change with the editable text.",
+    "start": 81.34,
+    "end": 85.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      218,
-      228
+      226,
+      240
     ],
     "words": [
       {
-        "i": 218,
-        "word": "Select",
-        "start": 74.46,
-        "end": 74.72
-      },
-      {
-        "i": 219,
-        "word": "the",
-        "start": 74.72,
-        "end": 74.9
-      },
-      {
-        "i": 220,
-        "word": "elements",
-        "start": 74.9,
-        "end": 75.22
-      },
-      {
-        "i": 221,
-        "word": "you",
-        "start": 75.22,
-        "end": 75.4
-      },
-      {
-        "i": 222,
-        "word": "need,",
-        "start": 75.4,
-        "end": 75.7
-      },
-      {
-        "i": 223,
-        "word": "then",
-        "start": 75.92,
-        "end": 76.12
-      },
-      {
-        "i": 224,
-        "word": "check",
-        "start": 76.12,
-        "end": 76.34
-      },
-      {
-        "i": 225,
-        "word": "their",
-        "start": 76.34,
-        "end": 76.56
-      },
-      {
         "i": 226,
-        "word": "copied",
-        "start": 76.56,
-        "end": 76.9
+        "word": "Text",
+        "start": 81.34,
+        "end": 81.68
       },
       {
         "i": 227,
-        "word": "timing",
-        "start": 76.9,
-        "end": 77.32
+        "word": "that",
+        "start": 81.68,
+        "end": 81.9
       },
       {
         "i": 228,
-        "word": "individually.",
-        "start": 77.32,
-        "end": 77.86
+        "word": "is",
+        "start": 81.9,
+        "end": 82.02
+      },
+      {
+        "i": 229,
+        "word": "baked",
+        "start": 82.02,
+        "end": 82.22
+      },
+      {
+        "i": 230,
+        "word": "into",
+        "start": 82.22,
+        "end": 82.46
+      },
+      {
+        "i": 231,
+        "word": "an",
+        "start": 82.46,
+        "end": 82.64
+      },
+      {
+        "i": 232,
+        "word": "uploaded",
+        "start": 82.64,
+        "end": 83.04
+      },
+      {
+        "i": 233,
+        "word": "image",
+        "start": 83.04,
+        "end": 83.46
+      },
+      {
+        "i": 234,
+        "word": "will",
+        "start": 83.46,
+        "end": 83.92
+      },
+      {
+        "i": 235,
+        "word": "not",
+        "start": 83.92,
+        "end": 84.1
+      },
+      {
+        "i": 236,
+        "word": "change",
+        "start": 84.1,
+        "end": 84.46
+      },
+      {
+        "i": 237,
+        "word": "with",
+        "start": 84.46,
+        "end": 84.66
+      },
+      {
+        "i": 238,
+        "word": "the",
+        "start": 84.66,
+        "end": 84.78
+      },
+      {
+        "i": 239,
+        "word": "editable",
+        "start": 84.78,
+        "end": 85.24
+      },
+      {
+        "i": 240,
+        "word": "text.",
+        "start": 85.24,
+        "end": 85.64
       }
     ]
   },
   {
     "id": 18,
-    "text": "In either editor, preview the join between the original and the copy.",
-    "start": 78.64,
-    "end": 82.08,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      229,
-      240
-    ],
-    "words": [
-      {
-        "i": 229,
-        "word": "In",
-        "start": 78.64,
-        "end": 78.8
-      },
-      {
-        "i": 230,
-        "word": "either",
-        "start": 78.8,
-        "end": 78.94
-      },
-      {
-        "i": 231,
-        "word": "editor,",
-        "start": 78.94,
-        "end": 79.34
-      },
-      {
-        "i": 232,
-        "word": "preview",
-        "start": 79.66,
-        "end": 79.88
-      },
-      {
-        "i": 233,
-        "word": "the",
-        "start": 79.88,
-        "end": 80.16
-      },
-      {
-        "i": 234,
-        "word": "join",
-        "start": 80.16,
-        "end": 80.38
-      },
-      {
-        "i": 235,
-        "word": "between",
-        "start": 80.38,
-        "end": 80.66
-      },
-      {
-        "i": 236,
-        "word": "the",
-        "start": 80.66,
-        "end": 80.84
-      },
-      {
-        "i": 237,
-        "word": "original",
-        "start": 80.84,
-        "end": 81.1
-      },
-      {
-        "i": 238,
-        "word": "and",
-        "start": 81.1,
-        "end": 81.64
-      },
-      {
-        "i": 239,
-        "word": "the",
-        "start": 81.64,
-        "end": 81.8
-      },
-      {
-        "i": 240,
-        "word": "copy.",
-        "start": 81.8,
-        "end": 82.08
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "text": "Check for repeated narration, overlapping music or a transition that now needs adjusting.",
-    "start": 82.62,
-    "end": 87.26,
+    "text": "Replace that image or recreate its lettering if it needs the new typeface.",
+    "start": 86.28,
+    "end": 90.28,
     "notes": [],
     "match": 1.0,
     "status": "ok",
@@ -1730,192 +1715,180 @@
     "words": [
       {
         "i": 241,
-        "word": "Check",
-        "start": 82.62,
-        "end": 82.9
+        "word": "Replace",
+        "start": 86.28,
+        "end": 86.56
       },
       {
         "i": 242,
-        "word": "for",
-        "start": 82.9,
-        "end": 83.08
+        "word": "that",
+        "start": 86.56,
+        "end": 86.82
       },
       {
         "i": 243,
-        "word": "repeated",
-        "start": 83.08,
-        "end": 83.36
+        "word": "image",
+        "start": 86.82,
+        "end": 87.08
       },
       {
         "i": 244,
-        "word": "narration,",
-        "start": 83.36,
-        "end": 83.92
+        "word": "or",
+        "start": 87.08,
+        "end": 87.4
       },
       {
         "i": 245,
-        "word": "overlapping",
-        "start": 84.26,
-        "end": 84.62
+        "word": "recreate",
+        "start": 87.4,
+        "end": 87.8
       },
       {
         "i": 246,
-        "word": "music",
-        "start": 84.62,
-        "end": 85.04
+        "word": "its",
+        "start": 87.8,
+        "end": 88.12
       },
       {
         "i": 247,
-        "word": "or",
-        "start": 85.04,
-        "end": 85.56
+        "word": "lettering",
+        "start": 88.12,
+        "end": 88.58
       },
       {
         "i": 248,
-        "word": "a",
-        "start": 85.56,
-        "end": 85.7
+        "word": "if",
+        "start": 88.58,
+        "end": 88.92
       },
       {
         "i": 249,
-        "word": "transition",
-        "start": 85.7,
-        "end": 86.0
+        "word": "it",
+        "start": 88.92,
+        "end": 89.02
       },
       {
         "i": 250,
-        "word": "that",
-        "start": 86.0,
-        "end": 86.26
+        "word": "needs",
+        "start": 89.02,
+        "end": 89.26
       },
       {
         "i": 251,
-        "word": "now",
-        "start": 86.26,
-        "end": 86.48
+        "word": "the",
+        "start": 89.26,
+        "end": 89.44
       },
       {
         "i": 252,
-        "word": "needs",
-        "start": 86.48,
-        "end": 86.72
+        "word": "new",
+        "start": 89.44,
+        "end": 89.64
       },
       {
         "i": 253,
-        "word": "adjusting.",
-        "start": 86.72,
-        "end": 87.26
+        "word": "typeface.",
+        "start": 89.64,
+        "end": 90.28
       }
     ]
   },
   {
-    "id": 20,
-    "text": "You can now reuse the scene's layout while changing only the content that should be different.",
-    "start": 87.92,
-    "end": 92.02,
+    "id": 19,
+    "text": "Preview the complete design and check a downloaded sample before sharing the updated version.",
+    "start": 90.96,
+    "end": 95.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       254,
-      269
+      267
     ],
     "words": [
       {
         "i": 254,
-        "word": "You",
-        "start": 87.92,
-        "end": 88.22
+        "word": "Preview",
+        "start": 90.96,
+        "end": 91.12
       },
       {
         "i": 255,
-        "word": "can",
-        "start": 88.22,
-        "end": 88.34
+        "word": "the",
+        "start": 91.12,
+        "end": 91.34
       },
       {
         "i": 256,
-        "word": "now",
-        "start": 88.34,
-        "end": 88.5
+        "word": "complete",
+        "start": 91.34,
+        "end": 91.68
       },
       {
         "i": 257,
-        "word": "reuse",
-        "start": 88.5,
-        "end": 88.88
+        "word": "design",
+        "start": 91.68,
+        "end": 92.06
       },
       {
         "i": 258,
-        "word": "the",
-        "start": 88.88,
-        "end": 89.08
+        "word": "and",
+        "start": 92.06,
+        "end": 92.38
       },
       {
         "i": 259,
-        "word": "scene's",
-        "start": 89.08,
-        "end": 89.42
+        "word": "check",
+        "start": 92.38,
+        "end": 92.6
       },
       {
         "i": 260,
-        "word": "layout",
-        "start": 89.42,
-        "end": 89.62
+        "word": "a",
+        "start": 92.6,
+        "end": 92.78
       },
       {
         "i": 261,
-        "word": "while",
-        "start": 89.62,
-        "end": 89.96
+        "word": "downloaded",
+        "start": 92.78,
+        "end": 93.22
       },
       {
         "i": 262,
-        "word": "changing",
-        "start": 89.96,
-        "end": 90.26
+        "word": "sample",
+        "start": 93.22,
+        "end": 93.72
       },
       {
         "i": 263,
-        "word": "only",
-        "start": 90.26,
-        "end": 90.66
+        "word": "before",
+        "start": 93.72,
+        "end": 94.28
       },
       {
         "i": 264,
-        "word": "the",
-        "start": 90.66,
-        "end": 90.86
+        "word": "sharing",
+        "start": 94.28,
+        "end": 94.66
       },
       {
         "i": 265,
-        "word": "content",
-        "start": 90.86,
-        "end": 91.18
+        "word": "the",
+        "start": 94.66,
+        "end": 94.88
       },
       {
         "i": 266,
-        "word": "that",
-        "start": 91.18,
-        "end": 91.38
+        "word": "updated",
+        "start": 94.88,
+        "end": 95.34
       },
       {
         "i": 267,
-        "word": "should",
-        "start": 91.38,
-        "end": 91.56
-      },
-      {
-        "i": 268,
-        "word": "be",
-        "start": 91.56,
-        "end": 91.7
-      },
-      {
-        "i": 269,
-        "word": "different.",
-        "start": 91.7,
-        "end": 92.02
+        "word": "version.",
+        "start": 95.34,
+        "end": 95.7
       }
     ]
   }
