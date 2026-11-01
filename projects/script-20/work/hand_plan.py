@@ -3,31 +3,30 @@ Each line's footage is the step the line describes (work/actions.json, output/re
 Groups start exactly on each narration line's start (lines.json). Pieces: (src_a, src_b[, fixed_speed])."""
 import json
 P = 'projects/script-20/work/'
-DUR = 97.059
+DUR = 95.202
 raw = json.load(open(P + 'lines.json'))
 L = [r['start'] for r in (raw['lines'] if isinstance(raw, dict) else raw)]
 G = {
- 1: [(706.0, 710.0), (666.8, 669.9)],   # countdown playing back (result)
- 2: [(14.3, 20.8)],     # new design: page, Create a design dialog, blank page
- 3: [(24.7, 29.1)],     # blank page, timeline extended to 20 s
- 4: [(60.0, 62.4)],     # Add a heading
- 5: [(109.0, 114.1)],   # building rows (rank numbers)
- 6: [(138.9, 141.7)],   # numbers 1-5 in order
- 7: [(159.0, 163.1)],   # names typed
- 8: [(267.3, 273.3)],   # alignment guides: consistent spacing
- 9: [(460.0, 463.1)],   # select 5 inshort -> Group
- 10: [(463.1, 465.0)],  # next entry grouped
- 11: [(465.5, 470.8)],  # other entries grouped, numbers stay visible
- 12: [(508.7, 512.4)],  # timeline group bars
- 13: [(512.4, 520.9)],  # dragging bars to set start times
- 14: [(524.0, 527.6)],  # bars stay to the end
- 15: [(577.6, 580.3)],  # animation markers on bars
- 16: [(585.2, 591.2)],  # entries/animation on timeline
- 17: [(630.0, 632.9)],  # timeline at the end
- 18: [(638.0, 640.8)],  # holding time at end
- 19: [(647.7, 653.6)],  # extend final bar
- 20: [(653.6, 656.8), (560.0, 563.4)],  # extend, tooltip
- 21: [(718.7, 724.76)], # share -> download panel
+ 1: [(1.27, 4.4), (5.33, 6.9)],
+ 2: [(6.9, 9.83)],
+ 3: [(12.0, 13.67), (8.0, 9.83)],
+ 4: [(13.67, 17.57)],
+ 5: [(17.57, 24.73)],
+ 6: [(25.7, 28.0)],
+ 7: [(28.0, 31.0)],
+ 8: [(31.0, 33.17), (34.27, 36.83)],
+ 9: [(31.8, 33.17), (34.27, 36.0)],
+ 10: [(39.53, 43.73)],
+ 11: [(47.63, 50.0)],
+ 12: [(50.0, 56.0)],
+ 13: [(6.9, 9.4)],
+ 14: [(5.33, 9.83)],
+ 15: [(31.0, 33.17), (34.27, 35.4)],
+ 16: [(12.0, 13.67), (15.07, 17.57)],
+ 17: [(22.23, 24.73), (25.7, 29.0)],
+ 18: [(1.27, 4.4), (5.33, 7.5)],
+ 19: [(28.7, 33.17), (34.27, 36.83)],
+ 20: [(56.0, 62.4)],
 }
 N = len(G)
 assert N == len(L), (N, len(L))
@@ -49,7 +48,7 @@ for n in range(1, N + 1):
             seg["xfade"] = True
         segs.append(seg); prev = p[1]; t = o1
         print('line', n, p[0], p[1], 'x%.2f' % ((p[1] - p[0]) / (o1 - seg['out_start'])), 'out %.2f-%.2f' % (seg['out_start'], o1))
-plan = {"output": {"duration": DUR, "fps": 30, "width": 1920, "height": 1080},
+plan = {"output": {"duration": DUR, "fps": 30, "width": 3420, "height": 1922},
         "segments": segs, "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
