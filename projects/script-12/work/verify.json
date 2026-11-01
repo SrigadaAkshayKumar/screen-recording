@@ -5,7 +5,7 @@
     {
       "name": "duration",
       "ok": true,
-      "detail": "90.650s vs voiceover 90.651s"
+      "detail": "95.062s vs voiceover 95.062s"
     },
     {
       "name": "streams",
@@ -15,7 +15,7 @@
     {
       "name": "resolution",
       "ok": true,
-      "detail": "2560x1440 (expected 2560x1440)"
+      "detail": "3420x1922 (expected 3420x1922)"
     },
     {
       "name": "frozen spans",
@@ -25,10 +25,8 @@
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "28 boundaries clean"
+      "detail": "35 boundaries clean"
     }
   ],
-  "zoom_frames": [
-    "/home/runner/work/screen-recording/screen-recording/projects/script-12/output/checks/zoom_01_0045.000.jpg"
-  ]
+  "zoom_frames": []
 }
