@@ -1,34 +1,29 @@
-"""Hand-built plan for script-13 (93.948 s voiceover, 202.7 s recording, 1920x1080, baked recorder zoom: no zooms/ripples).
-Each line's footage is the step the line describes (work/actions.json, output/report.md).
-Groups start exactly on each narration line's start (lines.json). Pieces: (src_a, src_b[, fixed_speed])."""
+"""Hand-built plan for script-13 (90.001 s voiceover, 148.8 s recording 3420x1922, baked recorder zoom: no zooms/ripples).
+Groups start on each narration line's start (lines.json). Pieces: (src_a, src_b[, fixed_speed])."""
 import json
 P = 'projects/script-13/work/'
-DUR = 93.948
+DUR = 90.001
 raw = json.load(open(P + 'lines.json'))
 L = [r['start'] for r in (raw['lines'] if isinstance(raw, dict) else raw)]
 G = {
- 1: [(0.0, 3.3), (12.87, 14.6), (16.8, 19.0)],
- 2: [(29.4, 31.7)],
- 3: [(47.47, 51.3)],
- 4: [(51.3, 54.1), (55.8, 57.4)],
- 5: [(57.4, 60.2)],
- 6: [(60.2, 63.2)],
- 7: [(63.2, 66.3), (67.33, 70.0)],
- 8: [(70.0, 71.2), (72.47, 73.8)],
- 9: [(73.8, 77.93), (87.2, 88.0)],
- 10: [(88.0, 89.97)],
- 11: [(93.73, 96.3), (104.0, 107.3)],
- 12: [(107.3, 108.2), (111.53, 112.2), (113.27, 114.73)],
- 13: [(119.13, 122.2), (123.6, 125.37), (127.27, 128.1)],
- 14: [(128.1, 129.33), (131.83, 136.4), (137.57, 138.6)],
- 15: [(138.6, 139.47), (140.67, 142.17), (152.57, 155.3)],
- 16: [(155.3, 156.0), (157.53, 160.27), (161.6, 163.3), (164.53, 165.4)],
- 17: [(165.4, 166.13), (180.87, 183.0)],
- 18: [(183.0, 185.7)],
- 19: [(185.7, 192.0)],
- 20: [(192.0, 194.3)],
- 21: [(189.0, 192.2)],
- 22: [(190.0, 192.0), (194.3, 195.9)],
+ 1: [(0.0, 1.2, 1.0), (23.0, 24.4), (30.63, 32.67), (38.0, 39.57)],
+ 2: [(4.9, 8.17), (13.57, 14.87)],
+ 3: [(16.23, 19.17), (20.4, 21.2)],
+ 4: [(34.5, 37.2)],
+ 5: [(43.03, 46.77), (49.2, 52.67)],
+ 6: [(74.1, 78.5), (93.43, 97.0)],
+ 7: [(107.5, 111.0), (100.2, 102.07)],
+ 8: [(64.3, 71.03), (58.47, 61.4)],
+ 9: [(116.9, 118.67), (102.07, 103.9)],
+ 10: [(120.03, 124.0)],
+ 11: [(124.0, 126.5)],
+ 12: [(53.47, 57.67), (58.47, 60.5)],
+ 13: [(126.5, 130.0)],
+ 14: [(130.0, 133.87)],
+ 15: [(138.6, 140.47), (144.77, 146.2)],
+ 16: [(74.1, 76.8), (93.43, 95.0)],
+ 17: [(95.0, 97.7), (76.8, 78.5)],
+ 18: [(111.0, 114.07), (146.2, 148.8)],
 }
 N = len(G)
 assert N == len(L), (N, len(L))
@@ -50,7 +45,7 @@ for n in range(1, N + 1):
             seg["xfade"] = True
         segs.append(seg); prev = p[1]; t = o1
         print('line', n, p[0], p[1], 'x%.2f' % ((p[1] - p[0]) / (o1 - seg['out_start'])), 'out %.2f-%.2f' % (seg['out_start'], o1))
-plan = {"output": {"duration": DUR, "fps": 30, "width": 1920, "height": 1080},
+plan = {"output": {"duration": DUR, "fps": 30, "width": 3420, "height": 1922},
         "segments": segs, "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
