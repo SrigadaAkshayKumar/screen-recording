@@ -1,0 +1,13 @@
+{"recording":{"width":3420,"height":1922,"fps":30,"duration":62.4},
+ "sync":{"clicks_offset":0,"source":"frames"},
+ "actions":[
+ {"id":"A1","t_click":19.95,"x":1100,"y":700,"kind":"click","target":"page 3 (right-click)","result":"page context menu opens","t_result_visible":20.2,"confidence":"medium"},
+ {"id":"A2","t_click":23.0,"x":1000,"y":900,"kind":"click","target":"Download page menu item","result":"Download panel slides in (PDF)","t_result_visible":24.0,"confidence":"medium"},
+ {"id":"A3","t_click":26.5,"x":2700,"y":600,"kind":"click","target":"File type box","result":"file type list opens (JPG, PNG, PDF, SVG, MP4, GIF...)","t_result_visible":27.0,"confidence":"medium"},
+ {"id":"A4","t_click":30.0,"x":2700,"y":700,"kind":"click","target":"PNG","result":"PNG options and Select pages appear","t_result_visible":30.4,"confidence":"medium"},
+ {"id":"A5","t_click":32.5,"x":3000,"y":1100,"kind":"click","target":"Custom (Select pages)","result":"page checklist opens, page 3 ticked","t_result_visible":33.0,"confidence":"medium"},
+ {"id":"A6","t_click":34.2,"x":2600,"y":1150,"kind":"click","target":"page thumbnails in the checklist","result":"pages 2, 1 ticked; Clear all appears; later only page 2, then none (error)","t_result_visible":34.7,"confidence":"medium"},
+ {"id":"A7","t_click":39.5,"x":3000,"y":1150,"kind":"click","target":"page 3 thumbnail","result":"only page 3 ticked, Download enabled","t_result_visible":39.9,"confidence":"medium"},
+ {"id":"A8","t_click":41.9,"x":2850,"y":1280,"kind":"click","target":"Download button","result":"download toast, then star.png opens in a viewer at 46.0","t_result_visible":46.0,"confidence":"medium"},
+ {"id":"A9","t_click":53.3,"x":1700,"y":1800,"kind":"click","target":"saved PDF in the dock","result":"star 2.pdf viewer opens (54.3)","t_result_visible":54.3,"confidence":"medium"}],
+ "junk":[{"start":3.2,"end":3.9,"reason":"black frame while the browser tab opens"},{"start":12.1,"end":15.1,"reason":"static page, not narrated"}]}
