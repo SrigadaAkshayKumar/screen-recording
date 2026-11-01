@@ -21,13 +21,13 @@ sp(4.2, 12.42, 3.9, 12.1, xf=True)
 # L4-L10 chain: grid -> page menu -> Download page -> panel -> type list -> select pages -> custom -> tick -> Download
 o = 12.42
 o = piece(o, 19.7, 40.7, 0.75, xf=True)
-hold(o, o + 1.4, 40.7); o += 1.4          # 'only page 3 ticked, Download enabled' during "Confirm that only one page..."
+hold(o, o + 1.0, 40.7); o += 1.0          # 'only page 3 ticked, Download enabled' during "Confirm that only one page..."
 o = piece(o, 40.7, 41.6, 0.75)            # Download click lands at ~43.0 (words "click Download")
-# click -> file opens (wait footage, ~2.7x)
+# click -> file opens (wait footage, ~1.8x)
 src = 45.4
-sp(o, 44.4, 41.6, src, wait=True)
+sp(o, 44.7, 41.6, src, wait=True)        # <= 2x (client pace rule)
 # L11 file opens
-sp(44.4, 47.18, src, src + 2.78 * 0.95)
+sp(44.7, 47.18, src, src + 2.78 * 0.95)
 # L12: PDF first (narration order), then the image
 sp(47.18, 50.4, 55.5, 58.3, xf=True)
 sp(50.4, 53.54, 48.3, 50.9, xf=True)
