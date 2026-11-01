@@ -1,5 +1,4 @@
-# Analyze notes
-- Recording 234.7 s, baked recorder zoom, no click log: positions/times are approximate (all `low`); the plan is a hand plan per narration line (no zooms/ripples), anchors not used.
-- Static spans (freezedetect n=0.003 d=0.8) used to choose moving windows; the route drag (116-128 s) is cursor/small-area motion so freezedetect calls it static.
-- Narrated "lock the background" (line 5) and "select it and lock" are not visibly shown; nearest footage is placing the background (38-45 s).
-- "Preview the movement", "entrance animation" and "download" have only partial footage.
+# Analyze notes (script-01, WebP export take)
+No clicks.json and no actions.json: this run used a hand plan (hand_plan.py) instead of per-action anchors, as for earlier script projects. Old actions/plan files from a previous take were deleted.
+- Recording is 169 s; only ~75 s moves (freezedetect n=0.002 d=0.8). Static spans: 4.1-12.9, 20.7-29.6, 41.6-45.4, 56.3-75.1, 77.8-83.9, 87.8-98.1, 102.1-113.1, 116.2-120.9, 124.3-139.7.
+- Recorder baked-in zoom (no ripples). Narration mentions steps not all shown in this take (dimensions check, remove background image, rename-PNG warning): nearest matching footage used.

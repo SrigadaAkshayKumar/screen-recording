@@ -1,14 +1,12 @@
-# Sync notes (hand plan: work/hand_plan.py, no sync.json/anchors)
-Per-line map (line -> source range -> what is seen):
-1 intro -> 127.9-135.1 path settings, Done, text added | 2 -> 9.6-14.7 Canva home, create dialog | 3 -> 25.5-31.8 elements panel
-4 -> 32.8-38.5 recent graphics/background | 5 -> 38.5-44.8 background placed (no visible "lock" click) | 6 -> 110.9-114.7 character selected, Animate
-7 -> 114.7-118.5 Create an animation, route drawing | 8 -> 118.5-122.4 route toward house | 9 -> 122.4-124.0 + 126.8-131.0 settings, Done
-10 -> 116.5-121.0 (replay of route drawing, no footage for the advice) | 11 -> 148.5-158 text box/animation + 172.9-176.1 timeline bar
-12 -> 196.8-201.1 + 205.4-207.8 plus button / add page menu | 13 -> 177.3-189.9 timeline edits (no real "reuse" footage)
-14 -> 98.0-100.6 character search (transition line) | 15 -> 100.6-106.0 character placed | 16 -> 106.4-110.5 + 127.9-131.9 character + path settings
-17 -> 216.1-225.9 share, download, MP4 (the "preview the complete sequence" part is not shown: playback is flagged static).
+# Sync notes (script-01)
+One group per narration line, ~1x, cross-fade at every source jump; no zooms/ripples/holds. Per-line source windows in hand_plan.py.
 ## Judgment calls
-- Recording order differs from narration (animate steps come before text; scene add shown from later footage) - follow audio.
-- Every group starts on its line start, 0.82-1.32x, no holds, no pace warnings.
-- Two plan zooms (2.0x on the canvas at out 32.6 and 47.4) because the route drawing is small-area motion that freezedetect and the eye read as static.
-- Remaining freezedetect(n=0.003,d=1.5) blips on the preview: 33.5 (1.7s), 35.2 (2.3s), 37.5, 39.7, 48.6 (<=1.7s) during route drawing; final verify PASS (3 s limit).
+- L1 intro: home screen + design open (src 1.0-4.1, 16.7-19.4). L2 open design: 12.9-15.7 (home -> editor).
+- L3 dimensions / L12 remove background: 29.6-38.4 editor text/selection footage (reused for L7).
+- L4 Share/Download 45.4-49.1; L5 and L19 File Type -> WebP 49.2-53.0 (reused).
+- L6-L11 settings: size slider, quality, transparent toggle from 53-56, 75-78, 84-87, 98-101 (static-detected spans avoided).
+- L13 download toast 113-116; L14 opened image 120.9-124.3 + 140-141.5; L15-L18 image viewer / Canva footage 141.5-161.7 (L17 shows a doc download menu); L20 end 163-168.6.
+- Audio order followed; footage reused across lines because only ~75 s of the take moves.
+## Uncertain
+- Opening 0-2.4 s is the static home screen (freezedetect d=1.5: 2.37 s, under the 2.5 s limit).
+- L10 (quality) and L13 (1.30x) use footage that only loosely matches the words.
