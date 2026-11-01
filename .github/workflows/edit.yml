@@ -20,6 +20,10 @@ on:
         description: 'One-off fix (2026-10 batch): cut the spoken "SCRIPT N", title and "(On screen: ...)" lines out of each voiceover first (texts in voiceover-fix/all-scripts.txt)'
         type: boolean
         default: false
+      read_report:
+        description: 'Read-only: edit nothing, just print output/<name>/report.md from Drive for the projects named above'
+        type: boolean
+        default: false
       model:
         description: 'Claude model for the analyze/sync stages (blank = Claude Code default)'
         default: ''
@@ -36,7 +40,31 @@ env:
   DRIVE: gdrive:${{ vars.DRIVE_FOLDER || 'screencast-editor' }}
 
 jobs:
+  read-report:
+    if: ${{ inputs.read_report }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Install rclone
+        run: curl -fsSL https://rclone.org/install.sh | sudo bash
+      - name: Configure rclone
+        env: { RCLONE_CONF: '${{ secrets.RCLONE_CONF }}' }
+        run: mkdir -p ~/.config/rclone && printf '%s\n' "$RCLONE_CONF" > ~/.config/rclone/rclone.conf
+      - name: Print the reports
+        env: { PROJECTS: '${{ inputs.projects }}${{ inputs.suffix }}' }
+        run: |
+          IFS=',' read -ra ps <<< "$PROJECTS"
+          for p in "${ps[@]}"; do
+            p=$(echo "$p" | xargs)
+            rclone cat "$DRIVE/output/$p/report.md" > out.txt || { echo "::warning::$p: report.md not found"; continue; }
+            { echo "## $p"; cat out.txt; } >> "$GITHUB_STEP_SUMMARY"
+            split -b 3500 -d out.txt chunk_      # annotations hold about 4 KB each
+            for c in chunk_*; do echo "::notice title=$p $c::$(sed ':a;N;$!ba;s/%/%25/g;s/\r//g;s/\n/%0A/g' "$c")"; done
+            rm -f chunk_* out.txt
+          done
+
   list:
+    if: ${{ !inputs.read_report }}
     runs-on: ubuntu-latest
     outputs:
       projects: ${{ steps.pick.outputs.projects }}
