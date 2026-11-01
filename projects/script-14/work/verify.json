@@ -5,7 +5,7 @@
     {
       "name": "duration",
       "ok": true,
-      "detail": "96.455s vs voiceover 96.456s"
+      "detail": "91.666s vs voiceover 91.672s"
     },
     {
       "name": "streams",
@@ -15,17 +15,17 @@
     {
       "name": "resolution",
       "ok": true,
-      "detail": "2560x1440 (expected 2560x1440)"
+      "detail": "3420x1922 (expected 3420x1922)"
     },
     {
       "name": "frozen spans",
       "ok": true,
-      "detail": "2 freeze(s) over 3s, all planned holds/stills; static in the source too (not caused by the edit): 0.00-6.57"
+      "detail": "0 freeze(s) over 3s, all planned holds/stills"
     },
     {
       "name": "black frames at joins",
       "ok": true,
-      "detail": "18 boundaries clean"
+      "detail": "25 boundaries clean"
     }
   ],
   "zoom_frames": []
