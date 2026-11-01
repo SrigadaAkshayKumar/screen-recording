@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to speed up a video clip in Canva so the faster motion is included in the downloaded video.",
+    "text": "This tutorial shows you how to make a bar chart race with Canva's built-in chart tools.",
     "start": 0.0,
-    "end": 5.92,
+    "end": 4.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      22
+      16
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.22
+        "end": 0.24
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.22,
+        "start": 0.24,
         "end": 0.6
       },
       {
@@ -50,1755 +50,1902 @@
       },
       {
         "i": 6,
-        "word": "speed",
+        "word": "make",
         "start": 1.52,
-        "end": 1.8
+        "end": 1.64
       },
       {
         "i": 7,
-        "word": "up",
-        "start": 1.8,
-        "end": 1.94
+        "word": "a",
+        "start": 1.64,
+        "end": 1.88
       },
       {
         "i": 8,
-        "word": "a",
-        "start": 1.94,
-        "end": 2.08
+        "word": "bar",
+        "start": 1.88,
+        "end": 2.02
       },
       {
         "i": 9,
-        "word": "video",
-        "start": 2.08,
-        "end": 2.3
+        "word": "chart",
+        "start": 2.02,
+        "end": 2.36
       },
       {
         "i": 10,
-        "word": "clip",
-        "start": 2.3,
-        "end": 2.56
+        "word": "race",
+        "start": 2.36,
+        "end": 2.66
       },
       {
         "i": 11,
-        "word": "in",
-        "start": 2.56,
-        "end": 2.84
+        "word": "with",
+        "start": 2.66,
+        "end": 3.0
       },
       {
         "i": 12,
-        "word": "Canva",
-        "start": 2.84,
-        "end": 3.12
+        "word": "Canva's",
+        "start": 3.0,
+        "end": 3.5
       },
       {
         "i": 13,
-        "word": "so",
-        "start": 3.12,
-        "end": 3.3
+        "word": "built",
+        "start": 3.5,
+        "end": 3.66
       },
       {
         "i": 14,
-        "word": "the",
-        "start": 3.3,
-        "end": 3.44
+        "word": "-in",
+        "start": 3.66,
+        "end": 3.94
       },
       {
         "i": 15,
-        "word": "faster",
-        "start": 3.44,
-        "end": 3.76
+        "word": "chart",
+        "start": 3.94,
+        "end": 4.18
       },
       {
         "i": 16,
-        "word": "motion",
-        "start": 3.76,
-        "end": 4.06
-      },
-      {
-        "i": 17,
-        "word": "is",
-        "start": 4.06,
-        "end": 4.34
-      },
-      {
-        "i": 18,
-        "word": "included",
-        "start": 4.34,
-        "end": 4.68
-      },
-      {
-        "i": 19,
-        "word": "in",
-        "start": 4.68,
-        "end": 4.92
-      },
-      {
-        "i": 20,
-        "word": "the",
-        "start": 4.92,
-        "end": 5.04
-      },
-      {
-        "i": 21,
-        "word": "downloaded",
-        "start": 5.04,
-        "end": 5.44
-      },
-      {
-        "i": 22,
-        "word": "video.",
-        "start": 5.44,
-        "end": 5.92
+        "word": "tools.",
+        "start": 4.18,
+        "end": 4.7
       }
     ]
   },
   {
     "id": 2,
-    "text": "Create or open a video design.",
-    "start": 6.58,
-    "end": 8.44,
+    "text": "Open a design and choose charts from the side panel.",
+    "start": 5.5,
+    "end": 7.98,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      23,
-      28
+      17,
+      26
     ],
     "words": [
       {
+        "i": 17,
+        "word": "Open",
+        "start": 5.5,
+        "end": 5.72
+      },
+      {
+        "i": 18,
+        "word": "a",
+        "start": 5.72,
+        "end": 5.86
+      },
+      {
+        "i": 19,
+        "word": "design",
+        "start": 5.86,
+        "end": 6.16
+      },
+      {
+        "i": 20,
+        "word": "and",
+        "start": 6.16,
+        "end": 6.44
+      },
+      {
+        "i": 21,
+        "word": "choose",
+        "start": 6.44,
+        "end": 6.72
+      },
+      {
+        "i": 22,
+        "word": "charts",
+        "start": 6.72,
+        "end": 7.06
+      },
+      {
         "i": 23,
-        "word": "Create",
-        "start": 6.58,
-        "end": 6.92
+        "word": "from",
+        "start": 7.06,
+        "end": 7.3
       },
       {
         "i": 24,
-        "word": "or",
-        "start": 6.92,
-        "end": 7.22
+        "word": "the",
+        "start": 7.3,
+        "end": 7.44
       },
       {
         "i": 25,
-        "word": "open",
-        "start": 7.22,
-        "end": 7.56
+        "word": "side",
+        "start": 7.44,
+        "end": 7.68
       },
       {
         "i": 26,
-        "word": "a",
-        "start": 7.56,
-        "end": 7.78
-      },
-      {
-        "i": 27,
-        "word": "video",
-        "start": 7.78,
-        "end": 8.0
-      },
-      {
-        "i": 28,
-        "word": "design.",
-        "start": 8.0,
-        "end": 8.44
+        "word": "panel.",
+        "start": 7.68,
+        "end": 7.98
       }
     ]
   },
   {
     "id": 3,
-    "text": "Go to uploads, add your video and wait for it to finish uploading before editing.",
-    "start": 9.04,
-    "end": 13.1,
+    "text": "If you do not see it, open Apps and find charts there.",
+    "start": 8.62,
+    "end": 12.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      29,
-      43
+      27,
+      38
     ],
     "words": [
       {
+        "i": 27,
+        "word": "If",
+        "start": 8.62,
+        "end": 8.78
+      },
+      {
+        "i": 28,
+        "word": "you",
+        "start": 8.78,
+        "end": 8.9
+      },
+      {
         "i": 29,
-        "word": "Go",
-        "start": 9.04,
-        "end": 9.16
+        "word": "do",
+        "start": 8.9,
+        "end": 9.0
       },
       {
         "i": 30,
-        "word": "to",
-        "start": 9.16,
-        "end": 9.32
+        "word": "not",
+        "start": 9.0,
+        "end": 9.14
       },
       {
         "i": 31,
-        "word": "uploads,",
-        "start": 9.32,
-        "end": 9.9
+        "word": "see",
+        "start": 9.14,
+        "end": 9.38
       },
       {
         "i": 32,
-        "word": "add",
-        "start": 10.02,
-        "end": 10.12
+        "word": "it,",
+        "start": 9.38,
+        "end": 9.62
       },
       {
         "i": 33,
-        "word": "your",
-        "start": 10.12,
-        "end": 10.26
+        "word": "open",
+        "start": 9.94,
+        "end": 10.22
       },
       {
         "i": 34,
-        "word": "video",
-        "start": 10.26,
-        "end": 10.56
+        "word": "Apps",
+        "start": 10.22,
+        "end": 10.52
       },
       {
         "i": 35,
         "word": "and",
-        "start": 10.56,
-        "end": 11.06
+        "start": 10.52,
+        "end": 10.96
       },
       {
         "i": 36,
-        "word": "wait",
-        "start": 11.06,
-        "end": 11.22
+        "word": "find",
+        "start": 10.96,
+        "end": 11.28
       },
       {
         "i": 37,
-        "word": "for",
-        "start": 11.22,
-        "end": 11.38
+        "word": "charts",
+        "start": 11.28,
+        "end": 11.56
       },
       {
         "i": 38,
-        "word": "it",
-        "start": 11.38,
-        "end": 11.46
-      },
-      {
-        "i": 39,
-        "word": "to",
-        "start": 11.46,
-        "end": 11.62
-      },
-      {
-        "i": 40,
-        "word": "finish",
-        "start": 11.62,
-        "end": 11.8
-      },
-      {
-        "i": 41,
-        "word": "uploading",
-        "start": 11.8,
-        "end": 12.26
-      },
-      {
-        "i": 42,
-        "word": "before",
-        "start": 12.26,
-        "end": 12.66
-      },
-      {
-        "i": 43,
-        "word": "editing.",
-        "start": 12.66,
-        "end": 13.1
+        "word": "there.",
+        "start": 11.56,
+        "end": 12.02
       }
     ]
   },
   {
     "id": 4,
-    "text": "Select the actual video clip, click edit in the toolbar, then find video speed in the side panel.",
-    "start": 13.88,
-    "end": 19.04,
+    "text": "Under Bar Race Charts, choose a bar race chart or single colour bar race.",
+    "start": 13.12,
+    "end": 17.4,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      44,
-      61
+      39,
+      52
     ],
     "words": [
       {
-        "i": 44,
-        "word": "Select",
-        "start": 13.88,
-        "end": 14.04
+        "i": 39,
+        "word": "Under",
+        "start": 13.12,
+        "end": 13.3
       },
       {
-        "i": 45,
-        "word": "the",
-        "start": 14.04,
+        "i": 40,
+        "word": "Bar",
+        "start": 13.3,
+        "end": 13.58
+      },
+      {
+        "i": 41,
+        "word": "Race",
+        "start": 13.58,
+        "end": 13.88
+      },
+      {
+        "i": 42,
+        "word": "Charts,",
+        "start": 13.88,
         "end": 14.24
       },
       {
-        "i": 46,
-        "word": "actual",
-        "start": 14.24,
-        "end": 14.5
+        "i": 43,
+        "word": "choose",
+        "start": 14.46,
+        "end": 14.54
       },
       {
-        "i": 47,
-        "word": "video",
-        "start": 14.5,
+        "i": 44,
+        "word": "a",
+        "start": 14.54,
         "end": 14.76
       },
       {
-        "i": 48,
-        "word": "clip,",
+        "i": 45,
+        "word": "bar",
         "start": 14.76,
-        "end": 15.08
+        "end": 14.98
+      },
+      {
+        "i": 46,
+        "word": "race",
+        "start": 14.98,
+        "end": 15.28
+      },
+      {
+        "i": 47,
+        "word": "chart",
+        "start": 15.28,
+        "end": 15.6
+      },
+      {
+        "i": 48,
+        "word": "or",
+        "start": 15.6,
+        "end": 16.0
       },
       {
         "i": 49,
-        "word": "click",
-        "start": 15.34,
-        "end": 15.68
+        "word": "single",
+        "start": 16.0,
+        "end": 16.4
       },
       {
         "i": 50,
-        "word": "edit",
-        "start": 15.68,
-        "end": 15.96
-      },
-      {
-        "i": 51,
-        "word": "in",
-        "start": 15.96,
-        "end": 16.16
-      },
-      {
-        "i": 52,
-        "word": "the",
-        "start": 16.16,
-        "end": 16.28
-      },
-      {
-        "i": 53,
-        "word": "toolbar,",
-        "start": 16.28,
+        "word": "colour",
+        "start": 16.4,
         "end": 16.66
       },
       {
-        "i": 54,
-        "word": "then",
+        "i": 51,
+        "word": "bar",
+        "start": 16.66,
+        "end": 17.02
+      },
+      {
+        "i": 52,
+        "word": "race.",
         "start": 17.02,
-        "end": 17.2
-      },
-      {
-        "i": 55,
-        "word": "find",
-        "start": 17.2,
-        "end": 17.46
-      },
-      {
-        "i": 56,
-        "word": "video",
-        "start": 17.46,
-        "end": 17.7
-      },
-      {
-        "i": 57,
-        "word": "speed",
-        "start": 17.7,
-        "end": 18.04
-      },
-      {
-        "i": 58,
-        "word": "in",
-        "start": 18.04,
-        "end": 18.3
-      },
-      {
-        "i": 59,
-        "word": "the",
-        "start": 18.3,
-        "end": 18.44
-      },
-      {
-        "i": 60,
-        "word": "side",
-        "start": 18.44,
-        "end": 18.7
-      },
-      {
-        "i": 61,
-        "word": "panel.",
-        "start": 18.7,
-        "end": 19.04
+        "end": 17.4
       }
     ]
   },
   {
     "id": 5,
-    "text": "If speed appears directly in your toolbar, you can open the same controls from there.",
-    "start": 19.58,
-    "end": 23.94,
+    "text": "Select the inserted chart and click Edit to open its data controls.",
+    "start": 17.94,
+    "end": 21.78,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      62,
-      76
+      53,
+      64
     ],
     "words": [
       {
+        "i": 53,
+        "word": "Select",
+        "start": 17.94,
+        "end": 18.2
+      },
+      {
+        "i": 54,
+        "word": "the",
+        "start": 18.2,
+        "end": 18.44
+      },
+      {
+        "i": 55,
+        "word": "inserted",
+        "start": 18.44,
+        "end": 18.86
+      },
+      {
+        "i": 56,
+        "word": "chart",
+        "start": 18.86,
+        "end": 19.26
+      },
+      {
+        "i": 57,
+        "word": "and",
+        "start": 19.26,
+        "end": 19.54
+      },
+      {
+        "i": 58,
+        "word": "click",
+        "start": 19.54,
+        "end": 19.82
+      },
+      {
+        "i": 59,
+        "word": "Edit",
+        "start": 19.82,
+        "end": 20.14
+      },
+      {
+        "i": 60,
+        "word": "to",
+        "start": 20.14,
+        "end": 20.56
+      },
+      {
+        "i": 61,
+        "word": "open",
+        "start": 20.56,
+        "end": 20.86
+      },
+      {
         "i": 62,
-        "word": "If",
-        "start": 19.58,
-        "end": 19.76
+        "word": "its",
+        "start": 20.86,
+        "end": 21.04
       },
       {
         "i": 63,
-        "word": "speed",
-        "start": 19.76,
-        "end": 20.06
+        "word": "data",
+        "start": 21.04,
+        "end": 21.24
       },
       {
         "i": 64,
-        "word": "appears",
-        "start": 20.06,
-        "end": 20.38
-      },
-      {
-        "i": 65,
-        "word": "directly",
-        "start": 20.38,
-        "end": 20.76
-      },
-      {
-        "i": 66,
-        "word": "in",
-        "start": 20.76,
-        "end": 21.1
-      },
-      {
-        "i": 67,
-        "word": "your",
-        "start": 21.1,
-        "end": 21.26
-      },
-      {
-        "i": 68,
-        "word": "toolbar,",
-        "start": 21.26,
-        "end": 21.66
-      },
-      {
-        "i": 69,
-        "word": "you",
-        "start": 22.1,
-        "end": 22.16
-      },
-      {
-        "i": 70,
-        "word": "can",
-        "start": 22.16,
-        "end": 22.28
-      },
-      {
-        "i": 71,
-        "word": "open",
-        "start": 22.28,
-        "end": 22.52
-      },
-      {
-        "i": 72,
-        "word": "the",
-        "start": 22.52,
-        "end": 22.7
-      },
-      {
-        "i": 73,
-        "word": "same",
-        "start": 22.7,
-        "end": 22.92
-      },
-      {
-        "i": 74,
-        "word": "controls",
-        "start": 22.92,
-        "end": 23.32
-      },
-      {
-        "i": 75,
-        "word": "from",
-        "start": 23.32,
-        "end": 23.58
-      },
-      {
-        "i": 76,
-        "word": "there.",
-        "start": 23.58,
-        "end": 23.94
+        "word": "controls.",
+        "start": 21.24,
+        "end": 21.78
       }
     ]
   },
   {
     "id": 6,
-    "text": "Move the speed slider above 1 or enter a value such as 2.",
-    "start": 24.4,
-    "end": 27.88,
+    "text": "Replace the sample data with your own labels and values, keeping the sample table structure as a guide.",
+    "start": 22.46,
+    "end": 27.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      77,
-      89
+      65,
+      82
     ],
     "words": [
       {
+        "i": 65,
+        "word": "Replace",
+        "start": 22.46,
+        "end": 22.76
+      },
+      {
+        "i": 66,
+        "word": "the",
+        "start": 22.76,
+        "end": 23.0
+      },
+      {
+        "i": 67,
+        "word": "sample",
+        "start": 23.0,
+        "end": 23.24
+      },
+      {
+        "i": 68,
+        "word": "data",
+        "start": 23.24,
+        "end": 23.52
+      },
+      {
+        "i": 69,
+        "word": "with",
+        "start": 23.52,
+        "end": 23.74
+      },
+      {
+        "i": 70,
+        "word": "your",
+        "start": 23.74,
+        "end": 23.9
+      },
+      {
+        "i": 71,
+        "word": "own",
+        "start": 23.9,
+        "end": 24.22
+      },
+      {
+        "i": 72,
+        "word": "labels",
+        "start": 24.22,
+        "end": 24.5
+      },
+      {
+        "i": 73,
+        "word": "and",
+        "start": 24.5,
+        "end": 24.76
+      },
+      {
+        "i": 74,
+        "word": "values,",
+        "start": 24.76,
+        "end": 25.18
+      },
+      {
+        "i": 75,
+        "word": "keeping",
+        "start": 25.5,
+        "end": 25.76
+      },
+      {
+        "i": 76,
+        "word": "the",
+        "start": 25.76,
+        "end": 25.98
+      },
+      {
         "i": 77,
-        "word": "Move",
-        "start": 24.4,
-        "end": 24.68
+        "word": "sample",
+        "start": 25.98,
+        "end": 26.26
       },
       {
         "i": 78,
-        "word": "the",
-        "start": 24.68,
-        "end": 24.84
+        "word": "table",
+        "start": 26.26,
+        "end": 26.56
       },
       {
         "i": 79,
-        "word": "speed",
-        "start": 24.84,
-        "end": 25.08
+        "word": "structure",
+        "start": 26.56,
+        "end": 26.88
       },
       {
         "i": 80,
-        "word": "slider",
-        "start": 25.08,
-        "end": 25.46
+        "word": "as",
+        "start": 26.88,
+        "end": 27.24
       },
       {
         "i": 81,
-        "word": "above",
-        "start": 25.46,
-        "end": 25.78
+        "word": "a",
+        "start": 27.24,
+        "end": 27.36
       },
       {
         "i": 82,
-        "word": "1",
-        "start": 25.78,
-        "end": 26.12
-      },
-      {
-        "i": 83,
-        "word": "or",
-        "start": 26.12,
-        "end": 26.44
-      },
-      {
-        "i": 84,
-        "word": "enter",
-        "start": 26.44,
-        "end": 26.76
-      },
-      {
-        "i": 85,
-        "word": "a",
-        "start": 26.76,
-        "end": 26.9
-      },
-      {
-        "i": 86,
-        "word": "value",
-        "start": 26.9,
-        "end": 27.14
-      },
-      {
-        "i": 87,
-        "word": "such",
-        "start": 27.14,
-        "end": 27.42
-      },
-      {
-        "i": 88,
-        "word": "as",
-        "start": 27.42,
+        "word": "guide.",
+        "start": 27.36,
         "end": 27.64
-      },
-      {
-        "i": 89,
-        "word": "2.",
-        "start": 27.64,
-        "end": 27.88
       }
     ]
   },
   {
     "id": 7,
-    "text": "Canva's documented video speed range is 1 quarter speed through double speed.",
-    "start": 27.88,
-    "end": 32.14,
+    "text": "Include values for more than one time period, so the chart has changes to animate.",
+    "start": 27.64,
+    "end": 32.1,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      90,
-      101
+      83,
+      97
     ],
     "words": [
       {
-        "i": 90,
-        "word": "Canva's",
-        "start": 27.88,
-        "end": 28.88
+        "i": 83,
+        "word": "Include",
+        "start": 27.64,
+        "end": 28.56
       },
       {
-        "i": 91,
-        "word": "documented",
-        "start": 28.88,
-        "end": 29.3
+        "i": 84,
+        "word": "values",
+        "start": 28.56,
+        "end": 28.92
       },
       {
-        "i": 92,
-        "word": "video",
-        "start": 29.3,
+        "i": 85,
+        "word": "for",
+        "start": 28.92,
+        "end": 29.12
+      },
+      {
+        "i": 86,
+        "word": "more",
+        "start": 29.12,
+        "end": 29.26
+      },
+      {
+        "i": 87,
+        "word": "than",
+        "start": 29.26,
+        "end": 29.4
+      },
+      {
+        "i": 88,
+        "word": "one",
+        "start": 29.4,
         "end": 29.6
       },
       {
-        "i": 93,
-        "word": "speed",
+        "i": 89,
+        "word": "time",
         "start": 29.6,
-        "end": 29.9
+        "end": 29.82
       },
       {
-        "i": 94,
-        "word": "range",
-        "start": 29.9,
+        "i": 90,
+        "word": "period,",
+        "start": 29.82,
         "end": 30.2
       },
       {
-        "i": 95,
-        "word": "is",
-        "start": 30.2,
-        "end": 30.4
-      },
-      {
-        "i": 96,
-        "word": "1",
+        "i": 91,
+        "word": "so",
         "start": 30.4,
-        "end": 30.66
+        "end": 30.58
       },
       {
-        "i": 97,
-        "word": "quarter",
-        "start": 30.66,
-        "end": 30.9
+        "i": 92,
+        "word": "the",
+        "start": 30.58,
+        "end": 30.74
       },
       {
-        "i": 98,
-        "word": "speed",
-        "start": 30.9,
-        "end": 31.24
+        "i": 93,
+        "word": "chart",
+        "start": 30.74,
+        "end": 30.94
       },
       {
-        "i": 99,
-        "word": "through",
-        "start": 31.24,
+        "i": 94,
+        "word": "has",
+        "start": 30.94,
+        "end": 31.2
+      },
+      {
+        "i": 95,
+        "word": "changes",
+        "start": 31.2,
         "end": 31.52
       },
       {
-        "i": 100,
-        "word": "double",
+        "i": 96,
+        "word": "to",
         "start": 31.52,
-        "end": 31.76
+        "end": 31.8
       },
       {
-        "i": 101,
-        "word": "speed.",
-        "start": 31.76,
-        "end": 32.14
+        "i": 97,
+        "word": "animate.",
+        "start": 31.8,
+        "end": 32.1
       }
     ]
   },
   {
     "id": 8,
-    "text": "Preview the clip.",
-    "start": 32.76,
-    "end": 33.42,
+    "text": "For a larger dataset, use import data and upload a supported spreadsheet file.",
+    "start": 33.18,
+    "end": 37.28,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      102,
-      104
+      98,
+      110
     ],
     "words": [
       {
+        "i": 98,
+        "word": "For",
+        "start": 33.18,
+        "end": 33.26
+      },
+      {
+        "i": 99,
+        "word": "a",
+        "start": 33.26,
+        "end": 33.4
+      },
+      {
+        "i": 100,
+        "word": "larger",
+        "start": 33.4,
+        "end": 33.6
+      },
+      {
+        "i": 101,
+        "word": "dataset,",
+        "start": 33.6,
+        "end": 34.02
+      },
+      {
         "i": 102,
-        "word": "Preview",
-        "start": 32.76,
-        "end": 32.96
+        "word": "use",
+        "start": 34.38,
+        "end": 34.6
       },
       {
         "i": 103,
-        "word": "the",
-        "start": 32.96,
-        "end": 33.22
+        "word": "import",
+        "start": 34.6,
+        "end": 34.92
       },
       {
         "i": 104,
-        "word": "clip.",
-        "start": 33.22,
-        "end": 33.42
+        "word": "data",
+        "start": 34.92,
+        "end": 35.18
+      },
+      {
+        "i": 105,
+        "word": "and",
+        "start": 35.18,
+        "end": 35.54
+      },
+      {
+        "i": 106,
+        "word": "upload",
+        "start": 35.54,
+        "end": 35.78
+      },
+      {
+        "i": 107,
+        "word": "a",
+        "start": 35.78,
+        "end": 35.96
+      },
+      {
+        "i": 108,
+        "word": "supported",
+        "start": 35.96,
+        "end": 36.4
+      },
+      {
+        "i": 109,
+        "word": "spreadsheet",
+        "start": 36.4,
+        "end": 36.78
+      },
+      {
+        "i": 110,
+        "word": "file.",
+        "start": 36.78,
+        "end": 37.28
       }
     ]
   },
   {
     "id": 9,
-    "text": "At double speed, 10 seconds of source action plays in approximately 5 seconds.",
-    "start": 34.16,
-    "end": 38.26,
+    "text": "Check the data in Canva before styling the chart.",
+    "start": 37.84,
+    "end": 40.06,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      105,
-      117
+      111,
+      119
     ],
     "words": [
       {
-        "i": 105,
-        "word": "At",
-        "start": 34.16,
-        "end": 34.24
-      },
-      {
-        "i": 106,
-        "word": "double",
-        "start": 34.24,
-        "end": 34.48
-      },
-      {
-        "i": 107,
-        "word": "speed,",
-        "start": 34.48,
-        "end": 34.82
-      },
-      {
-        "i": 108,
-        "word": "10",
-        "start": 35.02,
-        "end": 35.22
-      },
-      {
-        "i": 109,
-        "word": "seconds",
-        "start": 35.22,
-        "end": 35.52
-      },
-      {
-        "i": 110,
-        "word": "of",
-        "start": 35.52,
-        "end": 35.76
-      },
-      {
         "i": 111,
-        "word": "source",
-        "start": 35.76,
-        "end": 35.98
+        "word": "Check",
+        "start": 37.84,
+        "end": 38.02
       },
       {
         "i": 112,
-        "word": "action",
-        "start": 35.98,
-        "end": 36.34
+        "word": "the",
+        "start": 38.02,
+        "end": 38.18
       },
       {
         "i": 113,
-        "word": "plays",
-        "start": 36.34,
-        "end": 36.62
+        "word": "data",
+        "start": 38.18,
+        "end": 38.4
       },
       {
         "i": 114,
         "word": "in",
-        "start": 36.62,
-        "end": 36.88
+        "start": 38.4,
+        "end": 38.62
       },
       {
         "i": 115,
-        "word": "approximately",
-        "start": 36.88,
-        "end": 37.28
+        "word": "Canva",
+        "start": 38.62,
+        "end": 38.92
       },
       {
         "i": 116,
-        "word": "5",
-        "start": 37.28,
-        "end": 37.78
+        "word": "before",
+        "start": 38.92,
+        "end": 39.24
       },
       {
         "i": 117,
-        "word": "seconds.",
-        "start": 37.78,
-        "end": 38.26
+        "word": "styling",
+        "start": 39.24,
+        "end": 39.56
+      },
+      {
+        "i": 118,
+        "word": "the",
+        "start": 39.56,
+        "end": 39.78
+      },
+      {
+        "i": 119,
+        "word": "chart.",
+        "start": 39.78,
+        "end": 40.06
       }
     ]
   },
   {
     "id": 10,
-    "text": "To speed up only the middle of a clip, first select it in the timeline.",
-    "start": 38.9,
-    "end": 42.16,
+    "text": "In Chart Setup, assign the category labels and the values for the time periods.",
+    "start": 40.88,
+    "end": 45.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      118,
-      132
+      120,
+      133
     ],
     "words": [
       {
-        "i": 118,
-        "word": "To",
-        "start": 38.9,
-        "end": 39.06
-      },
-      {
-        "i": 119,
-        "word": "speed",
-        "start": 39.06,
-        "end": 39.32
-      },
-      {
         "i": 120,
-        "word": "up",
-        "start": 39.32,
-        "end": 39.44
+        "word": "In",
+        "start": 40.88,
+        "end": 41.14
       },
       {
         "i": 121,
-        "word": "only",
-        "start": 39.44,
-        "end": 39.74
+        "word": "Chart",
+        "start": 41.14,
+        "end": 41.32
       },
       {
         "i": 122,
-        "word": "the",
-        "start": 39.74,
-        "end": 39.92
+        "word": "Setup,",
+        "start": 41.32,
+        "end": 41.66
       },
       {
         "i": 123,
-        "word": "middle",
-        "start": 39.92,
-        "end": 40.08
+        "word": "assign",
+        "start": 42.08,
+        "end": 42.34
       },
       {
         "i": 124,
-        "word": "of",
-        "start": 40.08,
-        "end": 40.24
+        "word": "the",
+        "start": 42.34,
+        "end": 42.54
       },
       {
         "i": 125,
-        "word": "a",
-        "start": 40.24,
-        "end": 40.38
+        "word": "category",
+        "start": 42.54,
+        "end": 42.88
       },
       {
         "i": 126,
-        "word": "clip,",
-        "start": 40.38,
-        "end": 40.58
+        "word": "labels",
+        "start": 42.88,
+        "end": 43.22
       },
       {
         "i": 127,
-        "word": "first",
-        "start": 40.88,
-        "end": 41.06
+        "word": "and",
+        "start": 43.22,
+        "end": 43.72
       },
       {
         "i": 128,
-        "word": "select",
-        "start": 41.06,
-        "end": 41.38
+        "word": "the",
+        "start": 43.72,
+        "end": 43.84
       },
       {
         "i": 129,
-        "word": "it",
-        "start": 41.38,
-        "end": 41.56
+        "word": "values",
+        "start": 43.84,
+        "end": 44.16
       },
       {
         "i": 130,
-        "word": "in",
-        "start": 41.56,
-        "end": 41.66
+        "word": "for",
+        "start": 44.16,
+        "end": 44.38
       },
       {
         "i": 131,
         "word": "the",
-        "start": 41.66,
-        "end": 41.78
+        "start": 44.38,
+        "end": 44.5
       },
       {
         "i": 132,
-        "word": "timeline.",
-        "start": 41.78,
-        "end": 42.16
+        "word": "time",
+        "start": 44.5,
+        "end": 44.74
+      },
+      {
+        "i": 133,
+        "word": "periods.",
+        "start": 44.74,
+        "end": 45.16
       }
     ]
   },
   {
     "id": 11,
-    "text": "Move the playhead to the start of the section and press S to split.",
-    "start": 42.7,
-    "end": 46.02,
+    "text": "Use colour by if you want an additional grouping to control the colours.",
+    "start": 45.78,
+    "end": 48.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      133,
+      134,
       146
     ],
     "words": [
       {
-        "i": 133,
-        "word": "Move",
-        "start": 42.7,
-        "end": 43.0
-      },
-      {
         "i": 134,
-        "word": "the",
-        "start": 43.0,
-        "end": 43.2
+        "word": "Use",
+        "start": 45.78,
+        "end": 46.04
       },
       {
         "i": 135,
-        "word": "playhead",
-        "start": 43.2,
-        "end": 43.5
+        "word": "colour",
+        "start": 46.04,
+        "end": 46.22
       },
       {
         "i": 136,
-        "word": "to",
-        "start": 43.5,
-        "end": 43.66
+        "word": "by",
+        "start": 46.22,
+        "end": 46.54
       },
       {
         "i": 137,
-        "word": "the",
-        "start": 43.66,
-        "end": 43.78
+        "word": "if",
+        "start": 46.54,
+        "end": 46.68
       },
       {
         "i": 138,
-        "word": "start",
-        "start": 43.78,
-        "end": 44.04
+        "word": "you",
+        "start": 46.68,
+        "end": 46.8
       },
       {
         "i": 139,
-        "word": "of",
-        "start": 44.04,
-        "end": 44.2
+        "word": "want",
+        "start": 46.8,
+        "end": 46.94
       },
       {
         "i": 140,
-        "word": "the",
-        "start": 44.2,
-        "end": 44.3
+        "word": "an",
+        "start": 46.94,
+        "end": 47.08
       },
       {
         "i": 141,
-        "word": "section",
-        "start": 44.3,
-        "end": 44.62
+        "word": "additional",
+        "start": 47.08,
+        "end": 47.52
       },
       {
         "i": 142,
-        "word": "and",
-        "start": 44.62,
-        "end": 44.9
+        "word": "grouping",
+        "start": 47.52,
+        "end": 47.82
       },
       {
         "i": 143,
-        "word": "press",
-        "start": 44.9,
-        "end": 45.14
+        "word": "to",
+        "start": 47.82,
+        "end": 48.14
       },
       {
         "i": 144,
-        "word": "S",
-        "start": 45.14,
-        "end": 45.46
+        "word": "control",
+        "start": 48.14,
+        "end": 48.46
       },
       {
         "i": 145,
-        "word": "to",
-        "start": 45.46,
-        "end": 45.7
+        "word": "the",
+        "start": 48.46,
+        "end": 48.64
       },
       {
         "i": 146,
-        "word": "split.",
-        "start": 45.7,
-        "end": 46.02
+        "word": "colours.",
+        "start": 48.64,
+        "end": 48.94
       }
     ]
   },
   {
     "id": 12,
-    "text": "Split again at the end, select the middle segment and apply the speed change only to that segment.",
-    "start": 46.64,
-    "end": 51.7,
+    "text": "Open Customize to add a clear title, choose the maximum number of visible bars, and adjust playback speed and looping.",
+    "start": 49.62,
+    "end": 56.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       147,
-      164
+      166
     ],
     "words": [
       {
         "i": 147,
-        "word": "Split",
-        "start": 46.64,
-        "end": 46.94
-      },
-      {
-        "i": 148,
-        "word": "again",
-        "start": 46.94,
-        "end": 47.16
-      },
-      {
-        "i": 149,
-        "word": "at",
-        "start": 47.16,
-        "end": 47.28
-      },
-      {
-        "i": 150,
-        "word": "the",
-        "start": 47.28,
-        "end": 47.4
-      },
-      {
-        "i": 151,
-        "word": "end,",
-        "start": 47.4,
-        "end": 47.64
-      },
-      {
-        "i": 152,
-        "word": "select",
-        "start": 47.96,
-        "end": 48.2
-      },
-      {
-        "i": 153,
-        "word": "the",
-        "start": 48.2,
-        "end": 48.4
-      },
-      {
-        "i": 154,
-        "word": "middle",
-        "start": 48.4,
-        "end": 48.58
-      },
-      {
-        "i": 155,
-        "word": "segment",
-        "start": 48.58,
-        "end": 48.98
-      },
-      {
-        "i": 156,
-        "word": "and",
-        "start": 48.98,
-        "end": 49.48
-      },
-      {
-        "i": 157,
-        "word": "apply",
-        "start": 49.48,
-        "end": 49.76
-      },
-      {
-        "i": 158,
-        "word": "the",
-        "start": 49.76,
+        "word": "Open",
+        "start": 49.62,
         "end": 49.92
       },
       {
-        "i": 159,
-        "word": "speed",
+        "i": 148,
+        "word": "Customize",
         "start": 49.92,
-        "end": 50.22
+        "end": 50.5
+      },
+      {
+        "i": 149,
+        "word": "to",
+        "start": 50.5,
+        "end": 50.68
+      },
+      {
+        "i": 150,
+        "word": "add",
+        "start": 50.68,
+        "end": 50.84
+      },
+      {
+        "i": 151,
+        "word": "a",
+        "start": 50.84,
+        "end": 50.96
+      },
+      {
+        "i": 152,
+        "word": "clear",
+        "start": 50.96,
+        "end": 51.22
+      },
+      {
+        "i": 153,
+        "word": "title,",
+        "start": 51.22,
+        "end": 51.62
+      },
+      {
+        "i": 154,
+        "word": "choose",
+        "start": 52.04,
+        "end": 52.3
+      },
+      {
+        "i": 155,
+        "word": "the",
+        "start": 52.3,
+        "end": 52.52
+      },
+      {
+        "i": 156,
+        "word": "maximum",
+        "start": 52.52,
+        "end": 52.78
+      },
+      {
+        "i": 157,
+        "word": "number",
+        "start": 52.78,
+        "end": 53.16
+      },
+      {
+        "i": 158,
+        "word": "of",
+        "start": 53.16,
+        "end": 53.34
+      },
+      {
+        "i": 159,
+        "word": "visible",
+        "start": 53.34,
+        "end": 53.58
       },
       {
         "i": 160,
-        "word": "change",
-        "start": 50.22,
-        "end": 50.56
+        "word": "bars,",
+        "start": 53.58,
+        "end": 54.04
       },
       {
         "i": 161,
-        "word": "only",
-        "start": 50.56,
-        "end": 50.86
+        "word": "and",
+        "start": 54.42,
+        "end": 54.64
       },
       {
         "i": 162,
-        "word": "to",
-        "start": 50.86,
-        "end": 51.16
+        "word": "adjust",
+        "start": 54.64,
+        "end": 54.92
       },
       {
         "i": 163,
-        "word": "that",
-        "start": 51.16,
-        "end": 51.32
+        "word": "playback",
+        "start": 54.92,
+        "end": 55.28
       },
       {
         "i": 164,
-        "word": "segment.",
-        "start": 51.32,
-        "end": 51.7
+        "word": "speed",
+        "start": 55.28,
+        "end": 55.74
+      },
+      {
+        "i": 165,
+        "word": "and",
+        "start": 55.74,
+        "end": 56.18
+      },
+      {
+        "i": 166,
+        "word": "looping.",
+        "start": 56.18,
+        "end": 56.64
       }
     ]
   },
   {
     "id": 13,
-    "text": "Check the timeline afterward.",
-    "start": 52.4,
-    "end": 53.58,
+    "text": "Preview the animation and compare its first and last periods with your table.",
+    "start": 56.64,
+    "end": 61.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      165,
-      168
+      167,
+      179
     ],
     "words": [
       {
-        "i": 165,
-        "word": "Check",
-        "start": 52.4,
-        "end": 52.6
-      },
-      {
-        "i": 166,
-        "word": "the",
-        "start": 52.6,
-        "end": 52.78
-      },
-      {
         "i": 167,
-        "word": "timeline",
-        "start": 52.78,
-        "end": 53.14
+        "word": "Preview",
+        "start": 56.64,
+        "end": 57.58
       },
       {
         "i": 168,
-        "word": "afterward.",
-        "start": 53.14,
-        "end": 53.58
+        "word": "the",
+        "start": 57.58,
+        "end": 57.82
+      },
+      {
+        "i": 169,
+        "word": "animation",
+        "start": 57.82,
+        "end": 58.12
+      },
+      {
+        "i": 170,
+        "word": "and",
+        "start": 58.12,
+        "end": 58.52
+      },
+      {
+        "i": 171,
+        "word": "compare",
+        "start": 58.52,
+        "end": 58.84
+      },
+      {
+        "i": 172,
+        "word": "its",
+        "start": 58.84,
+        "end": 59.06
+      },
+      {
+        "i": 173,
+        "word": "first",
+        "start": 59.06,
+        "end": 59.28
+      },
+      {
+        "i": 174,
+        "word": "and",
+        "start": 59.28,
+        "end": 59.48
+      },
+      {
+        "i": 175,
+        "word": "last",
+        "start": 59.48,
+        "end": 59.66
+      },
+      {
+        "i": 176,
+        "word": "periods",
+        "start": 59.66,
+        "end": 60.1
+      },
+      {
+        "i": 177,
+        "word": "with",
+        "start": 60.1,
+        "end": 60.6
+      },
+      {
+        "i": 178,
+        "word": "your",
+        "start": 60.6,
+        "end": 60.8
+      },
+      {
+        "i": 179,
+        "word": "table.",
+        "start": 60.8,
+        "end": 61.16
       }
     ]
   },
   {
     "id": 14,
-    "text": "Adjust any remaining scene space and reposition text, narration or music that should follow the faster action.",
-    "start": 54.18,
-    "end": 60.0,
+    "text": "Here's the part many tutorials skip.",
+    "start": 61.78,
+    "end": 63.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      169,
+      180,
       185
     ],
     "words": [
       {
-        "i": 169,
-        "word": "Adjust",
-        "start": 54.18,
-        "end": 54.42
-      },
-      {
-        "i": 170,
-        "word": "any",
-        "start": 54.42,
-        "end": 54.82
-      },
-      {
-        "i": 171,
-        "word": "remaining",
-        "start": 54.82,
-        "end": 55.26
-      },
-      {
-        "i": 172,
-        "word": "scene",
-        "start": 55.26,
-        "end": 55.52
-      },
-      {
-        "i": 173,
-        "word": "space",
-        "start": 55.52,
-        "end": 55.86
-      },
-      {
-        "i": 174,
-        "word": "and",
-        "start": 55.86,
-        "end": 56.14
-      },
-      {
-        "i": 175,
-        "word": "reposition",
-        "start": 56.14,
-        "end": 56.6
-      },
-      {
-        "i": 176,
-        "word": "text,",
-        "start": 56.6,
-        "end": 57.04
-      },
-      {
-        "i": 177,
-        "word": "narration",
-        "start": 57.04,
-        "end": 57.7
-      },
-      {
-        "i": 178,
-        "word": "or",
-        "start": 57.7,
-        "end": 58.18
-      },
-      {
-        "i": 179,
-        "word": "music",
-        "start": 58.18,
-        "end": 58.44
-      },
-      {
         "i": 180,
-        "word": "that",
-        "start": 58.44,
-        "end": 58.74
+        "word": "Here's",
+        "start": 61.78,
+        "end": 61.96
       },
       {
         "i": 181,
-        "word": "should",
-        "start": 58.74,
-        "end": 58.9
+        "word": "the",
+        "start": 61.96,
+        "end": 62.06
       },
       {
         "i": 182,
-        "word": "follow",
-        "start": 58.9,
-        "end": 59.18
+        "word": "part",
+        "start": 62.06,
+        "end": 62.22
       },
       {
         "i": 183,
-        "word": "the",
-        "start": 59.18,
-        "end": 59.34
+        "word": "many",
+        "start": 62.22,
+        "end": 62.54
       },
       {
         "i": 184,
-        "word": "faster",
-        "start": 59.34,
-        "end": 59.6
+        "word": "tutorials",
+        "start": 62.54,
+        "end": 63.12
       },
       {
         "i": 185,
-        "word": "action.",
-        "start": 59.6,
-        "end": 60.0
+        "word": "skip.",
+        "start": 63.12,
+        "end": 63.54
       }
     ]
   },
   {
     "id": 15,
-    "text": "Here's the part many tutorials skip.",
-    "start": 60.94,
-    "end": 62.66,
+    "text": "An ordinary bar chart with an entrance animation does not become a chart race.",
+    "start": 64.2,
+    "end": 67.76,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       186,
-      191
+      199
     ],
     "words": [
       {
         "i": 186,
-        "word": "Here's",
-        "start": 60.94,
-        "end": 61.12
+        "word": "An",
+        "start": 64.2,
+        "end": 64.24
       },
       {
         "i": 187,
-        "word": "the",
-        "start": 61.12,
-        "end": 61.22
+        "word": "ordinary",
+        "start": 64.24,
+        "end": 64.52
       },
       {
         "i": 188,
-        "word": "part",
-        "start": 61.22,
-        "end": 61.38
+        "word": "bar",
+        "start": 64.52,
+        "end": 64.8
       },
       {
         "i": 189,
-        "word": "many",
-        "start": 61.38,
-        "end": 61.74
+        "word": "chart",
+        "start": 64.8,
+        "end": 65.06
       },
       {
         "i": 190,
-        "word": "tutorials",
-        "start": 61.74,
-        "end": 62.3
+        "word": "with",
+        "start": 65.06,
+        "end": 65.32
       },
       {
         "i": 191,
-        "word": "skip.",
-        "start": 62.3,
-        "end": 62.66
+        "word": "an",
+        "start": 65.32,
+        "end": 65.44
+      },
+      {
+        "i": 192,
+        "word": "entrance",
+        "start": 65.44,
+        "end": 65.74
+      },
+      {
+        "i": 193,
+        "word": "animation",
+        "start": 65.74,
+        "end": 66.16
+      },
+      {
+        "i": 194,
+        "word": "does",
+        "start": 66.16,
+        "end": 66.54
+      },
+      {
+        "i": 195,
+        "word": "not",
+        "start": 66.54,
+        "end": 66.74
+      },
+      {
+        "i": 196,
+        "word": "become",
+        "start": 66.74,
+        "end": 67.02
+      },
+      {
+        "i": 197,
+        "word": "a",
+        "start": 67.02,
+        "end": 67.2
+      },
+      {
+        "i": 198,
+        "word": "chart",
+        "start": 67.2,
+        "end": 67.44
+      },
+      {
+        "i": 199,
+        "word": "race.",
+        "start": 67.44,
+        "end": 67.76
       }
     ]
   },
   {
     "id": 16,
-    "text": "Speeding up the picture can make its original sound unsuitable.",
-    "start": 63.24,
-    "end": 66.22,
+    "text": "A race uses a time series, so the bar lengths and rankings can change as time advances.",
+    "start": 68.46,
+    "end": 73.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      192,
-      201
+      200,
+      216
     ],
     "words": [
       {
-        "i": 192,
-        "word": "Speeding",
-        "start": 63.24,
-        "end": 63.66
-      },
-      {
-        "i": 193,
-        "word": "up",
-        "start": 63.66,
-        "end": 63.76
-      },
-      {
-        "i": 194,
-        "word": "the",
-        "start": 63.76,
-        "end": 63.92
-      },
-      {
-        "i": 195,
-        "word": "picture",
-        "start": 63.92,
-        "end": 64.16
-      },
-      {
-        "i": 196,
-        "word": "can",
-        "start": 64.16,
-        "end": 64.34
-      },
-      {
-        "i": 197,
-        "word": "make",
-        "start": 64.34,
-        "end": 64.52
-      },
-      {
-        "i": 198,
-        "word": "its",
-        "start": 64.52,
-        "end": 64.68
-      },
-      {
-        "i": 199,
-        "word": "original",
-        "start": 64.68,
-        "end": 65.0
-      },
-      {
         "i": 200,
-        "word": "sound",
-        "start": 65.0,
-        "end": 65.4
+        "word": "A",
+        "start": 68.46,
+        "end": 68.52
       },
       {
         "i": 201,
-        "word": "unsuitable.",
-        "start": 65.4,
-        "end": 66.22
+        "word": "race",
+        "start": 68.52,
+        "end": 68.74
+      },
+      {
+        "i": 202,
+        "word": "uses",
+        "start": 68.74,
+        "end": 69.08
+      },
+      {
+        "i": 203,
+        "word": "a",
+        "start": 69.08,
+        "end": 69.26
+      },
+      {
+        "i": 204,
+        "word": "time",
+        "start": 69.26,
+        "end": 69.52
+      },
+      {
+        "i": 205,
+        "word": "series,",
+        "start": 69.52,
+        "end": 69.9
+      },
+      {
+        "i": 206,
+        "word": "so",
+        "start": 70.28,
+        "end": 70.38
+      },
+      {
+        "i": 207,
+        "word": "the",
+        "start": 70.38,
+        "end": 70.52
+      },
+      {
+        "i": 208,
+        "word": "bar",
+        "start": 70.52,
+        "end": 70.76
+      },
+      {
+        "i": 209,
+        "word": "lengths",
+        "start": 70.76,
+        "end": 71.0
+      },
+      {
+        "i": 210,
+        "word": "and",
+        "start": 71.0,
+        "end": 71.22
+      },
+      {
+        "i": 211,
+        "word": "rankings",
+        "start": 71.22,
+        "end": 71.52
+      },
+      {
+        "i": 212,
+        "word": "can",
+        "start": 71.52,
+        "end": 71.82
+      },
+      {
+        "i": 213,
+        "word": "change",
+        "start": 71.82,
+        "end": 72.24
+      },
+      {
+        "i": 214,
+        "word": "as",
+        "start": 72.24,
+        "end": 72.56
+      },
+      {
+        "i": 215,
+        "word": "time",
+        "start": 72.56,
+        "end": 72.88
+      },
+      {
+        "i": 216,
+        "word": "advances.",
+        "start": 72.88,
+        "end": 73.38
       }
     ]
   },
   {
     "id": 17,
-    "text": "Listen to the result and mute the clip's audio if you are using the fast motion under separate narration or music.",
-    "start": 66.82,
-    "end": 72.76,
+    "text": "For this example, use monthly totals consistently.",
+    "start": 74.26,
+    "end": 76.92,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      202,
-      222
+      217,
+      223
     ],
     "words": [
       {
-        "i": 202,
-        "word": "Listen",
-        "start": 66.82,
-        "end": 66.98
-      },
-      {
-        "i": 203,
-        "word": "to",
-        "start": 66.98,
-        "end": 67.16
-      },
-      {
-        "i": 204,
-        "word": "the",
-        "start": 67.16,
-        "end": 67.26
-      },
-      {
-        "i": 205,
-        "word": "result",
-        "start": 67.26,
-        "end": 67.52
-      },
-      {
-        "i": 206,
-        "word": "and",
-        "start": 67.52,
-        "end": 67.94
-      },
-      {
-        "i": 207,
-        "word": "mute",
-        "start": 67.94,
-        "end": 68.26
-      },
-      {
-        "i": 208,
-        "word": "the",
-        "start": 68.26,
-        "end": 68.5
-      },
-      {
-        "i": 209,
-        "word": "clip's",
-        "start": 68.5,
-        "end": 68.86
-      },
-      {
-        "i": 210,
-        "word": "audio",
-        "start": 68.86,
-        "end": 69.12
-      },
-      {
-        "i": 211,
-        "word": "if",
-        "start": 69.12,
-        "end": 69.44
-      },
-      {
-        "i": 212,
-        "word": "you",
-        "start": 69.44,
-        "end": 69.56
-      },
-      {
-        "i": 213,
-        "word": "are",
-        "start": 69.56,
-        "end": 69.68
-      },
-      {
-        "i": 214,
-        "word": "using",
-        "start": 69.68,
-        "end": 69.92
-      },
-      {
-        "i": 215,
-        "word": "the",
-        "start": 69.92,
-        "end": 70.12
-      },
-      {
-        "i": 216,
-        "word": "fast",
-        "start": 70.12,
-        "end": 70.44
-      },
-      {
         "i": 217,
-        "word": "motion",
-        "start": 70.44,
-        "end": 70.84
+        "word": "For",
+        "start": 74.26,
+        "end": 74.38
       },
       {
         "i": 218,
-        "word": "under",
-        "start": 70.84,
-        "end": 71.14
+        "word": "this",
+        "start": 74.38,
+        "end": 74.5
       },
       {
         "i": 219,
-        "word": "separate",
-        "start": 71.14,
-        "end": 71.5
+        "word": "example,",
+        "start": 74.5,
+        "end": 74.9
       },
       {
         "i": 220,
-        "word": "narration",
-        "start": 71.5,
-        "end": 72.02
+        "word": "use",
+        "start": 75.12,
+        "end": 75.28
       },
       {
         "i": 221,
-        "word": "or",
-        "start": 72.02,
-        "end": 72.34
+        "word": "monthly",
+        "start": 75.28,
+        "end": 75.76
       },
       {
         "i": 222,
-        "word": "music.",
-        "start": 72.34,
-        "end": 72.76
+        "word": "totals",
+        "start": 75.76,
+        "end": 76.18
+      },
+      {
+        "i": 223,
+        "word": "consistently.",
+        "start": 76.18,
+        "end": 76.92
       }
     ]
   },
   {
     "id": 18,
-    "text": "Preview the transition into and out of the accelerated section.",
-    "start": 73.5,
-    "end": 76.6,
+    "text": "Do not mix monthly values with cumulative totals halfway through the dataset, because that changes what the comparison means.",
+    "start": 77.64,
+    "end": 84.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      223,
-      232
+      224,
+      242
     ],
     "words": [
       {
-        "i": 223,
-        "word": "Preview",
-        "start": 73.5,
-        "end": 73.68
-      },
-      {
         "i": 224,
-        "word": "the",
-        "start": 73.68,
-        "end": 73.88
+        "word": "Do",
+        "start": 77.64,
+        "end": 77.74
       },
       {
         "i": 225,
-        "word": "transition",
-        "start": 73.88,
-        "end": 74.26
+        "word": "not",
+        "start": 77.74,
+        "end": 77.88
       },
       {
         "i": 226,
-        "word": "into",
-        "start": 74.26,
-        "end": 74.74
+        "word": "mix",
+        "start": 77.88,
+        "end": 78.2
       },
       {
         "i": 227,
-        "word": "and",
-        "start": 74.74,
-        "end": 75.02
+        "word": "monthly",
+        "start": 78.2,
+        "end": 78.58
       },
       {
         "i": 228,
-        "word": "out",
-        "start": 75.02,
-        "end": 75.36
+        "word": "values",
+        "start": 78.58,
+        "end": 78.96
       },
       {
         "i": 229,
-        "word": "of",
-        "start": 75.36,
-        "end": 75.54
+        "word": "with",
+        "start": 78.96,
+        "end": 79.2
       },
       {
         "i": 230,
-        "word": "the",
-        "start": 75.54,
-        "end": 75.64
+        "word": "cumulative",
+        "start": 79.2,
+        "end": 79.64
       },
       {
         "i": 231,
-        "word": "accelerated",
-        "start": 75.64,
-        "end": 76.08
+        "word": "totals",
+        "start": 79.64,
+        "end": 80.18
       },
       {
         "i": 232,
-        "word": "section.",
-        "start": 76.08,
-        "end": 76.6
+        "word": "halfway",
+        "start": 80.18,
+        "end": 80.78
+      },
+      {
+        "i": 233,
+        "word": "through",
+        "start": 80.78,
+        "end": 81.14
+      },
+      {
+        "i": 234,
+        "word": "the",
+        "start": 81.14,
+        "end": 81.3
+      },
+      {
+        "i": 235,
+        "word": "dataset,",
+        "start": 81.3,
+        "end": 81.74
+      },
+      {
+        "i": 236,
+        "word": "because",
+        "start": 82.02,
+        "end": 82.38
+      },
+      {
+        "i": 237,
+        "word": "that",
+        "start": 82.38,
+        "end": 82.58
+      },
+      {
+        "i": 238,
+        "word": "changes",
+        "start": 82.58,
+        "end": 82.92
+      },
+      {
+        "i": 239,
+        "word": "what",
+        "start": 82.92,
+        "end": 83.16
+      },
+      {
+        "i": 240,
+        "word": "the",
+        "start": 83.16,
+        "end": 83.3
+      },
+      {
+        "i": 241,
+        "word": "comparison",
+        "start": 83.3,
+        "end": 83.68
+      },
+      {
+        "i": 242,
+        "word": "means.",
+        "start": 83.68,
+        "end": 84.14
       }
     ]
   },
   {
     "id": 19,
-    "text": "Then download an mp4 and check the saved file to confirm that the speed change is part of the export.",
-    "start": 77.32,
-    "end": 82.76,
+    "text": "Present or share the chart in a format that preserves its playback.",
+    "start": 84.86,
+    "end": 88.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      233,
-      252
+      243,
+      254
     ],
     "words": [
       {
-        "i": 233,
-        "word": "Then",
-        "start": 77.32,
-        "end": 77.44
-      },
-      {
-        "i": 234,
-        "word": "download",
-        "start": 77.44,
-        "end": 77.8
-      },
-      {
-        "i": 235,
-        "word": "an",
-        "start": 77.8,
-        "end": 77.98
-      },
-      {
-        "i": 236,
-        "word": "mp4",
-        "start": 77.98,
-        "end": 78.72
-      },
-      {
-        "i": 237,
-        "word": "and",
-        "start": 78.72,
-        "end": 79.02
-      },
-      {
-        "i": 238,
-        "word": "check",
-        "start": 79.02,
-        "end": 79.28
-      },
-      {
-        "i": 239,
-        "word": "the",
-        "start": 79.28,
-        "end": 79.44
-      },
-      {
-        "i": 240,
-        "word": "saved",
-        "start": 79.44,
-        "end": 79.76
-      },
-      {
-        "i": 241,
-        "word": "file",
-        "start": 79.76,
-        "end": 80.08
-      },
-      {
-        "i": 242,
-        "word": "to",
-        "start": 80.08,
-        "end": 80.3
-      },
-      {
         "i": 243,
-        "word": "confirm",
-        "start": 80.3,
-        "end": 80.68
+        "word": "Present",
+        "start": 84.86,
+        "end": 85.18
       },
       {
         "i": 244,
-        "word": "that",
-        "start": 80.68,
-        "end": 80.88
+        "word": "or",
+        "start": 85.18,
+        "end": 85.56
       },
       {
         "i": 245,
-        "word": "the",
-        "start": 80.88,
-        "end": 81.0
+        "word": "share",
+        "start": 85.56,
+        "end": 85.86
       },
       {
         "i": 246,
-        "word": "speed",
-        "start": 81.0,
-        "end": 81.3
+        "word": "the",
+        "start": 85.86,
+        "end": 86.02
       },
       {
         "i": 247,
-        "word": "change",
-        "start": 81.3,
-        "end": 81.56
+        "word": "chart",
+        "start": 86.02,
+        "end": 86.26
       },
       {
         "i": 248,
-        "word": "is",
-        "start": 81.56,
-        "end": 81.9
+        "word": "in",
+        "start": 86.26,
+        "end": 86.5
       },
       {
         "i": 249,
-        "word": "part",
-        "start": 81.9,
-        "end": 82.12
+        "word": "a",
+        "start": 86.5,
+        "end": 86.62
       },
       {
         "i": 250,
-        "word": "of",
-        "start": 82.12,
-        "end": 82.32
+        "word": "format",
+        "start": 86.62,
+        "end": 86.9
       },
       {
         "i": 251,
-        "word": "the",
-        "start": 82.32,
-        "end": 82.4
+        "word": "that",
+        "start": 86.9,
+        "end": 87.18
       },
       {
         "i": 252,
-        "word": "export.",
-        "start": 82.4,
-        "end": 82.76
+        "word": "preserves",
+        "start": 87.18,
+        "end": 87.52
+      },
+      {
+        "i": 253,
+        "word": "its",
+        "start": 87.52,
+        "end": 87.84
+      },
+      {
+        "i": 254,
+        "word": "playback.",
+        "start": 87.84,
+        "end": 88.2
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "A PNG or printed PDF is static, so test your chosen delivery format before using it for the finished animation.",
+    "start": 89.0,
+    "end": 95.58,
+    "notes": [],
+    "match": 1.0,
+    "status": "ok",
+    "word_range": [
+      255,
+      274
+    ],
+    "words": [
+      {
+        "i": 255,
+        "word": "A",
+        "start": 89.0,
+        "end": 89.08
+      },
+      {
+        "i": 256,
+        "word": "PNG",
+        "start": 89.08,
+        "end": 89.44
+      },
+      {
+        "i": 257,
+        "word": "or",
+        "start": 89.44,
+        "end": 89.9
+      },
+      {
+        "i": 258,
+        "word": "printed",
+        "start": 89.9,
+        "end": 90.26
+      },
+      {
+        "i": 259,
+        "word": "PDF",
+        "start": 90.26,
+        "end": 90.64
+      },
+      {
+        "i": 260,
+        "word": "is",
+        "start": 90.64,
+        "end": 91.1
+      },
+      {
+        "i": 261,
+        "word": "static,",
+        "start": 91.1,
+        "end": 91.54
+      },
+      {
+        "i": 262,
+        "word": "so",
+        "start": 91.9,
+        "end": 92.12
+      },
+      {
+        "i": 263,
+        "word": "test",
+        "start": 92.12,
+        "end": 92.38
+      },
+      {
+        "i": 264,
+        "word": "your",
+        "start": 92.38,
+        "end": 92.58
+      },
+      {
+        "i": 265,
+        "word": "chosen",
+        "start": 92.58,
+        "end": 92.9
+      },
+      {
+        "i": 266,
+        "word": "delivery",
+        "start": 92.9,
+        "end": 93.22
+      },
+      {
+        "i": 267,
+        "word": "format",
+        "start": 93.22,
+        "end": 93.76
+      },
+      {
+        "i": 268,
+        "word": "before",
+        "start": 93.76,
+        "end": 94.24
+      },
+      {
+        "i": 269,
+        "word": "using",
+        "start": 94.24,
+        "end": 94.54
+      },
+      {
+        "i": 270,
+        "word": "it",
+        "start": 94.54,
+        "end": 94.68
+      },
+      {
+        "i": 271,
+        "word": "for",
+        "start": 94.68,
+        "end": 94.84
+      },
+      {
+        "i": 272,
+        "word": "the",
+        "start": 94.84,
+        "end": 94.96
+      },
+      {
+        "i": 273,
+        "word": "finished",
+        "start": 94.96,
+        "end": 95.22
+      },
+      {
+        "i": 274,
+        "word": "animation.",
+        "start": 95.22,
+        "end": 95.58
       }
     ]
   }
