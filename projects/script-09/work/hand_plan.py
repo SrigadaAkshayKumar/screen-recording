@@ -1,43 +1,50 @@
-"""Hand-built plan for script-09 (298.7 s take, 85.96 s voiceover, 1920x1080, baked recorder zoom: no zooms/ripples).
-One group per narration line, pieces chosen by what each source range shows (see output/report.md)."""
+"""script-09 (232 s Canva mobile-layout take, 95.666 s voiceover, 1920x1080).
+One group per narration line, starting on that line's start (lines.json). Footage matched by step
+(see output/report.md); static source spans from freezedetect are avoided (<2.5 s output)."""
 import json
 P = 'projects/script-09/work/'
-END = 85.96
-STARTS = [0,6.18,8.94,11.58,16.22,21.34,27.3,32.56,35.28,39.9,43.94,46.86,51.7,58.78,62.8,65.34,69.88,73.8,81.74,END]
-PIECES = [
- [(9.1, 15.0)],                      # 1 intro: page + border frame
- [(20.9, 23.7)],                     # 2 click Elements, panel opens
- [(86.5, 89.2)],                     # 3 search rectangle, add it
- [(97.0, 102.0)],                    # 4 resize by corner
- [(103.0, 108.2)],                   # 5 fit inside page edges
- [(116.5, 121.0), (123.5, 125.0)],   # 6 fill colour -> transparent
- [(130.7, 135.2)],                   # 7 stroke style, solid, weight
- [(144.0, 146.7)],                   # 8 stroke colour
- [(136.0, 138.0), (141.2, 143.8)],                   # 9 thin line / weight
- [(179.5, 183.6)],                   # 10 Position panel
- [(216.5, 219.5)],                   # 11 even spacing, finished border
- [(269.3, 273.4)],                   # 12 lock
- [(22.0, 23.6), (27.0, 29.0), (33.0, 36.2)],                     # 13 search Elements for border graphics
- [(71.3, 75.3)],                     # 14 graphics panel
- [(213.0, 215.6)],                   # 15 "part tutorials skip"
- [(246.8, 251.4)],                   # 16 transparency fades outline
- [(254.2, 258.0)],                   # 17 remove fill
- [(270.7, 274.3), (278.5, 282.8)],   # 18 duplicate / next page
- [(288.0, 292.2)],                   # 19 download
+D = 95.666
+L = [0.0, 7.86, 10.46, 15.46, 19.98, 27.72, 32.16, 35.76, 41.02, 47.1, 50.0, 53.38, 59.0, 63.8, 68.24, 72.44, 75.18, 77.9, 85.62, 91.54, D]
+# group per line: list of (src_a, src_b) pieces, spread over the line's slot proportionally
+G = [
+ [(0.6, 3.0), (208.8, 214.26)],            # L1 intro (static home 2.4 s, then phone preview)
+ [(12.4, 15.8)],                           # L2 open design / Preview
+ [(19.1, 24.1)],                           # L3 mobile preview
+ [(36.0, 39.9)],                           # L4 publish panel -> settings
+ [(42.43, 47.33), (24.8, 27.7)],           # L5 settings Resize on mobile, reflow in preview
+ [(50.3, 53.1), (61.83, 63.4)],            # L6 back to design
+ [(123.0, 126.6)],                         # L7 resize text box
+ [(126.6, 130.3), (131.67, 133.2)],        # L8 boundaries / spacing
+ [(84.0, 90.0)],                           # L9 select + group
+ [(96.0, 98.9)],                           # L10 preview again
+ [(90.4, 93.8)],                           # L11 avoid grouping whole layout
+ [(98.6, 100.6), (102.67, 105.9)],         # L12 related items together
+ [(109.0, 112.77), (113.67, 114.7)],       # L13 replace oversized element
+ [(155.0, 159.2)],                         # L14 buttons / links
+ [(159.2, 161.3), (163.5, 165.6)],         # L15 large image
+ [(168.0, 170.7)],                         # L16
+ [(173.5, 176.2)],                         # L17
+ [(202.6, 210.2)],                         # L18 full-screen phone view
+ [(211.2, 217.2)],                         # L19 scroll sections
+ [(217.9, 222.0)],                         # L20 closing
 ]
-segs, prev_end = [], None
-for i, pieces in enumerate(PIECES):
-    o0, o1 = STARTS[i], STARTS[i + 1]
-    sp = sum(b - a for a, b in pieces) / (o1 - o0)
-    t = o0
-    for k, (a, b) in enumerate(pieces):
-        end = o1 if k == len(pieces) - 1 else t + (b - a) / sp
-        s = {"src_start": a, "src_end": b, "out_start": t, "out_end": end, "mode": "speed"}
-        if prev_end is not None and abs(a - prev_end) > 0.002:
-            s["xfade"] = True
-        segs.append(s); prev_end = b; t = end
-    print(f"line {i+1:2d} {o0:6.2f}-{o1:6.2f} {sp:.2f}x {pieces}")
-plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
-        "ripples": [], "intro": None, "outro": None, "sync": [],
+FIXED = {0: [2.4, None]}  # fixed output length for the static opening piece
+segs = []
+for i, pieces in enumerate(G):
+    o = L[i]; end = L[i + 1]
+    fixed = FIXED.get(i, [None] * len(pieces))
+    rest = [p for p, f in zip(pieces, fixed) if f is None]
+    avail = end - o - sum(f for f in fixed if f)
+    tot = sum(b - a for a, b in rest)
+    for k, ((a, b), f) in enumerate(zip(pieces, fixed)):
+        d = f if f else (b - a) / tot * avail
+        o1 = end if k == len(pieces) - 1 else o + d
+        segs.append({"src_start": a, "src_end": b, "out_start": round(o, 3), "out_end": round(o1, 3), "mode": "speed", **({"xfade": True} if ((k > 0 or i > 0) and not (k > 0 and a == pieces[k-1][1]) and not (k == 0 and i > 0 and a == G[i-1][-1][1])) else {})})
+        o = o1
+plan = {"output": {"duration": D, "fps": 30, "width": 1920, "height": 1080},
+        "segments": segs, "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
+for s in segs:
+    d = s['out_end'] - s['out_start']
+    print(f"out {s['out_start']:7.2f}-{s['out_end']:7.2f} src {s['src_start']:6.2f}-{s['src_end']:6.2f} {(s['src_end']-s['src_start'])/d:.2f}x")
