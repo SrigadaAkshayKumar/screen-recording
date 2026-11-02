@@ -13,11 +13,17 @@
   ],
   "fps": 30.0,
   "frames": 2750,
-  "elapsed_s": 331.865,
+  "elapsed_s": 304.249,
   "zoom_peaks": [],
   "joins": [
     {
-      "out_t": 8.4,
+      "out_t": 8.3,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
+      "out_t": 11.28,
       "cut": true,
       "xfade": true,
       "into": "speed"
@@ -29,27 +35,21 @@
       "into": "speed"
     },
     {
-      "out_t": 20.19,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
       "out_t": 22.38,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 29.76,
+      "out_t": 25.9,
       "cut": true,
       "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 31.9,
-      "cut": true,
-      "xfade": true,
+      "out_t": 29.52,
+      "cut": false,
+      "xfade": false,
       "into": "speed"
     },
     {
@@ -60,8 +60,8 @@
     },
     {
       "out_t": 37.02,
-      "cut": false,
-      "xfade": false,
+      "cut": true,
+      "xfade": true,
       "into": "speed"
     },
     {
@@ -78,14 +78,14 @@
     },
     {
       "out_t": 49.26,
-      "cut": false,
-      "xfade": false,
+      "cut": true,
+      "xfade": true,
       "into": "speed"
     },
     {
-      "out_t": 52.3,
-      "cut": false,
-      "xfade": false,
+      "out_t": 52.32,
+      "cut": true,
+      "xfade": true,
       "into": "speed"
     },
     {
@@ -101,7 +101,25 @@
       "into": "speed"
     },
     {
+      "out_t": 66.666,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
+      "out_t": 68.482,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
       "out_t": 70.48,
+      "cut": true,
+      "xfade": true,
+      "into": "speed"
+    },
+    {
+      "out_t": 73.071,
       "cut": true,
       "xfade": true,
       "into": "speed"
@@ -113,13 +131,7 @@
       "into": "speed"
     },
     {
-      "out_t": 78.13,
-      "cut": true,
-      "xfade": true,
-      "into": "speed"
-    },
-    {
-      "out_t": 80.3,
+      "out_t": 80.32,
       "cut": true,
       "xfade": true,
       "into": "speed"
