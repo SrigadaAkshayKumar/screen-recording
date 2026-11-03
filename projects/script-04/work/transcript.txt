@@ -1,24 +1,17 @@
-This tutorial shows you how to remove unwanted white edges from a Canva export,
-with separate checks for digital images and printed designs.
-Open the design and zoom in around all four edges.
-Select the background image or coloured shape and check that it reaches the complete page boundary.
-If an image is meant to cover the whole page, right-click it and choose Set Image as Background.
-Otherwise enlarge it slightly so its edges extend beyond the canvas.
-Check that a white rectangle or border has not been placed above it.
-Download a test image and inspect the saved file at its actual size.
-A line visible only while zooming in the editor may be a preview artefact,
-so judge the exported file before making more changes.
-For a printed design, open File, then Rulers and Guides and enable Show Print Bleed.
-Extend the background into the bleed area instead of stopping at the trim line.
-Choose PDF Print when downloading.
-Enable crop marks and bleed if your print provider requests them,
-and confirm that the provider will trim the sheet to the intended finished size.
-Here's the part many tutorials skip.
-Crop marks create extra space around the artwork.
-That space is expected in a print-ready PDF
-and should not be confused with a white border inside the finished design.
-If your home printer leaves an even white border,
-check its borderless printing support and paper settings.
-Changing the Canva background cannot make a printer print into an area its hardware cannot reach.
-Export one final test and confirm whether the edge problem belongs to the artwork,
-the PDF setup, or the printer.
+This tutorial shows you how to download the invoice for a Canva subscription or purchase as a PDF.
+Start on the Canva home page and check that you are signed into the account used for the payment.
+If you work in several teams, switch to the team where the purchase was made. Open your profile menu and choose settings.
+Then select orders and invoices.
+Find the transaction you need.
+Use the date or purchase type filters to narrow the list or search for an invoice number when you have one.
+Check the payment date and amount before downloading. This helps you avoid saving the invoice for the wrong renewal or print order.
+Select download invoice beside the transaction. In some layouts, open the three dot menu first.
+Another layout labels the action view invoice, which also downloads the PDF.
+Open the downloaded file and check the invoice number, billing details and total.
+Give the file a useful name containing the purchase date so you can find it later.
+Here's the main troubleshooting point.
+Purchases billed through Apple or Google may need their invoice or receipt from that provider.
+A payment made through an app store will not necessarily appear like a direct Canva website purchase.
+If the transaction is missing, check the Canva confirmation email and verify the account and team again.
+Team permissions can also affect which invoices you can see.
+You can now store the PDF with your purchase records or attach it wherever the invoice is needed.
