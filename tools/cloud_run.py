@@ -159,7 +159,12 @@ def run_claude(name: str) -> None:
         "must be smooth and easy to follow - actions at 0.75-1.5x, dead time at most 2x (waits 3x, longer waits cut), "
         "no held frame over 1.5 s, no stretch of real footage where the screen does not move for over 2.5 s "
         "(it looks frozen just like a held frame), no choppy pieces; fix every 'pace:' warning from check.py --plan "
-        "before rendering, or explain in the report why one cannot be fixed."
+        "before rendering, or explain in the report why one cannot be fixed. "
+        "Every narration line must start on footage that SHOWS the step it describes, and the visible UI change "
+        "(click, panel, result) must land on the words describing it: look at the take second by second, do not "
+        "map pieces by recording order or freezedetect windows alone. Verify each line with frames from the final "
+        "render and put a per-line table (out window | source | what is shown | match yes/partly/no) in "
+        "output/report.md; an edit without that table is not finished."
     )
     fb = ROOT / "projects" / name / "work" / "client-feedback.md"
     if fb.exists():                      # a re-edit requested by the client: their words come first

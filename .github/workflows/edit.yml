@@ -24,6 +24,10 @@ on:
         description: 'Read-only: edit nothing, just print output/<name>/report.md from Drive for the projects named above'
         type: boolean
         default: false
+      clean_scripts:
+        description: 'Script texts used by clean_voiceover (file in the repo)'
+        default: 'voiceover-fix/batch-2026-11.txt'
+        required: false
       model:
         description: 'Claude model for the analyze/sync stages (blank = Claude Code default)'
         default: ''
@@ -138,12 +142,12 @@ jobs:
           get "$VIDEO"; get "$AUDIO"; get "$SCRIPT"; get "$CLICKS"
           ls -la inbox
 
-      - name: Clean the voiceover (one-off batch fix)
+      - name: Clean the voiceover (spoken script headings)
         if: inputs.clean_voiceover
         run: |
           N=$(echo "${{ matrix.item.name }}" | grep -oE '[0-9]+$' | sed 's/^0*//')
           A=$(ls inbox/$P.* | grep -iE '\.(mp3|wav|m4a|aac|ogg|flac)$' | head -1)
-          python tools/clean_voiceover.py --scripts voiceover-fix/all-scripts.txt --number "$N" \
+          python tools/clean_voiceover.py --scripts "${{ inputs.clean_scripts || 'voiceover-fix/all-scripts.txt' }}" --number "$N" \
             --audio "$A" --write-script "inbox/$P.md" --backup orig-audio --log "voiceover-cleanup-$P.json" | tee clean.log
           { echo "### $P voiceover cleanup"; echo '```'; cat clean.log; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
           msg=$(sed 's/%/%25/g' clean.log | awk 1 ORS='%0A'); echo "::notice title=voiceover-$P::$msg"
