@@ -1,1664 +1,1586 @@
 [
   {
-    "word": "This",
+    "word": "Script",
     "start": 0.0,
-    "end": 0.22,
-    "prob": 0.946
+    "end": 0.36,
+    "prob": 0.563
+  },
+  {
+    "word": "8,",
+    "start": 0.36,
+    "end": 0.76,
+    "prob": 0.885
+  },
+  {
+    "word": "How",
+    "start": 1.2,
+    "end": 1.32,
+    "prob": 0.666
+  },
+  {
+    "word": "to",
+    "start": 1.32,
+    "end": 1.48,
+    "prob": 0.899
+  },
+  {
+    "word": "make",
+    "start": 1.48,
+    "end": 1.62,
+    "prob": 0.707
+  },
+  {
+    "word": "a",
+    "start": 1.62,
+    "end": 1.84,
+    "prob": 0.988
+  },
+  {
+    "word": "foldable",
+    "start": 1.84,
+    "end": 2.28,
+    "prob": 0.956
+  },
+  {
+    "word": "business",
+    "start": 2.28,
+    "end": 2.58,
+    "prob": 0.978
+  },
+  {
+    "word": "card",
+    "start": 2.58,
+    "end": 3.06,
+    "prob": 0.998
+  },
+  {
+    "word": "in",
+    "start": 3.06,
+    "end": 3.4,
+    "prob": 0.973
+  },
+  {
+    "word": "Canva.",
+    "start": 3.4,
+    "end": 3.88,
+    "prob": 0.977
+  },
+  {
+    "word": "This",
+    "start": 4.54,
+    "end": 4.8,
+    "prob": 0.996
   },
   {
     "word": "tutorial",
-    "start": 0.22,
-    "end": 0.58,
+    "start": 4.8,
+    "end": 5.14,
+    "prob": 0.996
+  },
+  {
+    "word": "shows",
+    "start": 5.14,
+    "end": 5.56,
     "prob": 0.994
   },
   {
-    "word": "explains",
-    "start": 0.58,
-    "end": 1.16,
-    "prob": 0.996
+    "word": "you",
+    "start": 5.56,
+    "end": 5.76,
+    "prob": 0.989
   },
   {
     "word": "how",
-    "start": 1.16,
-    "end": 1.42,
-    "prob": 0.999
-  },
-  {
-    "word": "to",
-    "start": 1.42,
-    "end": 1.58,
-    "prob": 0.999
-  },
-  {
-    "word": "create",
-    "start": 1.58,
-    "end": 1.84,
-    "prob": 0.999
-  },
-  {
-    "word": "internal",
-    "start": 1.84,
-    "end": 2.42,
-    "prob": 0.997
-  },
-  {
-    "word": "links",
-    "start": 2.42,
-    "end": 2.72,
-    "prob": 0.999
-  },
-  {
-    "word": "in",
-    "start": 2.72,
-    "end": 2.96,
-    "prob": 0.995
-  },
-  {
-    "word": "a",
-    "start": 2.96,
-    "end": 3.18,
-    "prob": 0.988
-  },
-  {
-    "word": "Canva",
-    "start": 3.18,
-    "end": 3.3,
-    "prob": 0.985
-  },
-  {
-    "word": "website",
-    "start": 3.3,
-    "end": 3.72,
-    "prob": 0.974
-  },
-  {
-    "word": "and",
-    "start": 3.72,
-    "end": 4.26,
-    "prob": 0.669
-  },
-  {
-    "word": "check",
-    "start": 4.26,
-    "end": 4.48,
-    "prob": 0.992
-  },
-  {
-    "word": "whether",
-    "start": 4.48,
-    "end": 4.66,
-    "prob": 0.989
-  },
-  {
-    "word": "they",
-    "start": 4.66,
-    "end": 4.88,
-    "prob": 0.997
-  },
-  {
-    "word": "jump",
-    "start": 4.88,
-    "end": 5.12,
-    "prob": 0.995
-  },
-  {
-    "word": "within",
-    "start": 5.12,
-    "end": 5.36,
-    "prob": 0.997
-  },
-  {
-    "word": "a",
-    "start": 5.36,
-    "end": 5.52,
-    "prob": 0.997
-  },
-  {
-    "word": "page",
-    "start": 5.52,
-    "end": 5.76,
-    "prob": 0.999
-  },
-  {
-    "word": "or",
     "start": 5.76,
-    "end": 6.06,
-    "prob": 0.947
-  },
-  {
-    "word": "open",
-    "start": 6.06,
-    "end": 6.36,
-    "prob": 0.993
-  },
-  {
-    "word": "another",
-    "start": 6.36,
-    "end": 6.62,
-    "prob": 0.997
-  },
-  {
-    "word": "website",
-    "start": 6.62,
-    "end": 7.0,
-    "prob": 0.995
-  },
-  {
-    "word": "page.",
-    "start": 7.0,
-    "end": 7.46,
-    "prob": 0.999
-  },
-  {
-    "word": "First,",
-    "start": 8.34,
-    "end": 8.34,
-    "prob": 0.985
-  },
-  {
-    "word": "understand",
-    "start": 8.6,
-    "end": 8.92,
-    "prob": 0.991
-  },
-  {
-    "word": "the",
-    "start": 8.92,
-    "end": 9.08,
-    "prob": 0.999
-  },
-  {
-    "word": "destination.",
-    "start": 9.08,
-    "end": 9.58,
-    "prob": 0.996
-  },
-  {
-    "word": "An",
-    "start": 10.42,
-    "end": 10.56,
-    "prob": 0.976
-  },
-  {
-    "word": "anchor",
-    "start": 10.56,
-    "end": 10.82,
-    "prob": 0.955
-  },
-  {
-    "word": "link",
-    "start": 10.82,
-    "end": 11.02,
-    "prob": 0.993
-  },
-  {
-    "word": "jumps",
-    "start": 11.02,
-    "end": 11.34,
-    "prob": 0.999
+    "end": 5.92,
+    "prob": 0.998
   },
   {
     "word": "to",
-    "start": 11.34,
-    "end": 11.54,
+    "start": 5.92,
+    "end": 6.08,
+    "prob": 0.999
+  },
+  {
+    "word": "design",
+    "start": 6.08,
+    "end": 6.32,
     "prob": 0.998
   },
   {
     "word": "a",
-    "start": 11.54,
-    "end": 11.62,
-    "prob": 0.997
-  },
-  {
-    "word": "location",
-    "start": 11.62,
-    "end": 11.98,
-    "prob": 0.999
-  },
-  {
-    "word": "within",
-    "start": 11.98,
-    "end": 12.3,
-    "prob": 0.997
-  },
-  {
-    "word": "the",
-    "start": 12.3,
-    "end": 12.52,
-    "prob": 0.996
-  },
-  {
-    "word": "same",
-    "start": 12.52,
-    "end": 12.82,
-    "prob": 1.0
-  },
-  {
-    "word": "webpage.",
-    "start": 12.82,
-    "end": 13.26,
-    "prob": 0.499
-  },
-  {
-    "word": "A",
-    "start": 13.96,
-    "end": 14.08,
-    "prob": 0.994
-  },
-  {
-    "word": "page",
-    "start": 14.08,
-    "end": 14.32,
-    "prob": 0.984
-  },
-  {
-    "word": "link",
-    "start": 14.32,
-    "end": 14.56,
-    "prob": 0.988
-  },
-  {
-    "word": "opens",
-    "start": 14.56,
-    "end": 14.98,
-    "prob": 0.999
-  },
-  {
-    "word": "another",
-    "start": 14.98,
-    "end": 15.34,
-    "prob": 0.992
-  },
-  {
-    "word": "page.",
-    "start": 15.34,
-    "end": 15.88,
-    "prob": 1.0
-  },
-  {
-    "word": "Canva's",
-    "start": 16.5,
-    "end": 16.74,
-    "prob": 0.992
-  },
-  {
-    "word": "current",
-    "start": 16.74,
-    "end": 17.04,
-    "prob": 0.974
-  },
-  {
-    "word": "help",
-    "start": 17.04,
-    "end": 17.32,
-    "prob": 0.904
-  },
-  {
-    "word": "instructions",
-    "start": 17.32,
-    "end": 17.82,
-    "prob": 0.993
-  },
-  {
-    "word": "document",
-    "start": 17.82,
-    "end": 18.32,
-    "prob": 0.999
-  },
-  {
-    "word": "page",
-    "start": 18.32,
-    "end": 18.66,
-    "prob": 0.997
-  },
-  {
-    "word": "links,",
-    "start": 18.66,
-    "end": 19.06,
-    "prob": 0.989
-  },
-  {
-    "word": "so",
-    "start": 19.44,
-    "end": 19.66,
-    "prob": 0.996
-  },
-  {
-    "word": "check",
-    "start": 19.66,
-    "end": 19.88,
+    "start": 6.32,
+    "end": 6.48,
     "prob": 0.998
   },
   {
-    "word": "the",
-    "start": 19.88,
-    "end": 20.04,
-    "prob": 0.997
+    "word": "business",
+    "start": 6.48,
+    "end": 6.78,
+    "prob": 0.998
   },
   {
-    "word": "destinations",
-    "start": 20.04,
-    "end": 20.52,
-    "prob": 0.996
+    "word": "card",
+    "start": 6.78,
+    "end": 7.1,
+    "prob": 0.995
   },
   {
-    "word": "available",
-    "start": 20.52,
-    "end": 20.94,
+    "word": "that",
+    "start": 7.1,
+    "end": 7.28,
+    "prob": 0.993
+  },
+  {
+    "word": "folds",
+    "start": 7.28,
+    "end": 7.58,
     "prob": 0.999
   },
   {
     "word": "in",
-    "start": 20.94,
-    "end": 21.32,
-    "prob": 0.999
-  },
-  {
-    "word": "your",
-    "start": 21.32,
-    "end": 21.52,
-    "prob": 0.996
-  },
-  {
-    "word": "editor",
-    "start": 21.52,
-    "end": 21.82,
-    "prob": 0.952
-  },
-  {
-    "word": "before",
-    "start": 21.82,
-    "end": 22.16,
-    "prob": 0.993
-  },
-  {
-    "word": "promising",
-    "start": 22.16,
-    "end": 22.54,
-    "prob": 0.999
-  },
-  {
-    "word": "a",
-    "start": 22.54,
-    "end": 22.82,
-    "prob": 0.986
-  },
-  {
-    "word": "same",
-    "start": 22.82,
-    "end": 23.1,
-    "prob": 0.997
-  },
-  {
-    "word": "page",
-    "start": 23.1,
-    "end": 23.42,
-    "prob": 0.875
-  },
-  {
-    "word": "jump.",
-    "start": 23.42,
-    "end": 23.82,
-    "prob": 0.996
-  },
-  {
-    "word": "Select",
-    "start": 24.44,
-    "end": 24.68,
-    "prob": 0.994
-  },
-  {
-    "word": "the",
-    "start": 24.68,
-    "end": 24.9,
-    "prob": 0.999
-  },
-  {
-    "word": "contact",
-    "start": 24.9,
-    "end": 25.16,
-    "prob": 0.641
-  },
-  {
-    "word": "button",
-    "start": 25.16,
-    "end": 25.58,
+    "start": 7.58,
+    "end": 7.78,
     "prob": 0.998
   },
   {
-    "word": "or",
-    "start": 25.58,
-    "end": 25.94,
-    "prob": 0.911
-  },
-  {
-    "word": "its",
-    "start": 25.94,
-    "end": 26.14,
-    "prob": 0.921
-  },
-  {
-    "word": "text.",
-    "start": 26.14,
-    "end": 26.52,
-    "prob": 0.996
-  },
-  {
-    "word": "Open",
-    "start": 27.16,
-    "end": 27.5,
-    "prob": 0.582
-  },
-  {
-    "word": "link",
-    "start": 27.5,
-    "end": 27.7,
-    "prob": 0.573
-  },
-  {
-    "word": "from",
-    "start": 27.7,
-    "end": 27.94,
-    "prob": 0.995
-  },
-  {
-    "word": "the",
-    "start": 27.94,
-    "end": 28.1,
-    "prob": 0.992
-  },
-  {
-    "word": "floating",
-    "start": 28.1,
-    "end": 28.38,
-    "prob": 0.952
-  },
-  {
-    "word": "toolbar,",
-    "start": 28.38,
-    "end": 28.94,
-    "prob": 0.99
+    "word": "half",
+    "start": 7.78,
+    "end": 8.1,
+    "prob": 0.998
   },
   {
     "word": "using",
-    "start": 29.26,
-    "end": 29.54,
+    "start": 8.1,
+    "end": 8.5,
+    "prob": 0.947
+  },
+  {
+    "word": "a",
+    "start": 8.5,
+    "end": 8.74,
     "prob": 0.997
   },
   {
-    "word": "more",
-    "start": 29.54,
-    "end": 29.88,
-    "prob": 0.311
+    "word": "custom",
+    "start": 8.74,
+    "end": 9.06,
+    "prob": 0.996
   },
   {
-    "word": "if",
-    "start": 29.88,
-    "end": 30.1,
-    "prob": 0.969
+    "word": "Canva",
+    "start": 9.06,
+    "end": 9.58,
+    "prob": 0.982
+  },
+  {
+    "word": "layout.",
+    "start": 9.58,
+    "end": 9.92,
+    "prob": 0.994
+  },
+  {
+    "word": "First,",
+    "start": 10.74,
+    "end": 10.96,
+    "prob": 0.995
+  },
+  {
+    "word": "decide",
+    "start": 11.12,
+    "end": 11.48,
+    "prob": 0.997
   },
   {
     "word": "the",
-    "start": 30.1,
-    "end": 30.24,
+    "start": 11.48,
+    "end": 11.7,
     "prob": 0.999
   },
   {
-    "word": "link",
-    "start": 30.24,
-    "end": 30.42,
-    "prob": 0.95
+    "word": "finished",
+    "start": 11.7,
+    "end": 11.98,
+    "prob": 0.998
   },
   {
-    "word": "icon",
-    "start": 30.42,
-    "end": 30.82,
+    "word": "folded",
+    "start": 11.98,
+    "end": 12.36,
+    "prob": 0.99
+  },
+  {
+    "word": "size",
+    "start": 12.36,
+    "end": 12.74,
+    "prob": 0.998
+  },
+  {
+    "word": "and",
+    "start": 12.74,
+    "end": 13.08,
+    "prob": 0.993
+  },
+  {
+    "word": "folding",
+    "start": 13.08,
+    "end": 13.4,
+    "prob": 0.995
+  },
+  {
+    "word": "direction.",
+    "start": 13.4,
+    "end": 13.88,
+    "prob": 0.999
+  },
+  {
+    "word": "For",
+    "start": 14.52,
+    "end": 14.7,
+    "prob": 0.997
+  },
+  {
+    "word": "this",
+    "start": 14.7,
+    "end": 14.84,
+    "prob": 0.999
+  },
+  {
+    "word": "example,",
+    "start": 14.84,
+    "end": 15.28,
+    "prob": 0.999
+  },
+  {
+    "word": "the",
+    "start": 15.48,
+    "end": 15.6,
+    "prob": 0.996
+  },
+  {
+    "word": "closed",
+    "start": 15.6,
+    "end": 15.88,
+    "prob": 0.986
+  },
+  {
+    "word": "card",
+    "start": 15.88,
+    "end": 16.22,
+    "prob": 0.996
+  },
+  {
+    "word": "will",
+    "start": 16.22,
+    "end": 16.36,
+    "prob": 0.998
+  },
+  {
+    "word": "be",
+    "start": 16.36,
+    "end": 16.5,
+    "prob": 0.999
+  },
+  {
+    "word": "85",
+    "start": 16.5,
+    "end": 17.08,
+    "prob": 0.992
+  },
+  {
+    "word": "millimeters",
+    "start": 17.08,
+    "end": 17.54,
+    "prob": 0.54
+  },
+  {
+    "word": "wide",
+    "start": 17.54,
+    "end": 17.9,
+    "prob": 0.993
+  },
+  {
+    "word": "and",
+    "start": 17.9,
+    "end": 18.18,
+    "prob": 0.957
+  },
+  {
+    "word": "55",
+    "start": 18.18,
+    "end": 18.68,
+    "prob": 0.998
+  },
+  {
+    "word": "millimeters",
+    "start": 18.68,
+    "end": 19.14,
+    "prob": 0.99
+  },
+  {
+    "word": "tall",
+    "start": 19.14,
+    "end": 19.52,
+    "prob": 0.999
+  },
+  {
+    "word": "with",
+    "start": 19.52,
+    "end": 19.9,
+    "prob": 0.83
+  },
+  {
+    "word": "a",
+    "start": 19.9,
+    "end": 20.0,
+    "prob": 0.998
+  },
+  {
+    "word": "horizontal",
+    "start": 20.0,
+    "end": 20.44,
+    "prob": 1.0
+  },
+  {
+    "word": "fold.",
+    "start": 20.44,
+    "end": 21.02,
+    "prob": 0.999
+  },
+  {
+    "word": "Create",
+    "start": 21.54,
+    "end": 21.88,
+    "prob": 0.994
+  },
+  {
+    "word": "a",
+    "start": 21.88,
+    "end": 22.04,
+    "prob": 0.999
+  },
+  {
+    "word": "custom",
+    "start": 22.04,
+    "end": 22.32,
+    "prob": 0.999
+  },
+  {
+    "word": "design",
+    "start": 22.32,
+    "end": 22.7,
+    "prob": 0.995
+  },
+  {
+    "word": "measuring",
+    "start": 22.7,
+    "end": 23.08,
+    "prob": 0.987
+  },
+  {
+    "word": "85",
+    "start": 23.08,
+    "end": 23.72,
+    "prob": 0.996
+  },
+  {
+    "word": "by",
+    "start": 23.72,
+    "end": 24.04,
+    "prob": 0.949
+  },
+  {
+    "word": "110",
+    "start": 24.04,
+    "end": 24.82,
+    "prob": 0.998
+  },
+  {
+    "word": "millimeters.",
+    "start": 24.82,
+    "end": 25.38,
+    "prob": 0.996
+  },
+  {
+    "word": "This",
+    "start": 26.0,
+    "end": 26.24,
     "prob": 0.998
   },
   {
     "word": "is",
-    "start": 30.82,
-    "end": 31.16,
-    "prob": 0.998
+    "start": 26.24,
+    "end": 26.36,
+    "prob": 1.0
   },
   {
-    "word": "hidden.",
-    "start": 31.16,
-    "end": 31.42,
-    "prob": 0.997
-  },
-  {
-    "word": "Under",
-    "start": 32.42,
-    "end": 32.58,
-    "prob": 0.993
-  },
-  {
-    "word": "pages",
-    "start": 32.58,
-    "end": 32.82,
-    "prob": 0.454
-  },
-  {
-    "word": "in",
-    "start": 32.82,
-    "end": 33.08,
-    "prob": 0.994
-  },
-  {
-    "word": "this",
-    "start": 33.08,
-    "end": 33.22,
-    "prob": 0.997
-  },
-  {
-    "word": "document,",
-    "start": 33.22,
-    "end": 33.6,
-    "prob": 0.997
-  },
-  {
-    "word": "choose",
-    "start": 33.84,
-    "end": 33.98,
-    "prob": 0.994
-  },
-  {
-    "word": "your",
-    "start": 33.98,
-    "end": 34.26,
-    "prob": 0.994
-  },
-  {
-    "word": "contact",
-    "start": 34.26,
-    "end": 34.64,
-    "prob": 0.843
-  },
-  {
-    "word": "page",
-    "start": 34.64,
-    "end": 35.0,
+    "word": "the",
+    "start": 26.36,
+    "end": 26.5,
     "prob": 0.999
   },
   {
-    "word": "and",
-    "start": 35.0,
-    "end": 35.3,
-    "prob": 0.946
-  },
-  {
-    "word": "click",
-    "start": 35.3,
-    "end": 35.54,
-    "prob": 0.998
-  },
-  {
-    "word": "done.",
-    "start": 35.54,
-    "end": 35.9,
-    "prob": 0.322
-  },
-  {
-    "word": "Preview",
-    "start": 36.66,
-    "end": 36.8,
+    "word": "unfolded",
+    "start": 26.5,
+    "end": 27.02,
     "prob": 0.98
   },
   {
-    "word": "the",
-    "start": 36.8,
-    "end": 37.02,
-    "prob": 0.998
+    "word": "sheet",
+    "start": 27.02,
+    "end": 27.52,
+    "prob": 1.0
   },
   {
-    "word": "website",
-    "start": 37.02,
-    "end": 37.32,
-    "prob": 0.994
+    "word": "before",
+    "start": 27.52,
+    "end": 28.12,
+    "prob": 0.429
+  },
+  {
+    "word": "adding",
+    "start": 28.12,
+    "end": 28.44,
+    "prob": 0.995
+  },
+  {
+    "word": "any",
+    "start": 28.44,
+    "end": 28.78,
+    "prob": 0.995
+  },
+  {
+    "word": "printer",
+    "start": 28.78,
+    "end": 29.16,
+    "prob": 0.988
+  },
+  {
+    "word": "required",
+    "start": 29.16,
+    "end": 29.58,
+    "prob": 0.441
+  },
+  {
+    "word": "bleed.",
+    "start": 29.58,
+    "end": 29.96,
+    "prob": 0.967
+  },
+  {
+    "word": "Open",
+    "start": 31.1,
+    "end": 31.1,
+    "prob": 0.961
+  },
+  {
+    "word": "file,",
+    "start": 31.1,
+    "end": 31.42,
+    "prob": 0.646
+  },
+  {
+    "word": "then",
+    "start": 31.66,
+    "end": 31.82,
+    "prob": 0.992
+  },
+  {
+    "word": "rulers",
+    "start": 31.82,
+    "end": 32.08,
+    "prob": 0.399
   },
   {
     "word": "and",
-    "start": 37.32,
-    "end": 37.68,
-    "prob": 0.964
+    "start": 32.08,
+    "end": 32.32,
+    "prob": 0.953
   },
   {
-    "word": "test",
-    "start": 37.68,
-    "end": 37.94,
-    "prob": 0.996
-  },
-  {
-    "word": "the",
-    "start": 37.94,
-    "end": 38.14,
+    "word": "guides,",
+    "start": 32.32,
+    "end": 32.6,
     "prob": 0.999
   },
   {
-    "word": "button.",
-    "start": 38.14,
-    "end": 38.42,
+    "word": "and",
+    "start": 32.86,
+    "end": 33.0,
+    "prob": 0.993
+  },
+  {
+    "word": "show",
+    "start": 33.0,
+    "end": 33.28,
+    "prob": 0.994
+  },
+  {
+    "word": "the",
+    "start": 33.28,
+    "end": 33.42,
+    "prob": 0.999
+  },
+  {
+    "word": "rulers.",
+    "start": 33.42,
+    "end": 33.78,
+    "prob": 0.993
+  },
+  {
+    "word": "Add",
+    "start": 34.5,
+    "end": 34.74,
+    "prob": 0.992
+  },
+  {
+    "word": "a",
+    "start": 34.74,
+    "end": 34.9,
+    "prob": 0.998
+  },
+  {
+    "word": "horizontal",
+    "start": 34.9,
+    "end": 35.26,
+    "prob": 0.98
+  },
+  {
+    "word": "guide",
+    "start": 35.26,
+    "end": 35.76,
+    "prob": 0.996
+  },
+  {
+    "word": "halfway",
+    "start": 35.76,
+    "end": 36.12,
+    "prob": 0.846
+  },
+  {
+    "word": "down",
+    "start": 36.12,
+    "end": 36.42,
+    "prob": 0.999
+  },
+  {
+    "word": "the",
+    "start": 36.42,
+    "end": 36.56,
+    "prob": 0.998
+  },
+  {
+    "word": "page",
+    "start": 36.56,
+    "end": 36.86,
+    "prob": 0.998
+  },
+  {
+    "word": "at",
+    "start": 36.86,
+    "end": 37.14,
+    "prob": 0.898
+  },
+  {
+    "word": "55",
+    "start": 37.14,
+    "end": 37.78,
+    "prob": 0.974
+  },
+  {
+    "word": "millimeters.",
+    "start": 37.78,
+    "end": 38.38,
+    "prob": 0.4
+  },
+  {
+    "word": "The",
+    "start": 39.04,
+    "end": 39.18,
+    "prob": 0.993
+  },
+  {
+    "word": "guide",
+    "start": 39.18,
+    "end": 39.44,
+    "prob": 0.996
+  },
+  {
+    "word": "marks",
+    "start": 39.44,
+    "end": 39.78,
+    "prob": 0.997
+  },
+  {
+    "word": "the",
+    "start": 39.78,
+    "end": 39.98,
+    "prob": 0.999
+  },
+  {
+    "word": "fold.",
+    "start": 39.98,
+    "end": 40.32,
+    "prob": 0.994
+  },
+  {
+    "word": "Use",
+    "start": 40.92,
+    "end": 41.12,
+    "prob": 0.998
+  },
+  {
+    "word": "page",
+    "start": 41.12,
+    "end": 41.32,
+    "prob": 0.96
+  },
+  {
+    "word": "one",
+    "start": 41.32,
+    "end": 41.64,
+    "prob": 0.647
+  },
+  {
+    "word": "for",
+    "start": 41.64,
+    "end": 41.84,
+    "prob": 0.997
+  },
+  {
+    "word": "the",
+    "start": 41.84,
+    "end": 41.96,
+    "prob": 0.999
+  },
+  {
+    "word": "outside",
+    "start": 41.96,
+    "end": 42.48,
+    "prob": 0.996
+  },
+  {
+    "word": "spread.",
+    "start": 42.48,
+    "end": 42.92,
     "prob": 0.998
   },
   {
     "word": "In",
-    "start": 39.38,
-    "end": 39.64,
-    "prob": 0.996
-  },
-  {
-    "word": "Canva's",
-    "start": 39.64,
-    "end": 40.02,
-    "prob": 0.97
-  },
-  {
-    "word": "current",
-    "start": 40.02,
-    "end": 40.32,
-    "prob": 0.962
-  },
-  {
-    "word": "multi",
-    "start": 40.32,
-    "end": 40.6,
-    "prob": 0.864
-  },
-  {
-    "word": "-page",
-    "start": 40.6,
-    "end": 40.86,
-    "prob": 0.932
-  },
-  {
-    "word": "website",
-    "start": 40.86,
-    "end": 41.2,
-    "prob": 0.993
-  },
-  {
-    "word": "structure,",
-    "start": 41.2,
-    "end": 41.66,
-    "prob": 0.997
-  },
-  {
-    "word": "this",
-    "start": 41.9,
-    "end": 42.16,
-    "prob": 0.997
-  },
-  {
-    "word": "opens",
-    "start": 42.16,
-    "end": 42.56,
-    "prob": 0.999
-  },
-  {
-    "word": "the",
-    "start": 42.56,
-    "end": 42.78,
-    "prob": 0.999
-  },
-  {
-    "word": "selected",
-    "start": 42.78,
-    "end": 43.1,
-    "prob": 0.997
-  },
-  {
-    "word": "page.",
-    "start": 43.1,
-    "end": 43.58,
-    "prob": 0.999
-  },
-  {
-    "word": "If",
-    "start": 44.02,
-    "end": 44.12,
-    "prob": 0.997
-  },
-  {
-    "word": "you",
-    "start": 44.12,
-    "end": 44.26,
-    "prob": 0.999
-  },
-  {
-    "word": "only",
-    "start": 44.26,
-    "end": 44.48,
-    "prob": 0.996
-  },
-  {
-    "word": "need",
-    "start": 44.48,
-    "end": 44.74,
-    "prob": 0.999
-  },
-  {
-    "word": "visitors",
-    "start": 44.74,
-    "end": 45.06,
-    "prob": 0.996
-  },
-  {
-    "word": "to",
-    "start": 45.06,
-    "end": 45.3,
-    "prob": 0.999
-  },
-  {
-    "word": "reach",
-    "start": 45.3,
-    "end": 45.46,
-    "prob": 0.996
-  },
-  {
-    "word": "your",
-    "start": 45.46,
-    "end": 45.68,
-    "prob": 0.994
-  },
-  {
-    "word": "contact",
-    "start": 45.68,
-    "end": 46.02,
+    "start": 43.76,
+    "end": 43.96,
     "prob": 0.995
   },
   {
-    "word": "details,",
-    "start": 46.02,
-    "end": 46.52,
-    "prob": 0.999
-  },
-  {
-    "word": "place",
-    "start": 46.84,
-    "end": 47.06,
-    "prob": 0.997
-  },
-  {
-    "word": "those",
-    "start": 47.06,
-    "end": 47.28,
-    "prob": 0.995
-  },
-  {
-    "word": "details",
-    "start": 47.28,
-    "end": 47.64,
-    "prob": 0.999
-  },
-  {
-    "word": "on",
-    "start": 47.64,
-    "end": 48.0,
-    "prob": 0.999
-  },
-  {
-    "word": "that",
-    "start": 48.0,
-    "end": 48.18,
-    "prob": 0.995
-  },
-  {
-    "word": "page",
-    "start": 48.18,
-    "end": 48.5,
-    "prob": 1.0
-  },
-  {
-    "word": "and",
-    "start": 48.5,
-    "end": 48.76,
-    "prob": 0.959
-  },
-  {
-    "word": "use",
-    "start": 48.76,
-    "end": 48.94,
-    "prob": 0.999
-  },
-  {
-    "word": "this",
-    "start": 48.94,
-    "end": 49.14,
-    "prob": 0.968
-  },
-  {
-    "word": "supported",
-    "start": 49.14,
-    "end": 49.56,
-    "prob": 0.982
-  },
-  {
-    "word": "navigation",
-    "start": 49.56,
-    "end": 50.02,
-    "prob": 0.984
-  },
-  {
-    "word": "method.",
-    "start": 50.02,
-    "end": 50.48,
-    "prob": 0.999
-  },
-  {
-    "word": "You",
-    "start": 51.24,
-    "end": 51.46,
-    "prob": 0.998
-  },
-  {
-    "word": "can",
-    "start": 51.46,
-    "end": 51.56,
-    "prob": 0.999
-  },
-  {
-    "word": "also",
-    "start": 51.56,
-    "end": 51.74,
-    "prob": 0.998
-  },
-  {
-    "word": "enable",
-    "start": 51.74,
-    "end": 52.08,
-    "prob": 0.999
-  },
-  {
-    "word": "navigation",
-    "start": 52.08,
-    "end": 52.52,
-    "prob": 0.807
-  },
-  {
-    "word": "menu",
-    "start": 52.52,
-    "end": 52.84,
-    "prob": 0.996
-  },
-  {
-    "word": "in",
-    "start": 52.84,
-    "end": 53.12,
-    "prob": 0.998
-  },
-  {
-    "word": "the",
-    "start": 53.12,
-    "end": 53.26,
-    "prob": 0.997
-  },
-  {
-    "word": "website",
-    "start": 53.26,
-    "end": 53.5,
-    "prob": 0.903
-  },
-  {
-    "word": "settings",
-    "start": 53.5,
-    "end": 54.0,
-    "prob": 0.99
-  },
-  {
-    "word": "to",
-    "start": 54.0,
-    "end": 54.46,
-    "prob": 0.854
-  },
-  {
-    "word": "expose",
-    "start": 54.46,
-    "end": 54.88,
-    "prob": 0.999
-  },
-  {
-    "word": "your",
-    "start": 54.88,
-    "end": 55.12,
-    "prob": 0.997
-  },
-  {
-    "word": "website",
-    "start": 55.12,
-    "end": 55.48,
-    "prob": 0.995
-  },
-  {
-    "word": "page's",
-    "start": 55.48,
-    "end": 56.2,
-    "prob": 0.618
-  },
-  {
-    "word": "automatically.",
-    "start": 56.2,
-    "end": 56.78,
-    "prob": 0.203
-  },
-  {
-    "word": "For",
-    "start": 57.66,
-    "end": 57.84,
-    "prob": 0.98
-  },
-  {
-    "word": "an",
-    "start": 57.84,
-    "end": 57.96,
-    "prob": 0.994
-  },
-  {
-    "word": "older",
-    "start": 57.96,
-    "end": 58.34,
-    "prob": 0.992
-  },
-  {
-    "word": "scrolling",
-    "start": 58.34,
-    "end": 58.7,
-    "prob": 0.993
-  },
-  {
-    "word": "website,",
-    "start": 58.7,
-    "end": 59.1,
-    "prob": 0.987
-  },
-  {
-    "word": "test",
-    "start": 59.52,
-    "end": 59.66,
-    "prob": 0.994
-  },
-  {
-    "word": "the",
-    "start": 59.66,
-    "end": 59.88,
-    "prob": 0.999
-  },
-  {
-    "word": "internal",
-    "start": 59.88,
-    "end": 60.28,
+    "word": "a",
+    "start": 43.96,
+    "end": 44.08,
     "prob": 0.989
   },
   {
-    "word": "link",
-    "start": 60.28,
-    "end": 60.52,
-    "prob": 0.996
-  },
-  {
-    "word": "on",
-    "start": 60.52,
-    "end": 60.8,
-    "prob": 0.992
-  },
-  {
-    "word": "the",
-    "start": 60.8,
-    "end": 60.92,
-    "prob": 0.999
-  },
-  {
-    "word": "published",
-    "start": 60.92,
-    "end": 61.2,
-    "prob": 0.991
-  },
-  {
-    "word": "version.",
-    "start": 61.2,
-    "end": 61.62,
-    "prob": 0.999
-  },
-  {
-    "word": "Older",
-    "start": 62.52,
-    "end": 62.52,
-    "prob": 0.993
-  },
-  {
-    "word": "designs",
-    "start": 62.52,
-    "end": 62.88,
-    "prob": 0.997
-  },
-  {
-    "word": "can",
-    "start": 62.88,
-    "end": 63.12,
-    "prob": 0.999
-  },
-  {
-    "word": "organise",
-    "start": 63.12,
-    "end": 63.48,
-    "prob": 0.382
-  },
-  {
-    "word": "their",
-    "start": 63.48,
-    "end": 63.76,
-    "prob": 0.993
-  },
-  {
-    "word": "content",
-    "start": 63.76,
-    "end": 64.08,
-    "prob": 0.999
-  },
-  {
-    "word": "differently,",
-    "start": 64.08,
-    "end": 64.54,
-    "prob": 0.997
-  },
-  {
-    "word": "so",
-    "start": 64.88,
-    "end": 65.12,
-    "prob": 0.997
-  },
-  {
-    "word": "do",
-    "start": 65.12,
-    "end": 65.3,
-    "prob": 0.987
-  },
-  {
-    "word": "not",
-    "start": 65.3,
-    "end": 65.52,
-    "prob": 0.981
-  },
-  {
-    "word": "assume",
-    "start": 65.52,
-    "end": 65.9,
-    "prob": 0.997
-  },
-  {
-    "word": "a",
-    "start": 65.9,
-    "end": 66.12,
-    "prob": 0.998
-  },
-  {
-    "word": "tutorial",
-    "start": 66.12,
-    "end": 66.54,
+    "word": "top",
+    "start": 44.08,
+    "end": 44.26,
     "prob": 0.988
   },
   {
-    "word": "recorded",
-    "start": 66.54,
-    "end": 67.06,
-    "prob": 0.997
+    "word": "fold",
+    "start": 44.26,
+    "end": 44.54,
+    "prob": 0.791
   },
   {
-    "word": "in",
-    "start": 67.06,
-    "end": 67.48,
-    "prob": 0.984
-  },
-  {
-    "word": "another",
-    "start": 67.48,
-    "end": 67.78,
-    "prob": 0.998
-  },
-  {
-    "word": "editor",
-    "start": 67.78,
-    "end": 68.18,
-    "prob": 0.983
-  },
-  {
-    "word": "will",
-    "start": 68.18,
-    "end": 68.36,
-    "prob": 0.998
-  },
-  {
-    "word": "behave",
-    "start": 68.36,
-    "end": 68.66,
-    "prob": 0.997
-  },
-  {
-    "word": "the",
-    "start": 68.66,
-    "end": 68.86,
-    "prob": 0.999
-  },
-  {
-    "word": "same",
-    "start": 68.86,
-    "end": 69.08,
-    "prob": 1.0
-  },
-  {
-    "word": "way.",
-    "start": 69.08,
-    "end": 69.42,
-    "prob": 0.998
-  },
-  {
-    "word": "Here's",
-    "start": 69.94,
-    "end": 70.24,
-    "prob": 0.983
-  },
-  {
-    "word": "the",
-    "start": 70.24,
-    "end": 70.36,
-    "prob": 0.997
-  },
-  {
-    "word": "part",
-    "start": 70.36,
-    "end": 70.56,
-    "prob": 1.0
-  },
-  {
-    "word": "many",
-    "start": 70.56,
-    "end": 70.88,
-    "prob": 0.985
-  },
-  {
-    "word": "tutorials",
-    "start": 70.88,
-    "end": 71.5,
-    "prob": 0.998
-  },
-  {
-    "word": "skip.",
-    "start": 71.5,
-    "end": 71.86,
+    "word": "layout,",
+    "start": 44.54,
+    "end": 44.88,
     "prob": 0.996
   },
   {
-    "word": "Typing",
-    "start": 72.52,
-    "end": 72.76,
-    "prob": 0.942
+    "word": "place",
+    "start": 45.28,
+    "end": 45.46,
+    "prob": 0.998
   },
   {
-    "word": "a",
-    "start": 72.76,
-    "end": 72.88,
-    "prob": 0.997
-  },
-  {
-    "word": "hashtag",
-    "start": 72.88,
-    "end": 73.1,
-    "prob": 0.973
-  },
-  {
-    "word": "followed",
-    "start": 73.1,
-    "end": 73.62,
-    "prob": 0.94
-  },
-  {
-    "word": "by",
-    "start": 73.62,
-    "end": 73.88,
+    "word": "the",
+    "start": 45.46,
+    "end": 45.68,
     "prob": 0.999
   },
   {
-    "word": "a",
-    "start": 73.88,
-    "end": 74.02,
-    "prob": 0.996
+    "word": "front",
+    "start": 45.68,
+    "end": 45.92,
+    "prob": 0.999
   },
   {
-    "word": "heading,",
-    "start": 74.02,
-    "end": 74.26,
+    "word": "cover",
+    "start": 45.92,
+    "end": 46.14,
+    "prob": 0.999
+  },
+  {
+    "word": "on",
+    "start": 46.14,
+    "end": 46.44,
+    "prob": 0.998
+  },
+  {
+    "word": "the",
+    "start": 46.44,
+    "end": 46.56,
     "prob": 1.0
   },
   {
-    "word": "such",
-    "start": 74.48,
-    "end": 74.58,
+    "word": "lower",
+    "start": 46.56,
+    "end": 46.74,
     "prob": 0.999
   },
   {
-    "word": "as",
-    "start": 74.58,
-    "end": 74.84,
-    "prob": 0.999
-  },
-  {
-    "word": "contact,",
-    "start": 74.84,
-    "end": 75.26,
-    "prob": 0.142
-  },
-  {
-    "word": "does",
-    "start": 75.62,
-    "end": 75.8,
-    "prob": 0.997
-  },
-  {
-    "word": "not",
-    "start": 75.8,
-    "end": 75.98,
-    "prob": 0.999
-  },
-  {
-    "word": "create",
-    "start": 75.98,
-    "end": 76.24,
-    "prob": 0.999
-  },
-  {
-    "word": "a",
-    "start": 76.24,
-    "end": 76.44,
-    "prob": 0.999
-  },
-  {
-    "word": "working",
-    "start": 76.44,
-    "end": 76.76,
-    "prob": 0.995
-  },
-  {
-    "word": "anchor",
-    "start": 76.76,
-    "end": 77.14,
-    "prob": 0.994
-  },
-  {
-    "word": "by",
-    "start": 77.14,
-    "end": 77.38,
-    "prob": 0.997
-  },
-  {
-    "word": "itself.",
-    "start": 77.38,
-    "end": 77.72,
+    "word": "half.",
+    "start": 46.74,
+    "end": 47.12,
     "prob": 0.999
   },
   {
     "word": "The",
-    "start": 78.32,
-    "end": 78.48,
+    "start": 47.62,
+    "end": 47.82,
+    "prob": 0.998
+  },
+  {
+    "word": "upper",
+    "start": 47.82,
+    "end": 47.98,
+    "prob": 0.999
+  },
+  {
+    "word": "half",
+    "start": 47.98,
+    "end": 48.2,
+    "prob": 0.998
+  },
+  {
+    "word": "becomes",
+    "start": 48.2,
+    "end": 48.48,
     "prob": 0.996
   },
   {
-    "word": "published",
-    "start": 78.48,
-    "end": 78.74,
-    "prob": 0.989
+    "word": "the",
+    "start": 48.48,
+    "end": 48.66,
+    "prob": 1.0
   },
   {
-    "word": "webpage",
-    "start": 78.74,
-    "end": 79.18,
-    "prob": 0.495
+    "word": "back",
+    "start": 48.66,
+    "end": 48.86,
+    "prob": 0.999
+  },
+  {
+    "word": "cover",
+    "start": 48.86,
+    "end": 49.16,
+    "prob": 0.998
+  },
+  {
+    "word": "and",
+    "start": 49.16,
+    "end": 49.58,
+    "prob": 0.79
+  },
+  {
+    "word": "usually",
+    "start": 49.58,
+    "end": 49.86,
+    "prob": 0.998
   },
   {
     "word": "needs",
-    "start": 79.18,
-    "end": 79.52,
+    "start": 49.86,
+    "end": 50.14,
     "prob": 0.994
   },
   {
-    "word": "a",
-    "start": 79.52,
-    "end": 79.7,
-    "prob": 0.999
+    "word": "its",
+    "start": 50.14,
+    "end": 50.34,
+    "prob": 0.946
   },
   {
-    "word": "matching",
-    "start": 79.7,
-    "end": 79.94,
-    "prob": 0.994
+    "word": "artwork",
+    "start": 50.34,
+    "end": 50.64,
+    "prob": 0.989
   },
   {
-    "word": "target",
-    "start": 79.94,
-    "end": 80.38,
-    "prob": 0.982
-  },
-  {
-    "word": "identifier.",
-    "start": 80.38,
-    "end": 80.92,
-    "prob": 0.998
-  },
-  {
-    "word": "If",
-    "start": 81.48,
-    "end": 81.78,
-    "prob": 0.919
-  },
-  {
-    "word": "your",
-    "start": 81.78,
-    "end": 81.94,
-    "prob": 0.987
-  },
-  {
-    "word": "editor",
-    "start": 81.94,
-    "end": 82.2,
-    "prob": 0.962
-  },
-  {
-    "word": "does",
-    "start": 82.2,
-    "end": 82.42,
-    "prob": 0.99
-  },
-  {
-    "word": "not",
-    "start": 82.42,
-    "end": 82.6,
-    "prob": 0.999
-  },
-  {
-    "word": "offer",
-    "start": 82.6,
-    "end": 82.86,
-    "prob": 0.999
-  },
-  {
-    "word": "your",
-    "start": 82.86,
-    "end": 83.04,
-    "prob": 0.987
-  },
-  {
-    "word": "section",
-    "start": 83.04,
-    "end": 83.32,
-    "prob": 0.99
-  },
-  {
-    "word": "as",
-    "start": 83.32,
-    "end": 83.58,
-    "prob": 0.996
-  },
-  {
-    "word": "a",
-    "start": 83.58,
-    "end": 83.7,
-    "prob": 0.996
-  },
-  {
-    "word": "link",
-    "start": 83.7,
-    "end": 83.84,
-    "prob": 0.955
-  },
-  {
-    "word": "destination,",
-    "start": 83.84,
-    "end": 84.48,
+    "word": "rotated",
+    "start": 50.64,
+    "end": 51.1,
     "prob": 0.992
   },
   {
-    "word": "use",
-    "start": 84.96,
-    "end": 85.2,
-    "prob": 0.988
+    "word": "180",
+    "start": 51.1,
+    "end": 51.94,
+    "prob": 0.99
   },
   {
-    "word": "page",
-    "start": 85.2,
-    "end": 85.5,
-    "prob": 0.77
-  },
-  {
-    "word": "navigation",
-    "start": 85.5,
-    "end": 86.0,
-    "prob": 0.994
-  },
-  {
-    "word": "or",
-    "start": 86.0,
-    "end": 86.46,
-    "prob": 0.947
-  },
-  {
-    "word": "a",
-    "start": 86.46,
-    "end": 86.64,
-    "prob": 0.994
-  },
-  {
-    "word": "website",
-    "start": 86.64,
-    "end": 86.94,
-    "prob": 0.931
-  },
-  {
-    "word": "builder",
-    "start": 86.94,
-    "end": 87.3,
-    "prob": 0.998
-  },
-  {
-    "word": "with",
-    "start": 87.3,
-    "end": 87.56,
-    "prob": 0.938
-  },
-  {
-    "word": "explicit",
-    "start": 87.56,
-    "end": 88.04,
-    "prob": 0.998
-  },
-  {
-    "word": "section",
-    "start": 88.04,
-    "end": 88.54,
-    "prob": 0.978
-  },
-  {
-    "word": "anchor",
-    "start": 88.54,
-    "end": 88.92,
-    "prob": 0.968
-  },
-  {
-    "word": "controls",
-    "start": 88.92,
-    "end": 89.42,
-    "prob": 0.999
-  },
-  {
-    "word": "when",
-    "start": 89.42,
-    "end": 89.98,
-    "prob": 0.887
-  },
-  {
-    "word": "a",
-    "start": 89.98,
-    "end": 90.12,
-    "prob": 0.998
-  },
-  {
-    "word": "true",
-    "start": 90.12,
-    "end": 90.38,
-    "prob": 0.992
-  },
-  {
-    "word": "same",
-    "start": 90.38,
-    "end": 90.72,
-    "prob": 0.917
-  },
-  {
-    "word": "page",
-    "start": 90.72,
-    "end": 91.04,
-    "prob": 0.646
-  },
-  {
-    "word": "jump",
-    "start": 91.04,
-    "end": 91.34,
-    "prob": 0.991
-  },
-  {
-    "word": "is",
-    "start": 91.34,
-    "end": 91.64,
-    "prob": 0.999
-  },
-  {
-    "word": "required.",
-    "start": 91.64,
-    "end": 92.16,
-    "prob": 1.0
-  },
-  {
-    "word": "Publish",
-    "start": 92.92,
-    "end": 93.24,
+    "word": "degrees",
+    "start": 51.94,
+    "end": 52.48,
     "prob": 0.981
   },
   {
-    "word": "your",
-    "start": 93.24,
-    "end": 93.4,
-    "prob": 0.995
+    "word": "relative",
+    "start": 52.48,
+    "end": 53.12,
+    "prob": 0.946
   },
   {
-    "word": "changes",
-    "start": 93.4,
-    "end": 93.72,
+    "word": "to",
+    "start": 53.12,
+    "end": 53.46,
     "prob": 1.0
   },
   {
-    "word": "and",
-    "start": 93.72,
-    "end": 94.12,
-    "prob": 0.936
+    "word": "the",
+    "start": 53.46,
+    "end": 53.58,
+    "prob": 0.999
   },
   {
-    "word": "test",
-    "start": 94.12,
-    "end": 94.36,
-    "prob": 0.999
+    "word": "front.",
+    "start": 53.58,
+    "end": 53.8,
+    "prob": 1.0
+  },
+  {
+    "word": "Add",
+    "start": 54.5,
+    "end": 54.72,
+    "prob": 0.993
+  },
+  {
+    "word": "page",
+    "start": 54.72,
+    "end": 54.96,
+    "prob": 0.998
+  },
+  {
+    "word": "two",
+    "start": 54.96,
+    "end": 55.3,
+    "prob": 0.962
+  },
+  {
+    "word": "for",
+    "start": 55.3,
+    "end": 55.5,
+    "prob": 0.998
   },
   {
     "word": "the",
-    "start": 94.36,
-    "end": 94.58,
-    "prob": 0.998
-  },
-  {
-    "word": "actual",
-    "start": 94.58,
-    "end": 94.98,
+    "start": 55.5,
+    "end": 55.62,
     "prob": 0.999
   },
   {
-    "word": "site",
-    "start": 94.98,
-    "end": 95.3,
-    "prob": 0.997
-  },
-  {
-    "word": "on",
-    "start": 95.3,
-    "end": 95.56,
-    "prob": 0.999
-  },
-  {
-    "word": "desktop",
-    "start": 95.56,
-    "end": 95.86,
-    "prob": 0.974
-  },
-  {
-    "word": "and",
-    "start": 95.86,
-    "end": 96.3,
-    "prob": 0.996
-  },
-  {
-    "word": "phone.",
-    "start": 96.3,
-    "end": 96.62,
+    "word": "inside",
+    "start": 55.62,
+    "end": 56.02,
     "prob": 0.998
   },
   {
-    "word": "Confirm",
-    "start": 97.26,
-    "end": 97.6,
+    "word": "spread.",
+    "start": 56.02,
+    "end": 56.42,
+    "prob": 0.998
+  },
+  {
+    "word": "Place",
+    "start": 57.02,
+    "end": 57.3,
+    "prob": 0.88
+  },
+  {
+    "word": "the",
+    "start": 57.3,
+    "end": 57.48,
     "prob": 0.995
   },
   {
-    "word": "where",
-    "start": 97.6,
-    "end": 97.76,
-    "prob": 0.987
+    "word": "inside",
+    "start": 57.48,
+    "end": 57.86,
+    "prob": 0.957
+  },
+  {
+    "word": "information",
+    "start": 57.86,
+    "end": 58.26,
+    "prob": 0.997
+  },
+  {
+    "word": "in",
+    "start": 58.26,
+    "end": 58.64,
+    "prob": 0.988
   },
   {
     "word": "the",
-    "start": 97.76,
-    "end": 97.9,
-    "prob": 0.998
-  },
-  {
-    "word": "visitor",
-    "start": 97.9,
-    "end": 98.14,
-    "prob": 0.968
-  },
-  {
-    "word": "lands",
-    "start": 98.14,
-    "end": 98.46,
+    "start": 58.64,
+    "end": 58.74,
     "prob": 0.994
   },
   {
-    "word": "before",
-    "start": 98.46,
-    "end": 98.82,
+    "word": "two",
+    "start": 58.74,
+    "end": 58.96,
+    "prob": 0.977
+  },
+  {
+    "word": "panels",
+    "start": 58.96,
+    "end": 59.3,
+    "prob": 0.99
+  },
+  {
+    "word": "and",
+    "start": 59.3,
+    "end": 59.6,
+    "prob": 0.926
+  },
+  {
+    "word": "keep",
+    "start": 59.6,
+    "end": 59.8,
     "prob": 0.998
   },
   {
-    "word": "sharing",
-    "start": 98.82,
-    "end": 99.2,
+    "word": "text",
+    "start": 59.8,
+    "end": 60.12,
+    "prob": 0.991
+  },
+  {
+    "word": "away",
+    "start": 60.12,
+    "end": 60.38,
+    "prob": 0.998
+  },
+  {
+    "word": "from",
+    "start": 60.38,
+    "end": 60.58,
     "prob": 0.998
   },
   {
     "word": "the",
-    "start": 99.2,
-    "end": 99.4,
+    "start": 60.58,
+    "end": 60.72,
+    "prob": 0.997
+  },
+  {
+    "word": "fold",
+    "start": 60.72,
+    "end": 61.02,
+    "prob": 0.977
+  },
+  {
+    "word": "and",
+    "start": 61.02,
+    "end": 61.28,
+    "prob": 0.995
+  },
+  {
+    "word": "outer",
+    "start": 61.28,
+    "end": 61.52,
+    "prob": 0.987
+  },
+  {
+    "word": "edges.",
+    "start": 61.52,
+    "end": 61.92,
     "prob": 0.999
   },
   {
-    "word": "link.",
-    "start": 99.4,
-    "end": 99.6,
+    "word": "Here's",
+    "start": 62.8,
+    "end": 62.96,
+    "prob": 0.966
+  },
+  {
+    "word": "the",
+    "start": 62.96,
+    "end": 63.06,
+    "prob": 0.997
+  },
+  {
+    "word": "essential",
+    "start": 63.06,
+    "end": 63.34,
+    "prob": 0.994
+  },
+  {
+    "word": "check.",
+    "start": 63.34,
+    "end": 63.76,
+    "prob": 0.993
+  },
+  {
+    "word": "Make",
+    "start": 64.52,
+    "end": 64.56,
+    "prob": 0.958
+  },
+  {
+    "word": "a",
+    "start": 64.56,
+    "end": 64.72,
+    "prob": 0.998
+  },
+  {
+    "word": "paper",
+    "start": 64.72,
+    "end": 64.94,
+    "prob": 0.994
+  },
+  {
+    "word": "mock",
+    "start": 64.94,
+    "end": 65.18,
+    "prob": 0.993
+  },
+  {
+    "word": "-up",
+    "start": 65.18,
+    "end": 65.36,
+    "prob": 0.819
+  },
+  {
+    "word": "before",
+    "start": 65.36,
+    "end": 65.68,
+    "prob": 0.998
+  },
+  {
+    "word": "ordering.",
+    "start": 65.68,
+    "end": 66.12,
+    "prob": 1.0
+  },
+  {
+    "word": "Mark",
+    "start": 66.86,
+    "end": 66.96,
+    "prob": 0.979
+  },
+  {
+    "word": "each",
+    "start": 66.96,
+    "end": 67.16,
     "prob": 0.999
+  },
+  {
+    "word": "panel,",
+    "start": 67.16,
+    "end": 67.5,
+    "prob": 0.999
+  },
+  {
+    "word": "print",
+    "start": 67.96,
+    "end": 68.12,
+    "prob": 0.997
+  },
+  {
+    "word": "both",
+    "start": 68.12,
+    "end": 68.42,
+    "prob": 0.997
+  },
+  {
+    "word": "spreads,",
+    "start": 68.42,
+    "end": 68.88,
+    "prob": 0.995
+  },
+  {
+    "word": "fold",
+    "start": 69.32,
+    "end": 69.58,
+    "prob": 0.996
+  },
+  {
+    "word": "the",
+    "start": 69.58,
+    "end": 69.76,
+    "prob": 0.999
+  },
+  {
+    "word": "sheet,",
+    "start": 69.76,
+    "end": 69.98,
+    "prob": 0.998
+  },
+  {
+    "word": "and",
+    "start": 70.4,
+    "end": 70.54,
+    "prob": 0.993
+  },
+  {
+    "word": "confirm",
+    "start": 70.54,
+    "end": 70.94,
+    "prob": 0.999
+  },
+  {
+    "word": "which",
+    "start": 70.94,
+    "end": 71.16,
+    "prob": 0.997
+  },
+  {
+    "word": "way",
+    "start": 71.16,
+    "end": 71.36,
+    "prob": 0.996
+  },
+  {
+    "word": "the",
+    "start": 71.36,
+    "end": 71.54,
+    "prob": 0.997
+  },
+  {
+    "word": "covers",
+    "start": 71.54,
+    "end": 71.78,
+    "prob": 0.875
+  },
+  {
+    "word": "and",
+    "start": 71.78,
+    "end": 72.1,
+    "prob": 0.975
+  },
+  {
+    "word": "inside",
+    "start": 72.1,
+    "end": 72.58,
+    "prob": 0.994
+  },
+  {
+    "word": "text",
+    "start": 72.58,
+    "end": 72.94,
+    "prob": 0.983
+  },
+  {
+    "word": "face.",
+    "start": 72.94,
+    "end": 73.24,
+    "prob": 0.994
+  },
+  {
+    "word": "Duplex",
+    "start": 74.08,
+    "end": 74.42,
+    "prob": 0.747
+  },
+  {
+    "word": "settings",
+    "start": 74.42,
+    "end": 74.74,
+    "prob": 0.968
+  },
+  {
+    "word": "and",
+    "start": 74.74,
+    "end": 75.0,
+    "prob": 0.993
+  },
+  {
+    "word": "printer",
+    "start": 75.0,
+    "end": 75.26,
+    "prob": 0.956
+  },
+  {
+    "word": "templates",
+    "start": 75.26,
+    "end": 75.68,
+    "prob": 0.998
+  },
+  {
+    "word": "can",
+    "start": 75.68,
+    "end": 76.0,
+    "prob": 0.998
+  },
+  {
+    "word": "change",
+    "start": 76.0,
+    "end": 76.34,
+    "prob": 0.999
+  },
+  {
+    "word": "the",
+    "start": 76.34,
+    "end": 76.52,
+    "prob": 0.999
+  },
+  {
+    "word": "required",
+    "start": 76.52,
+    "end": 76.88,
+    "prob": 0.998
+  },
+  {
+    "word": "orientation.",
+    "start": 76.88,
+    "end": 77.58,
+    "prob": 0.997
+  },
+  {
+    "word": "So",
+    "start": 78.06,
+    "end": 78.28,
+    "prob": 0.941
+  },
+  {
+    "word": "use",
+    "start": 78.28,
+    "end": 78.5,
+    "prob": 0.895
+  },
+  {
+    "word": "your",
+    "start": 78.5,
+    "end": 78.7,
+    "prob": 0.996
+  },
+  {
+    "word": "print",
+    "start": 78.7,
+    "end": 78.92,
+    "prob": 0.762
+  },
+  {
+    "word": "provider's",
+    "start": 78.92,
+    "end": 79.38,
+    "prob": 0.947
+  },
+  {
+    "word": "panel",
+    "start": 79.38,
+    "end": 79.64,
+    "prob": 0.99
+  },
+  {
+    "word": "layout",
+    "start": 79.64,
+    "end": 79.94,
+    "prob": 0.999
+  },
+  {
+    "word": "for",
+    "start": 79.94,
+    "end": 80.4,
+    "prob": 0.989
+  },
+  {
+    "word": "the",
+    "start": 80.4,
+    "end": 80.52,
+    "prob": 0.999
+  },
+  {
+    "word": "final",
+    "start": 80.52,
+    "end": 80.78,
+    "prob": 0.999
+  },
+  {
+    "word": "file.",
+    "start": 80.78,
+    "end": 81.18,
+    "prob": 0.999
+  },
+  {
+    "word": "Remove",
+    "start": 81.84,
+    "end": 82.08,
+    "prob": 0.997
+  },
+  {
+    "word": "any",
+    "start": 82.08,
+    "end": 82.4,
+    "prob": 0.999
+  },
+  {
+    "word": "actual",
+    "start": 82.4,
+    "end": 82.84,
+    "prob": 0.997
+  },
+  {
+    "word": "line",
+    "start": 82.84,
+    "end": 83.12,
+    "prob": 0.999
+  },
+  {
+    "word": "you",
+    "start": 83.12,
+    "end": 83.32,
+    "prob": 0.996
+  },
+  {
+    "word": "drew",
+    "start": 83.32,
+    "end": 83.52,
+    "prob": 1.0
+  },
+  {
+    "word": "to",
+    "start": 83.52,
+    "end": 83.72,
+    "prob": 0.997
+  },
+  {
+    "word": "represent",
+    "start": 83.72,
+    "end": 84.0,
+    "prob": 0.999
+  },
+  {
+    "word": "the",
+    "start": 84.0,
+    "end": 84.24,
+    "prob": 0.999
+  },
+  {
+    "word": "fold.",
+    "start": 84.24,
+    "end": 84.6,
+    "prob": 0.998
+  },
+  {
+    "word": "A",
+    "start": 85.08,
+    "end": 85.36,
+    "prob": 0.95
+  },
+  {
+    "word": "ruler",
+    "start": 85.36,
+    "end": 85.54,
+    "prob": 0.656
+  },
+  {
+    "word": "guide",
+    "start": 85.54,
+    "end": 85.8,
+    "prob": 0.994
+  },
+  {
+    "word": "will",
+    "start": 85.8,
+    "end": 86.0,
+    "prob": 0.996
+  },
+  {
+    "word": "not",
+    "start": 86.0,
+    "end": 86.16,
+    "prob": 0.999
+  },
+  {
+    "word": "print,",
+    "start": 86.16,
+    "end": 86.44,
+    "prob": 0.999
+  },
+  {
+    "word": "but",
+    "start": 86.62,
+    "end": 86.68,
+    "prob": 0.998
+  },
+  {
+    "word": "a",
+    "start": 86.68,
+    "end": 86.8,
+    "prob": 0.997
+  },
+  {
+    "word": "decorative",
+    "start": 86.8,
+    "end": 87.12,
+    "prob": 0.997
+  },
+  {
+    "word": "line",
+    "start": 87.12,
+    "end": 87.48,
+    "prob": 0.999
+  },
+  {
+    "word": "will.",
+    "start": 87.48,
+    "end": 87.78,
+    "prob": 0.993
+  },
+  {
+    "word": "Download",
+    "start": 88.6,
+    "end": 88.82,
+    "prob": 0.995
+  },
+  {
+    "word": "a",
+    "start": 88.82,
+    "end": 89.04,
+    "prob": 0.996
+  },
+  {
+    "word": "PDF",
+    "start": 89.04,
+    "end": 89.26,
+    "prob": 0.811
+  },
+  {
+    "word": "with",
+    "start": 89.26,
+    "end": 89.62,
+    "prob": 0.996
+  },
+  {
+    "word": "the",
+    "start": 89.62,
+    "end": 89.76,
+    "prob": 0.992
+  },
+  {
+    "word": "print",
+    "start": 89.76,
+    "end": 89.98,
+    "prob": 0.697
+  },
+  {
+    "word": "preset",
+    "start": 89.98,
+    "end": 90.36,
+    "prob": 0.971
+  },
+  {
+    "word": "and",
+    "start": 90.36,
+    "end": 90.72,
+    "prob": 0.969
+  },
+  {
+    "word": "the",
+    "start": 90.72,
+    "end": 90.84,
+    "prob": 0.994
+  },
+  {
+    "word": "bleed",
+    "start": 90.84,
+    "end": 91.06,
+    "prob": 0.968
+  },
+  {
+    "word": "settings",
+    "start": 91.06,
+    "end": 91.46,
+    "prob": 0.995
+  },
+  {
+    "word": "requested",
+    "start": 91.46,
+    "end": 91.84,
+    "prob": 0.984
+  },
+  {
+    "word": "by",
+    "start": 91.84,
+    "end": 92.14,
+    "prob": 0.999
+  },
+  {
+    "word": "your",
+    "start": 92.14,
+    "end": 92.3,
+    "prob": 0.998
+  },
+  {
+    "word": "printer.",
+    "start": 92.3,
+    "end": 92.66,
+    "prob": 0.996
+  },
+  {
+    "word": "Proof",
+    "start": 93.16,
+    "end": 93.46,
+    "prob": 0.902
+  },
+  {
+    "word": "a",
+    "start": 93.46,
+    "end": 93.62,
+    "prob": 0.924
+  },
+  {
+    "word": "folded",
+    "start": 93.62,
+    "end": 93.92,
+    "prob": 0.996
+  },
+  {
+    "word": "sample",
+    "start": 93.92,
+    "end": 94.36,
+    "prob": 0.998
+  },
+  {
+    "word": "before",
+    "start": 94.36,
+    "end": 94.68,
+    "prob": 0.99
+  },
+  {
+    "word": "producing",
+    "start": 94.68,
+    "end": 95.08,
+    "prob": 0.998
+  },
+  {
+    "word": "the",
+    "start": 95.08,
+    "end": 95.34,
+    "prob": 0.998
+  },
+  {
+    "word": "full",
+    "start": 95.34,
+    "end": 95.54,
+    "prob": 0.998
+  },
+  {
+    "word": "batch.",
+    "start": 95.54,
+    "end": 95.8,
+    "prob": 0.998
   }
 ]
