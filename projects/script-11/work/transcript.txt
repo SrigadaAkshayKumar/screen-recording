@@ -1,23 +1,23 @@
-This tutorial shows you how to export a custom icon from Canva as an SVG that stays sharp when resized.
-Open the icon design.
-For a clean example, use an icon you created from simple shapes or an original vector file you uploaded.
-Keep only the artwork you want in the export.
-Remove extra text, photographs and background objects, then centre the icon on a page with suitable padding.
-Click Share and choose Download.
-Open File Type and select SVG.
-SVG downloading requires an eligible plan, so check the upgrade indicator if the option is locked.
-Enable transparent background if offered, select the icons page and click Download.
-Open the saved SVG in a browser and zoom in.
-Its vector shapes should remain sharp.
-You can also open it in a vector editor to inspect the paths and check whether the result suits your project.
-Here's the part many tutorials skip.
-Saving a blurry PNG inside an SVG file does not automatically trace it into clean vector paths.
-Start with vector artwork when you need an icon that can scale substantially.
-If your design contains several icons on one page,
-move each icon into its own small design or page before exporting.
-Otherwise the SVG can include the whole surrounding layout.
-Canva may also restrict downloading an unmodified premium stock element by itself.
-Use your own original artwork for this workflow,
-rather than treating SVG export as a way to extract stock assets.
-Finally, test the icon on both light and dark backgrounds
-to make sure its colours and transparent areas look correct.
+This tutorial shows you how to turn a Google Sheets table into multiple Canva designs using a CSV file.
+In Google Sheets, create clearly named columns such as Name, Offer and Website.
+Put one complete designs information on each row.
+For this example, add three rows with different business names and offers.
+Keep the headings in the first row and remove empty rows inside the table.
+Choose File, Download and Comma Separated Values to save the current sheet as a CSV file.
+Open your Canva template and add a separate text box for each changing field.
+Leave logos and other shared decorations unconnected if they should stay identical.
+Open Apps and select Bulk Create.
+Choose Upload Data, select your CSV and continue.
+Use Match and Fill fields if offered, then inspect the matches.
+Select a text box, choose Match Data and connect it to the correct column.
+Repeat for the remaining fields.
+For example, the business name text box should use Name while the promotional sentence should use Offer.
+Preview the results and check the longest entries for awkward wrapping.
+Adjust the template before generating the batch.
+Open the creation options and choose one design with multiple pages if you want all versions together.
+Then create the designs and open the result.
+Here's the important limitation.
+A downloaded CSV is a snapshot.
+Editing the Google Sheet later does not automatically refresh this generated batch.
+Download a new CSV and regenerate when your data changes.
+Bulk Create also requires a supported Canva plan on desktop.
