@@ -1,1 +1,2 @@
-Hand plan used (no actions.json): see output/report.md. Take has no click log; typing-heavy; footage chosen from freezedetect moving windows and scenes.json stills.
+# sync notes (script-07)
+Hand plan (`work/hand_plan.py`), no anchors/zooms. See output/report.md for the per-line table and judgment calls.

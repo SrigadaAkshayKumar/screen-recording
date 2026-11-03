@@ -1,1903 +1,1807 @@
 [
   {
     "id": 1,
-    "text": "Script 7, how to make AI voiceovers sound real in Canva.",
+    "text": "This tutorial shows you how to make a Canva AI voiceover sound more natural by improving the script and voice choice.",
     "start": 0.0,
-    "end": 3.86,
+    "end": 6.62,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      10
+      20
     ],
     "words": [
       {
         "i": 0,
-        "word": "Script",
+        "word": "This",
         "start": 0.0,
-        "end": 0.32
+        "end": 0.5
       },
       {
         "i": 1,
-        "word": "7,",
-        "start": 0.32,
-        "end": 0.72
+        "word": "tutorial",
+        "start": 0.5,
+        "end": 0.88
       },
       {
         "i": 2,
-        "word": "how",
-        "start": 0.98,
-        "end": 1.04
+        "word": "shows",
+        "start": 0.88,
+        "end": 1.28
       },
       {
         "i": 3,
-        "word": "to",
-        "start": 1.04,
-        "end": 1.18
+        "word": "you",
+        "start": 1.28,
+        "end": 1.5
       },
       {
         "i": 4,
-        "word": "make",
-        "start": 1.18,
-        "end": 1.34
+        "word": "how",
+        "start": 1.5,
+        "end": 1.64
       },
       {
         "i": 5,
-        "word": "AI",
-        "start": 1.34,
+        "word": "to",
+        "start": 1.64,
         "end": 1.78
       },
       {
         "i": 6,
-        "word": "voiceovers",
+        "word": "make",
         "start": 1.78,
-        "end": 2.36
+        "end": 1.88
       },
       {
         "i": 7,
-        "word": "sound",
-        "start": 2.36,
-        "end": 2.76
+        "word": "a",
+        "start": 1.88,
+        "end": 2.3
       },
       {
         "i": 8,
-        "word": "real",
-        "start": 2.76,
-        "end": 3.04
+        "word": "Canva",
+        "start": 2.3,
+        "end": 2.44
       },
       {
         "i": 9,
-        "word": "in",
-        "start": 3.04,
-        "end": 3.52
+        "word": "AI",
+        "start": 2.44,
+        "end": 2.82
       },
       {
         "i": 10,
-        "word": "Canva.",
-        "start": 3.52,
-        "end": 3.86
+        "word": "voiceover",
+        "start": 2.82,
+        "end": 3.44
+      },
+      {
+        "i": 11,
+        "word": "sound",
+        "start": 3.44,
+        "end": 3.92
+      },
+      {
+        "i": 12,
+        "word": "more",
+        "start": 3.92,
+        "end": 4.12
+      },
+      {
+        "i": 13,
+        "word": "natural",
+        "start": 4.12,
+        "end": 4.44
+      },
+      {
+        "i": 14,
+        "word": "by",
+        "start": 4.44,
+        "end": 4.7
+      },
+      {
+        "i": 15,
+        "word": "improving",
+        "start": 4.7,
+        "end": 5.12
+      },
+      {
+        "i": 16,
+        "word": "the",
+        "start": 5.12,
+        "end": 5.32
+      },
+      {
+        "i": 17,
+        "word": "script",
+        "start": 5.32,
+        "end": 5.66
+      },
+      {
+        "i": 18,
+        "word": "and",
+        "start": 5.66,
+        "end": 5.98
+      },
+      {
+        "i": 19,
+        "word": "voice",
+        "start": 5.98,
+        "end": 6.22
+      },
+      {
+        "i": 20,
+        "word": "choice.",
+        "start": 6.22,
+        "end": 6.62
       }
     ]
   },
   {
     "id": 2,
-    "text": "This tutorial shows you how to make a Canva AI voiceover sound more natural by improving the script and voice choice.",
-    "start": 4.5,
-    "end": 10.84,
+    "text": "Open a video or presentation, select Apps, and search for AI Voice.",
+    "start": 7.4,
+    "end": 11.76,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      11,
-      31
+      21,
+      32
     ],
     "words": [
       {
-        "i": 11,
-        "word": "This",
-        "start": 4.5,
-        "end": 4.76
-      },
-      {
-        "i": 12,
-        "word": "tutorial",
-        "start": 4.76,
-        "end": 5.12
-      },
-      {
-        "i": 13,
-        "word": "shows",
-        "start": 5.12,
-        "end": 5.54
-      },
-      {
-        "i": 14,
-        "word": "you",
-        "start": 5.54,
-        "end": 5.74
-      },
-      {
-        "i": 15,
-        "word": "how",
-        "start": 5.74,
-        "end": 5.9
-      },
-      {
-        "i": 16,
-        "word": "to",
-        "start": 5.9,
-        "end": 6.02
-      },
-      {
-        "i": 17,
-        "word": "make",
-        "start": 6.02,
-        "end": 6.14
-      },
-      {
-        "i": 18,
-        "word": "a",
-        "start": 6.14,
-        "end": 6.3
-      },
-      {
-        "i": 19,
-        "word": "Canva",
-        "start": 6.3,
-        "end": 6.7
-      },
-      {
-        "i": 20,
-        "word": "AI",
-        "start": 6.7,
-        "end": 7.08
-      },
-      {
         "i": 21,
-        "word": "voiceover",
-        "start": 7.08,
-        "end": 7.68
+        "word": "Open",
+        "start": 7.4,
+        "end": 7.58
       },
       {
         "i": 22,
-        "word": "sound",
-        "start": 7.68,
-        "end": 8.18
+        "word": "a",
+        "start": 7.58,
+        "end": 7.72
       },
       {
         "i": 23,
-        "word": "more",
-        "start": 8.18,
-        "end": 8.36
+        "word": "video",
+        "start": 7.72,
+        "end": 7.9
       },
       {
         "i": 24,
-        "word": "natural",
-        "start": 8.36,
-        "end": 8.7
+        "word": "or",
+        "start": 7.9,
+        "end": 8.22
       },
       {
         "i": 25,
-        "word": "by",
-        "start": 8.7,
-        "end": 8.94
+        "word": "presentation,",
+        "start": 8.22,
+        "end": 8.72
       },
       {
         "i": 26,
-        "word": "improving",
-        "start": 8.94,
-        "end": 9.36
-      },
-      {
-        "i": 27,
-        "word": "the",
-        "start": 9.36,
+        "word": "select",
+        "start": 9.3,
         "end": 9.58
       },
       {
-        "i": 28,
-        "word": "script",
+        "i": 27,
+        "word": "Apps,",
         "start": 9.58,
-        "end": 9.94
+        "end": 9.96
+      },
+      {
+        "i": 28,
+        "word": "and",
+        "start": 10.42,
+        "end": 10.56
       },
       {
         "i": 29,
-        "word": "and",
-        "start": 9.94,
-        "end": 10.22
+        "word": "search",
+        "start": 10.56,
+        "end": 10.86
       },
       {
         "i": 30,
-        "word": "voice",
-        "start": 10.22,
-        "end": 10.48
+        "word": "for",
+        "start": 10.86,
+        "end": 11.14
       },
       {
         "i": 31,
-        "word": "choice.",
-        "start": 10.48,
-        "end": 10.84
+        "word": "AI",
+        "start": 11.14,
+        "end": 11.52
+      },
+      {
+        "i": 32,
+        "word": "Voice.",
+        "start": 11.52,
+        "end": 11.76
       }
     ]
   },
   {
     "id": 3,
-    "text": "Open a video or presentation, select apps, and search for AI voice.",
-    "start": 11.58,
-    "end": 16.0,
+    "text": "Open Canva’s AI Voice tool and paste a short section of your narration.",
+    "start": 12.5,
+    "end": 16.24,
     "notes": [],
-    "match": 1.0,
+    "match": 0.929,
     "status": "ok",
     "word_range": [
-      32,
-      43
+      33,
+      45
     ],
     "words": [
       {
-        "i": 32,
-        "word": "Open",
-        "start": 11.58,
-        "end": 11.86
-      },
-      {
         "i": 33,
-        "word": "a",
-        "start": 11.86,
-        "end": 11.96
+        "word": "Open",
+        "start": 12.5,
+        "end": 12.84
       },
       {
         "i": 34,
-        "word": "video",
-        "start": 11.96,
-        "end": 12.14
+        "word": "Canva's",
+        "start": 12.84,
+        "end": 13.32
       },
       {
         "i": 35,
-        "word": "or",
-        "start": 12.14,
-        "end": 12.46
+        "word": "AI",
+        "start": 13.32,
+        "end": 13.68
       },
       {
         "i": 36,
-        "word": "presentation,",
-        "start": 12.46,
-        "end": 12.96
+        "word": "Voice",
+        "start": 13.68,
+        "end": 13.94
       },
       {
         "i": 37,
-        "word": "select",
-        "start": 13.5,
-        "end": 13.86
+        "word": "tool",
+        "start": 13.94,
+        "end": 14.2
       },
       {
         "i": 38,
-        "word": "apps,",
-        "start": 13.86,
-        "end": 14.22
+        "word": "and",
+        "start": 14.2,
+        "end": 14.5
       },
       {
         "i": 39,
-        "word": "and",
-        "start": 14.56,
-        "end": 14.82
+        "word": "paste",
+        "start": 14.5,
+        "end": 14.7
       },
       {
         "i": 40,
-        "word": "search",
-        "start": 14.82,
-        "end": 15.12
+        "word": "a",
+        "start": 14.7,
+        "end": 14.9
       },
       {
         "i": 41,
-        "word": "for",
-        "start": 15.12,
-        "end": 15.4
+        "word": "short",
+        "start": 14.9,
+        "end": 15.14
       },
       {
         "i": 42,
-        "word": "AI",
-        "start": 15.4,
-        "end": 15.76
+        "word": "section",
+        "start": 15.14,
+        "end": 15.44
       },
       {
         "i": 43,
-        "word": "voice.",
-        "start": 15.76,
-        "end": 16.0
+        "word": "of",
+        "start": 15.44,
+        "end": 15.64
+      },
+      {
+        "i": 44,
+        "word": "your",
+        "start": 15.64,
+        "end": 15.78
+      },
+      {
+        "i": 45,
+        "word": "narration.",
+        "start": 15.78,
+        "end": 16.24
       }
     ]
   },
   {
     "id": 4,
-    "text": "Open Canva's AI voice tool and paste a short section of your narration.",
-    "start": 16.78,
-    "end": 20.46,
+    "text": "Choose the correct language and a voice style that fits the content.",
+    "start": 17.0,
+    "end": 19.96,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      44,
-      56
+      46,
+      57
     ],
     "words": [
       {
-        "i": 44,
-        "word": "Open",
-        "start": 16.78,
-        "end": 17.1
-      },
-      {
-        "i": 45,
-        "word": "Canva's",
-        "start": 17.1,
-        "end": 17.56
-      },
-      {
         "i": 46,
-        "word": "AI",
-        "start": 17.56,
-        "end": 17.92
+        "word": "Choose",
+        "start": 17.0,
+        "end": 17.14
       },
       {
         "i": 47,
-        "word": "voice",
-        "start": 17.92,
-        "end": 18.16
+        "word": "the",
+        "start": 17.14,
+        "end": 17.36
       },
       {
         "i": 48,
-        "word": "tool",
-        "start": 18.16,
-        "end": 18.48
+        "word": "correct",
+        "start": 17.36,
+        "end": 17.58
       },
       {
         "i": 49,
-        "word": "and",
-        "start": 18.48,
-        "end": 18.76
+        "word": "language",
+        "start": 17.58,
+        "end": 17.96
       },
       {
         "i": 50,
-        "word": "paste",
-        "start": 18.76,
-        "end": 18.94
+        "word": "and",
+        "start": 17.96,
+        "end": 18.22
       },
       {
         "i": 51,
         "word": "a",
-        "start": 18.94,
-        "end": 19.14
+        "start": 18.22,
+        "end": 18.38
       },
       {
         "i": 52,
-        "word": "short",
+        "word": "voice",
+        "start": 18.38,
+        "end": 18.56
+      },
+      {
+        "i": 53,
+        "word": "style",
+        "start": 18.56,
+        "end": 18.88
+      },
+      {
+        "i": 54,
+        "word": "that",
+        "start": 18.88,
+        "end": 19.14
+      },
+      {
+        "i": 55,
+        "word": "fits",
         "start": 19.14,
         "end": 19.38
       },
       {
-        "i": 53,
-        "word": "section",
-        "start": 19.38,
-        "end": 19.68
-      },
-      {
-        "i": 54,
-        "word": "of",
-        "start": 19.68,
-        "end": 19.9
-      },
-      {
-        "i": 55,
-        "word": "your",
-        "start": 19.9,
-        "end": 20.02
-      },
-      {
         "i": 56,
-        "word": "narration.",
-        "start": 20.02,
-        "end": 20.46
+        "word": "the",
+        "start": 19.38,
+        "end": 19.6
+      },
+      {
+        "i": 57,
+        "word": "content.",
+        "start": 19.6,
+        "end": 19.96
       }
     ]
   },
   {
     "id": 5,
-    "text": "Choose the correct language and a voice style that fits the content.",
-    "start": 21.22,
-    "end": 24.22,
+    "text": "For a tutorial, start with a clear, conversational voice rather than a dramatic delivery.",
+    "start": 20.68,
+    "end": 25.42,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      57,
-      68
+      58,
+      71
     ],
     "words": [
       {
-        "i": 57,
-        "word": "Choose",
-        "start": 21.22,
-        "end": 21.38
-      },
-      {
         "i": 58,
-        "word": "the",
-        "start": 21.38,
-        "end": 21.6
+        "word": "For",
+        "start": 20.68,
+        "end": 20.8
       },
       {
         "i": 59,
-        "word": "correct",
-        "start": 21.6,
-        "end": 21.84
+        "word": "a",
+        "start": 20.8,
+        "end": 20.94
       },
       {
         "i": 60,
-        "word": "language",
-        "start": 21.84,
-        "end": 22.22
+        "word": "tutorial,",
+        "start": 20.94,
+        "end": 21.36
       },
       {
         "i": 61,
-        "word": "and",
-        "start": 22.22,
-        "end": 22.48
+        "word": "start",
+        "start": 21.66,
+        "end": 21.82
       },
       {
         "i": 62,
-        "word": "a",
-        "start": 22.48,
-        "end": 22.62
+        "word": "with",
+        "start": 21.82,
+        "end": 21.98
       },
       {
         "i": 63,
-        "word": "voice",
-        "start": 22.62,
-        "end": 22.8
+        "word": "a",
+        "start": 21.98,
+        "end": 22.16
       },
       {
         "i": 64,
-        "word": "style",
-        "start": 22.8,
-        "end": 23.14
+        "word": "clear,",
+        "start": 22.16,
+        "end": 22.42
       },
       {
         "i": 65,
-        "word": "that",
-        "start": 23.14,
-        "end": 23.38
+        "word": "conversational",
+        "start": 22.78,
+        "end": 23.34
       },
       {
         "i": 66,
-        "word": "fits",
-        "start": 23.38,
-        "end": 23.64
+        "word": "voice",
+        "start": 23.34,
+        "end": 23.68
       },
       {
         "i": 67,
-        "word": "the",
-        "start": 23.64,
-        "end": 23.86
+        "word": "rather",
+        "start": 23.68,
+        "end": 24.24
       },
       {
         "i": 68,
-        "word": "content.",
-        "start": 23.86,
-        "end": 24.22
+        "word": "than",
+        "start": 24.24,
+        "end": 24.5
+      },
+      {
+        "i": 69,
+        "word": "a",
+        "start": 24.5,
+        "end": 24.62
+      },
+      {
+        "i": 70,
+        "word": "dramatic",
+        "start": 24.62,
+        "end": 24.98
+      },
+      {
+        "i": 71,
+        "word": "delivery.",
+        "start": 24.98,
+        "end": 25.42
       }
     ]
   },
   {
     "id": 6,
-    "text": "For a tutorial, start with a clear, conversational voice rather than a dramatic delivery.",
-    "start": 24.9,
-    "end": 29.7,
+    "text": "Before generating, read the text aloud.",
+    "start": 26.08,
+    "end": 28.34,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      69,
-      82
+      72,
+      77
     ],
     "words": [
       {
-        "i": 69,
-        "word": "For",
-        "start": 24.9,
-        "end": 25.06
-      },
-      {
-        "i": 70,
-        "word": "a",
-        "start": 25.06,
-        "end": 25.18
-      },
-      {
-        "i": 71,
-        "word": "tutorial,",
-        "start": 25.18,
-        "end": 25.62
-      },
-      {
         "i": 72,
-        "word": "start",
-        "start": 25.8,
-        "end": 26.08
+        "word": "Before",
+        "start": 26.08,
+        "end": 26.4
       },
       {
         "i": 73,
-        "word": "with",
-        "start": 26.08,
-        "end": 26.22
+        "word": "generating,",
+        "start": 26.4,
+        "end": 26.96
       },
       {
         "i": 74,
-        "word": "a",
-        "start": 26.22,
-        "end": 26.42
+        "word": "read",
+        "start": 27.38,
+        "end": 27.52
       },
       {
         "i": 75,
-        "word": "clear,",
-        "start": 26.42,
-        "end": 26.66
+        "word": "the",
+        "start": 27.52,
+        "end": 27.68
       },
       {
         "i": 76,
-        "word": "conversational",
-        "start": 27.02,
-        "end": 27.6
+        "word": "text",
+        "start": 27.68,
+        "end": 27.94
       },
       {
         "i": 77,
-        "word": "voice",
-        "start": 27.6,
-        "end": 27.98
-      },
-      {
-        "i": 78,
-        "word": "rather",
-        "start": 27.98,
-        "end": 28.48
-      },
-      {
-        "i": 79,
-        "word": "than",
-        "start": 28.48,
-        "end": 28.74
-      },
-      {
-        "i": 80,
-        "word": "a",
-        "start": 28.74,
-        "end": 28.86
-      },
-      {
-        "i": 81,
-        "word": "dramatic",
-        "start": 28.86,
-        "end": 29.2
-      },
-      {
-        "i": 82,
-        "word": "delivery.",
-        "start": 29.2,
-        "end": 29.7
+        "word": "aloud.",
+        "start": 27.94,
+        "end": 28.34
       }
     ]
   },
   {
     "id": 7,
-    "text": "Before generating, read the text aloud.",
-    "start": 30.62,
-    "end": 32.62,
+    "text": "Replace long sentences with shorter ones and remove phrases you would not naturally say in conversation.",
+    "start": 28.34,
+    "end": 34.32,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      83,
-      88
+      78,
+      93
     ],
     "words": [
       {
+        "i": 78,
+        "word": "Replace",
+        "start": 28.34,
+        "end": 29.36
+      },
+      {
+        "i": 79,
+        "word": "long",
+        "start": 29.36,
+        "end": 29.72
+      },
+      {
+        "i": 80,
+        "word": "sentences",
+        "start": 29.72,
+        "end": 30.16
+      },
+      {
+        "i": 81,
+        "word": "with",
+        "start": 30.16,
+        "end": 30.52
+      },
+      {
+        "i": 82,
+        "word": "shorter",
+        "start": 30.52,
+        "end": 30.78
+      },
+      {
         "i": 83,
-        "word": "Before",
-        "start": 30.62,
-        "end": 30.66
+        "word": "ones",
+        "start": 30.78,
+        "end": 31.12
       },
       {
         "i": 84,
-        "word": "generating,",
-        "start": 30.66,
-        "end": 31.22
+        "word": "and",
+        "start": 31.12,
+        "end": 31.44
       },
       {
         "i": 85,
-        "word": "read",
-        "start": 31.66,
-        "end": 31.76
+        "word": "remove",
+        "start": 31.44,
+        "end": 31.7
       },
       {
         "i": 86,
-        "word": "the",
-        "start": 31.76,
-        "end": 31.96
+        "word": "phrases",
+        "start": 31.7,
+        "end": 32.14
       },
       {
         "i": 87,
-        "word": "text",
-        "start": 31.96,
-        "end": 32.2
+        "word": "you",
+        "start": 32.14,
+        "end": 32.4
       },
       {
         "i": 88,
-        "word": "aloud.",
-        "start": 32.2,
-        "end": 32.62
+        "word": "would",
+        "start": 32.4,
+        "end": 32.5
+      },
+      {
+        "i": 89,
+        "word": "not",
+        "start": 32.5,
+        "end": 32.66
+      },
+      {
+        "i": 90,
+        "word": "naturally",
+        "start": 32.66,
+        "end": 33.14
+      },
+      {
+        "i": 91,
+        "word": "say",
+        "start": 33.14,
+        "end": 33.5
+      },
+      {
+        "i": 92,
+        "word": "in",
+        "start": 33.5,
+        "end": 33.8
+      },
+      {
+        "i": 93,
+        "word": "conversation.",
+        "start": 33.8,
+        "end": 34.32
       }
     ]
   },
   {
     "id": 8,
-    "text": "Replace long sentences with shorter ones and remove phrases you would not naturally say in conversation.",
-    "start": 33.38,
-    "end": 38.52,
+    "text": "Use full stops and commas where a speaker should pause.",
+    "start": 35.26,
+    "end": 37.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      89,
-      104
+      94,
+      103
     ],
     "words": [
       {
-        "i": 89,
-        "word": "Replace",
-        "start": 33.38,
-        "end": 33.62
-      },
-      {
-        "i": 90,
-        "word": "long",
-        "start": 33.62,
-        "end": 33.98
-      },
-      {
-        "i": 91,
-        "word": "sentences",
-        "start": 33.98,
-        "end": 34.4
-      },
-      {
-        "i": 92,
-        "word": "with",
-        "start": 34.4,
-        "end": 34.76
-      },
-      {
-        "i": 93,
-        "word": "shorter",
-        "start": 34.76,
-        "end": 35.06
-      },
-      {
         "i": 94,
-        "word": "ones",
-        "start": 35.06,
-        "end": 35.36
+        "word": "Use",
+        "start": 35.26,
+        "end": 35.42
       },
       {
         "i": 95,
-        "word": "and",
-        "start": 35.36,
+        "word": "full",
+        "start": 35.42,
         "end": 35.68
       },
       {
         "i": 96,
-        "word": "remove",
+        "word": "stops",
         "start": 35.68,
-        "end": 35.98
+        "end": 35.96
       },
       {
         "i": 97,
-        "word": "phrases",
-        "start": 35.98,
-        "end": 36.36
+        "word": "and",
+        "start": 35.96,
+        "end": 36.28
       },
       {
         "i": 98,
-        "word": "you",
-        "start": 36.36,
-        "end": 36.66
+        "word": "commas",
+        "start": 36.28,
+        "end": 36.6
       },
       {
         "i": 99,
-        "word": "would",
-        "start": 36.66,
-        "end": 36.76
+        "word": "where",
+        "start": 36.6,
+        "end": 36.82
       },
       {
         "i": 100,
-        "word": "not",
-        "start": 36.76,
-        "end": 36.92
+        "word": "a",
+        "start": 36.82,
+        "end": 36.94
       },
       {
         "i": 101,
-        "word": "naturally",
-        "start": 36.92,
-        "end": 37.4
+        "word": "speaker",
+        "start": 36.94,
+        "end": 37.22
       },
       {
         "i": 102,
-        "word": "say",
-        "start": 37.4,
-        "end": 37.74
+        "word": "should",
+        "start": 37.22,
+        "end": 37.54
       },
       {
         "i": 103,
-        "word": "in",
-        "start": 37.74,
-        "end": 38.06
-      },
-      {
-        "i": 104,
-        "word": "conversation.",
-        "start": 38.06,
-        "end": 38.52
+        "word": "pause.",
+        "start": 37.54,
+        "end": 37.94
       }
     ]
   },
   {
     "id": 9,
-    "text": "Use full stops and commas where a speaker should pause.",
-    "start": 39.46,
-    "end": 42.16,
+    "text": "Write unusual abbreviations and numbers in the form you want spoken.",
+    "start": 38.8,
+    "end": 41.94,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      105,
+      104,
       114
     ],
     "words": [
       {
+        "i": 104,
+        "word": "Write",
+        "start": 38.8,
+        "end": 38.84
+      },
+      {
         "i": 105,
-        "word": "Use",
-        "start": 39.46,
-        "end": 39.66
+        "word": "unusual",
+        "start": 38.84,
+        "end": 39.42
       },
       {
         "i": 106,
-        "word": "full",
-        "start": 39.66,
-        "end": 39.94
-      },
-      {
-        "i": 107,
-        "word": "stops",
-        "start": 39.94,
+        "word": "abbreviations",
+        "start": 39.42,
         "end": 40.2
       },
       {
-        "i": 108,
+        "i": 107,
         "word": "and",
         "start": 40.2,
-        "end": 40.52
+        "end": 40.4
+      },
+      {
+        "i": 108,
+        "word": "numbers",
+        "start": 40.4,
+        "end": 40.58
       },
       {
         "i": 109,
-        "word": "commas",
-        "start": 40.52,
-        "end": 40.88
+        "word": "in",
+        "start": 40.58,
+        "end": 40.86
       },
       {
         "i": 110,
-        "word": "where",
-        "start": 40.88,
-        "end": 41.08
+        "word": "the",
+        "start": 40.86,
+        "end": 40.98
       },
       {
         "i": 111,
-        "word": "a",
-        "start": 41.08,
+        "word": "form",
+        "start": 40.98,
         "end": 41.2
       },
       {
         "i": 112,
-        "word": "speaker",
+        "word": "you",
         "start": 41.2,
-        "end": 41.48
+        "end": 41.36
       },
       {
         "i": 113,
-        "word": "should",
-        "start": 41.48,
-        "end": 41.78
+        "word": "want",
+        "start": 41.36,
+        "end": 41.5
       },
       {
         "i": 114,
-        "word": "pause.",
-        "start": 41.78,
-        "end": 42.16
+        "word": "spoken.",
+        "start": 41.5,
+        "end": 41.94
       }
     ]
   },
   {
     "id": 10,
-    "text": "Write unusual abbreviations and numbers in the form you want spoken.",
-    "start": 42.94,
-    "end": 46.18,
+    "text": "For example, write one point five if a numeric expression keeps being pronounced incorrectly.",
+    "start": 42.7,
+    "end": 47.34,
     "notes": [],
-    "match": 1.0,
+    "match": 0.929,
     "status": "ok",
     "word_range": [
       115,
-      125
+      127
     ],
     "words": [
       {
         "i": 115,
-        "word": "Write",
-        "start": 42.94,
-        "end": 43.1
+        "word": "For",
+        "start": 42.7,
+        "end": 42.8
       },
       {
         "i": 116,
-        "word": "unusual",
-        "start": 43.1,
-        "end": 43.66
+        "word": "example,",
+        "start": 42.8,
+        "end": 43.02
       },
       {
         "i": 117,
-        "word": "abbreviations",
-        "start": 43.66,
-        "end": 44.44
+        "word": "write",
+        "start": 43.48,
+        "end": 43.48
       },
       {
         "i": 118,
-        "word": "and",
-        "start": 44.44,
-        "end": 44.64
+        "word": "1",
+        "start": 43.48,
+        "end": 43.86
       },
       {
         "i": 119,
-        "word": "numbers",
-        "start": 44.64,
-        "end": 44.84
+        "word": ".5",
+        "start": 43.86,
+        "end": 44.38
       },
       {
         "i": 120,
-        "word": "in",
-        "start": 44.84,
-        "end": 45.1
+        "word": "if",
+        "start": 44.38,
+        "end": 44.68
       },
       {
         "i": 121,
-        "word": "the",
-        "start": 45.1,
-        "end": 45.24
+        "word": "a",
+        "start": 44.68,
+        "end": 44.82
       },
       {
         "i": 122,
-        "word": "form",
-        "start": 45.24,
-        "end": 45.44
+        "word": "numeric",
+        "start": 44.82,
+        "end": 45.22
       },
       {
         "i": 123,
-        "word": "you",
-        "start": 45.44,
-        "end": 45.6
+        "word": "expression",
+        "start": 45.22,
+        "end": 45.7
       },
       {
         "i": 124,
-        "word": "want",
-        "start": 45.6,
-        "end": 45.76
+        "word": "keeps",
+        "start": 45.7,
+        "end": 46.06
       },
       {
         "i": 125,
-        "word": "spoken.",
-        "start": 45.76,
-        "end": 46.18
+        "word": "being",
+        "start": 46.06,
+        "end": 46.32
+      },
+      {
+        "i": 126,
+        "word": "pronounced",
+        "start": 46.32,
+        "end": 46.72
+      },
+      {
+        "i": 127,
+        "word": "incorrectly.",
+        "start": 46.72,
+        "end": 47.34
       }
     ]
   },
   {
     "id": 11,
-    "text": "For example, write 1.5 if a numeric expression keeps being pronounced incorrectly.",
-    "start": 46.94,
-    "end": 51.58,
+    "text": "Generate the short sample and listen with headphones.",
+    "start": 48.02,
+    "end": 50.2,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      126,
-      138
+      128,
+      135
     ],
     "words": [
       {
-        "i": 126,
-        "word": "For",
-        "start": 46.94,
-        "end": 47.04
-      },
-      {
-        "i": 127,
-        "word": "example,",
-        "start": 47.04,
-        "end": 47.32
-      },
-      {
         "i": 128,
-        "word": "write",
-        "start": 47.7,
-        "end": 47.74
+        "word": "Generate",
+        "start": 48.02,
+        "end": 48.34
       },
       {
         "i": 129,
-        "word": "1",
-        "start": 47.74,
-        "end": 48.12
+        "word": "the",
+        "start": 48.34,
+        "end": 48.5
       },
       {
         "i": 130,
-        "word": ".5",
-        "start": 48.12,
-        "end": 48.64
+        "word": "short",
+        "start": 48.5,
+        "end": 48.76
       },
       {
         "i": 131,
-        "word": "if",
-        "start": 48.64,
-        "end": 48.94
+        "word": "sample",
+        "start": 48.76,
+        "end": 49.1
       },
       {
         "i": 132,
-        "word": "a",
-        "start": 48.94,
-        "end": 49.06
+        "word": "and",
+        "start": 49.1,
+        "end": 49.42
       },
       {
         "i": 133,
-        "word": "numeric",
-        "start": 49.06,
-        "end": 49.46
+        "word": "listen",
+        "start": 49.42,
+        "end": 49.62
       },
       {
         "i": 134,
-        "word": "expression",
-        "start": 49.46,
-        "end": 49.96
+        "word": "with",
+        "start": 49.62,
+        "end": 49.8
       },
       {
         "i": 135,
-        "word": "keeps",
-        "start": 49.96,
-        "end": 50.32
-      },
-      {
-        "i": 136,
-        "word": "being",
-        "start": 50.32,
-        "end": 50.58
-      },
-      {
-        "i": 137,
-        "word": "pronounced",
-        "start": 50.58,
-        "end": 50.96
-      },
-      {
-        "i": 138,
-        "word": "incorrectly.",
-        "start": 50.96,
-        "end": 51.58
+        "word": "headphones.",
+        "start": 49.8,
+        "end": 50.2
       }
     ]
   },
   {
     "id": 12,
-    "text": "Generate the short sample and listen with headphones.",
-    "start": 52.22,
-    "end": 54.46,
+    "text": "Pay attention to names, emphasis, and the space between instructions.",
+    "start": 50.9,
+    "end": 54.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      139,
-      146
+      136,
+      145
     ],
     "words": [
       {
+        "i": 136,
+        "word": "Pay",
+        "start": 50.9,
+        "end": 51.04
+      },
+      {
+        "i": 137,
+        "word": "attention",
+        "start": 51.04,
+        "end": 51.28
+      },
+      {
+        "i": 138,
+        "word": "to",
+        "start": 51.28,
+        "end": 51.58
+      },
+      {
         "i": 139,
-        "word": "Generate",
-        "start": 52.22,
-        "end": 52.58
+        "word": "names,",
+        "start": 51.58,
+        "end": 51.86
       },
       {
         "i": 140,
-        "word": "the",
-        "start": 52.58,
-        "end": 52.78
+        "word": "emphasis,",
+        "start": 52.2,
+        "end": 52.46
       },
       {
         "i": 141,
-        "word": "short",
-        "start": 52.78,
-        "end": 53.02
+        "word": "and",
+        "start": 52.74,
+        "end": 52.82
       },
       {
         "i": 142,
-        "word": "sample",
-        "start": 53.02,
-        "end": 53.34
+        "word": "the",
+        "start": 52.82,
+        "end": 52.92
       },
       {
         "i": 143,
-        "word": "and",
-        "start": 53.34,
-        "end": 53.66
+        "word": "space",
+        "start": 52.92,
+        "end": 53.22
       },
       {
         "i": 144,
-        "word": "listen",
-        "start": 53.66,
-        "end": 53.88
+        "word": "between",
+        "start": 53.22,
+        "end": 53.56
       },
       {
         "i": 145,
-        "word": "with",
-        "start": 53.88,
-        "end": 54.04
-      },
-      {
-        "i": 146,
-        "word": "headphones.",
-        "start": 54.04,
-        "end": 54.46
+        "word": "instructions.",
+        "start": 53.56,
+        "end": 54.16
       }
     ]
   },
   {
     "id": 13,
-    "text": "Pay attention to names, emphasis, and the space between instructions.",
-    "start": 55.16,
-    "end": 58.4,
+    "text": "If a line sounds awkward, rewrite that line and generate another sample.",
+    "start": 54.16,
+    "end": 58.74,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      147,
-      156
+      146,
+      157
     ],
     "words": [
       {
+        "i": 146,
+        "word": "If",
+        "start": 54.16,
+        "end": 55.16
+      },
+      {
         "i": 147,
-        "word": "Pay",
+        "word": "a",
         "start": 55.16,
         "end": 55.28
       },
       {
         "i": 148,
-        "word": "attention",
+        "word": "line",
         "start": 55.28,
-        "end": 55.54
+        "end": 55.42
       },
       {
         "i": 149,
-        "word": "to",
-        "start": 55.54,
-        "end": 55.8
+        "word": "sounds",
+        "start": 55.42,
+        "end": 55.74
       },
       {
         "i": 150,
-        "word": "names,",
-        "start": 55.8,
-        "end": 56.12
+        "word": "awkward,",
+        "start": 55.74,
+        "end": 56.18
       },
       {
         "i": 151,
-        "word": "emphasis,",
-        "start": 56.46,
-        "end": 56.72
+        "word": "rewrite",
+        "start": 56.54,
+        "end": 56.94
       },
       {
         "i": 152,
-        "word": "and",
-        "start": 56.72,
-        "end": 57.06
+        "word": "that",
+        "start": 56.94,
+        "end": 57.2
       },
       {
         "i": 153,
-        "word": "the",
-        "start": 57.06,
-        "end": 57.16
-      },
-      {
-        "i": 154,
-        "word": "space",
-        "start": 57.16,
+        "word": "line",
+        "start": 57.2,
         "end": 57.44
       },
       {
-        "i": 155,
-        "word": "between",
+        "i": 154,
+        "word": "and",
         "start": 57.44,
-        "end": 57.82
+        "end": 57.64
+      },
+      {
+        "i": 155,
+        "word": "generate",
+        "start": 57.64,
+        "end": 57.94
       },
       {
         "i": 156,
-        "word": "instructions.",
-        "start": 57.82,
-        "end": 58.4
+        "word": "another",
+        "start": 57.94,
+        "end": 58.28
+      },
+      {
+        "i": 157,
+        "word": "sample.",
+        "start": 58.28,
+        "end": 58.74
       }
     ]
   },
   {
     "id": 14,
-    "text": "If a line sounds awkward, rewrite that line and generate another sample.",
-    "start": 59.34,
-    "end": 63.0,
+    "text": "Changing the wording often produces a better result than repeatedly generating the exact same sentence.",
+    "start": 59.7,
+    "end": 64.54,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      157,
-      168
+      158,
+      172
     ],
     "words": [
       {
-        "i": 157,
-        "word": "If",
-        "start": 59.34,
-        "end": 59.42
-      },
-      {
         "i": 158,
-        "word": "a",
-        "start": 59.42,
-        "end": 59.52
+        "word": "Changing",
+        "start": 59.7,
+        "end": 59.9
       },
       {
         "i": 159,
-        "word": "line",
-        "start": 59.52,
-        "end": 59.68
+        "word": "the",
+        "start": 59.9,
+        "end": 60.12
       },
       {
         "i": 160,
-        "word": "sounds",
-        "start": 59.68,
-        "end": 59.98
+        "word": "wording",
+        "start": 60.12,
+        "end": 60.34
       },
       {
         "i": 161,
-        "word": "awkward,",
-        "start": 59.98,
-        "end": 60.44
+        "word": "often",
+        "start": 60.34,
+        "end": 60.6
       },
       {
         "i": 162,
-        "word": "rewrite",
-        "start": 60.8,
-        "end": 61.18
+        "word": "produces",
+        "start": 60.6,
+        "end": 61.02
       },
       {
         "i": 163,
-        "word": "that",
-        "start": 61.18,
-        "end": 61.44
+        "word": "a",
+        "start": 61.02,
+        "end": 61.22
       },
       {
         "i": 164,
-        "word": "line",
-        "start": 61.44,
-        "end": 61.68
+        "word": "better",
+        "start": 61.22,
+        "end": 61.44
       },
       {
         "i": 165,
-        "word": "and",
-        "start": 61.68,
-        "end": 61.88
+        "word": "result",
+        "start": 61.44,
+        "end": 61.78
       },
       {
         "i": 166,
-        "word": "generate",
-        "start": 61.88,
-        "end": 62.18
+        "word": "than",
+        "start": 61.78,
+        "end": 62.02
       },
       {
         "i": 167,
-        "word": "another",
-        "start": 62.18,
-        "end": 62.52
+        "word": "repeatedly",
+        "start": 62.02,
+        "end": 62.4
       },
       {
         "i": 168,
-        "word": "sample.",
-        "start": 62.52,
-        "end": 63.0
+        "word": "generating",
+        "start": 62.4,
+        "end": 62.96
+      },
+      {
+        "i": 169,
+        "word": "the",
+        "start": 62.96,
+        "end": 63.2
+      },
+      {
+        "i": 170,
+        "word": "exact",
+        "start": 63.2,
+        "end": 63.58
+      },
+      {
+        "i": 171,
+        "word": "same",
+        "start": 63.58,
+        "end": 64.12
+      },
+      {
+        "i": 172,
+        "word": "sentence.",
+        "start": 64.12,
+        "end": 64.54
       }
     ]
   },
   {
     "id": 15,
-    "text": "Changing the wording often produces a better result than repeatedly generating the exact same sentence.",
-    "start": 63.96,
-    "end": 68.8,
+    "text": "Once the sample sounds right, generate the remaining sections using the same voice.",
+    "start": 65.72,
+    "end": 69.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      169,
-      183
+      173,
+      185
     ],
     "words": [
       {
-        "i": 169,
-        "word": "Changing",
-        "start": 63.96,
-        "end": 64.16
-      },
-      {
-        "i": 170,
-        "word": "the",
-        "start": 64.16,
-        "end": 64.38
-      },
-      {
-        "i": 171,
-        "word": "wording",
-        "start": 64.38,
-        "end": 64.58
-      },
-      {
-        "i": 172,
-        "word": "often",
-        "start": 64.58,
-        "end": 64.86
-      },
-      {
         "i": 173,
-        "word": "produces",
-        "start": 64.86,
-        "end": 65.26
+        "word": "Once",
+        "start": 65.72,
+        "end": 65.92
       },
       {
         "i": 174,
-        "word": "a",
-        "start": 65.26,
-        "end": 65.48
+        "word": "the",
+        "start": 65.92,
+        "end": 66.1
       },
       {
         "i": 175,
-        "word": "better",
-        "start": 65.48,
-        "end": 65.68
+        "word": "sample",
+        "start": 66.1,
+        "end": 66.4
       },
       {
         "i": 176,
-        "word": "result",
-        "start": 65.68,
-        "end": 66.02
+        "word": "sounds",
+        "start": 66.4,
+        "end": 66.7
       },
       {
         "i": 177,
-        "word": "than",
-        "start": 66.02,
-        "end": 66.26
+        "word": "right,",
+        "start": 66.7,
+        "end": 66.98
       },
       {
         "i": 178,
-        "word": "repeatedly",
-        "start": 66.26,
-        "end": 66.66
+        "word": "generate",
+        "start": 67.42,
+        "end": 67.7
       },
       {
         "i": 179,
-        "word": "generating",
-        "start": 66.66,
-        "end": 67.22
+        "word": "the",
+        "start": 67.7,
+        "end": 67.9
       },
       {
         "i": 180,
-        "word": "the",
-        "start": 67.22,
-        "end": 67.44
+        "word": "remaining",
+        "start": 67.9,
+        "end": 68.22
       },
       {
         "i": 181,
-        "word": "exact",
-        "start": 67.44,
-        "end": 67.86
+        "word": "sections",
+        "start": 68.22,
+        "end": 68.68
       },
       {
         "i": 182,
-        "word": "same",
-        "start": 67.86,
-        "end": 68.38
+        "word": "using",
+        "start": 68.68,
+        "end": 69.0
       },
       {
         "i": 183,
-        "word": "sentence.",
-        "start": 68.38,
-        "end": 68.8
+        "word": "the",
+        "start": 69.0,
+        "end": 69.22
+      },
+      {
+        "i": 184,
+        "word": "same",
+        "start": 69.22,
+        "end": 69.52
+      },
+      {
+        "i": 185,
+        "word": "voice.",
+        "start": 69.52,
+        "end": 69.84
       }
     ]
   },
   {
     "id": 16,
-    "text": "Once the sample sounds right, generate the remaining sections using the same voice.",
-    "start": 70.0,
-    "end": 74.1,
+    "text": "Add the narration to the timeline and arrange the sections in order.",
+    "start": 70.48,
+    "end": 73.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      184,
-      196
+      186,
+      197
     ],
     "words": [
       {
-        "i": 184,
-        "word": "Once",
-        "start": 70.0,
-        "end": 70.16
-      },
-      {
-        "i": 185,
-        "word": "the",
-        "start": 70.16,
-        "end": 70.36
-      },
-      {
         "i": 186,
-        "word": "sample",
-        "start": 70.36,
-        "end": 70.64
+        "word": "Add",
+        "start": 70.48,
+        "end": 70.66
       },
       {
         "i": 187,
-        "word": "sounds",
-        "start": 70.64,
-        "end": 70.94
+        "word": "the",
+        "start": 70.66,
+        "end": 70.8
       },
       {
         "i": 188,
-        "word": "right,",
-        "start": 70.94,
-        "end": 71.24
+        "word": "narration",
+        "start": 70.8,
+        "end": 71.06
       },
       {
         "i": 189,
-        "word": "generate",
-        "start": 71.68,
-        "end": 71.94
+        "word": "to",
+        "start": 71.06,
+        "end": 71.32
       },
       {
         "i": 190,
         "word": "the",
-        "start": 71.94,
-        "end": 72.16
+        "start": 71.32,
+        "end": 71.42
       },
       {
         "i": 191,
-        "word": "remaining",
-        "start": 72.16,
-        "end": 72.48
+        "word": "timeline",
+        "start": 71.42,
+        "end": 71.8
       },
       {
         "i": 192,
-        "word": "sections",
-        "start": 72.48,
-        "end": 72.92
+        "word": "and",
+        "start": 71.8,
+        "end": 72.08
       },
       {
         "i": 193,
-        "word": "using",
-        "start": 72.92,
-        "end": 73.26
+        "word": "arrange",
+        "start": 72.08,
+        "end": 72.38
       },
       {
         "i": 194,
         "word": "the",
-        "start": 73.26,
-        "end": 73.48
+        "start": 72.38,
+        "end": 72.58
       },
       {
         "i": 195,
-        "word": "same",
-        "start": 73.48,
-        "end": 73.76
+        "word": "sections",
+        "start": 72.58,
+        "end": 72.86
       },
       {
         "i": 196,
-        "word": "voice.",
-        "start": 73.76,
-        "end": 74.1
+        "word": "in",
+        "start": 72.86,
+        "end": 73.12
+      },
+      {
+        "i": 197,
+        "word": "order.",
+        "start": 73.12,
+        "end": 73.38
       }
     ]
   },
   {
     "id": 17,
-    "text": "Add the narration to the timeline and arrange the sections in order.",
-    "start": 74.74,
-    "end": 77.64,
+    "text": "Here’s the part people often miss: a voiceover needs room to breathe between screen actions.",
+    "start": 74.36,
+    "end": 79.06,
     "notes": [],
-    "match": 1.0,
+    "match": 0.938,
     "status": "ok",
     "word_range": [
-      197,
-      208
+      198,
+      212
     ],
     "words": [
       {
-        "i": 197,
-        "word": "Add",
-        "start": 74.74,
-        "end": 74.9
-      },
-      {
         "i": 198,
-        "word": "the",
-        "start": 74.9,
-        "end": 75.04
+        "word": "Here's",
+        "start": 74.36,
+        "end": 74.54
       },
       {
         "i": 199,
-        "word": "narration",
-        "start": 75.04,
-        "end": 75.32
+        "word": "the",
+        "start": 74.54,
+        "end": 74.66
       },
       {
         "i": 200,
-        "word": "to",
-        "start": 75.32,
-        "end": 75.58
+        "word": "part",
+        "start": 74.66,
+        "end": 74.86
       },
       {
         "i": 201,
-        "word": "the",
-        "start": 75.58,
-        "end": 75.68
+        "word": "people",
+        "start": 74.86,
+        "end": 75.08
       },
       {
         "i": 202,
-        "word": "timeline",
-        "start": 75.68,
-        "end": 76.04
+        "word": "often",
+        "start": 75.08,
+        "end": 75.4
       },
       {
         "i": 203,
-        "word": "and",
-        "start": 76.04,
-        "end": 76.34
+        "word": "miss.",
+        "start": 75.4,
+        "end": 75.66
       },
       {
         "i": 204,
-        "word": "arrange",
-        "start": 76.34,
-        "end": 76.64
+        "word": "A",
+        "start": 76.16,
+        "end": 76.32
       },
       {
         "i": 205,
-        "word": "the",
-        "start": 76.64,
-        "end": 76.84
+        "word": "voiceover",
+        "start": 76.32,
+        "end": 76.82
       },
       {
         "i": 206,
-        "word": "sections",
-        "start": 76.84,
-        "end": 77.1
+        "word": "needs",
+        "start": 76.82,
+        "end": 77.04
       },
       {
         "i": 207,
-        "word": "in",
-        "start": 77.1,
-        "end": 77.38
+        "word": "room",
+        "start": 77.04,
+        "end": 77.34
       },
       {
         "i": 208,
-        "word": "order.",
-        "start": 77.38,
-        "end": 77.64
+        "word": "to",
+        "start": 77.34,
+        "end": 77.56
+      },
+      {
+        "i": 209,
+        "word": "breathe",
+        "start": 77.56,
+        "end": 77.78
+      },
+      {
+        "i": 210,
+        "word": "between",
+        "start": 77.78,
+        "end": 78.14
+      },
+      {
+        "i": 211,
+        "word": "screen",
+        "start": 78.14,
+        "end": 78.56
+      },
+      {
+        "i": 212,
+        "word": "actions.",
+        "start": 78.56,
+        "end": 79.06
       }
     ]
   },
   {
     "id": 18,
-    "text": "Here's the part people often miss.",
-    "start": 78.6,
-    "end": 79.9,
+    "text": "Move or trim the audio so each instruction lands when the viewer can follow it.",
+    "start": 79.6,
+    "end": 83.56,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      209,
-      214
+      213,
+      227
     ],
     "words": [
       {
-        "i": 209,
-        "word": "Here's",
-        "start": 78.6,
-        "end": 78.78
-      },
-      {
-        "i": 210,
-        "word": "the",
-        "start": 78.78,
-        "end": 78.9
-      },
-      {
-        "i": 211,
-        "word": "part",
-        "start": 78.9,
-        "end": 79.12
-      },
-      {
-        "i": 212,
-        "word": "people",
-        "start": 79.12,
-        "end": 79.34
-      },
-      {
         "i": 213,
-        "word": "often",
-        "start": 79.34,
-        "end": 79.64
+        "word": "Move",
+        "start": 79.6,
+        "end": 79.84
       },
       {
         "i": 214,
-        "word": "miss.",
-        "start": 79.64,
-        "end": 79.9
+        "word": "or",
+        "start": 79.84,
+        "end": 80.18
+      },
+      {
+        "i": 215,
+        "word": "trim",
+        "start": 80.18,
+        "end": 80.5
+      },
+      {
+        "i": 216,
+        "word": "the",
+        "start": 80.5,
+        "end": 80.66
+      },
+      {
+        "i": 217,
+        "word": "audio",
+        "start": 80.66,
+        "end": 80.96
+      },
+      {
+        "i": 218,
+        "word": "so",
+        "start": 80.96,
+        "end": 81.22
+      },
+      {
+        "i": 219,
+        "word": "each",
+        "start": 81.22,
+        "end": 81.48
+      },
+      {
+        "i": 220,
+        "word": "instruction",
+        "start": 81.48,
+        "end": 81.92
+      },
+      {
+        "i": 221,
+        "word": "lands",
+        "start": 81.92,
+        "end": 82.26
+      },
+      {
+        "i": 222,
+        "word": "when",
+        "start": 82.26,
+        "end": 82.46
+      },
+      {
+        "i": 223,
+        "word": "the",
+        "start": 82.46,
+        "end": 82.6
+      },
+      {
+        "i": 224,
+        "word": "viewer",
+        "start": 82.6,
+        "end": 82.78
+      },
+      {
+        "i": 225,
+        "word": "can",
+        "start": 82.78,
+        "end": 83.0
+      },
+      {
+        "i": 226,
+        "word": "follow",
+        "start": 83.0,
+        "end": 83.24
+      },
+      {
+        "i": 227,
+        "word": "it.",
+        "start": 83.24,
+        "end": 83.56
       }
     ]
   },
   {
     "id": 19,
-    "text": "A voiceover needs room to breathe between screen actions.",
-    "start": 80.44,
-    "end": 83.32,
+    "text": "Keep background music below the narration and preview the complete video.",
+    "start": 83.56,
+    "end": 87.56,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      215,
-      223
+      228,
+      238
     ],
     "words": [
       {
-        "i": 215,
-        "word": "A",
-        "start": 80.44,
-        "end": 80.56
+        "i": 228,
+        "word": "Keep",
+        "start": 83.56,
+        "end": 84.32
       },
       {
-        "i": 216,
-        "word": "voiceover",
-        "start": 80.56,
-        "end": 81.06
+        "i": 229,
+        "word": "background",
+        "start": 84.32,
+        "end": 84.7
       },
       {
-        "i": 217,
-        "word": "needs",
-        "start": 81.06,
-        "end": 81.3
+        "i": 230,
+        "word": "music",
+        "start": 84.7,
+        "end": 85.04
       },
       {
-        "i": 218,
-        "word": "room",
-        "start": 81.3,
-        "end": 81.58
+        "i": 231,
+        "word": "below",
+        "start": 85.04,
+        "end": 85.3
       },
       {
-        "i": 219,
-        "word": "to",
-        "start": 81.58,
-        "end": 81.8
+        "i": 232,
+        "word": "the",
+        "start": 85.3,
+        "end": 85.5
       },
       {
-        "i": 220,
-        "word": "breathe",
-        "start": 81.8,
-        "end": 82.04
+        "i": 233,
+        "word": "narration",
+        "start": 85.5,
+        "end": 85.88
       },
       {
-        "i": 221,
-        "word": "between",
-        "start": 82.04,
-        "end": 82.4
+        "i": 234,
+        "word": "and",
+        "start": 85.88,
+        "end": 86.22
       },
       {
-        "i": 222,
-        "word": "screen",
-        "start": 82.4,
-        "end": 82.82
+        "i": 235,
+        "word": "preview",
+        "start": 86.22,
+        "end": 86.54
       },
       {
-        "i": 223,
-        "word": "actions.",
-        "start": 82.82,
-        "end": 83.32
+        "i": 236,
+        "word": "the",
+        "start": 86.54,
+        "end": 86.78
+      },
+      {
+        "i": 237,
+        "word": "complete",
+        "start": 86.78,
+        "end": 87.14
+      },
+      {
+        "i": 238,
+        "word": "video.",
+        "start": 87.14,
+        "end": 87.56
       }
     ]
   },
   {
     "id": 20,
-    "text": "Move or trim the audio so each instruction lands when the viewer can follow it.",
-    "start": 83.88,
-    "end": 87.82,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      224,
-      238
-    ],
-    "words": [
-      {
-        "i": 224,
-        "word": "Move",
-        "start": 83.88,
-        "end": 84.1
-      },
-      {
-        "i": 225,
-        "word": "or",
-        "start": 84.1,
-        "end": 84.44
-      },
-      {
-        "i": 226,
-        "word": "trim",
-        "start": 84.44,
-        "end": 84.74
-      },
-      {
-        "i": 227,
-        "word": "the",
-        "start": 84.74,
-        "end": 84.9
-      },
-      {
-        "i": 228,
-        "word": "audio",
-        "start": 84.9,
-        "end": 85.2
-      },
-      {
-        "i": 229,
-        "word": "so",
-        "start": 85.2,
-        "end": 85.46
-      },
-      {
-        "i": 230,
-        "word": "each",
-        "start": 85.46,
-        "end": 85.74
-      },
-      {
-        "i": 231,
-        "word": "instruction",
-        "start": 85.74,
-        "end": 86.16
-      },
-      {
-        "i": 232,
-        "word": "lands",
-        "start": 86.16,
-        "end": 86.5
-      },
-      {
-        "i": 233,
-        "word": "when",
-        "start": 86.5,
-        "end": 86.72
-      },
-      {
-        "i": 234,
-        "word": "the",
-        "start": 86.72,
-        "end": 86.84
-      },
-      {
-        "i": 235,
-        "word": "viewer",
-        "start": 86.84,
-        "end": 87.04
-      },
-      {
-        "i": 236,
-        "word": "can",
-        "start": 87.04,
-        "end": 87.24
-      },
-      {
-        "i": 237,
-        "word": "follow",
-        "start": 87.24,
-        "end": 87.48
-      },
-      {
-        "i": 238,
-        "word": "it.",
-        "start": 87.48,
-        "end": 87.82
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "text": "Keep background music below the narration and preview the complete video.",
-    "start": 88.4,
-    "end": 91.8,
+    "text": "Listen for abrupt joins, repeated words, and sudden volume changes before exporting.",
+    "start": 88.3,
+    "end": 92.96,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       239,
-      249
+      250
     ],
     "words": [
       {
         "i": 239,
-        "word": "Keep",
-        "start": 88.4,
-        "end": 88.58
+        "word": "Listen",
+        "start": 88.3,
+        "end": 88.42
       },
       {
         "i": 240,
-        "word": "background",
-        "start": 88.58,
-        "end": 88.96
+        "word": "for",
+        "start": 88.42,
+        "end": 88.66
       },
       {
         "i": 241,
-        "word": "music",
-        "start": 88.96,
-        "end": 89.28
+        "word": "abrupt",
+        "start": 88.66,
+        "end": 88.94
       },
       {
         "i": 242,
-        "word": "below",
-        "start": 89.28,
-        "end": 89.58
+        "word": "joins,",
+        "start": 88.94,
+        "end": 89.48
       },
       {
         "i": 243,
-        "word": "the",
-        "start": 89.58,
-        "end": 89.74
+        "word": "repeated",
+        "start": 89.86,
+        "end": 90.1
       },
       {
         "i": 244,
-        "word": "narration",
-        "start": 89.74,
-        "end": 90.1
+        "word": "words,",
+        "start": 90.1,
+        "end": 90.56
       },
       {
         "i": 245,
         "word": "and",
-        "start": 90.1,
-        "end": 90.46
+        "start": 91.02,
+        "end": 91.1
       },
       {
         "i": 246,
-        "word": "preview",
-        "start": 90.46,
-        "end": 90.78
+        "word": "sudden",
+        "start": 91.1,
+        "end": 91.3
       },
       {
         "i": 247,
-        "word": "the",
-        "start": 90.78,
-        "end": 91.02
+        "word": "volume",
+        "start": 91.3,
+        "end": 91.64
       },
       {
         "i": 248,
-        "word": "complete",
-        "start": 91.02,
-        "end": 91.38
+        "word": "changes",
+        "start": 91.64,
+        "end": 92.02
       },
       {
         "i": 249,
-        "word": "video.",
-        "start": 91.38,
-        "end": 91.8
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "text": "Listen for abrupt joins, repeated words, and sudden volume changes before exporting.",
-    "start": 92.48,
-    "end": 97.18,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      250,
-      261
-    ],
-    "words": [
+        "word": "before",
+        "start": 92.02,
+        "end": 92.42
+      },
       {
         "i": 250,
-        "word": "Listen",
-        "start": 92.48,
-        "end": 92.66
-      },
-      {
-        "i": 251,
-        "word": "for",
-        "start": 92.66,
-        "end": 92.9
-      },
-      {
-        "i": 252,
-        "word": "abrupt",
-        "start": 92.9,
-        "end": 93.18
-      },
-      {
-        "i": 253,
-        "word": "joins,",
-        "start": 93.18,
-        "end": 93.72
-      },
-      {
-        "i": 254,
-        "word": "repeated",
-        "start": 94.12,
-        "end": 94.38
-      },
-      {
-        "i": 255,
-        "word": "words,",
-        "start": 94.38,
-        "end": 94.8
-      },
-      {
-        "i": 256,
-        "word": "and",
-        "start": 95.26,
-        "end": 95.34
-      },
-      {
-        "i": 257,
-        "word": "sudden",
-        "start": 95.34,
-        "end": 95.54
-      },
-      {
-        "i": 258,
-        "word": "volume",
-        "start": 95.54,
-        "end": 95.9
-      },
-      {
-        "i": 259,
-        "word": "changes",
-        "start": 95.9,
-        "end": 96.26
-      },
-      {
-        "i": 260,
-        "word": "before",
-        "start": 96.26,
-        "end": 96.66
-      },
-      {
-        "i": 261,
         "word": "exporting.",
-        "start": 96.66,
-        "end": 97.18
+        "start": 92.42,
+        "end": 92.96
       }
     ]
   }

@@ -1,1 +1,2 @@
-Hand plan used (no actions.json): see output/report.md. Take has no click log; typing-heavy; footage chosen from freezedetect moving windows and scenes.json stills.
+# analyze notes (script-07)
+Take is 311 s, mostly slow typing; moving spans mapped from sheets: Apps click 15.5, search typing 21.8-24.6, AI Voice click 34.5, paste 41.6, language list 48.8-50.6, voices 57-65, text edits 75-98 / 126-156, Generate 159.5 (generating 160-164), playback 170-189, rewrite+generate 199-211, retype+generate 218-235, timeline move/trim 243-253, music 273-292, volume 299.5-301.5, Share 304.7.

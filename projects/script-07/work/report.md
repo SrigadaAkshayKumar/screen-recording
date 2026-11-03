@@ -1,30 +1,57 @@
 # script-07 report
 
 ## Result
-`projects/script-07/output/final.mp4` — 97.756 s (= voiceover), delivered 2560x1440, **verify PASS**. `check.py --plan`: OK, no `pace:` warnings.
+- `projects/script-07/output/final.mp4`, 93.500 s (voiceover 93.506 s), 2560x1440, **verify PASS** (duration, streams, resolution, frozen spans, 29 join boundaries without black frames).
+- `check.py --plan`: OK, **no `pace:` warnings**. 20 line groups at 0.81-1.20x (no hold, no cut, no segment under 1.3 s).
+- Freeze check on the *final* (freezedetect n=0.002, d=1.7): longest still 2.33 s (the static editor right after the intro zoom-out, 3.5-5.9 s); the others are 1.7-2.2 s (typing / loading). Nothing over 2.5 s.
 
 ## Stages
-- probe, transcribe, align (22 lines, all `ok`), scenes, frames: **reused** (new 311.067 s take, 97.756 s voiceover, no click log).
-- analyze/sync: done as a **hand plan** (`work/hand_plan.py`, 22 per-line groups) instead of actions.json/sync.json — no click log, a typing-heavy take, and the repo's established practice for this project (see docs/lessons.md). No zooms/ripples. `work/actions.json` and `work/sync.json` were not written.
-- preview: rendered, join frames reviewed (cross-fades only, no black/garbage frames); preview freezedetect (d=1.5) longest 2.47 s.
-- final render + verify: PASS (0 freezes over 3 s, 31 joins clean).
+- probe, transcribe, align (lines 1-20, all match >= 0.93), scenes, frames: **reused** (already current; transcription not re-run).
+- analyze: done by hand from the 9 contact sheets plus ~14 extra 12-tile sheets (0.5-1.5 s steps). No `actions.json` was written; as in the earlier script-07/-06/-09 runs this take is planned with `work/hand_plan.py` (per-line groups, no clicks log, no zooms). Notes below replace analyze-notes/sync-notes.
+- sync/plan: `work/hand_plan.py` -> `work/plan.json` (segments only, no zooms/ripples: the recording already carries the recorder's own zoom).
+- preview rendered 4 times (freeze fixes), final rendered once. verify PASS.
 
 ## Judgment calls
-- Followed audio order; each group starts exactly on its line and plays at one speed, 0.77-1.21x. Nothing faster than 1.21x, no holds.
-- The recording is mostly static: home screen 3-12 s, loading, cursor-only 63-77 s, slow typing 104-150 s. Only moving windows (freezedetect n=0.002 d=0.5) were used; typing chunks inside scenes `stills` are ≤2.4 s each and separated by moving footage.
-- Per-line footage: L1 opening; L2 static intro + editor (src 8.8-10.8, 12.1-15.6, borrowed: nothing narrated); L3 Apps panel + search (15.6-21.9); L4 AI voice list + tool open (24.8-27.1, 34.5-36.8); L5 language (48.1-52.3); L6 voice choice (56.9-63.1); L7 pasted text (40.6-42.9, borrowed); L8-L9 text editing (78.6-81.2, 98.3-104.3); L10-L11 typing numbers (126.8-129.2, 148.6-152.7, 131-132.7); L12-L13 generating AI voice (156.7-163.7); L14 rewrite typing + generate again (220.8-222.6, 205.8-208.8); L15 second generate (193.7-199.6, borrowed); L16 generate remaining (233.5-239.6); L17-L19 audio on timeline/playback (169.5-178.6); L20 timeline playback (242.2-246.8, borrowed); L21 music panel (271-275); L22 preview (290-295.3).
-- Skipped dead spans: loading 27-34 s, voice-hover/cursor-only 63-77 s, long typing 104-148 s (partly), 166-169 s, 295-298 s, closing export dialog 298-311 s (not narrated).
+- Audio order is followed; every group starts on its line's start. The take is mostly slow typing (src 100-150 and 218-232 are almost static), so only ~60 s of it really moves; typing-only stretches were replaced by the places where the text changes.
+- Source jumps (all cross-faded, no cuts of in-scene dead time that were not static): L1 skips the static home screen (3.7-10 s, cursor only); L2 jumps Apps click -> search typing (skips panel loading 16-20.9 s); L3 jumps AI Voice click -> paste (skips 36-40.4 s idle voice list); L4 uses 36.6-38.4 (first voice pick, Ralph) for "voice style"; L7-L9 skip static text spans (81.5-84.4, 88.2-93.6); L10 jumps to the "200 -> two hundred" edit.
+- Footage borrowed or approximate (see table): L5 (Richard's sample playing, "clear conversational voice") is the nearest real footage; L6 "read the text aloud" is the cursor entering the text box; L9 shows number typing ("200" at 127-128 s) as the "numbers in the form you want spoken" step; L14 shows the 2nd generated sample appearing (the take has no side-by-side comparison); L17 (room to breathe) shows the clip being dragged to leave a gap.
+- No zooms/ripples (hand plan; the recorder zoom is baked into the take at several places, e.g. 14.7, 17.1 s).
+
+## Per-line table (frames read from final.mp4 at each line start and middle)
+| # | out window | source | what is shown | match |
+|---|---|---|---|---|
+| 1 | 0.00-7.40 | 0-2.7, 10-13.4 | editor with the portrait video open, then cursor travelling toward the Apps sidebar | yes (intro) |
+| 2 | 7.40-12.50 | 13.6-16.0, 20.9-24.6 | cursor on Apps, panel opens (Apps on "Apps" 9.4 s); "AI voice" typed in the search box with the dropdown (on "search" 10.6 s) | yes |
+| 3 | 12.50-17.00 | 33.0-35.9, 40.4-42.5 | AI Voice icon clicked in results (~13.5 s), AI Voice panel opens, text pasted in the box (~16 s) | yes |
+| 4 | 17.00-20.68 | 48.4-50.9, 36.6-38.4 | language dropdown with English (United States) ticked; then the voice tiles, Ralph picked | yes |
+| 5 | 20.68-26.08 | 58.0-59.8, 60.4-63.6 | Ralph selected, then Richard picked and previewed (ring around the tile) | partly (nearest footage to "conversational voice") |
+| 6 | 26.08-28.34 | 75.0-77.3 | cursor into the text box, text being edited at the start | partly (no literal read-aloud on screen) |
+| 7 | 28.34-35.26 | 77.3-81.5, 84.4-85.8 | text box zoomed by the recorder, "Welcome to the masterclass." inserted, sentences edited | yes |
+| 8 | 35.26-38.80 | 86.5-88.2, 93.6-95.0 | cursor moving along the text, punctuation edits | partly (edits visible, small) |
+| 9 | 38.80-42.70 | 94.3-96.8, 127.4-128.7 | text edits, then the number being typed into the text | partly |
+| 10 | 42.70-48.02 | 148.9-154.3 | zoomed text; "200" selected and replaced by "two hundred" | yes |
+| 11 | 48.02-50.90 | 159.4-162.3 | Generate AI voice clicked (~48.5 s), "Generating AI voice" bar | yes |
+| 12 | 50.90-54.16 | 170.8-174.1 | clip on timeline playing back with captions ("This ...") | yes |
+| 13 | 54.16-59.70 | 200.0-205.8 | the line selected and rewritten ("...completed in two hundred countries"), Richard still selected | yes |
+| 14 | 59.70-65.72 | 205.8-211.8 | Generating AI voice, new clip appears on the timeline | yes |
+| 15 | 65.72-70.48 | 231.0-235.8 | new text typed, Generate clicked, third clip added | yes |
+| 16 | 70.48-74.36 | 235.8-239.7 | the new clip on the timeline after the first, zoomed timeline | yes |
+| 17 | 74.36-79.60 | 243.2-248.4 | playhead over timeline, second clip dragged right leaving a gap | yes |
+| 18 | 79.60-83.56 | 249.0-253.0 | clip trimmed / moved on the timeline, video playing | yes |
+| 19 | 83.56-88.30 | 276.5-281.3 | Audio panel, Energy Trend Logo music added below the narration, preview plays | yes |
+| 20 | 88.30-93.51 | 299.9-305.1 | volume slider on the music clip, then the timeline; Share click at the end (~93.1 s on "exporting") | yes |
 
 ## Uncertain
-- Lines with no truly matching footage: L2 (intro), L7 (read aloud), L15 (rewording vs. regenerating), L20 (trim/move audio — the recording shows playback, not a trim), L21 (music-volume step is only the audio search panel), L22 (preview). Nearest panels used.
-- The text edit steps (L8-L11) are small typing in a text box; at 1920 px they are legible but subtle.
+- Lines 5, 6, 8, 9 only partly match: the take has no footage of the narrated step itself (no read-aloud, no comparison of voices, typing of abbreviations).
+- The take's voiceover steps differ from the script in places (e.g. there is no separate "full stops and commas" typing); text edits are the closest footage.
+- Output is 2560x1440 (upscaled from 1920x1080 by the pipeline default, as in earlier runs).
 
 ## Check these
-- 4.7-7.1 s: static-ish opening (cursor only), 2.5 s.
-- 43.3-45.7 s, 50-52.2 s: slow typing, ≤2.4 s.
-- 61-70 s (L14/L15): rewrite typing → generate; check the voice-generation footage matches the words.
-- 80-82 s: playback of a still video frame, 2.1 s.
-- 88-93 s: music panel / preview, borrowed.
+- 3.3-7.4 s: cursor travel before Apps; static for ~2.3 s after the intro zoom-out.
+- 20.7-26 s: Richard sample ring (nearest footage for "conversational voice").
+- 33.5 s, 35.3 s, 37.2 s, 38.8 s, 41.4 s: cross-fades between text edits (L7-L9); small changes only.
+- 59.7-65.7 s: the second sample appears in the timeline (L14).
+- 88.3 s: volume popup at the start of L20.
 
 ## Lessons added
-- script-07 entry appended to docs/lessons.md.
+- 2026-11-03 script-07 re-edit (new script, 93.506 s voiceover) entry in docs/lessons.md.
