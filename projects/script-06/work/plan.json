@@ -1,196 +1,220 @@
 {
  "output": {
-  "duration": 96.967,
+  "duration": 93.317,
   "fps": 30.0,
   "width": 1920,
   "height": 1080
  },
  "segments": [
   {
-   "src_start": 1.5,
-   "src_end": 6.3,
+   "src_start": 109.6,
+   "src_end": 113.4,
    "out_start": 0,
-   "out_end": 2.4,
+   "out_end": 3.6,
    "mode": "speed"
   },
   {
-   "src_start": 6.3,
-   "src_end": 11.4,
-   "out_start": 2.4,
-   "out_end": 8.928,
+   "src_start": 3.9,
+   "src_end": 5.8,
+   "out_start": 3.6,
+   "out_end": 5.4,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 5.8,
+   "src_end": 8.3,
+   "out_start": 5.4,
+   "out_end": 8.0,
    "mode": "speed"
   },
   {
-   "src_start": 12.6,
-   "src_end": 15.0,
-   "out_start": 8.928,
-   "out_end": 12.0,
-   "mode": "speed",
-   "xfade": true
-  },
-  {
-   "src_start": 15.0,
-   "src_end": 20.2,
-   "out_start": 12.0,
-   "out_end": 17.2,
+   "src_start": 8.3,
+   "src_end": 10.2,
+   "out_start": 8.0,
+   "out_end": 9.531,
    "mode": "speed"
   },
   {
-   "src_start": 31.0,
-   "src_end": 35.1,
-   "out_start": 17.2,
-   "out_end": 21.26,
+   "src_start": 13.5,
+   "src_end": 15.3,
+   "out_start": 9.531,
+   "out_end": 10.982,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 53.0,
-   "src_end": 57.0,
-   "out_start": 21.26,
-   "out_end": 24.198,
+   "src_start": 19.8,
+   "src_end": 22.8,
+   "out_start": 10.982,
+   "out_end": 13.4,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 58.6,
-   "src_end": 60.7,
-   "out_start": 24.198,
-   "out_end": 25.74,
+   "src_start": 31.5,
+   "src_end": 36.6,
+   "out_start": 13.4,
+   "out_end": 17.4,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 64.9,
-   "src_end": 69.7,
-   "out_start": 25.74,
-   "out_end": 30.58,
+   "src_start": 52.6,
+   "src_end": 58.4,
+   "out_start": 17.4,
+   "out_end": 21.9,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 71.6,
-   "src_end": 78.5,
-   "out_start": 30.58,
-   "out_end": 36.88,
+   "src_start": 68.0,
+   "src_end": 73.5,
+   "out_start": 21.9,
+   "out_end": 25.8,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 73.6,
+   "src_end": 81.0,
+   "out_start": 25.8,
+   "out_end": 33.1,
    "mode": "speed",
    "xfade": true
   },
   {
    "src_start": 96.2,
-   "src_end": 100.8,
-   "out_start": 36.88,
-   "out_end": 41.44,
+   "src_end": 101.5,
+   "out_start": 33.1,
+   "out_end": 37.7,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 80.0,
-   "src_end": 86.4,
-   "out_start": 41.44,
-   "out_end": 47.32,
+   "src_start": 80.6,
+   "src_end": 85.4,
+   "out_start": 37.7,
+   "out_end": 43.5,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 102.3,
-   "src_end": 105.8,
-   "out_start": 47.32,
-   "out_end": 50.82,
+   "src_start": 103.2,
+   "src_end": 107.2,
+   "out_start": 43.5,
+   "out_end": 47.0,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 120.0,
-   "src_end": 124.3,
-   "out_start": 50.82,
-   "out_end": 55.12,
+   "src_start": 120.8,
+   "src_end": 125.0,
+   "out_start": 47.0,
+   "out_end": 51.3,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 125.5,
-   "src_end": 129.3,
-   "out_start": 55.12,
-   "out_end": 58.9,
+   "src_start": 116.0,
+   "src_end": 119.8,
+   "out_start": 51.3,
+   "out_end": 55.1,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 149.5,
-   "src_end": 154.5,
-   "out_start": 58.9,
-   "out_end": 63.88,
+   "src_start": 145.6,
+   "src_end": 151.8,
+   "out_start": 55.1,
+   "out_end": 60.0,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 157.6,
+   "src_start": 152.0,
+   "src_end": 153.8,
+   "out_start": 60.0,
+   "out_end": 62.033,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 157.7,
    "src_end": 161.3,
-   "out_start": 63.88,
-   "out_end": 68.84,
+   "out_start": 62.033,
+   "out_end": 66.1,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 161.3,
-   "src_end": 161.3,
-   "out_start": 68.84,
-   "out_end": 69.94,
-   "mode": "hold"
-  },
-  {
-   "src_start": 164.0,
-   "src_end": 167.9,
-   "out_start": 69.94,
-   "out_end": 74.32,
+   "src_start": 164.4,
+   "src_end": 167.8,
+   "out_start": 66.1,
+   "out_end": 69.102,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 175.6,
+   "src_start": 175.4,
+   "src_end": 177.0,
+   "out_start": 69.102,
+   "out_end": 70.514,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 178.4,
    "src_end": 181.0,
-   "out_start": 74.32,
-   "out_end": 79.68,
+   "out_start": 70.514,
+   "out_end": 72.81,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 181.8,
-   "src_end": 185.3,
-   "out_start": 79.68,
-   "out_end": 83.16,
+   "src_start": 191.2,
+   "src_end": 194.7,
+   "out_start": 72.81,
+   "out_end": 75.9,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 191.3,
-   "src_end": 192.7,
-   "out_start": 83.16,
-   "out_end": 84.72,
+   "src_start": 194.7,
+   "src_end": 196.9,
+   "out_start": 75.9,
+   "out_end": 78.7,
+   "mode": "speed"
+  },
+  {
+   "src_start": 216.0,
+   "src_end": 221.0,
+   "out_start": 78.7,
+   "out_end": 84.8,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 217.9,
-   "src_end": 221.8,
-   "out_start": 84.72,
-   "out_end": 88.64,
+   "src_start": 228.5,
+   "src_end": 230.9,
+   "out_start": 84.8,
+   "out_end": 87.6,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 194.4,
-   "src_end": 197.0,
-   "out_start": 88.64,
-   "out_end": 91.44,
+   "src_start": 204.2,
+   "src_end": 206.6,
+   "out_start": 87.6,
+   "out_end": 90.649,
    "mode": "speed",
    "xfade": true
   },
   {
-   "src_start": 226.7,
-   "src_end": 232.8,
-   "out_start": 91.44,
-   "out_end": 96.967,
+   "src_start": 229.7,
+   "src_end": 231.8,
+   "out_start": 90.649,
+   "out_end": 93.317,
    "mode": "speed",
    "xfade": true
   }
