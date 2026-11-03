@@ -1,1930 +1,1795 @@
 [
   {
     "id": 1,
-    "text": "Script 8, How to make a foldable business card in Canva.",
+    "text": "This tutorial shows you how to design a business card that folds in half using a custom Canva layout.",
     "start": 0.0,
-    "end": 3.88,
+    "end": 5.62,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      10
+      18
     ],
     "words": [
       {
         "i": 0,
-        "word": "Script",
+        "word": "This",
         "start": 0.0,
-        "end": 0.36
+        "end": 0.52
       },
       {
         "i": 1,
-        "word": "8,",
-        "start": 0.36,
-        "end": 0.76
+        "word": "tutorial",
+        "start": 0.52,
+        "end": 0.88
       },
       {
         "i": 2,
-        "word": "How",
-        "start": 1.2,
-        "end": 1.32
+        "word": "shows",
+        "start": 0.88,
+        "end": 1.26
       },
       {
         "i": 3,
-        "word": "to",
-        "start": 1.32,
+        "word": "you",
+        "start": 1.26,
         "end": 1.48
       },
       {
         "i": 4,
-        "word": "make",
+        "word": "how",
         "start": 1.48,
-        "end": 1.62
+        "end": 1.64
       },
       {
         "i": 5,
-        "word": "a",
-        "start": 1.62,
-        "end": 1.84
+        "word": "to",
+        "start": 1.64,
+        "end": 1.78
       },
       {
         "i": 6,
-        "word": "foldable",
-        "start": 1.84,
-        "end": 2.28
+        "word": "design",
+        "start": 1.78,
+        "end": 2.04
       },
       {
         "i": 7,
-        "word": "business",
-        "start": 2.28,
-        "end": 2.58
+        "word": "a",
+        "start": 2.04,
+        "end": 2.2
       },
       {
         "i": 8,
-        "word": "card",
-        "start": 2.58,
-        "end": 3.06
+        "word": "business",
+        "start": 2.2,
+        "end": 2.46
       },
       {
         "i": 9,
-        "word": "in",
-        "start": 3.06,
-        "end": 3.4
+        "word": "card",
+        "start": 2.46,
+        "end": 2.8
       },
       {
         "i": 10,
-        "word": "Canva.",
-        "start": 3.4,
-        "end": 3.88
+        "word": "that",
+        "start": 2.8,
+        "end": 3.0
+      },
+      {
+        "i": 11,
+        "word": "folds",
+        "start": 3.0,
+        "end": 3.28
+      },
+      {
+        "i": 12,
+        "word": "in",
+        "start": 3.28,
+        "end": 3.5
+      },
+      {
+        "i": 13,
+        "word": "half",
+        "start": 3.5,
+        "end": 3.8
+      },
+      {
+        "i": 14,
+        "word": "using",
+        "start": 3.8,
+        "end": 4.2
+      },
+      {
+        "i": 15,
+        "word": "a",
+        "start": 4.2,
+        "end": 4.46
+      },
+      {
+        "i": 16,
+        "word": "custom",
+        "start": 4.46,
+        "end": 4.78
+      },
+      {
+        "i": 17,
+        "word": "Canva",
+        "start": 4.78,
+        "end": 5.26
+      },
+      {
+        "i": 18,
+        "word": "layout.",
+        "start": 5.26,
+        "end": 5.62
       }
     ]
   },
   {
     "id": 2,
-    "text": "This tutorial shows you how to design a business card that folds in half using a custom Canva layout.",
-    "start": 4.54,
-    "end": 9.92,
+    "text": "First, decide the finished folded size and folding direction.",
+    "start": 6.48,
+    "end": 9.58,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      11,
-      29
+      19,
+      27
     ],
     "words": [
       {
-        "i": 11,
-        "word": "This",
-        "start": 4.54,
-        "end": 4.8
-      },
-      {
-        "i": 12,
-        "word": "tutorial",
-        "start": 4.8,
-        "end": 5.14
-      },
-      {
-        "i": 13,
-        "word": "shows",
-        "start": 5.14,
-        "end": 5.56
-      },
-      {
-        "i": 14,
-        "word": "you",
-        "start": 5.56,
-        "end": 5.76
-      },
-      {
-        "i": 15,
-        "word": "how",
-        "start": 5.76,
-        "end": 5.92
-      },
-      {
-        "i": 16,
-        "word": "to",
-        "start": 5.92,
-        "end": 6.08
-      },
-      {
-        "i": 17,
-        "word": "design",
-        "start": 6.08,
-        "end": 6.32
-      },
-      {
-        "i": 18,
-        "word": "a",
-        "start": 6.32,
-        "end": 6.48
-      },
-      {
         "i": 19,
-        "word": "business",
+        "word": "First,",
         "start": 6.48,
-        "end": 6.78
+        "end": 6.66
       },
       {
         "i": 20,
-        "word": "card",
-        "start": 6.78,
-        "end": 7.1
+        "word": "decide",
+        "start": 6.84,
+        "end": 7.18
       },
       {
         "i": 21,
-        "word": "that",
-        "start": 7.1,
-        "end": 7.28
+        "word": "the",
+        "start": 7.18,
+        "end": 7.42
       },
       {
         "i": 22,
-        "word": "folds",
-        "start": 7.28,
-        "end": 7.58
+        "word": "finished",
+        "start": 7.42,
+        "end": 7.72
       },
       {
         "i": 23,
-        "word": "in",
-        "start": 7.58,
-        "end": 7.78
+        "word": "folded",
+        "start": 7.72,
+        "end": 8.04
       },
       {
         "i": 24,
-        "word": "half",
-        "start": 7.78,
-        "end": 8.1
+        "word": "size",
+        "start": 8.04,
+        "end": 8.44
       },
       {
         "i": 25,
-        "word": "using",
-        "start": 8.1,
-        "end": 8.5
+        "word": "and",
+        "start": 8.44,
+        "end": 8.78
       },
       {
         "i": 26,
-        "word": "a",
-        "start": 8.5,
-        "end": 8.74
+        "word": "folding",
+        "start": 8.78,
+        "end": 9.1
       },
       {
         "i": 27,
-        "word": "custom",
-        "start": 8.74,
-        "end": 9.06
-      },
-      {
-        "i": 28,
-        "word": "Canva",
-        "start": 9.06,
+        "word": "direction.",
+        "start": 9.1,
         "end": 9.58
-      },
-      {
-        "i": 29,
-        "word": "layout.",
-        "start": 9.58,
-        "end": 9.92
       }
     ]
   },
   {
     "id": 3,
-    "text": "First, decide the finished folded size and folding direction.",
-    "start": 10.74,
-    "end": 13.88,
+    "text": "For this example, the closed card will be eighty-five millimeters wide and fifty-five millimeters tall, with a horizontal fold.",
+    "start": 10.24,
+    "end": 16.7,
     "notes": [],
-    "match": 1.0,
-    "status": "ok",
+    "match": 0.714,
+    "status": "fuzzy",
     "word_range": [
-      30,
-      38
+      28,
+      44
     ],
     "words": [
       {
+        "i": 28,
+        "word": "For",
+        "start": 10.24,
+        "end": 10.4
+      },
+      {
+        "i": 29,
+        "word": "this",
+        "start": 10.4,
+        "end": 10.56
+      },
+      {
         "i": 30,
-        "word": "First,",
-        "start": 10.74,
-        "end": 10.96
+        "word": "example,",
+        "start": 10.56,
+        "end": 10.98
       },
       {
         "i": 31,
-        "word": "decide",
-        "start": 11.12,
-        "end": 11.48
+        "word": "the",
+        "start": 11.18,
+        "end": 11.3
       },
       {
         "i": 32,
-        "word": "the",
-        "start": 11.48,
-        "end": 11.7
+        "word": "closed",
+        "start": 11.3,
+        "end": 11.58
       },
       {
         "i": 33,
-        "word": "finished",
-        "start": 11.7,
-        "end": 11.98
+        "word": "card",
+        "start": 11.58,
+        "end": 11.92
       },
       {
         "i": 34,
-        "word": "folded",
-        "start": 11.98,
-        "end": 12.36
+        "word": "will",
+        "start": 11.92,
+        "end": 12.08
       },
       {
         "i": 35,
-        "word": "size",
-        "start": 12.36,
-        "end": 12.74
+        "word": "be",
+        "start": 12.08,
+        "end": 12.22
       },
       {
         "i": 36,
-        "word": "and",
-        "start": 12.74,
-        "end": 13.08
+        "word": "85mm",
+        "start": 12.22,
+        "end": 13.02
       },
       {
         "i": 37,
-        "word": "folding",
-        "start": 13.08,
-        "end": 13.4
+        "word": "wide",
+        "start": 13.02,
+        "end": 13.58
       },
       {
         "i": 38,
-        "word": "direction.",
-        "start": 13.4,
-        "end": 13.88
+        "word": "and",
+        "start": 13.58,
+        "end": 13.9
+      },
+      {
+        "i": 39,
+        "word": "55mm",
+        "start": 13.9,
+        "end": 14.74
+      },
+      {
+        "i": 40,
+        "word": "tall",
+        "start": 14.74,
+        "end": 15.22
+      },
+      {
+        "i": 41,
+        "word": "with",
+        "start": 15.22,
+        "end": 15.6
+      },
+      {
+        "i": 42,
+        "word": "a",
+        "start": 15.6,
+        "end": 15.72
+      },
+      {
+        "i": 43,
+        "word": "horizontal",
+        "start": 15.72,
+        "end": 16.14
+      },
+      {
+        "i": 44,
+        "word": "fold.",
+        "start": 16.14,
+        "end": 16.7
       }
     ]
   },
   {
     "id": 4,
-    "text": "For this example, the closed card will be 85 millimeters wide and 55 millimeters tall with a horizontal fold.",
-    "start": 14.52,
-    "end": 21.02,
+    "text": "Create a custom design measuring eighty-five by one hundred and ten millimeters.",
+    "start": 17.3,
+    "end": 20.9,
     "notes": [],
-    "match": 1.0,
-    "status": "ok",
+    "match": 0.462,
+    "status": "bad",
     "word_range": [
-      39,
-      57
+      45,
+      52
     ],
     "words": [
       {
-        "i": 39,
-        "word": "For",
-        "start": 14.52,
-        "end": 14.7
-      },
-      {
-        "i": 40,
-        "word": "this",
-        "start": 14.7,
-        "end": 14.84
-      },
-      {
-        "i": 41,
-        "word": "example,",
-        "start": 14.84,
-        "end": 15.28
-      },
-      {
-        "i": 42,
-        "word": "the",
-        "start": 15.48,
-        "end": 15.6
-      },
-      {
-        "i": 43,
-        "word": "closed",
-        "start": 15.6,
-        "end": 15.88
-      },
-      {
-        "i": 44,
-        "word": "card",
-        "start": 15.88,
-        "end": 16.22
-      },
-      {
         "i": 45,
-        "word": "will",
-        "start": 16.22,
-        "end": 16.36
+        "word": "Create",
+        "start": 17.3,
+        "end": 17.58
       },
       {
         "i": 46,
-        "word": "be",
-        "start": 16.36,
-        "end": 16.5
+        "word": "a",
+        "start": 17.58,
+        "end": 17.78
       },
       {
         "i": 47,
-        "word": "85",
-        "start": 16.5,
-        "end": 17.08
+        "word": "custom",
+        "start": 17.78,
+        "end": 18.04
       },
       {
         "i": 48,
-        "word": "millimeters",
-        "start": 17.08,
-        "end": 17.54
+        "word": "design",
+        "start": 18.04,
+        "end": 18.42
       },
       {
         "i": 49,
-        "word": "wide",
-        "start": 17.54,
-        "end": 17.9
+        "word": "measuring",
+        "start": 18.42,
+        "end": 18.78
       },
       {
         "i": 50,
-        "word": "and",
-        "start": 17.9,
-        "end": 18.18
+        "word": "85",
+        "start": 18.78,
+        "end": 19.44
       },
       {
         "i": 51,
-        "word": "55",
-        "start": 18.18,
-        "end": 18.68
+        "word": "by",
+        "start": 19.44,
+        "end": 19.74
       },
       {
         "i": 52,
-        "word": "millimeters",
-        "start": 18.68,
-        "end": 19.14
-      },
-      {
-        "i": 53,
-        "word": "tall",
-        "start": 19.14,
-        "end": 19.52
-      },
-      {
-        "i": 54,
-        "word": "with",
-        "start": 19.52,
-        "end": 19.9
-      },
-      {
-        "i": 55,
-        "word": "a",
-        "start": 19.9,
-        "end": 20.0
-      },
-      {
-        "i": 56,
-        "word": "horizontal",
-        "start": 20.0,
-        "end": 20.44
-      },
-      {
-        "i": 57,
-        "word": "fold.",
-        "start": 20.44,
-        "end": 21.02
+        "word": "110mm.",
+        "start": 19.74,
+        "end": 20.9
       }
     ]
   },
   {
     "id": 5,
-    "text": "Create a custom design measuring 85 by 110 millimeters.",
-    "start": 21.54,
-    "end": 25.38,
+    "text": "This is the unfolded sheet, before adding any printer-required bleed.",
+    "start": 21.68,
+    "end": 25.68,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      58,
-      66
+      53,
+      63
     ],
     "words": [
       {
+        "i": 53,
+        "word": "This",
+        "start": 21.68,
+        "end": 21.94
+      },
+      {
+        "i": 54,
+        "word": "is",
+        "start": 21.94,
+        "end": 22.06
+      },
+      {
+        "i": 55,
+        "word": "the",
+        "start": 22.06,
+        "end": 22.18
+      },
+      {
+        "i": 56,
+        "word": "unfolded",
+        "start": 22.18,
+        "end": 22.74
+      },
+      {
+        "i": 57,
+        "word": "sheet,",
+        "start": 22.74,
+        "end": 23.2
+      },
+      {
         "i": 58,
-        "word": "Create",
-        "start": 21.54,
-        "end": 21.88
+        "word": "before",
+        "start": 23.52,
+        "end": 23.84
       },
       {
         "i": 59,
-        "word": "a",
-        "start": 21.88,
-        "end": 22.04
+        "word": "adding",
+        "start": 23.84,
+        "end": 24.16
       },
       {
         "i": 60,
-        "word": "custom",
-        "start": 22.04,
-        "end": 22.32
+        "word": "any",
+        "start": 24.16,
+        "end": 24.46
       },
       {
         "i": 61,
-        "word": "design",
-        "start": 22.32,
-        "end": 22.7
+        "word": "printer",
+        "start": 24.46,
+        "end": 24.86
       },
       {
         "i": 62,
-        "word": "measuring",
-        "start": 22.7,
-        "end": 23.08
+        "word": "-required",
+        "start": 24.86,
+        "end": 25.28
       },
       {
         "i": 63,
-        "word": "85",
-        "start": 23.08,
-        "end": 23.72
-      },
-      {
-        "i": 64,
-        "word": "by",
-        "start": 23.72,
-        "end": 24.04
-      },
-      {
-        "i": 65,
-        "word": "110",
-        "start": 24.04,
-        "end": 24.82
-      },
-      {
-        "i": 66,
-        "word": "millimeters.",
-        "start": 24.82,
-        "end": 25.38
+        "word": "bleed.",
+        "start": 25.28,
+        "end": 25.68
       }
     ]
   },
   {
     "id": 6,
-    "text": "This is the unfolded sheet before adding any printer required bleed.",
-    "start": 26.0,
-    "end": 29.96,
+    "text": "Open File, then Rulers and guides, and show the rulers.",
+    "start": 26.24,
+    "end": 29.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      67,
-      77
+      64,
+      73
     ],
     "words": [
       {
-        "i": 67,
-        "word": "This",
-        "start": 26.0,
-        "end": 26.24
-      },
-      {
-        "i": 68,
-        "word": "is",
+        "i": 64,
+        "word": "Open",
         "start": 26.24,
-        "end": 26.36
+        "end": 26.76
       },
       {
-        "i": 69,
-        "word": "the",
-        "start": 26.36,
-        "end": 26.5
+        "i": 65,
+        "word": "file,",
+        "start": 26.76,
+        "end": 27.14
       },
       {
-        "i": 70,
-        "word": "unfolded",
-        "start": 26.5,
-        "end": 27.02
-      },
-      {
-        "i": 71,
-        "word": "sheet",
-        "start": 27.02,
+        "i": 66,
+        "word": "then",
+        "start": 27.38,
         "end": 27.52
       },
       {
-        "i": 72,
-        "word": "before",
+        "i": 67,
+        "word": "rulers",
         "start": 27.52,
-        "end": 28.12
+        "end": 27.78
+      },
+      {
+        "i": 68,
+        "word": "and",
+        "start": 27.78,
+        "end": 28.04
+      },
+      {
+        "i": 69,
+        "word": "guides,",
+        "start": 28.04,
+        "end": 28.32
+      },
+      {
+        "i": 70,
+        "word": "and",
+        "start": 28.56,
+        "end": 28.74
+      },
+      {
+        "i": 71,
+        "word": "show",
+        "start": 28.74,
+        "end": 28.98
+      },
+      {
+        "i": 72,
+        "word": "the",
+        "start": 28.98,
+        "end": 29.14
       },
       {
         "i": 73,
-        "word": "adding",
-        "start": 28.12,
-        "end": 28.44
-      },
-      {
-        "i": 74,
-        "word": "any",
-        "start": 28.44,
-        "end": 28.78
-      },
-      {
-        "i": 75,
-        "word": "printer",
-        "start": 28.78,
-        "end": 29.16
-      },
-      {
-        "i": 76,
-        "word": "required",
-        "start": 29.16,
-        "end": 29.58
-      },
-      {
-        "i": 77,
-        "word": "bleed.",
-        "start": 29.58,
-        "end": 29.96
+        "word": "rulers.",
+        "start": 29.14,
+        "end": 29.5
       }
     ]
   },
   {
     "id": 7,
-    "text": "Open file, then rulers and guides, and show the rulers.",
-    "start": 31.1,
-    "end": 33.78,
+    "text": "Add a horizontal guide halfway down the page, at fifty-five millimeters.",
+    "start": 30.32,
+    "end": 33.84,
     "notes": [],
-    "match": 1.0,
-    "status": "ok",
+    "match": 0.75,
+    "status": "fuzzy",
     "word_range": [
-      78,
-      87
+      74,
+      83
     ],
     "words": [
       {
+        "i": 74,
+        "word": "Add",
+        "start": 30.32,
+        "end": 30.44
+      },
+      {
+        "i": 75,
+        "word": "a",
+        "start": 30.44,
+        "end": 30.6
+      },
+      {
+        "i": 76,
+        "word": "horizontal",
+        "start": 30.6,
+        "end": 30.98
+      },
+      {
+        "i": 77,
+        "word": "guide",
+        "start": 30.98,
+        "end": 31.5
+      },
+      {
         "i": 78,
-        "word": "Open",
-        "start": 31.1,
-        "end": 31.1
+        "word": "halfway",
+        "start": 31.5,
+        "end": 31.84
       },
       {
         "i": 79,
-        "word": "file,",
-        "start": 31.1,
-        "end": 31.42
+        "word": "down",
+        "start": 31.84,
+        "end": 32.12
       },
       {
         "i": 80,
-        "word": "then",
-        "start": 31.66,
-        "end": 31.82
+        "word": "the",
+        "start": 32.12,
+        "end": 32.26
       },
       {
         "i": 81,
-        "word": "rulers",
-        "start": 31.82,
-        "end": 32.08
+        "word": "page",
+        "start": 32.26,
+        "end": 32.56
       },
       {
         "i": 82,
-        "word": "and",
-        "start": 32.08,
-        "end": 32.32
+        "word": "at",
+        "start": 32.56,
+        "end": 32.84
       },
       {
         "i": 83,
-        "word": "guides,",
-        "start": 32.32,
-        "end": 32.6
-      },
-      {
-        "i": 84,
-        "word": "and",
-        "start": 32.86,
-        "end": 33.0
-      },
-      {
-        "i": 85,
-        "word": "show",
-        "start": 33.0,
-        "end": 33.28
-      },
-      {
-        "i": 86,
-        "word": "the",
-        "start": 33.28,
-        "end": 33.42
-      },
-      {
-        "i": 87,
-        "word": "rulers.",
-        "start": 33.42,
-        "end": 33.78
+        "word": "55mm.",
+        "start": 32.84,
+        "end": 33.84
       }
     ]
   },
   {
     "id": 8,
-    "text": "Add a horizontal guide halfway down the page at 55 millimeters.",
-    "start": 34.5,
-    "end": 38.38,
+    "text": "The guide marks the fold.",
+    "start": 34.66,
+    "end": 36.0,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      88,
-      98
+      84,
+      88
     ],
     "words": [
       {
-        "i": 88,
-        "word": "Add",
-        "start": 34.5,
-        "end": 34.74
+        "i": 84,
+        "word": "The",
+        "start": 34.66,
+        "end": 34.88
       },
       {
-        "i": 89,
-        "word": "a",
-        "start": 34.74,
-        "end": 34.9
-      },
-      {
-        "i": 90,
-        "word": "horizontal",
-        "start": 34.9,
-        "end": 35.26
-      },
-      {
-        "i": 91,
+        "i": 85,
         "word": "guide",
-        "start": 35.26,
-        "end": 35.76
+        "start": 34.88,
+        "end": 35.16
       },
       {
-        "i": 92,
-        "word": "halfway",
-        "start": 35.76,
-        "end": 36.12
+        "i": 86,
+        "word": "marks",
+        "start": 35.16,
+        "end": 35.46
       },
       {
-        "i": 93,
-        "word": "down",
-        "start": 36.12,
-        "end": 36.42
-      },
-      {
-        "i": 94,
+        "i": 87,
         "word": "the",
-        "start": 36.42,
-        "end": 36.56
+        "start": 35.46,
+        "end": 35.7
       },
       {
-        "i": 95,
-        "word": "page",
-        "start": 36.56,
-        "end": 36.86
-      },
-      {
-        "i": 96,
-        "word": "at",
-        "start": 36.86,
-        "end": 37.14
-      },
-      {
-        "i": 97,
-        "word": "55",
-        "start": 37.14,
-        "end": 37.78
-      },
-      {
-        "i": 98,
-        "word": "millimeters.",
-        "start": 37.78,
-        "end": 38.38
+        "i": 88,
+        "word": "fold.",
+        "start": 35.7,
+        "end": 36.0
       }
     ]
   },
   {
     "id": 9,
-    "text": "The guide marks the fold.",
-    "start": 39.04,
-    "end": 40.32,
+    "text": "Use page one for the outside spread.",
+    "start": 36.68,
+    "end": 38.62,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      99,
-      103
+      89,
+      95
     ],
     "words": [
       {
-        "i": 99,
-        "word": "The",
-        "start": 39.04,
-        "end": 39.18
+        "i": 89,
+        "word": "Use",
+        "start": 36.68,
+        "end": 36.82
       },
       {
-        "i": 100,
-        "word": "guide",
-        "start": 39.18,
-        "end": 39.44
+        "i": 90,
+        "word": "page",
+        "start": 36.82,
+        "end": 37.02
       },
       {
-        "i": 101,
-        "word": "marks",
-        "start": 39.44,
-        "end": 39.78
+        "i": 91,
+        "word": "1",
+        "start": 37.02,
+        "end": 37.36
       },
       {
-        "i": 102,
+        "i": 92,
+        "word": "for",
+        "start": 37.36,
+        "end": 37.54
+      },
+      {
+        "i": 93,
         "word": "the",
-        "start": 39.78,
-        "end": 39.98
+        "start": 37.54,
+        "end": 37.68
       },
       {
-        "i": 103,
-        "word": "fold.",
-        "start": 39.98,
-        "end": 40.32
+        "i": 94,
+        "word": "outside",
+        "start": 37.68,
+        "end": 38.18
+      },
+      {
+        "i": 95,
+        "word": "spread.",
+        "start": 38.18,
+        "end": 38.62
       }
     ]
   },
   {
     "id": 10,
-    "text": "Use page one for the outside spread.",
-    "start": 40.92,
-    "end": 42.92,
+    "text": "In a top-fold layout, place the front cover on the lower half.",
+    "start": 39.46,
+    "end": 42.82,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      104,
-      110
+      96,
+      108
     ],
     "words": [
       {
+        "i": 96,
+        "word": "In",
+        "start": 39.46,
+        "end": 39.68
+      },
+      {
+        "i": 97,
+        "word": "a",
+        "start": 39.68,
+        "end": 39.8
+      },
+      {
+        "i": 98,
+        "word": "top",
+        "start": 39.8,
+        "end": 39.96
+      },
+      {
+        "i": 99,
+        "word": "fold",
+        "start": 39.96,
+        "end": 40.26
+      },
+      {
+        "i": 100,
+        "word": "layout,",
+        "start": 40.26,
+        "end": 40.6
+      },
+      {
+        "i": 101,
+        "word": "place",
+        "start": 41.0,
+        "end": 41.18
+      },
+      {
+        "i": 102,
+        "word": "the",
+        "start": 41.18,
+        "end": 41.38
+      },
+      {
+        "i": 103,
+        "word": "front",
+        "start": 41.38,
+        "end": 41.62
+      },
+      {
         "i": 104,
-        "word": "Use",
-        "start": 40.92,
-        "end": 41.12
-      },
-      {
-        "i": 105,
-        "word": "page",
-        "start": 41.12,
-        "end": 41.32
-      },
-      {
-        "i": 106,
-        "word": "one",
-        "start": 41.32,
-        "end": 41.64
-      },
-      {
-        "i": 107,
-        "word": "for",
-        "start": 41.64,
+        "word": "cover",
+        "start": 41.62,
         "end": 41.84
       },
       {
-        "i": 108,
-        "word": "the",
+        "i": 105,
+        "word": "on",
         "start": 41.84,
-        "end": 41.96
+        "end": 42.14
       },
       {
-        "i": 109,
-        "word": "outside",
-        "start": 41.96,
-        "end": 42.48
+        "i": 106,
+        "word": "the",
+        "start": 42.14,
+        "end": 42.26
       },
       {
-        "i": 110,
-        "word": "spread.",
-        "start": 42.48,
-        "end": 42.92
+        "i": 107,
+        "word": "lower",
+        "start": 42.26,
+        "end": 42.44
+      },
+      {
+        "i": 108,
+        "word": "half.",
+        "start": 42.44,
+        "end": 42.82
       }
     ]
   },
   {
     "id": 11,
-    "text": "In a top fold layout, place the front cover on the lower half.",
-    "start": 43.76,
-    "end": 47.12,
+    "text": "The upper half becomes the back cover and usually needs its artwork rotated one hundred and eighty degrees relative to the front.",
+    "start": 43.34,
+    "end": 49.5,
     "notes": [],
-    "match": 1.0,
+    "match": 0.818,
     "status": "ok",
     "word_range": [
-      111,
-      123
+      109,
+      127
     ],
     "words": [
       {
+        "i": 109,
+        "word": "The",
+        "start": 43.34,
+        "end": 43.54
+      },
+      {
+        "i": 110,
+        "word": "upper",
+        "start": 43.54,
+        "end": 43.66
+      },
+      {
         "i": 111,
-        "word": "In",
-        "start": 43.76,
-        "end": 43.96
+        "word": "half",
+        "start": 43.66,
+        "end": 43.92
       },
       {
         "i": 112,
-        "word": "a",
-        "start": 43.96,
-        "end": 44.08
+        "word": "becomes",
+        "start": 43.92,
+        "end": 44.18
       },
       {
         "i": 113,
-        "word": "top",
-        "start": 44.08,
-        "end": 44.26
+        "word": "the",
+        "start": 44.18,
+        "end": 44.38
       },
       {
         "i": 114,
-        "word": "fold",
-        "start": 44.26,
-        "end": 44.54
+        "word": "back",
+        "start": 44.38,
+        "end": 44.58
       },
       {
         "i": 115,
-        "word": "layout,",
-        "start": 44.54,
-        "end": 44.88
+        "word": "cover",
+        "start": 44.58,
+        "end": 44.84
       },
       {
         "i": 116,
-        "word": "place",
-        "start": 45.28,
-        "end": 45.46
+        "word": "and",
+        "start": 44.84,
+        "end": 45.28
       },
       {
         "i": 117,
-        "word": "the",
-        "start": 45.46,
-        "end": 45.68
+        "word": "usually",
+        "start": 45.28,
+        "end": 45.6
       },
       {
         "i": 118,
-        "word": "front",
-        "start": 45.68,
-        "end": 45.92
+        "word": "needs",
+        "start": 45.6,
+        "end": 45.84
       },
       {
         "i": 119,
-        "word": "cover",
-        "start": 45.92,
-        "end": 46.14
+        "word": "its",
+        "start": 45.84,
+        "end": 46.04
       },
       {
         "i": 120,
-        "word": "on",
-        "start": 46.14,
-        "end": 46.44
+        "word": "artwork",
+        "start": 46.04,
+        "end": 46.34
       },
       {
         "i": 121,
-        "word": "the",
-        "start": 46.44,
-        "end": 46.56
+        "word": "rotated",
+        "start": 46.34,
+        "end": 46.8
       },
       {
         "i": 122,
-        "word": "lower",
-        "start": 46.56,
-        "end": 46.74
+        "word": "180",
+        "start": 46.8,
+        "end": 47.66
       },
       {
         "i": 123,
-        "word": "half.",
-        "start": 46.74,
-        "end": 47.12
+        "word": "degrees",
+        "start": 47.66,
+        "end": 48.28
+      },
+      {
+        "i": 124,
+        "word": "relative",
+        "start": 48.28,
+        "end": 48.82
+      },
+      {
+        "i": 125,
+        "word": "to",
+        "start": 48.82,
+        "end": 49.18
+      },
+      {
+        "i": 126,
+        "word": "the",
+        "start": 49.18,
+        "end": 49.28
+      },
+      {
+        "i": 127,
+        "word": "front.",
+        "start": 49.28,
+        "end": 49.5
       }
     ]
   },
   {
     "id": 12,
-    "text": "The upper half becomes the back cover and usually needs its artwork rotated 180 degrees relative to the front.",
-    "start": 47.62,
-    "end": 53.8,
+    "text": "Add page two for the inside spread.",
+    "start": 50.22,
+    "end": 52.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      124,
-      142
+      128,
+      134
     ],
     "words": [
       {
-        "i": 124,
-        "word": "The",
-        "start": 47.62,
-        "end": 47.82
-      },
-      {
-        "i": 125,
-        "word": "upper",
-        "start": 47.82,
-        "end": 47.98
-      },
-      {
-        "i": 126,
-        "word": "half",
-        "start": 47.98,
-        "end": 48.2
-      },
-      {
-        "i": 127,
-        "word": "becomes",
-        "start": 48.2,
-        "end": 48.48
-      },
-      {
         "i": 128,
-        "word": "the",
-        "start": 48.48,
-        "end": 48.66
+        "word": "Add",
+        "start": 50.22,
+        "end": 50.42
       },
       {
         "i": 129,
-        "word": "back",
-        "start": 48.66,
-        "end": 48.86
+        "word": "page",
+        "start": 50.42,
+        "end": 50.66
       },
       {
         "i": 130,
-        "word": "cover",
-        "start": 48.86,
-        "end": 49.16
+        "word": "2",
+        "start": 50.66,
+        "end": 51.0
       },
       {
         "i": 131,
-        "word": "and",
-        "start": 49.16,
-        "end": 49.58
+        "word": "for",
+        "start": 51.0,
+        "end": 51.2
       },
       {
         "i": 132,
-        "word": "usually",
-        "start": 49.58,
-        "end": 49.86
+        "word": "the",
+        "start": 51.2,
+        "end": 51.34
       },
       {
         "i": 133,
-        "word": "needs",
-        "start": 49.86,
-        "end": 50.14
+        "word": "inside",
+        "start": 51.34,
+        "end": 51.74
       },
       {
         "i": 134,
-        "word": "its",
-        "start": 50.14,
-        "end": 50.34
-      },
-      {
-        "i": 135,
-        "word": "artwork",
-        "start": 50.34,
-        "end": 50.64
-      },
-      {
-        "i": 136,
-        "word": "rotated",
-        "start": 50.64,
-        "end": 51.1
-      },
-      {
-        "i": 137,
-        "word": "180",
-        "start": 51.1,
-        "end": 51.94
-      },
-      {
-        "i": 138,
-        "word": "degrees",
-        "start": 51.94,
-        "end": 52.48
-      },
-      {
-        "i": 139,
-        "word": "relative",
-        "start": 52.48,
-        "end": 53.12
-      },
-      {
-        "i": 140,
-        "word": "to",
-        "start": 53.12,
-        "end": 53.46
-      },
-      {
-        "i": 141,
-        "word": "the",
-        "start": 53.46,
-        "end": 53.58
-      },
-      {
-        "i": 142,
-        "word": "front.",
-        "start": 53.58,
-        "end": 53.8
+        "word": "spread.",
+        "start": 51.74,
+        "end": 52.14
       }
     ]
   },
   {
     "id": 13,
-    "text": "Add page two for the inside spread.",
-    "start": 54.5,
-    "end": 56.42,
+    "text": "Place the inside information in the two panels and keep text away from the fold and outer edges.",
+    "start": 52.14,
+    "end": 57.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      143,
-      149
+      135,
+      152
     ],
     "words": [
       {
-        "i": 143,
-        "word": "Add",
-        "start": 54.5,
-        "end": 54.72
+        "i": 135,
+        "word": "Place",
+        "start": 52.14,
+        "end": 53.0
       },
       {
-        "i": 144,
-        "word": "page",
-        "start": 54.72,
-        "end": 54.96
+        "i": 136,
+        "word": "the",
+        "start": 53.0,
+        "end": 53.2
       },
       {
-        "i": 145,
+        "i": 137,
+        "word": "inside",
+        "start": 53.2,
+        "end": 53.56
+      },
+      {
+        "i": 138,
+        "word": "information",
+        "start": 53.56,
+        "end": 53.94
+      },
+      {
+        "i": 139,
+        "word": "in",
+        "start": 53.94,
+        "end": 54.34
+      },
+      {
+        "i": 140,
+        "word": "the",
+        "start": 54.34,
+        "end": 54.46
+      },
+      {
+        "i": 141,
         "word": "two",
-        "start": 54.96,
+        "start": 54.46,
+        "end": 54.68
+      },
+      {
+        "i": 142,
+        "word": "panels",
+        "start": 54.68,
+        "end": 55.0
+      },
+      {
+        "i": 143,
+        "word": "and",
+        "start": 55.0,
         "end": 55.3
       },
       {
-        "i": 146,
-        "word": "for",
+        "i": 144,
+        "word": "keep",
         "start": 55.3,
         "end": 55.5
       },
       {
-        "i": 147,
-        "word": "the",
+        "i": 145,
+        "word": "text",
         "start": 55.5,
-        "end": 55.62
+        "end": 55.84
+      },
+      {
+        "i": 146,
+        "word": "away",
+        "start": 55.84,
+        "end": 56.08
+      },
+      {
+        "i": 147,
+        "word": "from",
+        "start": 56.08,
+        "end": 56.3
       },
       {
         "i": 148,
-        "word": "inside",
-        "start": 55.62,
-        "end": 56.02
+        "word": "the",
+        "start": 56.3,
+        "end": 56.44
       },
       {
         "i": 149,
-        "word": "spread.",
-        "start": 56.02,
-        "end": 56.42
+        "word": "fold",
+        "start": 56.44,
+        "end": 56.72
+      },
+      {
+        "i": 150,
+        "word": "and",
+        "start": 56.72,
+        "end": 57.0
+      },
+      {
+        "i": 151,
+        "word": "outer",
+        "start": 57.0,
+        "end": 57.24
+      },
+      {
+        "i": 152,
+        "word": "edges.",
+        "start": 57.24,
+        "end": 57.64
       }
     ]
   },
   {
     "id": 14,
-    "text": "Place the inside information in the two panels and keep text away from the fold and outer edges.",
-    "start": 57.02,
-    "end": 61.92,
+    "text": "Here’s the essential check: make a paper mockup before ordering.",
+    "start": 58.5,
+    "end": 61.82,
     "notes": [],
-    "match": 1.0,
+    "match": 0.909,
     "status": "ok",
     "word_range": [
-      150,
-      167
+      153,
+      163
     ],
     "words": [
       {
-        "i": 150,
-        "word": "Place",
-        "start": 57.02,
-        "end": 57.3
-      },
-      {
-        "i": 151,
-        "word": "the",
-        "start": 57.3,
-        "end": 57.48
-      },
-      {
-        "i": 152,
-        "word": "inside",
-        "start": 57.48,
-        "end": 57.86
-      },
-      {
         "i": 153,
-        "word": "information",
-        "start": 57.86,
-        "end": 58.26
+        "word": "Here's",
+        "start": 58.5,
+        "end": 58.66
       },
       {
         "i": 154,
-        "word": "in",
-        "start": 58.26,
-        "end": 58.64
+        "word": "the",
+        "start": 58.66,
+        "end": 58.76
       },
       {
         "i": 155,
-        "word": "the",
-        "start": 58.64,
-        "end": 58.74
+        "word": "essential",
+        "start": 58.76,
+        "end": 59.04
       },
       {
         "i": 156,
-        "word": "two",
-        "start": 58.74,
-        "end": 58.96
+        "word": "check.",
+        "start": 59.04,
+        "end": 59.46
       },
       {
         "i": 157,
-        "word": "panels",
-        "start": 58.96,
-        "end": 59.3
+        "word": "Make",
+        "start": 60.22,
+        "end": 60.26
       },
       {
         "i": 158,
-        "word": "and",
-        "start": 59.3,
-        "end": 59.6
+        "word": "a",
+        "start": 60.26,
+        "end": 60.42
       },
       {
         "i": 159,
-        "word": "keep",
-        "start": 59.6,
-        "end": 59.8
+        "word": "paper",
+        "start": 60.42,
+        "end": 60.64
       },
       {
         "i": 160,
-        "word": "text",
-        "start": 59.8,
-        "end": 60.12
+        "word": "mock",
+        "start": 60.64,
+        "end": 60.9
       },
       {
         "i": 161,
-        "word": "away",
-        "start": 60.12,
-        "end": 60.38
+        "word": "-up",
+        "start": 60.9,
+        "end": 61.06
       },
       {
         "i": 162,
-        "word": "from",
-        "start": 60.38,
-        "end": 60.58
+        "word": "before",
+        "start": 61.06,
+        "end": 61.4
       },
       {
         "i": 163,
-        "word": "the",
-        "start": 60.58,
-        "end": 60.72
-      },
-      {
-        "i": 164,
-        "word": "fold",
-        "start": 60.72,
-        "end": 61.02
-      },
-      {
-        "i": 165,
-        "word": "and",
-        "start": 61.02,
-        "end": 61.28
-      },
-      {
-        "i": 166,
-        "word": "outer",
-        "start": 61.28,
-        "end": 61.52
-      },
-      {
-        "i": 167,
-        "word": "edges.",
-        "start": 61.52,
-        "end": 61.92
+        "word": "ordering.",
+        "start": 61.4,
+        "end": 61.82
       }
     ]
   },
   {
     "id": 15,
-    "text": "Here's the essential check.",
-    "start": 62.8,
-    "end": 63.76,
+    "text": "Mark each panel, print both spreads, fold the sheet, and confirm which way the covers and inside text face.",
+    "start": 62.56,
+    "end": 68.96,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      168,
-      171
+      164,
+      182
     ],
     "words": [
       {
+        "i": 164,
+        "word": "Mark",
+        "start": 62.56,
+        "end": 62.66
+      },
+      {
+        "i": 165,
+        "word": "each",
+        "start": 62.66,
+        "end": 62.86
+      },
+      {
+        "i": 166,
+        "word": "panel,",
+        "start": 62.86,
+        "end": 63.2
+      },
+      {
+        "i": 167,
+        "word": "print",
+        "start": 63.68,
+        "end": 63.82
+      },
+      {
         "i": 168,
-        "word": "Here's",
-        "start": 62.8,
-        "end": 62.96
+        "word": "both",
+        "start": 63.82,
+        "end": 64.14
       },
       {
         "i": 169,
-        "word": "the",
-        "start": 62.96,
-        "end": 63.06
+        "word": "spreads,",
+        "start": 64.14,
+        "end": 64.56
       },
       {
         "i": 170,
-        "word": "essential",
-        "start": 63.06,
-        "end": 63.34
+        "word": "fold",
+        "start": 65.02,
+        "end": 65.3
       },
       {
         "i": 171,
-        "word": "check.",
-        "start": 63.34,
-        "end": 63.76
+        "word": "the",
+        "start": 65.3,
+        "end": 65.46
+      },
+      {
+        "i": 172,
+        "word": "sheet,",
+        "start": 65.46,
+        "end": 65.7
+      },
+      {
+        "i": 173,
+        "word": "and",
+        "start": 66.12,
+        "end": 66.24
+      },
+      {
+        "i": 174,
+        "word": "confirm",
+        "start": 66.24,
+        "end": 66.64
+      },
+      {
+        "i": 175,
+        "word": "which",
+        "start": 66.64,
+        "end": 66.88
+      },
+      {
+        "i": 176,
+        "word": "way",
+        "start": 66.88,
+        "end": 67.08
+      },
+      {
+        "i": 177,
+        "word": "the",
+        "start": 67.08,
+        "end": 67.24
+      },
+      {
+        "i": 178,
+        "word": "covers",
+        "start": 67.24,
+        "end": 67.48
+      },
+      {
+        "i": 179,
+        "word": "and",
+        "start": 67.48,
+        "end": 67.8
+      },
+      {
+        "i": 180,
+        "word": "inside",
+        "start": 67.8,
+        "end": 68.28
+      },
+      {
+        "i": 181,
+        "word": "text",
+        "start": 68.28,
+        "end": 68.64
+      },
+      {
+        "i": 182,
+        "word": "face.",
+        "start": 68.64,
+        "end": 68.96
       }
     ]
   },
   {
     "id": 16,
-    "text": "Make a paper mock-up before ordering.",
-    "start": 64.52,
-    "end": 66.12,
+    "text": "Duplex settings and printer templates can change the required orientation, so use your print provider’s panel layout for the final file.",
+    "start": 69.8,
+    "end": 76.88,
     "notes": [],
-    "match": 1.0,
+    "match": 0.955,
     "status": "ok",
     "word_range": [
-      172,
-      178
+      183,
+      203
     ],
     "words": [
       {
-        "i": 172,
-        "word": "Make",
-        "start": 64.52,
-        "end": 64.56
+        "i": 183,
+        "word": "Duplex",
+        "start": 69.8,
+        "end": 70.16
       },
       {
-        "i": 173,
-        "word": "a",
-        "start": 64.56,
-        "end": 64.72
+        "i": 184,
+        "word": "settings",
+        "start": 70.16,
+        "end": 70.46
       },
       {
-        "i": 174,
-        "word": "paper",
-        "start": 64.72,
-        "end": 64.94
+        "i": 185,
+        "word": "and",
+        "start": 70.46,
+        "end": 70.72
       },
       {
-        "i": 175,
-        "word": "mock",
-        "start": 64.94,
-        "end": 65.18
+        "i": 186,
+        "word": "printer",
+        "start": 70.72,
+        "end": 70.96
       },
       {
-        "i": 176,
-        "word": "-up",
-        "start": 65.18,
-        "end": 65.36
+        "i": 187,
+        "word": "templates",
+        "start": 70.96,
+        "end": 71.4
       },
       {
-        "i": 177,
-        "word": "before",
-        "start": 65.36,
-        "end": 65.68
+        "i": 188,
+        "word": "can",
+        "start": 71.4,
+        "end": 71.7
       },
       {
-        "i": 178,
-        "word": "ordering.",
-        "start": 65.68,
-        "end": 66.12
+        "i": 189,
+        "word": "change",
+        "start": 71.7,
+        "end": 72.06
+      },
+      {
+        "i": 190,
+        "word": "the",
+        "start": 72.06,
+        "end": 72.22
+      },
+      {
+        "i": 191,
+        "word": "required",
+        "start": 72.22,
+        "end": 72.6
+      },
+      {
+        "i": 192,
+        "word": "orientation,",
+        "start": 72.6,
+        "end": 73.3
+      },
+      {
+        "i": 193,
+        "word": "so",
+        "start": 73.38,
+        "end": 73.98
+      },
+      {
+        "i": 194,
+        "word": "use",
+        "start": 73.98,
+        "end": 74.22
+      },
+      {
+        "i": 195,
+        "word": "your",
+        "start": 74.22,
+        "end": 74.42
+      },
+      {
+        "i": 196,
+        "word": "print",
+        "start": 74.42,
+        "end": 74.62
+      },
+      {
+        "i": 197,
+        "word": "provider's",
+        "start": 74.62,
+        "end": 75.1
+      },
+      {
+        "i": 198,
+        "word": "panel",
+        "start": 75.1,
+        "end": 75.32
+      },
+      {
+        "i": 199,
+        "word": "layout",
+        "start": 75.32,
+        "end": 75.66
+      },
+      {
+        "i": 200,
+        "word": "for",
+        "start": 75.66,
+        "end": 76.1
+      },
+      {
+        "i": 201,
+        "word": "the",
+        "start": 76.1,
+        "end": 76.22
+      },
+      {
+        "i": 202,
+        "word": "final",
+        "start": 76.22,
+        "end": 76.5
+      },
+      {
+        "i": 203,
+        "word": "file.",
+        "start": 76.5,
+        "end": 76.88
       }
     ]
   },
   {
     "id": 17,
-    "text": "Mark each panel, print both spreads, fold the sheet, and confirm which way the covers and inside text face.",
-    "start": 66.86,
-    "end": 73.24,
+    "text": "Remove any actual line you drew to represent the fold.",
+    "start": 77.54,
+    "end": 80.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      179,
-      197
+      204,
+      213
     ],
     "words": [
       {
-        "i": 179,
-        "word": "Mark",
-        "start": 66.86,
-        "end": 66.96
+        "i": 204,
+        "word": "Remove",
+        "start": 77.54,
+        "end": 77.8
       },
       {
-        "i": 180,
-        "word": "each",
-        "start": 66.96,
-        "end": 67.16
+        "i": 205,
+        "word": "any",
+        "start": 77.8,
+        "end": 78.12
       },
       {
-        "i": 181,
-        "word": "panel,",
-        "start": 67.16,
-        "end": 67.5
+        "i": 206,
+        "word": "actual",
+        "start": 78.12,
+        "end": 78.56
       },
       {
-        "i": 182,
-        "word": "print",
-        "start": 67.96,
-        "end": 68.12
+        "i": 207,
+        "word": "line",
+        "start": 78.56,
+        "end": 78.82
       },
       {
-        "i": 183,
-        "word": "both",
-        "start": 68.12,
-        "end": 68.42
+        "i": 208,
+        "word": "you",
+        "start": 78.82,
+        "end": 79.02
       },
       {
-        "i": 184,
-        "word": "spreads,",
-        "start": 68.42,
-        "end": 68.88
+        "i": 209,
+        "word": "drew",
+        "start": 79.02,
+        "end": 79.24
       },
       {
-        "i": 185,
-        "word": "fold",
-        "start": 69.32,
-        "end": 69.58
+        "i": 210,
+        "word": "to",
+        "start": 79.24,
+        "end": 79.44
       },
       {
-        "i": 186,
+        "i": 211,
+        "word": "represent",
+        "start": 79.44,
+        "end": 79.74
+      },
+      {
+        "i": 212,
         "word": "the",
-        "start": 69.58,
-        "end": 69.76
+        "start": 79.74,
+        "end": 79.96
       },
       {
-        "i": 187,
-        "word": "sheet,",
-        "start": 69.76,
-        "end": 69.98
-      },
-      {
-        "i": 188,
-        "word": "and",
-        "start": 70.4,
-        "end": 70.54
-      },
-      {
-        "i": 189,
-        "word": "confirm",
-        "start": 70.54,
-        "end": 70.94
-      },
-      {
-        "i": 190,
-        "word": "which",
-        "start": 70.94,
-        "end": 71.16
-      },
-      {
-        "i": 191,
-        "word": "way",
-        "start": 71.16,
-        "end": 71.36
-      },
-      {
-        "i": 192,
-        "word": "the",
-        "start": 71.36,
-        "end": 71.54
-      },
-      {
-        "i": 193,
-        "word": "covers",
-        "start": 71.54,
-        "end": 71.78
-      },
-      {
-        "i": 194,
-        "word": "and",
-        "start": 71.78,
-        "end": 72.1
-      },
-      {
-        "i": 195,
-        "word": "inside",
-        "start": 72.1,
-        "end": 72.58
-      },
-      {
-        "i": 196,
-        "word": "text",
-        "start": 72.58,
-        "end": 72.94
-      },
-      {
-        "i": 197,
-        "word": "face.",
-        "start": 72.94,
-        "end": 73.24
+        "i": 213,
+        "word": "fold.",
+        "start": 79.96,
+        "end": 80.3
       }
     ]
   },
   {
     "id": 18,
-    "text": "Duplex settings and printer templates can change the required orientation.",
-    "start": 74.08,
-    "end": 77.58,
+    "text": "A ruler guide will not print, but a decorative line will.",
+    "start": 80.3,
+    "end": 83.48,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      198,
-      207
+      214,
+      224
     ],
     "words": [
       {
-        "i": 198,
-        "word": "Duplex",
-        "start": 74.08,
-        "end": 74.42
+        "i": 214,
+        "word": "A",
+        "start": 80.3,
+        "end": 81.08
       },
       {
-        "i": 199,
-        "word": "settings",
-        "start": 74.42,
-        "end": 74.74
+        "i": 215,
+        "word": "ruler",
+        "start": 81.08,
+        "end": 81.26
       },
       {
-        "i": 200,
-        "word": "and",
-        "start": 74.74,
-        "end": 75.0
+        "i": 216,
+        "word": "guide",
+        "start": 81.26,
+        "end": 81.52
       },
       {
-        "i": 201,
-        "word": "printer",
-        "start": 75.0,
-        "end": 75.26
+        "i": 217,
+        "word": "will",
+        "start": 81.52,
+        "end": 81.7
       },
       {
-        "i": 202,
-        "word": "templates",
-        "start": 75.26,
-        "end": 75.68
+        "i": 218,
+        "word": "not",
+        "start": 81.7,
+        "end": 81.88
       },
       {
-        "i": 203,
-        "word": "can",
-        "start": 75.68,
-        "end": 76.0
+        "i": 219,
+        "word": "print,",
+        "start": 81.88,
+        "end": 82.14
       },
       {
-        "i": 204,
-        "word": "change",
-        "start": 76.0,
-        "end": 76.34
+        "i": 220,
+        "word": "but",
+        "start": 82.32,
+        "end": 82.4
       },
       {
-        "i": 205,
-        "word": "the",
-        "start": 76.34,
-        "end": 76.52
+        "i": 221,
+        "word": "a",
+        "start": 82.4,
+        "end": 82.5
       },
       {
-        "i": 206,
-        "word": "required",
-        "start": 76.52,
-        "end": 76.88
+        "i": 222,
+        "word": "decorative",
+        "start": 82.5,
+        "end": 82.82
       },
       {
-        "i": 207,
-        "word": "orientation.",
-        "start": 76.88,
-        "end": 77.58
+        "i": 223,
+        "word": "line",
+        "start": 82.82,
+        "end": 83.2
+      },
+      {
+        "i": 224,
+        "word": "will.",
+        "start": 83.2,
+        "end": 83.48
       }
     ]
   },
   {
     "id": 19,
-    "text": "So use your print provider's panel layout for the final file.",
-    "start": 78.06,
-    "end": 81.18,
+    "text": "Download a PDF with the Print preset and the bleed settings requested by your printer.",
+    "start": 84.3,
+    "end": 88.38,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      208,
-      218
+      225,
+      239
     ],
     "words": [
       {
-        "i": 208,
-        "word": "So",
-        "start": 78.06,
-        "end": 78.28
+        "i": 225,
+        "word": "Download",
+        "start": 84.3,
+        "end": 84.56
       },
       {
-        "i": 209,
-        "word": "use",
-        "start": 78.28,
-        "end": 78.5
+        "i": 226,
+        "word": "a",
+        "start": 84.56,
+        "end": 84.76
       },
       {
-        "i": 210,
-        "word": "your",
-        "start": 78.5,
-        "end": 78.7
+        "i": 227,
+        "word": "PDF",
+        "start": 84.76,
+        "end": 84.98
       },
       {
-        "i": 211,
-        "word": "print",
-        "start": 78.7,
-        "end": 78.92
+        "i": 228,
+        "word": "with",
+        "start": 84.98,
+        "end": 85.32
       },
       {
-        "i": 212,
-        "word": "provider's",
-        "start": 78.92,
-        "end": 79.38
-      },
-      {
-        "i": 213,
-        "word": "panel",
-        "start": 79.38,
-        "end": 79.64
-      },
-      {
-        "i": 214,
-        "word": "layout",
-        "start": 79.64,
-        "end": 79.94
-      },
-      {
-        "i": 215,
-        "word": "for",
-        "start": 79.94,
-        "end": 80.4
-      },
-      {
-        "i": 216,
+        "i": 229,
         "word": "the",
-        "start": 80.4,
-        "end": 80.52
+        "start": 85.32,
+        "end": 85.46
       },
       {
-        "i": 217,
-        "word": "final",
-        "start": 80.52,
-        "end": 80.78
+        "i": 230,
+        "word": "print",
+        "start": 85.46,
+        "end": 85.68
       },
       {
-        "i": 218,
-        "word": "file.",
-        "start": 80.78,
-        "end": 81.18
+        "i": 231,
+        "word": "preset",
+        "start": 85.68,
+        "end": 86.08
+      },
+      {
+        "i": 232,
+        "word": "and",
+        "start": 86.08,
+        "end": 86.44
+      },
+      {
+        "i": 233,
+        "word": "the",
+        "start": 86.44,
+        "end": 86.56
+      },
+      {
+        "i": 234,
+        "word": "bleed",
+        "start": 86.56,
+        "end": 86.76
+      },
+      {
+        "i": 235,
+        "word": "settings",
+        "start": 86.76,
+        "end": 87.18
+      },
+      {
+        "i": 236,
+        "word": "requested",
+        "start": 87.18,
+        "end": 87.56
+      },
+      {
+        "i": 237,
+        "word": "by",
+        "start": 87.56,
+        "end": 87.84
+      },
+      {
+        "i": 238,
+        "word": "your",
+        "start": 87.84,
+        "end": 88.0
+      },
+      {
+        "i": 239,
+        "word": "printer.",
+        "start": 88.0,
+        "end": 88.38
       }
     ]
   },
   {
     "id": 20,
-    "text": "Remove any actual line you drew to represent the fold.",
-    "start": 81.84,
-    "end": 84.6,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      219,
-      228
-    ],
-    "words": [
-      {
-        "i": 219,
-        "word": "Remove",
-        "start": 81.84,
-        "end": 82.08
-      },
-      {
-        "i": 220,
-        "word": "any",
-        "start": 82.08,
-        "end": 82.4
-      },
-      {
-        "i": 221,
-        "word": "actual",
-        "start": 82.4,
-        "end": 82.84
-      },
-      {
-        "i": 222,
-        "word": "line",
-        "start": 82.84,
-        "end": 83.12
-      },
-      {
-        "i": 223,
-        "word": "you",
-        "start": 83.12,
-        "end": 83.32
-      },
-      {
-        "i": 224,
-        "word": "drew",
-        "start": 83.32,
-        "end": 83.52
-      },
-      {
-        "i": 225,
-        "word": "to",
-        "start": 83.52,
-        "end": 83.72
-      },
-      {
-        "i": 226,
-        "word": "represent",
-        "start": 83.72,
-        "end": 84.0
-      },
-      {
-        "i": 227,
-        "word": "the",
-        "start": 84.0,
-        "end": 84.24
-      },
-      {
-        "i": 228,
-        "word": "fold.",
-        "start": 84.24,
-        "end": 84.6
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "text": "A ruler guide will not print, but a decorative line will.",
-    "start": 85.08,
-    "end": 87.78,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      229,
-      239
-    ],
-    "words": [
-      {
-        "i": 229,
-        "word": "A",
-        "start": 85.08,
-        "end": 85.36
-      },
-      {
-        "i": 230,
-        "word": "ruler",
-        "start": 85.36,
-        "end": 85.54
-      },
-      {
-        "i": 231,
-        "word": "guide",
-        "start": 85.54,
-        "end": 85.8
-      },
-      {
-        "i": 232,
-        "word": "will",
-        "start": 85.8,
-        "end": 86.0
-      },
-      {
-        "i": 233,
-        "word": "not",
-        "start": 86.0,
-        "end": 86.16
-      },
-      {
-        "i": 234,
-        "word": "print,",
-        "start": 86.16,
-        "end": 86.44
-      },
-      {
-        "i": 235,
-        "word": "but",
-        "start": 86.62,
-        "end": 86.68
-      },
-      {
-        "i": 236,
-        "word": "a",
-        "start": 86.68,
-        "end": 86.8
-      },
-      {
-        "i": 237,
-        "word": "decorative",
-        "start": 86.8,
-        "end": 87.12
-      },
-      {
-        "i": 238,
-        "word": "line",
-        "start": 87.12,
-        "end": 87.48
-      },
-      {
-        "i": 239,
-        "word": "will.",
-        "start": 87.48,
-        "end": 87.78
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "text": "Download a PDF with the print preset and the bleed settings requested by your printer.",
-    "start": 88.6,
-    "end": 92.66,
+    "text": "Proof a folded sample before producing the full batch.",
+    "start": 88.88,
+    "end": 91.5,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       240,
-      254
+      248
     ],
     "words": [
       {
         "i": 240,
-        "word": "Download",
-        "start": 88.6,
-        "end": 88.82
+        "word": "Proof",
+        "start": 88.88,
+        "end": 89.16
       },
       {
         "i": 241,
         "word": "a",
-        "start": 88.82,
-        "end": 89.04
+        "start": 89.16,
+        "end": 89.34
       },
       {
         "i": 242,
-        "word": "PDF",
-        "start": 89.04,
-        "end": 89.26
-      },
-      {
-        "i": 243,
-        "word": "with",
-        "start": 89.26,
+        "word": "folded",
+        "start": 89.34,
         "end": 89.62
       },
       {
-        "i": 244,
-        "word": "the",
+        "i": 243,
+        "word": "sample",
         "start": 89.62,
-        "end": 89.76
+        "end": 90.04
+      },
+      {
+        "i": 244,
+        "word": "before",
+        "start": 90.04,
+        "end": 90.38
       },
       {
         "i": 245,
-        "word": "print",
-        "start": 89.76,
-        "end": 89.98
+        "word": "producing",
+        "start": 90.38,
+        "end": 90.78
       },
       {
         "i": 246,
-        "word": "preset",
-        "start": 89.98,
-        "end": 90.36
+        "word": "the",
+        "start": 90.78,
+        "end": 91.04
       },
       {
         "i": 247,
-        "word": "and",
-        "start": 90.36,
-        "end": 90.72
+        "word": "full",
+        "start": 91.04,
+        "end": 91.26
       },
       {
         "i": 248,
-        "word": "the",
-        "start": 90.72,
-        "end": 90.84
-      },
-      {
-        "i": 249,
-        "word": "bleed",
-        "start": 90.84,
-        "end": 91.06
-      },
-      {
-        "i": 250,
-        "word": "settings",
-        "start": 91.06,
-        "end": 91.46
-      },
-      {
-        "i": 251,
-        "word": "requested",
-        "start": 91.46,
-        "end": 91.84
-      },
-      {
-        "i": 252,
-        "word": "by",
-        "start": 91.84,
-        "end": 92.14
-      },
-      {
-        "i": 253,
-        "word": "your",
-        "start": 92.14,
-        "end": 92.3
-      },
-      {
-        "i": 254,
-        "word": "printer.",
-        "start": 92.3,
-        "end": 92.66
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "text": "Proof a folded sample before producing the full batch.",
-    "start": 93.16,
-    "end": 95.8,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      255,
-      263
-    ],
-    "words": [
-      {
-        "i": 255,
-        "word": "Proof",
-        "start": 93.16,
-        "end": 93.46
-      },
-      {
-        "i": 256,
-        "word": "a",
-        "start": 93.46,
-        "end": 93.62
-      },
-      {
-        "i": 257,
-        "word": "folded",
-        "start": 93.62,
-        "end": 93.92
-      },
-      {
-        "i": 258,
-        "word": "sample",
-        "start": 93.92,
-        "end": 94.36
-      },
-      {
-        "i": 259,
-        "word": "before",
-        "start": 94.36,
-        "end": 94.68
-      },
-      {
-        "i": 260,
-        "word": "producing",
-        "start": 94.68,
-        "end": 95.08
-      },
-      {
-        "i": 261,
-        "word": "the",
-        "start": 95.08,
-        "end": 95.34
-      },
-      {
-        "i": 262,
-        "word": "full",
-        "start": 95.34,
-        "end": 95.54
-      },
-      {
-        "i": 263,
         "word": "batch.",
-        "start": 95.54,
-        "end": 95.8
+        "start": 91.26,
+        "end": 91.5
       }
     ]
   }
