@@ -1,1 +1,0 @@
-Hand plan: one group per narration line starting on its lines.json start, 0.86-1.31x, no holds, no zooms/ripples. Open: L1/L18-L20 borrow the phone-preview footage (208-222 s); L7-L8, L11-L17 are matched by topic (text-box resize, group selection, image replacement, buttons) because the take has no separate steps for them.

@@ -1,1 +1,0 @@
-No actions.json: no clicks log and the take has recorder zoom baked in, so a hand plan (work/hand_plan.py) from freezedetect (n=0.002, d=0.8) windows and 9 contact sheets was used. check.py --actions therefore has nothing to check (expected).

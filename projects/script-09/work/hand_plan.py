@@ -1,46 +1,48 @@
-"""script-09 (232 s Canva mobile-layout take, 95.666 s voiceover, 1920x1080).
-One group per narration line, starting on that line's start (lines.json). Footage matched by step
-(see output/report.md); static source spans from freezedetect are avoided (<2.5 s output)."""
+"""script-09 (244 s Canva bulk background remover take, 101.611 s voiceover, 1920x1080).
+One group per narration line (or pair), starting on the line's start (lines.json). Pieces come from
+freezedetect (n=0.003, d=0.8) moving windows; static source spans only as fixed-length pieces <= 2x."""
 import json
 P = 'projects/script-09/work/'
-D = 95.666
-L = [0.0, 7.86, 10.46, 15.46, 19.98, 27.72, 32.16, 35.76, 41.02, 47.1, 50.0, 53.38, 59.0, 63.8, 68.24, 72.44, 75.18, 77.9, 85.62, 91.54, D]
-# group per line: list of (src_a, src_b) pieces, spread over the line's slot proportionally
+D = 101.611
+# group start times (out) then end
+S = [0.0, 5.48, 11.38, 14.54, 19.78, 27.74, 32.64, 35.02, 41.34, 45.78, 49.1, 56.32, 65.7, 69.9, 74.58, 76.38, 82.7, 89.1, 95.7, D]
+# piece = (src_a, src_b) or (src_a, src_b, fixed_out_seconds)
 G = [
- [(0.6, 3.0), (208.8, 214.26)],            # L1 intro (static home 2.4 s, then phone preview)
- [(12.4, 15.8)],                           # L2 open design / Preview
- [(19.1, 24.1)],                           # L3 mobile preview
- [(36.0, 39.9)],                           # L4 publish panel -> settings
- [(42.43, 47.33), (24.8, 27.7)],           # L5 settings Resize on mobile, reflow in preview
- [(50.3, 53.1), (61.83, 63.4)],            # L6 back to design
- [(123.0, 126.6)],                         # L7 resize text box
- [(126.6, 130.3), (131.67, 133.2)],        # L8 boundaries / spacing
- [(84.0, 90.0)],                           # L9 select + group
- [(96.0, 98.9)],                           # L10 preview again
- [(90.4, 93.8)],                           # L11 avoid grouping whole layout
- [(98.6, 100.6), (102.67, 105.9)],         # L12 related items together
- [(109.0, 112.77), (113.67, 114.7)],       # L13 replace oversized element
- [(155.0, 159.2)],                         # L14 buttons / links
- [(159.2, 161.3), (163.5, 165.6)],         # L15 large image
- [(168.0, 170.7)],                         # L16
- [(173.5, 176.2)],                         # L17
- [(202.6, 210.2)],                         # L18 full-screen phone view
- [(211.2, 217.2)],                         # L19 scroll sections
- [(217.9, 222.0)],                         # L20 closing
+ [(0.16, 5.13, 2.5), (5.13, 7.4)],                 # L1-2 static home (2x) then home scroll
+ [(7.4, 11.88)],                                   # L3 intro, home page
+ [(11.88, 14.3)],                                  # L4 open projects
+ [(14.3, 17.7, 2.0), (17.7, 20.4)],                # L5 create folder, open it
+ [(20.4, 29.4)],                                   # L6-7 add new -> upload files dialog
+ [(48.67, 51.3), (54.03, 56.7)],    # L8 folder listing, hover, 3-dot menu
+ [(62.6, 66.17, 2.38)],                            # L9 select remove background
+ [(66.17, 68.83), (70.2, 73.43)],                  # L10 processing, new folder
+ [(80.0, 84.23, 2.4), (84.23, 86.03)],             # L11 edited folder alongside original
+ [(88.67, 91.4)],                                  # L12 open edited folder
+ [(105.1, 107.47), (110.0, 111.17), (118.8, 120.57), (121.87, 124.5)],  # L13 check cutouts
+ [(147.0, 153.47), (155.1, 157.6)],                # L14 original folder, tick, BG remover
+ [(157.6, 160.07), (161.5, 163.67, 1.73)],         # L15 copies added to same folder
+ [(124.5, 127.13), (128.73, 131.5)],               # L16 which version / placing into design
+ [(176.33, 178.2)],                                # L17 account menu (limit)
+ [(178.2, 178.9), (182.23, 187.6)],                # L18 plans and pricing
+ [(189.8, 190.77), (202.23, 206.27), (206.27, 210.97, 2.4)],  # L19 home folders
+ [(211.0, 214.77), (196.0, 200.4, 2.4)],           # L20
+ [(225.0, 229.03), (229.87, 233.0)],               # L21 download
 ]
-FIXED = {0: [2.4, None]}  # fixed output length for the static opening piece
 segs = []
+prev_end = None
 for i, pieces in enumerate(G):
-    o = L[i]; end = L[i + 1]
-    fixed = FIXED.get(i, [None] * len(pieces))
-    rest = [p for p, f in zip(pieces, fixed) if f is None]
-    avail = end - o - sum(f for f in fixed if f)
-    tot = sum(b - a for a, b in rest)
-    for k, ((a, b), f) in enumerate(zip(pieces, fixed)):
-        d = f if f else (b - a) / tot * avail
+    o = S[i]; end = S[i + 1]
+    fixed = sum(p[2] for p in pieces if len(p) == 3)
+    tot = sum(p[1] - p[0] for p in pieces if len(p) == 2)
+    avail = end - o - fixed
+    for k, p in enumerate(pieces):
+        a, b = p[0], p[1]
+        d = p[2] if len(p) == 3 else (b - a) / tot * avail
         o1 = end if k == len(pieces) - 1 else o + d
-        segs.append({"src_start": a, "src_end": b, "out_start": round(o, 3), "out_end": round(o1, 3), "mode": "speed", **({"xfade": True} if ((k > 0 or i > 0) and not (k > 0 and a == pieces[k-1][1]) and not (k == 0 and i > 0 and a == G[i-1][-1][1])) else {})})
-        o = o1
+        seg = {"src_start": a, "src_end": b, "out_start": round(o, 3), "out_end": round(o1, 3), "mode": "speed"}
+        if prev_end is not None and abs(a - prev_end) > 1e-6:
+            seg["xfade"] = True
+        segs.append(seg); prev_end = b; o = o1
 plan = {"output": {"duration": D, "fps": 30, "width": 1920, "height": 1080},
         "segments": segs, "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
