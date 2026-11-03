@@ -1,0 +1,242 @@
+{
+ "output": {
+  "duration": 96.381,
+  "fps": 30.0,
+  "width": 1920,
+  "height": 1080
+ },
+ "segments": [
+  {
+   "src_start": 123.8,
+   "src_end": 127.9,
+   "out_start": 0,
+   "out_end": 3.9,
+   "mode": "speed"
+  },
+  {
+   "src_start": 0.6,
+   "src_end": 4.1,
+   "out_start": 3.9,
+   "out_end": 5.9,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 5.9,
+   "src_end": 9.1,
+   "out_start": 5.9,
+   "out_end": 9.1,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 12.4,
+   "src_end": 14.4,
+   "out_start": 9.1,
+   "out_end": 11.062,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 16.9,
+   "src_end": 18.9,
+   "out_start": 11.062,
+   "out_end": 13.025,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 24.5,
+   "src_end": 25.8,
+   "out_start": 13.025,
+   "out_end": 14.3,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 30.6,
+   "src_end": 32.8,
+   "out_start": 14.3,
+   "out_end": 16.5,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 34.2,
+   "src_end": 40.0,
+   "out_start": 16.5,
+   "out_end": 22.3,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 50.1,
+   "src_end": 56.2,
+   "out_start": 22.3,
+   "out_end": 27.2,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 66.9,
+   "src_end": 69.2,
+   "out_start": 27.2,
+   "out_end": 29.1,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 69.2,
+   "src_end": 74.7,
+   "out_start": 29.1,
+   "out_end": 35.9,
+   "mode": "speed"
+  },
+  {
+   "src_start": 84.2,
+   "src_end": 86.0,
+   "out_start": 35.9,
+   "out_end": 37.908,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 86.0,
+   "src_end": 88.6,
+   "out_start": 37.908,
+   "out_end": 39.508,
+   "mode": "speed"
+  },
+  {
+   "src_start": 88.6,
+   "src_end": 89.4,
+   "out_start": 39.508,
+   "out_end": 40.4,
+   "mode": "speed"
+  },
+  {
+   "src_start": 89.4,
+   "src_end": 92.8,
+   "out_start": 40.4,
+   "out_end": 43.7,
+   "mode": "speed"
+  },
+  {
+   "src_start": 105.3,
+   "src_end": 109.0,
+   "out_start": 43.7,
+   "out_end": 47.136,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 109.7,
+   "src_end": 113.0,
+   "out_start": 47.136,
+   "out_end": 50.2,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 148.0,
+   "src_end": 150.1,
+   "out_start": 50.2,
+   "out_end": 52.456,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 153.3,
+   "src_end": 160.6,
+   "out_start": 52.456,
+   "out_end": 60.3,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 160.6,
+   "src_end": 164.2,
+   "out_start": 60.3,
+   "out_end": 62.5,
+   "mode": "speed"
+  },
+  {
+   "src_start": 175.8,
+   "src_end": 177.2,
+   "out_start": 62.5,
+   "out_end": 63.9,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 119.2,
+   "src_end": 122.2,
+   "out_start": 63.9,
+   "out_end": 66.9,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 131.0,
+   "src_end": 133.3,
+   "out_start": 66.9,
+   "out_end": 69.2,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 177.4,
+   "src_end": 181.0,
+   "out_start": 69.2,
+   "out_end": 73.16,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 184.2,
+   "src_end": 187.6,
+   "out_start": 73.16,
+   "out_end": 76.9,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 202.9,
+   "src_end": 209.0,
+   "out_start": 76.9,
+   "out_end": 83.7,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 213.8,
+   "src_end": 216.6,
+   "out_start": 83.7,
+   "out_end": 86.78,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 181.0,
+   "src_end": 184.2,
+   "out_start": 86.78,
+   "out_end": 90.3,
+   "mode": "speed",
+   "xfade": true
+  },
+  {
+   "src_start": 230.0,
+   "src_end": 235.8,
+   "out_start": 90.3,
+   "out_end": 96.381,
+   "mode": "speed",
+   "xfade": true
+  }
+ ],
+ "zooms": [],
+ "ripples": [],
+ "intro": null,
+ "outro": null,
+ "sync": [],
+ "style": {}
+}
