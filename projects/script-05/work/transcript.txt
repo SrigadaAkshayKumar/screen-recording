@@ -1,23 +1,20 @@
-This tutorial shows you how to blend two videos in Canva using a transparent overlay,
-then create a smooth transition between consecutive clips.
-For an overlay blend, place the first video on the main timeline track.
-Add the second video above it and position its timeline segment so both videos play at the same time.
-Resize the upper video to cover the area where you want the blend.
-Select it, open Transparency from the toolbar and lower the value.
-Start near 50%, then adjust until both shots are visible.
-Play the overlap and refine the balance.
-A bright upper clip may need lower opacity, while a subtle texture can work at a stronger setting.
-Select each video's volume control and mute any audio you do not want to mix.
-If you want one shot to dissolve into the next instead, arrange both clips consecutively on the main track.
-Hover between them, select Add Transition, and choose Dissolve.
-Adjust its duration, then preview the cut.
-In older page-based designs, the transition control appears between the video pages.
-In the updated editor, look between the main track clips.
-Here's the part many tutorials skip.
-Lowering transparency keeps both images visible during their overlap.
-A dissolve changes from one image to another over time.
-Choose the method that matches the result you want.
-This opacity method also does not provide the same control
-as dedicated screen or multiply blend modes in a compositing editor.
-Download a short MP4 test and check the picture and audio together
-before exporting the complete video.
+This tutorial shows you how to design a large image in Canva and print it across several sheets, using Acrobat Reader.
+In Canva, create a design at the final poster dimensions.
+For example, choose a custom size of 60 by 40 cm for a landscape poster.
+Upload the image and fit it to the page.
+Check the crop carefully so the main subject stays inside the finished poster.
+Use a sufficiently detailed original image because enlarging a small picture can make the print blurry.
+Choose Share, Download and PDF with the print preset.
+Download the single poster page without adding crop marks for this example.
+Open the PDF in the desktop version of Adobe Acrobat Reader.
+Open Print, choose your printer, and set the paper size to the sheets you actually have, such as A4.
+Under Page Sizing and Handling, select Poster.
+This divides the large PDF page across several sheets.
+Set tile scale to 100% to preserve the poster size created in Canva.
+Add a small overlap, such as 5mm, and enable cut marks, if helpful.
+Check the preview and sheet count before printing.
+A small change in overlap or paper orientation can change how many sheets are required.
+Here's the important part.
+This method uses Canva for the artwork and Acrobat for the tiled printing.
+Choosing multiple in Acrobat does the opposite by fitting several document pages onto one sheet.
+Print the tiles, trim the overlapping edges as needed, align the picture, and tape the sheets together from behind.
