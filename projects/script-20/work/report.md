@@ -1,54 +1,49 @@
-# script-20 re-edit 3 report
+# script-20 report
 
 ## Result
-`projects/script-20/output/final.mp4` - 95.200 s, 3420x1922, verify **PASS** (duration, streams, resolution, no freeze >3 s, 28 joins without black frames). `check.py --plan`: OK, no pace warnings. Final render 5.2 min.
+`projects/script-20/output/final.mp4` - 96.417 s (= voiceover), 2560x1440, verify **PASS** (duration, streams, resolution, no freeze > 3 s, 31 joins clean). `check.py --plan`: OK, no `pace:` warning (only "action not tied to a word" notes, expected for a hand plan). Source bitrate not measured; recording is 1920x1080 with baked-in recorder zoom (soft source possible). Final render 2.7 min.
 
 ## Stages
-- probe, transcribe, align, scenes: reused. frames: new 1 s sheets (62 tiles) plus 0.3 s sheets of 21.5-27.1, 29.6-33.2, 33.4-41 and 38.8-42.2.
-- analyze: redone from scratch (work/analyze-notes.md, work/actions.json, `check.py --actions` OK; coordinates approximate, medium confidence, unused because no zooms/ripples).
-- sync: work/hand_plan.py -> work/plan.json (30 segments, no zooms/ripples; recorder zoom is baked in), notes in work/sync-notes.md.
-- preview reviewed (frames at line starts/mid-lines), final render, verify PASS. Frames of final.mp4 checked at 13.6, 15, 18.6, 25.6, 27, 29, 31.5, 33, 35, 39.5, 42.7, 45 s (same plan as the preview).
+- probe, transcribe, align (19 lines, all ok), scenes, frames: reused (not re-run).
+- analyze: new 0.5-1 s sheets over the whole take; work/actions.json (14 actions, coordinates are placeholders, no click log and no zooms used), `check.py --actions` OK.
+- sync: work/hand_plan.py -> plan.json (31 pieces, 0.76-1.5x, no holds, cross-fade on every jump). Preview reviewed at every line start and middle; L8 was shifted once so "Drop" is selected on the word.
+- render final, verify PASS. Frames of final.mp4 checked at 1.0, 4.5, 8.5, 22, 23, 24.3, 26, 29, 34.2, 35.5, 36.3, 38.5 s; the rest checked on the preview (same plan, same pieces).
 
 ## Judgment calls
-- L4-L10 play src 20.5-41.9 in recording order with no jump back; speeds 0.75-1.1x, three holds of 1.4-1.45 s on meaningful frames (type list open, Select pages framed, cursor on "This page").
-- Timing to the word: Custom click ~30.3 and checklist ~31.0 ("shows a checklist"); selection changes from 32.7 ("deselect all ... tick only the one"); only page 3 ticked ~39.9 ("page there"); Download click 42.85 ("click Download"); file opens ~44.9 ("save file").
-- L8 and L9 show different footage (L8: pages ticked/unticked; L9: only page 2, none ticked + error, then page 3 ticked).
-- L13-L19 use only related footage (download panel, page selection, file type list, pages view), cross-faded, never the same piece twice in a row. The early design/intro footage is gone.
-- Cut: black frame 3.2-3.9; 12.1-20.5 (static page, pages grid, not narrated). Download wait played at 2x (wait flag).
-- L12 is PDF first, then the image (narration order), cross-faded jump back.
+- Narration order wins; the take does things in another order (see table). No zooms/ripples: recorder zoom is baked in, no clicks logged.
+- Lines with no matching footage (keyboard shortcut, Position/Layers panel, download of a test image) use the closest step and are marked partly.
+- L1: 2.2 s of the home page, then the finished heading, because the home page is static for 8 s (stills 1.2-9.2).
+- L8 plays 1.0x then 1.46x (slider footage is not narrated beat by beat). Longest real-footage still: only the 2.2 s home opening.
 
 ## Per-line table (out window | source | what is shown | match)
 | L | out | src | shown | match |
 |---|---|---|---|---|
-| 1 | 0-5.92 | 0-3.15, 3.9-5.5 | Canva home, editor loads | yes |
-| 2 | 5.92-8.76 | 5.5-8.4 | page 1 appears, page strip | yes |
-| 3 | 8.76-12.42 | 8.4-12.1 | page strip, "Page 2/3" tooltips, page 3 | yes |
-| 4 | 12.42-16.82 | 20.5-24.0, 24.0-26.1 | page 3 right-click menu, Download page clicked ~14.9, panel slides in | mostly: no Share in the take; click is ~1.4 s after "Download" |
-| 5 | 16.82-25.46 | 26.1-31.6 | type list opens ~18.5 (hold 19.0-20.4), PNG chosen ~24, PNG options | mostly: list opens at "JPG"/"image" not "PNG" |
-| 6 | 25.46-27.98 | 31.6 (hold, zoom) 31.6-32.2 | Select pages row framed, cursor reaches it | yes (no separate dropdown in the take) |
-| 7 | 27.98-31.3 | 32.2 hold, 32.2-33.1 | cursor on "This page (3)", Custom clicked ~30.3, checklist with page 3 ticked | yes |
-| 8 | 31.3-36.8 | 33.1-37.0 | checklist: pages ticked/unticked, Clear all | yes |
-| 9 | 36.8-40.46 | 37.0-39.9 | only page 2, none ticked (error), page 3 ticked ~39.9 | yes |
-| 10 | 40.46-44.4 | 39.9-41.9, 41.9-45.0 | only page 3 ticked, Download click 42.85, download toast | yes |
-| 11 | 44.4-47.18 | 45.0-46.0, 46.0-48.3 | file opens, star.png viewer | yes |
-| 12 | 47.18-53.54 | 55.5-58.3, 48.3-50.9 | PDF (one page), then the PNG artwork | yes |
-| 13 | 53.54-56.32 | 22.4-24.5 | Download page click, panel opens | related |
-| 14 | 56.32-61.82 | 31.4-35.6 | download menu page selection (This page / Custom / checklist) | related |
-| 15 | 61.82-65.22 | 39.0-41.6 | final selection, Download enabled | related |
-| 16 | 65.22-69.94 | 26.3-30.0 | file type list | related |
-| 17 | 69.94-76.8 | 24.0-26.8, 29.9-32.3 | PDF panel, PNG options | related |
-| 18 | 76.8-82.9 | 15.1-17.6, 19.0-21.2 | pages view, page menu | related |
-| 19 | 82.9-90.08 | 33.0-38.4 | page-selection checklist | related |
-| 20 | 90.08-95.2 | 58.5-62.4 | PDF page viewer, closing | yes |
+| 1 | 0-6.86 | 0-2.2, 255-259.2 | Canva home, then the finished heading in the page view | partly (result shown, no outline/shadow detail) |
+| 2 | 6.86-10.74 | 12.2-13.8, 21.4-23.2, 26.8-28.6 | Create a design dialog, Text panel with Title / add text box, Hello on the page | yes |
+| 3 | 10.74-16.36 | 28.6-31.2, 42.2-45.0, 45.2-46.8 | text size 164 set, toolbar with Alignment tooltip, centre guides | partly (no spacing, font choice not distinct) |
+| 4 | 16.36-21.12 | 47.9-51.5 | Duplicate button hovered, clicked at ~17.9 (the "D"), stacked copy appears | yes (button, not the keyboard shortcut) |
+| 5 | 21.12-24.54 | 63.0-65.2, 65.2-66.4, 70.3-71.5 | text selected, Effects click, Outline chosen at ~24.1 | yes |
+| 6 | 24.54-30.64 | 191.2-194.2, 72.6-77.2 | colour palette opens, then thickness slider dragged 50 -> ~90 | yes |
+| 7 | 30.64-33.70 | 92.8-95.6 | second copy appears below and is selected, Effects hover | partly (no Position/Layers panel) |
+| 8 | 33.70-42.00 | 97.8-100.0, 100.0-108.9 | effect list (Neon hover), Drop chosen ~35.9, direction/offset/blur/transparency sliders | yes |
+| 9 | 42.00-46.76 | 141.6-146.4 | shadow copy moved onto the front copy, centre guides | partly (no layer-order control) |
+| 10 | 46.76-53.25 | 195.5-200.8 | both boxes selected, centre guides, letters snap together | partly (no Position panel) |
+| 11 | 53.25-58.54 | 181.0-185.5 | single overlapped Hello after alignment, zoomed | yes |
+| 12 | 58.54-64.90 | 147.6-150.8, 216.7-219.8 | copy offset above the front text, then lower copy selected | partly |
+| 13 | 64.90-73.38 | 173.5-180.8 | Effects panel with Outline highlighted on one copy, two copies on the page | yes |
+| 14 | 73.38-75.56 | 202.8-205.2 | Group clicked, toolbar turns to Ungroup | yes |
+| 15 | 75.56-78.14 | 223.6-226.6 | group corner handle dragged, group larger | yes |
+| 16 | 78.14-83.98 | 236.5-242.5 | grouped heading with font toolbar (page 2) | partly (conceptual) |
+| 17 | 83.98-87.08 | 213.4-216.5 | duplicate offset, letters misaligned then two separated copies | yes |
+| 18 | 87.08-91.14 | 249.0-253.1 | full-screen preview of the heading with shadow | partly (no download in the take) |
+| 19 | 91.14-96.42 | 121.0-125.7, 193.9-196.0 | offset slider raised, then colour palette | yes |
 
 ## Uncertain
-- No Share click in the take; Download page click lands at out ~14.9 (narration "Download" at 13.5).
-- File type list opens at out 18.5, after the "PNG" word (17.0): 1.5x on cursor travel would be needed.
-- The Custom click happens before the checklist edits in the take, so "choose Custom" (L9) is shown by the Custom checklist, not the click.
-- L13-L19 are reuse (no matching action in the take).
+- analyze-notes.md: coordinates are placeholders; keyboard shortcut, Position/Layers and download have no footage.
+- L3: the spacing and font choices are not visible as separate actions.
 
 ## Check these
-- 14-19 (Download page click, list opening), 26-31 (Select pages, Custom click), 39.5-43 (page 3 ticked, Download click), 47-53.5 (PDF then image, jump back), 53.5-90 (reuse).
+- 33.7-36 (Neon is highlighted until Drop is chosen at ~35.9), 42-46.8 (alignment shown for "move behind"), 61.7-65 and 78-84 (page 2 / group footage used for explanatory lines), 87-91 (preview instead of download).
 
 ## Lessons added
-One entry in docs/lessons.md.
+- One entry (hover on other effects before the click).

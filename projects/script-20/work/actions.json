@@ -1,13 +1,192 @@
-{"recording":{"width":3420,"height":1922,"fps":30,"duration":62.4},
- "sync":{"clicks_offset":0,"source":"frames"},
- "actions":[
- {"id":"A1","t_click":19.95,"x":1100,"y":700,"kind":"click","target":"page 3 (right-click)","result":"page context menu opens","t_result_visible":20.2,"confidence":"medium"},
- {"id":"A2","t_click":23.0,"x":1000,"y":900,"kind":"click","target":"Download page menu item","result":"Download panel slides in (PDF)","t_result_visible":24.0,"confidence":"medium"},
- {"id":"A3","t_click":26.5,"x":2700,"y":600,"kind":"click","target":"File type box","result":"file type list opens (JPG, PNG, PDF, SVG, MP4, GIF...)","t_result_visible":27.0,"confidence":"medium"},
- {"id":"A4","t_click":30.0,"x":2700,"y":700,"kind":"click","target":"PNG","result":"PNG options and Select pages appear","t_result_visible":30.4,"confidence":"medium"},
- {"id":"A5","t_click":32.5,"x":3000,"y":1100,"kind":"click","target":"Custom (Select pages)","result":"page checklist opens, page 3 ticked","t_result_visible":33.0,"confidence":"medium"},
- {"id":"A6","t_click":34.2,"x":2600,"y":1150,"kind":"click","target":"page thumbnails in the checklist","result":"pages 2, 1 ticked; Clear all appears; later only page 2, then none (error)","t_result_visible":34.7,"confidence":"medium"},
- {"id":"A7","t_click":39.5,"x":3000,"y":1150,"kind":"click","target":"page 3 thumbnail","result":"only page 3 ticked, Download enabled","t_result_visible":39.9,"confidence":"medium"},
- {"id":"A8","t_click":41.9,"x":2850,"y":1280,"kind":"click","target":"Download button","result":"download toast, then star.png opens in a viewer at 46.0","t_result_visible":46.0,"confidence":"medium"},
- {"id":"A9","t_click":53.3,"x":1700,"y":1800,"kind":"click","target":"saved PDF in the dock","result":"star 2.pdf viewer opens (54.3)","t_result_visible":54.3,"confidence":"medium"}],
- "junk":[{"start":3.2,"end":3.9,"reason":"black frame while the browser tab opens"},{"start":12.1,"end":15.1,"reason":"static page, not narrated"}]}
+{
+ "recording": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 265.233
+ },
+ "sync": {
+  "clicks_offset": 0,
+  "source": "frames"
+ },
+ "actions": [
+  {
+   "id": "A1",
+   "t_click": 22.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Title / Add a text box in the Text panel",
+   "result": "text box with placeholder appears on the page",
+   "t_result_visible": 23.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A2",
+   "t_click": 27.0,
+   "x": 960,
+   "y": 540,
+   "kind": "type",
+   "text": "Hello",
+   "target": "text box",
+   "result": "heading Hello on the page",
+   "t_result_visible": 28.5,
+   "confidence": "low"
+  },
+  {
+   "id": "A3",
+   "t_click": 49.2,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Duplicate button in the text toolbar",
+   "result": "second identical copy stacked on the first",
+   "t_result_visible": 49.6,
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "t_click": 65.2,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Effects button",
+   "result": "Effects panel opens",
+   "t_result_visible": 66.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "t_click": 70.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Outline style",
+   "result": "Outline selected, Thickness slider shown",
+   "t_result_visible": 72.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A6",
+   "t_click": 73.5,
+   "x": 960,
+   "y": 540,
+   "kind": "drag",
+   "target": "Thickness slider",
+   "result": "outline gets thicker (50 -> 94)",
+   "t_end": 78.5,
+   "t_result_visible": 78.5,
+   "confidence": "medium",
+   "x2": 961,
+   "y2": 541
+  },
+  {
+   "id": "A7",
+   "t_click": 98.5,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Drop effect on the second copy",
+   "result": "Drop shadow applied",
+   "t_result_visible": 99.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A8",
+   "t_click": 101.0,
+   "x": 960,
+   "y": 540,
+   "kind": "drag",
+   "target": "Direction/Offset/Blur/Transparency sliders",
+   "result": "shadow moves and softens",
+   "t_end": 131.0,
+   "t_result_visible": 131.0,
+   "confidence": "medium",
+   "x2": 961,
+   "y2": 541
+  },
+  {
+   "id": "A9",
+   "t_click": 142.0,
+   "x": 960,
+   "y": 540,
+   "kind": "drag",
+   "target": "shadow copy",
+   "result": "copy moved onto the front copy, centre guides appear",
+   "t_end": 146.5,
+   "t_result_visible": 146.5,
+   "confidence": "medium",
+   "x2": 961,
+   "y2": 541
+  },
+  {
+   "id": "A10",
+   "t_click": 196.5,
+   "x": 960,
+   "y": 540,
+   "kind": "drag",
+   "target": "both copies aligned to centre",
+   "result": "crosshair guides, letters overlap",
+   "t_end": 200.0,
+   "t_result_visible": 199.5,
+   "confidence": "medium",
+   "x2": 961,
+   "y2": 541
+  },
+  {
+   "id": "A11",
+   "t_click": 203.8,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Group button",
+   "result": "toolbar shows Ungroup",
+   "t_result_visible": 205.0,
+   "confidence": "high"
+  },
+  {
+   "id": "A12",
+   "t_click": 213.0,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Duplicate on the group",
+   "result": "offset duplicate appears",
+   "t_result_visible": 214.5,
+   "confidence": "medium"
+  },
+  {
+   "id": "A13",
+   "t_click": 224.0,
+   "x": 960,
+   "y": 540,
+   "kind": "drag",
+   "target": "group corner handle",
+   "result": "group resized larger",
+   "t_end": 226.0,
+   "t_result_visible": 226.0,
+   "confidence": "medium",
+   "x2": 961,
+   "y2": 541
+  },
+  {
+   "id": "A14",
+   "t_click": 250.5,
+   "x": 960,
+   "y": 540,
+   "kind": "click",
+   "target": "Present / preview",
+   "result": "full-screen preview of the heading",
+   "t_result_visible": 251.0,
+   "confidence": "medium"
+  }
+ ],
+ "junk": [
+  {
+   "start": 259.5,
+   "end": 265.2,
+   "reason": "tail after finishing",
+   "ff": true
+  }
+ ]
+}
