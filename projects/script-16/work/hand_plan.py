@@ -1,53 +1,49 @@
-"""Hand-built plan for script-16 (96.27 s voiceover, 133.6 s recording 3420x1922, baked recorder zoom: no zooms/ripples).
-Groups start on each narration line's start (lines.json). Pieces: (src_a, src_b[, fixed_speed]).
-Windows are the moving spans from freezedetect n=0.002 d=0.8 (static: 0-7.67,13.2-14.4,24.2-25.2,30.07-30.9,34-37.03,
-57.8-60.27,62.3-64.33,68.17-70.77,92.27-95.2,102.4-103.4,118.9-121.3,122.8-124.4)."""
+"""Hand-built plan for script-16 (249.533 s recording 1920x1080, 93.089 s voiceover, no clicks log -> no zooms/ripples).
+One group per narration line, starting 0.15 s before the line's lines.json start; pieces are (src_a, src_b[, fixed_out_dur]) from 1 s sheets."""
 import json
 P = 'projects/script-16/work/'
-DUR = 96.27
-raw = json.load(open(P + 'lines.json'))
-L = [r['start'] for r in (raw['lines'] if isinstance(raw, dict) else raw)]
-G = {
- 1: [(4.0, 5.4, 1.0), (7.67, 13.2)],
- 2: [(14.4, 19.5)],
- 3: [(41.5, 44.3)],
- 4: [(45.5, 47.5)],
- 5: [(47.5, 54.5)],
- 6: [(64.33, 67.6)],
- 7: [(70.77, 76.0)],
- 8: [(76.0, 79.0), (107.0, 110.5)],
- 9: [(111.0, 114.5)],
- 10: [(81.0, 86.0)],
- 11: [(114.5, 118.9), (121.3, 122.8)],
- 12: [(60.27, 62.3), (88.8, 89.8)],
- 13: [(54.5, 57.8)],
- 14: [(25.2, 30.07), (30.9, 32.2)],
- 15: [(32.2, 34.0), (37.03, 40.0)],
- 16: [(95.2, 102.4)],
- 17: [(86.5, 92.27)],
- 18: [(103.4, 107.0), (100.0, 101.0)],
- 19: [(124.4, 130.0)],
-}
-N = len(G)
-segs, prev = [], None
-for n in range(1, N + 1):
-    t0 = L[n - 1] if n > 1 else 0.0
-    t1 = L[n] if n < N else DUR
-    pcs = G[n]
-    fixed = sum((p[1] - p[0]) / p[2] for p in pcs if len(p) == 3)
-    free = sum(p[1] - p[0] for p in pcs if len(p) == 2)
-    sp = free / (t1 - t0 - fixed) if free else 0
-    t = t0
-    for i, p in enumerate(pcs):
-        s = p[2] if len(p) == 3 else sp
-        d = (p[1] - p[0]) / s
-        o1 = t1 if i == len(pcs) - 1 else round(t + d, 3)
-        seg = {"src_start": p[0], "src_end": p[1], "out_start": round(t, 3), "out_end": round(o1, 3), "mode": "speed"}
-        if prev is not None and abs(p[0] - prev) > 0.002:
-            seg["xfade"] = True
-        segs.append(seg); prev = p[1]; t = o1
-        print('line', n, p[0], p[1], 'x%.2f' % ((p[1] - p[0]) / (o1 - seg['out_start'])), 'out %.2f' % (o1 - seg['out_start']))
-plan = {"output": {"duration": DUR, "fps": 30, "width": 3420, "height": 1922},
-        "segments": segs, "zooms": [], "ripples": [], "intro": None, "outro": None, "sync": [],
+END = 93.089
+G = [
+ (0, 5.89, [(57.0, 59.6), (106.9, 109.4)]),
+ (5.89, 8.23, [(9.0, 11.4)]),
+ (8.23, 14.55, [(17.3, 20.9), (22.4, 26.9)]),
+ (14.55, 16.15, [(36.5, 38.3)]),
+ (16.15, 22.01, [(39.8, 46.6)]),
+ (22.01, 26.25, [(47.0, 52.2)]),
+ (26.25, 28.69, [(43.0, 45.2)]),
+ (28.69, 32.35, [(56.8, 59.8)]),
+ (32.35, 35.37, [(68.4, 71.5)]),
+ (35.37, 39.65, [(71.5, 75.8)]),
+ (39.65, 45.53, [(82.4, 88.0)]),
+ (45.53, 48.23, [(88.0, 90.5)]),
+ (48.23, 51.63, [(101.8, 105.0)]),
+ (51.63, 56.93, [(106.8, 113.0)]),
+ (56.93, 63.51, [(128.4, 134.0)]),
+ (63.51, 67.41, [(149.0, 151.2), (158.3, 160.6)]),
+ (67.41, 72.75, [(166.8, 168.6), (196.0, 197.4), (207.4, 208.8), (214.8, 216.2)]),
+ (72.75, 79.13, [(168.4, 171.3), (172.9, 175.2)]),
+ (79.13, 84.31, [(181.4, 186.6)]),
+ (84.31, 89.95, [(188.0, 193.6)]),
+ (89.95, END, [(200.4, 203.5)]),
+]
+segs, prev_end = [], None
+for o0, o1, pieces in G:
+    fixed = sum(p[2] for p in pieces if len(p) > 2)
+    free = [p for p in pieces if len(p) == 2]
+    sp = sum(b - a for a, b in free) / (o1 - o0 - fixed)
+    t = o0
+    for k, p in enumerate(pieces):
+        a, b = p[0], p[1]
+        dur = p[2] if len(p) > 2 else (b - a) / sp
+        end = o1 if k == len(pieces) - 1 else t + dur
+        s = {"src_start": a, "src_end": b, "out_start": t, "out_end": end, "mode": "speed"}
+        if prev_end is not None and abs(a - prev_end) > 0.002:
+            s["xfade"] = True
+        segs.append(s); prev_end = b; t = end
+    print(f"{o0:6.2f}-{o1:6.2f} {sp:.2f}x {pieces}")
+plan = {"output": {"duration": END, "fps": 30, "width": 1920, "height": 1080}, "segments": segs, "zooms": [],
+        "ripples": [], "intro": None, "outro": None, "sync": [],
         "style": {"ripple_color": "#2F80ED", "ripple_alpha": 0.6, "cursor_halo": False}}
 json.dump(plan, open(P + 'plan.json', 'w'), indent=1)
+json.dump({"recording": {"width": 1920, "height": 1080, "fps": 30, "duration": 249.533}, "sync": {"source": "frames"},
+           "actions": [], "junk": []}, open(P + 'actions.json', 'w'), indent=1)
