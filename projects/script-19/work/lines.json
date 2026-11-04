@@ -1,2083 +1,1831 @@
 [
   {
     "id": 1,
-    "text": "This tutorial shows you how to bring a Word manuscript into Canva and use its text to build a designed PDF e-book.",
+    "text": "This tutorial shows you how to create a client invoice from a Canva template.",
     "start": 0.0,
-    "end": 6.64,
+    "end": 4.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       0,
-      22
+      13
     ],
     "words": [
       {
         "i": 0,
         "word": "This",
         "start": 0.0,
-        "end": 0.22
+        "end": 0.5
       },
       {
         "i": 1,
         "word": "tutorial",
-        "start": 0.22,
-        "end": 0.64
+        "start": 0.5,
+        "end": 0.9
       },
       {
         "i": 2,
         "word": "shows",
-        "start": 0.64,
-        "end": 1.12
+        "start": 0.9,
+        "end": 1.32
       },
       {
         "i": 3,
         "word": "you",
-        "start": 1.12,
-        "end": 1.34
+        "start": 1.32,
+        "end": 1.54
       },
       {
         "i": 4,
         "word": "how",
-        "start": 1.34,
-        "end": 1.48
+        "start": 1.54,
+        "end": 1.68
       },
       {
         "i": 5,
         "word": "to",
-        "start": 1.48,
-        "end": 1.64
+        "start": 1.68,
+        "end": 1.86
       },
       {
         "i": 6,
-        "word": "bring",
-        "start": 1.64,
-        "end": 1.76
+        "word": "create",
+        "start": 1.86,
+        "end": 2.1
       },
       {
         "i": 7,
         "word": "a",
-        "start": 1.76,
-        "end": 1.96
+        "start": 2.1,
+        "end": 2.36
       },
       {
         "i": 8,
-        "word": "Word",
-        "start": 1.96,
-        "end": 2.2
+        "word": "client",
+        "start": 2.36,
+        "end": 2.68
       },
       {
         "i": 9,
-        "word": "manuscript",
-        "start": 2.2,
-        "end": 2.7
+        "word": "invoice",
+        "start": 2.68,
+        "end": 3.14
       },
       {
         "i": 10,
-        "word": "into",
-        "start": 2.7,
-        "end": 3.1
+        "word": "from",
+        "start": 3.14,
+        "end": 3.4
       },
       {
         "i": 11,
-        "word": "Canva",
-        "start": 3.1,
-        "end": 3.48
-      },
-      {
-        "i": 12,
-        "word": "and",
-        "start": 3.48,
+        "word": "a",
+        "start": 3.4,
         "end": 3.74
       },
       {
-        "i": 13,
-        "word": "use",
+        "i": 12,
+        "word": "Canva",
         "start": 3.74,
-        "end": 3.94
+        "end": 3.84
       },
       {
-        "i": 14,
-        "word": "its",
-        "start": 3.94,
-        "end": 4.12
-      },
-      {
-        "i": 15,
-        "word": "text",
-        "start": 4.12,
-        "end": 4.44
-      },
-      {
-        "i": 16,
-        "word": "to",
-        "start": 4.44,
-        "end": 4.84
-      },
-      {
-        "i": 17,
-        "word": "build",
-        "start": 4.84,
-        "end": 5.02
-      },
-      {
-        "i": 18,
-        "word": "a",
-        "start": 5.02,
-        "end": 5.2
-      },
-      {
-        "i": 19,
-        "word": "designed",
-        "start": 5.2,
-        "end": 5.68
-      },
-      {
-        "i": 20,
-        "word": "PDF",
-        "start": 5.68,
-        "end": 6.14
-      },
-      {
-        "i": 21,
-        "word": "e",
-        "start": 6.14,
-        "end": 6.48
-      },
-      {
-        "i": 22,
-        "word": "-book.",
-        "start": 6.48,
-        "end": 6.64
+        "i": 13,
+        "word": "template.",
+        "start": 3.84,
+        "end": 4.3
       }
     ]
   },
   {
     "id": 2,
-    "text": "First, save your manuscript as a Word .docx file.",
-    "start": 7.58,
-    "end": 10.2,
+    "text": "From the Canva homepage, search for Invoice and choose a template with enough room for your services or products.",
+    "start": 4.96,
+    "end": 10.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      23,
-      31
+      14,
+      32
     ],
     "words": [
       {
+        "i": 14,
+        "word": "From",
+        "start": 4.96,
+        "end": 5.12
+      },
+      {
+        "i": 15,
+        "word": "the",
+        "start": 5.12,
+        "end": 5.26
+      },
+      {
+        "i": 16,
+        "word": "Canva",
+        "start": 5.26,
+        "end": 5.58
+      },
+      {
+        "i": 17,
+        "word": "homepage,",
+        "start": 5.58,
+        "end": 5.98
+      },
+      {
+        "i": 18,
+        "word": "search",
+        "start": 6.24,
+        "end": 6.52
+      },
+      {
+        "i": 19,
+        "word": "for",
+        "start": 6.52,
+        "end": 6.76
+      },
+      {
+        "i": 20,
+        "word": "invoice",
+        "start": 6.76,
+        "end": 7.12
+      },
+      {
+        "i": 21,
+        "word": "and",
+        "start": 7.12,
+        "end": 7.44
+      },
+      {
+        "i": 22,
+        "word": "choose",
+        "start": 7.44,
+        "end": 7.7
+      },
+      {
         "i": 23,
-        "word": "First,",
-        "start": 7.58,
-        "end": 7.58
+        "word": "a",
+        "start": 7.7,
+        "end": 7.86
       },
       {
         "i": 24,
-        "word": "save",
-        "start": 7.84,
-        "end": 8.08
+        "word": "template",
+        "start": 7.86,
+        "end": 8.22
       },
       {
         "i": 25,
-        "word": "your",
-        "start": 8.08,
-        "end": 8.24
+        "word": "with",
+        "start": 8.22,
+        "end": 8.46
       },
       {
         "i": 26,
-        "word": "manuscript",
-        "start": 8.24,
-        "end": 8.72
+        "word": "enough",
+        "start": 8.46,
+        "end": 8.7
       },
       {
         "i": 27,
-        "word": "as",
-        "start": 8.72,
-        "end": 8.98
+        "word": "room",
+        "start": 8.7,
+        "end": 8.96
       },
       {
         "i": 28,
-        "word": "a",
-        "start": 8.98,
-        "end": 9.16
+        "word": "for",
+        "start": 8.96,
+        "end": 9.18
       },
       {
         "i": 29,
-        "word": "Word",
-        "start": 9.16,
-        "end": 9.38
+        "word": "your",
+        "start": 9.18,
+        "end": 9.34
       },
       {
         "i": 30,
-        "word": ".docx",
-        "start": 9.38,
-        "end": 9.84
+        "word": "services",
+        "start": 9.34,
+        "end": 9.74
       },
       {
         "i": 31,
-        "word": "file.",
-        "start": 9.84,
+        "word": "or",
+        "start": 9.74,
         "end": 10.2
+      },
+      {
+        "i": 32,
+        "word": "products.",
+        "start": 10.2,
+        "end": 10.7
       }
     ]
   },
   {
     "id": 3,
-    "text": "Use clear chapter headings and remove comments or tracked change material you do not want carried into the working copy.",
-    "start": 10.86,
-    "end": 17.06,
+    "text": "Replace the sample business name, logo, address, and contact details with your own.",
+    "start": 11.7,
+    "end": 16.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      32,
-      51
+      33,
+      45
     ],
     "words": [
       {
-        "i": 32,
-        "word": "Use",
-        "start": 10.86,
-        "end": 11.1
-      },
-      {
         "i": 33,
-        "word": "clear",
-        "start": 11.1,
-        "end": 11.42
+        "word": "Replace",
+        "start": 11.7,
+        "end": 11.8
       },
       {
         "i": 34,
-        "word": "chapter",
-        "start": 11.42,
-        "end": 11.74
+        "word": "the",
+        "start": 11.8,
+        "end": 12.04
       },
       {
         "i": 35,
-        "word": "headings",
-        "start": 11.74,
-        "end": 12.16
+        "word": "sample",
+        "start": 12.04,
+        "end": 12.3
       },
       {
         "i": 36,
-        "word": "and",
-        "start": 12.16,
-        "end": 12.58
+        "word": "business",
+        "start": 12.3,
+        "end": 12.6
       },
       {
         "i": 37,
-        "word": "remove",
-        "start": 12.58,
-        "end": 12.9
+        "word": "name,",
+        "start": 12.6,
+        "end": 13.02
       },
       {
         "i": 38,
-        "word": "comments",
-        "start": 12.9,
-        "end": 13.32
+        "word": "logo,",
+        "start": 13.48,
+        "end": 13.62
       },
       {
         "i": 39,
-        "word": "or",
-        "start": 13.32,
-        "end": 13.68
+        "word": "address",
+        "start": 14.24,
+        "end": 14.54
       },
       {
         "i": 40,
-        "word": "tracked",
-        "start": 13.68,
-        "end": 13.98
+        "word": "and",
+        "start": 14.54,
+        "end": 15.14
       },
       {
         "i": 41,
-        "word": "change",
-        "start": 13.98,
-        "end": 14.32
+        "word": "contact",
+        "start": 15.14,
+        "end": 15.5
       },
       {
         "i": 42,
-        "word": "material",
-        "start": 14.32,
-        "end": 14.74
+        "word": "details",
+        "start": 15.5,
+        "end": 15.98
       },
       {
         "i": 43,
-        "word": "you",
-        "start": 14.74,
-        "end": 15.24
-      },
-      {
-        "i": 44,
-        "word": "do",
-        "start": 15.24,
-        "end": 15.38
-      },
-      {
-        "i": 45,
-        "word": "not",
-        "start": 15.38,
-        "end": 15.52
-      },
-      {
-        "i": 46,
-        "word": "want",
-        "start": 15.52,
-        "end": 15.76
-      },
-      {
-        "i": 47,
-        "word": "carried",
-        "start": 15.76,
-        "end": 16.0
-      },
-      {
-        "i": 48,
-        "word": "into",
-        "start": 16.0,
-        "end": 16.26
-      },
-      {
-        "i": 49,
-        "word": "the",
-        "start": 16.26,
+        "word": "with",
+        "start": 15.98,
         "end": 16.38
       },
       {
-        "i": 50,
-        "word": "working",
+        "i": 44,
+        "word": "your",
         "start": 16.38,
-        "end": 16.64
+        "end": 16.56
       },
       {
-        "i": 51,
-        "word": "copy.",
-        "start": 16.64,
-        "end": 17.06
+        "i": 45,
+        "word": "own.",
+        "start": 16.56,
+        "end": 16.84
       }
     ]
   },
   {
     "id": 4,
-    "text": "Open Canva's homepage and drag the Word file onto it.",
-    "start": 17.86,
-    "end": 20.84,
+    "text": "Add the customer’s billing information in the client section.",
+    "start": 17.42,
+    "end": 19.96,
     "notes": [],
-    "match": 1.0,
+    "match": 0.9,
     "status": "ok",
     "word_range": [
-      52,
-      61
+      46,
+      54
     ],
     "words": [
       {
+        "i": 46,
+        "word": "Add",
+        "start": 17.42,
+        "end": 17.58
+      },
+      {
+        "i": 47,
+        "word": "the",
+        "start": 17.58,
+        "end": 17.74
+      },
+      {
+        "i": 48,
+        "word": "customer's",
+        "start": 17.74,
+        "end": 18.16
+      },
+      {
+        "i": 49,
+        "word": "billing",
+        "start": 18.16,
+        "end": 18.32
+      },
+      {
+        "i": 50,
+        "word": "information",
+        "start": 18.32,
+        "end": 18.7
+      },
+      {
+        "i": 51,
+        "word": "in",
+        "start": 18.7,
+        "end": 19.14
+      },
+      {
         "i": 52,
-        "word": "Open",
-        "start": 17.86,
-        "end": 18.18
+        "word": "the",
+        "start": 19.14,
+        "end": 19.28
       },
       {
         "i": 53,
-        "word": "Canva's",
-        "start": 18.18,
-        "end": 18.6
+        "word": "client",
+        "start": 19.28,
+        "end": 19.5
       },
       {
         "i": 54,
-        "word": "homepage",
-        "start": 18.6,
-        "end": 18.88
-      },
-      {
-        "i": 55,
-        "word": "and",
-        "start": 18.88,
-        "end": 19.34
-      },
-      {
-        "i": 56,
-        "word": "drag",
-        "start": 19.34,
-        "end": 19.56
-      },
-      {
-        "i": 57,
-        "word": "the",
-        "start": 19.56,
-        "end": 19.72
-      },
-      {
-        "i": 58,
-        "word": "Word",
-        "start": 19.72,
+        "word": "section.",
+        "start": 19.5,
         "end": 19.96
-      },
-      {
-        "i": 59,
-        "word": "file",
-        "start": 19.96,
-        "end": 20.24
-      },
-      {
-        "i": 60,
-        "word": "onto",
-        "start": 20.24,
-        "end": 20.6
-      },
-      {
-        "i": 61,
-        "word": "it.",
-        "start": 20.6,
-        "end": 20.84
       }
     ]
   },
   {
     "id": 5,
-    "text": "You can also use upload files.",
-    "start": 21.36,
-    "end": 22.96,
+    "text": "Enter a unique invoice number, the issue date, and the payment due date.",
+    "start": 20.72,
+    "end": 24.64,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      62,
+      55,
       67
     ],
     "words": [
       {
+        "i": 55,
+        "word": "Enter",
+        "start": 20.72,
+        "end": 20.9
+      },
+      {
+        "i": 56,
+        "word": "a",
+        "start": 20.9,
+        "end": 21.1
+      },
+      {
+        "i": 57,
+        "word": "unique",
+        "start": 21.1,
+        "end": 21.4
+      },
+      {
+        "i": 58,
+        "word": "invoice",
+        "start": 21.4,
+        "end": 21.84
+      },
+      {
+        "i": 59,
+        "word": "number,",
+        "start": 21.84,
+        "end": 22.2
+      },
+      {
+        "i": 60,
+        "word": "the",
+        "start": 22.56,
+        "end": 22.66
+      },
+      {
+        "i": 61,
+        "word": "issue",
+        "start": 22.66,
+        "end": 22.88
+      },
+      {
         "i": 62,
-        "word": "You",
-        "start": 21.36,
-        "end": 21.44
+        "word": "date",
+        "start": 22.88,
+        "end": 23.12
       },
       {
         "i": 63,
-        "word": "can",
-        "start": 21.44,
-        "end": 21.54
+        "word": "and",
+        "start": 23.12,
+        "end": 23.68
       },
       {
         "i": 64,
-        "word": "also",
-        "start": 21.54,
-        "end": 21.76
+        "word": "the",
+        "start": 23.68,
+        "end": 23.8
       },
       {
         "i": 65,
-        "word": "use",
-        "start": 21.76,
-        "end": 22.04
+        "word": "payment",
+        "start": 23.8,
+        "end": 24.08
       },
       {
         "i": 66,
-        "word": "upload",
-        "start": 22.04,
-        "end": 22.42
+        "word": "due",
+        "start": 24.08,
+        "end": 24.34
       },
       {
         "i": 67,
-        "word": "files.",
-        "start": 22.42,
-        "end": 22.96
+        "word": "date.",
+        "start": 24.34,
+        "end": 24.64
       }
     ]
   },
   {
     "id": 6,
-    "text": "Wait for the import, then open the imported document from projects.",
-    "start": 23.44,
-    "end": 26.56,
+    "text": "Keep the date format consistent throughout the document.",
+    "start": 25.32,
+    "end": 27.7,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
       68,
-      78
+      75
     ],
     "words": [
       {
         "i": 68,
-        "word": "Wait",
-        "start": 23.44,
-        "end": 23.62
+        "word": "Keep",
+        "start": 25.32,
+        "end": 25.48
       },
       {
         "i": 69,
-        "word": "for",
-        "start": 23.62,
-        "end": 23.78
+        "word": "the",
+        "start": 25.48,
+        "end": 25.66
       },
       {
         "i": 70,
-        "word": "the",
-        "start": 23.78,
-        "end": 23.88
+        "word": "date",
+        "start": 25.66,
+        "end": 25.86
       },
       {
         "i": 71,
-        "word": "import,",
-        "start": 23.88,
-        "end": 24.22
+        "word": "format",
+        "start": 25.86,
+        "end": 26.22
       },
       {
         "i": 72,
-        "word": "then",
-        "start": 24.56,
-        "end": 24.7
+        "word": "consistent",
+        "start": 26.22,
+        "end": 26.66
       },
       {
         "i": 73,
-        "word": "open",
-        "start": 24.7,
-        "end": 24.96
+        "word": "throughout",
+        "start": 26.66,
+        "end": 27.08
       },
       {
         "i": 74,
         "word": "the",
-        "start": 24.96,
-        "end": 25.1
+        "start": 27.08,
+        "end": 27.36
       },
       {
         "i": 75,
-        "word": "imported",
-        "start": 25.1,
-        "end": 25.48
-      },
-      {
-        "i": 76,
-        "word": "document",
-        "start": 25.48,
-        "end": 25.86
-      },
-      {
-        "i": 77,
-        "word": "from",
-        "start": 25.86,
-        "end": 26.18
-      },
-      {
-        "i": 78,
-        "word": "projects.",
-        "start": 26.18,
-        "end": 26.56
+        "word": "document.",
+        "start": 27.36,
+        "end": 27.7
       }
     ]
   },
   {
     "id": 7,
-    "text": "Check that the chapter order, paragraphs, images and special characters came through correctly.",
-    "start": 27.1,
-    "end": 31.52,
+    "text": "Now replace the sample line items.",
+    "start": 27.7,
+    "end": 30.16,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      79,
-      91
+      76,
+      81
     ],
     "words": [
       {
+        "i": 76,
+        "word": "Now",
+        "start": 27.7,
+        "end": 28.56
+      },
+      {
+        "i": 77,
+        "word": "replace",
+        "start": 28.56,
+        "end": 28.92
+      },
+      {
+        "i": 78,
+        "word": "the",
+        "start": 28.92,
+        "end": 29.18
+      },
+      {
         "i": 79,
-        "word": "Check",
-        "start": 27.1,
-        "end": 27.4
+        "word": "sample",
+        "start": 29.18,
+        "end": 29.5
       },
       {
         "i": 80,
-        "word": "that",
-        "start": 27.4,
-        "end": 27.58
+        "word": "line",
+        "start": 29.5,
+        "end": 29.7
       },
       {
         "i": 81,
-        "word": "the",
-        "start": 27.58,
-        "end": 27.72
-      },
-      {
-        "i": 82,
-        "word": "chapter",
-        "start": 27.72,
-        "end": 27.96
-      },
-      {
-        "i": 83,
-        "word": "order,",
-        "start": 27.96,
-        "end": 28.3
-      },
-      {
-        "i": 84,
-        "word": "paragraphs,",
-        "start": 28.56,
-        "end": 28.9
-      },
-      {
-        "i": 85,
-        "word": "images",
-        "start": 29.22,
-        "end": 29.42
-      },
-      {
-        "i": 86,
-        "word": "and",
-        "start": 29.42,
-        "end": 29.78
-      },
-      {
-        "i": 87,
-        "word": "special",
-        "start": 29.78,
-        "end": 30.1
-      },
-      {
-        "i": 88,
-        "word": "characters",
-        "start": 30.1,
-        "end": 30.52
-      },
-      {
-        "i": 89,
-        "word": "came",
-        "start": 30.52,
-        "end": 30.8
-      },
-      {
-        "i": 90,
-        "word": "through",
-        "start": 30.8,
-        "end": 31.06
-      },
-      {
-        "i": 91,
-        "word": "correctly.",
-        "start": 31.06,
-        "end": 31.52
+        "word": "items.",
+        "start": 29.7,
+        "end": 30.16
       }
     ]
   },
   {
     "id": 8,
-    "text": "Review any changed fonts or formatting before starting the e-book layout.",
-    "start": 32.22,
-    "end": 35.46,
+    "text": "For each item, enter a clear description, quantity, unit price, and line total.",
+    "start": 30.96,
+    "end": 35.9,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      92,
-      103
+      82,
+      94
     ],
     "words": [
       {
+        "i": 82,
+        "word": "For",
+        "start": 30.96,
+        "end": 31.0
+      },
+      {
+        "i": 83,
+        "word": "each",
+        "start": 31.0,
+        "end": 31.16
+      },
+      {
+        "i": 84,
+        "word": "item,",
+        "start": 31.16,
+        "end": 31.52
+      },
+      {
+        "i": 85,
+        "word": "enter",
+        "start": 31.84,
+        "end": 31.96
+      },
+      {
+        "i": 86,
+        "word": "a",
+        "start": 31.96,
+        "end": 32.16
+      },
+      {
+        "i": 87,
+        "word": "clear",
+        "start": 32.16,
+        "end": 32.38
+      },
+      {
+        "i": 88,
+        "word": "description,",
+        "start": 32.38,
+        "end": 32.88
+      },
+      {
+        "i": 89,
+        "word": "quantity,",
+        "start": 33.4,
+        "end": 33.7
+      },
+      {
+        "i": 90,
+        "word": "unit",
+        "start": 34.18,
+        "end": 34.42
+      },
+      {
+        "i": 91,
+        "word": "price",
+        "start": 34.42,
+        "end": 34.74
+      },
+      {
         "i": 92,
-        "word": "Review",
-        "start": 32.22,
-        "end": 32.42
+        "word": "and",
+        "start": 34.74,
+        "end": 35.3
       },
       {
         "i": 93,
-        "word": "any",
-        "start": 32.42,
-        "end": 32.72
+        "word": "line",
+        "start": 35.3,
+        "end": 35.52
       },
       {
         "i": 94,
-        "word": "changed",
-        "start": 32.72,
-        "end": 33.12
-      },
-      {
-        "i": 95,
-        "word": "fonts",
-        "start": 33.12,
-        "end": 33.38
-      },
-      {
-        "i": 96,
-        "word": "or",
-        "start": 33.38,
-        "end": 33.64
-      },
-      {
-        "i": 97,
-        "word": "formatting",
-        "start": 33.64,
-        "end": 34.0
-      },
-      {
-        "i": 98,
-        "word": "before",
-        "start": 34.0,
-        "end": 34.4
-      },
-      {
-        "i": 99,
-        "word": "starting",
-        "start": 34.4,
-        "end": 34.78
-      },
-      {
-        "i": 100,
-        "word": "the",
-        "start": 34.78,
-        "end": 34.9
-      },
-      {
-        "i": 101,
-        "word": "e",
-        "start": 34.9,
-        "end": 35.04
-      },
-      {
-        "i": 102,
-        "word": "-book",
-        "start": 35.04,
-        "end": 35.14
-      },
-      {
-        "i": 103,
-        "word": "layout.",
-        "start": 35.14,
-        "end": 35.46
+        "word": "total.",
+        "start": 35.52,
+        "end": 35.9
       }
     ]
   },
   {
     "id": 9,
-    "text": "Keep the imported manuscript open in one tab.",
-    "start": 36.22,
-    "end": 38.52,
+    "text": "For a simple example, three editing sessions at fifty euros each produce a line total of one hundred and fifty euros.",
+    "start": 36.54,
+    "end": 42.8,
     "notes": [],
-    "match": 1.0,
-    "status": "ok",
+    "match": 0.762,
+    "status": "fuzzy",
     "word_range": [
-      104,
-      111
+      95,
+      112
     ],
     "words": [
       {
+        "i": 95,
+        "word": "For",
+        "start": 36.54,
+        "end": 36.66
+      },
+      {
+        "i": 96,
+        "word": "a",
+        "start": 36.66,
+        "end": 36.78
+      },
+      {
+        "i": 97,
+        "word": "simple",
+        "start": 36.78,
+        "end": 36.96
+      },
+      {
+        "i": 98,
+        "word": "example,",
+        "start": 36.96,
+        "end": 37.36
+      },
+      {
+        "i": 99,
+        "word": "three",
+        "start": 37.86,
+        "end": 38.02
+      },
+      {
+        "i": 100,
+        "word": "editing",
+        "start": 38.02,
+        "end": 38.32
+      },
+      {
+        "i": 101,
+        "word": "sessions",
+        "start": 38.32,
+        "end": 38.7
+      },
+      {
+        "i": 102,
+        "word": "at",
+        "start": 38.7,
+        "end": 38.96
+      },
+      {
+        "i": 103,
+        "word": "50",
+        "start": 38.96,
+        "end": 39.32
+      },
+      {
         "i": 104,
-        "word": "Keep",
-        "start": 36.22,
-        "end": 36.34
+        "word": "euros",
+        "start": 39.32,
+        "end": 39.52
       },
       {
         "i": 105,
-        "word": "the",
-        "start": 36.34,
-        "end": 36.5
+        "word": "each",
+        "start": 39.52,
+        "end": 39.9
       },
       {
         "i": 106,
-        "word": "imported",
-        "start": 36.5,
-        "end": 36.8
+        "word": "produce",
+        "start": 39.9,
+        "end": 40.34
       },
       {
         "i": 107,
-        "word": "manuscript",
-        "start": 36.8,
-        "end": 37.28
+        "word": "a",
+        "start": 40.34,
+        "end": 40.58
       },
       {
         "i": 108,
-        "word": "open",
-        "start": 37.28,
-        "end": 37.7
+        "word": "line",
+        "start": 40.58,
+        "end": 40.78
       },
       {
         "i": 109,
-        "word": "in",
-        "start": 37.7,
-        "end": 38.0
+        "word": "total",
+        "start": 40.78,
+        "end": 41.08
       },
       {
         "i": 110,
-        "word": "one",
-        "start": 38.0,
-        "end": 38.2
+        "word": "of",
+        "start": 41.08,
+        "end": 41.36
       },
       {
         "i": 111,
-        "word": "tab.",
-        "start": 38.2,
-        "end": 38.52
+        "word": "150",
+        "start": 41.36,
+        "end": 42.26
+      },
+      {
+        "i": 112,
+        "word": "euros.",
+        "start": 42.26,
+        "end": 42.8
       }
     ]
   },
   {
     "id": 10,
-    "text": "In another tab, search Canva for an e-book template and choose the page size and style you want.",
-    "start": 39.12,
-    "end": 44.22,
+    "text": "Check that the subtotal matches all line items.",
+    "start": 43.6,
+    "end": 46.3,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      112,
-      130
+      113,
+      120
     ],
     "words": [
       {
-        "i": 112,
-        "word": "In",
-        "start": 39.12,
-        "end": 39.24
-      },
-      {
         "i": 113,
-        "word": "another",
-        "start": 39.24,
-        "end": 39.46
+        "word": "Check",
+        "start": 43.6,
+        "end": 43.8
       },
       {
         "i": 114,
-        "word": "tab,",
-        "start": 39.46,
-        "end": 39.8
+        "word": "that",
+        "start": 43.8,
+        "end": 43.98
       },
       {
         "i": 115,
-        "word": "search",
-        "start": 40.08,
-        "end": 40.32
+        "word": "the",
+        "start": 43.98,
+        "end": 44.14
       },
       {
         "i": 116,
-        "word": "Canva",
-        "start": 40.32,
-        "end": 40.64
+        "word": "subtotal",
+        "start": 44.14,
+        "end": 44.62
       },
       {
         "i": 117,
-        "word": "for",
-        "start": 40.64,
-        "end": 40.84
+        "word": "matches",
+        "start": 44.62,
+        "end": 45.02
       },
       {
         "i": 118,
-        "word": "an",
-        "start": 40.84,
-        "end": 40.96
+        "word": "all",
+        "start": 45.02,
+        "end": 45.46
       },
       {
         "i": 119,
-        "word": "e",
-        "start": 40.96,
-        "end": 41.16
+        "word": "line",
+        "start": 45.46,
+        "end": 45.8
       },
       {
         "i": 120,
-        "word": "-book",
-        "start": 41.16,
-        "end": 41.32
-      },
-      {
-        "i": 121,
-        "word": "template",
-        "start": 41.32,
-        "end": 41.74
-      },
-      {
-        "i": 122,
-        "word": "and",
-        "start": 41.74,
-        "end": 42.04
-      },
-      {
-        "i": 123,
-        "word": "choose",
-        "start": 42.04,
-        "end": 42.28
-      },
-      {
-        "i": 124,
-        "word": "the",
-        "start": 42.28,
-        "end": 42.5
-      },
-      {
-        "i": 125,
-        "word": "page",
-        "start": 42.5,
-        "end": 42.74
-      },
-      {
-        "i": 126,
-        "word": "size",
-        "start": 42.74,
-        "end": 43.04
-      },
-      {
-        "i": 127,
-        "word": "and",
-        "start": 43.04,
-        "end": 43.38
-      },
-      {
-        "i": 128,
-        "word": "style",
-        "start": 43.38,
-        "end": 43.7
-      },
-      {
-        "i": 129,
-        "word": "you",
-        "start": 43.7,
-        "end": 43.94
-      },
-      {
-        "i": 130,
-        "word": "want.",
-        "start": 43.94,
-        "end": 44.22
+        "word": "items.",
+        "start": 45.8,
+        "end": 46.3
       }
     ]
   },
   {
     "id": 11,
-    "text": "Replace the cover title, author name and image.",
-    "start": 44.78,
-    "end": 47.52,
+    "text": "Add any applicable adjustments and the final amount due.",
+    "start": 46.92,
+    "end": 49.84,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      131,
-      138
+      121,
+      129
     ],
     "words": [
       {
-        "i": 131,
-        "word": "Replace",
-        "start": 44.78,
-        "end": 45.12
+        "i": 121,
+        "word": "Add",
+        "start": 46.92,
+        "end": 47.04
       },
       {
-        "i": 132,
-        "word": "the",
-        "start": 45.12,
-        "end": 45.32
+        "i": 122,
+        "word": "any",
+        "start": 47.04,
+        "end": 47.34
       },
       {
-        "i": 133,
-        "word": "cover",
-        "start": 45.32,
-        "end": 45.52
+        "i": 123,
+        "word": "applicable",
+        "start": 47.34,
+        "end": 47.76
       },
       {
-        "i": 134,
-        "word": "title,",
-        "start": 45.52,
-        "end": 45.94
+        "i": 124,
+        "word": "adjustments",
+        "start": 47.76,
+        "end": 48.26
       },
       {
-        "i": 135,
-        "word": "author",
-        "start": 46.34,
-        "end": 46.5
-      },
-      {
-        "i": 136,
-        "word": "name",
-        "start": 46.5,
-        "end": 46.82
-      },
-      {
-        "i": 137,
+        "i": 125,
         "word": "and",
-        "start": 46.82,
-        "end": 47.16
+        "start": 48.26,
+        "end": 48.76
       },
       {
-        "i": 138,
-        "word": "image.",
-        "start": 47.16,
-        "end": 47.52
+        "i": 126,
+        "word": "the",
+        "start": 48.76,
+        "end": 48.88
+      },
+      {
+        "i": 127,
+        "word": "final",
+        "start": 48.88,
+        "end": 49.22
+      },
+      {
+        "i": 128,
+        "word": "amount",
+        "start": 49.22,
+        "end": 49.48
+      },
+      {
+        "i": 129,
+        "word": "due.",
+        "start": 49.48,
+        "end": 49.84
       }
     ]
   },
   {
     "id": 12,
-    "text": "Then copy the first chapter heading and a manageable section of body text from the imported manuscript into the template's text boxes.",
-    "start": 48.16,
-    "end": 55.24,
+    "text": "Include the currency so the customer does not have to guess which currency the amounts use.",
+    "start": 50.76,
+    "end": 55.14,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      139,
-      160
+      130,
+      145
     ],
     "words": [
       {
+        "i": 130,
+        "word": "Include",
+        "start": 50.76,
+        "end": 51.1
+      },
+      {
+        "i": 131,
+        "word": "the",
+        "start": 51.1,
+        "end": 51.26
+      },
+      {
+        "i": 132,
+        "word": "currency",
+        "start": 51.26,
+        "end": 51.58
+      },
+      {
+        "i": 133,
+        "word": "so",
+        "start": 51.58,
+        "end": 51.82
+      },
+      {
+        "i": 134,
+        "word": "the",
+        "start": 51.82,
+        "end": 51.98
+      },
+      {
+        "i": 135,
+        "word": "customer",
+        "start": 51.98,
+        "end": 52.26
+      },
+      {
+        "i": 136,
+        "word": "does",
+        "start": 52.26,
+        "end": 52.48
+      },
+      {
+        "i": 137,
+        "word": "not",
+        "start": 52.48,
+        "end": 52.64
+      },
+      {
+        "i": 138,
+        "word": "have",
+        "start": 52.64,
+        "end": 52.82
+      },
+      {
         "i": 139,
-        "word": "Then",
-        "start": 48.16,
-        "end": 48.36
+        "word": "to",
+        "start": 52.82,
+        "end": 52.98
       },
       {
         "i": 140,
-        "word": "copy",
-        "start": 48.36,
-        "end": 48.62
+        "word": "guess",
+        "start": 52.98,
+        "end": 53.22
       },
       {
         "i": 141,
-        "word": "the",
-        "start": 48.62,
-        "end": 48.8
+        "word": "which",
+        "start": 53.22,
+        "end": 53.76
       },
       {
         "i": 142,
-        "word": "first",
-        "start": 48.8,
-        "end": 49.08
+        "word": "currency",
+        "start": 53.76,
+        "end": 54.2
       },
       {
         "i": 143,
-        "word": "chapter",
-        "start": 49.08,
-        "end": 49.46
+        "word": "the",
+        "start": 54.2,
+        "end": 54.42
       },
       {
         "i": 144,
-        "word": "heading",
-        "start": 49.46,
-        "end": 49.72
+        "word": "amounts",
+        "start": 54.42,
+        "end": 54.72
       },
       {
         "i": 145,
-        "word": "and",
-        "start": 49.72,
-        "end": 50.18
-      },
-      {
-        "i": 146,
-        "word": "a",
-        "start": 50.18,
-        "end": 50.28
-      },
-      {
-        "i": 147,
-        "word": "manageable",
-        "start": 50.28,
-        "end": 50.6
-      },
-      {
-        "i": 148,
-        "word": "section",
-        "start": 50.6,
-        "end": 51.02
-      },
-      {
-        "i": 149,
-        "word": "of",
-        "start": 51.02,
-        "end": 51.24
-      },
-      {
-        "i": 150,
-        "word": "body",
-        "start": 51.24,
-        "end": 51.44
-      },
-      {
-        "i": 151,
-        "word": "text",
-        "start": 51.44,
-        "end": 51.8
-      },
-      {
-        "i": 152,
-        "word": "from",
-        "start": 51.8,
-        "end": 52.22
-      },
-      {
-        "i": 153,
-        "word": "the",
-        "start": 52.22,
-        "end": 52.36
-      },
-      {
-        "i": 154,
-        "word": "imported",
-        "start": 52.36,
-        "end": 52.76
-      },
-      {
-        "i": 155,
-        "word": "manuscript",
-        "start": 52.76,
-        "end": 53.32
-      },
-      {
-        "i": 156,
-        "word": "into",
-        "start": 53.32,
-        "end": 53.84
-      },
-      {
-        "i": 157,
-        "word": "the",
-        "start": 53.84,
-        "end": 54.08
-      },
-      {
-        "i": 158,
-        "word": "template's",
-        "start": 54.08,
-        "end": 54.62
-      },
-      {
-        "i": 159,
-        "word": "text",
-        "start": 54.62,
-        "end": 54.82
-      },
-      {
-        "i": 160,
-        "word": "boxes.",
-        "start": 54.82,
-        "end": 55.24
+        "word": "use.",
+        "start": 54.72,
+        "end": 55.14
       }
     ]
   },
   {
     "id": 13,
-    "text": "Use consistent font sizes, line spacing and margins.",
-    "start": 55.64,
-    "end": 59.42,
+    "text": "In the payment section, enter the agreed payment method and the reference the customer should include.",
+    "start": 55.14,
+    "end": 60.66,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      161,
-      168
+      146,
+      161
     ],
     "words": [
       {
-        "i": 161,
-        "word": "Use",
-        "start": 55.64,
+        "i": 146,
+        "word": "In",
+        "start": 55.14,
         "end": 55.96
       },
       {
-        "i": 162,
-        "word": "consistent",
+        "i": 147,
+        "word": "the",
         "start": 55.96,
-        "end": 56.54
+        "end": 56.08
       },
       {
-        "i": 163,
-        "word": "font",
-        "start": 56.54,
-        "end": 56.82
+        "i": 148,
+        "word": "payment",
+        "start": 56.08,
+        "end": 56.32
       },
       {
-        "i": 164,
-        "word": "sizes,",
-        "start": 56.82,
-        "end": 57.24
+        "i": 149,
+        "word": "section,",
+        "start": 56.32,
+        "end": 56.8
       },
       {
-        "i": 165,
-        "word": "line",
-        "start": 57.86,
-        "end": 57.92
+        "i": 150,
+        "word": "enter",
+        "start": 57.2,
+        "end": 57.34
       },
       {
-        "i": 166,
-        "word": "spacing",
-        "start": 57.92,
-        "end": 58.4
+        "i": 151,
+        "word": "the",
+        "start": 57.34,
+        "end": 57.54
       },
       {
-        "i": 167,
+        "i": 152,
+        "word": "agreed",
+        "start": 57.54,
+        "end": 57.9
+      },
+      {
+        "i": 153,
+        "word": "payment",
+        "start": 57.9,
+        "end": 58.26
+      },
+      {
+        "i": 154,
+        "word": "method",
+        "start": 58.26,
+        "end": 58.64
+      },
+      {
+        "i": 155,
         "word": "and",
-        "start": 58.4,
-        "end": 58.9
+        "start": 58.64,
+        "end": 58.98
       },
       {
-        "i": 168,
-        "word": "margins.",
-        "start": 58.9,
-        "end": 59.42
+        "i": 156,
+        "word": "the",
+        "start": 58.98,
+        "end": 59.12
+      },
+      {
+        "i": 157,
+        "word": "reference",
+        "start": 59.12,
+        "end": 59.48
+      },
+      {
+        "i": 158,
+        "word": "the",
+        "start": 59.48,
+        "end": 59.72
+      },
+      {
+        "i": 159,
+        "word": "customer",
+        "start": 59.72,
+        "end": 60.02
+      },
+      {
+        "i": 160,
+        "word": "should",
+        "start": 60.02,
+        "end": 60.24
+      },
+      {
+        "i": 161,
+        "word": "include.",
+        "start": 60.24,
+        "end": 60.66
       }
     ]
   },
   {
     "id": 14,
-    "text": "Duplicate a body page to continue the chapter, replacing the text as you go.",
-    "start": 60.18,
-    "end": 63.84,
+    "text": "Here’s the important detail: a standard Canva invoice design is a layout, so do not assume the totals recalculate when you change a quantity or price.",
+    "start": 61.36,
+    "end": 70.7,
     "notes": [],
-    "match": 1.0,
+    "match": 0.963,
     "status": "ok",
     "word_range": [
-      169,
-      182
+      162,
+      187
     ],
     "words": [
       {
+        "i": 162,
+        "word": "Here's",
+        "start": 61.36,
+        "end": 61.54
+      },
+      {
+        "i": 163,
+        "word": "the",
+        "start": 61.54,
+        "end": 61.64
+      },
+      {
+        "i": 164,
+        "word": "important",
+        "start": 61.64,
+        "end": 61.96
+      },
+      {
+        "i": 165,
+        "word": "detail.",
+        "start": 61.96,
+        "end": 62.42
+      },
+      {
+        "i": 166,
+        "word": "A",
+        "start": 63.02,
+        "end": 63.04
+      },
+      {
+        "i": 167,
+        "word": "standard",
+        "start": 63.04,
+        "end": 63.56
+      },
+      {
+        "i": 168,
+        "word": "Canva",
+        "start": 63.56,
+        "end": 64.08
+      },
+      {
         "i": 169,
-        "word": "Duplicate",
-        "start": 60.18,
-        "end": 60.46
+        "word": "invoice",
+        "start": 64.08,
+        "end": 64.52
       },
       {
         "i": 170,
-        "word": "a",
-        "start": 60.46,
-        "end": 60.66
+        "word": "design",
+        "start": 64.52,
+        "end": 64.96
       },
       {
         "i": 171,
-        "word": "body",
-        "start": 60.66,
-        "end": 60.8
+        "word": "is",
+        "start": 64.96,
+        "end": 65.3
       },
       {
         "i": 172,
-        "word": "page",
-        "start": 60.8,
-        "end": 61.08
+        "word": "a",
+        "start": 65.3,
+        "end": 65.48
       },
       {
         "i": 173,
-        "word": "to",
-        "start": 61.08,
-        "end": 61.3
+        "word": "layout,",
+        "start": 65.48,
+        "end": 65.82
       },
       {
         "i": 174,
-        "word": "continue",
-        "start": 61.3,
-        "end": 61.62
+        "word": "so",
+        "start": 66.28,
+        "end": 66.48
       },
       {
         "i": 175,
-        "word": "the",
-        "start": 61.62,
-        "end": 61.78
+        "word": "do",
+        "start": 66.48,
+        "end": 66.6
       },
       {
         "i": 176,
-        "word": "chapter,",
-        "start": 61.78,
-        "end": 62.18
+        "word": "not",
+        "start": 66.6,
+        "end": 66.76
       },
       {
         "i": 177,
-        "word": "replacing",
-        "start": 62.54,
-        "end": 62.8
+        "word": "assume",
+        "start": 66.76,
+        "end": 67.08
       },
       {
         "i": 178,
         "word": "the",
-        "start": 62.8,
-        "end": 63.08
+        "start": 67.08,
+        "end": 67.28
       },
       {
         "i": 179,
-        "word": "text",
-        "start": 63.08,
-        "end": 63.32
+        "word": "totals",
+        "start": 67.28,
+        "end": 67.62
       },
       {
         "i": 180,
-        "word": "as",
-        "start": 63.32,
-        "end": 63.5
+        "word": "recalculate",
+        "start": 67.62,
+        "end": 68.58
       },
       {
         "i": 181,
-        "word": "you",
-        "start": 63.5,
-        "end": 63.62
+        "word": "when",
+        "start": 68.58,
+        "end": 68.9
       },
       {
         "i": 182,
-        "word": "go.",
-        "start": 63.62,
-        "end": 63.84
+        "word": "you",
+        "start": 68.9,
+        "end": 69.06
+      },
+      {
+        "i": 183,
+        "word": "change",
+        "start": 69.06,
+        "end": 69.34
+      },
+      {
+        "i": 184,
+        "word": "a",
+        "start": 69.34,
+        "end": 69.5
+      },
+      {
+        "i": 185,
+        "word": "quantity",
+        "start": 69.5,
+        "end": 69.88
+      },
+      {
+        "i": 186,
+        "word": "or",
+        "start": 69.88,
+        "end": 70.34
+      },
+      {
+        "i": 187,
+        "word": "price.",
+        "start": 70.34,
+        "end": 70.7
       }
     ]
   },
   {
     "id": 15,
-    "text": "Add chapter opening pages, images and page numbers where needed.",
-    "start": 64.58,
-    "end": 68.0,
+    "text": "Verify the arithmetic separately.",
+    "start": 71.78,
+    "end": 73.0,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      183,
-      192
+      188,
+      191
     ],
     "words": [
       {
-        "i": 183,
-        "word": "Add",
-        "start": 64.58,
-        "end": 64.74
-      },
-      {
-        "i": 184,
-        "word": "chapter",
-        "start": 64.74,
-        "end": 65.08
-      },
-      {
-        "i": 185,
-        "word": "opening",
-        "start": 65.08,
-        "end": 65.34
-      },
-      {
-        "i": 186,
-        "word": "pages,",
-        "start": 65.34,
-        "end": 65.8
-      },
-      {
-        "i": 187,
-        "word": "images",
-        "start": 66.22,
-        "end": 66.46
-      },
-      {
         "i": 188,
-        "word": "and",
-        "start": 66.46,
-        "end": 66.84
+        "word": "Verify",
+        "start": 71.78,
+        "end": 71.78
       },
       {
         "i": 189,
-        "word": "page",
-        "start": 66.84,
-        "end": 67.08
+        "word": "the",
+        "start": 71.78,
+        "end": 71.98
       },
       {
         "i": 190,
-        "word": "numbers",
-        "start": 67.08,
-        "end": 67.32
+        "word": "arithmetic",
+        "start": 71.98,
+        "end": 72.36
       },
       {
         "i": 191,
-        "word": "where",
-        "start": 67.32,
-        "end": 67.62
-      },
-      {
-        "i": 192,
-        "word": "needed.",
-        "start": 67.62,
-        "end": 68.0
+        "word": "separately.",
+        "start": 72.36,
+        "end": 73.0
       }
     ]
   },
   {
     "id": 16,
-    "text": "Here's the part many tutorials skip.",
-    "start": 68.94,
-    "end": 70.78,
+    "text": "Remove unused rows and every piece of placeholder information.",
+    "start": 74.0,
+    "end": 77.12,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      193,
-      198
+      192,
+      200
     ],
     "words": [
       {
+        "i": 192,
+        "word": "Remove",
+        "start": 74.0,
+        "end": 74.0
+      },
+      {
         "i": 193,
-        "word": "Here's",
-        "start": 68.94,
-        "end": 69.16
+        "word": "unused",
+        "start": 74.0,
+        "end": 74.52
       },
       {
         "i": 194,
-        "word": "the",
-        "start": 69.16,
-        "end": 69.28
+        "word": "rows",
+        "start": 74.52,
+        "end": 74.82
       },
       {
         "i": 195,
-        "word": "part",
-        "start": 69.28,
-        "end": 69.44
+        "word": "and",
+        "start": 74.82,
+        "end": 75.14
       },
       {
         "i": 196,
-        "word": "many",
-        "start": 69.44,
-        "end": 69.8
+        "word": "every",
+        "start": 75.14,
+        "end": 75.54
       },
       {
         "i": 197,
-        "word": "tutorials",
-        "start": 69.8,
-        "end": 70.36
+        "word": "piece",
+        "start": 75.54,
+        "end": 75.78
       },
       {
         "i": 198,
-        "word": "skip.",
-        "start": 70.36,
-        "end": 70.78
+        "word": "of",
+        "start": 75.78,
+        "end": 76.42
+      },
+      {
+        "i": 199,
+        "word": "placeholder",
+        "start": 76.42,
+        "end": 76.42
+      },
+      {
+        "i": 200,
+        "word": "information.",
+        "start": 76.42,
+        "end": 77.12
       }
     ]
   },
   {
     "id": 17,
-    "text": "Importing Word does not automatically typeset the entire manuscript into an e-book template.",
-    "start": 71.82,
-    "end": 77.06,
+    "text": "Check that the invoice contains the business and tax details required for your situation.",
+    "start": 77.78,
+    "end": 82.44,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      199,
-      212
+      201,
+      214
     ],
     "words": [
       {
-        "i": 199,
-        "word": "Importing",
-        "start": 71.82,
-        "end": 72.34
-      },
-      {
-        "i": 200,
-        "word": "Word",
-        "start": 72.34,
-        "end": 72.52
-      },
-      {
         "i": 201,
-        "word": "does",
-        "start": 72.52,
-        "end": 72.98
+        "word": "Check",
+        "start": 77.78,
+        "end": 78.04
       },
       {
         "i": 202,
-        "word": "not",
-        "start": 72.98,
-        "end": 73.32
+        "word": "that",
+        "start": 78.04,
+        "end": 78.24
       },
       {
         "i": 203,
-        "word": "automatically",
-        "start": 73.32,
-        "end": 73.92
+        "word": "the",
+        "start": 78.24,
+        "end": 78.34
       },
       {
         "i": 204,
-        "word": "typeset",
-        "start": 73.92,
-        "end": 74.52
+        "word": "invoice",
+        "start": 78.34,
+        "end": 78.76
       },
       {
         "i": 205,
-        "word": "the",
-        "start": 74.52,
-        "end": 74.7
+        "word": "contains",
+        "start": 78.76,
+        "end": 79.16
       },
       {
         "i": 206,
-        "word": "entire",
-        "start": 74.7,
-        "end": 75.16
+        "word": "the",
+        "start": 79.16,
+        "end": 79.4
       },
       {
         "i": 207,
-        "word": "manuscript",
-        "start": 75.16,
-        "end": 75.7
+        "word": "business",
+        "start": 79.4,
+        "end": 79.7
       },
       {
         "i": 208,
-        "word": "into",
-        "start": 75.7,
-        "end": 76.06
+        "word": "and",
+        "start": 79.7,
+        "end": 79.98
       },
       {
         "i": 209,
-        "word": "an",
-        "start": 76.06,
-        "end": 76.26
+        "word": "tax",
+        "start": 79.98,
+        "end": 80.26
       },
       {
         "i": 210,
-        "word": "e",
-        "start": 76.26,
-        "end": 76.46
+        "word": "details",
+        "start": 80.26,
+        "end": 80.76
       },
       {
         "i": 211,
-        "word": "-book",
-        "start": 76.46,
-        "end": 76.6
+        "word": "required",
+        "start": 80.76,
+        "end": 81.4
       },
       {
         "i": 212,
-        "word": "template.",
-        "start": 76.6,
-        "end": 77.06
+        "word": "for",
+        "start": 81.4,
+        "end": 81.66
+      },
+      {
+        "i": 213,
+        "word": "your",
+        "start": 81.66,
+        "end": 81.82
+      },
+      {
+        "i": 214,
+        "word": "situation.",
+        "start": 81.82,
+        "end": 82.44
       }
     ]
   },
   {
     "id": 18,
-    "text": "In a normal Canva page design, long paragraphs do not automatically flow through every following page.",
-    "start": 77.76,
-    "end": 83.06,
+    "text": "Choose Share, Download, and PDF with the Digital preset for an emailed copy.",
+    "start": 82.44,
+    "end": 87.9,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      213,
-      228
+      215,
+      227
     ],
     "words": [
       {
-        "i": 213,
-        "word": "In",
-        "start": 77.76,
-        "end": 77.92
-      },
-      {
-        "i": 214,
-        "word": "a",
-        "start": 77.92,
-        "end": 78.04
-      },
-      {
         "i": 215,
-        "word": "normal",
-        "start": 78.04,
-        "end": 78.28
+        "word": "Choose",
+        "start": 82.44,
+        "end": 83.42
       },
       {
         "i": 216,
-        "word": "Canva",
-        "start": 78.28,
-        "end": 78.58
+        "word": "Share,",
+        "start": 83.42,
+        "end": 83.82
       },
       {
         "i": 217,
-        "word": "page",
-        "start": 78.58,
-        "end": 78.8
+        "word": "Download",
+        "start": 84.34,
+        "end": 84.6
       },
       {
         "i": 218,
-        "word": "design,",
-        "start": 78.8,
-        "end": 79.22
+        "word": "and",
+        "start": 84.6,
+        "end": 85.06
       },
       {
         "i": 219,
-        "word": "long",
-        "start": 79.54,
-        "end": 79.76
+        "word": "PDF",
+        "start": 85.06,
+        "end": 85.5
       },
       {
         "i": 220,
-        "word": "paragraphs",
-        "start": 79.76,
-        "end": 80.26
+        "word": "with",
+        "start": 85.5,
+        "end": 85.86
       },
       {
         "i": 221,
-        "word": "do",
-        "start": 80.26,
-        "end": 80.5
+        "word": "the",
+        "start": 85.86,
+        "end": 86.02
       },
       {
         "i": 222,
-        "word": "not",
-        "start": 80.5,
-        "end": 80.68
+        "word": "digital",
+        "start": 86.02,
+        "end": 86.38
       },
       {
         "i": 223,
-        "word": "automatically",
-        "start": 80.68,
-        "end": 81.2
+        "word": "preset",
+        "start": 86.38,
+        "end": 86.8
       },
       {
         "i": 224,
-        "word": "flow",
-        "start": 81.2,
-        "end": 81.58
+        "word": "for",
+        "start": 86.8,
+        "end": 87.08
       },
       {
         "i": 225,
-        "word": "through",
-        "start": 81.58,
-        "end": 81.84
+        "word": "an",
+        "start": 87.08,
+        "end": 87.2
       },
       {
         "i": 226,
-        "word": "every",
-        "start": 81.84,
-        "end": 82.2
+        "word": "emailed",
+        "start": 87.2,
+        "end": 87.48
       },
       {
         "i": 227,
-        "word": "following",
-        "start": 82.2,
-        "end": 82.52
-      },
-      {
-        "i": 228,
-        "word": "page.",
-        "start": 82.52,
-        "end": 83.06
+        "word": "copy.",
+        "start": 87.48,
+        "end": 87.9
       }
     ]
   },
   {
     "id": 19,
-    "text": "Divide the text deliberately and check for missing or duplicated paragraphs.",
-    "start": 83.06,
-    "end": 87.24,
+    "text": "Open the PDF and proofread it before sending.",
+    "start": 88.58,
+    "end": 91.02,
     "notes": [],
     "match": 1.0,
     "status": "ok",
     "word_range": [
-      229,
-      239
+      228,
+      235
     ],
     "words": [
       {
+        "i": 228,
+        "word": "Open",
+        "start": 88.58,
+        "end": 88.84
+      },
+      {
         "i": 229,
-        "word": "Divide",
-        "start": 83.06,
-        "end": 83.86
+        "word": "the",
+        "start": 88.84,
+        "end": 89.02
       },
       {
         "i": 230,
-        "word": "the",
-        "start": 83.86,
-        "end": 84.04
+        "word": "PDF",
+        "start": 89.02,
+        "end": 89.32
       },
       {
         "i": 231,
-        "word": "text",
-        "start": 84.04,
-        "end": 84.26
+        "word": "and",
+        "start": 89.32,
+        "end": 89.74
       },
       {
         "i": 232,
-        "word": "deliberately",
-        "start": 84.26,
-        "end": 84.68
+        "word": "proofread",
+        "start": 89.74,
+        "end": 90.22
       },
       {
         "i": 233,
-        "word": "and",
-        "start": 84.68,
-        "end": 85.12
+        "word": "it",
+        "start": 90.22,
+        "end": 90.38
       },
       {
         "i": 234,
-        "word": "check",
-        "start": 85.12,
-        "end": 85.3
+        "word": "before",
+        "start": 90.38,
+        "end": 90.68
       },
       {
         "i": 235,
-        "word": "for",
-        "start": 85.3,
-        "end": 85.52
-      },
-      {
-        "i": 236,
-        "word": "missing",
-        "start": 85.52,
-        "end": 85.8
-      },
-      {
-        "i": 237,
-        "word": "or",
-        "start": 85.8,
-        "end": 86.1
-      },
-      {
-        "i": 238,
-        "word": "duplicated",
-        "start": 86.1,
-        "end": 86.7
-      },
-      {
-        "i": 239,
-        "word": "paragraphs.",
-        "start": 86.7,
-        "end": 87.24
+        "word": "sending.",
+        "start": 90.68,
+        "end": 91.02
       }
     ]
   },
   {
     "id": 20,
-    "text": "When the book is finished, download PDF standard for a digital reading copy or use the printer's required PDF settings for a printed version.",
-    "start": 88.14,
-    "end": 95.6,
+    "text": "Keep an editable master template, then duplicate it for the next invoice instead of overwriting the previous customer’s record.",
+    "start": 91.74,
+    "end": 97.84,
     "notes": [],
-    "match": 1.0,
+    "match": 0.95,
     "status": "ok",
     "word_range": [
-      240,
-      263
+      236,
+      254
     ],
     "words": [
       {
+        "i": 236,
+        "word": "Keep",
+        "start": 91.74,
+        "end": 91.92
+      },
+      {
+        "i": 237,
+        "word": "an",
+        "start": 91.92,
+        "end": 92.1
+      },
+      {
+        "i": 238,
+        "word": "editable",
+        "start": 92.1,
+        "end": 92.54
+      },
+      {
+        "i": 239,
+        "word": "master",
+        "start": 92.54,
+        "end": 92.8
+      },
+      {
         "i": 240,
-        "word": "When",
-        "start": 88.14,
-        "end": 88.22
+        "word": "template,",
+        "start": 92.8,
+        "end": 93.28
       },
       {
         "i": 241,
-        "word": "the",
-        "start": 88.22,
-        "end": 88.34
+        "word": "then",
+        "start": 93.6,
+        "end": 93.68
       },
       {
         "i": 242,
-        "word": "book",
-        "start": 88.34,
-        "end": 88.46
+        "word": "duplicate",
+        "start": 93.68,
+        "end": 93.98
       },
       {
         "i": 243,
-        "word": "is",
-        "start": 88.46,
-        "end": 88.62
-      },
-      {
-        "i": 244,
-        "word": "finished,",
-        "start": 88.62,
-        "end": 88.96
-      },
-      {
-        "i": 245,
-        "word": "download",
-        "start": 89.22,
-        "end": 89.48
-      },
-      {
-        "i": 246,
-        "word": "PDF",
-        "start": 89.48,
-        "end": 89.96
-      },
-      {
-        "i": 247,
-        "word": "standard",
-        "start": 89.96,
-        "end": 90.36
-      },
-      {
-        "i": 248,
-        "word": "for",
-        "start": 90.36,
-        "end": 90.66
-      },
-      {
-        "i": 249,
-        "word": "a",
-        "start": 90.66,
-        "end": 90.78
-      },
-      {
-        "i": 250,
-        "word": "digital",
-        "start": 90.78,
-        "end": 91.04
-      },
-      {
-        "i": 251,
-        "word": "reading",
-        "start": 91.04,
-        "end": 91.34
-      },
-      {
-        "i": 252,
-        "word": "copy",
-        "start": 91.34,
-        "end": 91.74
-      },
-      {
-        "i": 253,
-        "word": "or",
-        "start": 91.74,
-        "end": 92.32
-      },
-      {
-        "i": 254,
-        "word": "use",
-        "start": 92.32,
-        "end": 92.52
-      },
-      {
-        "i": 255,
-        "word": "the",
-        "start": 92.52,
-        "end": 92.68
-      },
-      {
-        "i": 256,
-        "word": "printer's",
-        "start": 92.68,
-        "end": 93.06
-      },
-      {
-        "i": 257,
-        "word": "required",
-        "start": 93.06,
-        "end": 93.4
-      },
-      {
-        "i": 258,
-        "word": "PDF",
-        "start": 93.4,
-        "end": 93.88
-      },
-      {
-        "i": 259,
-        "word": "settings",
-        "start": 93.88,
+        "word": "it",
+        "start": 93.98,
         "end": 94.34
       },
       {
-        "i": 260,
+        "i": 244,
         "word": "for",
         "start": 94.34,
-        "end": 94.8
+        "end": 94.48
       },
       {
-        "i": 261,
-        "word": "a",
-        "start": 94.8,
-        "end": 94.9
-      },
-      {
-        "i": 262,
-        "word": "printed",
-        "start": 94.9,
-        "end": 95.12
-      },
-      {
-        "i": 263,
-        "word": "version.",
-        "start": 95.12,
-        "end": 95.6
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "text": "Open the exported PDF and inspect every page.",
-    "start": 96.4,
-    "end": 99.4,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      264,
-      271
-    ],
-    "words": [
-      {
-        "i": 264,
-        "word": "Open",
-        "start": 96.4,
-        "end": 96.66
-      },
-      {
-        "i": 265,
+        "i": 245,
         "word": "the",
-        "start": 96.66,
-        "end": 96.8
+        "start": 94.48,
+        "end": 94.58
       },
       {
-        "i": 266,
-        "word": "exported",
-        "start": 96.8,
-        "end": 97.24
+        "i": 246,
+        "word": "next",
+        "start": 94.58,
+        "end": 94.82
       },
       {
-        "i": 267,
-        "word": "PDF",
-        "start": 97.24,
-        "end": 97.72
+        "i": 247,
+        "word": "invoice",
+        "start": 94.82,
+        "end": 95.2
       },
       {
-        "i": 268,
-        "word": "and",
-        "start": 97.72,
-        "end": 98.12
+        "i": 248,
+        "word": "instead",
+        "start": 95.2,
+        "end": 95.64
       },
       {
-        "i": 269,
-        "word": "inspect",
-        "start": 98.12,
-        "end": 98.52
+        "i": 249,
+        "word": "of",
+        "start": 95.64,
+        "end": 95.82
       },
       {
-        "i": 270,
-        "word": "every",
-        "start": 98.52,
-        "end": 99.02
+        "i": 250,
+        "word": "overwriting",
+        "start": 95.82,
+        "end": 96.54
       },
       {
-        "i": 271,
-        "word": "page.",
-        "start": 99.02,
-        "end": 99.4
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "text": "This workflow produces a fixed layout PDF e-book, so check readability at the size your readers will actually use.",
-    "start": 99.68,
-    "end": 105.58,
-    "notes": [],
-    "match": 1.0,
-    "status": "ok",
-    "word_range": [
-      272,
-      291
-    ],
-    "words": [
-      {
-        "i": 272,
-        "word": "This",
-        "start": 99.68,
-        "end": 99.78
-      },
-      {
-        "i": 273,
-        "word": "workflow",
-        "start": 99.78,
-        "end": 100.2
-      },
-      {
-        "i": 274,
-        "word": "produces",
-        "start": 100.2,
-        "end": 100.64
-      },
-      {
-        "i": 275,
-        "word": "a",
-        "start": 100.64,
-        "end": 100.88
-      },
-      {
-        "i": 276,
-        "word": "fixed",
-        "start": 100.88,
-        "end": 101.12
-      },
-      {
-        "i": 277,
-        "word": "layout",
-        "start": 101.12,
-        "end": 101.46
-      },
-      {
-        "i": 278,
-        "word": "PDF",
-        "start": 101.46,
-        "end": 101.92
-      },
-      {
-        "i": 279,
-        "word": "e",
-        "start": 101.92,
-        "end": 102.14
-      },
-      {
-        "i": 280,
-        "word": "-book,",
-        "start": 102.14,
-        "end": 102.32
-      },
-      {
-        "i": 281,
-        "word": "so",
-        "start": 102.68,
-        "end": 102.72
-      },
-      {
-        "i": 282,
-        "word": "check",
-        "start": 102.72,
-        "end": 103.02
-      },
-      {
-        "i": 283,
-        "word": "readability",
-        "start": 103.02,
-        "end": 103.56
-      },
-      {
-        "i": 284,
-        "word": "at",
-        "start": 103.56,
-        "end": 103.88
-      },
-      {
-        "i": 285,
+        "i": 251,
         "word": "the",
-        "start": 103.88,
-        "end": 104.02
+        "start": 96.54,
+        "end": 96.7
       },
       {
-        "i": 286,
-        "word": "size",
-        "start": 104.02,
-        "end": 104.26
+        "i": 252,
+        "word": "previous",
+        "start": 96.7,
+        "end": 97.08
       },
       {
-        "i": 287,
-        "word": "your",
-        "start": 104.26,
-        "end": 104.46
+        "i": 253,
+        "word": "customer's",
+        "start": 97.08,
+        "end": 97.58
       },
       {
-        "i": 288,
-        "word": "readers",
-        "start": 104.46,
-        "end": 104.72
-      },
-      {
-        "i": 289,
-        "word": "will",
-        "start": 104.72,
-        "end": 104.9
-      },
-      {
-        "i": 290,
-        "word": "actually",
-        "start": 104.9,
-        "end": 105.16
-      },
-      {
-        "i": 291,
-        "word": "use.",
-        "start": 105.16,
-        "end": 105.58
+        "i": 254,
+        "word": "record.",
+        "start": 97.58,
+        "end": 97.84
       }
     ]
   }
