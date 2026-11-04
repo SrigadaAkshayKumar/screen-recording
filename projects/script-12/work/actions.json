@@ -1,0 +1,11 @@
+{"recording":{"width":3420,"height":1922,"fps":30,"duration":136.467},
+ "sync":{"clicks_offset":0,"source":"frames"},
+ "actions":[
+ {"id":"A1","t_click":22.5,"x":2700,"y":300,"kind":"click","target":"Create new design (512x512)","result":"editor opens","t_result_visible":25.5,"confidence":"medium"},
+ {"id":"A2","t_click":37.4,"x":1000,"y":900,"kind":"click","target":"sticker result","result":"sticker placed on the page","t_result_visible":37.6,"confidence":"medium"},
+ {"id":"A3","t_click":76.9,"x":3000,"y":300,"kind":"click","target":"Share","result":"share panel opens","t_result_visible":77.2,"confidence":"medium"},
+ {"id":"A4","t_click":80.0,"x":2500,"y":700,"kind":"click","target":"Download","result":"download panel (PNG)","t_result_visible":80.4,"confidence":"medium"},
+ {"id":"A5","t_click":89.2,"x":2800,"y":800,"kind":"click","target":"Transparent background toggle","result":"toggle on","t_result_visible":89.3,"confidence":"medium"},
+ {"id":"A6","t_click":92.8,"x":2800,"y":1100,"kind":"click","target":"Download button","result":"file downloads","t_result_visible":94.4,"confidence":"medium"},
+ {"id":"A7","t_click":115.6,"x":2800,"y":800,"kind":"click","target":"Publish","result":"site published","t_result_visible":120.9,"confidence":"medium"}
+ ]}

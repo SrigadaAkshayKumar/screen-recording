@@ -1,5 +1,6 @@
 # Analyze notes (script-12)
-No actions.json was written: the recording has baked-in recorder zoom and no click log, so a hand plan
-built from freezedetect moving windows was used (project recipe in docs/lessons.md).
-- Source 0-8.4 s static pink jacket; 8.4-28 s Canva home / new design / uploading the jacket (setup, not narrated): unused.
-- Source 33-38 Edit + Adjust panels, 42 colour swatch, 46-52 hue, 54-60 saturation/brightness, 63-77 texture sliders, 88-94 Area tool, 104-108 dark jacket, 114-123 share/download.
+Take: 136.5 s, 3420x1922, baked recorder zoom (no plan zooms). It is a Canva *sticker* take ("Sparkles"), not a favicon take:
+0-11.4 static published cat site; 12-23 Canva home -> Create a design -> Custom size 512x512; 25-31 editor loads; 32-38 Elements search "sticker";
+38-41 sticker placed/resized; 44-54 text "Sparkles" typed/rotated; 59-73 zoom in/out; 76-95 Share > Download > PNG > Transparent > Download;
+98-104 PNG in Preview; 105-120 Share > More ways to publish > Website > Publish; 121-123 published toast; 124-136 published site in browser.
+No favicon, Site tab or Settings footage exists. work/actions.json holds coarse landmarks only (hand plan).
